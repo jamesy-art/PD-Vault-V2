@@ -1,0 +1,43 @@
+---
+applied: "9/14/2024 17:21:15"
+email: "Dilindesigns@hotmail.com"
+first_name: "Karen"
+last_name: "Prince"
+country: "United Kingdom"
+can_use: "Yes"
+instagram: "https://instagram.com/Karenprince69"
+website: "https://dilindesigns.wixsite.com/mysite"
+accepted: "07/11/2024"
+level: "level_2"
+instagram_handle: "Karenprince69"
+bio: ""
+asset_folder: "wiki/assets/designers/Karenprince69"
+tags:
+  - pattern_designer
+  - level_2
+---
+
+# Karenprince69
+
+## Profile Image
+
+## Instagram Images
+
+## Website Images
+
+
+## Overview
+
+## Style and Aesthetic
+
+## Techniques and Tools
+
+## Markets and Clients
+
+## Portfolio and Presence
+
+## Career Path
+
+## Pattern Focus
+
+## Connections
