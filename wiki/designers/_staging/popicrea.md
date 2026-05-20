@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 18:38:46"
-email: "maflorenciacaino@outlook.com"
-first_name: "Florencia"
-last_name: "Caino"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/popicrea"
-website: "https://Popicrea.com / Behance: Florencia Caino"
-accepted: "12/06/25"
-level: "level_0"
-instagram_handle: "popicrea"
-bio: ""
-asset_folder: "wiki/assets/designers/popicrea"
+applied: '6/9/2025 18:38:46'
+email: maflorenciacaino@outlook.com
+name: Florencia Caino
+slug: popicrea
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: popicrea
+instagram: 'https://instagram.com/popicrea'
+bio: ''
+website: 'https://Popicrea.com / Behance: Florencia Caino'
+website_about: ''
+accepted: 12/06/25
+level: level_0
+asset_folder: wiki/assets/designers/popicrea
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # popicrea

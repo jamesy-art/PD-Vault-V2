@@ -1,23 +1,54 @@
 ---
-applied: "9/20/2025 12:29:44"
-email: "texstylemuseofficial@gmail.com"
-first_name: "Mahnoor"
-last_name: "Javed"
-country: "Pakistan"
-can_use: "Yes"
-instagram: "https://instagram.com/Texstyle Muse"
-website: "https://linktr.ee/TexstyleMusebyNoor"
-accepted: ""
-level: "level_0"
-instagram_handle: "Texstyle Muse"
-bio: ""
-asset_folder: "wiki/assets/designers/Texstyle-Muse"
+applied: '9/20/2025 12:29:44'
+email: texstylemuseofficial@gmail.com
+name: Mahnoor Javed
+slug: texstyle-muse
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Pakistan
+can_use: 'Yes'
+instagram_handle: Texstyle Muse
+instagram: 'https://instagram.com/Texstyle Muse'
+bio: ''
+website: 'https://linktr.ee/TexstyleMusebyNoor'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/texstyle-muse
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Texstyle Muse
+# texstyle-muse
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 9:37:44"
-email: "riina@riinaheinonen.fi"
-first_name: "Riina"
-last_name: "Heinonen"
-country: "Finland"
-can_use: "Yes"
-instagram: "https://instagram.com/riinaheinone"
-website: "https://riinaheinonen.com/in-english"
-accepted: "14/06/25"
-level: "level_2"
-instagram_handle: "riinaheinone"
-bio: ""
-asset_folder: "wiki/assets/designers/riinaheinone"
+applied: '6/10/2025 9:37:44'
+email: riina@riinaheinonen.fi
+name: Riina Heinonen
+slug: riinaheinone
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Finland
+can_use: 'Yes'
+instagram_handle: riinaheinone
+instagram: 'https://instagram.com/riinaheinone'
+bio: ''
+website: 'https://riinaheinonen.com/in-english'
+website_about: ''
+accepted: 14/06/25
+level: level_2
+asset_folder: wiki/assets/designers/riinaheinone
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # riinaheinone

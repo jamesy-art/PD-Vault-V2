@@ -1,23 +1,54 @@
 ---
-applied: "9/13/2024 17:48:00"
-email: "artbygirija@gmail.com"
-first_name: "Girija"
-last_name: "Kulkarni"
-country: "Australia"
-can_use: "Yes"
-instagram: "https://instagram.com/Artbygirija"
-website: "https://behance.net/girijakulkarni1"
-accepted: ""
-level: "level_0"
-instagram_handle: "Artbygirija"
-bio: ""
-asset_folder: "wiki/assets/designers/Artbygirija"
+applied: '9/13/2024 17:48:00'
+email: artbygirija@gmail.com
+name: Girija Kulkarni
+slug: artbygirija
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Australia
+can_use: 'Yes'
+instagram_handle: Artbygirija
+instagram: 'https://instagram.com/Artbygirija'
+bio: ''
+website: 'https://behance.net/girijakulkarni1'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/artbygirija
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Artbygirija
+# artbygirija
 
 ## Profile Image
 

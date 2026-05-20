@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 13:50:00"
-email: "seetalgosai@protonmail.com"
-first_name: "Seetal"
-last_name: "Gosai"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/mangomoondesignco"
-website: "https://Seetalgosai.info"
-accepted: "15/06/25"
-level: "level_2"
-instagram_handle: "mangomoondesignco"
-bio: ""
-asset_folder: "wiki/assets/designers/mangomoondesignco"
+applied: '6/12/2025 13:50:00'
+email: seetalgosai@protonmail.com
+name: Seetal Gosai
+slug: mangomoondesignco
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: mangomoondesignco
+instagram: 'https://instagram.com/mangomoondesignco'
+bio: ''
+website: 'https://Seetalgosai.info'
+website_about: ''
+accepted: 15/06/25
+level: level_2
+asset_folder: wiki/assets/designers/mangomoondesignco
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # mangomoondesignco

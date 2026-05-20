@@ -1,20 +1,51 @@
 ---
-applied: "9/3/2025 20:38:32"
-email: "beolajulieta@gmail.com"
-first_name: "Julieta"
-last_name: "Beola"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/juliebe.design"
-website: "https://linktr.ee/juliebedesign"
-accepted: ""
-level: "level_0"
-instagram_handle: "juliebe.design"
-bio: ""
-asset_folder: "wiki/assets/designers/juliebe.design"
+applied: '9/3/2025 20:38:32'
+email: beolajulieta@gmail.com
+name: Julieta Beola
+slug: juliebe.design
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: juliebe.design
+instagram: 'https://instagram.com/juliebe.design'
+bio: ''
+website: 'https://linktr.ee/juliebedesign'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/juliebe.design
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # juliebe.design

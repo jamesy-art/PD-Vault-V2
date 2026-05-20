@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 15:46:21"
-email: "biancapreis25@gmail.com"
-first_name: "Bianca"
-last_name: "Gaspar"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/biancapreisg"
-website: "https://behance.net/biancapreisg"
-accepted: "15/06/25"
-level: "level_0"
-instagram_handle: "biancapreisg"
-bio: ""
-asset_folder: "wiki/assets/designers/biancapreisg"
+applied: '6/12/2025 15:46:21'
+email: biancapreis25@gmail.com
+name: Bianca Gaspar
+slug: biancapreisg
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: biancapreisg
+instagram: 'https://instagram.com/biancapreisg'
+bio: ''
+website: 'https://behance.net/biancapreisg'
+website_about: ''
+accepted: 15/06/25
+level: level_0
+asset_folder: wiki/assets/designers/biancapreisg
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # biancapreisg

@@ -1,20 +1,51 @@
 ---
-applied: "6/22/2025 8:33:19"
-email: "jyotikadesigns@gmail.com"
-first_name: "Jyotika"
-last_name: "Patel"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/jyotikaillustrates"
-website: ""
-accepted: "22/06/25"
-level: "level_1"
-instagram_handle: "jyotikaillustrates"
-bio: ""
-asset_folder: "wiki/assets/designers/jyotikaillustrates"
+applied: '6/22/2025 8:33:19'
+email: jyotikadesigns@gmail.com
+name: Jyotika Patel
+slug: jyotikaillustrates
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: jyotikaillustrates
+instagram: 'https://instagram.com/jyotikaillustrates'
+bio: ''
+website: ''
+website_about: ''
+accepted: 22/06/25
+level: level_1
+asset_folder: wiki/assets/designers/jyotikaillustrates
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # jyotikaillustrates

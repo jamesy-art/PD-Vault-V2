@@ -1,20 +1,51 @@
 ---
-applied: "8/11/2025 15:28:35"
-email: "marina@spanglish.me.uk"
-first_name: "Marina"
-last_name: "Garzón_Soto"
-country: "Spain"
-can_use: "Yes"
-instagram: "https://instagram.com/marinasotole"
-website: "https://linktr.ee/marinasotole"
-accepted: ""
-level: "level_0"
-instagram_handle: "marinasotole"
-bio: ""
-asset_folder: "wiki/assets/designers/marinasotole"
+applied: '8/11/2025 15:28:35'
+email: marina@spanglish.me.uk
+name: Marina Garzón_Soto
+slug: marinasotole
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Spain
+can_use: 'Yes'
+instagram_handle: marinasotole
+instagram: 'https://instagram.com/marinasotole'
+bio: ''
+website: 'https://linktr.ee/marinasotole'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/marinasotole
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # marinasotole

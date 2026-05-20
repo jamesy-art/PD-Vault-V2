@@ -1,20 +1,51 @@
 ---
-applied: "1/29/2023 3:22:40"
-email: "ellie@elkatextiles.co.uk"
-first_name: "Ellie"
-last_name: "Fisher"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/elka_textiles"
-website: ""
-accepted: "25/09/2024"
-level: "level_1"
-instagram_handle: "elka_textiles"
-bio: ""
-asset_folder: "wiki/assets/designers/elka_textiles"
+applied: '1/29/2023 3:22:40'
+email: ellie@elkatextiles.co.uk
+name: Ellie Fisher
+slug: elka_textiles
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: elka_textiles
+instagram: 'https://instagram.com/elka_textiles'
+bio: ''
+website: ''
+website_about: ''
+accepted: 25/09/2024
+level: level_1
+asset_folder: wiki/assets/designers/elka_textiles
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # elka_textiles

@@ -1,0 +1,315 @@
+{
+  "excellent": [
+    {
+      "file": "ali.wynne.pattern.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "althea___studio.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "atelier.moeli.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "ayranabarboza.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 90,
+      "level": "level_3"
+    },
+    {
+      "file": "colar.prints-cant-see-your-page.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "elenaabeckett.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "estudioblackfisk.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "farah.allegue.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "excellent",
+      "newScore": 85,
+      "level": "level_3"
+    },
+    {
+      "file": "fiinkdesign.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "finchleydesigns.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "franbragancastudio.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 90,
+      "level": "level_3"
+    },
+    {
+      "file": "hannah.lee_textiles.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "illustrations_by_zu.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "isabella_sheridan_textiles.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "jessicawestwood.designs.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "kemijolaosodesign.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "lauramaycroft.design.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "marinagdesign.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "mikelle.makes.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "original_veronica_perez.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "printsbynicole.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 90,
+      "level": "level_3"
+    },
+    {
+      "file": "sandrabcreative.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 85,
+      "level": "level_3"
+    },
+    {
+      "file": "silromanodesigns.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "vicky.comas.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "yao_hg.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    }
+  ],
+  "good": [
+    {
+      "file": "damppstudio.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "good",
+      "newScore": 75,
+      "level": "level_3"
+    },
+    {
+      "file": "mariavallmostudio.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "good",
+      "newScore": 80,
+      "level": "level_3"
+    },
+    {
+      "file": "merveacelebi.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "good",
+      "newScore": 80,
+      "level": "level_3"
+    },
+    {
+      "file": "pooja_jeshang_illustrations.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "good",
+      "newScore": 80,
+      "level": "level_3"
+    },
+    {
+      "file": "pretentiousartiststel-but-please-take-work-from-my-website.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "good",
+      "newScore": 75,
+      "level": "level_3"
+    },
+    {
+      "file": "rebeccafrostillustration.md",
+      "oldQuality": "usable",
+      "oldScore": 40,
+      "newQuality": "good",
+      "newScore": 75,
+      "level": "level_3"
+    },
+    {
+      "file": "susannahleecutler.md",
+      "oldQuality": "usable",
+      "oldScore": 50,
+      "newQuality": "good",
+      "newScore": 80,
+      "level": "level_3"
+    }
+  ],
+  "usable": [
+    {
+      "file": "beauportions.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "usable",
+      "newScore": 60,
+      "level": "level_3"
+    },
+    {
+      "file": "mariaemiliaestamparias.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "usable",
+      "newScore": 55,
+      "level": "level_2"
+    },
+    {
+      "file": "pragati_sharma_artist.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "usable",
+      "newScore": 55,
+      "level": "level_2"
+    },
+    {
+      "file": "purubarnwal_official.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "usable",
+      "newScore": 65,
+      "level": "level_3"
+    },
+    {
+      "file": "stephanie_langevin.md",
+      "oldQuality": "usable",
+      "oldScore": 45,
+      "newQuality": "usable",
+      "newScore": 55,
+      "level": "level_2"
+    }
+  ],
+  "weak": [
+    {
+      "file": "jesteniasoutherland.md",
+      "oldQuality": "usable",
+      "oldScore": 55,
+      "newQuality": "weak",
+      "newScore": 30,
+      "level": "level_2"
+    }
+  ],
+  "bad": []
+}

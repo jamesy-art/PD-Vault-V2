@@ -1,20 +1,51 @@
 ---
-applied: "6/13/2025 11:37:22"
-email: "kristenelizabethgreen@gmail.com"
-first_name: "Kristen"
-last_name: "Green"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/teaandkettledesigns"
-website: ""
-accepted: "16/06/25"
-level: "level_1"
-instagram_handle: "teaandkettledesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/teaandkettledesigns"
+applied: '6/13/2025 11:37:22'
+email: kristenelizabethgreen@gmail.com
+name: Kristen Green
+slug: teaandkettledesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: teaandkettledesigns
+instagram: 'https://instagram.com/teaandkettledesigns'
+bio: ''
+website: ''
+website_about: ''
+accepted: 16/06/25
+level: level_1
+asset_folder: wiki/assets/designers/teaandkettledesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # teaandkettledesigns

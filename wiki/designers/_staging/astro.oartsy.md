@@ -1,20 +1,51 @@
 ---
-applied: "8/27/2025 16:32:35"
-email: "astro.obabe57@gmail.con"
-first_name: "Astro"
-last_name: "babe"
-country: "Pakistan"
-can_use: "Yes"
-instagram: "https://instagram.com/astro.oartsy"
-website: "https://dont have"
-accepted: ""
-level: "level_2"
-instagram_handle: "astro.oartsy"
-bio: ""
-asset_folder: "wiki/assets/designers/astro.oartsy"
+applied: '8/27/2025 16:32:35'
+email: astro.obabe57@gmail.con
+name: Astro babe
+slug: astro.oartsy
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Pakistan
+can_use: 'Yes'
+instagram_handle: astro.oartsy
+instagram: 'https://instagram.com/astro.oartsy'
+bio: ''
+website: 'https://dont have'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/astro.oartsy
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # astro.oartsy

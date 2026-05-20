@@ -1,20 +1,51 @@
 ---
-applied: "9/10/2025 13:03:21"
-email: "amandaroosevelt.art@gmail.com"
-first_name: "Amanda"
-last_name: "Roosevelt"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/@amandaroosevelt"
-website: "https://linktr.ee/amandaroosevelt"
-accepted: ""
-level: "level_0"
-instagram_handle: "amandaroosevelt"
-bio: ""
-asset_folder: "wiki/assets/designers/amandaroosevelt"
+applied: '9/10/2025 13:03:21'
+email: amandaroosevelt.art@gmail.com
+name: Amanda Roosevelt
+slug: amandaroosevelt
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: amandaroosevelt
+instagram: 'https://instagram.com/@amandaroosevelt'
+bio: ''
+website: 'https://linktr.ee/amandaroosevelt'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/amandaroosevelt
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # amandaroosevelt

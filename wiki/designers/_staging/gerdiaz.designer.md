@@ -1,20 +1,51 @@
 ---
-applied: "8/19/2025 13:52:05"
-email: "gerpdisenador@gmail.com"
-first_name: "German"
-last_name: "Díaz"
-country: "Colombia"
-can_use: "Yes"
-instagram: "https://instagram.com/gerdiaz.designer"
-website: "https://linktr.ee/gerdiaz.designer"
-accepted: ""
-level: "level_0"
-instagram_handle: "gerdiaz.designer"
-bio: ""
-asset_folder: "wiki/assets/designers/gerdiaz.designer"
+applied: '8/19/2025 13:52:05'
+email: gerpdisenador@gmail.com
+name: German Díaz
+slug: gerdiaz.designer
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Colombia
+can_use: 'Yes'
+instagram_handle: gerdiaz.designer
+instagram: 'https://instagram.com/gerdiaz.designer'
+bio: ''
+website: 'https://linktr.ee/gerdiaz.designer'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/gerdiaz.designer
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # gerdiaz.designer

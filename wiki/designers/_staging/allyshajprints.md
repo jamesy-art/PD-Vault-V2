@@ -1,20 +1,51 @@
 ---
-applied: "7/20/2025 18:43:13"
-email: "allysha.johnson@yahoo.co.uk"
-first_name: "Allysha"
-last_name: "Johnson"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/allyshajprints"
-website: "https://linkr.ee/a.j.prints"
-accepted: ""
-level: "level_2"
-instagram_handle: "allyshajprints"
-bio: ""
-asset_folder: "wiki/assets/designers/allyshajprints"
+applied: '7/20/2025 18:43:13'
+email: allysha.johnson@yahoo.co.uk
+name: Allysha Johnson
+slug: allyshajprints
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: allyshajprints
+instagram: 'https://instagram.com/allyshajprints'
+bio: ''
+website: 'https://linkr.ee/a.j.prints'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/allyshajprints
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # allyshajprints

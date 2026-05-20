@@ -1,20 +1,51 @@
 ---
-applied: "7/12/2025 4:15:16"
-email: "michaeladesign@seznam.cz"
-first_name: "Michaela"
-last_name: "Dobiášová"
-country: "Czech Republic"
-can_use: "Yes"
-instagram: "https://instagram.com/neco.hezkyho"
-website: ""
-accepted: "19/07/25"
-level: "level_1"
-instagram_handle: "neco.hezkyho"
-bio: ""
-asset_folder: "wiki/assets/designers/neco.hezkyho"
+applied: '7/12/2025 4:15:16'
+email: michaeladesign@seznam.cz
+name: Michaela Dobiášová
+slug: neco.hezkyho
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Czech Republic
+can_use: 'Yes'
+instagram_handle: neco.hezkyho
+instagram: 'https://instagram.com/neco.hezkyho'
+bio: ''
+website: ''
+website_about: ''
+accepted: 19/07/25
+level: level_1
+asset_folder: wiki/assets/designers/neco.hezkyho
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # neco.hezkyho

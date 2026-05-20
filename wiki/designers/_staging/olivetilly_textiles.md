@@ -1,20 +1,51 @@
 ---
-applied: "6/28/2025 11:29:15"
-email: "olivetillybetts@gmail.com"
-first_name: "Olive"
-last_name: "Betts"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/olivetilly_textiles"
-website: "https://linkedin.com/in/olive-betts-b8241b365"
-accepted: "28/06/25"
-level: "level_2"
-instagram_handle: "olivetilly_textiles"
-bio: ""
-asset_folder: "wiki/assets/designers/olivetilly_textiles"
+applied: '6/28/2025 11:29:15'
+email: olivetillybetts@gmail.com
+name: Olive Betts
+slug: olivetilly_textiles
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: olivetilly_textiles
+instagram: 'https://instagram.com/olivetilly_textiles'
+bio: ''
+website: 'https://linkedin.com/in/olive-betts-b8241b365'
+website_about: ''
+accepted: 28/06/25
+level: level_2
+asset_folder: wiki/assets/designers/olivetilly_textiles
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # olivetilly_textiles

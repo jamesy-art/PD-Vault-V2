@@ -30,17 +30,13 @@ function parseCsvLine(line) {
   return result;
 }
 
-function toYamlKey(header) {
-  return cleanCell(header)
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "_")
-    .replace(/^_+|_+$/g, "");
+function yamlString(value = "") {
+  const str = cleanCell(value);
+  return `"${str.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
 }
 
-function yamlEscape(value = "") {
-  const str = cleanCell(value);
-  if (!str) return `""`;
-  return `"${str.replace(/\\/g, "\\\\").replace(/"/g, '\\"')}"`;
+function getHeaderIndex(headers, names) {
+  return headers.findIndex((h) => names.includes(h));
 }
 
 function getInstagramHandle(instagram = "") {
@@ -55,12 +51,17 @@ function getInstagramHandle(instagram = "") {
     .trim();
 }
 
-function safeFileName(value = "") {
+function safeSlug(value = "") {
   return cleanCell(value)
     .replace(/^@/, "")
-    .replace(/[^a-zA-Z0-9._-]/g, "-")
+    .toLowerCase()
+    .replace(/[^a-z0-9._-]/g, "-")
     .replace(/-+/g, "-")
     .replace(/^-+|-+$/g, "");
+}
+
+function rowValue(row, index) {
+  return index >= 0 ? cleanCell(row[index] || "") : "";
 }
 
 if (!fs.existsSync(inputFile)) {
@@ -75,17 +76,17 @@ const lines = csv.split(/\r?\n/);
 const headers = parseCsvLine(lines[0]).map(cleanCell);
 const normalizedHeaders = headers.map((h) => h.toLowerCase().trim());
 
-const instagramIndex = normalizedHeaders.findIndex((h) =>
-  ["instagram", "insta", "instagram_url"].includes(h)
-);
-
-const websiteIndex = normalizedHeaders.findIndex((h) =>
-  ["website", "website_url", "site"].includes(h)
-);
-
-const levelIndex = normalizedHeaders.findIndex((h) =>
-  ["level", "designer_level"].includes(h)
-);
+const appliedIndex = getHeaderIndex(normalizedHeaders, ["applied"]);
+const emailIndex = getHeaderIndex(normalizedHeaders, ["email"]);
+const firstNameIndex = getHeaderIndex(normalizedHeaders, ["first name", "first_name", "firstname"]);
+const lastNameIndex = getHeaderIndex(normalizedHeaders, ["last name", "last_name", "lastname"]);
+const nameIndex = getHeaderIndex(normalizedHeaders, ["name"]);
+const countryIndex = getHeaderIndex(normalizedHeaders, ["country"]);
+const canUseIndex = getHeaderIndex(normalizedHeaders, ["can use", "can_use"]);
+const instagramIndex = getHeaderIndex(normalizedHeaders, ["instagram", "insta", "instagram_url"]);
+const websiteIndex = getHeaderIndex(normalizedHeaders, ["website", "website_url", "site"]);
+const acceptedIndex = getHeaderIndex(normalizedHeaders, ["accepted"]);
+const levelIndex = getHeaderIndex(normalizedHeaders, ["level", "designer_level"]);
 
 if (instagramIndex === -1) {
   console.error("❌ Could not find Instagram column.");
@@ -101,52 +102,69 @@ let skipped = 0;
 for (let i = 1; i < lines.length; i++) {
   const row = parseCsvLine(lines[i]);
 
-  const instagram = cleanCell(row[instagramIndex]);
-  const website = websiteIndex >= 0 ? cleanCell(row[websiteIndex]) : "";
-  const level = levelIndex >= 0 ? cleanCell(row[levelIndex]) : "";
+  const applied = rowValue(row, appliedIndex);
+  const email = rowValue(row, emailIndex);
+  const firstName = rowValue(row, firstNameIndex);
+  const lastName = rowValue(row, lastNameIndex);
 
-  const handle = getInstagramHandle(instagram);
-  const fileName = safeFileName(handle);
+  const existingName = rowValue(row, nameIndex);
+  const name = existingName || [firstName, lastName].filter(Boolean).join(" ");
 
-  if (!fileName) {
+  const country = rowValue(row, countryIndex);
+  const canUse = rowValue(row, canUseIndex);
+  const instagram = rowValue(row, instagramIndex);
+  const website = rowValue(row, websiteIndex);
+  const accepted = rowValue(row, acceptedIndex);
+  const level = rowValue(row, levelIndex);
+
+  const instagramHandle = getInstagramHandle(instagram);
+  const slug = safeSlug(instagramHandle);
+
+  if (!slug) {
     skipped++;
     continue;
   }
 
-  const assetFolder = `wiki/assets/designers/${fileName}`;
-  const designerAssetsDir = path.join(assetsOutputDir, fileName);
+  const assetFolder = `wiki/assets/designers/${slug}`;
+  const designerAssetsDir = path.join(assetsOutputDir, slug);
 
   fs.mkdirSync(path.join(designerAssetsDir, "profile"), { recursive: true });
   fs.mkdirSync(path.join(designerAssetsDir, "instagram"), { recursive: true });
   fs.mkdirSync(path.join(designerAssetsDir, "website"), { recursive: true });
 
-  const mdPath = path.join(mdOutputDir, `${fileName}.md`);
+  const mdPath = path.join(mdOutputDir, `${slug}.md`);
 
-  const yamlLines = [];
-  yamlLines.push("---");
+  const yaml = `---
+applied: ${yamlString(applied)}
+email: ${yamlString(email)}
+name: ${yamlString(name)}
+slug: ${yamlString(slug)}
+type: "pattern designer"
+experience: ""
+open to: ["",""]
+pricing: ["",""]
+skills: ["","","",""]
+country: ${yamlString(country)}
+can_use: ${yamlString(canUse)}
+instagram_handle: ${yamlString(instagramHandle)}
+instagram: ${yamlString(instagram)}
+bio: ""
+website: ${yamlString(website)}
+website_about: ""
+accepted: ${yamlString(accepted)}
+level: ${yamlString(level)}
+asset_folder: ${yamlString(assetFolder)}
+profile_url: ""
+instagram_images: ["","","","","",""]
+website_images: ["","","",""]
+tags:
+  - pattern_designer
+${level ? `  - ${level}` : ""}
+---`;
 
-  headers.forEach((header, index) => {
-    const key = toYamlKey(header);
-    const value = cleanCell(row[index] || "");
-    yamlLines.push(`${key}: ${yamlEscape(value)}`);
-  });
+  const markdown = `${yaml}
 
-  yamlLines.push(`instagram_handle: ${yamlEscape(handle)}`);
-  yamlLines.push(`bio: ""`);
-  yamlLines.push(`asset_folder: ${yamlEscape(assetFolder)}`);
-
-  yamlLines.push("tags:");
-  yamlLines.push("  - pattern_designer");
-
-  if (level) {
-    yamlLines.push(`  - ${level}`);
-  }
-
-  yamlLines.push("---");
-
-  const markdown = `${yamlLines.join("\n")}
-
-# ${handle}
+# ${slug}
 
 ## Profile Image
 

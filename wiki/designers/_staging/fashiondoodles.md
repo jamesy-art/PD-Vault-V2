@@ -1,20 +1,51 @@
 ---
-applied: "9/18/2025 8:10:44"
-email: "mariaelisafabricio@gmail.com"
-first_name: "Elisa"
-last_name: "Fabricio"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/@fashiondoodles"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "fashiondoodles"
-bio: ""
-asset_folder: "wiki/assets/designers/fashiondoodles"
+applied: '9/18/2025 8:10:44'
+email: mariaelisafabricio@gmail.com
+name: Elisa Fabricio
+slug: fashiondoodles
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: fashiondoodles
+instagram: 'https://instagram.com/@fashiondoodles'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/fashiondoodles
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # fashiondoodles

@@ -1,23 +1,54 @@
 ---
-applied: "9/14/2024 14:29:14"
-email: "alexandradouglasdesigns@gmail.com"
-first_name: "Alexandra"
-last_name: "Douglas"
-country: "Canada"
-can_use: "Yes"
-instagram: "https://instagram.com/Alexandradouglasdesigns"
-website: ""
-accepted: "31/10/2024"
-level: "level_1"
-instagram_handle: "Alexandradouglasdesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/Alexandradouglasdesigns"
+applied: '9/14/2024 14:29:14'
+email: alexandradouglasdesigns@gmail.com
+name: Alexandra Douglas
+slug: alexandradouglasdesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Canada
+can_use: 'Yes'
+instagram_handle: Alexandradouglasdesigns
+instagram: 'https://instagram.com/Alexandradouglasdesigns'
+bio: ''
+website: ''
+website_about: ''
+accepted: 31/10/2024
+level: level_1
+asset_folder: wiki/assets/designers/alexandradouglasdesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Alexandradouglasdesigns
+# alexandradouglasdesigns
 
 ## Profile Image
 

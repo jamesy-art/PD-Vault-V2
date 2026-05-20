@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 13:08:15"
-email: "cloegrondona@gmail.com"
-first_name: "Cloé"
-last_name: "Grondona"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/printsbycloe"
-website: "https://cloegrondona"
-accepted: "11/06/25"
-level: "level_2"
-instagram_handle: "printsbycloe"
-bio: ""
-asset_folder: "wiki/assets/designers/printsbycloe"
+applied: '6/9/2025 13:08:15'
+email: cloegrondona@gmail.com
+name: Cloé Grondona
+slug: printsbycloe
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: printsbycloe
+instagram: 'https://instagram.com/printsbycloe'
+bio: ''
+website: 'https://cloegrondona'
+website_about: ''
+accepted: 11/06/25
+level: level_2
+asset_folder: wiki/assets/designers/printsbycloe
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # printsbycloe

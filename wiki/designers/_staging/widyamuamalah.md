@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 19:46:39"
-email: "wmuamalah@gmail.com"
-first_name: "Widya"
-last_name: "Muamalah"
-country: "Indonesia"
-can_use: "Yes"
-instagram: "https://instagram.com/widyamuamalah"
-website: ""
-accepted: "14/06/25"
-level: "level_1"
-instagram_handle: "widyamuamalah"
-bio: ""
-asset_folder: "wiki/assets/designers/widyamuamalah"
+applied: '6/10/2025 19:46:39'
+email: wmuamalah@gmail.com
+name: Widya Muamalah
+slug: widyamuamalah
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Indonesia
+can_use: 'Yes'
+instagram_handle: widyamuamalah
+instagram: 'https://instagram.com/widyamuamalah'
+bio: ''
+website: ''
+website_about: ''
+accepted: 14/06/25
+level: level_1
+asset_folder: wiki/assets/designers/widyamuamalah
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # widyamuamalah

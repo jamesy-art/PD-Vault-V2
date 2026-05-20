@@ -1,23 +1,54 @@
 ---
-applied: "12/15/2024 18:21:28"
-email: "monia.tawfik@gmail.com"
-first_name: "Tawfik"
-last_name: "Monia"
-country: "France"
-can_use: "Yes"
-instagram: "https://instagram.com/Tamopaname"
-website: "https://."
-accepted: "16/02/2025"
-level: "level_2"
-instagram_handle: "Tamopaname"
-bio: ""
-asset_folder: "wiki/assets/designers/Tamopaname"
+applied: '12/15/2024 18:21:28'
+email: monia.tawfik@gmail.com
+name: Tawfik Monia
+slug: tamopaname
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: France
+can_use: 'Yes'
+instagram_handle: Tamopaname
+instagram: 'https://instagram.com/Tamopaname'
+bio: ''
+website: 'https://.'
+website_about: ''
+accepted: 16/02/2025
+level: level_2
+asset_folder: wiki/assets/designers/tamopaname
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Tamopaname
+# tamopaname
 
 ## Profile Image
 

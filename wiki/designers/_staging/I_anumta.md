@@ -1,23 +1,54 @@
 ---
-applied: "10/1/2025 11:45:55"
-email: "ianamta.15@gmail.com"
-first_name: "Anamta"
-last_name: "Imran"
-country: "Pakistan"
-can_use: "Yes"
-instagram: "https://instagram.com/I_anumta"
-website: "https://No any"
-accepted: ""
-level: "level_2"
-instagram_handle: "I_anumta"
-bio: ""
-asset_folder: "wiki/assets/designers/I_anumta"
+applied: '10/1/2025 11:45:55'
+email: ianamta.15@gmail.com
+name: Anamta Imran
+slug: i_anumta
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Pakistan
+can_use: 'Yes'
+instagram_handle: I_anumta
+instagram: 'https://instagram.com/I_anumta'
+bio: ''
+website: 'https://No any'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/i_anumta
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# I_anumta
+# i_anumta
 
 ## Profile Image
 

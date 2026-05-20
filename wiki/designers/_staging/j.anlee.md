@@ -1,20 +1,51 @@
 ---
-applied: "9/25/2024 11:26:40"
-email: "jiaan.ow@gmail.com"
-first_name: "Jia-An"
-last_name: "Lee"
-country: "Malaysia"
-can_use: "Yes"
-instagram: "https://instagram.com/j.anlee"
-website: "https://jiaan.tumblr.com"
-accepted: "19/11/2024"
-level: "level_2"
-instagram_handle: "j.anlee"
-bio: ""
-asset_folder: "wiki/assets/designers/j.anlee"
+applied: '9/25/2024 11:26:40'
+email: jiaan.ow@gmail.com
+name: Jia-An Lee
+slug: j.anlee
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Malaysia
+can_use: 'Yes'
+instagram_handle: j.anlee
+instagram: 'https://instagram.com/j.anlee'
+bio: ''
+website: 'https://jiaan.tumblr.com'
+website_about: ''
+accepted: 19/11/2024
+level: level_2
+asset_folder: wiki/assets/designers/j.anlee
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # j.anlee

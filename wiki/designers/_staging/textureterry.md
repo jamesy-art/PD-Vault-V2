@@ -1,20 +1,53 @@
 ---
-applied: "7/9/2025 21:35:31"
-email: "TerryRobertsonStudio@mac.com"
-first_name: "Terry"
-last_name: "Robertson"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/textureterry"
-website: "https://Portfolio currently is my Instagram and www.linkedin.com/in/textureterry.com"
-accepted: "19/07/25"
-level: "level_2"
-instagram_handle: "textureterry"
-bio: ""
-asset_folder: "wiki/assets/designers/textureterry"
+applied: '7/9/2025 21:35:31'
+email: TerryRobertsonStudio@mac.com
+name: Terry Robertson
+slug: textureterry
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: textureterry
+instagram: 'https://instagram.com/textureterry'
+bio: ''
+website: >-
+  https://Portfolio currently is my Instagram and
+  www.linkedin.com/in/textureterry.com
+website_about: ''
+accepted: 19/07/25
+level: level_2
+asset_folder: wiki/assets/designers/textureterry
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # textureterry

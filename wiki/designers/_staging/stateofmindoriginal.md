@@ -1,20 +1,51 @@
 ---
-applied: "9/18/2025 2:10:52"
-email: "stateofmindoriginal@hotmail.com"
-first_name: "Eva"
-last_name: "Mourtzaki"
-country: "Greece"
-can_use: "Yes"
-instagram: "https://instagram.com/@stateofmindoriginal"
-website: "https://linktr.ee/stateofmindoriginal"
-accepted: ""
-level: "level_0"
-instagram_handle: "stateofmindoriginal"
-bio: ""
-asset_folder: "wiki/assets/designers/stateofmindoriginal"
+applied: '9/18/2025 2:10:52'
+email: stateofmindoriginal@hotmail.com
+name: Eva Mourtzaki
+slug: stateofmindoriginal
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Greece
+can_use: 'Yes'
+instagram_handle: stateofmindoriginal
+instagram: 'https://instagram.com/@stateofmindoriginal'
+bio: ''
+website: 'https://linktr.ee/stateofmindoriginal'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/stateofmindoriginal
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # stateofmindoriginal

@@ -1,23 +1,56 @@
 ---
-applied: "7/30/2025 7:41:02"
-email: "the6ixthhousedesigns@outlook.com"
-first_name: "Sarah"
-last_name: "Davies"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/thesixthhousedesigns (more designs on website)"
-website: "https://(Web) https://thesixthhousedesigns.com (LinkedIn) http://linkedin.com/in/the6ixthhouse"
-accepted: ""
-level: "level_2"
-instagram_handle: "thesixthhousedesigns (more designs on website)"
-bio: ""
-asset_folder: "wiki/assets/designers/thesixthhousedesigns-more-designs-on-website"
+applied: '7/30/2025 7:41:02'
+email: the6ixthhousedesigns@outlook.com
+name: Sarah Davies
+slug: thesixthhousedesigns-more-designs-on-website
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: thesixthhousedesigns (more designs on website)
+instagram: 'https://instagram.com/thesixthhousedesigns (more designs on website)'
+bio: ''
+website: >-
+  https://(Web) https://thesixthhousedesigns.com (LinkedIn)
+  http://linkedin.com/in/the6ixthhouse
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/thesixthhousedesigns-more-designs-on-website
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# thesixthhousedesigns (more designs on website)
+# thesixthhousedesigns-more-designs-on-website
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "4/16/2026 6:20:38"
-email: "harshitapatidar200@gmail.com"
-first_name: "Harshita"
-last_name: "Patidar"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/9art_studio"
-website: "https://behance.net/harshitapatidar"
-accepted: ""
-level: "level_0"
-instagram_handle: "9art_studio"
-bio: ""
-asset_folder: "wiki/assets/designers/9art_studio"
+applied: '4/16/2026 6:20:38'
+email: harshitapatidar200@gmail.com
+name: Harshita Patidar
+slug: 9art_studio
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: 9art_studio
+instagram: 'https://instagram.com/9art_studio'
+bio: ''
+website: 'https://behance.net/harshitapatidar'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/9art_studio
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # 9art_studio

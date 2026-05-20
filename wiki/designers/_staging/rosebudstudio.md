@@ -1,20 +1,51 @@
 ---
-applied: "6/19/2025 8:22:06"
-email: "Rskinner1122@yahoo.com"
-first_name: "Rose"
-last_name: "Halsey"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/rosebudstudio"
-website: "https://advocate-art.com/rose-halsey"
-accepted: "20/06/25"
-level: "level_2"
-instagram_handle: "rosebudstudio"
-bio: ""
-asset_folder: "wiki/assets/designers/rosebudstudio"
+applied: '6/19/2025 8:22:06'
+email: Rskinner1122@yahoo.com
+name: Rose Halsey
+slug: rosebudstudio
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: rosebudstudio
+instagram: 'https://instagram.com/rosebudstudio'
+bio: ''
+website: 'https://advocate-art.com/rose-halsey'
+website_about: ''
+accepted: 20/06/25
+level: level_2
+asset_folder: wiki/assets/designers/rosebudstudio
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # rosebudstudio

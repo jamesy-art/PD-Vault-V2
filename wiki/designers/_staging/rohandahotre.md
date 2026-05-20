@@ -1,20 +1,51 @@
 ---
-applied: "3/26/2025 11:26:43"
-email: "rohan.sharad.dahotre@gmail.com"
-first_name: "Rohan"
-last_name: "Dahotre"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/rohandahotre"
-website: "https://behance.net/RohanSharadDahotre"
-accepted: "09/05/2025"
-level: "level_0"
-instagram_handle: "rohandahotre"
-bio: ""
-asset_folder: "wiki/assets/designers/rohandahotre"
+applied: '3/26/2025 11:26:43'
+email: rohan.sharad.dahotre@gmail.com
+name: Rohan Dahotre
+slug: rohandahotre
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: rohandahotre
+instagram: 'https://instagram.com/rohandahotre'
+bio: ''
+website: 'https://behance.net/RohanSharadDahotre'
+website_about: ''
+accepted: 09/05/2025
+level: level_0
+asset_folder: wiki/assets/designers/rohandahotre
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # rohandahotre

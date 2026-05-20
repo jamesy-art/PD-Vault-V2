@@ -1,23 +1,54 @@
 ---
-applied: "5/1/2026 2:49:48"
-email: "Kekoolie@gmail.com"
-first_name: "Diego"
-last_name: "Vera aguilar"
-country: "Spain"
-can_use: "Yes"
-instagram: "https://instagram.com/Kekoolie"
-website: "https://behance.com/kekoolie"
-accepted: ""
-level: "level_0"
-instagram_handle: "Kekoolie"
-bio: ""
-asset_folder: "wiki/assets/designers/Kekoolie"
+applied: '5/1/2026 2:49:48'
+email: Kekoolie@gmail.com
+name: Diego Vera aguilar
+slug: kekoolie
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Spain
+can_use: 'Yes'
+instagram_handle: Kekoolie
+instagram: 'https://instagram.com/Kekoolie'
+bio: ''
+website: 'https://behance.com/kekoolie'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/kekoolie
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Kekoolie
+# kekoolie
 
 ## Profile Image
 

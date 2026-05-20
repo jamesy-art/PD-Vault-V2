@@ -1,20 +1,51 @@
 ---
-applied: "7/30/2025 22:34:26"
-email: "lakshmisuprithab@gmail.com"
-first_name: "Lakshmi Supritha"
-last_name: "Bhavanasi"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/suprithasartjourney"
-website: "https://suprithabhavanasi.com"
-accepted: ""
-level: "level_2"
-instagram_handle: "suprithasartjourney"
-bio: ""
-asset_folder: "wiki/assets/designers/suprithasartjourney"
+applied: '7/30/2025 22:34:26'
+email: lakshmisuprithab@gmail.com
+name: Lakshmi Supritha Bhavanasi
+slug: suprithasartjourney
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: suprithasartjourney
+instagram: 'https://instagram.com/suprithasartjourney'
+bio: ''
+website: 'https://suprithabhavanasi.com'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/suprithasartjourney
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # suprithasartjourney

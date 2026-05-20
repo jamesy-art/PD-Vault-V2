@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 11:30:29"
-email: "lily.hughes@me.com"
-first_name: "Lily"
-last_name: "Hughes"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/_bronwendesigns_"
-website: ""
-accepted: "14/06/25"
-level: "level_1"
-instagram_handle: "_bronwendesigns_"
-bio: ""
-asset_folder: "wiki/assets/designers/_bronwendesigns_"
+applied: '6/10/2025 11:30:29'
+email: lily.hughes@me.com
+name: Lily Hughes
+slug: _bronwendesigns_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: _bronwendesigns_
+instagram: 'https://instagram.com/_bronwendesigns_'
+bio: ''
+website: ''
+website_about: ''
+accepted: 14/06/25
+level: level_1
+asset_folder: wiki/assets/designers/_bronwendesigns_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # _bronwendesigns_

@@ -1,20 +1,51 @@
 ---
-applied: "11/3/2025 8:32:40"
-email: "azarbarzani665@gmail.com"
-first_name: "Azr"
-last_name: "Dlzar"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/az_studio11"
-website: "https://linktr.ee/az.studio1"
-accepted: ""
-level: "level_0"
-instagram_handle: "az_studio11"
-bio: ""
-asset_folder: "wiki/assets/designers/az_studio11"
+applied: '11/3/2025 8:32:40'
+email: azarbarzani665@gmail.com
+name: Azr Dlzar
+slug: az_studio11
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: az_studio11
+instagram: 'https://instagram.com/az_studio11'
+bio: ''
+website: 'https://linktr.ee/az.studio1'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/az_studio11
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # az_studio11

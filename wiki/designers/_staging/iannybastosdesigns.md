@@ -1,20 +1,51 @@
 ---
-applied: "10/30/2024 17:29:38"
-email: "ianny.m.bastos@gmail.com"
-first_name: "Ianny"
-last_name: "Munari Bastos"
-country: "Australia"
-can_use: "Yes"
-instagram: "https://instagram.com/iannybastosdesigns"
-website: "https://linktr.ee/iannybastosdesigns"
-accepted: "05/12/2024"
-level: "level_0"
-instagram_handle: "iannybastosdesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/iannybastosdesigns"
+applied: '10/30/2024 17:29:38'
+email: ianny.m.bastos@gmail.com
+name: Ianny Munari Bastos
+slug: iannybastosdesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Australia
+can_use: 'Yes'
+instagram_handle: iannybastosdesigns
+instagram: 'https://instagram.com/iannybastosdesigns'
+bio: ''
+website: 'https://linktr.ee/iannybastosdesigns'
+website_about: ''
+accepted: 05/12/2024
+level: level_0
+asset_folder: wiki/assets/designers/iannybastosdesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # iannybastosdesigns

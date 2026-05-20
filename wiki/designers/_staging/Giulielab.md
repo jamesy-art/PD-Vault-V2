@@ -1,23 +1,54 @@
 ---
-applied: "9/3/2025 9:37:11"
-email: "giulielab@gmail.com"
-first_name: "Giulia"
-last_name: "Ciccone"
-country: "Austria"
-can_use: "Yes"
-instagram: "https://instagram.com/Giulielab"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Giulielab"
-bio: ""
-asset_folder: "wiki/assets/designers/Giulielab"
+applied: '9/3/2025 9:37:11'
+email: giulielab@gmail.com
+name: Giulia Ciccone
+slug: giulielab
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Austria
+can_use: 'Yes'
+instagram_handle: Giulielab
+instagram: 'https://instagram.com/Giulielab'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/giulielab
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Giulielab
+# giulielab
 
 ## Profile Image
 

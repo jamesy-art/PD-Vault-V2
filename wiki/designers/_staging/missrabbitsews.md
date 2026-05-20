@@ -1,20 +1,51 @@
 ---
-applied: "6/28/2025 14:18:41"
-email: "layaliabdullah1234@gmail.com"
-first_name: "Layali"
-last_name: "Abdullah"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/missrabbitsews"
-website: ""
-accepted: "30/06/25"
-level: "level_1"
-instagram_handle: "missrabbitsews"
-bio: ""
-asset_folder: "wiki/assets/designers/missrabbitsews"
+applied: '6/28/2025 14:18:41'
+email: layaliabdullah1234@gmail.com
+name: Layali Abdullah
+slug: missrabbitsews
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: missrabbitsews
+instagram: 'https://instagram.com/missrabbitsews'
+bio: ''
+website: ''
+website_about: ''
+accepted: 30/06/25
+level: level_1
+asset_folder: wiki/assets/designers/missrabbitsews
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # missrabbitsews

@@ -1,23 +1,54 @@
 ---
-applied: "6/24/2025 3:23:38"
-email: "differingstructures@gmail.com"
-first_name: "Nicholas"
-last_name: "Wright"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/Differing"
-website: "https://nicholaswright.net"
-accepted: "25/06/25"
-level: "level_2"
-instagram_handle: "Differing"
-bio: ""
-asset_folder: "wiki/assets/designers/Differing"
+applied: '6/24/2025 3:23:38'
+email: differingstructures@gmail.com
+name: Nicholas Wright
+slug: differing
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: Differing
+instagram: 'https://instagram.com/Differing'
+bio: ''
+website: 'https://nicholaswright.net'
+website_about: ''
+accepted: 25/06/25
+level: level_2
+asset_folder: wiki/assets/designers/differing
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Differing
+# differing
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 10:08:20"
-email: "bccreativity@mac.com"
-first_name: "Benjamin"
-last_name: "Castro"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/bccreativity"
-website: ""
-accepted: "11/06/25"
-level: "level_1"
-instagram_handle: "bccreativity"
-bio: ""
-asset_folder: "wiki/assets/designers/bccreativity"
+applied: '6/9/2025 10:08:20'
+email: bccreativity@mac.com
+name: Benjamin Castro
+slug: bccreativity
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: bccreativity
+instagram: 'https://instagram.com/bccreativity'
+bio: ''
+website: ''
+website_about: ''
+accepted: 11/06/25
+level: level_1
+asset_folder: wiki/assets/designers/bccreativity
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # bccreativity

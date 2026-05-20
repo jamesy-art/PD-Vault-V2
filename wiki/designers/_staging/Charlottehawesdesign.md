@@ -1,23 +1,54 @@
 ---
-applied: "7/24/2025 19:55:46"
-email: "charlotte-hawes@outlook.com"
-first_name: "Charlotte"
-last_name: "Hawes"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/Charlottehawesdesign"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Charlottehawesdesign"
-bio: ""
-asset_folder: "wiki/assets/designers/Charlottehawesdesign"
+applied: '7/24/2025 19:55:46'
+email: charlotte-hawes@outlook.com
+name: Charlotte Hawes
+slug: charlottehawesdesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: Charlottehawesdesign
+instagram: 'https://instagram.com/Charlottehawesdesign'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/charlottehawesdesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Charlottehawesdesign
+# charlottehawesdesign
 
 ## Profile Image
 

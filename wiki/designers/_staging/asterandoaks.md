@@ -1,20 +1,51 @@
 ---
-applied: "6/15/2025 19:58:26"
-email: "asterandoaks@gmail.com"
-first_name: "Jenny"
-last_name: "Yearwood"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/asterandoaks"
-website: "https://asterandoaks.com"
-accepted: "16/06/25"
-level: "level_2"
-instagram_handle: "asterandoaks"
-bio: ""
-asset_folder: "wiki/assets/designers/asterandoaks"
+applied: '6/15/2025 19:58:26'
+email: asterandoaks@gmail.com
+name: Jenny Yearwood
+slug: asterandoaks
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: asterandoaks
+instagram: 'https://instagram.com/asterandoaks'
+bio: ''
+website: 'https://asterandoaks.com'
+website_about: ''
+accepted: 16/06/25
+level: level_2
+asset_folder: wiki/assets/designers/asterandoaks
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # asterandoaks

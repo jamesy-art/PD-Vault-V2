@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 23:29:14"
-email: "Ritucp@gmail.com"
-first_name: "Ritu"
-last_name: "Cipy"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/ritucipy"
-website: ""
-accepted: "12/06/25"
-level: "level_1"
-instagram_handle: "ritucipy"
-bio: ""
-asset_folder: "wiki/assets/designers/ritucipy"
+applied: '6/9/2025 23:29:14'
+email: Ritucp@gmail.com
+name: Ritu Cipy
+slug: ritucipy
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: ritucipy
+instagram: 'https://instagram.com/ritucipy'
+bio: ''
+website: ''
+website_about: ''
+accepted: 12/06/25
+level: level_1
+asset_folder: wiki/assets/designers/ritucipy
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # ritucipy

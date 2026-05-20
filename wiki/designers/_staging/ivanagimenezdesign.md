@@ -1,20 +1,51 @@
 ---
-applied: "1/13/2025 7:46:17"
-email: "gimenezivana@gmail.com"
-first_name: "Ivana"
-last_name: "Gimenez"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/ivanagimenezdesign"
-website: "https://ivanagimenezdesign.com"
-accepted: "09/03/2025"
-level: "level_2"
-instagram_handle: "ivanagimenezdesign"
-bio: ""
-asset_folder: "wiki/assets/designers/ivanagimenezdesign"
+applied: '1/13/2025 7:46:17'
+email: gimenezivana@gmail.com
+name: Ivana Gimenez
+slug: ivanagimenezdesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: ivanagimenezdesign
+instagram: 'https://instagram.com/ivanagimenezdesign'
+bio: ''
+website: 'https://ivanagimenezdesign.com'
+website_about: ''
+accepted: 09/03/2025
+level: level_2
+asset_folder: wiki/assets/designers/ivanagimenezdesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # ivanagimenezdesign

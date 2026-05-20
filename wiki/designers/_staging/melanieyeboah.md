@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 17:07:17"
-email: "mel.yeboah@gmail.com"
-first_name: "Melanie"
-last_name: "Yeboah"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/melanieyeboah"
-website: "https://behance.net/melanie_yeboah"
-accepted: "15/06/25"
-level: "level_0"
-instagram_handle: "melanieyeboah"
-bio: ""
-asset_folder: "wiki/assets/designers/melanieyeboah"
+applied: '6/12/2025 17:07:17'
+email: mel.yeboah@gmail.com
+name: Melanie Yeboah
+slug: melanieyeboah
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: melanieyeboah
+instagram: 'https://instagram.com/melanieyeboah'
+bio: ''
+website: 'https://behance.net/melanie_yeboah'
+website_about: ''
+accepted: 15/06/25
+level: level_0
+asset_folder: wiki/assets/designers/melanieyeboah
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # melanieyeboah

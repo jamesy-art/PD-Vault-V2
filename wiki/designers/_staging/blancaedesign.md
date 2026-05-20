@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 1:46:53"
-email: "gblanca90@gmail.com"
-first_name: "Blanca"
-last_name: "Sanchez"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/blancaedesign"
-website: "https://indd.adobe.com/view/d46208ad-3a53-4392-886c-091f1a51b067"
-accepted: "15/06/25"
-level: "level_0"
-instagram_handle: "blancaedesign"
-bio: ""
-asset_folder: "wiki/assets/designers/blancaedesign"
+applied: '6/12/2025 1:46:53'
+email: gblanca90@gmail.com
+name: Blanca Sanchez
+slug: blancaedesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: blancaedesign
+instagram: 'https://instagram.com/blancaedesign'
+bio: ''
+website: 'https://indd.adobe.com/view/d46208ad-3a53-4392-886c-091f1a51b067'
+website_about: ''
+accepted: 15/06/25
+level: level_0
+asset_folder: wiki/assets/designers/blancaedesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # blancaedesign

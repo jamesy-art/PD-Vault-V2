@@ -1,20 +1,51 @@
 ---
-applied: "6/16/2025 8:54:13"
-email: "leossideico@gmail.com"
-first_name: "Leo"
-last_name: "Zeni"
-country: "Belgium"
-can_use: "Yes"
-instagram: "https://instagram.com/_ossido_"
-website: ""
-accepted: "16/06/25"
-level: "level_1"
-instagram_handle: "_ossido_"
-bio: ""
-asset_folder: "wiki/assets/designers/_ossido_"
+applied: '6/16/2025 8:54:13'
+email: leossideico@gmail.com
+name: Leo Zeni
+slug: _ossido_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Belgium
+can_use: 'Yes'
+instagram_handle: _ossido_
+instagram: 'https://instagram.com/_ossido_'
+bio: ''
+website: ''
+website_about: ''
+accepted: 16/06/25
+level: level_1
+asset_folder: wiki/assets/designers/_ossido_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # _ossido_

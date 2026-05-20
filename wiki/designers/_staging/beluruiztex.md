@@ -1,20 +1,51 @@
 ---
-applied: "9/13/2024 17:49:06"
-email: "chebelonchi@gmail.com"
-first_name: "Belen"
-last_name: "Ruiz"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/beluruiztex"
-website: "https://behance.net/beluruiz"
-accepted: "25/10/2024"
-level: "level_0"
-instagram_handle: "beluruiztex"
-bio: ""
-asset_folder: "wiki/assets/designers/beluruiztex"
+applied: '9/13/2024 17:49:06'
+email: chebelonchi@gmail.com
+name: Belen Ruiz
+slug: beluruiztex
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: beluruiztex
+instagram: 'https://instagram.com/beluruiztex'
+bio: ''
+website: 'https://behance.net/beluruiz'
+website_about: ''
+accepted: 25/10/2024
+level: level_0
+asset_folder: wiki/assets/designers/beluruiztex
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # beluruiztex

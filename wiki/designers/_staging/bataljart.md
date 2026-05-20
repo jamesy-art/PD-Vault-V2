@@ -1,20 +1,51 @@
 ---
-applied: "6/30/2025 3:52:40"
-email: "hello@nataliaborzyk.com"
-first_name: "Natalia"
-last_name: "Borzyk"
-country: "Italy"
-can_use: "Yes"
-instagram: "https://instagram.com/bataljart"
-website: "https://linktr.ee/batalja"
-accepted: "30/06/25"
-level: "level_0"
-instagram_handle: "bataljart"
-bio: ""
-asset_folder: "wiki/assets/designers/bataljart"
+applied: '6/30/2025 3:52:40'
+email: hello@nataliaborzyk.com
+name: Natalia Borzyk
+slug: bataljart
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Italy
+can_use: 'Yes'
+instagram_handle: bataljart
+instagram: 'https://instagram.com/bataljart'
+bio: ''
+website: 'https://linktr.ee/batalja'
+website_about: ''
+accepted: 30/06/25
+level: level_0
+asset_folder: wiki/assets/designers/bataljart
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # bataljart

@@ -1,23 +1,54 @@
 ---
-applied: "7/15/2025 16:58:33"
-email: "sweetsamdesigns@gmail.com"
-first_name: "Tahira"
-last_name: "Sameen"
-country: "Netherlands"
-can_use: "Yes"
-instagram: "https://instagram.com/Sweetsamdesigns"
-website: ""
-accepted: "19/07/25"
-level: "level_1"
-instagram_handle: "Sweetsamdesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/Sweetsamdesigns"
+applied: '7/15/2025 16:58:33'
+email: sweetsamdesigns@gmail.com
+name: Tahira Sameen
+slug: sweetsamdesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Netherlands
+can_use: 'Yes'
+instagram_handle: Sweetsamdesigns
+instagram: 'https://instagram.com/Sweetsamdesigns'
+bio: ''
+website: ''
+website_about: ''
+accepted: 19/07/25
+level: level_1
+asset_folder: wiki/assets/designers/sweetsamdesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Sweetsamdesigns
+# sweetsamdesigns
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 4:01:36"
-email: "dmulcahy126@outlook.com"
-first_name: "Daisy"
-last_name: "Mulcahy"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/daisymdesign"
-website: ""
-accepted: "12/06/25"
-level: "level_1"
-instagram_handle: "daisymdesign"
-bio: ""
-asset_folder: "wiki/assets/designers/daisymdesign"
+applied: '6/10/2025 4:01:36'
+email: dmulcahy126@outlook.com
+name: Daisy Mulcahy
+slug: daisymdesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: daisymdesign
+instagram: 'https://instagram.com/daisymdesign'
+bio: ''
+website: ''
+website_about: ''
+accepted: 12/06/25
+level: level_1
+asset_folder: wiki/assets/designers/daisymdesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # daisymdesign

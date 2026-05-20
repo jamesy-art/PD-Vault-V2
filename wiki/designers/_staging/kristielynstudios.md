@@ -1,20 +1,53 @@
 ---
-applied: "6/12/2025 17:55:49"
-email: "hello@kristielynstudios.com"
-first_name: "Kristie"
-last_name: "Vargo"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/kristielynstudios"
-website: "https://kristielynstudios.com https://www.spoonflower.com/profiles/kristie_lyn_studios"
-accepted: "15/06/25"
-level: "level_2"
-instagram_handle: "kristielynstudios"
-bio: ""
-asset_folder: "wiki/assets/designers/kristielynstudios"
+applied: '6/12/2025 17:55:49'
+email: hello@kristielynstudios.com
+name: Kristie Vargo
+slug: kristielynstudios
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: kristielynstudios
+instagram: 'https://instagram.com/kristielynstudios'
+bio: ''
+website: >-
+  https://kristielynstudios.com
+  https://www.spoonflower.com/profiles/kristie_lyn_studios
+website_about: ''
+accepted: 15/06/25
+level: level_2
+asset_folder: wiki/assets/designers/kristielynstudios
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # kristielynstudios

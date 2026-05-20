@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 13:23:14"
-email: "urbanpattern185@gmail.com"
-first_name: "fatima"
-last_name: "nasir"
-country: "United Arab Emirates"
-can_use: "Yes"
-instagram: "https://instagram.com/urbanpatterndesigns"
-website: "https://linkedin.com/in/fatima-nasir-826a70237"
-accepted: "11/06/25"
-level: "level_2"
-instagram_handle: "urbanpatterndesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/urbanpatterndesigns"
+applied: '6/9/2025 13:23:14'
+email: urbanpattern185@gmail.com
+name: fatima nasir
+slug: urbanpatterndesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Arab Emirates
+can_use: 'Yes'
+instagram_handle: urbanpatterndesigns
+instagram: 'https://instagram.com/urbanpatterndesigns'
+bio: ''
+website: 'https://linkedin.com/in/fatima-nasir-826a70237'
+website_about: ''
+accepted: 11/06/25
+level: level_2
+asset_folder: wiki/assets/designers/urbanpatterndesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # urbanpatterndesigns

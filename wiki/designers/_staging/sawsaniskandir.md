@@ -1,20 +1,51 @@
 ---
-applied: "7/10/2025 13:44:01"
-email: "sawsaniskandar11@gmail.com"
-first_name: "Sawsan"
-last_name: "Iskandir"
-country: "Egypt"
-can_use: "Yes"
-instagram: "https://instagram.com/sawsaniskandir"
-website: "https://behance.net/sawsaniskander11"
-accepted: "19/07/25"
-level: "level_0"
-instagram_handle: "sawsaniskandir"
-bio: ""
-asset_folder: "wiki/assets/designers/sawsaniskandir"
+applied: '7/10/2025 13:44:01'
+email: sawsaniskandar11@gmail.com
+name: Sawsan Iskandir
+slug: sawsaniskandir
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Egypt
+can_use: 'Yes'
+instagram_handle: sawsaniskandir
+instagram: 'https://instagram.com/sawsaniskandir'
+bio: ''
+website: 'https://behance.net/sawsaniskander11'
+website_about: ''
+accepted: 19/07/25
+level: level_0
+asset_folder: wiki/assets/designers/sawsaniskandir
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # sawsaniskandir

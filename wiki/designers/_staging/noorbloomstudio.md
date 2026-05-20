@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 15:28:20"
-email: "noor.blooms.studio@outlook.com"
-first_name: "Noor"
-last_name: "Balbaa"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/noorbloomstudio"
-website: ""
-accepted: "12/06/25"
-level: "level_1"
-instagram_handle: "noorbloomstudio"
-bio: ""
-asset_folder: "wiki/assets/designers/noorbloomstudio"
+applied: '6/9/2025 15:28:20'
+email: noor.blooms.studio@outlook.com
+name: Noor Balbaa
+slug: noorbloomstudio
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: noorbloomstudio
+instagram: 'https://instagram.com/noorbloomstudio'
+bio: ''
+website: ''
+website_about: ''
+accepted: 12/06/25
+level: level_1
+asset_folder: wiki/assets/designers/noorbloomstudio
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # noorbloomstudio

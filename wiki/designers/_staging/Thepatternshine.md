@@ -1,23 +1,54 @@
 ---
-applied: "7/1/2025 10:31:32"
-email: "thepatternshine@gmail.com"
-first_name: "Deborah"
-last_name: "DUARTE"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/Thepatternshine"
-website: "https://Behance.net/thepatternshine"
-accepted: "19/07/25"
-level: "level_0"
-instagram_handle: "Thepatternshine"
-bio: ""
-asset_folder: "wiki/assets/designers/Thepatternshine"
+applied: '7/1/2025 10:31:32'
+email: thepatternshine@gmail.com
+name: Deborah DUARTE
+slug: thepatternshine
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: Thepatternshine
+instagram: 'https://instagram.com/Thepatternshine'
+bio: ''
+website: 'https://Behance.net/thepatternshine'
+website_about: ''
+accepted: 19/07/25
+level: level_0
+asset_folder: wiki/assets/designers/thepatternshine
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Thepatternshine
+# thepatternshine
 
 ## Profile Image
 

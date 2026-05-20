@@ -1,23 +1,54 @@
 ---
-applied: "8/24/2025 0:51:26"
-email: "bunmiobadun@gmail.com"
-first_name: "Oluwabunmi"
-last_name: "Obadun"
-country: "Nigeria"
-can_use: "Yes"
-instagram: "https://instagram.com/Lydia art world"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Lydia art world"
-bio: ""
-asset_folder: "wiki/assets/designers/Lydia-art-world"
+applied: '8/24/2025 0:51:26'
+email: bunmiobadun@gmail.com
+name: Oluwabunmi Obadun
+slug: lydia-art-world
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Nigeria
+can_use: 'Yes'
+instagram_handle: Lydia art world
+instagram: 'https://instagram.com/Lydia art world'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/lydia-art-world
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Lydia art world
+# lydia-art-world
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "7/10/2025 8:50:51"
-email: "DGPESTUDIO1@GMAIL.COM"
-first_name: "Danielli"
-last_name: "Prazeres"
-country: "Brazil"
-can_use: "Yes"
-instagram: "https://instagram.com/estudiodgp"
-website: "https://danielliart.com"
-accepted: "19/07/25"
-level: "level_2"
-instagram_handle: "estudiodgp"
-bio: ""
-asset_folder: "wiki/assets/designers/estudiodgp"
+applied: '7/10/2025 8:50:51'
+email: DGPESTUDIO1@GMAIL.COM
+name: Danielli Prazeres
+slug: estudiodgp
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Brazil
+can_use: 'Yes'
+instagram_handle: estudiodgp
+instagram: 'https://instagram.com/estudiodgp'
+bio: ''
+website: 'https://danielliart.com'
+website_about: ''
+accepted: 19/07/25
+level: level_2
+asset_folder: wiki/assets/designers/estudiodgp
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # estudiodgp

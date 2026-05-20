@@ -1,23 +1,54 @@
 ---
-applied: "9/23/2025 14:15:43"
-email: "aspenandbeeco@icloud.com"
-first_name: "Emma"
-last_name: "Bev"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/Aspenandbeeco"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Aspenandbeeco"
-bio: ""
-asset_folder: "wiki/assets/designers/Aspenandbeeco"
+applied: '9/23/2025 14:15:43'
+email: aspenandbeeco@icloud.com
+name: Emma Bev
+slug: aspenandbeeco
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: Aspenandbeeco
+instagram: 'https://instagram.com/Aspenandbeeco'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/aspenandbeeco
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Aspenandbeeco
+# aspenandbeeco
 
 ## Profile Image
 

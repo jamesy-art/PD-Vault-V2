@@ -1,23 +1,54 @@
 ---
-applied: "6/10/2025 5:54:17"
-email: "hello@annanemone.com"
-first_name: "Anna"
-last_name: "Sebestova"
-country: "Czech Republic"
-can_use: "Yes"
-instagram: "https://instagram.com/Annanemone___"
-website: "https://annanemone.com"
-accepted: "12/06/25"
-level: "level_2"
-instagram_handle: "Annanemone___"
-bio: ""
-asset_folder: "wiki/assets/designers/Annanemone___"
+applied: '6/10/2025 5:54:17'
+email: hello@annanemone.com
+name: Anna Sebestova
+slug: annanemone___
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Czech Republic
+can_use: 'Yes'
+instagram_handle: Annanemone___
+instagram: 'https://instagram.com/Annanemone___'
+bio: ''
+website: 'https://annanemone.com'
+website_about: ''
+accepted: 12/06/25
+level: level_2
+asset_folder: wiki/assets/designers/annanemone___
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Annanemone___
+# annanemone___
 
 ## Profile Image
 

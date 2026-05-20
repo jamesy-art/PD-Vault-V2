@@ -1,0 +1,180 @@
+{
+  "excellent": [
+    {
+      "file": "ainamsnape_print_patterns.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "bybharti.framer.website-projects-flora.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 85,
+      "level": "level_3"
+    },
+    {
+      "file": "checiegirl_creations.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "glitdesign.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "joliodesign.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "launiespiral.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "lisa_weeillustrator.md",
+      "oldQuality": "weak",
+      "oldScore": 35,
+      "newQuality": "excellent",
+      "newScore": 85,
+      "level": "level_3"
+    },
+    {
+      "file": "maetextiles.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "magdalenawesolowskaart.md",
+      "oldQuality": "weak",
+      "oldScore": 25,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "maribustudio_.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "mjmstudio.md",
+      "oldQuality": "weak",
+      "oldScore": 35,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "monlienatelier.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "excellent",
+      "newScore": 100,
+      "level": "level_3"
+    },
+    {
+      "file": "seel.illustrations.md",
+      "oldQuality": "weak",
+      "oldScore": 35,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    },
+    {
+      "file": "valentin_vpv.md",
+      "oldQuality": "weak",
+      "oldScore": 35,
+      "newQuality": "excellent",
+      "newScore": 95,
+      "level": "level_3"
+    }
+  ],
+  "good": [
+    {
+      "file": "arranzastasio.irene.md",
+      "oldQuality": "weak",
+      "oldScore": 20,
+      "newQuality": "good",
+      "newScore": 80,
+      "level": "level_3"
+    },
+    {
+      "file": "katrinesstrek.md",
+      "oldQuality": "weak",
+      "oldScore": 35,
+      "newQuality": "good",
+      "newScore": 70,
+      "level": "level_3"
+    },
+    {
+      "file": "qousqoza7.md",
+      "oldQuality": "weak",
+      "oldScore": 20,
+      "newQuality": "good",
+      "newScore": 70,
+      "level": "level_3"
+    },
+    {
+      "file": "saeideh.design.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "good",
+      "newScore": 80,
+      "level": "level_3"
+    }
+  ],
+  "usable": [
+    {
+      "file": "bwdesignestampa.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "usable",
+      "newScore": 65,
+      "level": "level_3"
+    }
+  ],
+  "weak": [
+    {
+      "file": "jesteniasoutherland.md",
+      "oldQuality": "weak",
+      "oldScore": 30,
+      "newQuality": "weak",
+      "newScore": 30,
+      "level": "level_2"
+    }
+  ],
+  "bad": [
+    {
+      "file": "designsby_klm.md",
+      "oldQuality": "weak",
+      "oldScore": 35,
+      "newQuality": "bad",
+      "newScore": 5,
+      "level": "level_2"
+    }
+  ]
+}

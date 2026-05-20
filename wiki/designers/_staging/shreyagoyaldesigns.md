@@ -1,20 +1,51 @@
 ---
-applied: "8/25/2025 2:41:36"
-email: "shreyagoyal901@gmail.com"
-first_name: "Shreya"
-last_name: "Goyal"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/shreyagoyaldesigns"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "shreyagoyaldesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/shreyagoyaldesigns"
+applied: '8/25/2025 2:41:36'
+email: shreyagoyal901@gmail.com
+name: Shreya Goyal
+slug: shreyagoyaldesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: shreyagoyaldesigns
+instagram: 'https://instagram.com/shreyagoyaldesigns'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/shreyagoyaldesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # shreyagoyaldesigns

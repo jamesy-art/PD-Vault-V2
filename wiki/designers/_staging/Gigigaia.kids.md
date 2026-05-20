@@ -1,23 +1,54 @@
 ---
-applied: "9/8/2025 1:18:37"
-email: "saraalsulaitii@hotmail.com"
-first_name: "Saea"
-last_name: "Alsulaiti"
-country: "Qatar"
-can_use: "Yes"
-instagram: "https://instagram.com/Gigigaia.kids"
-website: "https://Gigigaia.kids.com"
-accepted: ""
-level: "level_2"
-instagram_handle: "Gigigaia.kids"
-bio: ""
-asset_folder: "wiki/assets/designers/Gigigaia.kids"
+applied: '9/8/2025 1:18:37'
+email: saraalsulaitii@hotmail.com
+name: Saea Alsulaiti
+slug: gigigaia.kids
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Qatar
+can_use: 'Yes'
+instagram_handle: Gigigaia.kids
+instagram: 'https://instagram.com/Gigigaia.kids'
+bio: ''
+website: 'https://Gigigaia.kids.com'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/gigigaia.kids
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Gigigaia.kids
+# gigigaia.kids
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 5:02:32"
-email: "hello@de-annestrange.com"
-first_name: "De-Anne"
-last_name: "Strange"
-country: "Australia"
-can_use: "Yes"
-instagram: "https://instagram.com/deannestrangedesign"
-website: "https://de-annestrange.com"
-accepted: "12/06/25"
-level: "level_2"
-instagram_handle: "deannestrangedesign"
-bio: ""
-asset_folder: "wiki/assets/designers/deannestrangedesign"
+applied: '6/10/2025 5:02:32'
+email: hello@de-annestrange.com
+name: De-Anne Strange
+slug: deannestrangedesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Australia
+can_use: 'Yes'
+instagram_handle: deannestrangedesign
+instagram: 'https://instagram.com/deannestrangedesign'
+bio: ''
+website: 'https://de-annestrange.com'
+website_about: ''
+accepted: 12/06/25
+level: level_2
+asset_folder: wiki/assets/designers/deannestrangedesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # deannestrangedesign

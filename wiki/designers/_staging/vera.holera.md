@@ -1,20 +1,51 @@
 ---
-applied: "10/7/2025 4:18:59"
-email: "vkudra@gmail.com"
-first_name: "Vera"
-last_name: "Kudryashova"
-country: "Serbia"
-can_use: "Yes"
-instagram: "https://instagram.com/vera.holera"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "vera.holera"
-bio: ""
-asset_folder: "wiki/assets/designers/vera.holera"
+applied: '10/7/2025 4:18:59'
+email: vkudra@gmail.com
+name: Vera Kudryashova
+slug: vera.holera
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Serbia
+can_use: 'Yes'
+instagram_handle: vera.holera
+instagram: 'https://instagram.com/vera.holera'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/vera.holera
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # vera.holera

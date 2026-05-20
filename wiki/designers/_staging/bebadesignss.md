@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 2:50:08"
-email: "artbybeba369@gmail.com"
-first_name: "Balqees"
-last_name: "Balkam"
-country: "Saudi Arabia"
-can_use: "Yes"
-instagram: "https://instagram.com/bebadesignss"
-website: "https://bebadesigns.com"
-accepted: "15/06/25"
-level: "level_2"
-instagram_handle: "bebadesignss"
-bio: ""
-asset_folder: "wiki/assets/designers/bebadesignss"
+applied: '6/12/2025 2:50:08'
+email: artbybeba369@gmail.com
+name: Balqees Balkam
+slug: bebadesignss
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Saudi Arabia
+can_use: 'Yes'
+instagram_handle: bebadesignss
+instagram: 'https://instagram.com/bebadesignss'
+bio: ''
+website: 'https://bebadesigns.com'
+website_about: ''
+accepted: 15/06/25
+level: level_2
+asset_folder: wiki/assets/designers/bebadesignss
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # bebadesignss

@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 4:17:26"
-email: "mirellabirella@gmail.com"
-first_name: "Mirella"
-last_name: "Hynek-Krämer"
-country: "Czech Republic"
-can_use: "Yes"
-instagram: "https://instagram.com/mirellabirella"
-website: ""
-accepted: "12/06/25"
-level: "level_1"
-instagram_handle: "mirellabirella"
-bio: ""
-asset_folder: "wiki/assets/designers/mirellabirella"
+applied: '6/10/2025 4:17:26'
+email: mirellabirella@gmail.com
+name: Mirella Hynek-Krämer
+slug: mirellabirella
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Czech Republic
+can_use: 'Yes'
+instagram_handle: mirellabirella
+instagram: 'https://instagram.com/mirellabirella'
+bio: ''
+website: ''
+website_about: ''
+accepted: 12/06/25
+level: level_1
+asset_folder: wiki/assets/designers/mirellabirella
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # mirellabirella

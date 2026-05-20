@@ -1,20 +1,51 @@
 ---
-applied: "9/28/2025 0:46:43"
-email: "tanvirsk79@gmail.com"
-first_name: "Shekh"
-last_name: "Tanvirhusen"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/10vir_shaikh"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "10vir_shaikh"
-bio: ""
-asset_folder: "wiki/assets/designers/10vir_shaikh"
+applied: '9/28/2025 0:46:43'
+email: tanvirsk79@gmail.com
+name: Shekh Tanvirhusen
+slug: 10vir_shaikh
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: 10vir_shaikh
+instagram: 'https://instagram.com/10vir_shaikh'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/10vir_shaikh
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # 10vir_shaikh

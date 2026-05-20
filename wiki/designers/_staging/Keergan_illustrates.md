@@ -1,23 +1,54 @@
 ---
-applied: "6/16/2025 9:19:51"
-email: "keerganillustrates@gmail.com"
-first_name: "Keergan"
-last_name: "Olynick"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/Keergan_illustrates"
-website: "https://Keerganillustrates.com"
-accepted: "17/06/25"
-level: "level_2"
-instagram_handle: "Keergan_illustrates"
-bio: ""
-asset_folder: "wiki/assets/designers/Keergan_illustrates"
+applied: '6/16/2025 9:19:51'
+email: keerganillustrates@gmail.com
+name: Keergan Olynick
+slug: keergan_illustrates
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: Keergan_illustrates
+instagram: 'https://instagram.com/Keergan_illustrates'
+bio: ''
+website: 'https://Keerganillustrates.com'
+website_about: ''
+accepted: 17/06/25
+level: level_2
+asset_folder: wiki/assets/designers/keergan_illustrates
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Keergan_illustrates
+# keergan_illustrates
 
 ## Profile Image
 

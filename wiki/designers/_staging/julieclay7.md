@@ -1,20 +1,51 @@
 ---
-applied: "9/19/2024 7:24:32"
-email: "julieclay7@googlemail.com"
-first_name: "Julie"
-last_name: "Clay"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/julieclay7"
-website: "https://Julieclay7"
-accepted: "19/11/2024"
-level: "level_2"
-instagram_handle: "julieclay7"
-bio: ""
-asset_folder: "wiki/assets/designers/julieclay7"
+applied: '9/19/2024 7:24:32'
+email: julieclay7@googlemail.com
+name: Julie Clay
+slug: julieclay7
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: julieclay7
+instagram: 'https://instagram.com/julieclay7'
+bio: ''
+website: 'https://Julieclay7'
+website_about: ''
+accepted: 19/11/2024
+level: level_2
+asset_folder: wiki/assets/designers/julieclay7
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # julieclay7

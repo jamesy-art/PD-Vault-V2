@@ -1,23 +1,54 @@
 ---
-applied: "9/21/2025 7:14:42"
-email: "littleroseinc@gmail.com"
-first_name: "Dominic"
-last_name: "Mcsherry"
-country: "South Africa"
-can_use: "Yes"
-instagram: "https://instagram.com/Moonchilddoms"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Moonchilddoms"
-bio: ""
-asset_folder: "wiki/assets/designers/Moonchilddoms"
+applied: '9/21/2025 7:14:42'
+email: littleroseinc@gmail.com
+name: Dominic Mcsherry
+slug: moonchilddoms
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: South Africa
+can_use: 'Yes'
+instagram_handle: Moonchilddoms
+instagram: 'https://instagram.com/Moonchilddoms'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/moonchilddoms
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Moonchilddoms
+# moonchilddoms
 
 ## Profile Image
 

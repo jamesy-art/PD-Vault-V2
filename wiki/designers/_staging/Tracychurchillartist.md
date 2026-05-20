@@ -1,23 +1,54 @@
 ---
-applied: "8/2/2025 11:33:53"
-email: "tracychurchill@outlook.com"
-first_name: "Tracy"
-last_name: "Churchill"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/Tracychurchillartist"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Tracychurchillartist"
-bio: ""
-asset_folder: "wiki/assets/designers/Tracychurchillartist"
+applied: '8/2/2025 11:33:53'
+email: tracychurchill@outlook.com
+name: Tracy Churchill
+slug: tracychurchillartist
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: Tracychurchillartist
+instagram: 'https://instagram.com/Tracychurchillartist'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/tracychurchillartist
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Tracychurchillartist
+# tracychurchillartist
 
 ## Profile Image
 

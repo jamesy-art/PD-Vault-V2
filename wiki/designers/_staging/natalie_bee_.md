@@ -1,20 +1,51 @@
 ---
-applied: "11/1/2024 16:48:16"
-email: "nataliebeedraws@gmail.com"
-first_name: "Natalie"
-last_name: "Grose"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/natalie_bee_"
-website: "https://nataliebeedesign.com"
-accepted: "07/12/2024"
-level: "level_2"
-instagram_handle: "natalie_bee_"
-bio: ""
-asset_folder: "wiki/assets/designers/natalie_bee_"
+applied: '11/1/2024 16:48:16'
+email: nataliebeedraws@gmail.com
+name: Natalie Grose
+slug: natalie_bee_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: natalie_bee_
+instagram: 'https://instagram.com/natalie_bee_'
+bio: ''
+website: 'https://nataliebeedesign.com'
+website_about: ''
+accepted: 07/12/2024
+level: level_2
+asset_folder: wiki/assets/designers/natalie_bee_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # natalie_bee_

@@ -1,20 +1,51 @@
 ---
-applied: "11/19/2024 8:48:54"
-email: "marsernatextil@gmail.com"
-first_name: "María"
-last_name: "Serna"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/marsernatextil"
-website: "https://linktr.ee/marsernatextil"
-accepted: "31/01/2025"
-level: "level_0"
-instagram_handle: "marsernatextil"
-bio: ""
-asset_folder: "wiki/assets/designers/marsernatextil"
+applied: '11/19/2024 8:48:54'
+email: marsernatextil@gmail.com
+name: María Serna
+slug: marsernatextil
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: marsernatextil
+instagram: 'https://instagram.com/marsernatextil'
+bio: ''
+website: 'https://linktr.ee/marsernatextil'
+website_about: ''
+accepted: 31/01/2025
+level: level_0
+asset_folder: wiki/assets/designers/marsernatextil
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # marsernatextil

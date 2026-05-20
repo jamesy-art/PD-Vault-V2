@@ -1,20 +1,51 @@
 ---
-applied: "8/1/2025 4:44:45"
-email: "rudenskairyna@gmail.com"
-first_name: "Iryna"
-last_name: "Rudenska"
-country: "Italy"
-can_use: "Yes"
-instagram: "https://instagram.com/@illustrator.rudenska"
-website: "https://rudenskayairyna.wixsite.com/illustrator."
-accepted: ""
-level: "level_2"
-instagram_handle: "illustrator.rudenska"
-bio: ""
-asset_folder: "wiki/assets/designers/illustrator.rudenska"
+applied: '8/1/2025 4:44:45'
+email: rudenskairyna@gmail.com
+name: Iryna Rudenska
+slug: illustrator.rudenska
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Italy
+can_use: 'Yes'
+instagram_handle: illustrator.rudenska
+instagram: 'https://instagram.com/@illustrator.rudenska'
+bio: ''
+website: 'https://rudenskayairyna.wixsite.com/illustrator.'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/illustrator.rudenska
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # illustrator.rudenska

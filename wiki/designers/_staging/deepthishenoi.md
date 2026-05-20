@@ -1,20 +1,51 @@
 ---
-applied: "2/12/2026 23:43:28"
-email: "deepthi.shenoi@gmail.com"
-first_name: "Deepthi"
-last_name: "Shenoi"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/deepthishenoi"
-website: "https://linktr.ee/deepthishenoi"
-accepted: ""
-level: "level_0"
-instagram_handle: "deepthishenoi"
-bio: ""
-asset_folder: "wiki/assets/designers/deepthishenoi"
+applied: '2/12/2026 23:43:28'
+email: deepthi.shenoi@gmail.com
+name: Deepthi Shenoi
+slug: deepthishenoi
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: deepthishenoi
+instagram: 'https://instagram.com/deepthishenoi'
+bio: ''
+website: 'https://linktr.ee/deepthishenoi'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/deepthishenoi
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # deepthishenoi

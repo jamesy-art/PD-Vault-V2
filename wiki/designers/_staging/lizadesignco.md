@@ -1,20 +1,51 @@
 ---
-applied: "9/15/2024 18:43:58"
-email: "glizadesign@gmail.com"
-first_name: "Laura"
-last_name: "Walker"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/lizadesignco"
-website: "https://linktr.ee/LizaDesignCo"
-accepted: "12/11/2024"
-level: "level_0"
-instagram_handle: "lizadesignco"
-bio: ""
-asset_folder: "wiki/assets/designers/lizadesignco"
+applied: '9/15/2024 18:43:58'
+email: glizadesign@gmail.com
+name: Laura Walker
+slug: lizadesignco
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: lizadesignco
+instagram: 'https://instagram.com/lizadesignco'
+bio: ''
+website: 'https://linktr.ee/LizaDesignCo'
+website_about: ''
+accepted: 12/11/2024
+level: level_0
+asset_folder: wiki/assets/designers/lizadesignco
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # lizadesignco

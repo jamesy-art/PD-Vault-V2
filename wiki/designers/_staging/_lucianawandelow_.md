@@ -1,20 +1,51 @@
 ---
-applied: "9/25/2025 21:02:01"
-email: "lucianapwandelow@gmail.com"
-first_name: "Luciana"
-last_name: "Wandelow"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/@_lucianawandelow_"
-website: "https://linkedin.com/in/luciana-wandelow"
-accepted: ""
-level: "level_2"
-instagram_handle: "_lucianawandelow_"
-bio: ""
-asset_folder: "wiki/assets/designers/_lucianawandelow_"
+applied: '9/25/2025 21:02:01'
+email: lucianapwandelow@gmail.com
+name: Luciana Wandelow
+slug: _lucianawandelow_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: _lucianawandelow_
+instagram: 'https://instagram.com/@_lucianawandelow_'
+bio: ''
+website: 'https://linkedin.com/in/luciana-wandelow'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/_lucianawandelow_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # _lucianawandelow_

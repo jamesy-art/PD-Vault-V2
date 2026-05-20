@@ -1,20 +1,51 @@
 ---
-applied: "6/20/2025 14:49:02"
-email: "msajones1980@hotmail.co.uk"
-first_name: "Michelle"
-last_name: "Murray"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/michellemurray1980"
-website: ""
-accepted: "22/06/25"
-level: "level_1"
-instagram_handle: "michellemurray1980"
-bio: ""
-asset_folder: "wiki/assets/designers/michellemurray1980"
+applied: '6/20/2025 14:49:02'
+email: msajones1980@hotmail.co.uk
+name: Michelle Murray
+slug: michellemurray1980
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: michellemurray1980
+instagram: 'https://instagram.com/michellemurray1980'
+bio: ''
+website: ''
+website_about: ''
+accepted: 22/06/25
+level: level_1
+asset_folder: wiki/assets/designers/michellemurray1980
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # michellemurray1980

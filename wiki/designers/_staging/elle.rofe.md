@@ -1,20 +1,51 @@
 ---
-applied: "6/20/2025 9:44:27"
-email: "elle.may.rofe@gmail.com"
-first_name: "Elle"
-last_name: "Rofe"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/elle.rofe"
-website: "https://ellf.carrd.co"
-accepted: "20/06/25"
-level: "level_0"
-instagram_handle: "elle.rofe"
-bio: ""
-asset_folder: "wiki/assets/designers/elle.rofe"
+applied: '6/20/2025 9:44:27'
+email: elle.may.rofe@gmail.com
+name: Elle Rofe
+slug: elle.rofe
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: elle.rofe
+instagram: 'https://instagram.com/elle.rofe'
+bio: ''
+website: 'https://ellf.carrd.co'
+website_about: ''
+accepted: 20/06/25
+level: level_0
+asset_folder: wiki/assets/designers/elle.rofe
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # elle.rofe

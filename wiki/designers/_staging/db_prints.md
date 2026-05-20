@@ -1,20 +1,51 @@
 ---
-applied: "8/27/2025 19:45:44"
-email: "dbprints.projects@gmail.com"
-first_name: "Dolores"
-last_name: "Bouza"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/db_prints"
-website: "https://linktr.ee/dbprintsprojects"
-accepted: ""
-level: "level_0"
-instagram_handle: "db_prints"
-bio: ""
-asset_folder: "wiki/assets/designers/db_prints"
+applied: '8/27/2025 19:45:44'
+email: dbprints.projects@gmail.com
+name: Dolores Bouza
+slug: db_prints
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: db_prints
+instagram: 'https://instagram.com/db_prints'
+bio: ''
+website: 'https://linktr.ee/dbprintsprojects'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/db_prints
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # db_prints

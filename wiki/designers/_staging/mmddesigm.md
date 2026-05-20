@@ -1,20 +1,51 @@
 ---
-applied: "6/11/2025 20:33:21"
-email: "molliemarie09@gmail.com"
-first_name: "Mollie"
-last_name: "Dorrian"
-country: "Ireland"
-can_use: "Yes"
-instagram: "https://instagram.com/mmddesigm"
-website: "https://mmddesign.squarespace.com"
-accepted: "15/06/25"
-level: "level_2"
-instagram_handle: "mmddesigm"
-bio: ""
-asset_folder: "wiki/assets/designers/mmddesigm"
+applied: '6/11/2025 20:33:21'
+email: molliemarie09@gmail.com
+name: Mollie Dorrian
+slug: mmddesigm
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Ireland
+can_use: 'Yes'
+instagram_handle: mmddesigm
+instagram: 'https://instagram.com/mmddesigm'
+bio: ''
+website: 'https://mmddesign.squarespace.com'
+website_about: ''
+accepted: 15/06/25
+level: level_2
+asset_folder: wiki/assets/designers/mmddesigm
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # mmddesigm

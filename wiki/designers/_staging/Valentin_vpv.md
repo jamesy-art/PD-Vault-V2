@@ -1,23 +1,218 @@
 ---
-applied: "8/9/2025 9:50:07"
-email: "vivenvalentin@pm.me"
-first_name: "Valentin"
-last_name: "Viven"
-country: "France"
-can_use: "Yes"
-instagram: "https://instagram.com/Valentin_vpv"
-website: "https://VIVENVALENTIN.com"
-accepted: ""
-level: "level_2"
-instagram_handle: "Valentin_vpv"
-bio: ""
-asset_folder: "wiki/assets/designers/Valentin_vpv"
+applied: '8/9/2025 9:50:07'
+email: vivenvalentin@pm.me
+name: Valentin Viven
+slug: valentin_vpv
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing: []
+skills: []
+country: France
+can_use: 'Yes'
+instagram_handle: Valentin_vpv
+instagram: 'https://instagram.com/Valentin_vpv'
+bio: ''
+website: 'https://VIVENVALENTIN.com'
+website_about: ''
+accepted: ''
+level: level_3
+asset_folder: wiki/assets/designers/valentin_vpv
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
-  - level_2
+  - level_3
+website_title: Artiste contemporain | Hautes-Pyrénées (65)
+website_meta_description: >-
+  Artiste contemporain basé dans les Hautes-Pyrénées (65). Créations originales,
+  œuvres uniques et commandes personnalisées. Atelier d’art en Occitanie.
+website_about_raw: >-
+  Artiste contemporain basé dans les Hautes-Pyrénées (65). Créations originales,
+  œuvres uniques et commandes personnalisées. Atelier d’art en Occitanie. J’ai
+  exploré la peinture abstraite à travers plus de cinquante œuvre sur toile. En
+  2024, j’évolue vers le dessin d’affiche. J’ai exploré la peinture abstraite à
+  travers plus de cinquante uvre sur toile. En 2024, j’évolue vers le dessin
+  d’affiche. Je propose de travailler sur vos projets sur-mesure, il vous suffit
+  de me contacter par mail. \u003c!-- Google tag (gtag.js) --> \u003cscript
+  async src=\ artiste Hautes-Pyrénées, artiste 65, artiste contemporain
+  Occitanie, atelier d’art Hautes-Pyrénées, peintre 65, exposition Tarbes,
+  artiste Lourdes Découvrez les œuvres originales d’un artiste basé dans les
+  Hautes-Pyrénées. Art contemporain et créations uniques.
+  https://freight.cargo.site/w/750/i/T2493751879395131089886847405849/tout-304.jpg
+  https://freight.cargo.site/w/1000/i/J1954697709580862528926091284249/IMG_20171223_114936.jpg
+  Créations originales, œuvres uniques et commandes personnalisées. * * This CSS
+  resource incorporates links to font software which is * the valuable
+  copyrighted property of Dinamo Typefaces. You may not * attempt to copy,
+  install, redistribute, convert, modify or reverse * engineer this font
+  software. œuvres J’ai exploré la peinture abstraite à travers plus de
+  cinquante œ uvre sur toile. Prestations Je propose de travailler sur vos
+  projets sur-mesure, il vous suffit de me contacter par mail. En parallèle de
+  mon activité d’artiste plasticien, j’anime des ateliers pour différentes
+  structures : centres d’art, écoles des beaux-arts, associations
+  socio-culturelles et centres jeunes. Je suis également disponible pour
+  travailler sur vos projets sur-mesure. Demande de devis Fresques et oeuvres
+  Fenêtre sur cour, acrylique sur mur, 33 m2, 2018. Motivation, acrylique sur
+  mur, 3 x 6 m, 2024. Motivation, acrylique sur mur, 3 x 6 m, 2024. Printemps,
+  acrylique sur toile, 180 x 250 cm, 2023. (Collection privée). Fresques
+  collectivesVivre ensemble, acrylique sur mur, 2,5 x 5 m, 2025. Collège Paul
+  Eluard, Tarbes.Vivre ensemble, acrylique sur mur, 2,5 x 5 m, 2025. Collège
+  Paul Eluard, Tarbes.Vivre ensemble, acrylique sur mur, 2,5 x 5 m, 2025.
+  Collège Paul Eluard, Tarbes.Clubs, acrylique sur mur, 2,5 x 10 m, 2025.
+  Collège Paul Eluard, Tarbes.Clubs, acrylique sur mur, 2,5 x 10 m, 2025.
+  Collège Paul Eluard, Tarbes.Clubs, acrylique sur mur, 2,5 x 10 m, 2025.
+  Collège Paul Eluard, Tarbes.Clubs, acrylique sur mur, 2,5 x 10 m, 2025.
+  Collège Paul Eluard, Tarbes.Peinture au pochoirPeinture sur verre Fenêtre sur
+  cour, acrylique sur mur, 33 m2, 2018. Motivation, acrylique sur mur, 3 x 6 m,
+  2024. Printemps, acrylique sur toile, 180 x 250 cm, 2023. (Collection privée).
+  Vivre ensemble, acrylique sur mur, 2,5 x 5 m, 2025. Collège Paul Eluard,
+  Tarbes. Clubs, acrylique sur mur, 2,5 x 10 m, 2025. Collège Paul Eluard,
+  Tarbes.
+  https://freight.cargo.site/w/1067/i/Y2493798033702205833396277186329/tout-296.jpg
+  \u003cbr /> Je suis également disponible pour travailler sur vos projets
+  sur-mesure. (Collection privée).\u003c/div>
+  \u003c/figcaption>\u003c/media-item>\u003c/gallery-justify> \u003c/b>\u003cbr
+  /> Fresques collectives\u003chr />\u003cgallery-justify gutter="0.7rem"
+  mobile-gutter="0.7rem" mobile-row-height="38.8%"
+  row-height="14.2%">\u003cmedia-item class="zoomable"
+  hash="U2493763570572590125526470594329">\u003cfigcaption class="caption"
+  slot="caption">\u003cdiv style="text-align: center">Vivre ensemble,\u003cbr />
+  acrylique sur mur, 2,5 x 5 m, 2025. Collège Paul Eluard,
+  Tarbes.\u003c/div>\u003c/figcaption>\u003c/media-item>\u003cmedia-item
+  class="zoomable" hash="D2493763570904631518853242523417">\u003cfigcaption
+  class="caption" slot="caption">\u003cdiv style="text-align: center">Vivre
+  ensemble,\u003cbr /> acrylique sur mur, 2,5 x 5 m, 2025. Collège Paul Eluard,
+  Tarbes.\u003c/div>\u003c/figcaption>\u003c/media-item>\u003cmedia-item
+  class="zoomable" hash="U2493763570886184774779532971801">\u003cfigcaption
+  class="caption" slot="caption">\u003cdiv style="text-align: center">Vivre
+  ensemble,\u003cbr /> acrylique sur mur, 2,5 x 5 m, 2025. Collège Paul Eluard,
+  Tarbes.\u003c/div>\u003c/figcaption>\u003c/media-item>\u003cmedia-item
+  class="zoomable" hash="F2493763232775812647757161402137">\u003cfigcaption
+  class="caption" slot="caption">\u003cdiv style="text-align:
+  center">Clubs,\u003cbr /> acrylique sur mur, 2,5 x 10 m, 2025. Collège Paul
+  Eluard, Tarbes.\u003c/div>\u003c/figcaption>\u003c/media-item>\u003cmedia-item
+  class="zoomable" hash="E2493763233144747529231352434457">\u003cfigcaption
+  class="caption" slot="caption">\u003cdiv style="text-align:
+  center">Clubs,\u003cbr /> acrylique sur mur, 2,5 x 10 m, 2025. Collège Paul
+  Eluard, Tarbes.\u003c/div>\u003c/figcaption>\u003c/media-item>\u003cmedia-item
+  class="zoomable" hash="G2493763233163194273305061986073">\u003cfigcaption
+  class="caption" slot="caption">\u003cdiv style="text-align:
+  center">Clubs,\u003cbr /> acrylique sur mur, 2,5 x 10 m, 2025. Collège Paul
+  Eluard, Tarbes.\u003c/div>\u003c/figcaption>\u003c/media-item>\u003cmedia-item
+  class="zoomable" hash="G2493763233181641017378771537689">\u003cfigcaption
+  class="caption" slot="caption">\u003cdiv style="text-align:
+  center">Clubs,\u003cbr /> acrylique sur mur, 2,5 x 10 m, 2025. Je suis
+  également disponible pour travailler sur vos projets sur-mesure. Demande de
+  devis Fresques et oeuvres Fenêtre sur cour, acrylique sur mur, 33 m2, 2018.
+  Fresques collectives Vivre ensemble, acrylique sur mur, 2,5 x 5 m, 2025.
+  Peinture au pochoir Peinture sur verre [id="E3934736066"] bodycopy { }
+  .page-content .caption { display: none; } Revenir en haut
+  [id="T2639911863"].page { } [id="T2639911863"] .backdrop { } .mobile
+  [id="T2639911863"] .backdrop { } [id="T2639911863"] .page-layout {
+  align-items: center; --page-layout-mix: normal; padding: 0.0rem; max-width:
+  88%; } .mobile [id="T2639911863"] .page-layout { } [id="T2639911863"]
+  .page-content { padding-bottom: 1.7rem; width: 100%; padding-top: 0.7rem; }
+website_about_clean: >-
+  Viven Valentin, based in the Hautes-Pyrénées (department 65). From 2022 to
+  2025, I was a member of a collective of visual artists based in Tarbes, which
+  was organized as an association: La Chaise. I participated in several group
+  exhibitions, notably at the Omnibus Gallery and the ESAD Pyrénées art school.
+  Alongside my work as a visual artist, I lead workshops for various
+  organizations: art centers, fine arts schools, socio-cultural associations,
+  and youth centers. I have explored abstract painting through more than fifty
+  works on canvas. It was in 2014 that I decided to delve into it to better
+  understand and master it. In 2024, after ten years of dedicated practice in
+  abstract painting, I transitioned to poster design. Alongside my work as a
+  visual artist, I lead workshops for various organizations: art centers, fine
+  arts schools, socio-cultural associations, and youth centers. I am also
+  available to work on your custom projects. Request for a quote Frescoes and
+  artworks Collective murals Stencil painting Painting on glass
+website_project_text: 'Printemps, acrylique sur toile, 180 x 250 cm, 2023.'
+website_social_text: ''
+scrape_quality: excellent
+scrape_quality_score: 95
+usable_for_claude: true
+designer_type: []
+open_to: []
+categories: []
+source_status: scraped
+enrichment_status: needs_claude
+manual_about_raw: >-
+  Viven Valentin, based in the Hautes-Pyrénées (department 65).  
+
+
+  From 2022 to 2025, I was a member of a collective of visual artists based in
+  Tarbes, which was organized as an association: La Chaise.
+
+
+  I participated in several group exhibitions, notably at the Omnibus Gallery
+  and the ESAD Pyrénées art school. Alongside my work as a visual artist, I lead
+  workshops for various organizations: art centers, fine arts schools,
+  socio-cultural associations, and youth centers.
+
+
+  I have explored abstract painting through more than fifty works on canvas. It
+  was in 2014 that I decided to delve into it to better understand and master
+  it.
+
+
+  In 2024, after ten years of dedicated practice in abstract painting, I
+  transitioned to poster design. Alongside my work as a visual artist, I lead
+  workshops for various organizations: art centers, fine arts schools,
+  socio-cultural associations, and youth centers.
+
+  I am also available to work on your custom projects.
+
+
+  Request for a quote
+
+
+  Frescoes and artworks
+
+
+
+
+
+
+  Collective murals
+
+
+
+
+
+
+
+
+
+  Stencil painting
+
+
+
+
+
+
+
+
+  Painting on glass
+manual_reviewed: true
+manual_quality: excellent
+manual_review_note: Manual about text reviewed and rescored.
 ---
 
-# Valentin_vpv
+# valentin_vpv
 
 ## Profile Image
 

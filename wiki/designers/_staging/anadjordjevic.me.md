@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 9:53:22"
-email: "anadjordjevic@gmail.com"
-first_name: "Ana"
-last_name: "Djordjevic"
-country: "Serbia"
-can_use: "Yes"
-instagram: "https://instagram.com/anadjordjevic.me"
-website: "https://anadjordjevic.me"
-accepted: "11/06/25"
-level: "level_2"
-instagram_handle: "anadjordjevic.me"
-bio: ""
-asset_folder: "wiki/assets/designers/anadjordjevic.me"
+applied: '6/9/2025 9:53:22'
+email: anadjordjevic@gmail.com
+name: Ana Djordjevic
+slug: anadjordjevic.me
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Serbia
+can_use: 'Yes'
+instagram_handle: anadjordjevic.me
+instagram: 'https://instagram.com/anadjordjevic.me'
+bio: ''
+website: 'https://anadjordjevic.me'
+website_about: ''
+accepted: 11/06/25
+level: level_2
+asset_folder: wiki/assets/designers/anadjordjevic.me
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # anadjordjevic.me

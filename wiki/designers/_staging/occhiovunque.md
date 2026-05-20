@@ -1,20 +1,51 @@
 ---
-applied: "8/15/2025 1:08:55"
-email: "occhiovunque@gmail.com"
-first_name: "Valentina"
-last_name: "Scannapieco"
-country: "Italy"
-can_use: "Yes"
-instagram: "https://instagram.com/@occhiovunque"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "occhiovunque"
-bio: ""
-asset_folder: "wiki/assets/designers/occhiovunque"
+applied: '8/15/2025 1:08:55'
+email: occhiovunque@gmail.com
+name: Valentina Scannapieco
+slug: occhiovunque
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Italy
+can_use: 'Yes'
+instagram_handle: occhiovunque
+instagram: 'https://instagram.com/@occhiovunque'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/occhiovunque
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # occhiovunque

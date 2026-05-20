@@ -1,20 +1,51 @@
 ---
-applied: "6/16/2025 16:39:53"
-email: "ellie.taylor0602@icloud.com"
-first_name: "Ellie"
-last_name: "Taylor"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/e.tdesigns"
-website: ""
-accepted: "17/06/25"
-level: "level_1"
-instagram_handle: "e.tdesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/e.tdesigns"
+applied: '6/16/2025 16:39:53'
+email: ellie.taylor0602@icloud.com
+name: Ellie Taylor
+slug: e.tdesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: e.tdesigns
+instagram: 'https://instagram.com/e.tdesigns'
+bio: ''
+website: ''
+website_about: ''
+accepted: 17/06/25
+level: level_1
+asset_folder: wiki/assets/designers/e.tdesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # e.tdesigns

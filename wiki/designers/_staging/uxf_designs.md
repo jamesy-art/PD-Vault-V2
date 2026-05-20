@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 13:02:58"
-email: "designbyuf@gmail.com"
-first_name: "Usama"
-last_name: "Faiz"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/uxf_designs"
-website: "https://behance.net/usamafaiz"
-accepted: "11/06/25"
-level: "level_0"
-instagram_handle: "uxf_designs"
-bio: ""
-asset_folder: "wiki/assets/designers/uxf_designs"
+applied: '6/9/2025 13:02:58'
+email: designbyuf@gmail.com
+name: Usama Faiz
+slug: uxf_designs
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: uxf_designs
+instagram: 'https://instagram.com/uxf_designs'
+bio: ''
+website: 'https://behance.net/usamafaiz'
+website_about: ''
+accepted: 11/06/25
+level: level_0
+asset_folder: wiki/assets/designers/uxf_designs
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # uxf_designs

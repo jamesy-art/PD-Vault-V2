@@ -1,20 +1,51 @@
 ---
-applied: "11/30/2025 20:18:41"
-email: "hello@beachsidedesigns.com"
-first_name: "Lisa"
-last_name: "Martin"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/beachsidedesigns.com_oc"
-website: "https://linktr.ee/lisamartinbeachsidedesigns"
-accepted: ""
-level: "level_0"
-instagram_handle: "beachsidedesigns.com_oc"
-bio: ""
-asset_folder: "wiki/assets/designers/beachsidedesigns.com_oc"
+applied: '11/30/2025 20:18:41'
+email: hello@beachsidedesigns.com
+name: Lisa Martin
+slug: beachsidedesigns.com_oc
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: beachsidedesigns.com_oc
+instagram: 'https://instagram.com/beachsidedesigns.com_oc'
+bio: ''
+website: 'https://linktr.ee/lisamartinbeachsidedesigns'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/beachsidedesigns.com_oc
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # beachsidedesigns.com_oc

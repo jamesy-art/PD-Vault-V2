@@ -1,23 +1,56 @@
 ---
-applied: "10/16/2025 8:27:37"
-email: "puramanaideas@gmail.com"
-first_name: "YANINA"
-last_name: "IMPERIALE"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/@yaninaimperiale @puramanideas"
-website: "https://yaninaimperiale.mitiendanube.com / https://puramanaideas.mitiendanube.com"
-accepted: ""
-level: "level_2"
-instagram_handle: "yaninaimperiale @puramanideas"
-bio: ""
-asset_folder: "wiki/assets/designers/yaninaimperiale-puramanideas"
+applied: '10/16/2025 8:27:37'
+email: puramanaideas@gmail.com
+name: YANINA IMPERIALE
+slug: yaninaimperiale-puramanideas
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: yaninaimperiale @puramanideas
+instagram: 'https://instagram.com/@yaninaimperiale @puramanideas'
+bio: ''
+website: >-
+  https://yaninaimperiale.mitiendanube.com /
+  https://puramanaideas.mitiendanube.com
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/yaninaimperiale-puramanideas
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# yaninaimperiale @puramanideas
+# yaninaimperiale-puramanideas
 
 ## Profile Image
 

@@ -1,23 +1,54 @@
 ---
-applied: "6/13/2025 11:38:08"
-email: "Galadreamdesigns@gmail.com"
-first_name: "Toni"
-last_name: "Blough"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/Galadream.designs"
-website: "https://linktr.ee/galadreamdesigns"
-accepted: "16/06/25"
-level: "level_0"
-instagram_handle: "Galadream.designs"
-bio: ""
-asset_folder: "wiki/assets/designers/Galadream.designs"
+applied: '6/13/2025 11:38:08'
+email: Galadreamdesigns@gmail.com
+name: Toni Blough
+slug: galadream.designs
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: Galadream.designs
+instagram: 'https://instagram.com/Galadream.designs'
+bio: ''
+website: 'https://linktr.ee/galadreamdesigns'
+website_about: ''
+accepted: 16/06/25
+level: level_0
+asset_folder: wiki/assets/designers/galadream.designs
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Galadream.designs
+# galadream.designs
 
 ## Profile Image
 

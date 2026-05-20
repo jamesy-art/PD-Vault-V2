@@ -1,23 +1,54 @@
 ---
-applied: "11/10/2025 13:43:57"
-email: "patry990@gmail.com"
-first_name: "Patricia"
-last_name: "Ruiz Miguel"
-country: "Spain"
-can_use: "Yes"
-instagram: "https://instagram.com/Patriciartes"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Patriciartes"
-bio: ""
-asset_folder: "wiki/assets/designers/Patriciartes"
+applied: '11/10/2025 13:43:57'
+email: patry990@gmail.com
+name: Patricia Ruiz Miguel
+slug: patriciartes
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Spain
+can_use: 'Yes'
+instagram_handle: Patriciartes
+instagram: 'https://instagram.com/Patriciartes'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/patriciartes
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Patriciartes
+# patriciartes
 
 ## Profile Image
 

@@ -1,20 +1,51 @@
 ---
-applied: "2/14/2023 6:46:45"
-email: "zsofia.bun@gmail.com"
-first_name: "Zsófia"
-last_name: "Bun"
-country: "Hungary"
-can_use: "Yes"
-instagram: "https://instagram.com/aifosznub"
-website: ""
-accepted: "25/09/2024"
-level: "level_1"
-instagram_handle: "aifosznub"
-bio: ""
-asset_folder: "wiki/assets/designers/aifosznub"
+applied: '2/14/2023 6:46:45'
+email: zsofia.bun@gmail.com
+name: Zsófia Bun
+slug: aifosznub
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Hungary
+can_use: 'Yes'
+instagram_handle: aifosznub
+instagram: 'https://instagram.com/aifosznub'
+bio: ''
+website: ''
+website_about: ''
+accepted: 25/09/2024
+level: level_1
+asset_folder: wiki/assets/designers/aifosznub
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # aifosznub

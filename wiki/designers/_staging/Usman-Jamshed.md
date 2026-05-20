@@ -1,23 +1,54 @@
 ---
-applied: "8/29/2025 7:40:14"
-email: "usmanbaig150@gmail.com"
-first_name: "Usman"
-last_name: "Baig"
-country: "Pakistan"
-can_use: "Yes"
-instagram: "https://instagram.com/Usman Jamshed"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Usman Jamshed"
-bio: ""
-asset_folder: "wiki/assets/designers/Usman-Jamshed"
+applied: '8/29/2025 7:40:14'
+email: usmanbaig150@gmail.com
+name: Usman Baig
+slug: usman-jamshed
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Pakistan
+can_use: 'Yes'
+instagram_handle: Usman Jamshed
+instagram: 'https://instagram.com/Usman Jamshed'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/usman-jamshed
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Usman Jamshed
+# usman-jamshed
 
 ## Profile Image
 

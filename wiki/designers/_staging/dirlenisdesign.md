@@ -1,20 +1,51 @@
 ---
-applied: "9/26/2025 21:59:56"
-email: "dirlenisdesign@gmail.com"
-first_name: "Dirlenis"
-last_name: "Pena"
-country: "Colombia"
-can_use: "Yes"
-instagram: "https://instagram.com/@dirlenisdesign"
-website: "https://behance.net/dirlenisdesign"
-accepted: ""
-level: "level_0"
-instagram_handle: "dirlenisdesign"
-bio: ""
-asset_folder: "wiki/assets/designers/dirlenisdesign"
+applied: '9/26/2025 21:59:56'
+email: dirlenisdesign@gmail.com
+name: Dirlenis Pena
+slug: dirlenisdesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Colombia
+can_use: 'Yes'
+instagram_handle: dirlenisdesign
+instagram: 'https://instagram.com/@dirlenisdesign'
+bio: ''
+website: 'https://behance.net/dirlenisdesign'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/dirlenisdesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # dirlenisdesign

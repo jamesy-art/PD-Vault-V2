@@ -1,23 +1,54 @@
 ---
-applied: "6/18/2025 23:13:59"
-email: "sams.ramona@gmail.com"
-first_name: "Oldsunnnnn"
-last_name: "Oldsunnnnn"
-country: "Indonesia"
-can_use: "Yes"
-instagram: "https://instagram.com/Oldsunnnnn"
-website: ""
-accepted: "20/06/25"
-level: "level_1"
-instagram_handle: "Oldsunnnnn"
-bio: ""
-asset_folder: "wiki/assets/designers/Oldsunnnnn"
+applied: '6/18/2025 23:13:59'
+email: sams.ramona@gmail.com
+name: Oldsunnnnn Oldsunnnnn
+slug: oldsunnnnn
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Indonesia
+can_use: 'Yes'
+instagram_handle: Oldsunnnnn
+instagram: 'https://instagram.com/Oldsunnnnn'
+bio: ''
+website: ''
+website_about: ''
+accepted: 20/06/25
+level: level_1
+asset_folder: wiki/assets/designers/oldsunnnnn
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Oldsunnnnn
+# oldsunnnnn
 
 ## Profile Image
 

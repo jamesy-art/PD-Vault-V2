@@ -1,20 +1,51 @@
 ---
-applied: "6/11/2025 6:40:49"
-email: "dafne.designstudio@gmail.com"
-first_name: "Dafne"
-last_name: "De Souza"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/dafne.designstudio"
-website: "https://dafnedesignstudio.etsy.com"
-accepted: "14/06/25"
-level: "level_2"
-instagram_handle: "dafne.designstudio"
-bio: ""
-asset_folder: "wiki/assets/designers/dafne.designstudio"
+applied: '6/11/2025 6:40:49'
+email: dafne.designstudio@gmail.com
+name: Dafne De Souza
+slug: dafne.designstudio
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: dafne.designstudio
+instagram: 'https://instagram.com/dafne.designstudio'
+bio: ''
+website: 'https://dafnedesignstudio.etsy.com'
+website_about: ''
+accepted: 14/06/25
+level: level_2
+asset_folder: wiki/assets/designers/dafne.designstudio
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # dafne.designstudio

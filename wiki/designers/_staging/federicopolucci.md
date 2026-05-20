@@ -1,20 +1,51 @@
 ---
-applied: "6/16/2025 4:11:13"
-email: "vitilega_0226@yahoo.it"
-first_name: "Federico"
-last_name: "Polucci"
-country: "Germany"
-can_use: "Yes"
-instagram: "https://instagram.com/federicopolucci"
-website: ""
-accepted: "16/06/25"
-level: "level_1"
-instagram_handle: "federicopolucci"
-bio: ""
-asset_folder: "wiki/assets/designers/federicopolucci"
+applied: '6/16/2025 4:11:13'
+email: vitilega_0226@yahoo.it
+name: Federico Polucci
+slug: federicopolucci
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Germany
+can_use: 'Yes'
+instagram_handle: federicopolucci
+instagram: 'https://instagram.com/federicopolucci'
+bio: ''
+website: ''
+website_about: ''
+accepted: 16/06/25
+level: level_1
+asset_folder: wiki/assets/designers/federicopolucci
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # federicopolucci

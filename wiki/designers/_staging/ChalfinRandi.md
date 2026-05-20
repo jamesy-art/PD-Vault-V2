@@ -1,23 +1,54 @@
 ---
-applied: "6/13/2025 1:41:42"
-email: "chalfinrandi67@gmail.comlp"
-first_name: "Randi"
-last_name: "Chalfin"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/ChalfinRandi"
-website: "https://ChalfinRandi"
-accepted: "16/06/25"
-level: "level_2"
-instagram_handle: "ChalfinRandi"
-bio: ""
-asset_folder: "wiki/assets/designers/ChalfinRandi"
+applied: '6/13/2025 1:41:42'
+email: chalfinrandi67@gmail.comlp
+name: Randi Chalfin
+slug: chalfinrandi
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: ChalfinRandi
+instagram: 'https://instagram.com/ChalfinRandi'
+bio: ''
+website: 'https://ChalfinRandi'
+website_about: ''
+accepted: 16/06/25
+level: level_2
+asset_folder: wiki/assets/designers/chalfinrandi
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# ChalfinRandi
+# chalfinrandi
 
 ## Profile Image
 

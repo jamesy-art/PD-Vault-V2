@@ -1,20 +1,51 @@
 ---
-applied: "2/18/2026 3:06:19"
-email: "bysarisoeria25@gmail.com"
-first_name: "Sari"
-last_name: "Soeriawinata"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/@sarisoeriawinata"
-website: "https://-"
-accepted: ""
-level: "level_2"
-instagram_handle: "sarisoeriawinata"
-bio: ""
-asset_folder: "wiki/assets/designers/sarisoeriawinata"
+applied: '2/18/2026 3:06:19'
+email: bysarisoeria25@gmail.com
+name: Sari Soeriawinata
+slug: sarisoeriawinata
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: sarisoeriawinata
+instagram: 'https://instagram.com/@sarisoeriawinata'
+bio: ''
+website: 'https://-'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/sarisoeriawinata
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # sarisoeriawinata

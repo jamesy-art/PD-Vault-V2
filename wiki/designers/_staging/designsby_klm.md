@@ -1,20 +1,172 @@
 ---
-applied: "7/13/2025 10:08:11"
-email: "designsbyklm25@gmail.com"
-first_name: "Katie"
-last_name: "Moody"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/designsby_klm"
-website: "https://designsbyklm-shop.fourthwall.com"
-accepted: "19/07/25"
-level: "level_2"
-instagram_handle: "designsby_klm"
-bio: ""
-asset_folder: "wiki/assets/designers/designsby_klm"
+applied: '7/13/2025 10:08:11'
+email: designsbyklm25@gmail.com
+name: Katie Moody
+slug: designsby_klm
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing: []
+skills:
+  - Colour theory
+  - Repeat construction
+country: United States
+can_use: 'Yes'
+instagram_handle: designsby_klm
+instagram: 'https://instagram.com/designsby_klm'
+bio: ''
+website: 'https://designsbyklm-shop.fourthwall.com'
+website_about: ''
+accepted: 19/07/25
+level: level_2
+asset_folder: wiki/assets/designers/designsby_klm
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+website_title: Designs by KLM
+website_meta_description: The official website and shop of Designs by KLM.
+website_about_raw: >-
+  My full Winter Collection is here! This section contains the product
+  categories I currently have available! If you don't see a type of product you
+  are interested in, fill out my Contact Form in my About & Contact section and
+  let me know. All of the elements seen in my designs are hand drawn digitally
+  and assembled into a seamless pattern or design. I have loved exploring how to
+  draw the elements and what colors to use. See my About & Contact section for a
+  further look into how I got started! Don't see a product you're interested in,
+  but want to support me as a creator? Feel free to leave a donation! I
+  appreciate your support more than you know. Leave a message with your donation
+  and I'll try to reply. Happy Winter, my Gnomies! My full Winter Collection is
+  here! Explore my Winter Collection now! Explore my Winter Collection now!
+  Featured products Christmas with my Gnomies Design Mug with "Merry Christmas
+  my Gnomies" $16.00 Christmas with my Gnomies Design Mug $16.00 Christmas with
+  my Gnomies "Merry Christmas" Design Crewneck Sweatshirt $40.00 +8 Christmas
+  with my Gnomies "Merry Christmas" Design Long Sleeve Tee $30.00 +6 Christmas
+  with my Gnomies "Merry Christmas" Design Bella+Canvas Supersoft T-Shirt $27.00
+  +7 Christmas with my Gnomies Design Crewneck Sweatshirt $40.00 +7 Christmas
+  with my Gnomies Design Long Sleeve Tee $30.00 +6 Christmas with my Gnomies
+  Design Bella+Canvas Supersoft T-Shirt $27.00 +7 Christmas with my Gnomies
+  Design Mug with "Merry Christmas my Gnomies" $16.00 Christmas with my Gnomies
+  Design Mug $16.00 Christmas with my Gnomies "Merry Christmas" Design Crewneck
+  Sweatshirt $40.00 +8 Christmas with my Gnomies "Merry Christmas" Design Long
+  Sleeve Tee $30.00 +6 Christmas with my Gnomies "Merry Christmas" Design
+  Bella+Canvas Supersoft T-Shirt $27.00 +7 Christmas with my Gnomies Design
+  Crewneck Sweatshirt $40.00 +7 Christmas with my Gnomies Design Long Sleeve Tee
+  $30.00 +6 Christmas with my Gnomies Design Bella+Canvas Supersoft T-Shirt
+  $27.00 +7 Christmas with my Gnomies Design Mug with "Merry Christmas my
+  Gnomies" $16.00 Christmas with my Gnomies Design Mug $16.00 Christmas with my
+  Gnomies "Merry Christmas" Design Crewneck Sweatshirt $40.00 +8 Christmas with
+  my Gnomies "Merry Christmas" Design Crewneck Sweatshirt $40.00 Christmas with
+  my Gnomies "Merry Christmas" Design Long Sleeve Tee $30.00 +6 Christmas with
+  my Gnomies "Merry Christmas" Design Long Sleeve Tee $30.00 Christmas with my
+  Gnomies "Merry Christmas" Design Bella+Canvas Supersoft T-Shirt $27.00 +7
+  Christmas with my Gnomies "Merry Christmas" Design Bella+Canvas Supersoft
+  T-Shirt $27.00 Christmas with my Gnomies Design Crewneck Sweatshirt $40.00 +7
+  Christmas with my Gnomies Design Crewneck Sweatshirt $40.00 Christmas with my
+  Gnomies Design Long Sleeve Tee $30.00 +6 Christmas with my Gnomies Design Long
+  Sleeve Tee $30.00 Christmas with my Gnomies Design Bella+Canvas Supersoft
+  T-Shirt $27.00 +7 Christmas with my Gnomies Design Bella+Canvas Supersoft
+  T-Shirt $27.00 What's Unique About My Designs? All of the elements seen in my
+  designs are hand drawn digitally and assembled into a seamless pattern or
+  design. I have loved exploring how to draw the elements and what colors to
+  use. See my About & Contact section for a further look into how I got started!
+  What's Unique About My Designs? Latest on Instagram Visit profile Visit
+  profile Latest on Instagram Visit profile Want to support me as a creator?
+  Don't see a product you're interested in, but want to support me as a creator?
+  Feel free to leave a donation! I appreciate your support more than you know.
+  Leave a message with your donation and I'll try to reply. Want to support me
+  as a creator?
+  https://imgproxy.fourthwall.dev/HHPLjNBqNUiF2Pjbd-vE974sTaZsdvE8z0USMaPioyg/w:1200/sm:1/enc/uj1t_Lv9wYKgsXrl/BNvphtyp9tWthoOB/7rfK6czxKWsbgzd9/4qtU2IDH7PR06Z-3/LgK7G9a8Mf9gOWqb/Hty48xWA2tbWiwgb/DrJ3ZLB7d4jJfs8c/mSU9_9X9mJc_sQui/_UFxmuIcioUSqT3j/_agBRHnzijLqRlvO/9yaYbPzSrK7-RIP0/bXtoFkbVaUzdrguG/ei4xZOxT-eZ74G9S/P9hldDGULoy0pyBU/rWqMs7ow_meZ_Pb0/QlT2QD1if3QYeAdu.png
+  Let me know and I will see if I can add it to what you'd like! If you don't
+  see a type of product you are interested in, fill out my Contact Form in my
+  About & Contact section and let me know. All of the elements seen in my
+  designs are hand drawn digitally and assembled into a seamless pattern or
+  design. I have loved exploring how to draw the elements and what colors to
+  use. See my About & Contact section for a further look into how I got started!
+  .section-fw-section-donations-4630a38d-38a8-49b8-bd5f-d403c6dcca0e-padding {
+  padding-top: 36px; padding-bottom: 36px; } @media screen and (min-width:
+  640px) {
+  .section-fw-section-donations-4630a38d-38a8-49b8-bd5f-d403c6dcca0e-padding {
+  padding-top: 48px; padding-bottom: 48px; } } Want to support me as a creator?
+  Don't see a product you're interested in, but want to support me as a creator?
+  'Admin' : 'Supporter'), toggleDropdown: (dropdownContent) => {
+  dropdownContent.style.display = dropdownContent.style.display === 'none' ||
+  dropdownContent.style.display === '' ? Hi! My name is Katie, and I am the
+  creator behind Designs by KLM. I have always loved drawing, painting, and
+  graphic design. That love led me to drawing my own patterns and graphics, and
+  wanting to put them on items for others to enjoy! For a more indepth recap of
+  how I started this journey, check out my blog post here! Have a question or
+  comment? Want a pattern on a different product or color changes on a pattern?
+  Fill out my Contact Form and let me know! Contact Form Have a question or
+  comment? Want a pattern on a different product or color changes on a pattern?
+  Fill out my Contact Form and let me know! Contact Form Contact Form Have a
+  question or comment? Want a pattern on a different product or color changes on
+  a pattern? Fill out my Contact Form and let me know! For a more indepth recap
+  of how I started this journey, check out my blog post here ! My name is Katie,
+  and I am the creator behind Designs by KLM. That love led me to drawing my own
+  patterns and graphics, and wanting to put them on items for others to enjoy!
+  .section-fw-section-links-list-dfacac99-7b01-443a-94f9-082c59d3c8e3-padding {
+  padding-top: 36px; padding-bottom: 36px; } @media screen and (min-width:
+  640px) {
+  .section-fw-section-links-list-dfacac99-7b01-443a-94f9-082c59d3c8e3-padding {
+  padding-top: 48px; padding-bottom: 48px; } } Contact Form Have a question or
+  comment? Want a pattern on a different product or color changes on a pattern?
+  Fill out the form below and I will respond to your question or comment!
+  Contact Form Fill out the form below and I will respond to your question or
+  comment!
+website_about_clean: >-
+  About Me Hi! My name is Katie, and I am the creator behind Designs by KLM. I
+  have always loved drawing, painting, and graphic design. That love led me to
+  drawing my own patterns and graphics, and wanting to put them on items for
+  others to enjoy! For a more indepth recap of how I started this journey, check
+  out my blog post here! Want to stay connected? Follow me on Instagram at
+  designsby_klm and sign up for my newsletter!
+website_project_text: >-
+  That love led me to drawing my own patterns and graphics, and wanting to put
+  them on items for others to enjoy! Want a pattern on a different product or
+  color changes on a pattern? That love led me to drawing my own patterns and
+  graphics, and wanting to put them on items for others to
+  enjoy!.section-fw-section-links-list-dfacac99-7b01-443a-94f9-082c59d3c8e3-padding
+  @media screen and (min-width: 640px) Contact Form Have a question or comment?
+website_social_text: ''
+scrape_quality: bad
+scrape_quality_score: 5
+usable_for_claude: false
+designer_type: []
+open_to: []
+categories: []
+source_status: scraped
+enrichment_status: needs_manual_review
+manual_about_raw: >-
+  About Me
+
+  Hi! My name is Katie, and I am the creator behind Designs by KLM. I have
+  always loved drawing, painting, and graphic design. That love led me to
+  drawing my own patterns and graphics, and wanting to put them on items for
+  others to enjoy!
+
+
+  For a more indepth recap of how I started this journey, check out my blog post
+  here!
+
+   Want to stay connected? Follow me on Instagram at designsby_klm and sign up for my newsletter!
+manual_reviewed: true
+manual_quality: bad
+manual_review_note: Manual about text reviewed and rescored.
 ---
 
 # designsby_klm

@@ -1,20 +1,51 @@
 ---
-applied: "10/6/2025 18:12:45"
-email: "embriaoestudio@gmail.com"
-first_name: "Daniela"
-last_name: "Porto"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/embriao_estudio_"
-website: "https://behance.net/danielaporto2"
-accepted: ""
-level: "level_0"
-instagram_handle: "embriao_estudio_"
-bio: ""
-asset_folder: "wiki/assets/designers/embriao_estudio_"
+applied: '10/6/2025 18:12:45'
+email: embriaoestudio@gmail.com
+name: Daniela Porto
+slug: embriao_estudio_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: embriao_estudio_
+instagram: 'https://instagram.com/embriao_estudio_'
+bio: ''
+website: 'https://behance.net/danielaporto2'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/embriao_estudio_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # embriao_estudio_

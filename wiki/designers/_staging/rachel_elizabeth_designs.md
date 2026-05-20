@@ -1,20 +1,51 @@
 ---
-applied: "1/14/2025 8:53:04"
-email: "rachel.edmunds@hotmail.co.uk"
-first_name: "Rachel"
-last_name: "Edmunds"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/rachel_elizabeth_designs"
-website: "https://patternbank.com/rachelelizabethdesigns"
-accepted: "12/03/2025"
-level: "level_2"
-instagram_handle: "rachel_elizabeth_designs"
-bio: ""
-asset_folder: "wiki/assets/designers/rachel_elizabeth_designs"
+applied: '1/14/2025 8:53:04'
+email: rachel.edmunds@hotmail.co.uk
+name: Rachel Edmunds
+slug: rachel_elizabeth_designs
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: rachel_elizabeth_designs
+instagram: 'https://instagram.com/rachel_elizabeth_designs'
+bio: ''
+website: 'https://patternbank.com/rachelelizabethdesigns'
+website_about: ''
+accepted: 12/03/2025
+level: level_2
+asset_folder: wiki/assets/designers/rachel_elizabeth_designs
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # rachel_elizabeth_designs

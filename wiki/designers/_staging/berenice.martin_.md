@@ -1,20 +1,51 @@
 ---
-applied: "6/26/2025 7:06:51"
-email: "berenice@bemartinstudio.com"
-first_name: "Berenice"
-last_name: "Martin"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/berenice.martin_"
-website: ""
-accepted: "26/06/25"
-level: "level_1"
-instagram_handle: "berenice.martin_"
-bio: ""
-asset_folder: "wiki/assets/designers/berenice.martin_"
+applied: '6/26/2025 7:06:51'
+email: berenice@bemartinstudio.com
+name: Berenice Martin
+slug: berenice.martin_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: berenice.martin_
+instagram: 'https://instagram.com/berenice.martin_'
+bio: ''
+website: ''
+website_about: ''
+accepted: 26/06/25
+level: level_1
+asset_folder: wiki/assets/designers/berenice.martin_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # berenice.martin_

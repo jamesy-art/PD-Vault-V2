@@ -1,20 +1,51 @@
 ---
-applied: "2/5/2023 20:56:49"
-email: "m.islamlenovo@gmail.com"
-first_name: "Metin"
-last_name: "İslam"
-country: "Turkey"
-can_use: "Yes"
-instagram: "https://instagram.com/designermetin"
-website: "https://linktr.ee/designermetin"
-accepted: "11/06/25"
-level: "level_0"
-instagram_handle: "designermetin"
-bio: ""
-asset_folder: "wiki/assets/designers/designermetin"
+applied: '2/5/2023 20:56:49'
+email: m.islamlenovo@gmail.com
+name: Metin İslam
+slug: designermetin
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Turkey
+can_use: 'Yes'
+instagram_handle: designermetin
+instagram: 'https://instagram.com/designermetin'
+bio: ''
+website: 'https://linktr.ee/designermetin'
+website_about: ''
+accepted: 11/06/25
+level: level_0
+asset_folder: wiki/assets/designers/designermetin
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # designermetin

@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 15:39:16"
-email: "hellobronalexander@gmail.com"
-first_name: "Bron"
-last_name: "Alexander"
-country: "New Zealand"
-can_use: "Yes"
-instagram: "https://instagram.com/bron_alexander"
-website: "https://linktr.ee/bron_alexander"
-accepted: "12/06/25"
-level: "level_0"
-instagram_handle: "bron_alexander"
-bio: ""
-asset_folder: "wiki/assets/designers/bron_alexander"
+applied: '6/9/2025 15:39:16'
+email: hellobronalexander@gmail.com
+name: Bron Alexander
+slug: bron_alexander
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: New Zealand
+can_use: 'Yes'
+instagram_handle: bron_alexander
+instagram: 'https://instagram.com/bron_alexander'
+bio: ''
+website: 'https://linktr.ee/bron_alexander'
+website_about: ''
+accepted: 12/06/25
+level: level_0
+asset_folder: wiki/assets/designers/bron_alexander
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # bron_alexander

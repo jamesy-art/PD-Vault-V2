@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 1:39:19"
-email: "papersushi.studio@gmail.com"
-first_name: "Sushant"
-last_name: "Gupta"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/thepapersushi"
-website: "https://behance.net/guptasushant"
-accepted: "15/06/25"
-level: "level_0"
-instagram_handle: "thepapersushi"
-bio: ""
-asset_folder: "wiki/assets/designers/thepapersushi"
+applied: '6/12/2025 1:39:19'
+email: papersushi.studio@gmail.com
+name: Sushant Gupta
+slug: thepapersushi
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: thepapersushi
+instagram: 'https://instagram.com/thepapersushi'
+bio: ''
+website: 'https://behance.net/guptasushant'
+website_about: ''
+accepted: 15/06/25
+level: level_0
+asset_folder: wiki/assets/designers/thepapersushi
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # thepapersushi

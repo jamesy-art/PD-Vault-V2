@@ -1,23 +1,54 @@
 ---
-applied: "6/21/2025 0:54:37"
-email: "melaniegarber@gmail.com"
-first_name: "Melanie"
-last_name: "Garber"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/letterlinedesign (lettering account is melanie4816_art)"
-website: "https://linktr.ee/melanie4816_art"
-accepted: "22/06/25"
-level: "level_0"
-instagram_handle: "letterlinedesign (lettering account is melanie4816_art)"
-bio: ""
-asset_folder: "wiki/assets/designers/letterlinedesign-lettering-account-is-melanie4816_art"
+applied: '6/21/2025 0:54:37'
+email: melaniegarber@gmail.com
+name: Melanie Garber
+slug: letterlinedesign-lettering-account-is-melanie4816_art
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: letterlinedesign (lettering account is melanie4816_art)
+instagram: 'https://instagram.com/letterlinedesign (lettering account is melanie4816_art)'
+bio: ''
+website: 'https://linktr.ee/melanie4816_art'
+website_about: ''
+accepted: 22/06/25
+level: level_0
+asset_folder: wiki/assets/designers/letterlinedesign-lettering-account-is-melanie4816_art
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# letterlinedesign (lettering account is melanie4816_art)
+# letterlinedesign-lettering-account-is-melanie4816_art
 
 ## Profile Image
 

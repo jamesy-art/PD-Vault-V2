@@ -1,23 +1,54 @@
 ---
-applied: "9/25/2025 5:03:42"
-email: "jessicavarghese71@gmail.com"
-first_name: "Jessica"
-last_name: "Varghese"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/Jewelstoware"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Jewelstoware"
-bio: ""
-asset_folder: "wiki/assets/designers/Jewelstoware"
+applied: '9/25/2025 5:03:42'
+email: jessicavarghese71@gmail.com
+name: Jessica Varghese
+slug: jewelstoware
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: Jewelstoware
+instagram: 'https://instagram.com/Jewelstoware'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/jewelstoware
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Jewelstoware
+# jewelstoware
 
 ## Profile Image
 

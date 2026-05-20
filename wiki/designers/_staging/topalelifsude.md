@@ -1,20 +1,51 @@
 ---
-applied: "11/25/2025 8:35:13"
-email: "elf.sude.topal@gmail.com"
-first_name: "elif sude"
-last_name: "topal"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/topalelifsude"
-website: "https://linkedin.com/in/elif-sude-topal-538528256"
-accepted: ""
-level: "level_2"
-instagram_handle: "topalelifsude"
-bio: ""
-asset_folder: "wiki/assets/designers/topalelifsude"
+applied: '11/25/2025 8:35:13'
+email: elf.sude.topal@gmail.com
+name: elif sude topal
+slug: topalelifsude
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: topalelifsude
+instagram: 'https://instagram.com/topalelifsude'
+bio: ''
+website: 'https://linkedin.com/in/elif-sude-topal-538528256'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/topalelifsude
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # topalelifsude

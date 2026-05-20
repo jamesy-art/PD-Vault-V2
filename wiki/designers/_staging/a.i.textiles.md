@@ -1,20 +1,51 @@
 ---
-applied: "7/16/2025 8:17:24"
-email: "areebaiftikhar101@gmail.com"
-first_name: "Areeba"
-last_name: "Iftikhar"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/a.i.textiles"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "a.i.textiles"
-bio: ""
-asset_folder: "wiki/assets/designers/a.i.textiles"
+applied: '7/16/2025 8:17:24'
+email: areebaiftikhar101@gmail.com
+name: Areeba Iftikhar
+slug: a.i.textiles
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: a.i.textiles
+instagram: 'https://instagram.com/a.i.textiles'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/a.i.textiles
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # a.i.textiles

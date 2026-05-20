@@ -1,20 +1,51 @@
 ---
-applied: "8/13/2025 8:47:07"
-email: "branzcarina@gmail.com"
-first_name: "Carina"
-last_name: "Branz"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/@carinabranz.arte"
-website: "https://behance.net/poliyapink"
-accepted: ""
-level: "level_0"
-instagram_handle: "carinabranz.arte"
-bio: ""
-asset_folder: "wiki/assets/designers/carinabranz.arte"
+applied: '8/13/2025 8:47:07'
+email: branzcarina@gmail.com
+name: Carina Branz
+slug: carinabranz.arte
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: carinabranz.arte
+instagram: 'https://instagram.com/@carinabranz.arte'
+bio: ''
+website: 'https://behance.net/poliyapink'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/carinabranz.arte
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # carinabranz.arte

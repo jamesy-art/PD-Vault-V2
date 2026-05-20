@@ -1,20 +1,51 @@
 ---
-applied: "10/20/2025 16:12:20"
-email: "textilebakery@gmail.com"
-first_name: "Jess"
-last_name: "Roland"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/textilebakery"
-website: "https://Linktr.ee/textilebakery"
-accepted: ""
-level: "level_0"
-instagram_handle: "textilebakery"
-bio: ""
-asset_folder: "wiki/assets/designers/textilebakery"
+applied: '10/20/2025 16:12:20'
+email: textilebakery@gmail.com
+name: Jess Roland
+slug: textilebakery
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: textilebakery
+instagram: 'https://instagram.com/textilebakery'
+bio: ''
+website: 'https://Linktr.ee/textilebakery'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/textilebakery
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # textilebakery

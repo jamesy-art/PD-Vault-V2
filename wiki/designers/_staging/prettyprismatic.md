@@ -1,20 +1,51 @@
 ---
-applied: "7/31/2023 11:18:08"
-email: "prettyprismaticart@gmail.com"
-first_name: "Katrina"
-last_name: "Snyder"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/prettyprismatic"
-website: "https://linktr.ee/prettyprismaticart"
-accepted: "26/09/2024"
-level: "level_0"
-instagram_handle: "prettyprismatic"
-bio: ""
-asset_folder: "wiki/assets/designers/prettyprismatic"
+applied: '7/31/2023 11:18:08'
+email: prettyprismaticart@gmail.com
+name: Katrina Snyder
+slug: prettyprismatic
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: prettyprismatic
+instagram: 'https://instagram.com/prettyprismatic'
+bio: ''
+website: 'https://linktr.ee/prettyprismaticart'
+website_about: ''
+accepted: 26/09/2024
+level: level_0
+asset_folder: wiki/assets/designers/prettyprismatic
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # prettyprismatic

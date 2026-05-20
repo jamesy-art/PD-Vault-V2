@@ -1,20 +1,51 @@
 ---
-applied: "6/17/2025 17:40:24"
-email: "raakstudiouk@gmail.com"
-first_name: "Fathima"
-last_name: "Aziz"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/raakstudiouk"
-website: ""
-accepted: "18/06/25"
-level: "level_1"
-instagram_handle: "raakstudiouk"
-bio: ""
-asset_folder: "wiki/assets/designers/raakstudiouk"
+applied: '6/17/2025 17:40:24'
+email: raakstudiouk@gmail.com
+name: Fathima Aziz
+slug: raakstudiouk
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: raakstudiouk
+instagram: 'https://instagram.com/raakstudiouk'
+bio: ''
+website: ''
+website_about: ''
+accepted: 18/06/25
+level: level_1
+asset_folder: wiki/assets/designers/raakstudiouk
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # raakstudiouk

@@ -1,20 +1,51 @@
 ---
-applied: "4/5/2025 12:01:32"
-email: "kdun59@gmail.com"
-first_name: "Kathy"
-last_name: "Dunaway"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/kdunaway.design"
-website: "https://k Dunaway.com"
-accepted: "12/05/2025"
-level: "level_2"
-instagram_handle: "kdunaway.design"
-bio: ""
-asset_folder: "wiki/assets/designers/kdunaway.design"
+applied: '4/5/2025 12:01:32'
+email: kdun59@gmail.com
+name: Kathy Dunaway
+slug: kdunaway.design
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: kdunaway.design
+instagram: 'https://instagram.com/kdunaway.design'
+bio: ''
+website: 'https://k Dunaway.com'
+website_about: ''
+accepted: 12/05/2025
+level: level_2
+asset_folder: wiki/assets/designers/kdunaway.design
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # kdunaway.design

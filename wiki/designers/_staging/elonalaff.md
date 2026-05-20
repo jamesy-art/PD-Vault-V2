@@ -1,20 +1,51 @@
 ---
-applied: "10/31/2024 11:37:47"
-email: "elonalaff@mail.ru"
-first_name: "Elona"
-last_name: "Urunova"
-country: "Russia"
-can_use: "Yes"
-instagram: "https://instagram.com/elonalaff"
-website: ""
-accepted: "06/12/2024"
-level: "level_1"
-instagram_handle: "elonalaff"
-bio: ""
-asset_folder: "wiki/assets/designers/elonalaff"
+applied: '10/31/2024 11:37:47'
+email: elonalaff@mail.ru
+name: Elona Urunova
+slug: elonalaff
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Russia
+can_use: 'Yes'
+instagram_handle: elonalaff
+instagram: 'https://instagram.com/elonalaff'
+bio: ''
+website: ''
+website_about: ''
+accepted: 06/12/2024
+level: level_1
+asset_folder: wiki/assets/designers/elonalaff
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # elonalaff

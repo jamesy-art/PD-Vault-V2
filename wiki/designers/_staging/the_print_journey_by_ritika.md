@@ -1,20 +1,51 @@
 ---
-applied: "7/24/2025 5:03:21"
-email: "theprintjourney@gmail.com"
-first_name: "Ritika"
-last_name: "Gohiya"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/the_print_journey_by_ritika"
-website: "https://behance.net/ritikagohiya1"
-accepted: ""
-level: "level_0"
-instagram_handle: "the_print_journey_by_ritika"
-bio: ""
-asset_folder: "wiki/assets/designers/the_print_journey_by_ritika"
+applied: '7/24/2025 5:03:21'
+email: theprintjourney@gmail.com
+name: Ritika Gohiya
+slug: the_print_journey_by_ritika
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: the_print_journey_by_ritika
+instagram: 'https://instagram.com/the_print_journey_by_ritika'
+bio: ''
+website: 'https://behance.net/ritikagohiya1'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/the_print_journey_by_ritika
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # the_print_journey_by_ritika

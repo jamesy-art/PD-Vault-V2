@@ -1,20 +1,51 @@
 ---
-applied: "7/21/2025 7:20:03"
-email: "veronicavr.illustrator@hotmail.com"
-first_name: "Veronica"
-last_name: "Ortega"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/@veronicaver.illustrator"
-website: "https://veronicaver.com"
-accepted: ""
-level: "level_2"
-instagram_handle: "veronicaver.illustrator"
-bio: ""
-asset_folder: "wiki/assets/designers/veronicaver.illustrator"
+applied: '7/21/2025 7:20:03'
+email: veronicavr.illustrator@hotmail.com
+name: Veronica Ortega
+slug: veronicaver.illustrator
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: veronicaver.illustrator
+instagram: 'https://instagram.com/@veronicaver.illustrator'
+bio: ''
+website: 'https://veronicaver.com'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/veronicaver.illustrator
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # veronicaver.illustrator

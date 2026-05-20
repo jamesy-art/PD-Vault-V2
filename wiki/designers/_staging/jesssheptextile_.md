@@ -1,20 +1,51 @@
 ---
-applied: "5/17/2025 15:49:21"
-email: "jessicasheppard151@gmail.com"
-first_name: "Jess"
-last_name: "Sheppard"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/jesssheptextile_"
-website: "https://linktr.ee/jessicasheppard20"
-accepted: "11/06/2025"
-level: "level_0"
-instagram_handle: "jesssheptextile_"
-bio: ""
-asset_folder: "wiki/assets/designers/jesssheptextile_"
+applied: '5/17/2025 15:49:21'
+email: jessicasheppard151@gmail.com
+name: Jess Sheppard
+slug: jesssheptextile_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: jesssheptextile_
+instagram: 'https://instagram.com/jesssheptextile_'
+bio: ''
+website: 'https://linktr.ee/jessicasheppard20'
+website_about: ''
+accepted: 11/06/2025
+level: level_0
+asset_folder: wiki/assets/designers/jesssheptextile_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # jesssheptextile_

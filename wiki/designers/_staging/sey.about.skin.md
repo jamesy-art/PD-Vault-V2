@@ -1,20 +1,51 @@
 ---
-applied: "10/16/2025 5:24:35"
-email: "dajanasejdic6@gmail.com"
-first_name: "Dajana"
-last_name: "Sejdić"
-country: "Croatia"
-can_use: "Yes"
-instagram: "https://instagram.com/sey.about.skin"
-website: "https://seyaboutskin.my.canva.site/visual-artist"
-accepted: ""
-level: "level_2"
-instagram_handle: "sey.about.skin"
-bio: ""
-asset_folder: "wiki/assets/designers/sey.about.skin"
+applied: '10/16/2025 5:24:35'
+email: dajanasejdic6@gmail.com
+name: Dajana Sejdić
+slug: sey.about.skin
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Croatia
+can_use: 'Yes'
+instagram_handle: sey.about.skin
+instagram: 'https://instagram.com/sey.about.skin'
+bio: ''
+website: 'https://seyaboutskin.my.canva.site/visual-artist'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/sey.about.skin
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # sey.about.skin

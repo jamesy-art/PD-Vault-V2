@@ -1,20 +1,51 @@
 ---
-applied: "9/17/2025 7:17:24"
-email: "info.cottontopia@gmail.com"
-first_name: "Usha"
-last_name: "Verdi"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/cottontopia"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "cottontopia"
-bio: ""
-asset_folder: "wiki/assets/designers/cottontopia"
+applied: '9/17/2025 7:17:24'
+email: info.cottontopia@gmail.com
+name: Usha Verdi
+slug: cottontopia
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: cottontopia
+instagram: 'https://instagram.com/cottontopia'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/cottontopia
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # cottontopia

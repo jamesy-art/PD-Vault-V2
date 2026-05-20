@@ -1,23 +1,54 @@
 ---
-applied: "7/24/2025 23:43:06"
-email: "joyshri@yahoo.com"
-first_name: "Shyamsree"
-last_name: "Lahiri"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/Art_shyamsreelahiri"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Art_shyamsreelahiri"
-bio: ""
-asset_folder: "wiki/assets/designers/Art_shyamsreelahiri"
+applied: '7/24/2025 23:43:06'
+email: joyshri@yahoo.com
+name: Shyamsree Lahiri
+slug: art_shyamsreelahiri
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: Art_shyamsreelahiri
+instagram: 'https://instagram.com/Art_shyamsreelahiri'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/art_shyamsreelahiri
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Art_shyamsreelahiri
+# art_shyamsreelahiri
 
 ## Profile Image
 

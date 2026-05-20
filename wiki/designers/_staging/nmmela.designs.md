@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 4:55:47"
-email: "nmmelaseaigns@hotmail.com"
-first_name: "Naima"
-last_name: "E"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/nmmela.designs"
-website: "https://nmmela.com"
-accepted: "12/06/25"
-level: "level_2"
-instagram_handle: "nmmela.designs"
-bio: ""
-asset_folder: "wiki/assets/designers/nmmela.designs"
+applied: '6/10/2025 4:55:47'
+email: nmmelaseaigns@hotmail.com
+name: Naima E
+slug: nmmela.designs
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: nmmela.designs
+instagram: 'https://instagram.com/nmmela.designs'
+bio: ''
+website: 'https://nmmela.com'
+website_about: ''
+accepted: 12/06/25
+level: level_2
+asset_folder: wiki/assets/designers/nmmela.designs
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # nmmela.designs

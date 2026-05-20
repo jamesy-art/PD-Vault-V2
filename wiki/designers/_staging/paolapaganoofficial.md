@@ -1,20 +1,51 @@
 ---
-applied: "10/8/2025 4:03:01"
-email: "paola@paolapagano.it"
-first_name: "Paola"
-last_name: "Pagano"
-country: "Italy"
-can_use: "Yes"
-instagram: "https://instagram.com/@paolapaganoofficial"
-website: "https://paolapagano.it"
-accepted: ""
-level: "level_2"
-instagram_handle: "paolapaganoofficial"
-bio: ""
-asset_folder: "wiki/assets/designers/paolapaganoofficial"
+applied: '10/8/2025 4:03:01'
+email: paola@paolapagano.it
+name: Paola Pagano
+slug: paolapaganoofficial
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Italy
+can_use: 'Yes'
+instagram_handle: paolapaganoofficial
+instagram: 'https://instagram.com/@paolapaganoofficial'
+bio: ''
+website: 'https://paolapagano.it'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/paolapaganoofficial
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # paolapaganoofficial

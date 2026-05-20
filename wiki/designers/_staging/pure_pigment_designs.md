@@ -1,20 +1,51 @@
 ---
-applied: "7/14/2025 17:46:52"
-email: "francescaphillips@hotmail.com"
-first_name: "Francesca"
-last_name: "Phillips"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/pure_pigment_designs"
-website: ""
-accepted: "19/07/25"
-level: "level_1"
-instagram_handle: "pure_pigment_designs"
-bio: ""
-asset_folder: "wiki/assets/designers/pure_pigment_designs"
+applied: '7/14/2025 17:46:52'
+email: francescaphillips@hotmail.com
+name: Francesca Phillips
+slug: pure_pigment_designs
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: pure_pigment_designs
+instagram: 'https://instagram.com/pure_pigment_designs'
+bio: ''
+website: ''
+website_about: ''
+accepted: 19/07/25
+level: level_1
+asset_folder: wiki/assets/designers/pure_pigment_designs
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # pure_pigment_designs

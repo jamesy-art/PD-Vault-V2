@@ -1,23 +1,54 @@
 ---
-applied: "9/12/2025 18:45:31"
-email: "melaniebarriostorres18@gmail.com"
-first_name: "Melanie Elisa"
-last_name: "Barrios"
-country: "Colombia"
-can_use: "Yes"
-instagram: "https://instagram.com/N/A - Please see my BEHANCE"
-website: "https://behance.net/melaniebarrios1"
-accepted: ""
-level: "level_0"
-instagram_handle: "N/A - Please see my BEHANCE"
-bio: ""
-asset_folder: "wiki/assets/designers/N-A-Please-see-my-BEHANCE"
+applied: '9/12/2025 18:45:31'
+email: melaniebarriostorres18@gmail.com
+name: Melanie Elisa Barrios
+slug: n-a-please-see-my-behance
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Colombia
+can_use: 'Yes'
+instagram_handle: N/A - Please see my BEHANCE
+instagram: 'https://instagram.com/N/A - Please see my BEHANCE'
+bio: ''
+website: 'https://behance.net/melaniebarrios1'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/n-a-please-see-my-behance
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# N/A - Please see my BEHANCE
+# n-a-please-see-my-behance
 
 ## Profile Image
 

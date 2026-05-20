@@ -1,20 +1,51 @@
 ---
-applied: "6/29/2025 13:24:31"
-email: "alice.ryder@icloud.com"
-first_name: "Alice"
-last_name: "Ryder"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/textilesbyalicee"
-website: "https://linktr.ee/aliceryder"
-accepted: "30/06/25"
-level: "level_0"
-instagram_handle: "textilesbyalicee"
-bio: ""
-asset_folder: "wiki/assets/designers/textilesbyalicee"
+applied: '6/29/2025 13:24:31'
+email: alice.ryder@icloud.com
+name: Alice Ryder
+slug: textilesbyalicee
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: textilesbyalicee
+instagram: 'https://instagram.com/textilesbyalicee'
+bio: ''
+website: 'https://linktr.ee/aliceryder'
+website_about: ''
+accepted: 30/06/25
+level: level_0
+asset_folder: wiki/assets/designers/textilesbyalicee
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # textilesbyalicee

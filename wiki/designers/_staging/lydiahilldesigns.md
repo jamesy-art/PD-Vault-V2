@@ -1,20 +1,51 @@
 ---
-applied: "1/29/2023 11:55:57"
-email: "lydiahilldesigns@gmail.com"
-first_name: "Lydia"
-last_name: "Hill"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/lydiahilldesigns"
-website: ""
-accepted: "25/09/2024"
-level: "level_1"
-instagram_handle: "lydiahilldesigns"
-bio: ""
-asset_folder: "wiki/assets/designers/lydiahilldesigns"
+applied: '1/29/2023 11:55:57'
+email: lydiahilldesigns@gmail.com
+name: Lydia Hill
+slug: lydiahilldesigns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: lydiahilldesigns
+instagram: 'https://instagram.com/lydiahilldesigns'
+bio: ''
+website: ''
+website_about: ''
+accepted: 25/09/2024
+level: level_1
+asset_folder: wiki/assets/designers/lydiahilldesigns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # lydiahilldesigns

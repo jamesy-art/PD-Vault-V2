@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 10:33:06"
-email: "designerleticia@gmail.com"
-first_name: "Letícia"
-last_name: "Molinares"
-country: "Brazil"
-can_use: "Yes"
-instagram: "https://instagram.com/letsmolinares"
-website: "https://leticiamolinares.carrd.co"
-accepted: "11/06/25"
-level: "level_0"
-instagram_handle: "letsmolinares"
-bio: ""
-asset_folder: "wiki/assets/designers/letsmolinares"
+applied: '6/9/2025 10:33:06'
+email: designerleticia@gmail.com
+name: Letícia Molinares
+slug: letsmolinares
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Brazil
+can_use: 'Yes'
+instagram_handle: letsmolinares
+instagram: 'https://instagram.com/letsmolinares'
+bio: ''
+website: 'https://leticiamolinares.carrd.co'
+website_about: ''
+accepted: 11/06/25
+level: level_0
+asset_folder: wiki/assets/designers/letsmolinares
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # letsmolinares

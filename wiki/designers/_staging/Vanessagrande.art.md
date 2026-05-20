@@ -1,23 +1,54 @@
 ---
-applied: "6/12/2025 23:30:15"
-email: "vanessamexart@gmail.com"
-first_name: "Vanessa"
-last_name: "Grande"
-country: "Mexico"
-can_use: "Yes"
-instagram: "https://instagram.com/Vanessagrande.art"
-website: "https://behance.net/vanessahernand132"
-accepted: "16/06/25"
-level: "level_0"
-instagram_handle: "Vanessagrande.art"
-bio: ""
-asset_folder: "wiki/assets/designers/Vanessagrande.art"
+applied: '6/12/2025 23:30:15'
+email: vanessamexart@gmail.com
+name: Vanessa Grande
+slug: vanessagrande.art
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Mexico
+can_use: 'Yes'
+instagram_handle: Vanessagrande.art
+instagram: 'https://instagram.com/Vanessagrande.art'
+bio: ''
+website: 'https://behance.net/vanessahernand132'
+website_about: ''
+accepted: 16/06/25
+level: level_0
+asset_folder: wiki/assets/designers/vanessagrande.art
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Vanessagrande.art
+# vanessagrande.art
 
 ## Profile Image
 

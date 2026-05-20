@@ -1,20 +1,51 @@
 ---
-applied: "9/23/2024 2:40:48"
-email: "theprintedsquarestudio@gmail.com"
-first_name: "Lena"
-last_name: "Morrsi"
-country: "Germany"
-can_use: "Yes"
-instagram: "https://instagram.com/the.printed.square.studio"
-website: "https://linktr.ee/theprintedsquarestudio"
-accepted: "19/11/2024"
-level: "level_0"
-instagram_handle: "the.printed.square.studio"
-bio: ""
-asset_folder: "wiki/assets/designers/the.printed.square.studio"
+applied: '9/23/2024 2:40:48'
+email: theprintedsquarestudio@gmail.com
+name: Lena Morrsi
+slug: the.printed.square.studio
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Germany
+can_use: 'Yes'
+instagram_handle: the.printed.square.studio
+instagram: 'https://instagram.com/the.printed.square.studio'
+bio: ''
+website: 'https://linktr.ee/theprintedsquarestudio'
+website_about: ''
+accepted: 19/11/2024
+level: level_0
+asset_folder: wiki/assets/designers/the.printed.square.studio
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # the.printed.square.studio

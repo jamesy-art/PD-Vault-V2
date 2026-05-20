@@ -1,20 +1,51 @@
 ---
-applied: "8/20/2025 6:57:38"
-email: "marievimast@gmail.com"
-first_name: "Marievi"
-last_name: "Mastoraki"
-country: "Greece"
-can_use: "Yes"
-instagram: "https://instagram.com/mast_design"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "mast_design"
-bio: ""
-asset_folder: "wiki/assets/designers/mast_design"
+applied: '8/20/2025 6:57:38'
+email: marievimast@gmail.com
+name: Marievi Mastoraki
+slug: mast_design
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Greece
+can_use: 'Yes'
+instagram_handle: mast_design
+instagram: 'https://instagram.com/mast_design'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/mast_design
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # mast_design

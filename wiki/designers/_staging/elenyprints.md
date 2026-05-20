@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 13:20:23"
-email: "elenyvictoria@yahoo.com"
-first_name: "Eleny"
-last_name: "Eksterman"
-country: "Brazil"
-can_use: "Yes"
-instagram: "https://instagram.com/elenyprints"
-website: "https://linktr.ee/elenyveksterman"
-accepted: "11/06/25"
-level: "level_0"
-instagram_handle: "elenyprints"
-bio: ""
-asset_folder: "wiki/assets/designers/elenyprints"
+applied: '6/9/2025 13:20:23'
+email: elenyvictoria@yahoo.com
+name: Eleny Eksterman
+slug: elenyprints
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Brazil
+can_use: 'Yes'
+instagram_handle: elenyprints
+instagram: 'https://instagram.com/elenyprints'
+bio: ''
+website: 'https://linktr.ee/elenyveksterman'
+website_about: ''
+accepted: 11/06/25
+level: level_0
+asset_folder: wiki/assets/designers/elenyprints
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # elenyprints

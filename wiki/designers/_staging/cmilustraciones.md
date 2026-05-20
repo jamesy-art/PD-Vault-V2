@@ -1,20 +1,51 @@
 ---
-applied: "8/5/2025 20:14:23"
-email: "cmilustraciones.dt@gmail.com"
-first_name: "Carla"
-last_name: "Miranda"
-country: "Argentina"
-can_use: "Yes"
-instagram: "https://instagram.com/cmilustraciones"
-website: "https://behance.net/carlavmiranda"
-accepted: ""
-level: "level_0"
-instagram_handle: "cmilustraciones"
-bio: ""
-asset_folder: "wiki/assets/designers/cmilustraciones"
+applied: '8/5/2025 20:14:23'
+email: cmilustraciones.dt@gmail.com
+name: Carla Miranda
+slug: cmilustraciones
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Argentina
+can_use: 'Yes'
+instagram_handle: cmilustraciones
+instagram: 'https://instagram.com/cmilustraciones'
+bio: ''
+website: 'https://behance.net/carlavmiranda'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/cmilustraciones
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # cmilustraciones

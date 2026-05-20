@@ -1,20 +1,51 @@
 ---
-applied: "7/24/2023 12:20:32"
-email: "angelanaomidesign@gmail.com"
-first_name: "Angela"
-last_name: "Naomi"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/angelanaomidesign"
-website: "https://linktr.ee/angelanaomidesign"
-accepted: "26/09/2024"
-level: "level_0"
-instagram_handle: "angelanaomidesign"
-bio: ""
-asset_folder: "wiki/assets/designers/angelanaomidesign"
+applied: '7/24/2023 12:20:32'
+email: angelanaomidesign@gmail.com
+name: Angela Naomi
+slug: angelanaomidesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: angelanaomidesign
+instagram: 'https://instagram.com/angelanaomidesign'
+bio: ''
+website: 'https://linktr.ee/angelanaomidesign'
+website_about: ''
+accepted: 26/09/2024
+level: level_0
+asset_folder: wiki/assets/designers/angelanaomidesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # angelanaomidesign

@@ -1,23 +1,54 @@
 ---
-applied: "7/31/2025 14:55:00"
-email: "emily.fionaeh@gmail.com"
-first_name: "Emily"
-last_name: "Hayes"
-country: "Germany"
-can_use: "Yes"
-instagram: "https://instagram.com/Emilyxtextiles"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Emilyxtextiles"
-bio: ""
-asset_folder: "wiki/assets/designers/Emilyxtextiles"
+applied: '7/31/2025 14:55:00'
+email: emily.fionaeh@gmail.com
+name: Emily Hayes
+slug: emilyxtextiles
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Germany
+can_use: 'Yes'
+instagram_handle: Emilyxtextiles
+instagram: 'https://instagram.com/Emilyxtextiles'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/emilyxtextiles
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Emilyxtextiles
+# emilyxtextiles
 
 ## Profile Image
 

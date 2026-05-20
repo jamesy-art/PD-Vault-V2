@@ -1,20 +1,51 @@
 ---
-applied: "7/22/2025 20:25:08"
-email: "hello@littlcrow.com"
-first_name: "Jimena"
-last_name: "Garcia"
-country: "Australia"
-can_use: "Yes"
-instagram: "https://instagram.com/littlcrow.patterns"
-website: "https://littlcrow.com"
-accepted: ""
-level: "level_2"
-instagram_handle: "littlcrow.patterns"
-bio: ""
-asset_folder: "wiki/assets/designers/littlcrow.patterns"
+applied: '7/22/2025 20:25:08'
+email: hello@littlcrow.com
+name: Jimena Garcia
+slug: littlcrow.patterns
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Australia
+can_use: 'Yes'
+instagram_handle: littlcrow.patterns
+instagram: 'https://instagram.com/littlcrow.patterns'
+bio: ''
+website: 'https://littlcrow.com'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/littlcrow.patterns
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # littlcrow.patterns

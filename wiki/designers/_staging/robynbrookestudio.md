@@ -1,20 +1,51 @@
 ---
-applied: "8/1/2025 5:52:16"
-email: "robynbrookestudio@gmail.com"
-first_name: "Robyn"
-last_name: "Thorpe"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/@robynbrookestudio"
-website: "https://linktr.ee/Robynbrookestudio"
-accepted: ""
-level: "level_0"
-instagram_handle: "robynbrookestudio"
-bio: ""
-asset_folder: "wiki/assets/designers/robynbrookestudio"
+applied: '8/1/2025 5:52:16'
+email: robynbrookestudio@gmail.com
+name: Robyn Thorpe
+slug: robynbrookestudio
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: robynbrookestudio
+instagram: 'https://instagram.com/@robynbrookestudio'
+bio: ''
+website: 'https://linktr.ee/Robynbrookestudio'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/robynbrookestudio
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # robynbrookestudio

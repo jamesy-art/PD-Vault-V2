@@ -1,20 +1,51 @@
 ---
-applied: "6/10/2025 5:33:57"
-email: "19dishachandak@gmail.com"
-first_name: "Disha"
-last_name: "Chandak"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/dishachandak"
-website: ""
-accepted: "12/06/25"
-level: "level_1"
-instagram_handle: "dishachandak"
-bio: ""
-asset_folder: "wiki/assets/designers/dishachandak"
+applied: '6/10/2025 5:33:57'
+email: 19dishachandak@gmail.com
+name: Disha Chandak
+slug: dishachandak
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: dishachandak
+instagram: 'https://instagram.com/dishachandak'
+bio: ''
+website: ''
+website_about: ''
+accepted: 12/06/25
+level: level_1
+asset_folder: wiki/assets/designers/dishachandak
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # dishachandak

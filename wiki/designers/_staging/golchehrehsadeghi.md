@@ -1,20 +1,51 @@
 ---
-applied: "6/9/2025 19:08:14"
-email: "golchehrehsd@gmail.com"
-first_name: "Golchehreh"
-last_name: "Sadeghi"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/golchehrehsadeghi"
-website: ""
-accepted: "12/06/25"
-level: "level_1"
-instagram_handle: "golchehrehsadeghi"
-bio: ""
-asset_folder: "wiki/assets/designers/golchehrehsadeghi"
+applied: '6/9/2025 19:08:14'
+email: golchehrehsd@gmail.com
+name: Golchehreh Sadeghi
+slug: golchehrehsadeghi
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: golchehrehsadeghi
+instagram: 'https://instagram.com/golchehrehsadeghi'
+bio: ''
+website: ''
+website_about: ''
+accepted: 12/06/25
+level: level_1
+asset_folder: wiki/assets/designers/golchehrehsadeghi
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # golchehrehsadeghi

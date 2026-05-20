@@ -1,23 +1,54 @@
 ---
-applied: "6/16/2025 8:23:54"
-email: "dholakiahima92@gmail.com"
-first_name: "Hima"
-last_name: "Dholakia"
-country: "India"
-can_use: "Yes"
-instagram: "https://instagram.com/Harakhpadudi"
-website: "https://behance.net/DholakiaHima92"
-accepted: "16/06/25"
-level: "level_0"
-instagram_handle: "Harakhpadudi"
-bio: ""
-asset_folder: "wiki/assets/designers/Harakhpadudi"
+applied: '6/16/2025 8:23:54'
+email: dholakiahima92@gmail.com
+name: Hima Dholakia
+slug: harakhpadudi
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: India
+can_use: 'Yes'
+instagram_handle: Harakhpadudi
+instagram: 'https://instagram.com/Harakhpadudi'
+bio: ''
+website: 'https://behance.net/DholakiaHima92'
+website_about: ''
+accepted: 16/06/25
+level: level_0
+asset_folder: wiki/assets/designers/harakhpadudi
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Harakhpadudi
+# harakhpadudi
 
 ## Profile Image
 

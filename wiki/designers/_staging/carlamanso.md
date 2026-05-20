@@ -1,20 +1,51 @@
 ---
-applied: "4/27/2026 7:30:51"
-email: "carlamanso@gmail.com"
-first_name: "Carla"
-last_name: "Manso"
-country: "Portugal"
-can_use: "Yes"
-instagram: "https://instagram.com/@carlamanso"
-website: "https://behance.net/carlamanso"
-accepted: ""
-level: "level_0"
-instagram_handle: "carlamanso"
-bio: ""
-asset_folder: "wiki/assets/designers/carlamanso"
+applied: '4/27/2026 7:30:51'
+email: carlamanso@gmail.com
+name: Carla Manso
+slug: carlamanso
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Portugal
+can_use: 'Yes'
+instagram_handle: carlamanso
+instagram: 'https://instagram.com/@carlamanso'
+bio: ''
+website: 'https://behance.net/carlamanso'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/carlamanso
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # carlamanso

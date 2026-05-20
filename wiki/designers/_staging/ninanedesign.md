@@ -1,20 +1,51 @@
 ---
-applied: "10/1/2025 9:54:36"
-email: "ninanedesign@gmail.com"
-first_name: "Anina Stefanie"
-last_name: "Nef"
-country: "Switzerland"
-can_use: "Yes"
-instagram: "https://instagram.com/ninanedesign"
-website: "https://to be online soon (www.ninanedesign.com)"
-accepted: ""
-level: "level_2"
-instagram_handle: "ninanedesign"
-bio: ""
-asset_folder: "wiki/assets/designers/ninanedesign"
+applied: '10/1/2025 9:54:36'
+email: ninanedesign@gmail.com
+name: Anina Stefanie Nef
+slug: ninanedesign
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: Switzerland
+can_use: 'Yes'
+instagram_handle: ninanedesign
+instagram: 'https://instagram.com/ninanedesign'
+bio: ''
+website: 'https://to be online soon (www.ninanedesign.com)'
+website_about: ''
+accepted: ''
+level: level_2
+asset_folder: wiki/assets/designers/ninanedesign
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # ninanedesign

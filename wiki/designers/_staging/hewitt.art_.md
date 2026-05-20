@@ -1,23 +1,54 @@
 ---
-applied: "9/7/2025 16:39:11"
-email: "jehewitt4@gmail.com"
-first_name: "Julia"
-last_name: "Hewitt"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/Hewitt.Art_"
-website: "https://behance.net/gallery/231838789/Pattern-Designs/modules/1329843475"
-accepted: ""
-level: "level_0"
-instagram_handle: "Hewitt.Art_"
-bio: ""
-asset_folder: "wiki/assets/designers/Hewitt.Art_"
+applied: '9/7/2025 16:39:11'
+email: jehewitt4@gmail.com
+name: Julia Hewitt
+slug: hewitt.art_
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: Hewitt.Art_
+instagram: 'https://instagram.com/Hewitt.Art_'
+bio: ''
+website: 'https://behance.net/gallery/231838789/Pattern-Designs/modules/1329843475'
+website_about: ''
+accepted: ''
+level: level_0
+asset_folder: wiki/assets/designers/hewitt.art_
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_0
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Hewitt.Art_
+# hewitt.art_
 
 ## Profile Image
 

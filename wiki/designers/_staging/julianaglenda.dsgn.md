@@ -1,20 +1,51 @@
 ---
-applied: "7/15/2025 6:41:09"
-email: "julianaglenda.dsgn@gmail.com"
-first_name: "Juliana Glenda"
-last_name: "Rodrigues Sqntos"
-country: ""
-can_use: "Yes"
-instagram: "https://instagram.com/julianaglenda.dsgn"
-website: ""
-accepted: "19/07/25"
-level: "level_1"
-instagram_handle: "julianaglenda.dsgn"
-bio: ""
-asset_folder: "wiki/assets/designers/julianaglenda.dsgn"
+applied: '7/15/2025 6:41:09'
+email: julianaglenda.dsgn@gmail.com
+name: Juliana Glenda Rodrigues Sqntos
+slug: julianaglenda.dsgn
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: ''
+can_use: 'Yes'
+instagram_handle: julianaglenda.dsgn
+instagram: 'https://instagram.com/julianaglenda.dsgn'
+bio: ''
+website: ''
+website_about: ''
+accepted: 19/07/25
+level: level_1
+asset_folder: wiki/assets/designers/julianaglenda.dsgn
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # julianaglenda.dsgn

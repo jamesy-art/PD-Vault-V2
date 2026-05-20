@@ -1,23 +1,54 @@
 ---
-applied: "1/20/2026 17:35:21"
-email: "jemtrick14@gmail.com"
-first_name: "Jemma"
-last_name: "Trickett"
-country: "United Kingdom"
-can_use: "Yes"
-instagram: "https://instagram.com/Jemma_trickett.design"
-website: ""
-accepted: ""
-level: "level_1"
-instagram_handle: "Jemma_trickett.design"
-bio: ""
-asset_folder: "wiki/assets/designers/Jemma_trickett.design"
+applied: '1/20/2026 17:35:21'
+email: jemtrick14@gmail.com
+name: Jemma Trickett
+slug: jemma_trickett.design
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United Kingdom
+can_use: 'Yes'
+instagram_handle: Jemma_trickett.design
+instagram: 'https://instagram.com/Jemma_trickett.design'
+bio: ''
+website: ''
+website_about: ''
+accepted: ''
+level: level_1
+asset_folder: wiki/assets/designers/jemma_trickett.design
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_1
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
-# Jemma_trickett.design
+# jemma_trickett.design
 
 ## Profile Image
 

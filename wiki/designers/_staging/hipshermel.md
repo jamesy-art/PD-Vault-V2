@@ -1,20 +1,51 @@
 ---
-applied: "6/12/2025 14:28:42"
-email: "hipshermel@gmail.com"
-first_name: "Melinda"
-last_name: "Hipsher"
-country: "United States"
-can_use: "Yes"
-instagram: "https://instagram.com/hipshermel"
-website: "https://artlicencing.com/artists/melindahipsher"
-accepted: "15/06/25"
-level: "level_2"
-instagram_handle: "hipshermel"
-bio: ""
-asset_folder: "wiki/assets/designers/hipshermel"
+applied: '6/12/2025 14:28:42'
+email: hipshermel@gmail.com
+name: Melinda Hipsher
+slug: hipshermel
+type: pattern designer
+experience: ''
+open to:
+  - ''
+  - ''
+pricing:
+  - ''
+  - ''
+skills:
+  - ''
+  - ''
+  - ''
+  - ''
+country: United States
+can_use: 'Yes'
+instagram_handle: hipshermel
+instagram: 'https://instagram.com/hipshermel'
+bio: ''
+website: 'https://artlicencing.com/artists/melindahipsher'
+website_about: ''
+accepted: 15/06/25
+level: level_2
+asset_folder: wiki/assets/designers/hipshermel
+profile_url: ''
+instagram_images:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+website_images:
+  - ''
+  - ''
+  - ''
+  - ''
 tags:
   - pattern_designer
   - level_2
+manual_about_raw: ''
+manual_reviewed: false
+manual_quality: ''
+manual_review_note: ''
 ---
 
 # hipshermel
