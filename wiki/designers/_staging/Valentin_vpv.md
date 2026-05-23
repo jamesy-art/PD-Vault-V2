@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Artiste contemporain | Hautes-Pyrénées (65)
 website_meta_description: >-
   Artiste contemporain basé dans les Hautes-Pyrénées (65). Créations originales,
@@ -210,11 +212,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Valentin Viven
+instagram_biography: "\U0001F30D\U0001F4CDOccitanie"
+instagram_posts_count: 18
+instagram_followers_count: 300
+instagram_follows_count: 698
+instagram_private: true
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/286516793_167236055777079_7847258500251395444_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEpOZfBgAj0cNr2H3EDWxicJbb1VhKPmd0GdGBrGHOR-Lq1CW5ceYH8U4-HXZCit9w&_nc_ohc=OouD1gDqQFgQ7kNvwF86tsg&_nc_gid=X8mydi_5W9NlO3PqArXkug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af78puOtzR6eANAy8QVh9w-KaJgHk6qQVVkp87fNrxkouQ&oe=6A13F211&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/286516793_167236055777079_7847258500251395444_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEpOZfBgAj0cNr2H3EDWxicJbb1VhKPmd0GdGBrGHOR-Lq1CW5ceYH8U4-HXZCit9w&_nc_ohc=OouD1gDqQFgQ7kNvwF86tsg&_nc_gid=X8mydi_5W9NlO3PqArXkug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af78puOtzR6eANAy8QVh9w-KaJgHk6qQVVkp87fNrxkouQ&oe=6A13F211&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/valentin_vpv/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8625
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/valentin_vpv/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/valentin_vpv/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/valentin_vpv/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # valentin_vpv
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/valentin_vpv/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

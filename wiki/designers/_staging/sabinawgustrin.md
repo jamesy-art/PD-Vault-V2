@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Sabina Wroblewski Gustrin - Studio Sabina W Gustrin | LinkedIn
 website_meta_description: >-
   Sabina Wroblewski Gustrin has been an art director, graphic designer and
@@ -102,11 +104,43 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Sabina W. Gustrin I Print Designer & Illustrator
+instagram_biography: >-
+  Living in Sweden. 
+
+  I❤️Children's art and books, the sea and flowers. DM or eMail me for
+  Illlustration, Graphic and Print Design Commissions & Collabs
+instagram_posts_count: 2630
+instagram_followers_count: 10205
+instagram_follows_count: 1118
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.flas1-2.fna.fbcdn.net/v/t51.2885-19/354742763_221304164117089_8282768794063243654_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHN91fje9Mnt0GJYF3Fm9TFcBp4sAid65vimGHCKjfqvgLtEoZovR84C0EbzlkT0C8&_nc_ohc=b3Xe7dXs5KUQ7kNvwFRKaf7&_nc_gid=q_CV10CeKhyzvHtGHcCclg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4AhJxO9AM9ulvZDA-NYj_JuVaQ7ivaQwZSIxnJmWKx7A&oe=6A13DF9E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.flas1-2.fna.fbcdn.net/v/t51.2885-19/354742763_221304164117089_8282768794063243654_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHN91fje9Mnt0GJYF3Fm9TFcBp4sAid65vimGHCKjfqvgLtEoZovR84C0EbzlkT0C8&_nc_ohc=b3Xe7dXs5KUQ7kNvwFRKaf7&_nc_gid=q_CV10CeKhyzvHtGHcCclg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4AhJxO9AM9ulvZDA-NYj_JuVaQ7ivaQwZSIxnJmWKx7A&oe=6A13DF9E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5690
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # sabinawgustrin
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

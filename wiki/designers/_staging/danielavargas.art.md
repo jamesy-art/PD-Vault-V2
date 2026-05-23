@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Inicio | Daniela Vargas Ilustracion digital
 website_meta_description: >-
   Daniela Vargas Ilustración Digital. Portafolio de Ilustración digital. Pattern
@@ -143,11 +145,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Daniela
+instagram_biography: "Colombiana - Colombian\n\U0001F338Pattern and Suface Designer\n\U0001F3A8Avaliable for licensing and collaborations"
+instagram_posts_count: 224
+instagram_followers_count: 1941
+instagram_follows_count: 2729
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/522430730_18181064638335656_7321283559158229359_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH8oNKzT01WXGnGh3CPCmwcaMiApkZ1cYlgWhbVS6ieyJocEGS10s9Ccj65keiTfHo&_nc_ohc=o9KQK8k0bE4Q7kNvwGxJJsE&_nc_gid=0wFksgSGAVyzanc2aZWzjA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ICuNkhCP6QPtVmVB2bUK35kG7jrmfvS4R74xDloPPTg&oe=6A13EF3D&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/522430730_18181064638335656_7321283559158229359_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH8oNKzT01WXGnGh3CPCmwcaMiApkZ1cYlgWhbVS6ieyJocEGS10s9Ccj65keiTfHo&_nc_ohc=o9KQK8k0bE4Q7kNvwGxJJsE&_nc_gid=0wFksgSGAVyzanc2aZWzjA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ICuNkhCP6QPtVmVB2bUK35kG7jrmfvS4R74xDloPPTg&oe=6A13EF3D&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/danielavargas.art/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5402
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/danielavargas.art/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/danielavargas.art/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/danielavargas.art/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # danielavargas.art
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/danielavargas.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

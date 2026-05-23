@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Let Me Repeat Myself
 website_meta_description: ''
 website_about_raw: >-
@@ -229,11 +231,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Rachel Poulin | Let Me Repeat Myself®
+instagram_biography: "Lettering & Surface Design\n\U0001F6CD️ Shop stationery, apparel & home\n\U0001F469\U0001F3FB‍\U0001F3A8 @rachelvpoulin\n\U0001F332 ME > NY > CA\n\U0001F6AB AI\n\U0001F48C hello@letmerepeatmyself.com"
+instagram_posts_count: 567
+instagram_followers_count: 1840
+instagram_follows_count: 769
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/503304895_18010349285754235_6925679817902055255_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzYuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFmBp9YHsDjCleJNFMM7WzlW1JpFZ9kLGoMZQQ7Oef2QiGAkMT7E8wts4BAzpNWXP4&_nc_ohc=2VtWy2ub5SEQ7kNvwGlUA5b&_nc_gid=aPBC86bpzVcT3iMp5ReC8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Of_CmYHW_x3AF5vO8oMvRTnhMR4PgKUp_BKHFl5O3aA&oe=6A13EB66&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/503304895_18010349285754235_6925679817902055255_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzYuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFmBp9YHsDjCleJNFMM7WzlW1JpFZ9kLGoMZQQ7Oef2QiGAkMT7E8wts4BAzpNWXP4&_nc_ohc=2VtWy2ub5SEQ7kNvwGlUA5b&_nc_gid=aPBC86bpzVcT3iMp5ReC8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Of_CmYHW_x3AF5vO8oMvRTnhMR4PgKUp_BKHFl5O3aA&oe=6A13EB66&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7378
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # letmerepeatmyself
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

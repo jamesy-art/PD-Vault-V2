@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'UnBlink Studio by Jackie Tahara: Print and Pattern Design and Illustration'
 website_meta_description: >-
   Fresh and Gorgeous Print and Pattern Design, Illustration and Art Created by
@@ -273,11 +275,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Jackie Tahara - Surface Pattern Design
+instagram_biography: "\U0001F535 Print and Pattern Design, Illustration + Travel\n\U0001F534 L I C E N S E My Designs - Email to Inquire\n\U0001F7E3 S H O P My Fabrics, Wallpaper, Decor + More\n⬇️"
+instagram_posts_count: 3033
+instagram_followers_count: 6699
+instagram_follows_count: 2714
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fric1-1.fna.fbcdn.net/v/t51.2885-19/377839504_250808247385723_8634474852159322349_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=instagram.fric1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHWWbs2bFX0YjMehnIjMEBJh7Db6OfcqmpL6Ab2rn5jC8EY3SNNsU_IfiIrrE-tkyE&_nc_ohc=zCDlI4jyl_IQ7kNvwFsqRHU&_nc_gid=nI4M2ejAQGENFLS5IqezyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iwObcUj1NuqP8kG_rcbpYtIUPT6iMN6xTpXShC8bm9A&oe=6A140480&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fric1-1.fna.fbcdn.net/v/t51.2885-19/377839504_250808247385723_8634474852159322349_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=instagram.fric1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHWWbs2bFX0YjMehnIjMEBJh7Db6OfcqmpL6Ab2rn5jC8EY3SNNsU_IfiIrrE-tkyE&_nc_ohc=zCDlI4jyl_IQ7kNvwFsqRHU&_nc_gid=nI4M2ejAQGENFLS5IqezyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iwObcUj1NuqP8kG_rcbpYtIUPT6iMN6xTpXShC8bm9A&oe=6A140480&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6516
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # unblinkstudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/unblinkstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

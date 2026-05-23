@@ -42,15 +42,48 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Rose Halsey / Illustrator & Surface Designer
+instagram_biography: |-
+  Licensed Illustrator * Surface Designer 
+  Contact for Licensing and Collaborations
+  licensing proudly represented by @advocateart01
+instagram_posts_count: 950
+instagram_followers_count: 4968
+instagram_follows_count: 3549
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia5-2.cdninstagram.com/v/t51.82787-19/669863881_18577836391052952_7233141061382358384_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGsCeYv5Ho5-vMEJt2zfPZzH-dtYEP6FcqOnTztbb2hBbtjfxcR8Bc1ovU1qxENdxg&_nc_ohc=aPPll06LTqoQ7kNvwEAS05E&_nc_gid=MXrXzxJ0iYIqJzGLHPXhvQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6oGme17G1GQnv54fgpbciLrgnzzCyEnbFACoqRNR1kYQ&oe=6A1402CB&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia5-2.cdninstagram.com/v/t51.82787-19/669863881_18577836391052952_7233141061382358384_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGsCeYv5Ho5-vMEJt2zfPZzH-dtYEP6FcqOnTztbb2hBbtjfxcR8Bc1ovU1qxENdxg&_nc_ohc=aPPll06LTqoQ7kNvwEAS05E&_nc_gid=MXrXzxJ0iYIqJzGLHPXhvQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6oGme17G1GQnv54fgpbciLrgnzzCyEnbFACoqRNR1kYQ&oe=6A1402CB&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rosebudstudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8886
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rosebudstudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rosebudstudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rosebudstudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rosebudstudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rosebudstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

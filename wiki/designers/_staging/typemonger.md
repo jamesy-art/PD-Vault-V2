@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'typemonger''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by typemonger for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -270,11 +272,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sarah Stec
+instagram_biography: 'designer  ::  artist'
+instagram_posts_count: 966
+instagram_followers_count: 613
+instagram_follows_count: 2090
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/656272516_18578359990013702_1041597409295512723_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGorsw0MeFAigC_aYhTeM9Ot_2scU793nAGbyJsxOR0fywr1H5f26JWCYw-p56r-Y0&_nc_ohc=0p5cR3OWsgIQ7kNvwGJP0Bd&_nc_gid=n6_7-ENm3yFHGmXd_L9cdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4v4UV9sirrP_25G7ubjkdlthx6SQRYHsyeebAFvZj4-A&oe=6A13EB54&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/656272516_18578359990013702_1041597409295512723_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGorsw0MeFAigC_aYhTeM9Ot_2scU793nAGbyJsxOR0fywr1H5f26JWCYw-p56r-Y0&_nc_ohc=0p5cR3OWsgIQ7kNvwGJP0Bd&_nc_gid=n6_7-ENm3yFHGmXd_L9cdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4v4UV9sirrP_25G7ubjkdlthx6SQRYHsyeebAFvZj4-A&oe=6A13EB54&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/typemonger/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4333
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/typemonger/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/typemonger/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/typemonger/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # typemonger
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/typemonger/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

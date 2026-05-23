@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Kemi Jolaoso Design
 website_meta_description: >-
   Hello and welcome! Kemi is a surface pattern designer who creates colorful,
@@ -182,11 +184,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Kemi Jolaoso Design
+instagram_biography: "Surface Pattern Designer & Illustrator  |  Licensing, Collaborations & Commissions Welcome! |  email: kemijolaosodesign@gmail.com\n\U0001F31FTo shop or connect:"
+instagram_posts_count: 96
+instagram_followers_count: 917
+instagram_follows_count: 1369
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/199487260_313303267176668_5989637539281885553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGh93enagx8dzyORGStwvkVCobS4wjOEQrDOBY6cy8KtzvCp19ZrHIoALo5vnwAsug&_nc_ohc=9B8yit5dYEAQ7kNvwHFSr4t&_nc_gid=wYf-9Sb2l4qEDA91FtwweA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af654UQX98QD7WXKAWtHKzwsa95TwhIH1Z4fZGtxNhPIrA&oe=6A13E661&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/199487260_313303267176668_5989637539281885553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGh93enagx8dzyORGStwvkVCobS4wjOEQrDOBY6cy8KtzvCp19ZrHIoALo5vnwAsug&_nc_ohc=9B8yit5dYEAQ7kNvwHFSr4t&_nc_gid=wYf-9Sb2l4qEDA91FtwweA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af654UQX98QD7WXKAWtHKzwsa95TwhIH1Z4fZGtxNhPIrA&oe=6A13E661&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/kemijolaosodesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4670
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/kemijolaosodesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/kemijolaosodesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/kemijolaosodesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # kemijolaosodesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kemijolaosodesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

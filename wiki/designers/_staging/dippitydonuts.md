@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Tara Carone | Creative Direction, Product Development, Content Design'
 website_meta_description: >-
   Versatile creative leader with 10+ years driving consumer product innovation,
@@ -287,11 +289,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Tara Carone
+instagram_biography: "\U0001F496\U0001F369\U0001F431\nI’m available for freelance and custom development, let’s chat! \U0001F48C"
+instagram_posts_count: 90
+instagram_followers_count: 168
+instagram_follows_count: 288
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/28152992_433342977082794_1575365068978126848_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzcuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEGVzn0bSPwu9KUQQ85Fk4ATjTtDUEtB0g4l43oDZFWne_pMUlmBd9if2S4AKDAAlk&_nc_ohc=7znh1Dc4oDcQ7kNvwFuRhQ8&_nc_gid=94zg6NVr22ph64fsz200dg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71N80WwK04Bph0-ETkihSsToG1P0wu3Vg2ikRMFioGFA&oe=6A13DD9E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/28152992_433342977082794_1575365068978126848_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzcuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEGVzn0bSPwu9KUQQ85Fk4ATjTtDUEtB0g4l43oDZFWne_pMUlmBd9if2S4AKDAAlk&_nc_ohc=7znh1Dc4oDcQ7kNvwFuRhQ8&_nc_gid=94zg6NVr22ph64fsz200dg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71N80WwK04Bph0-ETkihSsToG1P0wu3Vg2ikRMFioGFA&oe=6A13DD9E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5512
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # dippitydonuts
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/dippitydonuts/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

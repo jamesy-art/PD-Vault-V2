@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Bird & Nature Illustration | Yuliia Bahniuk – Folk Art & Patterns
 website_meta_description: >-
   Yuliia Bahniuk (Юлія Багнюк) is a Ukrainian illustrator, artist and surface
@@ -247,11 +249,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Yuliia Bahniuk | Nature & Bird Illustrator • Pattern Designer
+instagram_biography: "\U0001F332In love with nature& birds\n• Colorful folk art inspired illustrations\n• Coloring book artist\n• Available for licensing & collabs\n\U0001F1FA\U0001F1E6Ukrainian in India"
+instagram_posts_count: 1124
+instagram_followers_count: 5720
+instagram_follows_count: 375
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/317406636_2346539185501932_6515047501015491607_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFJC7ZUX1-vcnCnucqDdsFvx3S-vzbjZE8Zeb3ZzGvJvYAgoYIghgapITp869el1kI&_nc_ohc=nrTp_KH6HFIQ7kNvwGPt4JW&_nc_gid=jA1qRoKbiejzvUBzWuQEwg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af79Ur6lM8nggcYB1VLf_bM28q71sh9laKoYf2YhEerGWw&oe=6A13F128&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/317406636_2346539185501932_6515047501015491607_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFJC7ZUX1-vcnCnucqDdsFvx3S-vzbjZE8Zeb3ZzGvJvYAgoYIghgapITp869el1kI&_nc_ohc=nrTp_KH6HFIQ7kNvwGPt4JW&_nc_gid=jA1qRoKbiejzvUBzWuQEwg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af79Ur6lM8nggcYB1VLf_bM28q71sh9laKoYf2YhEerGWw&oe=6A13F128&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5451
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # yuliia_bahniuk
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Inês Valla
 website_meta_description: ARTE I ILUSTRAÇÃO I PINTURA I DESENHO I COLAGEM
 website_about_raw: >-
@@ -109,11 +111,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: usable
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Ines Valla
+instagram_biography: ''
+instagram_posts_count: 489
+instagram_followers_count: 222
+instagram_follows_count: 538
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/422232629_1075174900268048_9206179848098193731_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHHQYxdBub5-wnmDyRbWGEWeLtabOrkkWjO1r4wUG49Xr4kckKZwvkrJQCCFaeW-zs&_nc_ohc=t5smZukjN-sQ7kNvwFy_Pis&_nc_gid=EGNx2kbZwURyHerQ8s4o7g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6I64YbHqf7oJO__4klY4wWQIpLVcJuoTNN5pR9nMPpow&oe=6A13FE81&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/422232629_1075174900268048_9206179848098193731_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHHQYxdBub5-wnmDyRbWGEWeLtabOrkkWjO1r4wUG49Xr4kckKZwvkrJQCCFaeW-zs&_nc_ohc=t5smZukjN-sQ7kNvwFy_Pis&_nc_gid=EGNx2kbZwURyHerQ8s4o7g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6I64YbHqf7oJO__4klY4wWQIpLVcJuoTNN5pR9nMPpow&oe=6A13FE81&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/vallaines.arte/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3818
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/vallaines.arte/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/vallaines.arte/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/vallaines.arte/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # vallaines.arte
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vallaines.arte/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

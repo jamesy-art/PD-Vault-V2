@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Melissa Donne Studio | Explore Bold Patterns
 website_meta_description: >-
   Discover vibrant surface pattern design and joyful illustrations by Melissa
@@ -282,11 +284,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Illustrator & Surface Designer | Melissa Donne
+instagram_biography: "UK based freelance illustrator \U0001F338\nClients inc. Godiva, Tesco, Chronicle Books, Barnardo’s ✨\nAs seen in Anthropologie, Trader Joe’s, Target, TJX \U0001F4AB"
+instagram_posts_count: 1016
+instagram_followers_count: 72240
+instagram_follows_count: 5751
+instagram_private: false
+instagram_verified: true
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/358068404_229041796734627_4201639055234719860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE-Svwi6ac8aiVIq-QCJRgG9vFyZhRJS2UuRahSs72x6TJ33gGNlhPaf9-Hp-JDx40tzLHs6zCdeblmz6EsWSdc&_nc_ohc=IvnyDZkJookQ7kNvwE2blY_&_nc_gid=oQPPvTXdel3SkCo0APWdcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5LYFKPzfok2SUQ2Anmoe39EBhGfjSjtZWp1oY-x4jGQg&oe=6A13DEEA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/358068404_229041796734627_4201639055234719860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE-Svwi6ac8aiVIq-QCJRgG9vFyZhRJS2UuRahSs72x6TJ33gGNlhPaf9-Hp-JDx40tzLHs6zCdeblmz6EsWSdc&_nc_ohc=IvnyDZkJookQ7kNvwE2blY_&_nc_gid=oQPPvTXdel3SkCo0APWdcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5LYFKPzfok2SUQ2Anmoe39EBhGfjSjtZWp1oY-x4jGQg&oe=6A13DEEA&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8117
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # melissadonnestudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

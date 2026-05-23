@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: My Site
 website_meta_description: ''
 website_about_raw: >-
@@ -219,11 +221,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Milly
+instagram_biography: Textile design graduate!!
+instagram_posts_count: 27
+instagram_followers_count: 308
+instagram_follows_count: 664
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/316680425_664122728516431_370831375806227935_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFolHNs9hQV7Vm8vbltqAduucMljKAveJyGCi8HzglhfWtz4xurZl3kqPMyxAqQyKQ&_nc_ohc=PlygCFWbGSsQ7kNvwG_far8&_nc_gid=wln56qAME4C_XfD7QPCi2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wWwFrSkCLtVi2-afPW8P_I--BhWfc2_kNof4-5T5PUQ&oe=6A1404EA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/316680425_664122728516431_370831375806227935_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFolHNs9hQV7Vm8vbltqAduucMljKAveJyGCi8HzglhfWtz4xurZl3kqPMyxAqQyKQ&_nc_ohc=PlygCFWbGSsQ7kNvwG_far8&_nc_gid=wln56qAME4C_XfD7QPCi2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wWwFrSkCLtVi2-afPW8P_I--BhWfc2_kNof4-5T5PUQ&oe=6A1404EA&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/millystextiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 9955
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/millystextiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/millystextiles/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/millystextiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # millystextiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/millystextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

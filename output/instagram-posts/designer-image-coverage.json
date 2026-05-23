@@ -1,0 +1,7705 @@
+{
+  "total_designers_with_download_candidates": 719,
+  "designers_with_1_plus": 719,
+  "designers_with_4_plus": 461,
+  "designers_with_8_plus": 336,
+  "designers_with_12_plus": 257,
+  "designers_with_16_plus": 191,
+  "designers_with_24_plus": 87,
+  "designers_with_8_plus_pattern_only": 241,
+  "designers_with_16_plus_pattern_only": 98,
+  "top_50_designers": [
+    {
+      "username": "patterndesigners",
+      "total_download_candidates": 84,
+      "excellent_candidate": 56,
+      "good_candidate": 17,
+      "usable_candidate": 11,
+      "pattern": 78,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "bluelela",
+      "total_download_candidates": 49,
+      "excellent_candidate": 48,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 42
+    },
+    {
+      "username": "helenbuchandesign",
+      "total_download_candidates": 47,
+      "excellent_candidate": 23,
+      "good_candidate": 18,
+      "usable_candidate": 6,
+      "pattern": 42,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "insvy_designstudio",
+      "total_download_candidates": 46,
+      "excellent_candidate": 44,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 42
+    },
+    {
+      "username": "letterlinedesign",
+      "total_download_candidates": 44,
+      "excellent_candidate": 19,
+      "good_candidate": 16,
+      "usable_candidate": 9,
+      "pattern": 38,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "vihiboh",
+      "total_download_candidates": 43,
+      "excellent_candidate": 17,
+      "good_candidate": 13,
+      "usable_candidate": 13,
+      "pattern": 11,
+      "placement": 10,
+      "product_mockup": 22
+    },
+    {
+      "username": "textureterry",
+      "total_download_candidates": 43,
+      "excellent_candidate": 19,
+      "good_candidate": 22,
+      "usable_candidate": 2,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 34
+    },
+    {
+      "username": "anzela_simcock",
+      "total_download_candidates": 40,
+      "excellent_candidate": 30,
+      "good_candidate": 8,
+      "usable_candidate": 2,
+      "pattern": 29,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "shan_pattern",
+      "total_download_candidates": 39,
+      "excellent_candidate": 9,
+      "good_candidate": 3,
+      "usable_candidate": 27,
+      "pattern": 38,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ivylemonstudio",
+      "total_download_candidates": 38,
+      "excellent_candidate": 26,
+      "good_candidate": 10,
+      "usable_candidate": 2,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 26
+    },
+    {
+      "username": "prisca_priano",
+      "total_download_candidates": 37,
+      "excellent_candidate": 21,
+      "good_candidate": 11,
+      "usable_candidate": 5,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 20
+    },
+    {
+      "username": "mamacorp_",
+      "total_download_candidates": 37,
+      "excellent_candidate": 3,
+      "good_candidate": 32,
+      "usable_candidate": 2,
+      "pattern": 34,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "webvillastudio",
+      "total_download_candidates": 36,
+      "excellent_candidate": 14,
+      "good_candidate": 18,
+      "usable_candidate": 4,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "glitdesign",
+      "total_download_candidates": 36,
+      "excellent_candidate": 18,
+      "good_candidate": 9,
+      "usable_candidate": 9,
+      "pattern": 26,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "studiomodink",
+      "total_download_candidates": 36,
+      "excellent_candidate": 19,
+      "good_candidate": 16,
+      "usable_candidate": 1,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "bataljart",
+      "total_download_candidates": 35,
+      "excellent_candidate": 28,
+      "good_candidate": 4,
+      "usable_candidate": 3,
+      "pattern": 31,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "alexandragalibert",
+      "total_download_candidates": 35,
+      "excellent_candidate": 22,
+      "good_candidate": 10,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 2,
+      "product_mockup": 20
+    },
+    {
+      "username": "therosenborgcompany",
+      "total_download_candidates": 35,
+      "excellent_candidate": 14,
+      "good_candidate": 18,
+      "usable_candidate": 3,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "danielbevisdesign",
+      "total_download_candidates": 35,
+      "excellent_candidate": 22,
+      "good_candidate": 11,
+      "usable_candidate": 2,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 19
+    },
+    {
+      "username": "anca_popescu_draws",
+      "total_download_candidates": 35,
+      "excellent_candidate": 28,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 18
+    },
+    {
+      "username": "abraham_obbannii",
+      "total_download_candidates": 35,
+      "excellent_candidate": 9,
+      "good_candidate": 17,
+      "usable_candidate": 9,
+      "pattern": 35,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "thepatternshine",
+      "total_download_candidates": 34,
+      "excellent_candidate": 9,
+      "good_candidate": 21,
+      "usable_candidate": 4,
+      "pattern": 24,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "ninanedesign",
+      "total_download_candidates": 34,
+      "excellent_candidate": 25,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "yuyasutake",
+      "total_download_candidates": 33,
+      "excellent_candidate": 19,
+      "good_candidate": 13,
+      "usable_candidate": 1,
+      "pattern": 33,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "youflowerme",
+      "total_download_candidates": 33,
+      "excellent_candidate": 32,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 28
+    },
+    {
+      "username": "wanderingmoda",
+      "total_download_candidates": 33,
+      "excellent_candidate": 22,
+      "good_candidate": 7,
+      "usable_candidate": 4,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "textilebakery",
+      "total_download_candidates": 33,
+      "excellent_candidate": 21,
+      "good_candidate": 8,
+      "usable_candidate": 4,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "saeideh.design",
+      "total_download_candidates": 33,
+      "excellent_candidate": 15,
+      "good_candidate": 12,
+      "usable_candidate": 6,
+      "pattern": 19,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "hello_matze_illustrations",
+      "total_download_candidates": 32,
+      "excellent_candidate": 31,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "patterned_com",
+      "total_download_candidates": 32,
+      "excellent_candidate": 32,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 31,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "juliesoricellidesigns",
+      "total_download_candidates": 32,
+      "excellent_candidate": 16,
+      "good_candidate": 7,
+      "usable_candidate": 9,
+      "pattern": 20,
+      "placement": 1,
+      "product_mockup": 11
+    },
+    {
+      "username": "sajee_artandpatterns",
+      "total_download_candidates": 32,
+      "excellent_candidate": 27,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 19
+    },
+    {
+      "username": "studioottilin",
+      "total_download_candidates": 32,
+      "excellent_candidate": 5,
+      "good_candidate": 19,
+      "usable_candidate": 8,
+      "pattern": 27,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "db_prints",
+      "total_download_candidates": 32,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 27,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 29
+    },
+    {
+      "username": "kemijolaosodesign",
+      "total_download_candidates": 31,
+      "excellent_candidate": 28,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "vanda_murasan",
+      "total_download_candidates": 31,
+      "excellent_candidate": 8,
+      "good_candidate": 19,
+      "usable_candidate": 4,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "atelieresopa",
+      "total_download_candidates": 31,
+      "excellent_candidate": 4,
+      "good_candidate": 2,
+      "usable_candidate": 25,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "geetaaiiprints",
+      "total_download_candidates": 30,
+      "excellent_candidate": 21,
+      "good_candidate": 8,
+      "usable_candidate": 1,
+      "pattern": 26,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "osasere.designs",
+      "total_download_candidates": 30,
+      "excellent_candidate": 18,
+      "good_candidate": 3,
+      "usable_candidate": 9,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "kseniia_pirovskikh",
+      "total_download_candidates": 30,
+      "excellent_candidate": 4,
+      "good_candidate": 23,
+      "usable_candidate": 3,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "bananapatternstudio",
+      "total_download_candidates": 30,
+      "excellent_candidate": 5,
+      "good_candidate": 24,
+      "usable_candidate": 1,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "victoriakelland_patterns",
+      "total_download_candidates": 29,
+      "excellent_candidate": 19,
+      "good_candidate": 5,
+      "usable_candidate": 5,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "mysooni_designer",
+      "total_download_candidates": 29,
+      "excellent_candidate": 25,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "lindsay.boehl",
+      "total_download_candidates": 29,
+      "excellent_candidate": 8,
+      "good_candidate": 11,
+      "usable_candidate": 10,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "fmctaggart",
+      "total_download_candidates": 29,
+      "excellent_candidate": 23,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 22,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "lilacbloomsdesigns",
+      "total_download_candidates": 29,
+      "excellent_candidate": 14,
+      "good_candidate": 13,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 24
+    },
+    {
+      "username": "annapaola_delnevo",
+      "total_download_candidates": 29,
+      "excellent_candidate": 13,
+      "good_candidate": 12,
+      "usable_candidate": 4,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "raakstudiouk",
+      "total_download_candidates": 29,
+      "excellent_candidate": 8,
+      "good_candidate": 10,
+      "usable_candidate": 11,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 24
+    },
+    {
+      "username": "felicitas.prints",
+      "total_download_candidates": 29,
+      "excellent_candidate": 0,
+      "good_candidate": 15,
+      "usable_candidate": 14,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ellenaprints",
+      "total_download_candidates": 28,
+      "excellent_candidate": 9,
+      "good_candidate": 19,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 25
+    }
+  ],
+  "designers": [
+    {
+      "username": "patterndesigners",
+      "total_download_candidates": 84,
+      "excellent_candidate": 56,
+      "good_candidate": 17,
+      "usable_candidate": 11,
+      "pattern": 78,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "bluelela",
+      "total_download_candidates": 49,
+      "excellent_candidate": 48,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 42
+    },
+    {
+      "username": "helenbuchandesign",
+      "total_download_candidates": 47,
+      "excellent_candidate": 23,
+      "good_candidate": 18,
+      "usable_candidate": 6,
+      "pattern": 42,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "insvy_designstudio",
+      "total_download_candidates": 46,
+      "excellent_candidate": 44,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 42
+    },
+    {
+      "username": "letterlinedesign",
+      "total_download_candidates": 44,
+      "excellent_candidate": 19,
+      "good_candidate": 16,
+      "usable_candidate": 9,
+      "pattern": 38,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "vihiboh",
+      "total_download_candidates": 43,
+      "excellent_candidate": 17,
+      "good_candidate": 13,
+      "usable_candidate": 13,
+      "pattern": 11,
+      "placement": 10,
+      "product_mockup": 22
+    },
+    {
+      "username": "textureterry",
+      "total_download_candidates": 43,
+      "excellent_candidate": 19,
+      "good_candidate": 22,
+      "usable_candidate": 2,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 34
+    },
+    {
+      "username": "anzela_simcock",
+      "total_download_candidates": 40,
+      "excellent_candidate": 30,
+      "good_candidate": 8,
+      "usable_candidate": 2,
+      "pattern": 29,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "shan_pattern",
+      "total_download_candidates": 39,
+      "excellent_candidate": 9,
+      "good_candidate": 3,
+      "usable_candidate": 27,
+      "pattern": 38,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ivylemonstudio",
+      "total_download_candidates": 38,
+      "excellent_candidate": 26,
+      "good_candidate": 10,
+      "usable_candidate": 2,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 26
+    },
+    {
+      "username": "prisca_priano",
+      "total_download_candidates": 37,
+      "excellent_candidate": 21,
+      "good_candidate": 11,
+      "usable_candidate": 5,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 20
+    },
+    {
+      "username": "mamacorp_",
+      "total_download_candidates": 37,
+      "excellent_candidate": 3,
+      "good_candidate": 32,
+      "usable_candidate": 2,
+      "pattern": 34,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "webvillastudio",
+      "total_download_candidates": 36,
+      "excellent_candidate": 14,
+      "good_candidate": 18,
+      "usable_candidate": 4,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "glitdesign",
+      "total_download_candidates": 36,
+      "excellent_candidate": 18,
+      "good_candidate": 9,
+      "usable_candidate": 9,
+      "pattern": 26,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "studiomodink",
+      "total_download_candidates": 36,
+      "excellent_candidate": 19,
+      "good_candidate": 16,
+      "usable_candidate": 1,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "bataljart",
+      "total_download_candidates": 35,
+      "excellent_candidate": 28,
+      "good_candidate": 4,
+      "usable_candidate": 3,
+      "pattern": 31,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "alexandragalibert",
+      "total_download_candidates": 35,
+      "excellent_candidate": 22,
+      "good_candidate": 10,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 2,
+      "product_mockup": 20
+    },
+    {
+      "username": "therosenborgcompany",
+      "total_download_candidates": 35,
+      "excellent_candidate": 14,
+      "good_candidate": 18,
+      "usable_candidate": 3,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "danielbevisdesign",
+      "total_download_candidates": 35,
+      "excellent_candidate": 22,
+      "good_candidate": 11,
+      "usable_candidate": 2,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 19
+    },
+    {
+      "username": "anca_popescu_draws",
+      "total_download_candidates": 35,
+      "excellent_candidate": 28,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 18
+    },
+    {
+      "username": "abraham_obbannii",
+      "total_download_candidates": 35,
+      "excellent_candidate": 9,
+      "good_candidate": 17,
+      "usable_candidate": 9,
+      "pattern": 35,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "thepatternshine",
+      "total_download_candidates": 34,
+      "excellent_candidate": 9,
+      "good_candidate": 21,
+      "usable_candidate": 4,
+      "pattern": 24,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "ninanedesign",
+      "total_download_candidates": 34,
+      "excellent_candidate": 25,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "yuyasutake",
+      "total_download_candidates": 33,
+      "excellent_candidate": 19,
+      "good_candidate": 13,
+      "usable_candidate": 1,
+      "pattern": 33,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "youflowerme",
+      "total_download_candidates": 33,
+      "excellent_candidate": 32,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 28
+    },
+    {
+      "username": "wanderingmoda",
+      "total_download_candidates": 33,
+      "excellent_candidate": 22,
+      "good_candidate": 7,
+      "usable_candidate": 4,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "textilebakery",
+      "total_download_candidates": 33,
+      "excellent_candidate": 21,
+      "good_candidate": 8,
+      "usable_candidate": 4,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "saeideh.design",
+      "total_download_candidates": 33,
+      "excellent_candidate": 15,
+      "good_candidate": 12,
+      "usable_candidate": 6,
+      "pattern": 19,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "hello_matze_illustrations",
+      "total_download_candidates": 32,
+      "excellent_candidate": 31,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "patterned_com",
+      "total_download_candidates": 32,
+      "excellent_candidate": 32,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 31,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "juliesoricellidesigns",
+      "total_download_candidates": 32,
+      "excellent_candidate": 16,
+      "good_candidate": 7,
+      "usable_candidate": 9,
+      "pattern": 20,
+      "placement": 1,
+      "product_mockup": 11
+    },
+    {
+      "username": "sajee_artandpatterns",
+      "total_download_candidates": 32,
+      "excellent_candidate": 27,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 19
+    },
+    {
+      "username": "studioottilin",
+      "total_download_candidates": 32,
+      "excellent_candidate": 5,
+      "good_candidate": 19,
+      "usable_candidate": 8,
+      "pattern": 27,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "db_prints",
+      "total_download_candidates": 32,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 27,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 29
+    },
+    {
+      "username": "kemijolaosodesign",
+      "total_download_candidates": 31,
+      "excellent_candidate": 28,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "vanda_murasan",
+      "total_download_candidates": 31,
+      "excellent_candidate": 8,
+      "good_candidate": 19,
+      "usable_candidate": 4,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "atelieresopa",
+      "total_download_candidates": 31,
+      "excellent_candidate": 4,
+      "good_candidate": 2,
+      "usable_candidate": 25,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "geetaaiiprints",
+      "total_download_candidates": 30,
+      "excellent_candidate": 21,
+      "good_candidate": 8,
+      "usable_candidate": 1,
+      "pattern": 26,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "osasere.designs",
+      "total_download_candidates": 30,
+      "excellent_candidate": 18,
+      "good_candidate": 3,
+      "usable_candidate": 9,
+      "pattern": 30,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "kseniia_pirovskikh",
+      "total_download_candidates": 30,
+      "excellent_candidate": 4,
+      "good_candidate": 23,
+      "usable_candidate": 3,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "bananapatternstudio",
+      "total_download_candidates": 30,
+      "excellent_candidate": 5,
+      "good_candidate": 24,
+      "usable_candidate": 1,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "victoriakelland_patterns",
+      "total_download_candidates": 29,
+      "excellent_candidate": 19,
+      "good_candidate": 5,
+      "usable_candidate": 5,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "mysooni_designer",
+      "total_download_candidates": 29,
+      "excellent_candidate": 25,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "lindsay.boehl",
+      "total_download_candidates": 29,
+      "excellent_candidate": 8,
+      "good_candidate": 11,
+      "usable_candidate": 10,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "fmctaggart",
+      "total_download_candidates": 29,
+      "excellent_candidate": 23,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 22,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "lilacbloomsdesigns",
+      "total_download_candidates": 29,
+      "excellent_candidate": 14,
+      "good_candidate": 13,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 24
+    },
+    {
+      "username": "annapaola_delnevo",
+      "total_download_candidates": 29,
+      "excellent_candidate": 13,
+      "good_candidate": 12,
+      "usable_candidate": 4,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "raakstudiouk",
+      "total_download_candidates": 29,
+      "excellent_candidate": 8,
+      "good_candidate": 10,
+      "usable_candidate": 11,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 24
+    },
+    {
+      "username": "felicitas.prints",
+      "total_download_candidates": 29,
+      "excellent_candidate": 0,
+      "good_candidate": 15,
+      "usable_candidate": 14,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ellenaprints",
+      "total_download_candidates": 28,
+      "excellent_candidate": 9,
+      "good_candidate": 19,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 25
+    },
+    {
+      "username": "studyope",
+      "total_download_candidates": 28,
+      "excellent_candidate": 14,
+      "good_candidate": 14,
+      "usable_candidate": 0,
+      "pattern": 26,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "fran.illus",
+      "total_download_candidates": 28,
+      "excellent_candidate": 20,
+      "good_candidate": 8,
+      "usable_candidate": 0,
+      "pattern": 24,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "virginialandro",
+      "total_download_candidates": 28,
+      "excellent_candidate": 23,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 27
+    },
+    {
+      "username": "zchromestudios",
+      "total_download_candidates": 28,
+      "excellent_candidate": 13,
+      "good_candidate": 15,
+      "usable_candidate": 0,
+      "pattern": 27,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "unblinkstudio",
+      "total_download_candidates": 28,
+      "excellent_candidate": 13,
+      "good_candidate": 12,
+      "usable_candidate": 3,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "malikabuttinger",
+      "total_download_candidates": 28,
+      "excellent_candidate": 5,
+      "good_candidate": 16,
+      "usable_candidate": 7,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "mirandaestevezprints",
+      "total_download_candidates": 28,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 24,
+      "pattern": 27,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "checiegirl_creations",
+      "total_download_candidates": 28,
+      "excellent_candidate": 9,
+      "good_candidate": 17,
+      "usable_candidate": 2,
+      "pattern": 28,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "_vivdesign",
+      "total_download_candidates": 27,
+      "excellent_candidate": 18,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 25,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "snadiacreations",
+      "total_download_candidates": 27,
+      "excellent_candidate": 19,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 23,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "uxf_designs",
+      "total_download_candidates": 27,
+      "excellent_candidate": 9,
+      "good_candidate": 11,
+      "usable_candidate": 7,
+      "pattern": 27,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "lachanas.designs",
+      "total_download_candidates": 27,
+      "excellent_candidate": 0,
+      "good_candidate": 17,
+      "usable_candidate": 10,
+      "pattern": 27,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jwillustrationshop",
+      "total_download_candidates": 26,
+      "excellent_candidate": 23,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "njie.design",
+      "total_download_candidates": 26,
+      "excellent_candidate": 26,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 23,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "dafne.designstudio",
+      "total_download_candidates": 26,
+      "excellent_candidate": 18,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 23,
+      "placement": 1,
+      "product_mockup": 2
+    },
+    {
+      "username": "blancaedesign",
+      "total_download_candidates": 26,
+      "excellent_candidate": 18,
+      "good_candidate": 6,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 20
+    },
+    {
+      "username": "thepatternroom",
+      "total_download_candidates": 26,
+      "excellent_candidate": 21,
+      "good_candidate": 5,
+      "usable_candidate": 0,
+      "pattern": 24,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "susanthomascreative",
+      "total_download_candidates": 26,
+      "excellent_candidate": 12,
+      "good_candidate": 12,
+      "usable_candidate": 2,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "theprintstale_patterndesigner",
+      "total_download_candidates": 26,
+      "excellent_candidate": 16,
+      "good_candidate": 9,
+      "usable_candidate": 1,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "rina.mroy",
+      "total_download_candidates": 26,
+      "excellent_candidate": 19,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "kellyrideoutdesign",
+      "total_download_candidates": 26,
+      "excellent_candidate": 17,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "designdniro",
+      "total_download_candidates": 26,
+      "excellent_candidate": 10,
+      "good_candidate": 11,
+      "usable_candidate": 5,
+      "pattern": 26,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "designs_n_fibers",
+      "total_download_candidates": 26,
+      "excellent_candidate": 15,
+      "good_candidate": 10,
+      "usable_candidate": 1,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "tm_design25",
+      "total_download_candidates": 26,
+      "excellent_candidate": 24,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 25
+    },
+    {
+      "username": "craftifairy",
+      "total_download_candidates": 25,
+      "excellent_candidate": 15,
+      "good_candidate": 6,
+      "usable_candidate": 4,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "yomnazakariadesign",
+      "total_download_candidates": 25,
+      "excellent_candidate": 21,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "giuliamorandindesign",
+      "total_download_candidates": 25,
+      "excellent_candidate": 3,
+      "good_candidate": 7,
+      "usable_candidate": 15,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "luovaflow",
+      "total_download_candidates": 24,
+      "excellent_candidate": 12,
+      "good_candidate": 8,
+      "usable_candidate": 4,
+      "pattern": 23,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "silromanodesigns",
+      "total_download_candidates": 24,
+      "excellent_candidate": 21,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "abigailbryanart",
+      "total_download_candidates": 24,
+      "excellent_candidate": 3,
+      "good_candidate": 12,
+      "usable_candidate": 9,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "daphaniedenae",
+      "total_download_candidates": 24,
+      "excellent_candidate": 22,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 24,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mashalitvinova.design",
+      "total_download_candidates": 24,
+      "excellent_candidate": 16,
+      "good_candidate": 6,
+      "usable_candidate": 2,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "mangomoondesignco",
+      "total_download_candidates": 24,
+      "excellent_candidate": 20,
+      "good_candidate": 1,
+      "usable_candidate": 3,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "maksin_priestess",
+      "total_download_candidates": 24,
+      "excellent_candidate": 5,
+      "good_candidate": 11,
+      "usable_candidate": 8,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "textile_by_maryam",
+      "total_download_candidates": 24,
+      "excellent_candidate": 8,
+      "good_candidate": 10,
+      "usable_candidate": 6,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "magdalena_kapron_textile",
+      "total_download_candidates": 24,
+      "excellent_candidate": 17,
+      "good_candidate": 6,
+      "usable_candidate": 1,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "jessicawestwood.designs",
+      "total_download_candidates": 24,
+      "excellent_candidate": 7,
+      "good_candidate": 13,
+      "usable_candidate": 4,
+      "pattern": 22,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "melissa.r.design",
+      "total_download_candidates": 23,
+      "excellent_candidate": 21,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "alloveru_by_gretacapelli",
+      "total_download_candidates": 23,
+      "excellent_candidate": 7,
+      "good_candidate": 14,
+      "usable_candidate": 2,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "anelise_design",
+      "total_download_candidates": 23,
+      "excellent_candidate": 10,
+      "good_candidate": 4,
+      "usable_candidate": 9,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "stephaniefionadesign",
+      "total_download_candidates": 23,
+      "excellent_candidate": 19,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "gubiller_",
+      "total_download_candidates": 23,
+      "excellent_candidate": 19,
+      "good_candidate": 0,
+      "usable_candidate": 4,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "sweetsamdesigns",
+      "total_download_candidates": 23,
+      "excellent_candidate": 13,
+      "good_candidate": 8,
+      "usable_candidate": 2,
+      "pattern": 12,
+      "placement": 1,
+      "product_mockup": 10
+    },
+    {
+      "username": "tamopaname",
+      "total_download_candidates": 23,
+      "excellent_candidate": 16,
+      "good_candidate": 6,
+      "usable_candidate": 1,
+      "pattern": 22,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "elenyprints",
+      "total_download_candidates": 23,
+      "excellent_candidate": 8,
+      "good_candidate": 13,
+      "usable_candidate": 2,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "winkeltriple",
+      "total_download_candidates": 23,
+      "excellent_candidate": 6,
+      "good_candidate": 11,
+      "usable_candidate": 6,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 16
+    },
+    {
+      "username": "eliveradesigns",
+      "total_download_candidates": 22,
+      "excellent_candidate": 19,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 13,
+      "placement": 1,
+      "product_mockup": 8
+    },
+    {
+      "username": "gemmalofthousedesigns",
+      "total_download_candidates": 22,
+      "excellent_candidate": 9,
+      "good_candidate": 8,
+      "usable_candidate": 5,
+      "pattern": 13,
+      "placement": 1,
+      "product_mockup": 8
+    },
+    {
+      "username": "al_kovalyova_design",
+      "total_download_candidates": 22,
+      "excellent_candidate": 14,
+      "good_candidate": 8,
+      "usable_candidate": 0,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "ninoladesign",
+      "total_download_candidates": 22,
+      "excellent_candidate": 19,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "lovelybillydesigns",
+      "total_download_candidates": 22,
+      "excellent_candidate": 10,
+      "good_candidate": 6,
+      "usable_candidate": 6,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "bymarcejimenez_a",
+      "total_download_candidates": 22,
+      "excellent_candidate": 21,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "juliekuberski",
+      "total_download_candidates": 22,
+      "excellent_candidate": 10,
+      "good_candidate": 10,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 19
+    },
+    {
+      "username": "rosebudstudio",
+      "total_download_candidates": 22,
+      "excellent_candidate": 8,
+      "good_candidate": 1,
+      "usable_candidate": 13,
+      "pattern": 11,
+      "placement": 6,
+      "product_mockup": 5
+    },
+    {
+      "username": "rachel_elizabeth_designs",
+      "total_download_candidates": 22,
+      "excellent_candidate": 6,
+      "good_candidate": 10,
+      "usable_candidate": 6,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "gerdiaz.designer",
+      "total_download_candidates": 22,
+      "excellent_candidate": 3,
+      "good_candidate": 12,
+      "usable_candidate": 7,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "franzispeer",
+      "total_download_candidates": 22,
+      "excellent_candidate": 0,
+      "good_candidate": 21,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 21
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "total_download_candidates": 21,
+      "excellent_candidate": 12,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "teri_the_butter",
+      "total_download_candidates": 21,
+      "excellent_candidate": 14,
+      "good_candidate": 3,
+      "usable_candidate": 4,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "arkkyanindita",
+      "total_download_candidates": 21,
+      "excellent_candidate": 17,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 19,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "studio.sun.shine",
+      "total_download_candidates": 21,
+      "excellent_candidate": 10,
+      "good_candidate": 8,
+      "usable_candidate": 3,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "mirella_pavesi",
+      "total_download_candidates": 21,
+      "excellent_candidate": 10,
+      "good_candidate": 8,
+      "usable_candidate": 3,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 20
+    },
+    {
+      "username": "designermetin",
+      "total_download_candidates": 21,
+      "excellent_candidate": 21,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "maxfyzt",
+      "total_download_candidates": 21,
+      "excellent_candidate": 6,
+      "good_candidate": 10,
+      "usable_candidate": 5,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "poppiesanducks",
+      "total_download_candidates": 21,
+      "excellent_candidate": 10,
+      "good_candidate": 5,
+      "usable_candidate": 6,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "liazawackidesign",
+      "total_download_candidates": 21,
+      "excellent_candidate": 12,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "anelas_design_studio",
+      "total_download_candidates": 21,
+      "excellent_candidate": 6,
+      "good_candidate": 9,
+      "usable_candidate": 6,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "marinasotole",
+      "total_download_candidates": 21,
+      "excellent_candidate": 13,
+      "good_candidate": 8,
+      "usable_candidate": 0,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "suchidebdesigns",
+      "total_download_candidates": 21,
+      "excellent_candidate": 12,
+      "good_candidate": 8,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 16
+    },
+    {
+      "username": "italiangirlingeorgia",
+      "total_download_candidates": 21,
+      "excellent_candidate": 8,
+      "good_candidate": 7,
+      "usable_candidate": 6,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 21
+    },
+    {
+      "username": "aspenandbeeco",
+      "total_download_candidates": 21,
+      "excellent_candidate": 10,
+      "good_candidate": 7,
+      "usable_candidate": 4,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "iszhennes",
+      "total_download_candidates": 21,
+      "excellent_candidate": 4,
+      "good_candidate": 11,
+      "usable_candidate": 6,
+      "pattern": 21,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "dagdej",
+      "total_download_candidates": 21,
+      "excellent_candidate": 9,
+      "good_candidate": 9,
+      "usable_candidate": 3,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "julianaporto.designer",
+      "total_download_candidates": 21,
+      "excellent_candidate": 4,
+      "good_candidate": 12,
+      "usable_candidate": 5,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "angelicavlachaki",
+      "total_download_candidates": 21,
+      "excellent_candidate": 4,
+      "good_candidate": 12,
+      "usable_candidate": 5,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "nancyluthratextiles",
+      "total_download_candidates": 20,
+      "excellent_candidate": 15,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 11,
+      "placement": 2,
+      "product_mockup": 7
+    },
+    {
+      "username": "the.printed.square.studio",
+      "total_download_candidates": 20,
+      "excellent_candidate": 10,
+      "good_candidate": 6,
+      "usable_candidate": 4,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "noragad_art",
+      "total_download_candidates": 20,
+      "excellent_candidate": 11,
+      "good_candidate": 9,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 19
+    },
+    {
+      "username": "chloett_atelier",
+      "total_download_candidates": 20,
+      "excellent_candidate": 3,
+      "good_candidate": 7,
+      "usable_candidate": 10,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "iamtheastra",
+      "total_download_candidates": 20,
+      "excellent_candidate": 5,
+      "good_candidate": 10,
+      "usable_candidate": 5,
+      "pattern": 20,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mirja.mauno",
+      "total_download_candidates": 20,
+      "excellent_candidate": 15,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 14
+    },
+    {
+      "username": "petraroje",
+      "total_download_candidates": 20,
+      "excellent_candidate": 14,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "lauramaycroft.design",
+      "total_download_candidates": 20,
+      "excellent_candidate": 15,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "ganna_raichel_designs",
+      "total_download_candidates": 20,
+      "excellent_candidate": 7,
+      "good_candidate": 9,
+      "usable_candidate": 4,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "sandrabcreative",
+      "total_download_candidates": 20,
+      "excellent_candidate": 13,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "joliodesign",
+      "total_download_candidates": 20,
+      "excellent_candidate": 2,
+      "good_candidate": 10,
+      "usable_candidate": 8,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "amienmiltonart",
+      "total_download_candidates": 20,
+      "excellent_candidate": 3,
+      "good_candidate": 12,
+      "usable_candidate": 5,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 17
+    },
+    {
+      "username": "deinki_com",
+      "total_download_candidates": 19,
+      "excellent_candidate": 14,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "oldouz.zargar",
+      "total_download_candidates": 19,
+      "excellent_candidate": 10,
+      "good_candidate": 8,
+      "usable_candidate": 1,
+      "pattern": 18,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "colortickle",
+      "total_download_candidates": 19,
+      "excellent_candidate": 12,
+      "good_candidate": 4,
+      "usable_candidate": 3,
+      "pattern": 16,
+      "placement": 1,
+      "product_mockup": 2
+    },
+    {
+      "username": "september.sneha",
+      "total_download_candidates": 19,
+      "excellent_candidate": 17,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 13
+    },
+    {
+      "username": "josie.bel",
+      "total_download_candidates": 19,
+      "excellent_candidate": 10,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "shreyagoyaldesigns",
+      "total_download_candidates": 19,
+      "excellent_candidate": 16,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "suzanakish_designs",
+      "total_download_candidates": 19,
+      "excellent_candidate": 3,
+      "good_candidate": 5,
+      "usable_candidate": 11,
+      "pattern": 19,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "moonup.studio",
+      "total_download_candidates": 19,
+      "excellent_candidate": 11,
+      "good_candidate": 8,
+      "usable_candidate": 0,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "print.aurapk",
+      "total_download_candidates": 19,
+      "excellent_candidate": 11,
+      "good_candidate": 7,
+      "usable_candidate": 1,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "designsby_klm",
+      "total_download_candidates": 19,
+      "excellent_candidate": 12,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "e.tdesigns",
+      "total_download_candidates": 19,
+      "excellent_candidate": 6,
+      "good_candidate": 12,
+      "usable_candidate": 1,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "dippitydonuts",
+      "total_download_candidates": 19,
+      "excellent_candidate": 8,
+      "good_candidate": 7,
+      "usable_candidate": 4,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "annelyblooms",
+      "total_download_candidates": 18,
+      "excellent_candidate": 18,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "redcreativedesign",
+      "total_download_candidates": 18,
+      "excellent_candidate": 7,
+      "good_candidate": 11,
+      "usable_candidate": 0,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "pattern.athenaeum",
+      "total_download_candidates": 18,
+      "excellent_candidate": 14,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "vlm.artdesign.studio",
+      "total_download_candidates": 18,
+      "excellent_candidate": 12,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "cottontopia",
+      "total_download_candidates": 18,
+      "excellent_candidate": 7,
+      "good_candidate": 7,
+      "usable_candidate": 4,
+      "pattern": 18,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "courtneygrabendesigns",
+      "total_download_candidates": 18,
+      "excellent_candidate": 14,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "adinadedu.textiledesign",
+      "total_download_candidates": 18,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 9,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "lzngrafik",
+      "total_download_candidates": 18,
+      "excellent_candidate": 6,
+      "good_candidate": 3,
+      "usable_candidate": 9,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "mimisha_designstudio",
+      "total_download_candidates": 18,
+      "excellent_candidate": 6,
+      "good_candidate": 11,
+      "usable_candidate": 1,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "pmarie.creates",
+      "total_download_candidates": 18,
+      "excellent_candidate": 5,
+      "good_candidate": 13,
+      "usable_candidate": 0,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "charlottehawesdesign",
+      "total_download_candidates": 18,
+      "excellent_candidate": 5,
+      "good_candidate": 6,
+      "usable_candidate": 7,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mini.magique.studio",
+      "total_download_candidates": 18,
+      "excellent_candidate": 3,
+      "good_candidate": 12,
+      "usable_candidate": 3,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "moshitodesign",
+      "total_download_candidates": 18,
+      "excellent_candidate": 9,
+      "good_candidate": 9,
+      "usable_candidate": 0,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "andreaalice.nz",
+      "total_download_candidates": 18,
+      "excellent_candidate": 6,
+      "good_candidate": 7,
+      "usable_candidate": 5,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "sil.vanilla",
+      "total_download_candidates": 17,
+      "excellent_candidate": 14,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "bruxa_magica",
+      "total_download_candidates": 17,
+      "excellent_candidate": 14,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "lemon_dessin",
+      "total_download_candidates": 17,
+      "excellent_candidate": 9,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "saracartmelldesign",
+      "total_download_candidates": 17,
+      "excellent_candidate": 8,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "papillonpatterns",
+      "total_download_candidates": 17,
+      "excellent_candidate": 12,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "mariaflore.design",
+      "total_download_candidates": 17,
+      "excellent_candidate": 9,
+      "good_candidate": 3,
+      "usable_candidate": 5,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "yasmin_designs1",
+      "total_download_candidates": 17,
+      "excellent_candidate": 5,
+      "good_candidate": 4,
+      "usable_candidate": 8,
+      "pattern": 17,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "pffpics",
+      "total_download_candidates": 17,
+      "excellent_candidate": 6,
+      "good_candidate": 3,
+      "usable_candidate": 8,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "borumprint",
+      "total_download_candidates": 17,
+      "excellent_candidate": 9,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "mesadezign",
+      "total_download_candidates": 17,
+      "excellent_candidate": 2,
+      "good_candidate": 1,
+      "usable_candidate": 14,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "gigi_villaverde",
+      "total_download_candidates": 17,
+      "excellent_candidate": 4,
+      "good_candidate": 10,
+      "usable_candidate": 3,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "kenamang.rsa",
+      "total_download_candidates": 17,
+      "excellent_candidate": 6,
+      "good_candidate": 10,
+      "usable_candidate": 1,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "kaprintstudio",
+      "total_download_candidates": 16,
+      "excellent_candidate": 13,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "kateclayillustration",
+      "total_download_candidates": 16,
+      "excellent_candidate": 11,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 2,
+      "product_mockup": 9
+    },
+    {
+      "username": "marinagdesign",
+      "total_download_candidates": 16,
+      "excellent_candidate": 11,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "melissadonnestudio",
+      "total_download_candidates": 16,
+      "excellent_candidate": 10,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 1,
+      "product_mockup": 8
+    },
+    {
+      "username": "ml_illustration",
+      "total_download_candidates": 16,
+      "excellent_candidate": 9,
+      "good_candidate": 7,
+      "usable_candidate": 0,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "printedbyroxy",
+      "total_download_candidates": 16,
+      "excellent_candidate": 5,
+      "good_candidate": 2,
+      "usable_candidate": 9,
+      "pattern": 10,
+      "placement": 3,
+      "product_mockup": 3
+    },
+    {
+      "username": "blanckslate",
+      "total_download_candidates": 16,
+      "excellent_candidate": 7,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "bebadesignss",
+      "total_download_candidates": 16,
+      "excellent_candidate": 10,
+      "good_candidate": 6,
+      "usable_candidate": 0,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "emeraldprintstudio",
+      "total_download_candidates": 16,
+      "excellent_candidate": 4,
+      "good_candidate": 6,
+      "usable_candidate": 6,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "kali_patternstudio",
+      "total_download_candidates": 16,
+      "excellent_candidate": 5,
+      "good_candidate": 9,
+      "usable_candidate": 2,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "made.by.colu",
+      "total_download_candidates": 16,
+      "excellent_candidate": 7,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "medillonstudio",
+      "total_download_candidates": 16,
+      "excellent_candidate": 8,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 2,
+      "product_mockup": 1
+    },
+    {
+      "username": "jessicalrtextiles",
+      "total_download_candidates": 16,
+      "excellent_candidate": 2,
+      "good_candidate": 14,
+      "usable_candidate": 0,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "hannamoustudio",
+      "total_download_candidates": 16,
+      "excellent_candidate": 8,
+      "good_candidate": 7,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "salmaillustrates",
+      "total_download_candidates": 16,
+      "excellent_candidate": 1,
+      "good_candidate": 11,
+      "usable_candidate": 4,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "floral_digital_patterns",
+      "total_download_candidates": 16,
+      "excellent_candidate": 1,
+      "good_candidate": 15,
+      "usable_candidate": 0,
+      "pattern": 16,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "michal.gorelick.design",
+      "total_download_candidates": 15,
+      "excellent_candidate": 11,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "_advitiya",
+      "total_download_candidates": 15,
+      "excellent_candidate": 10,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nalani.jones.design",
+      "total_download_candidates": 15,
+      "excellent_candidate": 2,
+      "good_candidate": 4,
+      "usable_candidate": 9,
+      "pattern": 5,
+      "placement": 3,
+      "product_mockup": 7
+    },
+    {
+      "username": "aimeelaurdesign",
+      "total_download_candidates": 15,
+      "excellent_candidate": 12,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 12
+    },
+    {
+      "username": "guylainecharlebois",
+      "total_download_candidates": 15,
+      "excellent_candidate": 7,
+      "good_candidate": 7,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "itiha_art_world",
+      "total_download_candidates": 15,
+      "excellent_candidate": 13,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "vikram_g_ch",
+      "total_download_candidates": 15,
+      "excellent_candidate": 5,
+      "good_candidate": 7,
+      "usable_candidate": 3,
+      "pattern": 15,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "_luzlagrange_",
+      "total_download_candidates": 15,
+      "excellent_candidate": 1,
+      "good_candidate": 7,
+      "usable_candidate": 7,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mikka.sole",
+      "total_download_candidates": 15,
+      "excellent_candidate": 1,
+      "good_candidate": 5,
+      "usable_candidate": 9,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "imrikstudio",
+      "total_download_candidates": 15,
+      "excellent_candidate": 1,
+      "good_candidate": 7,
+      "usable_candidate": 7,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "dirtyjanes_orange",
+      "total_download_candidates": 15,
+      "excellent_candidate": 0,
+      "good_candidate": 5,
+      "usable_candidate": 10,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 15
+    },
+    {
+      "username": "alex_jade_art",
+      "total_download_candidates": 14,
+      "excellent_candidate": 13,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "amandagracedesign",
+      "total_download_candidates": 14,
+      "excellent_candidate": 9,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "cinnamonclouds.za",
+      "total_download_candidates": 14,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 5,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "artilydesignsofficial",
+      "total_download_candidates": 14,
+      "excellent_candidate": 7,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "jordanliepolt",
+      "total_download_candidates": 14,
+      "excellent_candidate": 10,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "urbanpatterndesigns",
+      "total_download_candidates": 14,
+      "excellent_candidate": 6,
+      "good_candidate": 6,
+      "usable_candidate": 2,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "byjya_christina.j",
+      "total_download_candidates": 14,
+      "excellent_candidate": 11,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mira_paradies",
+      "total_download_candidates": 14,
+      "excellent_candidate": 8,
+      "good_candidate": 6,
+      "usable_candidate": 0,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "laurapantony",
+      "total_download_candidates": 14,
+      "excellent_candidate": 2,
+      "good_candidate": 8,
+      "usable_candidate": 4,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "whitepeony_design",
+      "total_download_candidates": 14,
+      "excellent_candidate": 5,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "artwistparis",
+      "total_download_candidates": 14,
+      "excellent_candidate": 1,
+      "good_candidate": 8,
+      "usable_candidate": 5,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "jemma_trickett.design",
+      "total_download_candidates": 14,
+      "excellent_candidate": 3,
+      "good_candidate": 10,
+      "usable_candidate": 1,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "dyes_happy",
+      "total_download_candidates": 14,
+      "excellent_candidate": 3,
+      "good_candidate": 6,
+      "usable_candidate": 5,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "ainamsnape_print_patterns",
+      "total_download_candidates": 14,
+      "excellent_candidate": 1,
+      "good_candidate": 6,
+      "usable_candidate": 7,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "debiesn.studio",
+      "total_download_candidates": 14,
+      "excellent_candidate": 1,
+      "good_candidate": 7,
+      "usable_candidate": 6,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "printhestitch",
+      "total_download_candidates": 14,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 14,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "elianadeluca.estampas",
+      "total_download_candidates": 14,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 14,
+      "pattern": 14,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "moreno.naranjo",
+      "total_download_candidates": 13,
+      "excellent_candidate": 8,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "uniquecreationsbynirali",
+      "total_download_candidates": 13,
+      "excellent_candidate": 5,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "organicshapedesign",
+      "total_download_candidates": 13,
+      "excellent_candidate": 8,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "dunianalu",
+      "total_download_candidates": 13,
+      "excellent_candidate": 9,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "bcolorido",
+      "total_download_candidates": 13,
+      "excellent_candidate": 9,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "liseereedesigns",
+      "total_download_candidates": 13,
+      "excellent_candidate": 2,
+      "good_candidate": 4,
+      "usable_candidate": 7,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "katiegoldstone_design",
+      "total_download_candidates": 13,
+      "excellent_candidate": 7,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "siandowneydesigns",
+      "total_download_candidates": 13,
+      "excellent_candidate": 8,
+      "good_candidate": 5,
+      "usable_candidate": 0,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "marcelagolis",
+      "total_download_candidates": 13,
+      "excellent_candidate": 1,
+      "good_candidate": 6,
+      "usable_candidate": 6,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "pattern_mate",
+      "total_download_candidates": 13,
+      "excellent_candidate": 7,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "michelle_kral",
+      "total_download_candidates": 13,
+      "excellent_candidate": 6,
+      "good_candidate": 7,
+      "usable_candidate": 0,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ameriyadesign",
+      "total_download_candidates": 13,
+      "excellent_candidate": 4,
+      "good_candidate": 6,
+      "usable_candidate": 3,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "a.glorious.mess",
+      "total_download_candidates": 13,
+      "excellent_candidate": 11,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "qousqoza7",
+      "total_download_candidates": 13,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 7,
+      "pattern": 13,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "monapatterns",
+      "total_download_candidates": 13,
+      "excellent_candidate": 4,
+      "good_candidate": 8,
+      "usable_candidate": 1,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "kahi_designs",
+      "total_download_candidates": 13,
+      "excellent_candidate": 3,
+      "good_candidate": 6,
+      "usable_candidate": 4,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "mairinkareli",
+      "total_download_candidates": 13,
+      "excellent_candidate": 2,
+      "good_candidate": 7,
+      "usable_candidate": 4,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "karina.print",
+      "total_download_candidates": 13,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 9,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "marsernatextil",
+      "total_download_candidates": 12,
+      "excellent_candidate": 2,
+      "good_candidate": 6,
+      "usable_candidate": 4,
+      "pattern": 12,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "aimancreates",
+      "total_download_candidates": 12,
+      "excellent_candidate": 8,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "elenaromerodesign",
+      "total_download_candidates": 12,
+      "excellent_candidate": 7,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 1,
+      "product_mockup": 2
+    },
+    {
+      "username": "letsmolinares",
+      "total_download_candidates": 12,
+      "excellent_candidate": 8,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "charissemarei",
+      "total_download_candidates": 12,
+      "excellent_candidate": 9,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "pinkmoonprints",
+      "total_download_candidates": 12,
+      "excellent_candidate": 9,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "sphere_of_ambience",
+      "total_download_candidates": 12,
+      "excellent_candidate": 2,
+      "good_candidate": 4,
+      "usable_candidate": 6,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 11
+    },
+    {
+      "username": "anisillustration",
+      "total_download_candidates": 12,
+      "excellent_candidate": 2,
+      "good_candidate": 8,
+      "usable_candidate": 2,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "visual.eavesdropper",
+      "total_download_candidates": 12,
+      "excellent_candidate": 6,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "sandrahutterdesigns",
+      "total_download_candidates": 12,
+      "excellent_candidate": 3,
+      "good_candidate": 5,
+      "usable_candidate": 4,
+      "pattern": 7,
+      "placement": 1,
+      "product_mockup": 4
+    },
+    {
+      "username": "simona.ferrero_pattern",
+      "total_download_candidates": 12,
+      "excellent_candidate": 5,
+      "good_candidate": 2,
+      "usable_candidate": 5,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "danaduricekova",
+      "total_download_candidates": 12,
+      "excellent_candidate": 2,
+      "good_candidate": 6,
+      "usable_candidate": 4,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "joanna_plucknett",
+      "total_download_candidates": 12,
+      "excellent_candidate": 4,
+      "good_candidate": 6,
+      "usable_candidate": 2,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "mikelle.makes",
+      "total_download_candidates": 12,
+      "excellent_candidate": 5,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "daria_mirovova",
+      "total_download_candidates": 12,
+      "excellent_candidate": 6,
+      "good_candidate": 2,
+      "usable_candidate": 4,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "mona.textiledesign",
+      "total_download_candidates": 12,
+      "excellent_candidate": 4,
+      "good_candidate": 7,
+      "usable_candidate": 1,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "jacqueline_cuperus",
+      "total_download_candidates": 12,
+      "excellent_candidate": 5,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 9
+    },
+    {
+      "username": "ketikayo",
+      "total_download_candidates": 12,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 8,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "emandink_patternprint",
+      "total_download_candidates": 12,
+      "excellent_candidate": 1,
+      "good_candidate": 9,
+      "usable_candidate": 2,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "milenabarbalinardo",
+      "total_download_candidates": 12,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 10,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "emmalawrencepeattie",
+      "total_download_candidates": 11,
+      "excellent_candidate": 8,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mangoflamingostudio",
+      "total_download_candidates": 11,
+      "excellent_candidate": 9,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "hotoffthepressdesign",
+      "total_download_candidates": 11,
+      "excellent_candidate": 3,
+      "good_candidate": 7,
+      "usable_candidate": 1,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "alexandrakfarmer",
+      "total_download_candidates": 11,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "fabric_drawer",
+      "total_download_candidates": 11,
+      "excellent_candidate": 9,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "marie.le.moal",
+      "total_download_candidates": 11,
+      "excellent_candidate": 4,
+      "good_candidate": 6,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "anacayana",
+      "total_download_candidates": 11,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 5,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "beauportions",
+      "total_download_candidates": 11,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "darceenorton.design",
+      "total_download_candidates": 11,
+      "excellent_candidate": 8,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "miriam_ortwed",
+      "total_download_candidates": 11,
+      "excellent_candidate": 4,
+      "good_candidate": 4,
+      "usable_candidate": 3,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "macapatterns",
+      "total_download_candidates": 11,
+      "excellent_candidate": 6,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "studio8design.illustration",
+      "total_download_candidates": 11,
+      "excellent_candidate": 5,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 10
+    },
+    {
+      "username": "patrona.patrones",
+      "total_download_candidates": 11,
+      "excellent_candidate": 5,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "sabinawgustrin",
+      "total_download_candidates": 11,
+      "excellent_candidate": 5,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 11,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "chloelanger",
+      "total_download_candidates": 11,
+      "excellent_candidate": 4,
+      "good_candidate": 2,
+      "usable_candidate": 5,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "fashiondoodles",
+      "total_download_candidates": 11,
+      "excellent_candidate": 3,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "scrappily_ever_after",
+      "total_download_candidates": 11,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 5,
+      "pattern": 5,
+      "placement": 1,
+      "product_mockup": 5
+    },
+    {
+      "username": "neco.hezkyho",
+      "total_download_candidates": 11,
+      "excellent_candidate": 5,
+      "good_candidate": 6,
+      "usable_candidate": 0,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "debbieseftonart",
+      "total_download_candidates": 11,
+      "excellent_candidate": 4,
+      "good_candidate": 3,
+      "usable_candidate": 4,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "good.motif",
+      "total_download_candidates": 11,
+      "excellent_candidate": 3,
+      "good_candidate": 7,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "ester_muxune",
+      "total_download_candidates": 11,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 6,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "almudena_lopez_prints",
+      "total_download_candidates": 11,
+      "excellent_candidate": 2,
+      "good_candidate": 4,
+      "usable_candidate": 5,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "robynbrookestudio",
+      "total_download_candidates": 11,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 7,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "saramazorra",
+      "total_download_candidates": 11,
+      "excellent_candidate": 2,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 10,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "lesliegoldstein1",
+      "total_download_candidates": 11,
+      "excellent_candidate": 2,
+      "good_candidate": 5,
+      "usable_candidate": 4,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "archanabhurke",
+      "total_download_candidates": 11,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 7,
+      "pattern": 10,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "prints.charming.studio",
+      "total_download_candidates": 11,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 8,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "ania_marta_art",
+      "total_download_candidates": 10,
+      "excellent_candidate": 6,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "sneha_coloursoft",
+      "total_download_candidates": 10,
+      "excellent_candidate": 7,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "naturally_antique",
+      "total_download_candidates": 10,
+      "excellent_candidate": 6,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "irynamushkarova",
+      "total_download_candidates": 10,
+      "excellent_candidate": 4,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "marinamanova_brightdesigns",
+      "total_download_candidates": 10,
+      "excellent_candidate": 7,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "dj.surface_pattern_designing",
+      "total_download_candidates": 10,
+      "excellent_candidate": 2,
+      "good_candidate": 6,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "betticlay",
+      "total_download_candidates": 10,
+      "excellent_candidate": 5,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 10,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jenniferladdhandmade",
+      "total_download_candidates": 10,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 4,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "mmdecorbrand",
+      "total_download_candidates": 10,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "anna_bencic",
+      "total_download_candidates": 10,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 5,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "thepapersushi",
+      "total_download_candidates": 10,
+      "excellent_candidate": 2,
+      "good_candidate": 1,
+      "usable_candidate": 7,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "selma_veerman",
+      "total_download_candidates": 10,
+      "excellent_candidate": 0,
+      "good_candidate": 5,
+      "usable_candidate": 5,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "mjmstudio",
+      "total_download_candidates": 9,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "noemi.siska.design",
+      "total_download_candidates": 9,
+      "excellent_candidate": 6,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "thesixthhousedesigns",
+      "total_download_candidates": 9,
+      "excellent_candidate": 6,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "thelurebyhadia",
+      "total_download_candidates": 9,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 0,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "cocorosha_artroom",
+      "total_download_candidates": 9,
+      "excellent_candidate": 5,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "valentinakornhauser",
+      "total_download_candidates": 9,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "rosalia_prints",
+      "total_download_candidates": 9,
+      "excellent_candidate": 5,
+      "good_candidate": 1,
+      "usable_candidate": 3,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "megauchenbachart",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 4,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "clairesweetdesigns_uk",
+      "total_download_candidates": 9,
+      "excellent_candidate": 4,
+      "good_candidate": 5,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "baptistevirgile",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 6,
+      "usable_candidate": 2,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "eucalyptroses",
+      "total_download_candidates": 9,
+      "excellent_candidate": 4,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "cesartorresphotography",
+      "total_download_candidates": 9,
+      "excellent_candidate": 3,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "lexagalbi",
+      "total_download_candidates": 9,
+      "excellent_candidate": 5,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "michael_zindell_designs",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 4,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "mast_design",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 5,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "terriconraddesigns",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 5,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 7
+    },
+    {
+      "username": "ayranabarboza",
+      "total_download_candidates": 9,
+      "excellent_candidate": 2,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "leavesinlines",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 8
+    },
+    {
+      "username": "stavrina_art_lab",
+      "total_download_candidates": 9,
+      "excellent_candidate": 1,
+      "good_candidate": 5,
+      "usable_candidate": 3,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "margaret_clavell_designs",
+      "total_download_candidates": 9,
+      "excellent_candidate": 0,
+      "good_candidate": 5,
+      "usable_candidate": 4,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "tracyschifeling",
+      "total_download_candidates": 9,
+      "excellent_candidate": 0,
+      "good_candidate": 7,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "studiomariterleski",
+      "total_download_candidates": 9,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 7,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "lhais.munhoz",
+      "total_download_candidates": 9,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 8,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "gsmpaper",
+      "total_download_candidates": 9,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 7,
+      "pattern": 9,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "tina.type",
+      "total_download_candidates": 8,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 5,
+      "placement": 2,
+      "product_mockup": 1
+    },
+    {
+      "username": "fede.volpato.studio",
+      "total_download_candidates": 8,
+      "excellent_candidate": 4,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "_pippa.and.i_",
+      "total_download_candidates": 8,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "vanessagrande.art",
+      "total_download_candidates": 8,
+      "excellent_candidate": 4,
+      "good_candidate": 0,
+      "usable_candidate": 4,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "jellybean_studio",
+      "total_download_candidates": 8,
+      "excellent_candidate": 6,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mirelapopescu_design",
+      "total_download_candidates": 8,
+      "excellent_candidate": 5,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "rosalinde.clara",
+      "total_download_candidates": 8,
+      "excellent_candidate": 3,
+      "good_candidate": 5,
+      "usable_candidate": 0,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "dannie_hughes_design",
+      "total_download_candidates": 8,
+      "excellent_candidate": 2,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "victoriaverillo",
+      "total_download_candidates": 8,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 4,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "figandhue",
+      "total_download_candidates": 8,
+      "excellent_candidate": 2,
+      "good_candidate": 6,
+      "usable_candidate": 0,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ateliermave",
+      "total_download_candidates": 8,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 4,
+      "pattern": 8,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "cyriondesign",
+      "total_download_candidates": 8,
+      "excellent_candidate": 1,
+      "good_candidate": 6,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "letmerepeatmyself",
+      "total_download_candidates": 8,
+      "excellent_candidate": 1,
+      "good_candidate": 5,
+      "usable_candidate": 2,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "belac.reative",
+      "total_download_candidates": 8,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 5,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "patternine",
+      "total_download_candidates": 8,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 7,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "textilesbyellie",
+      "total_download_candidates": 8,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 7,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "bysilviaclara",
+      "total_download_candidates": 7,
+      "excellent_candidate": 6,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "art_ieva_rudzite",
+      "total_download_candidates": 7,
+      "excellent_candidate": 2,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "maria_galybina",
+      "total_download_candidates": 7,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "alejaramillo_studio",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 5,
+      "usable_candidate": 1,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "littlcrow.patterns",
+      "total_download_candidates": 7,
+      "excellent_candidate": 7,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "oakabeedesign",
+      "total_download_candidates": 7,
+      "excellent_candidate": 4,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "indira_budh_atelier",
+      "total_download_candidates": 7,
+      "excellent_candidate": 6,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "durgamaibradley",
+      "total_download_candidates": 7,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "phoebej_design",
+      "total_download_candidates": 7,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "tawnmoore",
+      "total_download_candidates": 7,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "mblochlaine",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "savannarawson",
+      "total_download_candidates": 7,
+      "excellent_candidate": 6,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "aletheadail.design",
+      "total_download_candidates": 7,
+      "excellent_candidate": 4,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "michelepnoo",
+      "total_download_candidates": 7,
+      "excellent_candidate": 2,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "yuhan.lo_drawing",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "thepatternlane",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "maycartprintart",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "gemmastantoncreative",
+      "total_download_candidates": 7,
+      "excellent_candidate": 2,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "katiefinn.designs",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "pachibanez",
+      "total_download_candidates": 7,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "original_veronica_perez",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "zaba.creative",
+      "total_download_candidates": 7,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 4,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mycreativeatelier",
+      "total_download_candidates": 7,
+      "excellent_candidate": 2,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "alexanderadiels",
+      "total_download_candidates": 7,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 3,
+      "pattern": 7,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "vonikdesign",
+      "total_download_candidates": 7,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 4,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "francescamagi_textiledesigner",
+      "total_download_candidates": 7,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 5,
+      "pattern": 3,
+      "placement": 3,
+      "product_mockup": 1
+    },
+    {
+      "username": "melismizprints",
+      "total_download_candidates": 6,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "longinaphillipsdesigns",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "deya.studio",
+      "total_download_candidates": 6,
+      "excellent_candidate": 4,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "katefrostdesign",
+      "total_download_candidates": 6,
+      "excellent_candidate": 4,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "andreal.printsstudio",
+      "total_download_candidates": 6,
+      "excellent_candidate": 4,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "sussecollection",
+      "total_download_candidates": 6,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "robertaforty",
+      "total_download_candidates": 6,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "amysaladesign",
+      "total_download_candidates": 6,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "tizicav.official",
+      "total_download_candidates": 6,
+      "excellent_candidate": 3,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "_bronwendesigns_",
+      "total_download_candidates": 6,
+      "excellent_candidate": 5,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "seel.illustrations",
+      "total_download_candidates": 6,
+      "excellent_candidate": 3,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "gabipiserchia",
+      "total_download_candidates": 6,
+      "excellent_candidate": 3,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "_sofiabe",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "andrabadea_illustration",
+      "total_download_candidates": 6,
+      "excellent_candidate": 2,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 5
+    },
+    {
+      "username": "printsbynicole",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 6
+    },
+    {
+      "username": "anna.stefanska.anna",
+      "total_download_candidates": 6,
+      "excellent_candidate": 2,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "akuatextiles",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "emilysundaydesigns",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "doodle_finch_designs",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "_mascolorporfavor",
+      "total_download_candidates": 6,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "printsbycloe",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "lynne.m.adams",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 6,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "marushabelle",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 1,
+      "product_mockup": 3
+    },
+    {
+      "username": "madebytaye",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 4,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "jasminegoodwindesigns",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 5,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "12amtoday",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "the_flying_papaya",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "ruusulampi",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 2,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "estudiodgp",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 5,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "alexandrabordallo",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "bethmorganstudio",
+      "total_download_candidates": 6,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 6,
+      "pattern": 6,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mariuletela",
+      "total_download_candidates": 5,
+      "excellent_candidate": 3,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "yvonnehartstudio",
+      "total_download_candidates": 5,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "cheryl.bruce.creativ.design",
+      "total_download_candidates": 5,
+      "excellent_candidate": 3,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "moniquemoranstudio",
+      "total_download_candidates": 5,
+      "excellent_candidate": 2,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "dishachandak",
+      "total_download_candidates": 5,
+      "excellent_candidate": 4,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mimiko.designs",
+      "total_download_candidates": 5,
+      "excellent_candidate": 4,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "karismithdesigns",
+      "total_download_candidates": 5,
+      "excellent_candidate": 4,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 4
+    },
+    {
+      "username": "angela_sbandelli",
+      "total_download_candidates": 5,
+      "excellent_candidate": 4,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "a_trace_of_design",
+      "total_download_candidates": 5,
+      "excellent_candidate": 5,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "palindromeart",
+      "total_download_candidates": 5,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "thanafriel",
+      "total_download_candidates": 5,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "tugceasik.art",
+      "total_download_candidates": 5,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "amesnewtondesigns",
+      "total_download_candidates": 5,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 4,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "pretty_the_patterns",
+      "total_download_candidates": 5,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "ksushastolenpencil",
+      "total_download_candidates": 5,
+      "excellent_candidate": 1,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "farah.allegue",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 5,
+      "usable_candidate": 0,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "melaniemilesdesign",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "aamorimmaria",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "iannybastosdesigns",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "annatrelivingdesign",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "pamcaseyart",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "whitestoneprintstudio",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 1,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "andreaelias_estudio",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 2,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "deamarianastasia",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "incomparable_vision111",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "a.i.textiles",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "bianca.u_textiles",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 4,
+      "pattern": 5,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "karenandmarisa",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 5,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "paint.to.paper.designs",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 5,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "noble_signed",
+      "total_download_candidates": 5,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 5,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "wimzywalls",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ayesha.designsprint",
+      "total_download_candidates": 4,
+      "excellent_candidate": 3,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "kristinaforrestcreative",
+      "total_download_candidates": 4,
+      "excellent_candidate": 2,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mitalimdesigns",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "duti.design_ur_trendy_identity",
+      "total_download_candidates": 4,
+      "excellent_candidate": 2,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "aa_studio_86",
+      "total_download_candidates": 4,
+      "excellent_candidate": 4,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "the_print_journey_by_ritika",
+      "total_download_candidates": 4,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "beernaert.liesbeth",
+      "total_download_candidates": 4,
+      "excellent_candidate": 3,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jun.shu.create",
+      "total_download_candidates": 4,
+      "excellent_candidate": 2,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jesteniasoutherland",
+      "total_download_candidates": 4,
+      "excellent_candidate": 2,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "thuanygabrielle.art",
+      "total_download_candidates": 4,
+      "excellent_candidate": 3,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "ellastration_",
+      "total_download_candidates": 4,
+      "excellent_candidate": 3,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "studiojoanamattos",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "matea.stare",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "ambar.violeta.pino",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "popicrea",
+      "total_download_candidates": 4,
+      "excellent_candidate": 3,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jessicajane.illustration",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "rousehousedesign",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "moonchild_artstudio",
+      "total_download_candidates": 4,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "lydiahilldesigns",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "natalia_firsova",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 1,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "chloeturnerdesigns",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "laura.hamzic.design",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "birdandblossom",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "karakellerdesigns",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "juxtapo5e",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "paolapaganoofficial",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "margauxdereume",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "jen28nart",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "kaynatazharr",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 3,
+      "product_mockup": 1
+    },
+    {
+      "username": "by_claudiagastaldo",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 4,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "aliceemilytextiles",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mberrytextiles",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 3,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "anacavalcante_art",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 2,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "manendesign",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 3,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "enprint.in",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 4,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "millystextiles",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 4,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "veritosi_",
+      "total_download_candidates": 4,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 4,
+      "pattern": 4,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jlabre",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "s.n_pattern_designs",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "dandymarkcreative",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "dashaglasha_art",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mirellabirella",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "cocobloom_uk",
+      "total_download_candidates": 3,
+      "excellent_candidate": 3,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "chelseamayillustrations",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "merooseth",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "adelinejuliebee",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "kicki.fjell",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "macluredesigns",
+      "total_download_candidates": 3,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "opeachyday",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "studioalisonnolan",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "karajayneartanddesign",
+      "total_download_candidates": 3,
+      "excellent_candidate": 1,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "_marcelopez_",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "hannahburragetextiles",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mahua_kaith",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "full.mistica",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 3
+    },
+    {
+      "username": "hcatextiles",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "adaptationsdesigns",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "louisecunninghamillustration",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "ellafelgatedesign",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 2,
+      "product_mockup": 0
+    },
+    {
+      "username": "emberillustrates",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 3,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "limonerostudio",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 1,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "_alcove_decor",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "patriciartes",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "alma_otreus_design",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "amreacedesign",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "michelmassih",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "saarakurkela_com",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "cascavel.es",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "hollymaytextiles",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "applied_arts_studio",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "brookepalmerdesigns",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mattsirach",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "creativeateliers",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "gulaynoora",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "ichajayanti.id",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 3,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "olivetilly_textiles",
+      "total_download_candidates": 3,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 3,
+      "pattern": 0,
+      "placement": 3,
+      "product_mockup": 0
+    },
+    {
+      "username": "rachelheatherlee",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "creativehowl",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "parisprints_textileshow",
+      "total_download_candidates": 2,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "yuliia_bahniuk",
+      "total_download_candidates": 2,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "anitaillustrates",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "deannestrangedesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "menna_studio5",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "illustratorsforhire",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "pauli_salmi_illustrations",
+      "total_download_candidates": 2,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "option_ink",
+      "total_download_candidates": 2,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "vivemma.design",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "heather_zhou_",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "fredalillyprints",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "carrieneelydesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "bron_alexander",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "mikaela_karthik_design",
+      "total_download_candidates": 2,
+      "excellent_candidate": 2,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "annih_art",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "sashkovna_ya",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "fabricbank_",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "olisiadesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "by_juliamiller",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "tekla_pecz",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "renee.stramel.art",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "c.hillmanillustration",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "danielegaube",
+      "total_download_candidates": 2,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "loopyfuldesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "cata_print",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "estampasdamarcela",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "illustrations_by_zu",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "creatsyofficial",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "vendelavrensk",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "saniya.designs",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "wigglesignalstudio",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "illustrationkaisakoponen",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "botanica_pattern_designs",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "peonyrosedesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "sarah_biggs_design",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "myown_mess",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mf_illustration",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "astro.oartsy",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "gleicilealdesigner",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "shirabentley",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "claremartindesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "digicouture",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "amelia_graham_print",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "julianaglenda.dsgn",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "sariel_studio",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "oyeah_studio",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "katie_oshea_design",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "bloomandwall",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 2,
+      "usable_candidate": 0,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "julzclementine",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "hellolauraortiz",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "katdogdesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "lyds.prints",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 2,
+      "product_mockup": 0
+    },
+    {
+      "username": "beluruiztex",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mushydoodle",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "finchleydesigns",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "tonia_tkach",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "gingiberi_studios",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "lilapng",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "kaseymelissa.art",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "elle.rofe",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "annah.design",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "vvisuals___",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "rabbittownart",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "quilt_ink",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "prajaktarao",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "macichini",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "designedbyemikli",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "niranjanamanidesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "custom.totes.by.erika",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "vivinicolin",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "katiepaynedesign",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "designs_by_flo",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 2
+    },
+    {
+      "username": "alarcon_studio",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "nancykouta.me",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 1
+    },
+    {
+      "username": "jenwardletextiles",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "kidfia",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "elpiskarathanasi",
+      "total_download_candidates": 2,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 2,
+      "pattern": 2,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "rcatextiles",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "kshimodesigns",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "thegreatartistmarket",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "jennifer.ann.design",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "shop_gubiller",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mel.amann.studio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "scadfibers",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "surfacethinking",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "saltysirenstudios",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "marigold_clothing",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "becoakesdesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "colibri_print.cz",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "creativeswings",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "maryleneroy.artetillustration",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "cavancraftcollective",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "veritylowry",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "katerina_patapi",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "lborouniarts",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "maribustudio_",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "julietabesse.studio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "carolynquan.art",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "rohandahotre",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "powerupcreate",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "futureicons_",
+      "total_download_candidates": 1,
+      "excellent_candidate": 1,
+      "good_candidate": 0,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "karenprince69",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "niceandfancy",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "brightagencylicensing",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "authorinteriors",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jacqui_ponytaildesigns",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "petleypatterns",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "studioraquelucena",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "serendipityinstituteuk",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "lucrecia.caporale",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "storihome_",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "littleandlively",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "kavya.yadav.art",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "thegraphicpatternstudio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nellene_artanddesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "abey_print_studio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "gerlacta",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "zoesymonsdesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "friendlyfolkmarkets",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "heartosoulart",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "digndesigns",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "atelier.moeli",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "izabellaniquito",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "alchemiqa",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "we__are__lume",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mackenziekuck",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "olivia.bertus",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "oliviaboutrou_illustration",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "shopbellalie",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "krogs_fiskerestaurant",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "emmi.kerkham",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jasmine.kroeze",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "abigailpymerstudio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "circular_social_",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "artbybea_",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "svetlanalerie",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "nadiawelch_textiledesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "studioebloom",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "heywawa___",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "stixylin",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "l.ittlemisshug",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "indhotelshowldn",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "noorbloomstudio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "georgietaylordesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "lindsaymarsdenart",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "image.ie",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nientediserio_crea",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "textilesatmorley",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "pretentiousartiststel",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 1,
+      "usable_candidate": 0,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "heimtextil",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "izziepaschoal",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "t_anne_j_creative",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "missjonesdraws",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mone.ceramics.art",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "mnnkshi",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "patidavies",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "retextiles",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "wipdft_gala",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "charlottebeaton.designs",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nottooshabbymarkets",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "jenniferlemondesigns",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "keergan_illustrates",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "purplepirateco",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "anitestoneart",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "50s_vintage_dame",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "kristinknych",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "sarah_metcalfe_design",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "gigirosado_illustration",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "stayweirdsurfcompany",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "ditsyfabric",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "veronicaver.illustrator",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "illustrationsbywasama",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "althea___studio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "surfpatstaffs",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "clothcutsco",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "aifosznub",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "danahenneseydesigns",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nikkitacohoon",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "lisatut",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nectarandnesthome",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "stephanygeiser",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "breath.by.breath",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "saraharnettstudio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "chuda_wiedzma",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "iloveplaytime",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "isataylor.studio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "beebarts",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "deepthishenoi",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "den____studios",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "swimwearbcn",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "katkerrart",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "doart.textile",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "miris_bunte_modewelt",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "leanne.nowell",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "emma_graham_illustrations",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "dmargotstudio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "salo.demateicara",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "fani.kokolaki",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "fiinkdesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "berenice.martin_",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "clarelewisillustration",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "parkstonegrammarschool",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "hiprintdesign",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "vera.holera",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "missrabbitsews",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "artshinelicensing",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "ella_blomfield_textiles",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "laurabrumana",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "kaeselotti",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "femketextiles",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "margot_design",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "emdoodles.co",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 0,
+      "product_mockup": 1
+    },
+    {
+      "username": "textiledesign_bfa",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 0,
+      "placement": 1,
+      "product_mockup": 0
+    },
+    {
+      "username": "loyaltycottage",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "nmmela.designs",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "antheadesignstudio",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    },
+    {
+      "username": "isabella_sheridan_textiles",
+      "total_download_candidates": 1,
+      "excellent_candidate": 0,
+      "good_candidate": 0,
+      "usable_candidate": 1,
+      "pattern": 1,
+      "placement": 0,
+      "product_mockup": 0
+    }
+  ]
+}

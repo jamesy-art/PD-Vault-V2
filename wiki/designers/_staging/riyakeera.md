@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Riya Keera
 website_meta_description: >-
   This is a studio built on love for slow, meaningful creation. Our collections
@@ -87,11 +89,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Riya Keera | Artist & Illustrator
+instagram_biography: "\U0001F350 The Art of Deep Rest\n\U0001F9A2 Custom Wedding Stationery\n\U0001F338 Surface Pattern Design\n@riyakeera.everafter | Line: @riyakeera"
+instagram_posts_count: 52
+instagram_followers_count: 365
+instagram_follows_count: 863
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/504507458_18491266000067610_8028374458216443562_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFXZS1pODuPmyjja3bsqN5rSf0N1UDAtQyzGZuJqSyEyG-pxvHpwaOetzpeI_ZX1bQ&_nc_ohc=myI1kQWsaUQQ7kNvwEaBQec&_nc_gid=7Wee_lVhuqtE9ynlZGOHUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60UnHaqKt3ZxcldHwpPBQ6OBEMv5HkfgASrXNkqXMWmQ&oe=6A13F345&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/504507458_18491266000067610_8028374458216443562_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFXZS1pODuPmyjja3bsqN5rSf0N1UDAtQyzGZuJqSyEyG-pxvHpwaOetzpeI_ZX1bQ&_nc_ohc=myI1kQWsaUQQ7kNvwEaBQec&_nc_gid=7Wee_lVhuqtE9ynlZGOHUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60UnHaqKt3ZxcldHwpPBQ6OBEMv5HkfgASrXNkqXMWmQ&oe=6A13F345&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/riyakeera/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2867
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/riyakeera/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/riyakeera/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/riyakeera/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # riyakeera
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/riyakeera/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

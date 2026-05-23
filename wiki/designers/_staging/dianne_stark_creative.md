@@ -43,6 +43,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Di Stark Creative | Explore Unique Designs — Get Started Today
 website_meta_description: >-
   Discover whimsical hand-drawn illustrations and surface patterns inspired by
@@ -277,11 +278,36 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ''
+instagram_biography: ''
+instagram_posts_count: null
+instagram_followers_count: null
+instagram_follows_count: null
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: ''
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # dianne_stark_creative
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

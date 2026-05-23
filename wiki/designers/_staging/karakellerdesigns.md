@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Creating hand-painted artwork for licensing in the home decor, gift industries
   and more!
@@ -88,11 +90,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Kara Keller
+instagram_biography: 'I create on-trend artwork for the home decor, gift and stationary industries'
+instagram_posts_count: 98
+instagram_followers_count: 454
+instagram_follows_count: 2501
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/462823712_1729512091156668_175960308999256665_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NjQuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEhf5jIVhU39Iri8CBGTL1eLFH8h-fHlPt_K_R-F1WQdX_pP83cf2VXAET5oosbk0c&_nc_ohc=FR-5FQ-w4B0Q7kNvwFc5Dte&_nc_gid=qQxP9rHVf7qYHQ00_tiqqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5DYP7-XVzKaXWCX-4xdbB6OJcnQubqnvqgV8MkMeQsjA&oe=6A14003B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/462823712_1729512091156668_175960308999256665_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NjQuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEhf5jIVhU39Iri8CBGTL1eLFH8h-fHlPt_K_R-F1WQdX_pP83cf2VXAET5oosbk0c&_nc_ohc=FR-5FQ-w4B0Q7kNvwFc5Dte&_nc_gid=qQxP9rHVf7qYHQ00_tiqqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5DYP7-XVzKaXWCX-4xdbB6OJcnQubqnvqgV8MkMeQsjA&oe=6A14003B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/karakellerdesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6388
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/karakellerdesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/karakellerdesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/karakellerdesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # karakellerdesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/karakellerdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

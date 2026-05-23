@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Carole Hillman | Illustration
 website_meta_description: >-
   Carole Hillman est illustratrice et créatrice de motifs basée à Lyon. Après
@@ -219,11 +221,45 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Carole Hillman
+instagram_biography: >-
+  Illustratrice & créatrice de motifs 
+
+  Portraits personnalisés & univers poétique Inspiré par mes racines & la
+  famille
+
+  Commandes ouvertes ↓
+instagram_posts_count: 1762
+instagram_followers_count: 4857
+instagram_follows_count: 2656
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/459756097_895418755776897_7302564253214867394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFIEYoYE-p13BfgaVKd-ZslC2vTvbNN-4LjewBEzD3s0KwALDdinbw4CZs6IIo3qi8&_nc_ohc=wdIfg8_q2bMQ7kNvwGWGw9K&_nc_gid=rCw1gB0Ukiduu_MS2_GI6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZHrfREzUIQWehGnsrwQ_G8g-3-kWKJJFolQXCifBosg&oe=6A13F904&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/459756097_895418755776897_7302564253214867394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFIEYoYE-p13BfgaVKd-ZslC2vTvbNN-4LjewBEzD3s0KwALDdinbw4CZs6IIo3qi8&_nc_ohc=wdIfg8_q2bMQ7kNvwGWGw9K&_nc_gid=rCw1gB0Ukiduu_MS2_GI6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZHrfREzUIQWehGnsrwQ_G8g-3-kWKJJFolQXCifBosg&oe=6A13F904&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5566
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # c.hillmanillustration
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Roberta Paolini – Graphic and Surface Designer
 website_meta_description: ''
 website_about_raw: >-
@@ -197,11 +199,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Roberta Paolini
+instagram_biography: "designer and artist\n.\nsurface pattern design \U0001F58D\ncoordinated prints collections \U0001FA86\npattern brand strategy ®️\n.\nartist profile\n@robertapaolini \n."
+instagram_posts_count: 322
+instagram_followers_count: 767
+instagram_follows_count: 2439
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/345053831_596214702472005_4945466538078033098_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODcuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFWW_xZt6393p0kUmT3H_NHY1PqhQYUtkLiI5iVtl0bENEDyxzaqMYe8mQJaeD43ps&_nc_ohc=m-bCd2OKZZ4Q7kNvwFmS-fN&_nc_gid=VNPg0lupdIVdcTUF41ze9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af69yPrwrZC9xRG-cF4Pfd24U70TXejpkeVXU9vveBEVTQ&oe=6A13EAC5&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/345053831_596214702472005_4945466538078033098_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODcuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFWW_xZt6393p0kUmT3H_NHY1PqhQYUtkLiI5iVtl0bENEDyxzaqMYe8mQJaeD43ps&_nc_ohc=m-bCd2OKZZ4Q7kNvwFmS-fN&_nc_gid=VNPg0lupdIVdcTUF41ze9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af69yPrwrZC9xRG-cF4Pfd24U70TXejpkeVXU9vveBEVTQ&oe=6A13EAC5&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/robertapaolini.designer/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5704
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/robertapaolini.designer/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/robertapaolini.designer/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/robertapaolini.designer/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # robertapaolini.designer
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/robertapaolini.designer/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

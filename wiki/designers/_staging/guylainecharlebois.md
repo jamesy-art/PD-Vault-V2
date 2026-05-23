@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Flora Rose Design par Guylaine Charlebois
 website_meta_description: Licensed surface patter designer
 website_about_raw: >-
@@ -261,11 +263,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Guylaine Charlebois
+instagram_biography: "\U0001F1E8\U0001F1E6 Licensed surface pattern designer creating for wallpaper and home good.  Licensing and collaboration welcomed. Have a look at my PORTFOLIO linked"
+instagram_posts_count: 31
+instagram_followers_count: 1039
+instagram_follows_count: 2881
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/575997812_18295704583261138_5493278641466939963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEboErA4pCW9x4_uYD7aZdSp92qLMPiFh6vCq_QPSWF81uXK0WfAXWcP5RJJG-RL1o&_nc_ohc=TpHHMAaqRtsQ7kNvwEbgQsL&_nc_gid=qWJky176gbFl1Se5-Zz_3w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6fl85BiRHw1Oych0Fy8BQ4uxWCAMqfvN2kj6xaTCzdfQ&oe=6A13D4F9&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/575997812_18295704583261138_5493278641466939963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEboErA4pCW9x4_uYD7aZdSp92qLMPiFh6vCq_QPSWF81uXK0WfAXWcP5RJJG-RL1o&_nc_ohc=TpHHMAaqRtsQ7kNvwEbgQsL&_nc_gid=qWJky176gbFl1Se5-Zz_3w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6fl85BiRHw1Oych0Fy8BQ4uxWCAMqfvN2kj6xaTCzdfQ&oe=6A13D4F9&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4626
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # guylainecharlebois
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

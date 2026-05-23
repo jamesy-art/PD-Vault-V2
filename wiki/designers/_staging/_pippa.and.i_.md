@@ -26,7 +26,7 @@ bio: ''
 website: 'https://pippaandi.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/_pippa.and.i_
 profile_url: ''
 instagram_images:
@@ -43,7 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Pippa and I | Surface Pattern Design
 website_meta_description: >-
   Pippa & I is a surface pattern design and graphic design studio specializing
@@ -139,34 +144,171 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Kathleen Atkinson | Licensed Surface Pattern Designer
+instagram_biography: >-
+  wallpaper + home decor + collabs / branding / licensing / pattern design /
+  growing an artist community
+instagram_posts_count: 447
+instagram_followers_count: 1633
+instagram_follows_count: 1664
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/461246999_557405336859823_7466925226096242860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFQc7JfNVVzncPlczhQBdYCZHSWRN447lGrsqHSGZwh6wwLlrFagSY-KW9fdkSwUcM&_nc_ohc=MT0uxhoo02wQ7kNvwEied35&_nc_gid=4k6ziHmumHO7UuFIN0P5vg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4vlnx1EnqOcKa8XiePAX6eFEGz48_SpoKMQ1ZQnyw7Ng&oe=6A13D6E3&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/461246999_557405336859823_7466925226096242860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFQc7JfNVVzncPlczhQBdYCZHSWRN447lGrsqHSGZwh6wwLlrFagSY-KW9fdkSwUcM&_nc_ohc=MT0uxhoo02wQ7kNvwEied35&_nc_gid=4k6ziHmumHO7UuFIN0P5vg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4vlnx1EnqOcKa8XiePAX6eFEGz48_SpoKMQ1ZQnyw7Ng&oe=6A13D6E3&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/_pippa.and.i_/profile/461246999_557405336859823_7466925226096242860_n.jpg
+instagram_profile_image_bytes: 4723
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/_pippa.and.i_/profile/461246999_557405336859823_7466925226096242860_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/_pippa.and.i_/profile/461246999_557405336859823_7466925226096242860_n.jpg
+profile_image_local: >-
+  ../../assets/designers/_pippa.and.i_/profile/461246999_557405336859823_7466925226096242860_n.jpg
+images:
+  profile:
+    - ../../assets/designers/_pippa.and.i_/profile/instagram-profile.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1657736396_2881624211542299667_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1660321420_2903308962570671343_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1668136088_2968863147411318492_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1705695147_3283931374748600933_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710290386_3322479030391827850_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710682806_3325770875730124955_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376035607879_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376312513783_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1712103303_3337686860980789996_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1714687048_3359360900424673410_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715030443_3362241512844085616_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715222071_3363849002896556991_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715306392_3364556334794182540_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715787478_3368591980882023926_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1747668993_3636033515587533392_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1778937541_3898332653347582338_13505929499.jpg
+instagram_image_count: 16
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1660321420_2903308962570671343_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1668136088_2968863147411318492_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710682806_3325770875730124955_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376312513783_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1712103303_3337686860980789996_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715787478_3368591980882023926_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1747668993_3636033515587533392_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1778937541_3898332653347582338_13505929499.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1714687048_3359360900424673410_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715030443_3362241512844085616_13505929499.jpg
+  - >-
+    ../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715222071_3363849002896556991_13505929499.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # _pippa.and.i_
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/_pippa.and.i_/profile/461246999_557405336859823_7466925226096242860_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1657736396_2881624211542299667_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1657736396_2881624211542299667_13505929499.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1660321420_2903308962570671343_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1660321420_2903308962570671343_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1668136088_2968863147411318492_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1668136088_2968863147411318492_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1705695147_3283931374748600933_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1705695147_3283931374748600933_13505929499.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710290386_3322479030391827850_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710290386_3322479030391827850_13505929499.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710682806_3325770875730124955_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710682806_3325770875730124955_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376035607879_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376035607879_13505929499.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376312513783_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1710949178_3328005376312513783_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1712103303_3337686860980789996_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1712103303_3337686860980789996_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1714687048_3359360900424673410_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1714687048_3359360900424673410_13505929499.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715030443_3362241512844085616_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715030443_3362241512844085616_13505929499.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715222071_3363849002896556991_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715222071_3363849002896556991_13505929499.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715306392_3364556334794182540_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715306392_3364556334794182540_13505929499.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715787478_3368591980882023926_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1715787478_3368591980882023926_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1747668993_3636033515587533392_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1747668993_3636033515587533392_13505929499.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1778937541_3898332653347582338_13505929499.jpg)<br><!-- image:../../assets/designers/_pippa.and.i_/instagram/_pippa.and.i__1778937541_3898332653347582338_13505929499.jpg --> | [x] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Pippa & I is a Canadian surface pattern design studio founded by Kathleen Atkinson. The studio specializes in art-driven, hand-drawn patterns for wallpaper and home décor, with active commercial distribution through multiple wall-covering retail and licensing partners. Selected Instagram images confirm a warm, textured botanical and floral pattern aesthetic across a range of wallpaper collections. Atkinson also offers educational resources for early-career pattern designers.
 
 ## Style and Aesthetic
 
+Warm, sophisticated, textured patterns with a hand-drawn quality. Selected pattern images suggest botanical branches, layered floral bouquets, and soft ditsy florals, alongside more structured geometric stripe and fashion-silhouette motifs. Collections show tonal range — dark backgrounds with delicate line work as well as light, airy compositions. Some collections reference Parisian and couture aesthetics (fashion-silhouette wallpapers, geometric "Maison" and "City Lines" designs). The overall direction is romantic and interior-focused.
+
 ## Techniques and Tools
+
+Hand-drawn illustration with digital finishing. Website product descriptions consistently reference hand-drawn line work across botanical, floral, geometric, and fashion-figure motifs. Output is formatted for self-adhesive wallpaper and wall-covering applications.
 
 ## Markets and Clients
 
+Primary market is home décor wallpaper. Active commercial placement through Decor Imprime, Wimzy Walls, and Printed Decor as retail and licensing partners. Documented collections include "Cabinscape Collection," "Woodland Bouquet," "Eucalyptus Wrap," "Charlotte in Grey," "Floral Fusion," "Amelia Wallpaper," "La Via Rose," "Ditsy Floral in Cream," "Maison," "City Lines," and "Woodland Weave." Selected placement images suggest wallpaper in residential interior contexts. Featured in unspecified Spring Issue 2025 publication. The studio also produces "The Surface Pattern Playbook," an educational resource for pattern designers.
+
 ## Portfolio and Presence
+
+- Website: https://pippaandi.com
+- Instagram: @_pippa.and.i_
+- Retail / licensing: Decor Imprime (@decor_imprime), Wimzy Walls (wimzywalls.com), Printed Decor (printeddecor.com)
 
 ## Career Path
 
+Founded by Kathleen Atkinson. The studio has built a commercial licensing portfolio across three wallpaper retail platforms. Instagram community engagement includes co-hosting creative challenges (#creativehighlights26). The studio's dual role — as a design practice and an educator for other pattern designers — reflects an established professional standing.
+
 ## Pattern Focus
 
+Selected pattern images show a core repertoire of hand-drawn botanical branches, layered floral compositions, and soft ditsy florals, alongside structured geometric and fashion-silhouette designs. Wallpaper is the dominant application. Collections are commercially positioned for contemporary residential interiors, with a consistent warm and romantic sensibility.
+
 ## Connections
+
+- [[Wallpaper Market]]
+- [[Home Decor Market]]
+- [[Floral Pattern]]
+- [[Botanical Pattern]]
+- [[Decor Imprime]]

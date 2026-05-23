@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Martin Campi Studio
 website_meta_description: ''
 website_about_raw: >-
@@ -153,11 +155,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: MC |  Graphic & Textile Studio
+instagram_biography: "\U0001F3A8 Exclusive Print Design for Swim & Beachwear Brands\n✍️ Designing Original Illustrations\n\U0001F4E9 Let’s collaborate: hello@martincampi.com\n\U0001F447 Web and Works"
+instagram_posts_count: 261
+instagram_followers_count: 1738
+instagram_follows_count: 2280
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/628506463_18080766686592310_933837677195812625_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFx6q9f-TpSU9IapobeMNdE9r8PAgfYvLIkpnpD5eqp0ZbCkeLW3Flz64iP18SD1fI&_nc_ohc=MvzZUxAhCswQ7kNvwFaSE30&_nc_gid=NvUpJRSnOZstrYBsFXyt-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5DSSe1bqPBxV7yP9LuyBi-OG4JhGTcjaCxmwqMhUDP_A&oe=6A13CF0F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/628506463_18080766686592310_933837677195812625_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFx6q9f-TpSU9IapobeMNdE9r8PAgfYvLIkpnpD5eqp0ZbCkeLW3Flz64iP18SD1fI&_nc_ohc=MvzZUxAhCswQ7kNvwFaSE30&_nc_gid=NvUpJRSnOZstrYBsFXyt-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5DSSe1bqPBxV7yP9LuyBi-OG4JhGTcjaCxmwqMhUDP_A&oe=6A13CF0F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6476
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # martincampi.prints
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/martincampi.prints/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

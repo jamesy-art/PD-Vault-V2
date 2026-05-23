@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Rosalia | Surface Pattern Designer in Mumbai
 website_meta_description: 'Surface Pattern Designer in Mumbai, India'
 website_about_raw: >-
@@ -289,11 +291,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Abigail Dmello | Print Designer | Fashion | Home | Stationary
+instagram_biography: "\U0001F3A8 Surface Pattern Designer\nPrints & Patterns for Textile, Indian Ethnic Print, Home Decor, Wallpaper, Stationery & Packaging\nCustom & Licensing"
+instagram_posts_count: 122
+instagram_followers_count: 289
+instagram_follows_count: 737
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/572014836_18077827286328186_7314070248516769757_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE9MmsAhDVgwERGOTmkwxNMz-p8kB1GBRT5H4dCuUgEygik1K_3nwtyV6W0o1DQnpE&_nc_ohc=mqVKq13Iq50Q7kNvwF8q9GP&_nc_gid=DU_Bf369XuzIhNBXv7cGZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xq0vL3CgVTkk282iUvvyxEkg_49irTHSEwSx6NUkJfA&oe=6A13CF8D&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/572014836_18077827286328186_7314070248516769757_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE9MmsAhDVgwERGOTmkwxNMz-p8kB1GBRT5H4dCuUgEygik1K_3nwtyV6W0o1DQnpE&_nc_ohc=mqVKq13Iq50Q7kNvwF8q9GP&_nc_gid=DU_Bf369XuzIhNBXv7cGZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xq0vL3CgVTkk282iUvvyxEkg_49irTHSEwSx6NUkJfA&oe=6A13CF8D&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3108
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rosalia_prints
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rosalia_prints/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

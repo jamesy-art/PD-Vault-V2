@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Collections | cherylbrucecreativ
 website_meta_description: >-
   Surface pattern designer, and illustrator. Fabric, print on demand, available
@@ -286,11 +288,47 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Cheryl Bruce | Surface Designer | Artist
+instagram_biography: |-
+  * Fine artist, illustrator & surface pattern designer 
+  * Available for art licensing and collaborations
+   * Watercolour tutor
+  NSW Australian
+instagram_posts_count: 336
+instagram_followers_count: 697
+instagram_follows_count: 570
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/298303806_3267824543438091_2432319277617698727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFyreZe25DScegiqVq8RvabB1hkq7-wVRrvXRKroOTavKYLKf2mAxpb3zXJECUemYw&_nc_ohc=XVbqeEjp0x4Q7kNvwHKYN5_&_nc_gid=zO9DPxkqx134o3BSzy2vaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5RcOSVXfzMR0tPaeDA_Cd3uY9DBfGVYnCF9TPqVhBuwg&oe=6A140087&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/298303806_3267824543438091_2432319277617698727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFyreZe25DScegiqVq8RvabB1hkq7-wVRrvXRKroOTavKYLKf2mAxpb3zXJECUemYw&_nc_ohc=XVbqeEjp0x4Q7kNvwHKYN5_&_nc_gid=zO9DPxkqx134o3BSzy2vaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5RcOSVXfzMR0tPaeDA_Cd3uY9DBfGVYnCF9TPqVhBuwg&oe=6A140087&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7521
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
+profile_image_local: >-
+  ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # cheryl.bruce.creativ.design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

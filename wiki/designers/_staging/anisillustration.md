@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Anis Illustration
 website_meta_description: 'Designer and illustrator. Pattern design, lettering and illustration.'
 website_about_raw: >-
@@ -126,11 +128,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Anis | Pattern Designer
+instagram_biography: "Designer and illustrator\nBotanical & Pattern Lover \U0001F33A\U0001F33F\U0001F33B"
+instagram_posts_count: 767
+instagram_followers_count: 5789
+instagram_follows_count: 2892
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/443240450_1228591531444647_2508294453885414269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDguYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG_iUQm2d-jS0dzXdeZ6jP3XL149BVcFnChCPimITJVfGbr7EWdpNWppYlbWFyN76A&_nc_ohc=gYjjojuuGeoQ7kNvwF231No&_nc_gid=MTgRsHytIZn2rQ1Vc4zYxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Uw9CRqpIQ2iwha4zhetL3xu59npTx4R382j1JpL7-dg&oe=6A13E48B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/443240450_1228591531444647_2508294453885414269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDguYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG_iUQm2d-jS0dzXdeZ6jP3XL149BVcFnChCPimITJVfGbr7EWdpNWppYlbWFyN76A&_nc_ohc=gYjjojuuGeoQ7kNvwF231No&_nc_gid=MTgRsHytIZn2rQ1Vc4zYxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Uw9CRqpIQ2iwha4zhetL3xu59npTx4R382j1JpL7-dg&oe=6A13E48B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/anisillustration/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6425
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/anisillustration/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/anisillustration/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/anisillustration/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # anisillustration
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/anisillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

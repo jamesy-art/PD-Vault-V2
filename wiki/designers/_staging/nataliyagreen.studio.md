@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Nataliya Green - Illustrator
 website_meta_description: ''
 website_about_raw: >-
@@ -273,11 +275,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Nataliya Green
+instagram_biography: |-
+  The Artworks Startworks artist.
+  Live Event Illustrator
+instagram_posts_count: 57
+instagram_followers_count: 195
+instagram_follows_count: 1446
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/459235975_2008190559637058_7188177175956646173_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGrmgQr8DsEL4jg4299ELuxgJaMmCN3Wla6mfi76CEcFTGVrb3s2MHXszyo2Ujt9VE&_nc_ohc=gAoGg66yfRkQ7kNvwEuxxSs&_nc_gid=gk78FXsH1mHypHFy2d1FlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4NP5U2BQtxbSauSUZjxCAOdYa5Cl8P8xupTsXf3sfUeQ&oe=6A13DBB5&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/459235975_2008190559637058_7188177175956646173_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGrmgQr8DsEL4jg4299ELuxgJaMmCN3Wla6mfi76CEcFTGVrb3s2MHXszyo2Ujt9VE&_nc_ohc=gAoGg66yfRkQ7kNvwEuxxSs&_nc_gid=gk78FXsH1mHypHFy2d1FlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4NP5U2BQtxbSauSUZjxCAOdYa5Cl8P8xupTsXf3sfUeQ&oe=6A13DBB5&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6255
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # nataliyagreen.studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

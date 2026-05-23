@@ -36,6 +36,7 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
 website_title: DROP - BEA DELAROSA
 website_meta_description: ''
 website_about_raw: >-
@@ -210,11 +211,37 @@ manual_about_raw: "Entrepreneur\n\U0001F31FEdiciones limitadas por tiempo limita
 manual_reviewed: true
 manual_quality: bad
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: B E A   D E   L A   R O S A
+instagram_biography: "\U0001F31FEdiciones limitadas por tiempo limitado\U0001F31F\n\U0001F459Diseñamos con calma para hacerlo mejor\U0001F44F\U0001F3FB\n\U0001F48C Únete a la lista\U0001F447\U0001F3FB para nuestro siguiente DROP"
+instagram_posts_count: 456
+instagram_followers_count: 3603
+instagram_follows_count: 1725
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/328236950_1280561452490809_5488382662227913863_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHLM0UfwPnBwfm21GsoNUMeQMJKjaQwqLuO9qkQN5ZsfRxw4q7yey0fTT8iRvAkMqA&_nc_ohc=mj6XciEH2EoQ7kNvwG-ehJA&_nc_gid=iWtA-TaHKkbFOKJypOWUVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bwkymjuuqyLCFfISLvLPnJHkPCrLk-MLCvZ1A405ASA&oe=6A13FAEC&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # beadelarosa_
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

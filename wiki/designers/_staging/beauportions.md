@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'beautiful-portions''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: >-
   Designs by beautiful-portions for sale on Spoonflower custom fabric and
@@ -246,11 +248,41 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: usable
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Beautiful Portions
+instagram_biography: >-
+  A design studio specialising in surface patterns for various applications. We
+  provide licensing options for both individuals and corporate clients.
+instagram_posts_count: 53
+instagram_followers_count: 25
+instagram_follows_count: 242
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/521604508_17853260211496612_1620796430021579251_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFa4o_1ncVbYLTbJV9YT1I0OI_BNz7ajox3a6ffZfPwZ0K6mkajcD3fdiTUPGTDcp8&_nc_ohc=Vmugu9LBnW4Q7kNvwGYOIY6&_nc_gid=MRR7CR1EHzOZ5KlfLJqdOg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7DlFsg_URc9K0SzvgfrtDa3igOTjh2LHmLtXg1bHjoyA&oe=6A13D96A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/521604508_17853260211496612_1620796430021579251_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFa4o_1ncVbYLTbJV9YT1I0OI_BNz7ajox3a6ffZfPwZ0K6mkajcD3fdiTUPGTDcp8&_nc_ohc=Vmugu9LBnW4Q7kNvwGYOIY6&_nc_gid=MRR7CR1EHzOZ5KlfLJqdOg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7DlFsg_URc9K0SzvgfrtDa3igOTjh2LHmLtXg1bHjoyA&oe=6A13D96A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/beauportions/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5094
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/beauportions/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/beauportions/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/beauportions/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # beauportions
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/beauportions/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

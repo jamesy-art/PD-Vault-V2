@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Front Page - danielegaube.com
 website_meta_description: >-
   Discover bespoke patterned table linen inspired by heritage design, created
@@ -287,11 +289,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Daniele Gaube
+instagram_biography: "Pattern designer. Heritage inspired stylish table linens for memorable dining experiences \U0001F99A \nhttps://danielegaube.com/"
+instagram_posts_count: 73
+instagram_followers_count: 213
+instagram_follows_count: 761
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/516414387_17954477369977212_5717499817744996905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gENcW70mJTE0nIxgoT2o9PG6C02_ZCsXRBayOU3VOuzVwOa1r9yeoB8_mDMWaPU5FI&_nc_ohc=0KnU7pswmEwQ7kNvwF4bctP&_nc_gid=zZQFO9yfEzq4FP47KwKQ_Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uPJ-84Y0jewgTYkmOsu1kHLv_UKIVMvKXEfb8iGmDDg&oe=6A1401ED&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/516414387_17954477369977212_5717499817744996905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gENcW70mJTE0nIxgoT2o9PG6C02_ZCsXRBayOU3VOuzVwOa1r9yeoB8_mDMWaPU5FI&_nc_ohc=0KnU7pswmEwQ7kNvwF4bctP&_nc_gid=zZQFO9yfEzq4FP47KwKQ_Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uPJ-84Y0jewgTYkmOsu1kHLv_UKIVMvKXEfb8iGmDDg&oe=6A1401ED&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/danielegaube/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4733
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/danielegaube/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/danielegaube/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/danielegaube/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # danielegaube
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/danielegaube/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

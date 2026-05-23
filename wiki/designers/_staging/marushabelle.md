@@ -47,6 +47,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Children’s Book and Commercial Illustrator
 website_meta_description: Visit the Official Marusha Belle Website! Stay Tuned! Let’s Connect!
 website_about_raw: >-
@@ -290,11 +292,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: MARUSHA BELLE®
+instagram_biography: |-
+  Entrepreneur, Author & Illustrator.
+  Licensing Rep: @pinklightstudio 
+  Kidlit Rep: @jmcgowanbks 
+  Let’s make your story shine!
+instagram_posts_count: 8584
+instagram_followers_count: 20512
+instagram_follows_count: 1488
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/561743255_18529089043034557_7351277715097309118_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjQuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFhaqTzbjNgd0dRzGnG1WNThqgvADRrrB7slES_0VURCYYxrSe69ebPGKlzuY6nvkU&_nc_ohc=5T8LX192ZdEQ7kNvwEPtibm&_nc_gid=aWlU8C9lePe8l7vatQ5PCQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Sdzk2tKBr7G_VAJ_1C60A0Z7gnY8gnQ-W_kbPaX8dzw&oe=6A13D524&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/561743255_18529089043034557_7351277715097309118_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjQuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFhaqTzbjNgd0dRzGnG1WNThqgvADRrrB7slES_0VURCYYxrSe69ebPGKlzuY6nvkU&_nc_ohc=5T8LX192ZdEQ7kNvwEPtibm&_nc_gid=aWlU8C9lePe8l7vatQ5PCQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Sdzk2tKBr7G_VAJ_1C60A0Z7gnY8gnQ-W_kbPaX8dzw&oe=6A13D524&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/marushabelle/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8923
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/marushabelle/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/marushabelle/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/marushabelle/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # marushabelle
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/marushabelle/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

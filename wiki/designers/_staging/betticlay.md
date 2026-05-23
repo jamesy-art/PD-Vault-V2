@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: betticlay
 website_meta_description: >-
   Surface pattern design from the heartland: explore my website portfolio of
@@ -163,11 +165,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Betty Byron Clay
+instagram_biography: >-
+  Surface pattern design from the heartland. Visit my website to see full
+  collections and licensing information.
+instagram_posts_count: 262
+instagram_followers_count: 353
+instagram_follows_count: 700
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/83353566_634347637328120_659549875351846912_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFahvse0ua1XMP2fK5P_wDcMXF4U1-h20MAPDDLR5DwXhkmn54x9CQtq3Wq0aTSIHc&_nc_ohc=H0cUexdqxagQ7kNvwGu9Mo0&_nc_gid=EoFxPmYHAXzfiEbV_Zof3A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af69R0UBHWt4RsHoDhwclUh_1hkJs2wdPwP_tvAZr9ohWA&oe=6A13F86F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/83353566_634347637328120_659549875351846912_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFahvse0ua1XMP2fK5P_wDcMXF4U1-h20MAPDDLR5DwXhkmn54x9CQtq3Wq0aTSIHc&_nc_ohc=H0cUexdqxagQ7kNvwGu9Mo0&_nc_gid=EoFxPmYHAXzfiEbV_Zof3A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af69R0UBHWt4RsHoDhwclUh_1hkJs2wdPwP_tvAZr9ohWA&oe=6A13F86F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/betticlay/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3478
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/betticlay/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/betticlay/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/betticlay/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # betticlay
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/betticlay/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

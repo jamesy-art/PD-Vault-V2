@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Pattern design studio Andrea Leonelli - Andrea Leonelli
 website_meta_description: >-
   Andréa Leonelli is a French pattern designer. Modern signature pattern designs
@@ -288,11 +290,47 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Andrea Leonelli
+instagram_biography: |-
+  French Pattern Designer
+  Art Licensing & Collabs
+  Website https://andrealeonelli.art
+  Contact: hello@andrealeonelli.art
+instagram_posts_count: 545
+instagram_followers_count: 1077
+instagram_follows_count: 591
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fmqy1-1.fna.fbcdn.net/v/t51.2885-19/450210554_1131389347934489_5532428299231987680_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.fmqy1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHcW0FuLeqi-nMA8G6z4QvEV9-y4vzjvV2mh3vOUZFKxPvcHk3y-v_zIX3Dq2GfXu0&_nc_ohc=yjJYzr4PH7sQ7kNvwH8q805&_nc_gid=WL5upzHsVpZEFBPdXx0kjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7iRFXvM-gVLmgNOK8zQRDRvDRNzq_QC-hxp6GqZCmjug&oe=6A13EFBA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fmqy1-1.fna.fbcdn.net/v/t51.2885-19/450210554_1131389347934489_5532428299231987680_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.fmqy1-1.fna.fbcdn.net&_nc_cat=105&_nc_oc=Q6cZ2gHcW0FuLeqi-nMA8G6z4QvEV9-y4vzjvV2mh3vOUZFKxPvcHk3y-v_zIX3Dq2GfXu0&_nc_ohc=yjJYzr4PH7sQ7kNvwH8q805&_nc_gid=WL5upzHsVpZEFBPdXx0kjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7iRFXvM-gVLmgNOK8zQRDRvDRNzq_QC-hxp6GqZCmjug&oe=6A13EFBA&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/andrealeonelli_illustrations/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6013
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/andrealeonelli_illustrations/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/andrealeonelli_illustrations/profile/instagram-profile.jpg
+profile_image_local: >-
+  ../../assets/designers/andrealeonelli_illustrations/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # andrealeonelli_illustrations
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/andrealeonelli_illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

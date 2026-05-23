@@ -18,7 +18,7 @@ bio: ''
 website: 'https://drive.google.com/file/d/1XzI0dsHyVzUrNnFJWSdB8QiTmMI69Eqm/view'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/_marsuarez_
 profile_url: ''
 instagram_images:
@@ -35,7 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Portfolio Mar Suarez 2025.pdf
 website_meta_description: ''
 website_about_raw: >-
@@ -86,7 +91,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: |-
   I am a graphic designer with six years of experience,
   specializing in graphic design, illustration, branding,
@@ -165,29 +170,141 @@ manual_about_raw: |-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Mar suarez
+instagram_biography: "✏️Illustrator & Designer\n\U0001F4CDBarcelona  •  Medellín\n@marcelasuarez06 \n\U0001F996\U0001F525\U0001F308⚡️"
+instagram_posts_count: 51
+instagram_followers_count: 582
+instagram_follows_count: 289
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/241516255_248222063849983_4764233710487829200_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE0lUbZ5p9sGYk1CU5z0PaxQdst3TzO4Wc-zSw1tfFJTVGgth520APZxl8mWGgg6U4&_nc_ohc=V-EDDMDktzUQ7kNvwEpujbP&_nc_gid=a3VTuoIKc6HSbltaXsuMlw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7eQ-zK1APxGjB5e1x68NNKVsBNrM7vQX9u4mCbdllhDA&oe=6A13E871&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/241516255_248222063849983_4764233710487829200_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE0lUbZ5p9sGYk1CU5z0PaxQdst3TzO4Wc-zSw1tfFJTVGgth520APZxl8mWGgg6U4&_nc_ohc=V-EDDMDktzUQ7kNvwEpujbP&_nc_gid=a3VTuoIKc6HSbltaXsuMlw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7eQ-zK1APxGjB5e1x68NNKVsBNrM7vQX9u4mCbdllhDA&oe=6A13E871&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/_marsuarez_/profile/241516255_248222063849983_4764233710487829200_n.jpg
+instagram_profile_image_bytes: 3072
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/_marsuarez_/profile/241516255_248222063849983_4764233710487829200_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/_marsuarez_/profile/241516255_248222063849983_4764233710487829200_n.jpg
+profile_image_local: >-
+  ../../assets/designers/_marsuarez_/profile/241516255_248222063849983_4764233710487829200_n.jpg
+images:
+  profile:
+    - ../../assets/designers/_marsuarez_/profile/instagram-profile.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096320263137_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096345599732_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1636931348_2707098814618071666_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1639179848_2725960598589741737_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637272841204_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637273001812_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1694002173_3185843592621092715_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1707588274_3299812076219796057_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1728261957_3473235498596574935_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1738603800_3559989266964722705_7518924533.jpg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096320263137_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096345599732_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1636931348_2707098814618071666_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1639179848_2725960598589741737_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637272841204_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637273001812_7518924533.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1694002173_3185843592621092715_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1707588274_3299812076219796057_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1728261957_3473235498596574935_7518924533.jpg
+  - >-
+    ../../assets/designers/_marsuarez_/instagram/_marsuarez__1738603800_3559989266964722705_7518924533.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # _marsuarez_
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/_marsuarez_/profile/241516255_248222063849983_4764233710487829200_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096320263137_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096320263137_7518924533.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096345599732_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1636249385_2701378096345599732_7518924533.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1636931348_2707098814618071666_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1636931348_2707098814618071666_7518924533.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1639179848_2725960598589741737_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1639179848_2725960598589741737_7518924533.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637272841204_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637272841204_7518924533.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637273001812_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1657064941_2875991637273001812_7518924533.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1694002173_3185843592621092715_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1694002173_3185843592621092715_7518924533.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1707588274_3299812076219796057_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1707588274_3299812076219796057_7518924533.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1728261957_3473235498596574935_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1728261957_3473235498596574935_7518924533.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/_marsuarez_/instagram/_marsuarez__1738603800_3559989266964722705_7518924533.jpg)<br><!-- image:../../assets/designers/_marsuarez_/instagram/_marsuarez__1738603800_3559989266964722705_7518924533.jpg --> | [ ] | [x] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Mar Suarez (Marcela Suarez Villa) is a graphic designer and illustrator based in Barcelona, originally from Medellín, Colombia. She has six years of professional experience spanning graphic design, illustration, branding, typography, and fashion textile illustration. Her background includes direct work on fabric prints for fashion collections in both Colombia and Spain, alongside broader commercial design roles. Selected Instagram images suggest an illustrative, graphic-style pattern practice.
 
 ## Style and Aesthetic
 
+Limited visual evidence from selected images; career history indicates both localized prints (placed motifs) and continuous fabric repeats for fashion collections. The practice described in work history suggests a confident design sensibility across typography, branding, and illustration, with textile work focused primarily on fashion-market prints.
+
 ## Techniques and Tools
+
+Trained in graphic design at Universidad Pontificia Bolivariana (UPB), Medellín (2013–2019), and holds a Master in Creative Illustration from BAU, University of Art and Design of Barcelona (2022–2023). Completed a Diploma in Illustration from Tragaluz editors (2022). Software proficiencies include Shopify for e-commerce contexts. Works across packaging, label design, catalogue layout, websites, and typographic design in addition to textile illustration.
 
 ## Markets and Clients
 
+Fashion is the primary market for textile illustration work. Clients include Pineapples (AW collection "Do not be so plastic" — continuous and localized fabrics, 2021–2022), Arkitect (freelance localized prints, collection "Botanico," 2020), and C.I Conindex Polito, Medellín (fashion collections, 2018–2022). Broader graphic design output produced through Uooh Design, Barcelona (2022–present).
+
 ## Portfolio and Presence
+
+- Instagram: @_marsuarez_ (also @marcelasuarez06)
+- Portfolio submitted as PDF (Google Drive)
 
 ## Career Path
 
+Graduated in graphic design from UPB Medellín (2013–2019). Worked as Graphic Design Area Coordinator at C.I Conindex Polito, Medellín (2018–2022), researching fashion trends and illustrating fabrics for collections. Relocated to Barcelona; completed a Master in Creative Illustration at BAU (2022–2023). Currently working as graphic designer at Uooh Design (Barcelona, 2022–present), with freelance engagements for clients in San Francisco and London.
+
 ## Pattern Focus
 
+Evidence is primarily from career history: continuous and localized fabric illustration for fashion collections, including botanical-themed print work ("Botanico"). Selected Instagram pattern images suggest an illustrative, graphic-style approach. Repeat construction for apparel fabrics is documented from the Medellín period; further surface pattern development appears ongoing.
+
 ## Connections
+
+- [[Botanical Pattern]]
+- [[Fashion Market]]
+- [[Textile Design]]

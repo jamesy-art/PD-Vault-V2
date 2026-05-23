@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Inicio | Vivian Flórez
 website_meta_description: ''
 website_about_raw: >-
@@ -166,11 +168,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Vivian
+instagram_biography: "Visual designer / Textile illustrator✨\n@_vivianfc\n\U0001F4CDColombia"
+instagram_posts_count: 41
+instagram_followers_count: 268
+instagram_follows_count: 164
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/548892954_18292402840250037_3022439868815144778_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH4QiT4vXuIhV0g6Gbg6Rr4jmY8ToRvnC5TbqiCo99pC6Qdipu-AAJwm1jrkgFfu2Y&_nc_ohc=w22m45_4NeAQ7kNvwEQiuaf&_nc_gid=DI8C_3YbT-jJcNZd5HwPaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4z3ry_6IDGO16H0RTfSIFF5FXkxucPUEnYBGtJKZpohA&oe=6A13ED12&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/548892954_18292402840250037_3022439868815144778_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH4QiT4vXuIhV0g6Gbg6Rr4jmY8ToRvnC5TbqiCo99pC6Qdipu-AAJwm1jrkgFfu2Y&_nc_ohc=w22m45_4NeAQ7kNvwEQiuaf&_nc_gid=DI8C_3YbT-jJcNZd5HwPaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4z3ry_6IDGO16H0RTfSIFF5FXkxucPUEnYBGtJKZpohA&oe=6A13ED12&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2413
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # vvisuals___
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vvisuals___/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

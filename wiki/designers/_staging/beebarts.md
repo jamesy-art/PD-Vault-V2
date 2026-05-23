@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Main page - portfolio
 website_meta_description: ''
 website_about_raw: >-
@@ -183,11 +185,39 @@ manual_about_raw: |-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Beebarts | Illustration
+instagram_biography: "\U0001F337Open to Commissions\U0001F337\n\U0001F33CShop available through the link\U0001F33C\n@beacroft01 @coletivotrabuco\nNext markets:"
+instagram_posts_count: 160
+instagram_followers_count: 685
+instagram_follows_count: 2129
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/520238888_17933332197060932_7401242438388687994_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGD8C77r8wOVbbkcykqCKJYSIgReO4N5YEdZIgo67YIM_kgNEQwnGrLCYVeea-OgLI&_nc_ohc=UWnHzQj37VwQ7kNvwH3BVzJ&_nc_gid=JGQDqM8nNLs3_iK1ACaUcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7RaMMLduUs3unAl-_AhM3n6h0XnV-DHKm1GuW8EB0m2w&oe=6A13DA1E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/520238888_17933332197060932_7401242438388687994_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGD8C77r8wOVbbkcykqCKJYSIgReO4N5YEdZIgo67YIM_kgNEQwnGrLCYVeea-OgLI&_nc_ohc=UWnHzQj37VwQ7kNvwH3BVzJ&_nc_gid=JGQDqM8nNLs3_iK1ACaUcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7RaMMLduUs3unAl-_AhM3n6h0XnV-DHKm1GuW8EB0m2w&oe=6A13DA1E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/beebarts/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4770
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/beebarts/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/beebarts/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/beebarts/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # beebarts
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/beebarts/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

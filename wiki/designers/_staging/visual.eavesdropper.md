@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Adobe Portfolio
 website_meta_description: >-
   Quickly and simply build a personalized website to showcase your creative work
@@ -60,11 +62,39 @@ manual_about_raw: "I’m an artist, illustrator and surface designer from Gujara
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Aneri Jariwala
+instagram_biography: "\U0001F469‍\U0001F3A8SCAD’27 \nArtist | Illustrator | Surface Designer \nDM for commissions:)"
+instagram_posts_count: 108
+instagram_followers_count: 413
+instagram_follows_count: 953
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.82787-19/625954322_18051040940700858_7766205025316403487_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gHDSAFva6Qgol71MrXUtIxNuhWNDuNvT1-hNY9wyZTFGnUBGbBSLU_g3eR_A4PM5NA&_nc_ohc=VyRMbufoN_YQ7kNvwE2Yavg&_nc_gid=WTxepBciI_y1MSDv-hspxA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5WByMA4eDCfBhtZBM9utvivWCh0084HopEzpt1rByTdg&oe=6A13DA29&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.82787-19/625954322_18051040940700858_7766205025316403487_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gHDSAFva6Qgol71MrXUtIxNuhWNDuNvT1-hNY9wyZTFGnUBGbBSLU_g3eR_A4PM5NA&_nc_ohc=VyRMbufoN_YQ7kNvwE2Yavg&_nc_gid=WTxepBciI_y1MSDv-hspxA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5WByMA4eDCfBhtZBM9utvivWCh0084HopEzpt1rByTdg&oe=6A13DA29&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/visual.eavesdropper/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8988
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/visual.eavesdropper/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/visual.eavesdropper/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/visual.eavesdropper/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # visual.eavesdropper
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/visual.eavesdropper/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Wireframe P091 copy
 website_meta_description: cargo.site
 website_about_raw: >-
@@ -218,11 +220,40 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Pauli Salmi
+instagram_biography: Illustrator and graphic designer
+instagram_posts_count: 217
+instagram_followers_count: 726
+instagram_follows_count: 1527
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/662341312_18092325737141291_8881151165729827573_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGK63UzUFOD-yZ7dTysNkZlJs0POsmI77Z9K2U0U6CAnU1SC6lRC3zdP3lyuTyWo7M&_nc_ohc=5FMcLR3LAi0Q7kNvwF23jdh&_nc_gid=_UBjYvJWu_2t56Iv1SiTOw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bLZkiJN4TAmPHsG79giJZijDpQyDGQyZwOoslAXiLcA&oe=6A13DBAD&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/662341312_18092325737141291_8881151165729827573_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGK63UzUFOD-yZ7dTysNkZlJs0POsmI77Z9K2U0U6CAnU1SC6lRC3zdP3lyuTyWo7M&_nc_ohc=5FMcLR3LAi0Q7kNvwF23jdh&_nc_gid=_UBjYvJWu_2t56Iv1SiTOw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bLZkiJN4TAmPHsG79giJZijDpQyDGQyZwOoslAXiLcA&oe=6A13DBAD&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 9033
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # pauli_salmi_illustrations
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -1,0 +1,188 @@
+{
+  "input_total": 2302,
+  "attempted": 20,
+  "downloaded": [
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DWWZ0_dCBLP/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/002-score-100-3861387323225150159.jpg",
+      "bytes": 124051
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DUIjCzviF4r/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/003-score-100-3821458408449007147.jpg",
+      "bytes": 188528
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DQMTomaiA4u/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "product_mockup",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/001-score-100-3750458942602874414.jpg",
+      "bytes": 267839
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DWyOfbPCK9_/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/004-score-100-3869218762062868351.jpg",
+      "bytes": 241976
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DQ31u_YCJZN/",
+      "score": 96,
+      "quality_band": "excellent_candidate",
+      "classification": "product_mockup",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/006-score-96-3762712339301307981.jpg",
+      "bytes": 470957
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DUnkUBZCCya/",
+      "score": 96,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/005-score-96-3830189713659538586.jpg",
+      "bytes": 256549
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DXEBbr6iGL_/",
+      "score": 90,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/008-score-90-3874227880070767359.jpg",
+      "bytes": 180491
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DSjr705iPz6/",
+      "score": 93,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/007-score-93-3793068538425048314.jpg",
+      "bytes": 353957
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DOs1zeZCDr5/",
+      "score": 86,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/009-score-86-3723587625719184121.jpg",
+      "bytes": 128662
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DPa-yShiF-g/",
+      "score": 78,
+      "quality_band": "good_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/012-score-78-3736574975604711328.jpg",
+      "bytes": 215843
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DYK2WF6iIiK/",
+      "score": 86,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/010-score-86-3894163840506038410.jpg",
+      "bytes": 225014
+    },
+    {
+      "username": "michal.gorelick.design",
+      "post_url": "https://www.instagram.com/p/DSAHadlCFza/",
+      "score": 85,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/michal.gorelick.design/instagram/candidates/011-score-85-3783056291783007450.jpg",
+      "bytes": 138405
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DQKF3yQju9o/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/014-score-100-3749835463508029288.jpg",
+      "bytes": 114102
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DQXNhMVDVys/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/013-score-100-3753528270022073516.jpg",
+      "bytes": 308362
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DQEg7cMAhVp/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "product_mockup",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/015-score-100-3748265612082812265.jpg",
+      "bytes": 309573
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DRxFpo2iKwQ/",
+      "score": 97,
+      "quality_band": "excellent_candidate",
+      "classification": "product_mockup",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/018-score-97-3778826413936258064.jpg",
+      "bytes": 233377
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DPy7prEkdUA/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/016-score-100-3743316588788569344.jpg",
+      "bytes": 215594
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DPZfULGD32A/",
+      "score": 95,
+      "quality_band": "excellent_candidate",
+      "classification": "product_mockup",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/020-score-95-3736155091624754560.jpg",
+      "bytes": 193994
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DPeYBk2EdNb/",
+      "score": 95,
+      "quality_band": "excellent_candidate",
+      "classification": "product_mockup",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/019-score-95-3737530402161677147.jpg",
+      "bytes": 195478
+    },
+    {
+      "username": "andrealeonelli_illustrations",
+      "post_url": "https://www.instagram.com/p/DPRjL4jkYjP/",
+      "score": 100,
+      "quality_band": "excellent_candidate",
+      "classification": "pattern",
+      "file": "wiki/assets/designers/andrealeonelli_illustrations/instagram/candidates/017-score-100-3733920314335267023.jpg",
+      "bytes": 304098
+    }
+  ],
+  "skipped": [],
+  "failed": []
+}

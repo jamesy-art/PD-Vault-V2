@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Patme - Estampados exclusivos y personalizados, y accesorios'
 website_meta_description: >-
   Hago estampados personalizados, productos y rapports diseñados con el corazón
@@ -72,11 +74,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Diseño de estampados | Accesorios Edición limitada
+instagram_biography: "| Amor es el motivo |\n✍\U0001F3FB10+ años diseñando ESTAMPADOS\n\U0001F4A1Creo desde 0 cada diseño \n\U0001F48EPara marcas que valoran la distinción\n\U0001F9E1Hecho a mano | Valencia |\U0001F447\U0001F3FC"
+instagram_posts_count: 541
+instagram_followers_count: 2425
+instagram_follows_count: 3046
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fmem1-2.fna.fbcdn.net/v/t51.82787-19/571957730_18048857639664251_6078337826281307175_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHpLL3RXyDrw4SXS8yeOcZWcFoGXXFWv_bAEuTqBqPsRGvkEZySg6JGVqZkVNTDEyw&_nc_ohc=KsumcOi_4LsQ7kNvwF6cUn7&_nc_gid=_uPc_SSBvYoww3dc8RFe3Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wj9wNLJK9gWpx3bLyZaeQrcpinEePn4Zek0-vHOzxbw&oe=6A13FAC2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fmem1-2.fna.fbcdn.net/v/t51.82787-19/571957730_18048857639664251_6078337826281307175_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHpLL3RXyDrw4SXS8yeOcZWcFoGXXFWv_bAEuTqBqPsRGvkEZySg6JGVqZkVNTDEyw&_nc_ohc=KsumcOi_4LsQ7kNvwF6cUn7&_nc_gid=_uPc_SSBvYoww3dc8RFe3Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wj9wNLJK9gWpx3bLyZaeQrcpinEePn4Zek0-vHOzxbw&oe=6A13FAC2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/studio_patme/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6177
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/studio_patme/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/studio_patme/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/studio_patme/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # studio_patme
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/studio_patme/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Nathifa Simon Portfolio | Surface Pattern Design
 website_meta_description: >-
   Nathifa Simon's Portfolio for Surface Pattern Design. Vibrant patterns perfect
@@ -231,11 +233,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Nathifa Simon
+instagram_biography: "Mixed Media Artist.\U0001F1F9\U0001F1F9 Illustrator & Surface Pattern Designer.\U0001F58C️ Love dabbling in all mediums.\U0001F3A8 Creator of ©#InFullFlowLine #checiegirl_creations."
+instagram_posts_count: 2525
+instagram_followers_count: 1160
+instagram_follows_count: 3211
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/52909900_417440505493823_4464268103580123136_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEhodx1npdUQ7d2OyCo-UkR3KIW5ONW4bIvOnyHd0lN1-Zw0-pSyTuiJDmbHCMVya8&_nc_ohc=cfEY0K1mWcMQ7kNvwGV_xsQ&_nc_gid=JUl-qIs6rCFBYdxzNp-vdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gKkB6Ie6tPxfDpe_gcKvIUeVDEOi_BxXyBqWcf7fI3g&oe=6A13FAD7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/52909900_417440505493823_4464268103580123136_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEhodx1npdUQ7d2OyCo-UkR3KIW5ONW4bIvOnyHd0lN1-Zw0-pSyTuiJDmbHCMVya8&_nc_ohc=cfEY0K1mWcMQ7kNvwGV_xsQ&_nc_gid=JUl-qIs6rCFBYdxzNp-vdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gKkB6Ie6tPxfDpe_gcKvIUeVDEOi_BxXyBqWcf7fI3g&oe=6A13FAD7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4198
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # checiegirl_creations
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

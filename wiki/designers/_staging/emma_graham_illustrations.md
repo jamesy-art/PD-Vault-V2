@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: ''
 website_meta_description: ''
 website_about_raw: >-
@@ -87,11 +89,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Emma Graham
+instagram_biography: >-
+  #childrensbookillustrator #illustrator #childrensbooks #picturebookillustrator
+  #childrensbookauthor #beachcomber #mudlarker #treehugger #wildswimmer
+instagram_posts_count: 991
+instagram_followers_count: 959
+instagram_follows_count: 1767
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/480857884_982824440024850_79270360248340484_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEjcI4Z0HOTctLkES1fgj3sBFWEXDUUd_pSCFoHqQOATZDEjSJIxqhxvYblULrySKM&_nc_ohc=cDdiQ1-uYUIQ7kNvwEa4hDk&_nc_gid=bluPttLKupP-e6y4CdCIng&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZKM7CgAlVUNjQlMD7SaK5uk_IMXSnOUY6iVfUd9ouUQ&oe=6A13FA06&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/480857884_982824440024850_79270360248340484_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTEuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEjcI4Z0HOTctLkES1fgj3sBFWEXDUUd_pSCFoHqQOATZDEjSJIxqhxvYblULrySKM&_nc_ohc=cDdiQ1-uYUIQ7kNvwEa4hDk&_nc_gid=bluPttLKupP-e6y4CdCIng&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZKM7CgAlVUNjQlMD7SaK5uk_IMXSnOUY6iVfUd9ouUQ&oe=6A13FA06&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/emma_graham_illustrations/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8768
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/emma_graham_illustrations/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/emma_graham_illustrations/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/emma_graham_illustrations/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # emma_graham_illustrations
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emma_graham_illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

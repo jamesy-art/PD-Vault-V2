@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Tracy Schifeling Art
 website_meta_description: 'Original print and pattern designer in Denver, CO'
 website_about_raw: >-
@@ -274,11 +276,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: 'Tracy Schifeling Art | Colors, patterns, & flowers'
+instagram_biography: |-
+  Print and pattern artist designing colorful stationery and home goods
+  〰️ Shop link below 〰️
+instagram_posts_count: 845
+instagram_followers_count: 801
+instagram_follows_count: 780
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/470914910_1265954137808118_3982363162559042088_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTYuYzIifQ&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEmnRe7Yb3xJdoD-5VtpwF5YspOmJwFQ95esPWecIBH9tDSm52grXugKTbAnFFM62c&_nc_ohc=B9s-IsCYmWwQ7kNvwEPCfoS&_nc_gid=n4iEnqrX_47QALTZ_l4G3A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af66iPzegFPKkrEvwtAYgyYWRzBUWdXBorYu7FxEnCo6ZA&oe=6A1400DD&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/470914910_1265954137808118_3982363162559042088_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTYuYzIifQ&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gEmnRe7Yb3xJdoD-5VtpwF5YspOmJwFQ95esPWecIBH9tDSm52grXugKTbAnFFM62c&_nc_ohc=B9s-IsCYmWwQ7kNvwEPCfoS&_nc_gid=n4iEnqrX_47QALTZ_l4G3A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af66iPzegFPKkrEvwtAYgyYWRzBUWdXBorYu7FxEnCo6ZA&oe=6A1400DD&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/tracyschifeling/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6874
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/tracyschifeling/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/tracyschifeling/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/tracyschifeling/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # tracyschifeling
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tracyschifeling/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

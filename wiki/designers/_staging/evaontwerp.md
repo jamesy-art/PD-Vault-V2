@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: EvaOntwerp – ILLUSTRATIE & ANIMATIE
 website_meta_description: ILLUSTRATIE & ANIMATIE
 website_about_raw: >-
@@ -202,11 +204,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Eva Jansen
+instagram_biography: Illustration & Animation
+instagram_posts_count: 534
+instagram_followers_count: 719
+instagram_follows_count: 925
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/308899216_871423590495222_5451440911960196290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEWdMroE_UNveLCCxbuHhgL9WMiwY4qyxGEz0EbOfwD1YKsl3Zncg_-wa0Wowga884&_nc_ohc=tIVPGStZLmEQ7kNvwE9iAw_&_nc_gid=-2fYMHo7SUOiYp4BwsM7CQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5oRlMt6lHK0HxW_T-xBaXM6AkqsXWCmG-ZIKsp2c7hxg&oe=6A13DC5D&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/308899216_871423590495222_5451440911960196290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEWdMroE_UNveLCCxbuHhgL9WMiwY4qyxGEz0EbOfwD1YKsl3Zncg_-wa0Wowga884&_nc_ohc=tIVPGStZLmEQ7kNvwE9iAw_&_nc_gid=-2fYMHo7SUOiYp4BwsM7CQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5oRlMt6lHK0HxW_T-xBaXM6AkqsXWCmG-ZIKsp2c7hxg&oe=6A13DC5D&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/evaontwerp/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4109
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/evaontwerp/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/evaontwerp/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/evaontwerp/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # evaontwerp
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/evaontwerp/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -11,10 +11,10 @@
             "id": "8e228a70ba35e10b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"level: level_3\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +70,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 309.50390243530273
   },
   "right": {
     "id": "29cbb5d4098ef23b",
@@ -90,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/designers/_staging/aamorimmaria-can-we-use-images-from-you-site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +101,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for aamorimmaria-can-we-use-images-from-you-site"
             }
           },
           {
@@ -108,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/designers/_staging/aamorimmaria-can-we-use-images-from-you-site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from aamorimmaria-can-we-use-images-from-you-site"
             }
           },
           {
@@ -150,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PD-Vault-V2/log.md",
+                "file": "wiki/designers/_staging/aamorimmaria-can-we-use-images-from-you-site.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of log"
+              "title": "Outline of aamorimmaria-can-we-use-images-from-you-site"
             }
           }
         ]
@@ -174,28 +177,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "css-editor:Open CSS editor quick switcher": false
     }
   },
-  "active": "1de2e9fa9afe5c68",
+  "active": "6d19b1f65923971b",
   "lastOpenFiles": [
-    "wiki/assets",
-    "wiki/untitled folder",
-    "PD-Vault-V2/CLAUDE.md",
-    "PD-Vault-V2/index.md",
-    "CLAUDE.md",
-    "index.md",
-    "log.md",
-    "Welcome.md",
-    "wiki/types/_staging",
-    "wiki/types/_published",
-    "wiki/jobs/_published",
-    "wiki/jobs/_staging",
-    "wiki/companies/_staging",
-    "wiki/companies/_published",
-    "wiki/designers/_staging",
-    "wiki/designers/_published",
-    "wiki/types",
-    "PD-Vault-V2/log.md"
+    "wiki/designers/_staging/amesnewtondesigns.md",
+    "wiki/designers/_staging/amelia_graham_print.md",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1764790638_3779660282332037546_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1764790638_3779660282332006517_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1763069138_3765219293232185888_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1763069138_3765219293181901871_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1763069138_3765219293165071391_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1756315915_3708569150488725716_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1749152368_3648476960086072706_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1729510265_3483707059109015354_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1713468170_3349136214022068159_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1693150325_3178697778254901583_1189839990.jpg",
+    "wiki/assets/designers/amelia_graham_print/profile/Unconfirmed 2106.crdownload",
+    "wiki/designers/_staging/ambersolbergmakery.md",
+    "wiki/designers/_staging/05_anukriti.md",
+    "wiki/designers/_staging/_vivdesign.md",
+    "wiki/designers/_staging/_marsuarez_.md",
+    "wiki/designers/_staging/_pippa.and.i_.md",
+    "wiki/designers/_staging/_marcelopez_.md",
+    "wiki/designers/_staging/_lulukins_.md",
+    "wiki/designers/_staging/alliconnerillustration.md",
+    "wiki/designers/_staging/allisonblackillustration.md",
+    "wiki/designers/_staging/amandagracedesign.md",
+    "wiki/assets/designers/amandagracedesign/profile/Unconfirmed 152816.crdownload",
+    "wiki/designers/_staging/amanda_dilworth.md",
+    "wiki/assets/designers/amanda_dilworth/profile/Unconfirmed 775571.crdownload",
+    "wiki/designers/_staging/althea___studio.md",
+    "wiki/assets/designers/althea___studio/profile/Unconfirmed 349622.crdownload",
+    "wiki/assets/designers/allisonblackillustration/profile/Unconfirmed 186350.crdownload",
+    "wiki/assets/designers/alliconnerillustration/profile/Unconfirmed 326576.crdownload",
+    "wiki/designers/_staging/alisonmporter.md",
+    "wiki/designers/_staging/alishadestudio.md",
+    "wiki/designers/_staging/aliciahayesart.md",
+    "wiki/assets/designers/aliciahayesart/profile/Unconfirmed 697318.crdownload",
+    "wiki/designers/_staging/alicepurlstudio.md",
+    "wiki/assets/designers/alicepurlstudio/profile/Unconfirmed 14582.crdownload",
+    "wiki/designers/_staging/aliceemilytextiles.md",
+    "wiki/assets/designers/aliceemilytextiles/profile/Unconfirmed 431968.crdownload",
+    "wiki/designers/_staging/ali.wynne.pattern.md",
+    "wiki/assets/designers/ali.wynne.pattern/profile/Unconfirmed 219669.crdownload",
+    "wiki/designers/_staging/alexfoxley.md",
+    "wiki/designers/_staging/alexandrakfarmer.md",
+    "wiki/designers/_staging/alexandragalibert.md",
+    "wiki/designers/_staging/alexandrabordallo.md",
+    "wiki/designers/_staging/abey_print_studio.md",
+    "wiki/designers/_staging/a.d.r.i.valenzuela.md"
   ]
 }

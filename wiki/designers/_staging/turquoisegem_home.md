@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Kent Eco Homeware & Sustainable Gifts | Turquoise Gem Home by Gem Blas
 website_meta_description: >-
   Sustainable, handprinted homeware and gifts inspired by the Kent coastline.
@@ -99,11 +101,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Gem Blastock
+instagram_biography: "My work is about designing accessible pathways through creativity, because I had to build my own, Dyslexic. Eco Hand-printed wares in Broadstairs.\U0001F30E♻️\U0001F3A8"
+instagram_posts_count: 1208
+instagram_followers_count: 3324
+instagram_follows_count: 7479
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/550433971_18539560699036728_6631170246200889778_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTEuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gELHoFE7FzlIhpYKc-tO-b_CH7SwqCOv0_hDyHT-u1iGNkXil6F2hYo48R3ngR_J4E&_nc_ohc=6PBdG5fdJlIQ7kNvwGL_4Yk&_nc_gid=yb0kkS6VmoW7N1vu8EdryQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Rx9hIWuZx8epO43Wl83ayCPZHM_ka9LpWJqdZKTF1sw&oe=6A13D6D4&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/550433971_18539560699036728_6631170246200889778_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTEuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gELHoFE7FzlIhpYKc-tO-b_CH7SwqCOv0_hDyHT-u1iGNkXil6F2hYo48R3ngR_J4E&_nc_ohc=6PBdG5fdJlIQ7kNvwGL_4Yk&_nc_gid=yb0kkS6VmoW7N1vu8EdryQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Rx9hIWuZx8epO43Wl83ayCPZHM_ka9LpWJqdZKTF1sw&oe=6A13D6D4&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/turquoisegem_home/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7802
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/turquoisegem_home/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/turquoisegem_home/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/turquoisegem_home/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # turquoisegem_home
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/turquoisegem_home/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Eleni Piperidou • Node Studio
 website_meta_description: >-
   Eleni Piperidou Eleni Piperidou completed her graphic design studies in 2002
@@ -284,11 +286,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Eleni Piperidou | Textile Print Designer
+instagram_biography: "Prints handmade with love and passion    \U0001F49F\n\U0001F4E9  Enquiries via email or DM\n*Thessaloniki* \U0001F1EC\U0001F1F7 with a pinch of \U0001F1FF\U0001F1E6"
+instagram_posts_count: 127
+instagram_followers_count: 832
+instagram_follows_count: 53
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/258887585_383049213600994_2295446029863027969_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEpKEK6eLCMiBu5UteUV7av-N3LGzdNw9MQJeRB-ajUD4rSAa0tJDdw_UDr4l4LJFE&_nc_ohc=d44gb3QEiqcQ7kNvwEAq5UH&_nc_gid=94jtfS__FZA1I9hE6c6gxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4FOfpkhRGFyo0Iuh2PZTXlclTh00nkM059mhRKVg6eAg&oe=6A13F73C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/258887585_383049213600994_2295446029863027969_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEpKEK6eLCMiBu5UteUV7av-N3LGzdNw9MQJeRB-ajUD4rSAa0tJDdw_UDr4l4LJFE&_nc_ohc=d44gb3QEiqcQ7kNvwEAq5UH&_nc_gid=94jtfS__FZA1I9hE6c6gxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4FOfpkhRGFyo0Iuh2PZTXlclTh00nkM059mhRKVg6eAg&oe=6A13F73C&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2476
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ellenaprints
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ellenaprints/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

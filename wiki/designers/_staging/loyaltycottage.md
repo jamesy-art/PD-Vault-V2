@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Loyalty Cottage
 website_meta_description: >-
   Explore our hand printed textiles and unique home accessories crafted in our
@@ -293,11 +295,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Loyalty Cottage Studio
+instagram_biography: >-
+  A design studio and print workshop producing a range of hand-printed
+  products.                       Contact me through my website
+instagram_posts_count: 54
+instagram_followers_count: 325
+instagram_follows_count: 909
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/626271990_18161393941410702_3520299325434425151_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGuyyrQoBK1n8Vta-rN3TfaJuven5s4UpXbG1YDK2k2QLVzIAz6ZetLQrSbSl90UKg&_nc_ohc=sUhKTkDc8kgQ7kNvwHf7cnD&_nc_gid=EU9DTESNS6JTciX7lBylIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7v6j12GL2NIBeXfRL5VXRFNHZxy5_71NIOb1l6CpLT5w&oe=6A13EB99&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/626271990_18161393941410702_3520299325434425151_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGuyyrQoBK1n8Vta-rN3TfaJuven5s4UpXbG1YDK2k2QLVzIAz6ZetLQrSbSl90UKg&_nc_ohc=sUhKTkDc8kgQ7kNvwHf7cnD&_nc_gid=EU9DTESNS6JTciX7lBylIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7v6j12GL2NIBeXfRL5VXRFNHZxy5_71NIOb1l6CpLT5w&oe=6A13EB99&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6347
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # loyaltycottage
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/loyaltycottage/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

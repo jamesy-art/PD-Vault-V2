@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: MK X LABRUM COLLAB - Masha Karpushina
 website_meta_description: >-
   Artwork by UK based Illustrator Masha Karpushina. Featuring illustration, Art
@@ -127,11 +129,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Masha Karpushina
+instagram_biography: Illustrator & Artist
+instagram_posts_count: 33
+instagram_followers_count: 950
+instagram_follows_count: 151
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/16123265_1894045560825416_2956668685000900608_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzMuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFiopnK-ncDIz7hoUoDKU4fDX_a8yhWKbbERtgtoT1B8yOfDJnuIXAvYf65Cf2oM4k&_nc_ohc=xe30Y8yYX-EQ7kNvwFbANbC&_nc_gid=lPi9GbgfN8VbQP2JR8Vamg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7trPSM1D-WywKfLBI8rVAnIopFFS7hEH-O70MBFBv6kw&oe=6A1403DA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/16123265_1894045560825416_2956668685000900608_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzMuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFiopnK-ncDIz7hoUoDKU4fDX_a8yhWKbbERtgtoT1B8yOfDJnuIXAvYf65Cf2oM4k&_nc_ohc=xe30Y8yYX-EQ7kNvwFbANbC&_nc_gid=lPi9GbgfN8VbQP2JR8Vamg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7trPSM1D-WywKfLBI8rVAnIopFFS7hEH-O70MBFBv6kw&oe=6A1403DA&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/mashakarpushina/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3764
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/mashakarpushina/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/mashakarpushina/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/mashakarpushina/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # mashakarpushina
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mashakarpushina/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Designs by KLM
 website_meta_description: The official website and shop of Designs by KLM.
 website_about_raw: >-
@@ -167,11 +169,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: bad
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Designs by KLM
+instagram_biography: "\U0001F33CKatie | Artist | Surface Designer\n\U0001F3A8On a mission to spread joy through art!\n\U0001F6CD️Shop on RedBubble & my Website\n\U0001F517Links in LinkTree"
+instagram_posts_count: 187
+instagram_followers_count: 264
+instagram_follows_count: 409
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/580032324_17863318809510423_958054123177818915_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEHcnpDFXIVdJTCr6er54sX7W2bHNU93ZTpZelTODZABIb-L2Kwg0kfv6byofb7bCM&_nc_ohc=HurHFx869JEQ7kNvwF4gVGF&_nc_gid=aX4eXsUGRdF8CVGM6KjxVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af61295Nq9rB8bdOiyLQLh7f6Mqo5YVNQUb-w6PApZVzLQ&oe=6A13CF5B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/580032324_17863318809510423_958054123177818915_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEHcnpDFXIVdJTCr6er54sX7W2bHNU93ZTpZelTODZABIb-L2Kwg0kfv6byofb7bCM&_nc_ohc=HurHFx869JEQ7kNvwF4gVGF&_nc_gid=aX4eXsUGRdF8CVGM6KjxVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af61295Nq9rB8bdOiyLQLh7f6Mqo5YVNQUb-w6PApZVzLQ&oe=6A13CF5B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/designsby_klm/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7444
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/designsby_klm/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/designsby_klm/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/designsby_klm/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # designsby_klm
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/designsby_klm/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

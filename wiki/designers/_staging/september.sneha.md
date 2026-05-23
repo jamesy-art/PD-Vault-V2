@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Sneha Kakad - Patterns
 website_meta_description: >-
   Graphic designer, Illustrator, Typographer, Product designer, Pattern
@@ -230,11 +232,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sneha | Illustrator & Graphic Designer
+instagram_biography: |-
+  Designer. Illustrator. Ex-motivational merch brand owner.
+  Now creating art as a way back to myself —
+  Telling stories of failures, healing & quiet wins
+instagram_posts_count: 166
+instagram_followers_count: 610
+instagram_follows_count: 775
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/474379181_1640194510712878_4611513513526589502_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHtTUZ1cdFgzM3r-nTqFAWaAa8q9wE4YXZuhw3TCBaBFA_gKQZMynDuseba56qJf8k&_nc_ohc=2QAbzkwkzioQ7kNvwFvDNGB&_nc_gid=tcG_lgu_iB_oewmc-6abyg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56HNLJ35lfLKAXmI0aHWCMR8b5Bsgmq6tJj9E99Zckog&oe=6A13D3D5&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/474379181_1640194510712878_4611513513526589502_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHtTUZ1cdFgzM3r-nTqFAWaAa8q9wE4YXZuhw3TCBaBFA_gKQZMynDuseba56qJf8k&_nc_ohc=2QAbzkwkzioQ7kNvwFvDNGB&_nc_gid=tcG_lgu_iB_oewmc-6abyg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56HNLJ35lfLKAXmI0aHWCMR8b5Bsgmq6tJj9E99Zckog&oe=6A13D3D5&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/september.sneha/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8495
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/september.sneha/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/september.sneha/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/september.sneha/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # september.sneha
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/september.sneha/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

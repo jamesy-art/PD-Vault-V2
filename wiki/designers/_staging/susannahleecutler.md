@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Susannah Lee Cutler
 website_meta_description: ''
 website_about_raw: >-
@@ -643,11 +645,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: ''
+instagram_biography: "\U0001F9FA\U0001F98C\U0001F9F9"
+instagram_posts_count: 15
+instagram_followers_count: 140
+instagram_follows_count: 198
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/241802656_242297637858198_845250691299382051_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTUuYzIifQ&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFO5eKvV5PhSmjQTP6tNLyXSIHGATOuiAJ0TspsWhmnnob7qXkMsyZipfwyPW1IAkw&_nc_ohc=lqqyIcMtH_0Q7kNvwG0-g96&_nc_gid=IaqatZq_R49bXZ2oYQfhqA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gO1tDkbFISfZth9xT_e85Vy4K7-gTEorIkh1OepN8lA&oe=6A13E4B9&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/241802656_242297637858198_845250691299382051_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTUuYzIifQ&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFO5eKvV5PhSmjQTP6tNLyXSIHGATOuiAJ0TspsWhmnnob7qXkMsyZipfwyPW1IAkw&_nc_ohc=lqqyIcMtH_0Q7kNvwG0-g96&_nc_gid=IaqatZq_R49bXZ2oYQfhqA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gO1tDkbFISfZth9xT_e85Vy4K7-gTEorIkh1OepN8lA&oe=6A13E4B9&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2622
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # susannahleecutler
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/susannahleecutler/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

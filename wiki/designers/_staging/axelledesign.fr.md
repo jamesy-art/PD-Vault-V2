@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Freelance textile designer | Patterns & collections – Axelle Valentin
 website_meta_description: >-
   Freelance textile designer, creating repeat patterns and collections for
@@ -163,11 +165,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Axelle Design
+instagram_biography: |-
+  Exclusive handmade prints for fashion & home
+  #prints #allover #patterns #fashion #nature #home #diy #motifs #mode #déco
+instagram_posts_count: 424
+instagram_followers_count: 3461
+instagram_follows_count: 729
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/462346094_1229417501525441_8619010613274621842_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1MQuhW5jHkewkNwvBEWI57y_-6B9eC1jQMnhWlMczMJY2-PUtr1InHsAfVRgW_5s&_nc_ohc=OhG6ksZJ_wsQ7kNvwEAomO-&_nc_gid=BPxsUMzcgR58zep4Fl9mEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4fGUczXM1LUPEI8cJfqWS2mniPN1ClKIMv4OVe_Q-8Cw&oe=6A13D989&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/462346094_1229417501525441_8619010613274621842_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1MQuhW5jHkewkNwvBEWI57y_-6B9eC1jQMnhWlMczMJY2-PUtr1InHsAfVRgW_5s&_nc_ohc=OhG6ksZJ_wsQ7kNvwEAomO-&_nc_gid=BPxsUMzcgR58zep4Fl9mEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4fGUczXM1LUPEI8cJfqWS2mniPN1ClKIMv4OVe_Q-8Cw&oe=6A13D989&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/axelledesign.fr/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3643
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/axelledesign.fr/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/axelledesign.fr/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/axelledesign.fr/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # axelledesign.fr
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/axelledesign.fr/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Astra de la Crème
 website_meta_description: >-
   Welcome to my world of bold and timeless surface and pattern designs! As a
@@ -267,11 +269,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Astra de la Crème
+instagram_biography: "⭐hello@astradelacreme.com⭐\n\U0001F1E7\U0001F1F7 From Rio to the world \U0001F30E\n@wonderful__ed mom \U0001F9A5"
+instagram_posts_count: 328
+instagram_followers_count: 2058
+instagram_follows_count: 1876
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/377997582_841215920959931_1813290163593627361_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFCWLNrGvcdvkw26NTmEuN4Mg0uhtbcxHNEYHIfdzw3DB3JsqbXmnbgq44SIxOg8f8&_nc_ohc=vhTPkHMmPtkQ7kNvwHwWX2z&_nc_gid=khkiKCrx8oMGfknejE71rg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4dM04E6hZ4JrjLBQXWTIzxooo6ipeflRwgMnyOh9BR0A&oe=6A13F3F3&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/377997582_841215920959931_1813290163593627361_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFCWLNrGvcdvkw26NTmEuN4Mg0uhtbcxHNEYHIfdzw3DB3JsqbXmnbgq44SIxOg8f8&_nc_ohc=vhTPkHMmPtkQ7kNvwHwWX2z&_nc_gid=khkiKCrx8oMGfknejE71rg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4dM04E6hZ4JrjLBQXWTIzxooo6ipeflRwgMnyOh9BR0A&oe=6A13F3F3&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7864
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # iamtheastra
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/iamtheastra/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

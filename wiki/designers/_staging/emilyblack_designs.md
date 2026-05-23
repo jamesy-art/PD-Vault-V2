@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Emily Black Designs | hand drawn botanical wall art
 website_meta_description: >-
   Explore hand-drawn botanical wall art prints by Emily Black, inspired by
@@ -231,11 +233,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Emily Black
+instagram_biography: |-
+  •Hand-drawn botanical art prints
+  •Inspired by contrast & the beauty of nature
+  •Shipping to USA, Canada & UK
+  •Visit store↓
+instagram_posts_count: 16
+instagram_followers_count: 28
+instagram_follows_count: 93
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fmem1-1.fna.fbcdn.net/v/t51.82787-19/703398017_17876320440665508_7628554030643156733_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTcuYzIifQ&_nc_ht=instagram.fmem1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gH09URgZpdXg4_8COFT3faSLR9ozEitRRSscjZA-NU-imvKXuHr_Jmm5U-pgeV9A5o&_nc_ohc=ubBmZ9zqwS8Q7kNvwEqDZBP&_nc_gid=Y2R2VbZZmh5zxJbHLlPKag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Bq5qHu3giL7ljJXJMBjBud4kgKhZeR3A92Zj1PKtMuw&oe=6A1406C0&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fmem1-1.fna.fbcdn.net/v/t51.82787-19/703398017_17876320440665508_7628554030643156733_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTcuYzIifQ&_nc_ht=instagram.fmem1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gH09URgZpdXg4_8COFT3faSLR9ozEitRRSscjZA-NU-imvKXuHr_Jmm5U-pgeV9A5o&_nc_ohc=ubBmZ9zqwS8Q7kNvwEqDZBP&_nc_gid=Y2R2VbZZmh5zxJbHLlPKag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Bq5qHu3giL7ljJXJMBjBud4kgKhZeR3A92Zj1PKtMuw&oe=6A1406C0&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/emilyblack_designs/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4972
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/emilyblack_designs/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/emilyblack_designs/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/emilyblack_designs/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # emilyblack_designs
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emilyblack_designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

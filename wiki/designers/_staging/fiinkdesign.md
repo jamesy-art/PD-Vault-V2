@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: FIINK DESIGN
 website_meta_description: ''
 website_about_raw: >-
@@ -154,11 +156,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Fiona Powers
+instagram_biography: 'Bath, UK.'
+instagram_posts_count: 397
+instagram_followers_count: 1263
+instagram_follows_count: 983
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/161023968_191409969104645_1163191490820175860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHryyp18Rg8m_wRRcmu6MjeYLziHMLpW44MkRBekb7SQjVgzA_r11opP-5xJAdMQq8&_nc_ohc=LJH9AfvZUSMQ7kNvwHdcinO&_nc_gid=dFvq0YMUEuOhSUddn4h7CQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6fnehPxq6YWZ1pZDFHkvfMxXkyjtfL1ULoNJQn4BjQ8g&oe=6A13D3D7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/161023968_191409969104645_1163191490820175860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHryyp18Rg8m_wRRcmu6MjeYLziHMLpW44MkRBekb7SQjVgzA_r11opP-5xJAdMQq8&_nc_ohc=LJH9AfvZUSMQ7kNvwHdcinO&_nc_gid=dFvq0YMUEuOhSUddn4h7CQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6fnehPxq6YWZ1pZDFHkvfMxXkyjtfL1ULoNJQn4BjQ8g&oe=6A13D3D7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/fiinkdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8324
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/fiinkdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/fiinkdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/fiinkdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # fiinkdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/fiinkdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

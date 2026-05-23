@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Tara Keogh illustration
 website_meta_description: >-
   Illustrator and graphic designer based in Paris, Tara Keogh develops creative
@@ -100,11 +102,42 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Tara Keogh
+instagram_biography: |-
+  Illustrator, artist, graphic designer • Paris 
+  ➽ DM for prints 
+  Portfolio & Shop:
+instagram_posts_count: 259
+instagram_followers_count: 2185
+instagram_follows_count: 2135
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/358759950_810842910600957_5848348080277413885_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEZ_RzxUDqalJaWS67_MfTlCptEwv421XbEuDwpe4GmvIS-gR08jhkx38-sjsYDt7A&_nc_ohc=9xc137_iYqcQ7kNvwH71xos&_nc_gid=zahjC8PCgop1fcauKNUqOw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7FB4HrTAesduIA6zNBla1Nbkhc29maN33QX8ymD4CFGA&oe=6A13CF35&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/358759950_810842910600957_5848348080277413885_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEZ_RzxUDqalJaWS67_MfTlCptEwv421XbEuDwpe4GmvIS-gR08jhkx38-sjsYDt7A&_nc_ohc=9xc137_iYqcQ7kNvwH71xos&_nc_gid=zahjC8PCgop1fcauKNUqOw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7FB4HrTAesduIA6zNBla1Nbkhc29maN33QX8ymD4CFGA&oe=6A13CF35&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/tara_k_illustration/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3695
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/tara_k_illustration/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/tara_k_illustration/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/tara_k_illustration/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # tara_k_illustration
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tara_k_illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

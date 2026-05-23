@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Michal Gorelick: Your Creative Journey Starts Here'
 website_meta_description: >-
   Explore the artistic vision of Michal Gorelick through unique patterns. Make
@@ -284,11 +286,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Michal Gorelick | Surface Pattern Designer and Illustrator
+instagram_biography: "Print designer for fashion brands\n\U0001F3A8 1,000+ bold, colorful prints\n✨ Exclusive & non-exclusive licensing\n\U0001F4E9 License via link - DM/email for collabs"
+instagram_posts_count: 218
+instagram_followers_count: 3010
+instagram_follows_count: 1702
+instagram_private: false
+instagram_verified: true
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/49385866_970532569802258_8045282062548074496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gHH7XK8ByDpGBnXEhHyVZ3a-eIvcd1NxS7gUK8oiDLST2rs6SJPANA0yGGQEAknnYI&_nc_ohc=6knmnOKciGoQ7kNvwGhZjM9&_nc_gid=VruVEeOqoocS5z-_5raCaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5auXYvX0yBe6YP_miL3DYX3X-31LalONuK977otDPvGw&oe=6A13E4FE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/49385866_970532569802258_8045282062548074496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gHH7XK8ByDpGBnXEhHyVZ3a-eIvcd1NxS7gUK8oiDLST2rs6SJPANA0yGGQEAknnYI&_nc_ohc=6knmnOKciGoQ7kNvwGhZjM9&_nc_gid=VruVEeOqoocS5z-_5raCaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5auXYvX0yBe6YP_miL3DYX3X-31LalONuK977otDPvGw&oe=6A13E4FE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/michal.gorelick.design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2496
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/michal.gorelick.design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/michal.gorelick.design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/michal.gorelick.design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # michal.gorelick.design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/michal.gorelick.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

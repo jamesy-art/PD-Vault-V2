@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Susan Thomas Creative
 website_meta_description: ''
 website_about_raw: >-
@@ -147,11 +149,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Susan Thomas
+instagram_biography: |-
+  Surface Pattern Creative 
+  Brooklyn ➡️ Portugal
+instagram_posts_count: 159
+instagram_followers_count: 297
+instagram_follows_count: 562
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fcps4-2.fna.fbcdn.net/v/t51.2885-19/464273582_2321642668196353_4063831608803454801_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcps4-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gH3UjCgg1EcOIz1CFGaCQ8tSAsagl7huGtBkfkS4yQ9qOeqHMrGzagnNe7XpFWH9qTW50c-ODvxZqA3qyL31oJA&_nc_ohc=GH2Slt0anjAQ7kNvwE6kjt7&_nc_gid=_-kZg-Dk3VTC0jBSF-nUXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q-htzkhSEB6ENW7pUOVuaD_SDu_MLsWJq2Fx-Xfst5w&oe=6A140279&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fcps4-2.fna.fbcdn.net/v/t51.2885-19/464273582_2321642668196353_4063831608803454801_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcps4-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gH3UjCgg1EcOIz1CFGaCQ8tSAsagl7huGtBkfkS4yQ9qOeqHMrGzagnNe7XpFWH9qTW50c-ODvxZqA3qyL31oJA&_nc_ohc=GH2Slt0anjAQ7kNvwE6kjt7&_nc_gid=_-kZg-Dk3VTC0jBSF-nUXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5q-htzkhSEB6ENW7pUOVuaD_SDu_MLsWJq2Fx-Xfst5w&oe=6A140279&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/susanthomascreative/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4287
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/susanthomascreative/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/susanthomascreative/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/susanthomascreative/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # susanthomascreative
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/susanthomascreative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

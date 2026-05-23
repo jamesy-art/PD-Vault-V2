@@ -27,7 +27,7 @@ bio: ''
 website: 'https://abigailbryan.co.uk'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/abigailbryanart
 profile_url: ''
 instagram_images:
@@ -44,7 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Abigail Bryan
 website_meta_description: Surface Pattern Designer and Artist
 website_about_raw: >-
@@ -268,34 +273,163 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Abigail Bryan • Surface Pattern Designer
+instagram_biography: Surface pattern designer & artist
+instagram_posts_count: 540
+instagram_followers_count: 2235
+instagram_follows_count: 1809
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/442222926_1612350656245978_7933334648453044067_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHQ49C8M0WuPXBhNQS3-vg75bDP7PD4taiqDY0eOsPCg8zyR7El5RBXqThG717PAvo&_nc_ohc=k1c8uDNYupwQ7kNvwHvL5MW&_nc_gid=Uc7NCut4Q6A2w0FImbliSg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af54o6IiA6Fbbt1Z3L8Pdjq0HCv9NSsMK7ZbGBeHOFm7mQ&oe=6A13D65E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/442222926_1612350656245978_7933334648453044067_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHQ49C8M0WuPXBhNQS3-vg75bDP7PD4taiqDY0eOsPCg8zyR7El5RBXqThG717PAvo&_nc_ohc=k1c8uDNYupwQ7kNvwHvL5MW&_nc_gid=Uc7NCut4Q6A2w0FImbliSg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af54o6IiA6Fbbt1Z3L8Pdjq0HCv9NSsMK7ZbGBeHOFm7mQ&oe=6A13D65E&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/abigailbryanart/profile/442222926_1612350656245978_7933334648453044067_n.jpg
+instagram_profile_image_bytes: 5397
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/abigailbryanart/profile/442222926_1612350656245978_7933334648453044067_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/abigailbryanart/profile/442222926_1612350656245978_7933334648453044067_n.jpg
+profile_image_local: >-
+  ../../assets/designers/abigailbryanart/profile/442222926_1612350656245978_7933334648453044067_n.jpg
+images:
+  profile:
+    - ../../assets/designers/abigailbryanart/profile/instagram-profile.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1706514141_3290801588815980465_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1711011040_3328524311147012136_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480025761469_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480202138390_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210318959_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210459002_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210503785_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480244029375_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639859586312_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639867964316_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147640119606108_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1771315205_3834389198724150597_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1774341425_3859773314806110932_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777283779_3884459607502629810_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906495154169926_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906663815533357_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906847484145160_8522847555.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1706514141_3290801588815980465_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480202138390_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210318959_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210459002_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210503785_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480244029375_5587920170.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639859586312_8522847555.jpg
+  - >-
+    ../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906663815533357_8522847555.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # abigailbryanart
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/abigailbryanart/profile/442222926_1612350656245978_7933334648453044067_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1706514141_3290801588815980465_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1706514141_3290801588815980465_8522847555.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1711011040_3328524311147012136_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1711011040_3328524311147012136_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480025761469_5587920170.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480025761469_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480202138390_5587920170.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480202138390_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210318959_5587920170.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210318959_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210459002_5587920170.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210459002_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210503785_5587920170.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480210503785_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480244029375_5587920170.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1755255707_3699675480244029375_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639859586312_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639859586312_8522847555.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639867964316_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147639867964316_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147640119606108_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1761034039_3748147640119606108_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1771315205_3834389198724150597_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1771315205_3834389198724150597_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1774341425_3859773314806110932_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1774341425_3859773314806110932_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777283779_3884459607502629810_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777283779_3884459607502629810_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906495154169926_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906495154169926_8522847555.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906663815533357_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906663815533357_8522847555.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906847484145160_8522847555.jpg)<br><!-- image:../../assets/designers/abigailbryanart/instagram/abigailbryanart_1777456255_3885906847484145160_8522847555.jpg --> | [ ] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Abigail Bryan is a surface pattern designer and artist based in Cheshire, UK. Every design begins as a hand-drawn original before being digitized in Adobe Illustrator, producing vectorized patterns optimized for licensing flexibility. She has collaborated with Wildflower Home Interiors and [[Spoonflower]] on wallpaper, and with Yiume on printed shirts. An upcoming wallpaper collection with Loomwell is in development (unverified timing).
 
 ## Style and Aesthetic
 
+Vintage-influenced work with a romantic, warm character. Selected Instagram patterns suggest nature-inspired motifs — flora, fauna, and botanical subjects — with a hand-crafted quality translated into clean vector output. The Buttercup Stripe wallpaper collaboration signals a nostalgic, timeless aesthetic well-suited to the home decor market.
+
 ## Techniques and Tools
+
+Hand-drawn originals digitized in Adobe Illustrator. Works exclusively in vector format, providing maximum scalability and flexibility for licensing across wallpaper, fabric, and print applications. Skills include illustration, graphic design, pattern design, colour theory, repeat construction, and client collaboration.
 
 ## Markets and Clients
 
+Primarily wallpaper, home decor, and fabric. Available for licensing for products and branding. Confirmed collaborations: Wildflower Home Interiors × Spoonflower (Buttercup Stripe wallpaper), Yiume (exclusive Hawaiian designer shirts). Forthcoming: Loomwell wallpaper collection (unverified).
+
 ## Portfolio and Presence
+
+- Website: https://abigailbryan.co.uk
+- Instagram: @abigailbryanart
 
 ## Career Path
 
+Trained in Theatre Design, developing an early interest in historical costume design and the role of fabric and pattern. Gained experience as a graphic designer and artist before transitioning into surface pattern design. Based in Cheshire, UK.
+
 ## Pattern Focus
 
+Selected Instagram patterns suggest floral, botanical, and nature-based compositions. The vectorized approach is well-suited to wallpaper and home textile applications. Crustacean Core and tropical motifs also appear in the visible portfolio (Lobster in Ink Blue, Hawaiian shirts with Yiume).
+
 ## Connections
+
+- [[Spoonflower]] — wallpaper collaboration partner
+- [[Wildflower Home Interiors]] — collaboration (Buttercup Stripe wallpaper)
+- [[Yiume]] — shirt collaboration

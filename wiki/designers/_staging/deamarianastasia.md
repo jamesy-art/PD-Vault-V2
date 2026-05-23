@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Surface Pattern Designer | Dea Maria Anastasia
 website_meta_description: >-
   Anastasia Poljatschenko is a surface pattern designer, who creates repeating
@@ -280,11 +282,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ANASTASIA POLJATSCHENKO
+instagram_biography: "Branding▪️Surface design▪️Graphic design▪️Textile art\U0001F1EB\U0001F1EE\nDM for collabs or access to view my pattern collections.\nAlso co-founder @groove.media.io"
+instagram_posts_count: 701
+instagram_followers_count: 484
+instagram_follows_count: 827
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/481877467_998365568858244_6170171908600510663_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFbYXN8uYrHJk6LFYmqzZfCOhidjN4RYHR2GUpUK7YZs1fbpvXV-fsSnWJJyEXOCOA&_nc_ohc=W1JuQjLNrdYQ7kNvwGiSTb9&_nc_gid=zUHgwOEOTWP__Efti6qdNQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5SeQoGXNrCutYMQcgt34ApRrN4ewk7fbeMZfIuj764pg&oe=6A13E027&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/481877467_998365568858244_6170171908600510663_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFbYXN8uYrHJk6LFYmqzZfCOhidjN4RYHR2GUpUK7YZs1fbpvXV-fsSnWJJyEXOCOA&_nc_ohc=W1JuQjLNrdYQ7kNvwGiSTb9&_nc_gid=zUHgwOEOTWP__Efti6qdNQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5SeQoGXNrCutYMQcgt34ApRrN4ewk7fbeMZfIuj764pg&oe=6A13E027&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2652
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # deamarianastasia
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/deamarianastasia/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

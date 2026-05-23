@@ -37,6 +37,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: LANECIA PRINTS
 website_meta_description: LANECIA PRINTS
 website_about_raw: >-
@@ -196,11 +197,37 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: LANECIA STUDIO
+instagram_biography: "Surface Design Studio \nWALLPAPER & TEXTILE DESIGN\nPattern design + Digital art\nWorldwide Projects\n\U0001F30E @la.vanecia @paulaedg \n\U0001F4E7 vanessa@laneciaprints.com"
+instagram_posts_count: 564
+instagram_followers_count: 5265
+instagram_follows_count: 1604
+instagram_private: false
+instagram_verified: true
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/587122143_18294681454259302_8718409374824064574_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHWsIZVm0qM9VYghdJRI0xHE2sWffDrWVvSQ9NcdL_YQ2LT7XhZ4SB_kggeRiDG9iM&_nc_ohc=2X_GzpyOuCIQ7kNvwGchmEh&_nc_gid=TB74CS75-WVuJswQn9v67w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6e5OM2Hv2SQ-DHyoUr8mEko1bopn1UbSwNqyDvQnXykw&oe=6A13D74A&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # lanecia_prints
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

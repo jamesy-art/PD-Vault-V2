@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Julie Soricelli Designs
 website_meta_description: >-
   Julie Soricelli Designs is a surface pattern design studio focusing on fabric
@@ -254,11 +256,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Julie Soricelli | Surface Pattern Designer
+instagram_biography: |-
+  ✨Licensed Artist | @marinelayer       Surface Pattern Design 
+  Wallpaper + Textiles + Paper Products | Illustration 
+  Art Licensing | Collabs
+instagram_posts_count: 183
+instagram_followers_count: 990
+instagram_follows_count: 1456
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/352413575_672613638011467_6566632100949470684_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHy88a9sm0oFfqTSUeHSih1MqG74g_D8TaLSGq7L-_lbAfyll2WaJCjqeUiDXSEmus&_nc_ohc=bOGVFxCPYD0Q7kNvwGVrW9s&_nc_gid=682cMdCK12iKJGcMk7OWNw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_Y1KL-Donj9VCQmN4bSGtNOvkIt_FK0ls33aA5oXefQ&oe=6A13F810&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/352413575_672613638011467_6566632100949470684_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHy88a9sm0oFfqTSUeHSih1MqG74g_D8TaLSGq7L-_lbAfyll2WaJCjqeUiDXSEmus&_nc_ohc=bOGVFxCPYD0Q7kNvwGVrW9s&_nc_gid=682cMdCK12iKJGcMk7OWNw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4_Y1KL-Donj9VCQmN4bSGtNOvkIt_FK0ls33aA5oXefQ&oe=6A13F810&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/juliesoricellidesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4250
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/juliesoricellidesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/juliesoricellidesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/juliesoricellidesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # juliesoricellidesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/juliesoricellidesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

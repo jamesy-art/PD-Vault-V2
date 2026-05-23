@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Digital Collage Art | Peperina Magenta
 website_meta_description: >-
   Peperina Magenta. Digital collage artist based in Denmark. Bright, colorful
@@ -245,11 +247,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Peperina Magenta
+instagram_biography: >-
+  I create collage art that honors womanhood, memory, and the beautiful
+  complexity of identity✨️.
+
+  Originals & limited prints | Collage as storytelling
+instagram_posts_count: 1964
+instagram_followers_count: 2580
+instagram_follows_count: 541
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/241314029_906845346904189_7211615144047972137_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGyezORQHPo1RHadNvAp3Pgh0vEAhKE7Sd3iglEo91qQt98C87UCJe2FKdewxIh6zc&_nc_ohc=C4yXn4E0PNEQ7kNvwELah5P&_nc_gid=LAEmhFf1RwmTaMIwguWhXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ELb1TBCgb_l8zdXDDxMjJ9J9hObLHUa_ZnIehJ1H-xw&oe=6A13D2DD&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/241314029_906845346904189_7211615144047972137_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGyezORQHPo1RHadNvAp3Pgh0vEAhKE7Sd3iglEo91qQt98C87UCJe2FKdewxIh6zc&_nc_ohc=C4yXn4E0PNEQ7kNvwELah5P&_nc_gid=LAEmhFf1RwmTaMIwguWhXg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ELb1TBCgb_l8zdXDDxMjJ9J9hObLHUa_ZnIehJ1H-xw&oe=6A13D2DD&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/peperinamagenta/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6634
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/peperinamagenta/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/peperinamagenta/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/peperinamagenta/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # peperinamagenta
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/peperinamagenta/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

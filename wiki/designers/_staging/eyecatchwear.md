@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Ariadna Sysoeva | Graphic Artist | Illustration Animation Design
 website_meta_description: >-
   Fashion aesthetics of elegant characters for advertising, editorial, and Fine
@@ -208,11 +210,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: EyeCatchWear Designer T-shirts
+instagram_biography: Passion project of wearable art
+instagram_posts_count: 59
+instagram_followers_count: 158
+instagram_follows_count: 243
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/65389574_2541245442574897_7729910271929483264_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG4zwBBBvEB7D6hC1lvs6EMpGjc3wMVH8H_jjrIR_9D5TknS55blgyLZg9rgQ6I0a844yUNyFeqdfebeRiZ--Um&_nc_ohc=f3ICxQ3ngFwQ7kNvwEIL8UC&_nc_gid=1ISm_40lFC_Io92fFlj57g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af53bgOAAZUOViTOqMUAz5TOK60rudhB930rsK-z2MPZZw&oe=6A13E5EC&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/65389574_2541245442574897_7729910271929483264_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG4zwBBBvEB7D6hC1lvs6EMpGjc3wMVH8H_jjrIR_9D5TknS55blgyLZg9rgQ6I0a844yUNyFeqdfebeRiZ--Um&_nc_ohc=f3ICxQ3ngFwQ7kNvwEIL8UC&_nc_gid=1ISm_40lFC_Io92fFlj57g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af53bgOAAZUOViTOqMUAz5TOK60rudhB930rsK-z2MPZZw&oe=6A13E5EC&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/eyecatchwear/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4190
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/eyecatchwear/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/eyecatchwear/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/eyecatchwear/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # eyecatchwear
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/eyecatchwear/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

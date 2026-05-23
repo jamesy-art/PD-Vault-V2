@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Magdalena Wesołowska
 website_meta_description: >-
   Magdalena Wesołowska is a contemporary visual artist creating expressive oil
@@ -255,11 +257,44 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: MAGDALENA WESOŁOWSKA | Master of Fine Arts (MFA)
+instagram_biography: |-
+  Visual artist
+  Oil painting
+  Body, intimacy, sacrum & profane
+  Works for private collections
+  Ambassador @royaltalens & @rembrandtartistpaint
+instagram_posts_count: 205
+instagram_followers_count: 1822
+instagram_follows_count: 210
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fmqy1-1.fna.fbcdn.net/v/t51.82787-19/632010727_18562117423060904_669689131676534755_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmqy1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF_WeU1MfBxoGA8E_JEt15AoYTJQ6ByTzj6CzzQfbbUHmigiYyD8xZ1MyxEjuKUKmo&_nc_ohc=ujqNhA_0TkIQ7kNvwEAarHf&_nc_gid=-5dWvE_goKVhBBe0ULLJow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af703OCwz3UHZAssE2Ef51QMF2MkiLq6D6mmbeShhavFrA&oe=6A13F5A3&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fmqy1-1.fna.fbcdn.net/v/t51.82787-19/632010727_18562117423060904_669689131676534755_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmqy1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF_WeU1MfBxoGA8E_JEt15AoYTJQ6ByTzj6CzzQfbbUHmigiYyD8xZ1MyxEjuKUKmo&_nc_ohc=ujqNhA_0TkIQ7kNvwEAarHf&_nc_gid=-5dWvE_goKVhBBe0ULLJow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af703OCwz3UHZAssE2Ef51QMF2MkiLq6D6mmbeShhavFrA&oe=6A13F5A3&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3827
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # magdalenawesolowskaart
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

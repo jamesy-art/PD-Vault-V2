@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Oyeah* • Print & pattern design studio
 website_meta_description: >-
   Oyeah is an independant pattern design & illustration studio. Welcome! • Oyeah
@@ -80,11 +82,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Marion* Rousseau pattern designer
+instagram_biography: "\U0001F4A5 designer of fun prints & patterns\n\U0001F950 Paris, France\n\U0001F48C hello@oyeah.fr for commissions & licensing"
+instagram_posts_count: 486
+instagram_followers_count: 640
+instagram_follows_count: 2369
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/549337888_18363386401153615_6234528553152964549_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQxLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEQ4jP0C08XrcEhztFr5Ej3bkPeJ1hXY0umiQ0y9qx2hqziD5cy_VceR84htbM56XE&_nc_ohc=RgAo9ydxvHIQ7kNvwEk_rlG&_nc_gid=c7onAXpfqlxdSshtaQBAzQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uQQf9AC89Ujo0ILNYMMzLkx38KT28kZikKLBZ9WeKEA&oe=6A13E4B0&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/549337888_18363386401153615_6234528553152964549_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQxLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEQ4jP0C08XrcEhztFr5Ej3bkPeJ1hXY0umiQ0y9qx2hqziD5cy_VceR84htbM56XE&_nc_ohc=RgAo9ydxvHIQ7kNvwEk_rlG&_nc_gid=c7onAXpfqlxdSshtaQBAzQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uQQf9AC89Ujo0ILNYMMzLkx38KT28kZikKLBZ9WeKEA&oe=6A13E4B0&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4914
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # oyeah_studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/oyeah_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

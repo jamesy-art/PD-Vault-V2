@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home -
 website_meta_description: >-
   Hello & Welcome Surface Pattern Designer for Socks, Homeware & Apparel I'm
@@ -103,11 +105,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Victoria | Surface & Textile Designer
+instagram_biography: |-
+  Playful & decorative prints for fabric, wallpaper, stationary & home decor.
+  Collabs ▪︎Licensing 
+  Portfolio ↓
+instagram_posts_count: 147
+instagram_followers_count: 457
+instagram_follows_count: 633
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/652933841_18330082417247205_6627920044911506539_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG60MbWKfbzzyjx-jnyhQGhQZWsIQF2HTbITfC-LagsCY9dp3T4T35PAyLvWk3gcbI&_nc_ohc=izWQ_5WDseMQ7kNvwG4T_8F&_nc_gid=n79csDwk7G3IPCg-7OkuQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5GbzHsj9RulqhxypF0rK2nUhFM2onZxd-Y251_v-AWeg&oe=6A13D803&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/652933841_18330082417247205_6627920044911506539_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG60MbWKfbzzyjx-jnyhQGhQZWsIQF2HTbITfC-LagsCY9dp3T4T35PAyLvWk3gcbI&_nc_ohc=izWQ_5WDseMQ7kNvwG4T_8F&_nc_gid=n79csDwk7G3IPCg-7OkuQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5GbzHsj9RulqhxypF0rK2nUhFM2onZxd-Y251_v-AWeg&oe=6A13D803&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6520
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # kaprintstudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kaprintstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

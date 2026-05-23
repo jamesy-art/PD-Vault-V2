@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Suchi Deb surface pattern Designs
 website_meta_description: >-
   Suchi Deb is a Netherlands based designer who creates water color based
@@ -192,11 +194,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Suchi
+instagram_biography: |-
+  Surface Pattern Designer | Watercolour Artist
+  Hand painted watercolor patterns for fabric and wallpaper.
+  Art Licensing + print-on-demand (link in bio)
+instagram_posts_count: 472
+instagram_followers_count: 496
+instagram_follows_count: 519
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/583954845_18385636336182563_8231077344429008970_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEwZYC2m9apLCyYy37DJUOupajAeZflmQIKDblR4GMNUUkQaE8cKhlibUjH6VtNE5s&_nc_ohc=kvX6_b1_KWoQ7kNvwGe9R48&_nc_gid=4NLD-NhPZPLU5gNjOG7opA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71OkUX3JbZF9NYTVoZtqIbwI1rQ1ilboQFXzidzs8ooA&oe=6A13E099&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/583954845_18385636336182563_8231077344429008970_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEwZYC2m9apLCyYy37DJUOupajAeZflmQIKDblR4GMNUUkQaE8cKhlibUjH6VtNE5s&_nc_ohc=kvX6_b1_KWoQ7kNvwGe9R48&_nc_gid=4NLD-NhPZPLU5gNjOG7opA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71OkUX3JbZF9NYTVoZtqIbwI1rQ1ilboQFXzidzs8ooA&oe=6A13E099&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/suchidebdesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4817
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/suchidebdesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/suchidebdesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/suchidebdesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # suchidebdesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/suchidebdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

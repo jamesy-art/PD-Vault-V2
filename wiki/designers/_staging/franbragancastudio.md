@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | frandesign
 website_meta_description: ''
 website_about_raw: >-
@@ -248,11 +250,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Fran Bragança
+instagram_biography: "\U0001F337 Ilustradora Botânica & designer de estampas. \U0001D609\U0001D630\U0001D635\U0001D622\U0001D62F\U0001D62A\U0001D624\U0001D622\U0001D62D \U0001D62A\U0001D62D\U0001D62D\U0001D636\U0001D634\U0001D635\U0001D633\U0001D622\U0001D635\U0001D630\U0001D633 & \U0001D634\U0001D636\U0001D633\U0001D627\U0001D622\U0001D624\U0001D626 \U0001D631\U0001D622\U0001D635\U0001D635\U0001D626\U0001D633\U0001D62F \U0001D625\U0001D626\U0001D634\U0001D62A\U0001D628\U0001D62F\U0001D626\U0001D633. Prints on demand."
+instagram_posts_count: 185
+instagram_followers_count: 1531
+instagram_follows_count: 2162
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/106744963_935074027007644_4926409020082322545_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGCZjLnquaFzVbz3YQ1fn0dgxyH1inWRuj5amd5a82X1SDTJFtk7DNkFntJU2LjbH4gVRn3hhphL_Kg5LqrS5Wm&_nc_ohc=UjKAWYQ7CQkQ7kNvwFJDmad&_nc_gid=B5uke2US4G28BvWa4djBtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5TRB9S4MH35sRtF1jZLChNE_TkSB8JGk0_53WVDXW2-Q&oe=6A13FAB7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/106744963_935074027007644_4926409020082322545_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGCZjLnquaFzVbz3YQ1fn0dgxyH1inWRuj5amd5a82X1SDTJFtk7DNkFntJU2LjbH4gVRn3hhphL_Kg5LqrS5Wm&_nc_ohc=UjKAWYQ7CQkQ7kNvwFJDmad&_nc_gid=B5uke2US4G28BvWa4djBtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5TRB9S4MH35sRtF1jZLChNE_TkSB8JGk0_53WVDXW2-Q&oe=6A13FAB7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7199
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # franbragancastudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/franbragancastudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: bymartioska illustrations | Design graphique unique et créatif
 website_meta_description: >-
   Découvrez bymartioska illustrations, votre graphiste et illustratrice
@@ -264,11 +266,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Martioska
+instagram_biography: 'Creative, Illustrator, Designer'
+instagram_posts_count: 174
+instagram_followers_count: 114
+instagram_follows_count: 755
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/350430411_951896092811366_4842004452753181737_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGqhkqh2fkfO3_yni98GnNZhwcnsc7e-M7N7fczAW_Yq4XeuaGoOXgLfmCygx7tlh8&_nc_ohc=1MGxvGMCJncQ7kNvwHyilXA&_nc_gid=0W6HIGRsBv8F7YAanWl4gw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Hb2uoTpbBb_FxJBkAidFlgJuHz4APKESGSlgIQFBQFQ&oe=6A13E31C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/350430411_951896092811366_4842004452753181737_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGqhkqh2fkfO3_yni98GnNZhwcnsc7e-M7N7fczAW_Yq4XeuaGoOXgLfmCygx7tlh8&_nc_ohc=1MGxvGMCJncQ7kNvwHyilXA&_nc_gid=0W6HIGRsBv8F7YAanWl4gw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Hb2uoTpbBb_FxJBkAidFlgJuHz4APKESGSlgIQFBQFQ&oe=6A13E31C&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/bymartioska/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8266
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/bymartioska/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/bymartioska/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/bymartioska/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # bymartioska
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/bymartioska/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

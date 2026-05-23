@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Emily Sunday Designs
 website_meta_description: ''
 website_about_raw: >-
@@ -242,11 +244,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Emily Sunday
+instagram_biography: |-
+  Surface Design
+  Wallpaper & Fabric Design
+  Open to collaborations & art licensing
+instagram_posts_count: 658
+instagram_followers_count: 2616
+instagram_follows_count: 2812
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.ffsd2-1.fna.fbcdn.net/v/t51.2885-19/312910260_888211852546635_7933920466914491528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzQuYzIifQ&_nc_ht=instagram.ffsd2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGurd4nZVsrB8aTXjpRaBkYNxX0cLUnXvCqZo870WsIIUMqvxfNtuvgss75bRt1IK4&_nc_ohc=AAMa8YPz7tEQ7kNvwGaiykv&_nc_gid=f4sWIMvtjD6kxIicvY_PcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5VnRxSwsQfHenfqbj82x_VskqfVe6nJGgXf43hXbUfOA&oe=6A13DFE2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.ffsd2-1.fna.fbcdn.net/v/t51.2885-19/312910260_888211852546635_7933920466914491528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzQuYzIifQ&_nc_ht=instagram.ffsd2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGurd4nZVsrB8aTXjpRaBkYNxX0cLUnXvCqZo870WsIIUMqvxfNtuvgss75bRt1IK4&_nc_ohc=AAMa8YPz7tEQ7kNvwGaiykv&_nc_gid=f4sWIMvtjD6kxIicvY_PcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5VnRxSwsQfHenfqbj82x_VskqfVe6nJGgXf43hXbUfOA&oe=6A13DFE2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4858
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # emilysundaydesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

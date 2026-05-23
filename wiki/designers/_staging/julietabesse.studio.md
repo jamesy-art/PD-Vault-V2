@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: julieta besse
 website_meta_description: ''
 website_about_raw: >-
@@ -159,11 +161,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Julieta Besse Studio | Diseño de indumentaria
+instagram_biography: "\U0001F449\U0001F3FC Fashion designer.\n\U0001FAA1 Designs / Diseños \n\U0001F3A8 Prints / Estampas \n\U0001F9F5 Embroideries / Bordados"
+instagram_posts_count: 66
+instagram_followers_count: 1225
+instagram_follows_count: 886
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/447623824_1382012005796840_9036141565997429802_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnRkbshebs28Rlx_v8QnmN7BFKnU2h3QmGtdmKBmDi_NXZBufAa04U9uHbOMrRSS8&_nc_ohc=--Q1hilBM2cQ7kNvwHfNn8x&_nc_gid=LRjStoqCGGPdjgIKZSPOrg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4b7RzktgMggJloMK2QjG9RXiDND5apPwYsWADvp-BrxA&oe=6A13DF1E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/447623824_1382012005796840_9036141565997429802_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnRkbshebs28Rlx_v8QnmN7BFKnU2h3QmGtdmKBmDi_NXZBufAa04U9uHbOMrRSS8&_nc_ohc=--Q1hilBM2cQ7kNvwHfNn8x&_nc_gid=LRjStoqCGGPdjgIKZSPOrg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4b7RzktgMggJloMK2QjG9RXiDND5apPwYsWADvp-BrxA&oe=6A13DF1E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/julietabesse.studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6079
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/julietabesse.studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/julietabesse.studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/julietabesse.studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # julietabesse.studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/julietabesse.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

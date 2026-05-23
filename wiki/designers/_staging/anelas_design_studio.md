@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Anela's Design Studio - Surface Designer
 website_meta_description: >-
   I paint illustrations and seamless patterns for gift cards, gift wrap,
@@ -99,11 +101,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Anela's Design Studio. Surface Pattern Designer
+instagram_biography: Surface Pattern Designer represented by @illustrateit_agency
+instagram_posts_count: 356
+instagram_followers_count: 480
+instagram_follows_count: 2104
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/403765499_795185045700008_1185588831445733494_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG6KyFmLTItex8YIsKgzwuw8ztaS-jWADuYN-P7_6H6ErQKJ1U0g1-7Pf7EvGD3OwM&_nc_ohc=FbtswAoxakAQ7kNvwG0liOs&_nc_gid=WHznI6yGbfBDwrL4KWaUvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42h0N1Es72fzJPswuN3axqPgCCjNRFJoaF8nKer7hCmg&oe=6A13F3CA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/403765499_795185045700008_1185588831445733494_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG6KyFmLTItex8YIsKgzwuw8ztaS-jWADuYN-P7_6H6ErQKJ1U0g1-7Pf7EvGD3OwM&_nc_ohc=FbtswAoxakAQ7kNvwG0liOs&_nc_gid=WHznI6yGbfBDwrL4KWaUvw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42h0N1Es72fzJPswuN3axqPgCCjNRFJoaF8nKer7hCmg&oe=6A13F3CA&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/anelas_design_studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6161
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/anelas_design_studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/anelas_design_studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/anelas_design_studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # anelas_design_studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/anelas_design_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

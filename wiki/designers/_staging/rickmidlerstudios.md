@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Rick Midler Studios
 website_meta_description: ''
 website_about_raw: >-
@@ -244,11 +246,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Rick Midler Studios
+instagram_biography: SPECIAL STUDIO RELEASE PRICING AVAILABLE THIS WEEK!
+instagram_posts_count: 1157
+instagram_followers_count: 2076
+instagram_follows_count: 2330
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/122045755_351392746091373_1557722327140952570_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTQuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEDrXnI_mMmhWHLR6gNGpYmEVcM5pP_-1LqX6eRiHuw-tkyoXUxa1KjPSphUHKy1FY&_nc_ohc=CzR9axDzALkQ7kNvwGnRN6E&_nc_gid=fEgKR0AfoGiu-tuztEhR4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ksZ6kx-zzF3SsckXPAEiIGzBt9jz7IWI2FLNDYvuVfA&oe=6A13E936&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/122045755_351392746091373_1557722327140952570_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTQuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEDrXnI_mMmhWHLR6gNGpYmEVcM5pP_-1LqX6eRiHuw-tkyoXUxa1KjPSphUHKy1FY&_nc_ohc=CzR9axDzALkQ7kNvwGnRN6E&_nc_gid=fEgKR0AfoGiu-tuztEhR4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ksZ6kx-zzF3SsckXPAEiIGzBt9jz7IWI2FLNDYvuVfA&oe=6A13E936&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4635
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rickmidlerstudios
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

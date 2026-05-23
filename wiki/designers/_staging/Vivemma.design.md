@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Beautiful Floral Illustrations and Surface Patterns
 website_meta_description: >-
   Illustrations and patterns for textiles, stationery and homewares. Inspired by
@@ -273,11 +275,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Viv Emma - Artist
+instagram_biography: |-
+  Artist | Illustrator | Surface Designer - Sydney
+  Australian made art, stationery & homewares
+  hello@vivemmadesign.com
+instagram_posts_count: 215
+instagram_followers_count: 2492
+instagram_follows_count: 780
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/324773087_558319416224378_2967743689682750045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGk9kHZBQV-oxmBdMdjbcIk2pLKtl6tBL-ztf8E4JkiS9gW_bAvL3uHpGTLGHieXsY&_nc_ohc=O0xQLwVc67MQ7kNvwEOZ3mK&_nc_gid=ddUoIwe0cS_1Yq1kmB5Uag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4PZ_eqIFOOx0Pm2eD_BFnaBZzbup80_VcSHkxnYv6Jmw&oe=6A13D8B4&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/324773087_558319416224378_2967743689682750045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGk9kHZBQV-oxmBdMdjbcIk2pLKtl6tBL-ztf8E4JkiS9gW_bAvL3uHpGTLGHieXsY&_nc_ohc=O0xQLwVc67MQ7kNvwEOZ3mK&_nc_gid=ddUoIwe0cS_1Yq1kmB5Uag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4PZ_eqIFOOx0Pm2eD_BFnaBZzbup80_VcSHkxnYv6Jmw&oe=6A13D8B4&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7810
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # vivemma.design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vivemma.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Portfolio | Lisee Ree Designs
 website_meta_description: >-
   Artwork is the backbone of everything we do at Lisee Ree Designs. See the
@@ -288,11 +290,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Lisa | Surface pattern design for wallpaper + home
+instagram_biography: "\U0001F90D Painterly botanical patterns + wallpaper for timeless interiors\n\U0001F90D Elegant art meets home design\n\U0001F90D Available for licensing and custom design"
+instagram_posts_count: 2135
+instagram_followers_count: 5473
+instagram_follows_count: 1426
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/106560985_311880290200865_1211214061814024244_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFjI--t14LxyguPWS-Yct-X_LOIJzxG0ad4rKqwErxJWrA7y8RBvG_8yjKKcsx_oM0&_nc_ohc=T3NtH_YvM3oQ7kNvwE5WUtw&_nc_gid=mbvhAcIB2d9Rpb_Kpjizfw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7W1IBFHxDmdyIxW-f96wGSQqkNrYv0nfoJuNVGI0hdqw&oe=6A13F1EC&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/106560985_311880290200865_1211214061814024244_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFjI--t14LxyguPWS-Yct-X_LOIJzxG0ad4rKqwErxJWrA7y8RBvG_8yjKKcsx_oM0&_nc_ohc=T3NtH_YvM3oQ7kNvwE5WUtw&_nc_gid=mbvhAcIB2d9Rpb_Kpjizfw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7W1IBFHxDmdyIxW-f96wGSQqkNrYv0nfoJuNVGI0hdqw&oe=6A13F1EC&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/liseereedesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4547
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/liseereedesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/liseereedesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/liseereedesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # liseereedesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/liseereedesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

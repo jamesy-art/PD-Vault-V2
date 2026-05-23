@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Jun Shu Create
 website_meta_description: ''
 website_about_raw: >-
@@ -273,11 +275,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Artist & Print Designer
+instagram_biography: "Art & Surface Pattern Design\nTextile | Home\n\U0001F4CDAbu Dhabi | \U0001F469\U0001F3FB‍\U0001F4BBWorldwide\nGet in touch \U0001F447\U0001F3FC"
+instagram_posts_count: 711
+instagram_followers_count: 1185
+instagram_follows_count: 1418
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/671795688_18579894307048057_538742570123980649_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGt9VZJr9KV68i6rQsiRFhWQV18YoljVSfDQBpAUYTVJGx9dTU41aOshrL3W4qycpE&_nc_ohc=plFv4OKJO94Q7kNvwHxolgE&_nc_gid=7dgS2rg6mFrFTwG2-zBXrg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gIvhAqbgBPMvIBij2A_2HSK3N67BeucnrbLVAAcFNFA&oe=6A13EBE2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/671795688_18579894307048057_538742570123980649_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGt9VZJr9KV68i6rQsiRFhWQV18YoljVSfDQBpAUYTVJGx9dTU41aOshrL3W4qycpE&_nc_ohc=plFv4OKJO94Q7kNvwHxolgE&_nc_gid=7dgS2rg6mFrFTwG2-zBXrg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gIvhAqbgBPMvIBij2A_2HSK3N67BeucnrbLVAAcFNFA&oe=6A13EBE2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jun.shu.create/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5030
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jun.shu.create/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jun.shu.create/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jun.shu.create/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jun.shu.create
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jun.shu.create/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

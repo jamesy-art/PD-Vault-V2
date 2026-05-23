@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | My Site
 website_meta_description: ''
 website_about_raw: >-
@@ -260,11 +262,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Alison Watson
+instagram_biography: >-
+  I have been studying Graphic Design since 2019. I am due to graduate with 
+  BA(hons) in June 2025. I enjoy drawing, painting and illustration.
+instagram_posts_count: 14
+instagram_followers_count: 38
+instagram_follows_count: 127
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/450197716_837961821167420_5196590056470451434_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHg39BB_HQ8sFNiGYqfPldsvgytR6e48fvBiV6V0Y4t4oIlzLsB6Xk4mSefHxeCfSE&_nc_ohc=Azu3OWqPqnoQ7kNvwHObTQK&_nc_gid=8M8U56OSEYfbbdeHQF0kQA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5halTIQFyWaFz1EUUyBJI6okCJBHUUOAIPfWTJMtzsCg&oe=6A140112&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/450197716_837961821167420_5196590056470451434_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHg39BB_HQ8sFNiGYqfPldsvgytR6e48fvBiV6V0Y4t4oIlzLsB6Xk4mSefHxeCfSE&_nc_ohc=Azu3OWqPqnoQ7kNvwHObTQK&_nc_gid=8M8U56OSEYfbbdeHQF0kQA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5halTIQFyWaFz1EUUyBJI6okCJBHUUOAIPfWTJMtzsCg&oe=6A140112&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/mearnsgraphics7/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3984
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/mearnsgraphics7/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/mearnsgraphics7/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/mearnsgraphics7/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # mearnsgraphics7
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mearnsgraphics7/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

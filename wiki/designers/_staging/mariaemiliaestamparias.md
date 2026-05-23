@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Maria Emilia Jayme
 website_meta_description: ''
 website_about_raw: >-
@@ -150,11 +152,41 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: usable
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Maria Emilia Estamparias agora é ARTYMA
+instagram_biography: |-
+  Maria Emilia Estamparias agora é ARTYMA
+  Siga nosso novo perfil oficial: @artyma.oficial
+instagram_posts_count: 0
+instagram_followers_count: 49
+instagram_follows_count: 45
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/669778469_18075691664280161_7949171305546308408_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODYuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFR55hC0UezGMUdsj7ahmLgwi0Torz0He3SnXAtrkObth7YJN9wajvoVaMh_hg0yPE&_nc_ohc=2OyHNdoumKUQ7kNvwF5ogia&_nc_gid=vp3XmpxRu1FyHyKKyYZc1A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4vzde1cwD8z1v6OrOv2BeA16UiIlNwDuCqIo3KS0ub5w&oe=6A13F910&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/669778469_18075691664280161_7949171305546308408_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODYuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFR55hC0UezGMUdsj7ahmLgwi0Torz0He3SnXAtrkObth7YJN9wajvoVaMh_hg0yPE&_nc_ohc=2OyHNdoumKUQ7kNvwF5ogia&_nc_gid=vp3XmpxRu1FyHyKKyYZc1A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4vzde1cwD8z1v6OrOv2BeA16UiIlNwDuCqIo3KS0ub5w&oe=6A13F910&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/mariaemiliaestamparias/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2519
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/mariaemiliaestamparias/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/mariaemiliaestamparias/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/mariaemiliaestamparias/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # mariaemiliaestamparias
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mariaemiliaestamparias/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

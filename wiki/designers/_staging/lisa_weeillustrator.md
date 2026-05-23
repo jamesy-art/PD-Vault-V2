@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Portfolio | Lisa Wee Studio
 website_meta_description: >-
   Author/Illustrator who is best known for her inclusive and diversity
@@ -181,11 +183,41 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Lisa Wee
+instagram_biography: >-
+  Inclusive stories, joyful colors, and kids who belong everywhere. Repped by
+  Amy Miligan @ Illo Agency. Visit
+instagram_posts_count: 106
+instagram_followers_count: 3666
+instagram_follows_count: 3469
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/573116716_18430070344098265_5503934911942410830_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEkUcuOjzAh9WDDPXo-jq7jCRsxnCtacGccJ3uXeFkgNZJfKdbktjCfSCT252Slt_zLOLlKyAOZ1rRjmgpF9qk2&_nc_ohc=jAgVllVC9wQQ7kNvwGZ-ORy&_nc_gid=uby4qQJ5HxuvxS21fiiIEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6sIVt_kiqyg7RP1G5NgSN1xGT3m4FpwHXBAyrGqgIKdg&oe=6A13DBFB&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/573116716_18430070344098265_5503934911942410830_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEkUcuOjzAh9WDDPXo-jq7jCRsxnCtacGccJ3uXeFkgNZJfKdbktjCfSCT252Slt_zLOLlKyAOZ1rRjmgpF9qk2&_nc_ohc=jAgVllVC9wQQ7kNvwGZ-ORy&_nc_gid=uby4qQJ5HxuvxS21fiiIEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6sIVt_kiqyg7RP1G5NgSN1xGT3m4FpwHXBAyrGqgIKdg&oe=6A13DBFB&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/lisa_weeillustrator/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4814
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/lisa_weeillustrator/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/lisa_weeillustrator/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/lisa_weeillustrator/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # lisa_weeillustrator
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/lisa_weeillustrator/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

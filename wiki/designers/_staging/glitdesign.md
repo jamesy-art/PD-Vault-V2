@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Glit design
 website_meta_description: Print and surface pattern design
 website_about_raw: >-
@@ -192,11 +194,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Ana B.
+instagram_biography: "\U0001F3A8Print & Surface Pattern Maker\n✨Playful • Seasonal • Fabric Stationery Gift Wrap\n\U0001F447 Licensing & other collaborations\n\U0001F4E9 88.pavlovic.ana@gmail.com"
+instagram_posts_count: 77
+instagram_followers_count: 805
+instagram_follows_count: 920
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/457018336_426046323236435_1577686511663084171_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN4zY6kc2DSrZ0uADO8qlysWccHbFo0RdT15akSFzQWga6j1fcWbbUacNAnIxgjN0&_nc_ohc=pfQGU1-AqxoQ7kNvwGEksLs&_nc_gid=75oKsc9hh7lYyhCp6OufaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4rp34Q9K_AHUuMwy2CeyDOaresVyGHAvwmdJ2iyJ4T3A&oe=6A13DDDB&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/457018336_426046323236435_1577686511663084171_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHN4zY6kc2DSrZ0uADO8qlysWccHbFo0RdT15akSFzQWga6j1fcWbbUacNAnIxgjN0&_nc_ohc=pfQGU1-AqxoQ7kNvwGEksLs&_nc_gid=75oKsc9hh7lYyhCp6OufaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4rp34Q9K_AHUuMwy2CeyDOaresVyGHAvwmdJ2iyJ4T3A&oe=6A13DDDB&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/glitdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2913
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/glitdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/glitdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/glitdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # glitdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/glitdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

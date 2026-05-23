@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Ester Muxune. Surface pattern designer - Ester Muxune
 website_meta_description: >-
   Hi, I’m Ester, a self-taught surface pattern designer, biologist and based in
@@ -210,11 +212,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Ester Bernaldo de Quirós
+instagram_biography: |-
+  Surface pattern designer | Sewist and biologist
+  Collaborations and licencing:
+  ✉️ estermuxune@gmail.com
+instagram_posts_count: 313
+instagram_followers_count: 1478
+instagram_follows_count: 864
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fpit1-1.fna.fbcdn.net/v/t51.2885-19/321833850_1910752222610319_4337032457414867466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fpit1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFhwMro3q1h6qTqoAioZf5IznEzK0synss8-9xPHW2nJGCdadLl8fQOdbqZ2dyELpg&_nc_ohc=1MHOnkEf7ioQ7kNvwGb6Wrx&_nc_gid=nqW_E5d_hmzIMyiHXWLaOA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pMOBUwZ3pUZF1TVPo2xaXzWPvb0qqBPKeYowP1SLG-g&oe=6A13F6D7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fpit1-1.fna.fbcdn.net/v/t51.2885-19/321833850_1910752222610319_4337032457414867466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fpit1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFhwMro3q1h6qTqoAioZf5IznEzK0synss8-9xPHW2nJGCdadLl8fQOdbqZ2dyELpg&_nc_ohc=1MHOnkEf7ioQ7kNvwGb6Wrx&_nc_gid=nqW_E5d_hmzIMyiHXWLaOA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pMOBUwZ3pUZF1TVPo2xaXzWPvb0qqBPKeYowP1SLG-g&oe=6A13F6D7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4418
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ester_muxune
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ester_muxune/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

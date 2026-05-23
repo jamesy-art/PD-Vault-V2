@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Erinn Capko | Illustrator
 website_meta_description: >-
   Illustrator and Designer who likes to dabble in patterns and hand lettering,
@@ -112,11 +114,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Erinn Capko
+instagram_biography: ''
+instagram_posts_count: 0
+instagram_followers_count: 72
+instagram_follows_count: 53
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/474229076_475402765605629_1099828233943233487_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFh07DZVKSadt2-uae0NFfnttGWUF347KhPgDM5fQuFcGdXX8ta3iGxmN5A-OqArgo&_nc_ohc=NhUKVoU9mLcQ7kNvwGZogna&_nc_gid=O08z1eMdtPLsVNPst_KEXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7_-I1HLcWK--s9xp6eRPIHAF7EMctyDgb8Osgav5ZCpQ&oe=6A13F369&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/474229076_475402765605629_1099828233943233487_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFh07DZVKSadt2-uae0NFfnttGWUF347KhPgDM5fQuFcGdXX8ta3iGxmN5A-OqArgo&_nc_ohc=NhUKVoU9mLcQ7kNvwGZogna&_nc_gid=O08z1eMdtPLsVNPst_KEXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7_-I1HLcWK--s9xp6eRPIHAF7EMctyDgb8Osgav5ZCpQ&oe=6A13F369&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/erinncapko_illustration/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4224
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/erinncapko_illustration/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/erinncapko_illustration/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/erinncapko_illustration/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # erinncapko_illustration
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/erinncapko_illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

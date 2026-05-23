@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Nicole Borjas
 website_meta_description: ''
 website_about_raw: >-
@@ -218,11 +220,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Nicole Borjas • Surface Design
+instagram_biography: "Color isn't an accent, it's the whole story. Colorful prints that radiate joy & fun while sharing my process \U0001F3A8\nArtist & print designer\U0001F4CDSan Francisco"
+instagram_posts_count: 281
+instagram_followers_count: 1736
+instagram_follows_count: 377
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/475053539_1612289676046784_2674600518893240601_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEFKVY_EL9ujifIqYLrZZWZWEgG_qTH3Z9I-MtfLytYr-YHb7XAkWOzYdaR4logdug&_nc_ohc=SS0OgrP_W5MQ7kNvwHA7hmQ&_nc_gid=7WCqMizSIgkVL8tVmvN9HA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vK4W6P3kTGGzjkoSt9ZaxlTCaOIQG_eRuIeURryn6AQ&oe=6A13F7F1&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/475053539_1612289676046784_2674600518893240601_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEFKVY_EL9ujifIqYLrZZWZWEgG_qTH3Z9I-MtfLytYr-YHb7XAkWOzYdaR4logdug&_nc_ohc=SS0OgrP_W5MQ7kNvwHA7hmQ&_nc_gid=7WCqMizSIgkVL8tVmvN9HA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vK4W6P3kTGGzjkoSt9ZaxlTCaOIQG_eRuIeURryn6AQ&oe=6A13F7F1&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/printsbynicole/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5168
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/printsbynicole/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/printsbynicole/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/printsbynicole/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # printsbynicole
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/printsbynicole/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Stavrina Art Lab
 website_meta_description: >-
   I am Stavrina! A surface pattern designer from Greece who studied 10 years of
@@ -297,11 +299,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Stavrina Art Lab - Surface Pattern Design
+instagram_biography: |-
+  -Pattern design + illustration 
+  -Do you want your brand to stand out?
+  -Let’s create beauty together! 
+  ✨LINKS⬇️✨
+instagram_posts_count: 346
+instagram_followers_count: 1571
+instagram_follows_count: 2913
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-phl2-1.cdninstagram.com/v/t51.82787-19/588521221_17988501617881388_7900410017615020528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUzLmMyIn0&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHE7IhNGAuwJWMP6MstZ7gV5tc-KoSlHvrutG8Kb8TEnxhQWEtauCyyoF85uJ7ITO8&_nc_ohc=d-U-nZ-qytUQ7kNvwG_FYr1&_nc_gid=v7s53Nh1ZLWds--xLYn9aw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af67Sv_8CJpKWMzOZUpWEk4OA1-ERCQvS0tc3V_ivqBxyg&oe=6A13E4F6&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-phl2-1.cdninstagram.com/v/t51.82787-19/588521221_17988501617881388_7900410017615020528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUzLmMyIn0&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHE7IhNGAuwJWMP6MstZ7gV5tc-KoSlHvrutG8Kb8TEnxhQWEtauCyyoF85uJ7ITO8&_nc_ohc=d-U-nZ-qytUQ7kNvwG_FYr1&_nc_gid=v7s53Nh1ZLWds--xLYn9aw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af67Sv_8CJpKWMzOZUpWEk4OA1-ERCQvS0tc3V_ivqBxyg&oe=6A13E4F6&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/stavrina_art_lab/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4493
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/stavrina_art_lab/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/stavrina_art_lab/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/stavrina_art_lab/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # stavrina_art_lab
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/stavrina_art_lab/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

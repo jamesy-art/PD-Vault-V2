@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Hélène Blanc
 website_meta_description: >-
   Hélène Blanc | Freelance art director, illustrator and photographer working in
@@ -248,11 +250,44 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Hélène Blanc
+instagram_biography: |-
+  Drawings, paintings
+  Also half of @antinomia.fr
+  Comics @dessins.palpitants 
+  Member @wisewomen_paris
+  Paris
+instagram_posts_count: 389
+instagram_followers_count: 2574
+instagram_follows_count: 1989
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/656913820_18531304207069941_3488744072297743873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFKA6twlX46J-wFME4-sDLW_ZDp9IpW9KwW8O2L7A6O0sooVY4doGq-6Aoka63K6reY-S3Cw3sse_MPKDf9tnA-&_nc_ohc=6M0IY_3anjQQ7kNvwHLuSpH&_nc_gid=OZ1RWI1DxD1mRtR40g9JiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iy7Ial3_VB7KjSIYRlL1t03dRqiFEjPVAOe5s9hjBWg&oe=6A13D445&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/656913820_18531304207069941_3488744072297743873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFKA6twlX46J-wFME4-sDLW_ZDp9IpW9KwW8O2L7A6O0sooVY4doGq-6Aoka63K6reY-S3Cw3sse_MPKDf9tnA-&_nc_ohc=6M0IY_3anjQQ7kNvwHLuSpH&_nc_gid=OZ1RWI1DxD1mRtR40g9JiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iy7Ial3_VB7KjSIYRlL1t03dRqiFEjPVAOe5s9hjBWg&oe=6A13D445&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3738
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # helene.blanc
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/helene.blanc/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

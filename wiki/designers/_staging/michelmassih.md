@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Especialistas em Branding, Marketing e Vendas. A sua agência.'
 website_meta_description: >-
   Especialistas em execução e planejamento de branding, marketing e vendas. A
@@ -262,11 +264,45 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Michel Massih †
+instagram_biography: >-
+  @galeria.massih
+
+  Multidisciplinary Designer
+
+  ⚡Clients: Track&Field, Procter&Gamble, Victorinox, Aussie, Reserva, Publicis,
+  A.Hickmann, CBF, Cazé Tv
+instagram_posts_count: 545
+instagram_followers_count: 9510
+instagram_follows_count: 2390
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/684152664_18582835450023289_2813618949822549532_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF1GfcriV-JXE7DSZgwctcWp37m52CRoePMhxvlGaRvtu9hwjLXi_jf2d5avTFLeWk&_nc_ohc=X7UsBUb2_40Q7kNvwGmE3X3&_nc_gid=UXHdhHJFon5FUnAqj_2rQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5QDZTKEZo2cSroNZWShuFbgaDyOlnzhIPo9j95u2hWcg&oe=6A13FD2F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/684152664_18582835450023289_2813618949822549532_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF1GfcriV-JXE7DSZgwctcWp37m52CRoePMhxvlGaRvtu9hwjLXi_jf2d5avTFLeWk&_nc_ohc=X7UsBUb2_40Q7kNvwGmE3X3&_nc_gid=UXHdhHJFon5FUnAqj_2rQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5QDZTKEZo2cSroNZWShuFbgaDyOlnzhIPo9j95u2hWcg&oe=6A13FD2F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/michelmassih/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4993
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/michelmassih/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/michelmassih/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/michelmassih/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # michelmassih
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/michelmassih/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

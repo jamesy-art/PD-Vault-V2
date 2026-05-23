@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Ponytail Designs — Australian Shorebird Art, Prints & Children''s Book'
 website_meta_description: >-
   Hand-illustrated Australian wildlife art, shorebird prints, children's
@@ -179,11 +181,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Ponytail Designs | Tea Towels & Prints
+instagram_biography: "\U0001F426Australian wildlife art & illustrated stories\n\U0001F33F Shorebirds, nursery prints & surface patterns\n \U0001F447 ponytail-designs-zfpbcf.subscribepage.io"
+instagram_posts_count: 220
+instagram_followers_count: 137
+instagram_follows_count: 544
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/505734239_18355744567148575_6876128638833484269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFFc2P01JjBHu9aOX2Nvm07n630p5ezgVGc7md6XC9hVnTY7t_of9DQ061Yjhc1qG4&_nc_ohc=M5mFdIVitnEQ7kNvwH6A90v&_nc_gid=pF4yxle-FbFbejUpD_Rdjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4TcsqrxSOwt_zlbcbS8WaZqDWmh_7cYBrM19wxNBGBVg&oe=6A13DAD4&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/505734239_18355744567148575_6876128638833484269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFFc2P01JjBHu9aOX2Nvm07n630p5ezgVGc7md6XC9hVnTY7t_of9DQ061Yjhc1qG4&_nc_ohc=M5mFdIVitnEQ7kNvwH6A90v&_nc_gid=pF4yxle-FbFbejUpD_Rdjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4TcsqrxSOwt_zlbcbS8WaZqDWmh_7cYBrM19wxNBGBVg&oe=6A13DAD4&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5074
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jacqui_ponytaildesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

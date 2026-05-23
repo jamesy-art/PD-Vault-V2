@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Online Flipbook
 website_meta_description: Created with the Heyzine flipbook maker
 website_about_raw: >-
@@ -180,11 +182,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Monica Kapur
+instagram_biography: |-
+  Painterly Art , patterns & murals by Monica Kapur
+  Botanicals • Murals • Painterly abstractions
+  Print-ready• Global clients
+instagram_posts_count: 366
+instagram_followers_count: 847
+instagram_follows_count: 823
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/466804078_1760955221373969_1062308807241574117_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE8tuumSENMKGDiIeq7xIyL_HEk--fhq2Hzu66BM-WvqgkAgL5tlSsNSLlDNtUL_4A&_nc_ohc=t4jc67EczIgQ7kNvwHBEVwp&_nc_gid=S31LKFzXley8WbQyiiSa6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7sQV1eFPrNC7Is89pKLPD_lRbAdh0312ykm1tqEAMCdA&oe=6A13DBDD&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/466804078_1760955221373969_1062308807241574117_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE8tuumSENMKGDiIeq7xIyL_HEk--fhq2Hzu66BM-WvqgkAgL5tlSsNSLlDNtUL_4A&_nc_ohc=t4jc67EczIgQ7kNvwHBEVwp&_nc_gid=S31LKFzXley8WbQyiiSa6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7sQV1eFPrNC7Is89pKLPD_lRbAdh0312ykm1tqEAMCdA&oe=6A13DBDD&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5074
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # artbymonicakapur
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

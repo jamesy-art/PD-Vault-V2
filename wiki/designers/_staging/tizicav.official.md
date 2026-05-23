@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Tizicav - Graphic designer & Illustrator
 website_meta_description: 'Tiziana Cavaliere, graphic designer and illustrator based in Biarritz, France.'
 website_about_raw: >-
@@ -234,11 +236,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Tiziana Cavaliere
+instagram_biography: "Illustrator, Digital artist, Textiles designer, Pattern designer, Interior designer from Biarritz, FR \n\U0001F64C\U0001F993\U0001F30A\U0001F3C4\U0001F3FC‍♀️\U0001F98D\U0001F334\nYou are a guest of nature, behave!"
+instagram_posts_count: 100
+instagram_followers_count: 415
+instagram_follows_count: 1748
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/335720317_1488172944924783_4332005137343759576_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGiUdh_W7SG2F_uBgW5XI26GJruVCU82vbBmagvJORkqmeHE3ZR-d2JO_FE8VkwdGM&_nc_ohc=SYvOoG8FlCEQ7kNvwGmE6tF&_nc_gid=T9Kl-D1ZgLvl5FVPoM33lg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6o6Nzb7Bdjed3DEEpBorae9f4uPV6xsRrsCPqBBjlxYg&oe=6A1400ED&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/335720317_1488172944924783_4332005137343759576_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGiUdh_W7SG2F_uBgW5XI26GJruVCU82vbBmagvJORkqmeHE3ZR-d2JO_FE8VkwdGM&_nc_ohc=SYvOoG8FlCEQ7kNvwGmE6tF&_nc_gid=T9Kl-D1ZgLvl5FVPoM33lg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6o6Nzb7Bdjed3DEEpBorae9f4uPV6xsRrsCPqBBjlxYg&oe=6A1400ED&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 9048
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # tizicav.official
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tizicav.official/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Rachael Addis Artist
 website_meta_description: ''
 website_about_raw: >-
@@ -260,11 +262,44 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Rachael Addis
+instagram_biography: |-
+  Artist, Manchester UK
+  Current exhibition @thelowryhotel  
+  "Connect" exhibition @rogueartists_studios 
+  PV Sat 13th June
+  RA Schools Alumni
+instagram_posts_count: 364
+instagram_followers_count: 3469
+instagram_follows_count: 4187
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/491441113_2236582416757225_4183054283266134771_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFHZ29PYM75_C-1wmRMrz7jU3Ysyrgv_gUfWidirAFhgAiN7WEhfqLAtmLikuqjYh0&_nc_ohc=bjM2rhFvYLcQ7kNvwF7ZFOC&_nc_gid=eVUE_OnQqmnZpBIIVSHcQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7dg7biHCMgRt1lkX6iHSsj46ZEZmjUv_oDl23wrlxOZw&oe=6A13DC72&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/491441113_2236582416757225_4183054283266134771_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFHZ29PYM75_C-1wmRMrz7jU3Ysyrgv_gUfWidirAFhgAiN7WEhfqLAtmLikuqjYh0&_nc_ohc=bjM2rhFvYLcQ7kNvwF7ZFOC&_nc_gid=eVUE_OnQqmnZpBIIVSHcQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7dg7biHCMgRt1lkX6iHSsj46ZEZmjUv_oDl23wrlxOZw&oe=6A13DC72&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rachael.addis.artist/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7677
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rachael.addis.artist/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rachael.addis.artist/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rachael.addis.artist/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rachael.addis.artist
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rachael.addis.artist/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

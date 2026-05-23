@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'studioottilin''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by studioottilin for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -223,11 +225,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sophie Quiling
+instagram_biography: "Wallpaper and pattern designer-making walls more fun.. nature inspired graphic prints for interiors\nOpen for licensing-Email me \U0001FAF6\U0001F3FB\nshop ⬇️"
+instagram_posts_count: 62
+instagram_followers_count: 202
+instagram_follows_count: 475
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/489245314_1399174974549155_138015104996878836_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFbzqHPNyPVYbPfcRDz8Po1V85dHU6H6yRrE3_H9hjkWsJisAbPAsG5DKHwS9OBrRQ&_nc_ohc=9r9Q7CQGs00Q7kNvwFScRQI&_nc_gid=ivk0K4yCI_j3Zjk5YYORMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5eGUWsOY0np3Z_2VXjWdBvk2ime-2w1rGXFXMab19ICQ&oe=6A13F377&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/489245314_1399174974549155_138015104996878836_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFbzqHPNyPVYbPfcRDz8Po1V85dHU6H6yRrE3_H9hjkWsJisAbPAsG5DKHwS9OBrRQ&_nc_ohc=9r9Q7CQGs00Q7kNvwFScRQI&_nc_gid=ivk0K4yCI_j3Zjk5YYORMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5eGUWsOY0np3Z_2VXjWdBvk2ime-2w1rGXFXMab19ICQ&oe=6A13F377&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/studioottilin/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4837
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/studioottilin/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/studioottilin/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/studioottilin/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # studioottilin
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/studioottilin/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

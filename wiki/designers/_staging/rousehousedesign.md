@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Amanda Rouse Letscher
 website_meta_description: >-
   Welcome to a world of bold color and playful shapes! Amanda loves to
@@ -109,11 +111,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Amanda Rouse Letscher
+instagram_biography: "Art & Pattern for Playful People  \n\U0001F308 Licensed Surface Designer & Printmaker\n\U0001F3A8 Adjunct Prof Design U New Hampshire\n\U0001F4BB Administrator for @patternobserver"
+instagram_posts_count: 728
+instagram_followers_count: 1563
+instagram_follows_count: 1493
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/16228997_949343195197491_1820647438617149440_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjUuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE2gJvLuTm7vhNYBkXTBlu7m3Mx-UDOhmn7MX4a_oy3FHcGCyYFjfdF3aq7eWbNuqI&_nc_ohc=JTr4pG_y6ycQ7kNvwF6aFYa&_nc_gid=103ZVM1feAH6bAjt5Vbrog&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4KpOfRCpLQd4AD6KcNisZJ3aq17N1mECVS_ZGb7RMctw&oe=6A13E4D1&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/16228997_949343195197491_1820647438617149440_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjUuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE2gJvLuTm7vhNYBkXTBlu7m3Mx-UDOhmn7MX4a_oy3FHcGCyYFjfdF3aq7eWbNuqI&_nc_ohc=JTr4pG_y6ycQ7kNvwF6aFYa&_nc_gid=103ZVM1feAH6bAjt5Vbrog&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4KpOfRCpLQd4AD6KcNisZJ3aq17N1mECVS_ZGb7RMctw&oe=6A13E4D1&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rousehousedesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5476
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rousehousedesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rousehousedesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rousehousedesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rousehousedesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rousehousedesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

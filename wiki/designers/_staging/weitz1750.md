@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Caroleweitzdesign
 website_meta_description: 'Illustration, Collage, Calligraphy, Photography'
 website_about_raw: >-
@@ -236,11 +238,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Carole Weitz
+instagram_biography: |-
+  New York Creative Expressionist, illustrator, designer and collage artist.
+  Contact me for availability. 
+  Please, no NFT’s…
+instagram_posts_count: 2973
+instagram_followers_count: 1381
+instagram_follows_count: 2155
+instagram_private: false
+instagram_verified: true
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/559183407_18541092589009868_4359311980956022704_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtvb63OqV6oG6Z5FNJh5o1ZLRm7UGK9NlROWww16gv-jXnBaW3PQuk6dpP4X6Y-WI&_nc_ohc=CBmTh4PMNTEQ7kNvwFBIqrH&_nc_gid=HsIPEuuZYvZemA75cvj2Kg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6bh-7u8rqzY_-BH2U3xURvtI5HBUXrH3zqAr8qaiXfWA&oe=6A13F7E3&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/559183407_18541092589009868_4359311980956022704_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtvb63OqV6oG6Z5FNJh5o1ZLRm7UGK9NlROWww16gv-jXnBaW3PQuk6dpP4X6Y-WI&_nc_ohc=CBmTh4PMNTEQ7kNvwFBIqrH&_nc_gid=HsIPEuuZYvZemA75cvj2Kg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6bh-7u8rqzY_-BH2U3xURvtI5HBUXrH3zqAr8qaiXfWA&oe=6A13F7E3&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/weitz1750/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5606
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/weitz1750/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/weitz1750/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/weitz1750/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # weitz1750
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/weitz1750/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

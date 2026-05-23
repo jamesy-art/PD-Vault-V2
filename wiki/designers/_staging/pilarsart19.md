@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Pilarsart
 website_meta_description: ''
 website_about_raw: >-
@@ -145,11 +147,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Pilar Mageau
+instagram_biography: |-
+  ❁ Botanical Illustrations 
+  ❁ Email or DM for custom work  
+  ❁ Links ↴
+instagram_posts_count: 319
+instagram_followers_count: 919
+instagram_follows_count: 678
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.flas1-1.fna.fbcdn.net/v/t51.2885-19/485595347_1439257030553692_5936294133410458522_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM2LmMyIn0&_nc_ht=instagram.flas1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFGwYtrCH7n_nMrrgrBwWHRblonFZtNr3jzO4lPYWrqY-hYx8u10nbflO4eUXEMTKI&_nc_ohc=7K9Eg-7KlVQQ7kNvwHPfrxW&_nc_gid=DjMhvkFE-P1f9chNU6G1RQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4KPxSjMFS5Gmh-lXxJgdRCVlQcRlzAntMvv-ng6VVhpg&oe=6A13E3AE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.flas1-1.fna.fbcdn.net/v/t51.2885-19/485595347_1439257030553692_5936294133410458522_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM2LmMyIn0&_nc_ht=instagram.flas1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFGwYtrCH7n_nMrrgrBwWHRblonFZtNr3jzO4lPYWrqY-hYx8u10nbflO4eUXEMTKI&_nc_ohc=7K9Eg-7KlVQQ7kNvwHPfrxW&_nc_gid=DjMhvkFE-P1f9chNU6G1RQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4KPxSjMFS5Gmh-lXxJgdRCVlQcRlzAntMvv-ng6VVhpg&oe=6A13E3AE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/pilarsart19/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5765
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/pilarsart19/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/pilarsart19/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/pilarsart19/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # pilarsart19
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pilarsart19/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

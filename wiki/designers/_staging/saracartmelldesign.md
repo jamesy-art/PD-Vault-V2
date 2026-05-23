@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: saracartmell.com | print and pattern design
 website_meta_description: >-
   saracartmell.com is the home of Sara, a surface pattern designer and
@@ -151,11 +153,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sara Cartmell
+instagram_biography: "\U0001F4CD UK based \n✍\U0001F3FC Pattern designer & illustrator \n\U0001F338 Fabric shop on Spoonflower \n\U0001F31E Available for licensing"
+instagram_posts_count: 145
+instagram_followers_count: 1358
+instagram_follows_count: 1762
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/274273212_102079799062583_607736090597236921_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGvwEoxnHzIJXWOK62aNoCDnIHE9MKFyjajO_Q_G234CrGpZ6knVkZZEzExJh_0YCg&_nc_ohc=YP74snyPzeIQ7kNvwHGXQO1&_nc_gid=qFc_baU9LQUGZcFr-RBTxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7eMDmG6xFqi5GRPKlElkaxIUej-5-d4WgKHkSoqosC5Q&oe=6A13EF47&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/274273212_102079799062583_607736090597236921_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGvwEoxnHzIJXWOK62aNoCDnIHE9MKFyjajO_Q_G234CrGpZ6knVkZZEzExJh_0YCg&_nc_ohc=YP74snyPzeIQ7kNvwHGXQO1&_nc_gid=qFc_baU9LQUGZcFr-RBTxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7eMDmG6xFqi5GRPKlElkaxIUej-5-d4WgKHkSoqosC5Q&oe=6A13EF47&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4775
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # saracartmelldesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

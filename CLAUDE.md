@@ -68,6 +68,7 @@ This mode is used for:
 - improving dataset quality
 - preparing data for frontend use
 
+
 ## Designer Profile Editorial Enrichment Mode
 
 This mode is used ONLY when explicitly requested by the user.
@@ -196,6 +197,38 @@ NOT:
 - biographies
 - marketing copy
 
+## Level 4 Designer Image Enrichment Mode
+
+This mode applies to designer files where:
+
+- `level: level_4`
+- `has_selected_instagram_images` appears in tags
+- `instagram_images_selected` exists
+- `enrichment_status: needs_claude_image_review`
+
+Claude MAY use selected Instagram image previews as visual evidence for:
+- Style and Aesthetic
+- Pattern Focus
+- Techniques and Tools
+- Portfolio and Presence
+- Connections
+
+Claude MUST NOT:
+- modify YAML/frontmatter unless explicitly instructed
+- remove image paths
+- invent clients, markets, tools, education, or licensing details
+- treat unchecked images as approved portfolio selections
+- assume an image is a repeat pattern unless visually clear
+- overwrite image review checkboxes
+
+Claude SHOULD:
+- rewrite only the standard editorial body sections:
+  Overview, Style and Aesthetic, Techniques and Tools, Markets and Clients, Portfolio and Presence, Career Path, Pattern Focus, Connections
+- use `website_about_clean`, Instagram bio, designer metadata, and visible image context
+- mention image evidence cautiously: “selected Instagram images suggest…”
+- leave weak or uncertain claims out
+- update `index.md` with a concise Level 4 staging note if requested
+- append `log.md` after enrichment
 ## Domain
 
 **Surface pattern design (SPD)** — the discipline of creating repeating patterns and prints applied to 2D surfaces across products, textiles, and materials. This wiki covers:
@@ -837,3 +870,90 @@ Sections: **Overview**, **Sources**, **Designers**, **Companies**, **Products**,
 - Do not speculate beyond what sources say — mark uncertain claims *(unverified)*
 - For designer portfolio links, Instagram handles, etc.: record exactly what sources provide; do not guess URLs
 - Never modify files in `raw/`
+
+## Level 4 Approved Image Interpretation Rules
+
+When a designer file contains:
+
+- selected_patterns
+- selected_placements
+- image_reviewed: true
+
+Claude MUST treat these as the approved visual evidence set.
+
+### Approved Image Usage
+
+Claude SHOULD:
+
+- prioritise selected_patterns for:
+  - Style and Aesthetic
+  - Pattern Focus
+  - Techniques and Tools
+
+- prioritise selected_placements for:
+  - Markets and Clients
+  - Portfolio and Presence
+
+Claude MUST:
+
+- ignore unchecked Instagram images
+- preserve the entire Instagram image review table exactly
+- preserve all markdown image embeds
+- preserve all checkbox states
+- preserve image comments (<!-- image:... -->)
+- preserve numbering/layout of review tables
+
+Claude MUST NOT:
+
+- rewrite or compress image review tables
+- mention every selected image individually
+- infer licensing deals unless explicitly documented
+- infer hand-painted or digital techniques unless visually obvious
+- infer commercial scale from placements alone
+- invent trend language or marketing claims
+
+### Editorial Style
+
+For Level 4 files:
+
+- use concise editorial writing
+- avoid generic artist-statement wording
+- avoid repeating “botanical, symbolic, poetic” multiple times
+- compress repetitive scrape text into clear trade-facing summaries
+- prefer concrete observations over emotional interpretation
+
+### Evidence Priority Order
+
+Use evidence in this order:
+
+1. selected_patterns
+2. selected_placements
+3. website_about_clean
+4. Instagram bio
+5. existing body text
+6. broader selected image context
+
+If evidence is weak:
+- omit the claim
+- do not speculate
+
+## Level 5 Promotion Rules
+
+A designer file may be promoted from level_4 to level_5 ONLY when:
+
+- image review is complete
+- selected_patterns exists
+- editorial enrichment is complete
+- all standard editorial sections are populated
+- no major scrape cleanup remains
+- the file is commercially readable
+
+When promoting to level_5, Claude MAY update:
+
+yaml level: level_5 enrichment_status: enriched 
+
+Claude MUST NOT:
+- change lifecycle/status fields
+- remove image review tables
+- alter image selections
+- remove selected image arrays

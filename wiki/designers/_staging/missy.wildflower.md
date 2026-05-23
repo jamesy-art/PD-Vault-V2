@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Missy Wildflower Design
 website_meta_description: >-
   Australian Surface Pattern Designer Sherri for Missy Wildflower Design Studio
@@ -292,11 +294,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: "SHERRI SMITH Surface Pattern Designer \U0001F1E6\U0001F1FA"
+instagram_biography: "Designing hand painted florals on fabric for women who love beauty & modern country charm\nStockist request & license info~DM \nShop\U0001F447Fabric,gifts+more\U0001F447"
+instagram_posts_count: 1314
+instagram_followers_count: 3054
+instagram_follows_count: 2486
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/439887336_1582741685907939_7575907552967339524_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHK-uzsQqUXJEC5zzT6anHzgss8y1f3t-3FSfTR9oZThCK6Zm7wx9Z_lQpKV5EOreU&_nc_ohc=iF3GkH6Y6O8Q7kNvwGPDBHP&_nc_gid=1c_oI5VhnK0M8Vr3lZnNkQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Epp2npz0RCQA3BI1p73wPftBtGjiMcarHIEnbyUygBQ&oe=6A13E3FE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/439887336_1582741685907939_7575907552967339524_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHK-uzsQqUXJEC5zzT6anHzgss8y1f3t-3FSfTR9oZThCK6Zm7wx9Z_lQpKV5EOreU&_nc_ohc=iF3GkH6Y6O8Q7kNvwGPDBHP&_nc_gid=1c_oI5VhnK0M8Vr3lZnNkQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Epp2npz0RCQA3BI1p73wPftBtGjiMcarHIEnbyUygBQ&oe=6A13E3FE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5392
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # missy.wildflower
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/missy.wildflower/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

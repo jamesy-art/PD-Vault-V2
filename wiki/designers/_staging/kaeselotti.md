@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: kaeselotti
 website_meta_description: ''
 website_about_raw: >-
@@ -262,11 +264,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Kathrin Wessel
+instagram_biography: "Der ganz normale Wahnsinn aus dem Leben einer positiv bescheuerten (Stoff-)Designerin und Kinderbuch-Illustratorin und ihrem Mini-Label käselotti...\U0001F609"
+instagram_posts_count: 1710
+instagram_followers_count: 4440
+instagram_follows_count: 1346
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/69692440_712818839184000_9136022920429043712_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGr9JktMyZy5MKQ5sYOTHYhsYfgI_YhPqaJUUyCLUJjTpggEM1sgZApBThJkqw7PUM&_nc_ohc=LQNjpA4vErUQ7kNvwEirrnY&_nc_gid=k1mTUrvjspJrEqXArDxJAg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ljz-EFiOHsZyNrRdhFA-t0rD-ZsucsHxenGgbz7Vc5A&oe=6A13FBC4&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/69692440_712818839184000_9136022920429043712_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGr9JktMyZy5MKQ5sYOTHYhsYfgI_YhPqaJUUyCLUJjTpggEM1sgZApBThJkqw7PUM&_nc_ohc=LQNjpA4vErUQ7kNvwEirrnY&_nc_gid=k1mTUrvjspJrEqXArDxJAg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ljz-EFiOHsZyNrRdhFA-t0rD-ZsucsHxenGgbz7Vc5A&oe=6A13FBC4&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/kaeselotti/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6009
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/kaeselotti/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/kaeselotti/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/kaeselotti/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # kaeselotti
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kaeselotti/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

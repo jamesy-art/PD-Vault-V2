@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Print Design Studio | Analyze Studio & Hot Off The Press
 website_meta_description: >-
   About Us | Analyze Studio is a creative consultancy agency for fashion & home
@@ -251,11 +253,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: hot off the press | print design studio
+instagram_biography: |-
+  Print design for fashion ||
+  home decor || lifestyle 
+  Available for commission 
+  • SHOP DESIGNS • ⬇️
+instagram_posts_count: 611
+instagram_followers_count: 184
+instagram_follows_count: 623
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/696252275_18081008273439872_7258821123162607591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGFO2STSZKLgVPrgyFiMwYUgK2Mzvdjpxp0wZj9hvGkfDU8-W6p9ooggvAFK6ohuHQ&_nc_ohc=yx1UBIHddhwQ7kNvwFl2cSZ&_nc_gid=-en0lvvLPIdnrarMt6ToxA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6a7I-iSz2JkVn7xeZIhXaQcO-UMjLnsCfY0yxqxT2rRA&oe=6A13F09B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/696252275_18081008273439872_7258821123162607591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGFO2STSZKLgVPrgyFiMwYUgK2Mzvdjpxp0wZj9hvGkfDU8-W6p9ooggvAFK6ohuHQ&_nc_ohc=yx1UBIHddhwQ7kNvwFl2cSZ&_nc_gid=-en0lvvLPIdnrarMt6ToxA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6a7I-iSz2JkVn7xeZIhXaQcO-UMjLnsCfY0yxqxT2rRA&oe=6A13F09B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7252
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # hotoffthepressdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

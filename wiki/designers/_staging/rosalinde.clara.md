@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Rosalinde Clara | Surface Pattern Designer and Illustrator
 website_meta_description: >-
   Rosalinde Clara is a surface pattern designer and illustrator creating joyful,
@@ -78,11 +80,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Rosalinde | Surface Designer
+instagram_biography: |-
+  ✨Pattern Designer & Illustrator ✨
+  Licensing: hello@rosalindeclara.com
+  Member of @illustratorsforhire
+  Visit my website ⬇️
+instagram_posts_count: 520
+instagram_followers_count: 541
+instagram_follows_count: 606
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/475973270_608412911928788_398008737698895356_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEXnVm0JcFhP1PK3mWlHWJ2_KN3RhPWAx-SRGveMfpM4tRSDpPJHfp4KnXpQrq9mks&_nc_ohc=raksI8BolXQQ7kNvwFLqKHo&_nc_gid=7zx04J7oA8ARcQfLF3m6wA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4VXUWgB3rNVfh0HcSR699wcTAHyoOfDFu7nVMBi8HQuw&oe=6A13FE67&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/475973270_608412911928788_398008737698895356_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEXnVm0JcFhP1PK3mWlHWJ2_KN3RhPWAx-SRGveMfpM4tRSDpPJHfp4KnXpQrq9mks&_nc_ohc=raksI8BolXQQ7kNvwFLqKHo&_nc_gid=7zx04J7oA8ARcQfLF3m6wA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4VXUWgB3rNVfh0HcSR699wcTAHyoOfDFu7nVMBi8HQuw&oe=6A13FE67&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5412
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rosalinde.clara
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

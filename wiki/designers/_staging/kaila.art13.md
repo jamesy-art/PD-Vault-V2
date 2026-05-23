@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Illustrator | Kaila Aaron Illustration | United States
 website_meta_description: >-
   Welcome! to the illustration portfolio of Kaila Aaron! Home to vibrant
@@ -201,11 +203,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Kaila Aaron
+instagram_biography: |-
+  illustrator and professional art fart
+  SCAD alumni
+  ✨commissions are closed✨
+instagram_posts_count: 56
+instagram_followers_count: 339
+instagram_follows_count: 151
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/332529482_725440319069975_1625146453251857996_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHzYS4ot4MSYnGX0B4KGjLYFG_Z7sNOTN4XKLzN1iNT_h_9uMIR9Q8R_M5lcAsL-qg&_nc_ohc=w9GBFliF7fEQ7kNvwGbsacV&_nc_gid=CtphDs7V2ZrErUVqYben4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5nDFj3nTgsNTADfLPReFlwk4T0yWTVsK2fxAPD2fwDNw&oe=6A13E75A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/332529482_725440319069975_1625146453251857996_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHzYS4ot4MSYnGX0B4KGjLYFG_Z7sNOTN4XKLzN1iNT_h_9uMIR9Q8R_M5lcAsL-qg&_nc_ohc=w9GBFliF7fEQ7kNvwGbsacV&_nc_gid=CtphDs7V2ZrErUVqYben4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5nDFj3nTgsNTADfLPReFlwk4T0yWTVsK2fxAPD2fwDNw&oe=6A13E75A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/kaila.art13/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5786
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/kaila.art13/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/kaila.art13/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/kaila.art13/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # kaila.art13
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kaila.art13/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

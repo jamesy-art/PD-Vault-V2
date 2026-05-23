@@ -43,6 +43,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Julia Miller
 website_meta_description: ''
 website_about_raw: >-
@@ -252,11 +253,37 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Julia Miller | Freelance Textile Print Designer
+instagram_biography: "\U0001F3A8 Exclusive textile prints for fashion & swimwear\n✉️ Email hello@juliamiller.com.au for custom prints\n ⤵️ Sign up to my online print collection"
+instagram_posts_count: 91
+instagram_followers_count: 612
+instagram_follows_count: 1850
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.foma1-2.fna.fbcdn.net/v/t51.2885-19/441491532_431159389698694_9027160011959738576_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzUuYzIifQ&_nc_ht=instagram.foma1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gGYrFJZ4BxnuLeiWpZw14_RZvy573lE9odluqehkqBkpYzi4wL6bnALaOsYNpkC-Ng&_nc_ohc=JxE1peOWCXMQ7kNvwH9bCLG&_nc_gid=QXIBYA4-dKifTZcfz2vdBw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7h3Q05QrFH6C03koPu8dsw3R6EWyaUlFymVH9BFZkiJw&oe=6A13E059&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # by_juliamiller
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

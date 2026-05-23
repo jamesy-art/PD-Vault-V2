@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Siobhan Elizabeth | Bespoke Irish Textile Design Studio
 website_meta_description: >-
   Siobhan Elizabeth is a textile design studio specialising in fabrics &
@@ -279,11 +281,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Siobhan Elizabeth
+instagram_biography: Artist/Designer/Maker
+instagram_posts_count: 62
+instagram_followers_count: 250
+instagram_follows_count: 742
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/431133149_1165255538136291_3630322613428615395_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGK92NEuFs2JGckBvmtGmDHB1xU31wrdxmzpGYSsXI6BQtLRbEH2JnmKNIYRdf12Ng&_nc_ohc=7NweEODfHTcQ7kNvwGQvYu9&_nc_gid=RZaVlYcy5i7R8IY0nDy0kQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yQydXGoqExUeD161SMFSM4KYFKR6BIzbdGxYZG8_uFw&oe=6A13EE3F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/431133149_1165255538136291_3630322613428615395_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGK92NEuFs2JGckBvmtGmDHB1xU31wrdxmzpGYSsXI6BQtLRbEH2JnmKNIYRdf12Ng&_nc_ohc=7NweEODfHTcQ7kNvwGQvYu9&_nc_gid=RZaVlYcy5i7R8IY0nDy0kQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yQydXGoqExUeD161SMFSM4KYFKR6BIzbdGxYZG8_uFw&oe=6A13EE3F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/siobhanelizabethcreates/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6275
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/siobhanelizabethcreates/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/siobhanelizabethcreates/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/siobhanelizabethcreates/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # siobhanelizabethcreates
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/siobhanelizabethcreates/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

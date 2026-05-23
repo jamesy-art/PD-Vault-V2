@@ -18,7 +18,7 @@ bio: ''
 website: 'https://aliwynne.com'
 website_about: ''
 accepted: 07/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ali.wynne.pattern
 profile_url: ''
 instagram_images:
@@ -35,7 +35,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Alison Moncrieff Art
 website_meta_description: ''
 website_about_raw: >-
@@ -248,7 +252,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Alison Moncrieff
 
@@ -317,29 +321,121 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: ''
+instagram_biography: ''
+instagram_posts_count: null
+instagram_followers_count: null
+instagram_follows_count: null
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: ''
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ../../assets/designers/ali.wynne.pattern/profile/IMG_9751.webp
+instagram_profile_image_bytes: 158626
+instagram_profile_image_quality: large
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ali.wynne.pattern/profile/IMG_9751.webp
+profile_images:
+  - ../../assets/designers/ali.wynne.pattern/profile/IMG_9751.webp
+profile_image_local: ../../assets/designers/ali.wynne.pattern/profile/IMG_9751.webp
+images:
+  profile:
+    - ../../assets/designers/ali.wynne.pattern/profile/IMG_9751.webp
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_13_Photoroom_20240517_184655.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_142_IMG_3788.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_172_PhotoRoom_20230503_100232.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_175_IMG_3633.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_19_Photoroom_20260209_171248.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_49_2024-03-30+14.23.08.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_64_Photoroom_20250327_105452.png
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_13_Photoroom_20240517_184655.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_142_IMG_3788.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_172_PhotoRoom_20230503_100232.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_175_IMG_3633.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_19_Photoroom_20260209_171248.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_49_2024-03-30+14.23.08.png
+  - >-
+    ../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_64_Photoroom_20250327_105452.png
+selected_placements: []
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ali.wynne.pattern
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/ali.wynne.pattern/profile/IMG_9751.webp)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_13_Photoroom_20240517_184655.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_13_Photoroom_20240517_184655.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_142_IMG_3788.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_142_IMG_3788.png --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_172_PhotoRoom_20230503_100232.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_172_PhotoRoom_20230503_100232.png --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_175_IMG_3633.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_175_IMG_3633.png --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_19_Photoroom_20260209_171248.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_19_Photoroom_20260209_171248.png --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_49_2024-03-30+14.23.08.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_49_2024-03-30+14.23.08.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_64_Photoroom_20250327_105452.png)<br><!-- image:../../assets/designers/ali.wynne.pattern/instagram/ali.wynne.pattern_imageye___-_imgi_64_Photoroom_20250327_105452.png --> | [x] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Alison Moncrieff is a textile artist and quilter based in Oakland, California. Her primary practice centres on hand-stitched and mixed-media quilts made from repurposed cloth. Work has been juried into the Pacific International Quilt Festival (2022) and QuiltCon (2023), with exhibitions in the San Francisco Bay Area since 2014. She maintains a pattern design presence under @ali.wynne.pattern alongside her fine art textile practice.
 
 ## Style and Aesthetic
 
+Moncrieff's aesthetic is tactile and material-led. Her quilts combine hand piecing, hand quilting, and appliqué with found and repurposed fabrics — vintage kimono silk, acetate, nylon flags, and donated cloth. Selected Instagram images suggest pattern design work informed by this material sensibility: organic, handmade compositions with expressive, non-commercial character. She describes an attraction to traditional processes that she then "defies a little."
+
 ## Techniques and Tools
+
+Hand piecing, hand quilting, hand appliqué, hand embroidery, and machine piecing. Works with linen, silk, rayon, polyester, cotton, velvet, and repurposed textiles. Incorporates photographs into works as a memory-based element. Has designed original printed fabric (eucalyptus print, incorporated into a 2025 quilt). Outsources long-arm quilting when appropriate.
 
 ## Markets and Clients
 
+Fine art and exhibition focus. Limited commercial market evidence. Surface pattern design interest indicated by the @ali.wynne.pattern Instagram framing. Open to commissions.
+
 ## Portfolio and Presence
+
+- Website: aliwynne.com (Alison Moncrieff Art)
+- Instagram: @ali.wynne.pattern
 
 ## Career Path
 
+Oakland, California-based textile artist exhibiting in the San Francisco Bay Area since 2014. Juried into Pacific International Quilt Festival (2022) and QuiltCon (2023). Group and solo exhibitions at Abrams Claghorn Gallery (Albany, CA), Epperson Gallery (Crockett, CA), Hidden Villa (Los Altos Hills, CA), and Art Fluent (online). Notable work includes "Dear Virus" (2020), a 100-day Covid diary quilt now in juried exhibition.
+
 ## Pattern Focus
 
+Selected Instagram images suggest pattern design work drawing on the geometric and organic language of quilting — block structures, pieced forms, half-lozenge shapes, and organic compositions. Hand-designed fabric is incorporated into quilts, indicating an active print design practice alongside fibre arts. The pattern work reflects the same material and formal sensibility as the fine art quilts.
+
 ## Connections
+
+- Pacific International Quilt Festival — juried acceptance (2022)
+- QuiltCon — juried acceptance (2023)
+- Art Fluent — online gallery (ongoing)
+- Epperson Gallery, Crockett CA — juried exhibition (2026)

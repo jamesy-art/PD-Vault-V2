@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Victoria Kelland - Pattern Designer
 website_meta_description: >-
   Victoria Kelland is a professional surface pattern designer creating original
@@ -289,11 +291,40 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Victoria Kelland | Surface Pattern Design
+instagram_biography: "Surface Pattern Design • Tech Design • Intimate Apparel/Swimwear Specialist • Perth Australia •\nLicense on Patternbank 10% off INSIDER10 • Links\U0001F447\U0001F3FB"
+instagram_posts_count: 100
+instagram_followers_count: 781
+instagram_follows_count: 1223
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/611328196_18299043655276765_1937188801248099290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF9Y_lO0diybz6om47uNFiC2daAf3QS-Pi9q4FVHtRmTCmheWaIQo7n8Efclrg07TE&_nc_ohc=kma91wnHGJsQ7kNvwGlPyEQ&_nc_gid=d2jk2QLnsivk-C3gMNDjeg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4tn_YywAsMYksdIClvm2GnWwasMiWAs_cCzl_LNQEaPg&oe=6A13EA02&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/611328196_18299043655276765_1937188801248099290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF9Y_lO0diybz6om47uNFiC2daAf3QS-Pi9q4FVHtRmTCmheWaIQo7n8Efclrg07TE&_nc_ohc=kma91wnHGJsQ7kNvwGlPyEQ&_nc_gid=d2jk2QLnsivk-C3gMNDjeg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4tn_YywAsMYksdIClvm2GnWwasMiWAs_cCzl_LNQEaPg&oe=6A13EA02&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8728
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # victoriakelland_patterns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

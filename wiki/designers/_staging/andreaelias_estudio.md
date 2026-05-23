@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Diseño de estampados e Ilustración | Andrea Elias | España
 website_meta_description: >-
   Andrea Elias Estudio en Lleida. Ofrecemos diseño de estampados, ilustraciones,
@@ -278,11 +280,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Diseñadora gráfica e Ilustradora
+instagram_biography: "✨Diseñadora gráfica & artista textil. Creo, enseño y te comparto mis proyectos creativos\U0001F33F"
+instagram_posts_count: 779
+instagram_followers_count: 4000
+instagram_follows_count: 3999
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-3.cdninstagram.com/v/t51.82787-19/689855786_18456477580108065_9142821792318912856_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFG93UggAXdOD4Z1R6uDTDZZVoB2_90BZeuu73GiyKl_MyAfwAdZpxd1Zp9y6YZF3M&_nc_ohc=COK3NbLlDiwQ7kNvwFPjty8&_nc_gid=2oD6YJCOnWFLjUN56q4PJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vXC98h0Sj_TO_H3psZtf8CitDLkB9hxoqXKJLvK5r9g&oe=6A13DB4B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-3.cdninstagram.com/v/t51.82787-19/689855786_18456477580108065_9142821792318912856_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFG93UggAXdOD4Z1R6uDTDZZVoB2_90BZeuu73GiyKl_MyAfwAdZpxd1Zp9y6YZF3M&_nc_ohc=COK3NbLlDiwQ7kNvwFPjty8&_nc_gid=2oD6YJCOnWFLjUN56q4PJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vXC98h0Sj_TO_H3psZtf8CitDLkB9hxoqXKJLvK5r9g&oe=6A13DB4B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4424
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # andreaelias_estudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

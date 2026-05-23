@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Handmade handbags and accessories | Jennifer Ladd
 website_meta_description: >-
   Jennifer Ladd offers handmade handbags, accessories, and home goods that are
@@ -137,11 +139,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Jennifer Ladd
+instagram_biography: "Surface pattern designer \U0001F338 Handmade goods\n\U0001F33F Bringing a little happiness into this world, one colorful design at a time"
+instagram_posts_count: 486
+instagram_followers_count: 1288
+instagram_follows_count: 697
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/438442398_1148310573183101_1989773608948704101_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGLQs7gPLsRNd8Qwv2ol4oGhQjREj9QfHCW5sNVunrhrSs3IzFawTdlsx-NuBrJeW4&_nc_ohc=vyNhQ0sjxEsQ7kNvwERkbux&_nc_gid=O2uPmWCNaQqSpPrEGD_Zcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af62NUrel7yD_2oocNuw_khoT9c3Yyc2wY8T1wReyRPysg&oe=6A13E422&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/438442398_1148310573183101_1989773608948704101_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGLQs7gPLsRNd8Qwv2ol4oGhQjREj9QfHCW5sNVunrhrSs3IzFawTdlsx-NuBrJeW4&_nc_ohc=vyNhQ0sjxEsQ7kNvwERkbux&_nc_gid=O2uPmWCNaQqSpPrEGD_Zcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af62NUrel7yD_2oocNuw_khoT9c3Yyc2wY8T1wReyRPysg&oe=6A13E422&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 10121
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jenniferladdhandmade
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -42,15 +42,45 @@ website_images:
 tags:
   - pattern_designer
   - level_1
+  - has_instagram_profile
+  - has_profile_image
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Kelis Akua-Tima Darko
+instagram_biography: "WOMENSWEAR | TEXTILE + PRINT DESIGNER\n✨Made to order silk squares ✨\nOpen to commissions and collaborations \U0001F339\nDm for enquiries"
+instagram_posts_count: 71
+instagram_followers_count: 474
+instagram_follows_count: 852
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/491426024_18061029764510443_9133090280832975344_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGeKcWpCnzHZVlOPrWA5IsIrLhHc1hBI2p5c0-BaIYXP8wo5MdDk5i2zNNIOMqRoz8&_nc_ohc=4VTTM2OD8N8Q7kNvwH85gMd&_nc_gid=F9b-StQaGb7Lofe2z06Uzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af440lPxn6zljLAYoBVdxga3i5nIve18oWQVihIpUIQ-3g&oe=6A13DD7B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/491426024_18061029764510443_9133090280832975344_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGeKcWpCnzHZVlOPrWA5IsIrLhHc1hBI2p5c0-BaIYXP8wo5MdDk5i2zNNIOMqRoz8&_nc_ohc=4VTTM2OD8N8Q7kNvwH85gMd&_nc_gid=F9b-StQaGb7Lofe2z06Uzg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af440lPxn6zljLAYoBVdxga3i5nIve18oWQVihIpUIQ-3g&oe=6A13DD7B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/akuatextiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6479
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/akuatextiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/akuatextiles/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/akuatextiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # akuatextiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/akuatextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

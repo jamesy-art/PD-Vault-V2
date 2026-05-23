@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Dandymark Creative - Patterns, Illustration, and Lettering Design | Design and
   Illustration for Products
@@ -274,11 +276,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Dandymark Creative
+instagram_biography: |-
+  ✷ Art goods + surface design
+  ✷ Folk meets graphic
+  ✷ Stickers • Prints • Licensing
+  ⬇️ Shop + work with me
+instagram_posts_count: 79
+instagram_followers_count: 141
+instagram_follows_count: 696
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/499888001_18026062853676493_7980367617254636631_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjYuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEHaN8jLKBiSxLJJmfO2wwxFfi521U6BnCbqxh_nm12O4bVhQZxqx3bPbWtONMhtwo&_nc_ohc=LIof9ur-RvcQ7kNvwGLC6VD&_nc_gid=FCLVu0IbbCXlutKQ2wpUtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4isRlD5jhcI-LI9apIXAtjyxhCrgNscX24powNXb73IQ&oe=6A13D134&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/499888001_18026062853676493_7980367617254636631_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjYuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEHaN8jLKBiSxLJJmfO2wwxFfi521U6BnCbqxh_nm12O4bVhQZxqx3bPbWtONMhtwo&_nc_ohc=LIof9ur-RvcQ7kNvwGLC6VD&_nc_gid=FCLVu0IbbCXlutKQ2wpUtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4isRlD5jhcI-LI9apIXAtjyxhCrgNscX24powNXb73IQ&oe=6A13D134&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4754
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # dandymarkcreative
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

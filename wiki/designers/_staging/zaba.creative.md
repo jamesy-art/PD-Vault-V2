@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Zaba Creative
 website_meta_description: ''
 website_about_raw: >-
@@ -215,11 +217,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ZABA CREATIVE
+instagram_biography: "Surface Pattern Designer | Illustrator | Maker | Licensing Available |\n\U0001F3A8Bold Colorful Patterns | \U0001F33FNature Inspired Design | \nCollections Below ⬇️"
+instagram_posts_count: 129
+instagram_followers_count: 439
+instagram_follows_count: 1088
+instagram_private: false
+instagram_verified: true
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/640980085_17998089227883487_1267003401820095591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFRiDkRtoOA1eo_fc9zMjBF-ZnunNkxJU_oPkcKyLoEHI1npX28MMkMC4Zc5RIywr8&_nc_ohc=IwG-wL9dpMMQ7kNvwGdX2cW&_nc_gid=TS-8pLPfpnJyjKcEq0r_4Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7IpwWX0TRJ3J06FTMt1xep_jr9ppqSi5LayzrF1O66aQ&oe=6A13F6FE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/640980085_17998089227883487_1267003401820095591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFRiDkRtoOA1eo_fc9zMjBF-ZnunNkxJU_oPkcKyLoEHI1npX28MMkMC4Zc5RIywr8&_nc_ohc=IwG-wL9dpMMQ7kNvwGdX2cW&_nc_gid=TS-8pLPfpnJyjKcEq0r_4Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7IpwWX0TRJ3J06FTMt1xep_jr9ppqSi5LayzrF1O66aQ&oe=6A13F6FE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6558
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # zaba.creative
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/zaba.creative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

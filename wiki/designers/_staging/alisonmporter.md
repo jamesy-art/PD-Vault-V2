@@ -28,7 +28,7 @@ bio: ''
 website: 'https://alisonporterdesign.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/alisonmporter
 profile_url: ''
 instagram_images:
@@ -45,7 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: ILLUSTRATION | Alison Porter
 website_meta_description: ''
 website_about_raw: >-
@@ -273,34 +278,216 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Alison Porter
+instagram_biography: >-
+  Graphic Designer & Illustrator. Available for commissions, licensing and
+  collaborations. All images © Alison Porter
+instagram_posts_count: 327
+instagram_followers_count: 625
+instagram_follows_count: 814
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/73455969_2734077846635202_1215596897205485568_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjQuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHp_95qa3PPDIthFSOtyZn4L26vPEY3jhF7SFHlgVe_Yh-z_yaZFINk3FeAVs49X08&_nc_ohc=pr95jVg5D-YQ7kNvwEnKshA&_nc_gid=8bm3OeVrjLcoNE8kTrXIbA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4tDdJVdePjCOgSB6jVo_udG3Qbx8B0i5oTHmXh38xwHw&oe=6A13DA01&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/73455969_2734077846635202_1215596897205485568_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjQuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHp_95qa3PPDIthFSOtyZn4L26vPEY3jhF7SFHlgVe_Yh-z_yaZFINk3FeAVs49X08&_nc_ohc=pr95jVg5D-YQ7kNvwEnKshA&_nc_gid=8bm3OeVrjLcoNE8kTrXIbA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4tDdJVdePjCOgSB6jVo_udG3Qbx8B0i5oTHmXh38xwHw&oe=6A13DA01&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/alisonmporter/profile/73455969_2734077846635202_1215596897205485568_n.jpg
+instagram_profile_image_bytes: 45056
+instagram_profile_image_quality: medium
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/alisonmporter/profile/73455969_2734077846635202_1215596897205485568_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/alisonmporter/profile/73455969_2734077846635202_1215596897205485568_n.jpg
+profile_image_local: >-
+  ../../assets/designers/alisonmporter/profile/73455969_2734077846635202_1215596897205485568_n.jpg
+images:
+  profile:
+    - >-
+      ../../assets/designers/alisonmporter/profile/73455969_2734077846635202_1215596897205485568_n.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736755207754_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736771987622_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1622824454_2588761610140894724_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1627743416_2630024854696997816_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858444550717_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858704693730_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387669816465_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387837462843_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387871178398_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387871201981_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166067796264950_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068039605312_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068047794523_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068064541364_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1710442047_3323751257032268405_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1714664494_3359171704674462234_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1714840007_3360644016426938370_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977185871728_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977446030421_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1733420631_3516509586677393885_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1733420631_3516509586685744487_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1750173136_3657039784366892743_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806580980216_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806841129071_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806841236145_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1766653657_3795288416674668961_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1775498553_3869481246758034909_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1775498778_3869485305737050119_10842245928.jpg
+instagram_image_count: 28
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736771987622_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858704693730_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387837462843_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166067796264950_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068064541364_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1714664494_3359171704674462234_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977446030421_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806580980216_10842245928.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1627743416_2630024854696997816_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1766653657_3795288416674668961_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1775498553_3869481246758034909_10842245928.jpg
+  - >-
+    ../../assets/designers/alisonmporter/instagram/alisonmporter_1775498778_3869485305737050119_10842245928.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # alisonmporter
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/alisonmporter/profile/73455969_2734077846635202_1215596897205485568_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736755207754_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736755207754_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736771987622_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1606829920_2454589736771987622_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1622824454_2588761610140894724_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1622824454_2588761610140894724_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1627743416_2630024854696997816_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1627743416_2630024854696997816_10842245928.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858444550717_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858444550717_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858704693730_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1642785960_2756210858704693730_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387669816465_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387669816465_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387837462843_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387837462843_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387871178398_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387871178398_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387871201981_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1669917103_2983803387871201981_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166067796264950_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166067796264950_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068039605312_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068039605312_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068047794523_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068047794523_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068064541364_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1691775638_3167166068064541364_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1710442047_3323751257032268405_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1710442047_3323751257032268405_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1714664494_3359171704674462234_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1714664494_3359171704674462234_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1714840007_3360644016426938370_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1714840007_3360644016426938370_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977185871728_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977185871728_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977446030421_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1732729740_3510713977446030421_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1733420631_3516509586677393885_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1733420631_3516509586677393885_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1733420631_3516509586685744487_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1733420631_3516509586685744487_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1750173136_3657039784366892743_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1750173136_3657039784366892743_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806580980216_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806580980216_10842245928.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806841129071_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806841129071_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806841236145_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1752823638_3679273806841236145_10842245928.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1766653657_3795288416674668961_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1766653657_3795288416674668961_10842245928.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1775498553_3869481246758034909_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1775498553_3869481246758034909_10842245928.jpg --> | [ ] | [x] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/alisonmporter/instagram/alisonmporter_1775498778_3869485305737050119_10842245928.jpg)<br><!-- image:../../assets/designers/alisonmporter/instagram/alisonmporter_1775498778_3869485305737050119_10842245928.jpg --> | [ ] | [x] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Alison Porter is a freelance graphic designer and illustrator based in London. She holds a BA Hons in 3-dimensional design and a master's degree in Industrial Design from the Royal College of Art. Her career spans toy design, fine art publishing, luxury stationery, and greeting card production — giving her a broad commercial range across surface pattern design, illustration, and licensing.
 
 ## Style and Aesthetic
 
+Porter's work is graphically precise and meticulous in detail. Her pattern and illustration output spans a wide decorative range — birds, botanicals, geometric and folk motifs, seasonal and occasion subjects — evidenced by an extensive named collection portfolio on her website. Palette and subject matter show flexibility across markets, from British wildlife (RSPB) to luxury goods (Aspinal of London) to occasion stationery (Clintons).
+
 ## Techniques and Tools
+
+Mixed media: ink, line work, oil pastels, and collage alongside iPad and Adobe Illustrator. Self-taught in embroidery and appliqué. Skills listed include illustration, painting, hand lettering, graphic design, pattern design, market adaptation, licensing basics, and client collaboration.
 
 ## Markets and Clients
 
+- Stationery / greeting cards — Clintons, Woodmansterne Publications Ltd, International Cards & Gifts Ltd, Mount Street Printers
+- Fashion / lifestyle — Aspinal of London, Elle Media Group
+- Conservation / gifts — The RSPB
+- [[Spoonflower]] — fabric and card sales available
+- Open to licensing (stated on website)
+
 ## Portfolio and Presence
+
+- Website: alisonporterdesign.com
+- Instagram: @alisonmporter (625 followers, 327 posts)
+- Instagram: @doodlesbyalip (second account)
+- [[Spoonflower]] — fabric available for purchase
 
 ## Career Path
 
+BA Hons in 3-dimensional design, followed by an MA in Industrial Design at the Royal College of Art. First role: designing Polly Pocket play-sets for Bluebird Toys. Subsequent positions include product design manager at The Medici Society (fine art publishers), designer at The Greetings Factory, and senior graphic designer at Smythson — where she created seasonal paper product collections including the Smythson diary. Also ran her own handmade greeting card company. Now freelance, open to licensing commissions.
+
 ## Pattern Focus
 
+Extensive named collection portfolio spanning: botanical florals, folk motifs, seasonal themes, British wildlife (Moonlit Owls, Twelve Birds of Christmas, Seabirds, Puffin Colony), geometric designs, and occasion prints (Birthday, Christmas, Wedding). Work spans fabric, stationery, and gifting applications. Mock-ups via Spoonflower confirm fabric format awareness.
+
 ## Connections
+
+- [[Smythson]] — former senior graphic designer
+- [[Spoonflower]] — portfolio and retail presence
+- The RSPB — confirmed client
+- Clintons — confirmed client
+- Aspinal of London — confirmed client
+- Woodmansterne Publications Ltd — confirmed client

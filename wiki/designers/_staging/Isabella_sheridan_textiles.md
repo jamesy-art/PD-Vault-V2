@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Beige Minimalist Creative Agency Website Desktop Prototype
 website_meta_description: ''
 website_about_raw: >-
@@ -142,11 +144,45 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Isabella Sheridan Textile Designer
+instagram_biography: |-
+  Textile BA (Hons ) Degree 
+  Owner of @isabellasheridan__
+instagram_posts_count: 96
+instagram_followers_count: 364
+instagram_follows_count: 299
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/499789931_18007395182771332_6658258854605447755_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGE6hf6dTye3f7SAQXJshUenVKB3CaGKyjQg-pUZKuFKZ5upnF42Pgiegwl_aviIMs&_nc_ohc=pM6sxWhM5KcQ7kNvwH1uogG&_nc_gid=lpygdUBp12ELH66XAZmBow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4EOwADfCJJi2_XRmtRRhPzK54lBWSfZ9FlMSkbXOIYdQ&oe=6A13DD6D&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/499789931_18007395182771332_6658258854605447755_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGE6hf6dTye3f7SAQXJshUenVKB3CaGKyjQg-pUZKuFKZ5upnF42Pgiegwl_aviIMs&_nc_ohc=pM6sxWhM5KcQ7kNvwH1uogG&_nc_gid=lpygdUBp12ELH66XAZmBow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4EOwADfCJJi2_XRmtRRhPzK54lBWSfZ9FlMSkbXOIYdQ&oe=6A13DD6D&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/isabella_sheridan_textiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7215
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/isabella_sheridan_textiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/isabella_sheridan_textiles/profile/instagram-profile.jpg
+profile_image_local: >-
+  ../../assets/designers/isabella_sheridan_textiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # isabella_sheridan_textiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/isabella_sheridan_textiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

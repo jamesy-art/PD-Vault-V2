@@ -38,6 +38,7 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
 website_title: Outsider Art House Outsider Art House
 website_meta_description: >-
   Outsider Art House is artist John Hamster's storefront, featuring patterns,
@@ -118,11 +119,37 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: adaptations
+instagram_biography: "Colorful, meaningful art & patterns created by artist @johnhamster & brought to life by his wife & partner, Lindsey! \n\U0001F495✨A Philly based family affair✨\U0001F495"
+instagram_posts_count: 222
+instagram_followers_count: 489
+instagram_follows_count: 746
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fmem1-2.fna.fbcdn.net/v/t51.2885-19/160814965_3855842084532128_4492094962309093402_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gECDMYFf0p-TkAD0BFMwf6-m56ZTlQqHlN358JStyztMC4a0iHM5Jcl41u70yfJKHI&_nc_ohc=nGsvDFcHYLIQ7kNvwF7kaDd&_nc_gid=Vw7XkEfRl-ft-8ICBQhp_g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6tD6JoxJNGPPFM3-w9s6FXz9lhXIQHjlGINcv6WGebIQ&oe=6A13E4BB&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # adaptationsdesigns
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

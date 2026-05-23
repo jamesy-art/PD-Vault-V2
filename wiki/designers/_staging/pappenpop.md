@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Inicio - Pappenpop
 website_meta_description: Mi nombre es Paula Pappenheim
 website_about_raw: >-
@@ -234,11 +236,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: "\U0001D5E3 \U0001D5D4 \U0001D5E3 \U0001D5E3 \U0001D5D8 \U0001D5E1 \U0001D5E3 \U0001D5E2 \U0001D5E3 ®"
+instagram_biography: |-
+  #illustration #design #patterndesign •Working for @vlisco 
+  Fashion•Accessories•Home
+  Textiles•Wallpapers•Tiles•Rugs•Porcelains•Packaging•
+instagram_posts_count: 879
+instagram_followers_count: 1674
+instagram_follows_count: 4856
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/354420015_2901752739954892_2486463418054475742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFEhojo9BjBV0lPoFwqZQSrSYBwvsBbQtkOfkve798rZsYBXCmwUw8bVjyPJYX9s54&_nc_ohc=gytrNPqSsEkQ7kNvwEapyhe&_nc_gid=nkO8XDlPC0XJYfr6uT-moQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5nfrfVDUjc8swoXMweTbkqI9ijyJRFudNN_LMYapjvbQ&oe=6A1403D1&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/354420015_2901752739954892_2486463418054475742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFEhojo9BjBV0lPoFwqZQSrSYBwvsBbQtkOfkve798rZsYBXCmwUw8bVjyPJYX9s54&_nc_ohc=gytrNPqSsEkQ7kNvwEapyhe&_nc_gid=nkO8XDlPC0XJYfr6uT-moQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5nfrfVDUjc8swoXMweTbkqI9ijyJRFudNN_LMYapjvbQ&oe=6A1403D1&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/pappenpop/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 9951
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/pappenpop/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/pappenpop/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/pappenpop/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # pappenpop
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pappenpop/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

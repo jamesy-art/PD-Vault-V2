@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Naturally Antique Art Studio | premium quality floral illustrations
 website_meta_description: >-
   Naturally Antique Art Studio designs floral fabric, wallpaper & wall decor for
@@ -67,11 +69,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Jesika Neemann | Naturally Antique Art Studio
+instagram_biography: >-
+  Licensed Wallpaper, Bedding & Home Goods Surface Pattern Designer - Maximalist
+  florals hand-drawn with a vintage flair. Co-Founder of @artdesk.app
+instagram_posts_count: 1180
+instagram_followers_count: 705
+instagram_follows_count: 734
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/702223983_18599473246001204_966531322675547852_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEAPqwsJcYFhG4UPbUM91-XHW1Za6RdEDi2jBiPDLdtNHM3oX_0aG8MUnPSK8BJmI4&_nc_ohc=JJqoeGkk4kIQ7kNvwEYNDcJ&_nc_gid=8EtK2q838eJUNN7Fb1eRdA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5YAYzhjC3x4mEtLufzk5Cp_tXtpVlmlJm-zlZdBmZFSw&oe=6A13EC1C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/702223983_18599473246001204_966531322675547852_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEAPqwsJcYFhG4UPbUM91-XHW1Za6RdEDi2jBiPDLdtNHM3oX_0aG8MUnPSK8BJmI4&_nc_ohc=JJqoeGkk4kIQ7kNvwEYNDcJ&_nc_gid=8EtK2q838eJUNN7Fb1eRdA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5YAYzhjC3x4mEtLufzk5Cp_tXtpVlmlJm-zlZdBmZFSw&oe=6A13EC1C&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5212
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # naturally_antique
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/naturally_antique/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

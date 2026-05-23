@@ -23,7 +23,7 @@ bio: ''
 website: 'https://12amtoday.com'
 website_about: ''
 accepted: 19/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/12amtoday
 profile_url: ''
 instagram_images:
@@ -40,7 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 12 AM Today
 website_meta_description: >-
   12 AM Today is a digital product agency that focuses on branding and design,
@@ -288,34 +293,178 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: 12 AM TODAY
+instagram_biography: "Creative studio focused on international projects in art, design and fashion industry\n\U0001F4CDEverywhere"
+instagram_posts_count: 241
+instagram_followers_count: 816
+instagram_follows_count: 1062
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/61557307_380927149438040_2829140991334678528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTguYzIifQ&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENhmTrVUt2l2qm_5ChsBkA-dGUVYSMRmyLlSJGjMpYLfFekWds-sFOdWfjjWb_xg8&_nc_ohc=G3GA7LqlXyEQ7kNvwHFiEA7&_nc_gid=cYEsBcRDOmVF-ocJkfoxWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7pW-Shx4Y7WhbcFhhHhkr51k2tDeQNz_K4Jgi6ErMjjw&oe=6A13FFEA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/61557307_380927149438040_2829140991334678528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTguYzIifQ&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gENhmTrVUt2l2qm_5ChsBkA-dGUVYSMRmyLlSJGjMpYLfFekWds-sFOdWfjjWb_xg8&_nc_ohc=G3GA7LqlXyEQ7kNvwHFiEA7&_nc_gid=cYEsBcRDOmVF-ocJkfoxWA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7pW-Shx4Y7WhbcFhhHhkr51k2tDeQNz_K4Jgi6ErMjjw&oe=6A13FFEA&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/12amtoday/profile/61557307_380927149438040_2829140991334678528_n.jpg
+instagram_profile_image_bytes: 2802
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/12amtoday/profile/61557307_380927149438040_2829140991334678528_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/12amtoday/profile/61557307_380927149438040_2829140991334678528_n.jpg
+profile_image_local: >-
+  ../../assets/designers/12amtoday/profile/61557307_380927149438040_2829140991334678528_n.jpg
+images:
+  profile:
+    - ../../assets/designers/12amtoday/profile/instagram-profile.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1462465494_1243573163970965554_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1464794134_1263107209503617755_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1470472808_1310743380569148827_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1477163490_1366868885026829058_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1477164383_1366876375273697064_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1487947882_1457334919674987601_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1490558149_1479231428050002462_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1494399805_1511457574665499222_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1494881100_1515494966858866579_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1502455849_1579036572095322488_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886098165672_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886114810900_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886123279772_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664932113781_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664949023218_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664957244506_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664965763239_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1585080946_2272146116705744864_1119063243.jpg
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1464794134_1263107209503617755_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1470472808_1310743380569148827_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1477163490_1366868885026829058_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1477164383_1366876375273697064_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1487947882_1457334919674987601_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1494399805_1511457574665499222_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1494881100_1515494966858866579_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1585080946_2272146116705744864_1119063243.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1490558149_1479231428050002462_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1502455849_1579036572095322488_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664932113781_1119063243.jpg
+  - >-
+    ../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664957244506_1119063243.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # 12amtoday
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/12amtoday/profile/61557307_380927149438040_2829140991334678528_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1462465494_1243573163970965554_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1462465494_1243573163970965554_1119063243.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1464794134_1263107209503617755_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1464794134_1263107209503617755_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1470472808_1310743380569148827_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1470472808_1310743380569148827_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1477163490_1366868885026829058_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1477163490_1366868885026829058_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1477164383_1366876375273697064_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1477164383_1366876375273697064_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1487947882_1457334919674987601_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1487947882_1457334919674987601_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1490558149_1479231428050002462_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1490558149_1479231428050002462_1119063243.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1494399805_1511457574665499222_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1494399805_1511457574665499222_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1494881100_1515494966858866579_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1494881100_1515494966858866579_1119063243.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1502455849_1579036572095322488_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1502455849_1579036572095322488_1119063243.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886098165672_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886098165672_1119063243.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886114810900_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886114810900_1119063243.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886123279772_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1544801649_1934258886123279772_1119063243.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664932113781_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664932113781_1119063243.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664949023218_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664949023218_1119063243.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664957244506_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664957244506_1119063243.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664965763239_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1552055508_1995108664965763239_1119063243.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/12amtoday/instagram/12amtoday_1585080946_2272146116705744864_1119063243.jpg)<br><!-- image:../../assets/designers/12amtoday/instagram/12amtoday_1585080946_2272146116705744864_1119063243.jpg --> | [x] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+12 AM Today is a multi-discipline creative studio and digital product agency co-founded by Iulia Bors, operating from Bretagne, France and Bucharest, Romania. The studio offers a full-spectrum design service including surface pattern design, visual identity, packaging, UI/UX, content creation, and environmental design for international clients. 10+ years of experience in surface pattern design, with delivery across textiles, wallpapers, and video-mappings. Instagram identifies the studio as focused on international projects in art, design, and fashion.
 
 ## Style and Aesthetic
 
+Selected Instagram pattern images suggest a range spanning graphic, illustrated, and abstract pattern directions. The studio's positioning is narrative-led: it frames pattern design as visual storytelling and brand-identity work ("Identity as a pattern"), integrating both craft-based technique and AI-augmented creativity under its proprietary "Narr(AI)tive Design™" methodology. The aesthetic output serves branding, fashion, and cultural institutions.
+
 ## Techniques and Tools
+
+Full-service digital studio. Surface pattern production spans textiles, wallpapers, and video-mapping. The studio experiments with sustainable materials and craft techniques. AI integration is positioned as a core capability for storytelling-driven visual content alongside traditional design methods.
 
 ## Markets and Clients
 
+International brand and cultural clients across fashion, arts, and regional identity sectors. Documented work includes regional branding for Autour du Louvre Lens (ALL), France. The studio operates across surface pattern, packaging, UI/UX, and social media — with pattern design embedded within broader brand identity projects. Selected placement images suggest fashion and cultural sector applications.
+
 ## Portfolio and Presence
+
+- Website: https://12amtoday.com
+- Instagram: @12amtoday
+- Contact (France): Iulia Bors — ib@12amtoday.com
+- Contact (Romania): Dima Bors — dima@myway.design
 
 ## Career Path
 
+Co-founded by Iulia Bors (France) and Dima Bors (Romania). The creative director background spans 15+ years. The studio maintains physical presence in both France (Bretagne) and Romania (Bucharest), reflecting an international operating model.
+
 ## Pattern Focus
 
+Selected pattern images suggest a graphic-led pattern vocabulary — likely applied to fashion, branding, and cultural projects. The studio explicitly delivers patterns across textiles, wallpapers, and video-mappings. Pattern work is positioned as integral to brand identity development rather than as a standalone licensing service.
+
 ## Connections
+
+- [[Autour du Louvre Lens]]
+- [[Wallpaper Market]]
+- [[Textile Design]]
+- [[Visual Identity]]
+- [[Fashion Market]]

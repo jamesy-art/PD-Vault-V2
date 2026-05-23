@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Art
 website_meta_description: >-
   Surface patterns all in vectors for apparel, home decor, stationary and
@@ -237,11 +239,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Nina Leth
+instagram_biography: "Artist - paintings and ceramics.      Prints on Spoonflower\U0001F3FA.     Represented @the.ode.to @kbh_kunst @minted  @gallerinijenkamp     www.ninaleth.com"
+instagram_posts_count: 730
+instagram_followers_count: 3634
+instagram_follows_count: 601
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-phx1-1.cdninstagram.com/v/t51.82787-19/655208879_18578202775028163_2597501866009815481_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGJMmTgRWyIUO_XyAcOlE0Nes_QyW6dFFbXlXPjOhvYVIXip25JmwBpKl7FjOFIWM8&_nc_ohc=RFqp7zsCuFUQ7kNvwFCiB0n&_nc_gid=_4fpyA7-9XSWBRn6ZUW-yQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ek_nvsItU8-ch7YR4LLIUkuM9R0OYKJAWwUCFPLq5Qg&oe=6A13D01C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-phx1-1.cdninstagram.com/v/t51.82787-19/655208879_18578202775028163_2597501866009815481_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGJMmTgRWyIUO_XyAcOlE0Nes_QyW6dFFbXlXPjOhvYVIXip25JmwBpKl7FjOFIWM8&_nc_ohc=RFqp7zsCuFUQ7kNvwFCiB0n&_nc_gid=_4fpyA7-9XSWBRn6ZUW-yQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ek_nvsItU8-ch7YR4LLIUkuM9R0OYKJAWwUCFPLq5Qg&oe=6A13D01C&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/flyingwall/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4933
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/flyingwall/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/flyingwall/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/flyingwall/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # flyingwall
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/flyingwall/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

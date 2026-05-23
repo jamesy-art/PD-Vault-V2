@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Josie Bel | Pattern designer
 website_meta_description: >-
   Je suis Joséphine Belloeil aka Josie Bel, pattern designer et créatrice
@@ -270,11 +272,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Joséphine Belloeil • Pattern Designer
+instagram_biography: "\U0001F308 French pattern designer & Textile creator \n\U0001F1EB\U0001F1F7 Lyon | Savoie\n\U0001F48C belloeiljosephine@gmail.com\nInfos + e-shop \U0001F447"
+instagram_posts_count: 187
+instagram_followers_count: 8707
+instagram_follows_count: 1194
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fhsv1-1.fna.fbcdn.net/v/t51.2885-19/434139739_1470195516911100_4972341219841318208_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fhsv1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFkQqVOsQsZcYOfSY4EWP0zTU4lTn-NfVnpBsE07fNvMn7uT0MhOTgELP60NUzeE4E&_nc_ohc=IUyfGI7nJooQ7kNvwGyPrDv&_nc_gid=NOsVUPU-8JxMnhdKVM0Hgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42ClZKLjAowlTxra9avaP4wMVVpSREerkw5OkGwLLgLg&oe=6A13E971&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fhsv1-1.fna.fbcdn.net/v/t51.2885-19/434139739_1470195516911100_4972341219841318208_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fhsv1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFkQqVOsQsZcYOfSY4EWP0zTU4lTn-NfVnpBsE07fNvMn7uT0MhOTgELP60NUzeE4E&_nc_ohc=IUyfGI7nJooQ7kNvwGyPrDv&_nc_gid=NOsVUPU-8JxMnhdKVM0Hgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42ClZKLjAowlTxra9avaP4wMVVpSREerkw5OkGwLLgLg&oe=6A13E971&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/josie.bel/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7283
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/josie.bel/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/josie.bel/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/josie.bel/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # josie.bel
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/josie.bel/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

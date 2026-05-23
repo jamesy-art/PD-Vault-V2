@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   MacaPatterns – Timeless Patterns, Nature’s Charm: A Fusion of Heritage and
   Modern Elegance
@@ -273,11 +275,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Mariana Campos | Surface Pattern Design
+instagram_biography: |-
+  Home + Wallpaper + Fashion 
+  Mexican/Spanish charm ✨
+  Let’s work together!
+instagram_posts_count: 53
+instagram_followers_count: 942
+instagram_follows_count: 1524
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/459397508_381557948336709_1123227744048069567_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHPglxsxMGxsL1T7pN-b-GvIt7NCXPuMCqAIZdSYYxnb4_vqojdZI1VoUVM6BJnhbE&_nc_ohc=ghw_0ZRL8McQ7kNvwHyUxLz&_nc_gid=n2tyuCOTRpINEl5WbnCRrA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7P4sV6MRcmcrlXnvnwmZzq26ZdmY4sg7jQOQTi9kGQmQ&oe=6A13DC1A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/459397508_381557948336709_1123227744048069567_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHPglxsxMGxsL1T7pN-b-GvIt7NCXPuMCqAIZdSYYxnb4_vqojdZI1VoUVM6BJnhbE&_nc_ohc=ghw_0ZRL8McQ7kNvwHyUxLz&_nc_gid=n2tyuCOTRpINEl5WbnCRrA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7P4sV6MRcmcrlXnvnwmZzq26ZdmY4sg7jQOQTi9kGQmQ&oe=6A13DC1A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/macapatterns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4972
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/macapatterns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/macapatterns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/macapatterns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # macapatterns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/macapatterns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

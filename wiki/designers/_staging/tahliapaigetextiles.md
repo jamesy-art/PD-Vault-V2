@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Tahlia Paige Gifts and Accessories
 website_meta_description: >-
   Gifts and accessories in bespoke designed fabrics inspired by endangered
@@ -250,11 +252,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Tahlia Paige - Surface Pattern Designer and Maker
+instagram_biography: "Welsh Surface Pattern Designer + Maker \U0001FAA1\nHandmade Gifts inspired by nature and wildlife \U0001F994\U0001F43F\U0001F33F\nWholesale Available\nOpen to freelance + licensing \U0001F3A8"
+instagram_posts_count: 926
+instagram_followers_count: 1653
+instagram_follows_count: 2114
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/486442872_958952003069246_1614011815803081451_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGcRGKX4RlEA6nQUrv2uc7AHPBcBmXhM6IN3Z4zLvNfH7s6Zk_7GyjmM4Sqb3ueGnE&_nc_ohc=fKSM6eTYt6gQ7kNvwFBHZCS&_nc_gid=5JH_SATELK8YZdcyR9TH3g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wu9ag_Fngp3-s5A4nVnT24_4bNziYMN6vlvDH41T9ow&oe=6A13E1D2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/486442872_958952003069246_1614011815803081451_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGcRGKX4RlEA6nQUrv2uc7AHPBcBmXhM6IN3Z4zLvNfH7s6Zk_7GyjmM4Sqb3ueGnE&_nc_ohc=fKSM6eTYt6gQ7kNvwFBHZCS&_nc_gid=5JH_SATELK8YZdcyR9TH3g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wu9ag_Fngp3-s5A4nVnT24_4bNziYMN6vlvDH41T9ow&oe=6A13E1D2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3757
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # tahliapaigetextiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

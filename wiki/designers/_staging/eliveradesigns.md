@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: EliveraDesigns | Discover Unique Patterns – Get Inspired Now
 website_meta_description: >-
   Explore vibrant surface pattern designs, collections, and illustrations for
@@ -283,11 +285,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Elena Veronica
+instagram_biography: "Surface Pattern Designer & Illustrator\nLicensing & Collaborations open\n\U0001F4E7 eliveradesigns@gmail.com\nLinks ↷"
+instagram_posts_count: 175
+instagram_followers_count: 3888
+instagram_follows_count: 1897
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fmto1-1.fna.fbcdn.net/v/t51.2885-19/381210225_683713286725920_5827782689800817431_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjIuYzIifQ&_nc_ht=instagram.fmto1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gHzFvxrOVKWCsJwth7LqfBMv2M8f7RoOx10WmEl2WZHkODzLUadOXYPWAyZOXYKEzE&_nc_ohc=d0AUzcuY6yMQ7kNvwEL13yp&_nc_gid=QIIU_xBp-90rgr_gSDaSvQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5sHQYs6pJD-OepTIy3Bt3CEmfTmYnZAqu2_rf2NNYKFg&oe=6A13E91C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fmto1-1.fna.fbcdn.net/v/t51.2885-19/381210225_683713286725920_5827782689800817431_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjIuYzIifQ&_nc_ht=instagram.fmto1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gHzFvxrOVKWCsJwth7LqfBMv2M8f7RoOx10WmEl2WZHkODzLUadOXYPWAyZOXYKEzE&_nc_ohc=d0AUzcuY6yMQ7kNvwEL13yp&_nc_gid=QIIU_xBp-90rgr_gSDaSvQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5sHQYs6pJD-OepTIy3Bt3CEmfTmYnZAqu2_rf2NNYKFg&oe=6A13E91C&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/eliveradesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6355
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/eliveradesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/eliveradesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/eliveradesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # eliveradesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/eliveradesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | Ember Illustrates
 website_meta_description: >-
   Lauren Ember Illustrates, an illustrator and ceramicist based in Plymouth who
@@ -294,11 +296,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Lauren Ember | Illustrator
+instagram_biography: "\U0001F353 Illustrator from Devon\n\U0001F33F Colourful handmade items\n\U0001F31F Patterns, Cards, Prints & more!\n\U0001F48C Open for commissions!"
+instagram_posts_count: 161
+instagram_followers_count: 502
+instagram_follows_count: 621
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/531432501_18070608224326604_2152487588980898311_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHiTnMEAFkvngAJQfG4CeME6K19STg156RxREJEG-RGLy9-dd6AcZTRN14ZVjoWTps&_nc_ohc=AcqFbMTlP2kQ7kNvwGVdiGB&_nc_gid=RF1mMaKqrHCdGr-AYm4u-g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5NGTZ_WDrePnmTeuhphDYEsUSm6ysok0d0k7PpRIAygQ&oe=6A13F5FF&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/531432501_18070608224326604_2152487588980898311_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHiTnMEAFkvngAJQfG4CeME6K19STg156RxREJEG-RGLy9-dd6AcZTRN14ZVjoWTps&_nc_ohc=AcqFbMTlP2kQ7kNvwGVdiGB&_nc_gid=RF1mMaKqrHCdGr-AYm4u-g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5NGTZ_WDrePnmTeuhphDYEsUSm6ysok0d0k7PpRIAygQ&oe=6A13F5FF&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8250
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # emberillustrates
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emberillustrates/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Paula Freeman Art | painting beach house ocean | Poquoson, VA, USA'
 website_meta_description: >-
   artwork, beach house fine art painting on canvas and watercolors based on
@@ -74,11 +76,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Paula Freeman
+instagram_biography: "Fine Artist Creating Coastal Art & Home Decor \n\U0001F3A8Licensed Artist | Designer Ready Collections\nGet 20% off Your First Purchase ⬇️"
+instagram_posts_count: 827
+instagram_followers_count: 1589
+instagram_follows_count: 4593
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.82787-19/670781029_18392927269154488_4331779046215446248_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEyTeutYs_qHJOoy7kKcFwa1tIA42BHNEbdUi9la7JV79JLVc-Jbdmi-UmzeTEVLAk&_nc_ohc=blvCVWTWUbwQ7kNvwGkLDeQ&_nc_gid=g7C1DVkGuFQaGkYYRNSDeg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6o9UH2sV63jqy2zpKu5ux1s2b5zPrkwc2e4DsqIpBb4A&oe=6A13D5BF&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.82787-19/670781029_18392927269154488_4331779046215446248_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEyTeutYs_qHJOoy7kKcFwa1tIA42BHNEbdUi9la7JV79JLVc-Jbdmi-UmzeTEVLAk&_nc_ohc=blvCVWTWUbwQ7kNvwGkLDeQ&_nc_gid=g7C1DVkGuFQaGkYYRNSDeg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6o9UH2sV63jqy2zpKu5ux1s2b5zPrkwc2e4DsqIpBb4A&oe=6A13D5BF&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/the_artsyfreeman/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5272
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/the_artsyfreeman/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/the_artsyfreeman/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/the_artsyfreeman/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # the_artsyfreeman
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/the_artsyfreeman/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

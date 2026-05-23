@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: morenonaranjo.com – diseño de estampados
 website_meta_description: ''
 website_about_raw: >-
@@ -249,11 +251,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Jesús  / Textile & Surface Pattern Designer
+instagram_biography: "\U0001F58CIllustrator & Surface Pattern Designer\n\U0001F455Textile Prints | Fashion & Home Decor\n✨Creative Styling\n\U0001F30FBarcelona-Based\n\U0001F4E9Email or DM for Custom Projects"
+instagram_posts_count: 207
+instagram_followers_count: 1409
+instagram_follows_count: 876
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/515436863_18059989619258204_4540723745508212187_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFvbfw2egLVB39iKkzIoTQ1wcS2Fjvza-LFnfTxiS583MFzB6CL5nuanjNiU43OiK8&_nc_ohc=pmv1uH3SXeIQ7kNvwGWtynJ&_nc_gid=0f0p-tivXaWWYz2b3smw4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NxKny8qhiYGnBka1UAXKRBFGnM0e1Vbdi4eT8hMS-pg&oe=6A13E7F2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/515436863_18059989619258204_4540723745508212187_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFvbfw2egLVB39iKkzIoTQ1wcS2Fjvza-LFnfTxiS583MFzB6CL5nuanjNiU43OiK8&_nc_ohc=pmv1uH3SXeIQ7kNvwGWtynJ&_nc_gid=0f0p-tivXaWWYz2b3smw4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NxKny8qhiYGnBka1UAXKRBFGnM0e1Vbdi4eT8hMS-pg&oe=6A13E7F2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/moreno.naranjo/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3464
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/moreno.naranjo/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/moreno.naranjo/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/moreno.naranjo/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # moreno.naranjo
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/moreno.naranjo/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Tulio Barnabe
 website_meta_description: 'print design, textile print design'
 website_about_raw: >-
@@ -214,11 +216,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: túlio barnabé
+instagram_biography: ''
+instagram_posts_count: 867
+instagram_followers_count: 1528
+instagram_follows_count: 2099
+instagram_private: true
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/689526713_18588114073004587_1988607065374367331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGsrppitnEAJWFGIC8bBmoEhNNXGqPN_tfPj7yMet0MC3FSOC-S7a1pnTelGOibrQo&_nc_ohc=H5H1cxghIvsQ7kNvwGYrkfv&_nc_gid=F4VZGPJ_R2n32nAqO8l52Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42tXQfyEhe7UOD4M1VUTFM5Pn0VF7Osg8yX9xPAXxafQ&oe=6A13ED49&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/689526713_18588114073004587_1988607065374367331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGsrppitnEAJWFGIC8bBmoEhNNXGqPN_tfPj7yMet0MC3FSOC-S7a1pnTelGOibrQo&_nc_ohc=H5H1cxghIvsQ7kNvwGYrkfv&_nc_gid=F4VZGPJ_R2n32nAqO8l52Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42tXQfyEhe7UOD4M1VUTFM5Pn0VF7Osg8yX9xPAXxafQ&oe=6A13ED49&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4412
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # barnabetulio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/barnabetulio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

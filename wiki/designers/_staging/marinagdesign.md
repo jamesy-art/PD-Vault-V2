@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Marina Prints - Kids Design & Surface Pattern Studio
 website_meta_description: Kids Design Studio - Licensing- Custom Designs - PrintsandPatterns
 website_about_raw: >-
@@ -214,11 +216,43 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: M a r i n a  P r i n t s  S t u d i o
+instagram_biography: |-
+  Surface Pattern Design Studio  
+  ◖Kidswear Prints & Colour Stories
+  ◖Trend‑Led Collections · Licensing
+  @morecandy_shop
+instagram_posts_count: 55
+instagram_followers_count: 1480
+instagram_follows_count: 1603
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/543603303_18364475047155918_5848595390435142754_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTIuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG_iMGaSZrtXtfG66geoddlF7_Gp0wCfCtg-b_E679sVZB0XgagmJkVnVdmc5JFovY&_nc_ohc=Lqw4Tt07VVwQ7kNvwGpEgTX&_nc_gid=BChfYJUxvFOtMqY27ZZTbA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5UKj6vi2eQsf1I_huKI4vHIzL3j0kXhd4XUP3QgKoKGw&oe=6A13F3BF&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/543603303_18364475047155918_5848595390435142754_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTIuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG_iMGaSZrtXtfG66geoddlF7_Gp0wCfCtg-b_E679sVZB0XgagmJkVnVdmc5JFovY&_nc_ohc=Lqw4Tt07VVwQ7kNvwGpEgTX&_nc_gid=BChfYJUxvFOtMqY27ZZTbA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5UKj6vi2eQsf1I_huKI4vHIzL3j0kXhd4XUP3QgKoKGw&oe=6A13F3BF&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5230
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # marinagdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/marinagdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

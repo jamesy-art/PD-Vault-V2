@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: NalaniJones
 website_meta_description: ''
 website_about_raw: >-
@@ -242,11 +244,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Alana | Surface Designer
+instagram_biography: "\U0001F33F Designer creating botanical artwork for brands\n\U0001F31E Licensing & custom designs"
+instagram_posts_count: 175
+instagram_followers_count: 743
+instagram_follows_count: 1253
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/295247065_1127587607968704_1434525814086528572_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMzAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGISfBTBRKNAV6n9pusfRoCv-44rmJkUR3zg1NXUVAZMhhTJTVkOOBA0ARO8-brynA&_nc_ohc=urn0jLU-8xoQ7kNvwHn1eSh&_nc_gid=4AMWo3sal0wXgylnfDgABA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZklThe9EoW0ZAAsthRQ1E2IU4386Rz-sIf5s_2gQnug&oe=6A1400B6&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/295247065_1127587607968704_1434525814086528572_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMzAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGISfBTBRKNAV6n9pusfRoCv-44rmJkUR3zg1NXUVAZMhhTJTVkOOBA0ARO8-brynA&_nc_ohc=urn0jLU-8xoQ7kNvwHn1eSh&_nc_gid=4AMWo3sal0wXgylnfDgABA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZklThe9EoW0ZAAsthRQ1E2IU4386Rz-sIf5s_2gQnug&oe=6A1400B6&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/nalani.jones.design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5234
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/nalani.jones.design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/nalani.jones.design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/nalani.jones.design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # nalani.jones.design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/nalani.jones.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

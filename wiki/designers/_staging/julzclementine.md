@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: HOME | julzclementine
 website_meta_description: ''
 website_about_raw: >-
@@ -269,11 +271,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Julz Clementine
+instagram_biography: "✨ Murals + Licensing + Educator ✨\n\U0001F48C Collaborations > hello@julzclementine.com\n⚡️ Shop in PDX: 81 SE Yamhill \n\U0001F447 Online Shop + Workshops + Work"
+instagram_posts_count: 4287
+instagram_followers_count: 4242
+instagram_follows_count: 1739
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/612071045_18544012888060721_2795000448183136089_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODYuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFWoe1JnpanGOWSG1ilChkJXRuzQDQYBj6jknM4U6QoCEFOYFLD_SIrlx8TwRfwEvg&_nc_ohc=BE_aRP4XR8EQ7kNvwGEv3je&_nc_gid=0oyXNE7akuII4O77d8pw4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dqkpuk4dpIOkkOzQEb5ueFoVYXtHprpQu55uc7sRIWQ&oe=6A13DDD4&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/612071045_18544012888060721_2795000448183136089_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODYuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFWoe1JnpanGOWSG1ilChkJXRuzQDQYBj6jknM4U6QoCEFOYFLD_SIrlx8TwRfwEvg&_nc_ohc=BE_aRP4XR8EQ7kNvwGEv3je&_nc_gid=0oyXNE7akuII4O77d8pw4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6dqkpuk4dpIOkkOzQEb5ueFoVYXtHprpQu55uc7sRIWQ&oe=6A13DDD4&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/julzclementine/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5590
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/julzclementine/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/julzclementine/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/julzclementine/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # julzclementine
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/julzclementine/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

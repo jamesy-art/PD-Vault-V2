@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Design - Bolanile Maté
 website_meta_description: 'Posters, tote bags and books.. Oh my! Have you checked out our shop lately?'
 website_about_raw: >-
@@ -94,11 +96,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: weak
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: B. Maté
+instagram_biography: "Co-founder & creative director @err_rec\n#Geometric \n#Design\n#surfacedesign\n\U0001F440 www.bolanilemate.com"
+instagram_posts_count: 22
+instagram_followers_count: 283
+instagram_follows_count: 415
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/398242357_1083470755991939_7780241443580857868_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEKDbK_GUYX1zn3S3Ba1EID2Pf5v_u2HRFxnSulTgQJMxk0KPAIFPkt7eMmsDDuK1A&_nc_ohc=x-dtlYtBdgcQ7kNvwEcPd-N&_nc_gid=ikRpbLs4oWo1CkJxWB3ayQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6T0fd08xkMYB_wDrCZzD63QYByrEiuhXfTy-qGdFtP8A&oe=6A13FFD7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/398242357_1083470755991939_7780241443580857868_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEKDbK_GUYX1zn3S3Ba1EID2Pf5v_u2HRFxnSulTgQJMxk0KPAIFPkt7eMmsDDuK1A&_nc_ohc=x-dtlYtBdgcQ7kNvwEcPd-N&_nc_gid=ikRpbLs4oWo1CkJxWB3ayQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6T0fd08xkMYB_wDrCZzD63QYByrEiuhXfTy-qGdFtP8A&oe=6A13FFD7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/bmate.studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5135
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/bmate.studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/bmate.studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/bmate.studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # bmate.studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/bmate.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

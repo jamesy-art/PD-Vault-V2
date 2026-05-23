@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Nyktoncorpse
 website_meta_description: Cargo
 website_about_raw: >-
@@ -131,11 +133,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: NYKTON
+instagram_biography: |-
+  ✦ @stolennoise ✦ 
+  ♣ WWW.NYKTON.COM
+  ✤ Nykton Corp$e ✤
+instagram_posts_count: 543
+instagram_followers_count: 1347
+instagram_follows_count: 1340
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/82548609_779482259211808_5992461813034254336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODguYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH4TFrLaN72ljS0dPm0y-walQLVYHCu0XJ1rvkqRGdZGN3Cnkaj3fTVXAvNAwIL3Pg&_nc_ohc=rFPIIm4dHyYQ7kNvwHEam6K&_nc_gid=H7bLSjoy-2Jb05NV8ZRWSw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4aR7rxe2RwNm-HTTjcfLWhg1M1CG5hnpRhtk29-Ve5dw&oe=6A140522&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/82548609_779482259211808_5992461813034254336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODguYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH4TFrLaN72ljS0dPm0y-walQLVYHCu0XJ1rvkqRGdZGN3Cnkaj3fTVXAvNAwIL3Pg&_nc_ohc=rFPIIm4dHyYQ7kNvwHEam6K&_nc_gid=H7bLSjoy-2Jb05NV8ZRWSw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4aR7rxe2RwNm-HTTjcfLWhg1M1CG5hnpRhtk29-Ve5dw&oe=6A140522&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/nykton/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4755
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/nykton/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/nykton/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/nykton/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # nykton
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/nykton/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -42,15 +42,50 @@ website_images:
 tags:
   - pattern_designer
   - level_0
+  - has_instagram_profile
+  - has_profile_image
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: 'Lisa Martin, Beachside Designs LLC'
+instagram_biography: |-
+  Print & Textile Design Studio
+  Follow Me for Unique Surface Pattern Designs, Freelance SPD
+  DM for Commissions & Licensing
+  POD Products
+  Maryland, USA
+instagram_posts_count: 550
+instagram_followers_count: 888
+instagram_follows_count: 3062
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/395751301_351210867290987_7101950579698372865_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEDIAYp7CzCIvqgRHqwKbwMSTh5xe0_Cd2o1aSGwgcDi5Ow93nnZVccGUh7u6q0U74&_nc_ohc=A9MnB_ls2bsQ7kNvwHDHPp1&_nc_gid=9RL_TAlfuSoQpL4qYo8F7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63Y-39lpC0p1EEyc2iyj8je1qrytrQBoS0o1Yhclxung&oe=6A13D0CF&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/395751301_351210867290987_7101950579698372865_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEDIAYp7CzCIvqgRHqwKbwMSTh5xe0_Cd2o1aSGwgcDi5Ow93nnZVccGUh7u6q0U74&_nc_ohc=A9MnB_ls2bsQ7kNvwHDHPp1&_nc_gid=9RL_TAlfuSoQpL4qYo8F7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63Y-39lpC0p1EEyc2iyj8je1qrytrQBoS0o1Yhclxung&oe=6A13D0CF&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/beachsidedesigns.com_oc/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7282
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/beachsidedesigns.com_oc/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/beachsidedesigns.com_oc/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/beachsidedesigns.com_oc/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # beachsidedesigns.com_oc
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/beachsidedesigns.com_oc/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

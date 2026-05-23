@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Jordan Sondler
 website_meta_description: >-
   Jordan Sondler is a Brooklyn-based illustrator and the author of Feel It Out.
@@ -221,11 +223,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Jordan Sondler
+instagram_biography: |-
+  * Illustrator, Educator and Mental Health Advocate  
+  * Author of Feel It Out
+  * Cofounder of the Dead Parent Club
+instagram_posts_count: 1931
+instagram_followers_count: 40582
+instagram_follows_count: 4028
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/234254310_428211651763397_1633045087139756681_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFZTk3RjBBmLZKSz-DY_MzJTZIYddoXOJoN0ciXFkTrMLoH1qVz1ymmnNTPtUN2fwA&_nc_ohc=rQyvOYXEuKQQ7kNvwGFdWLf&_nc_gid=Oyoq-ZrE9QZXHgnOjLrxTg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5mMUrUvd7-TZTp_QdPtBCJuyetSggm_Nlo41LO3zaz4Q&oe=6A13EC49&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/234254310_428211651763397_1633045087139756681_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFZTk3RjBBmLZKSz-DY_MzJTZIYddoXOJoN0ciXFkTrMLoH1qVz1ymmnNTPtUN2fwA&_nc_ohc=rQyvOYXEuKQQ7kNvwGFdWLf&_nc_gid=Oyoq-ZrE9QZXHgnOjLrxTg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5mMUrUvd7-TZTp_QdPtBCJuyetSggm_Nlo41LO3zaz4Q&oe=6A13EC49&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jordansondler/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5346
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jordansondler/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jordansondler/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jordansondler/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jordansondler
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jordansondler/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

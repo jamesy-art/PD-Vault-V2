@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Elisabeth Cölfen Surface Pattern Design & Illustration | Discover Unique
   Patterns Now
@@ -277,11 +279,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Elisabeth Cölfen
+instagram_biography: >-
+  Surface pattern designer and food photographer Elisabeth Cölfen. This account
+  is showing my surface pattern designs and illustrations
+instagram_posts_count: 75
+instagram_followers_count: 589
+instagram_follows_count: 1526
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/434789106_416561447734459_2684436046296271701_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF4jHQrytsPobYYLGNN_TWELZ5SggIEc3gw6ubEqxzYAhe1iiNyqJYDatgtMOyrqQc&_nc_ohc=XW-8C6sB0yMQ7kNvwFK9mKv&_nc_gid=0GhncMegA-J4zxwjAjjiXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af648U9UNM8BRdcViq4kdx3T0Rh_q3IVL3ub6hB0PdoA6A&oe=6A13E6B9&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/434789106_416561447734459_2684436046296271701_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF4jHQrytsPobYYLGNN_TWELZ5SggIEc3gw6ubEqxzYAhe1iiNyqJYDatgtMOyrqQc&_nc_ohc=XW-8C6sB0yMQ7kNvwFK9mKv&_nc_gid=0GhncMegA-J4zxwjAjjiXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af648U9UNM8BRdcViq4kdx3T0Rh_q3IVL3ub6hB0PdoA6A&oe=6A13E6B9&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/coelfenart/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3630
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/coelfenart/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/coelfenart/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/coelfenart/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # coelfenart
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/coelfenart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

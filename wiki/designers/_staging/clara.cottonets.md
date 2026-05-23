@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Clara Cottonets – La vitta per la vitta
 website_meta_description: ''
 website_about_raw: >-
@@ -97,11 +99,43 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Clara M. Aguasca
+instagram_biography: >-
+  @cottonetsmama Barcelona, city of Modernism
+
+  Browse a unique piece of art in my website PORTFOLIO and feel free to ask for
+  its availability.
+instagram_posts_count: 161
+instagram_followers_count: 185
+instagram_follows_count: 387
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/91398695_2770660006344062_1615599871635488768_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMTIuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEQd0LEtSERTcHrAF36wMYhoOC7rq1ubmbzfnAE5ZLDAZeRS0fi9K1uocD6dleSu60&_nc_ohc=xESN3W8sFNkQ7kNvwFbtfyc&_nc_gid=fzT_Bxk8aoVDeKU_hHBoFw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6TbEHygyXUzKutvDYAosd50ermmSykJl8OAoW8KOzOEg&oe=6A13ED17&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/91398695_2770660006344062_1615599871635488768_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMTIuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEQd0LEtSERTcHrAF36wMYhoOC7rq1ubmbzfnAE5ZLDAZeRS0fi9K1uocD6dleSu60&_nc_ohc=xESN3W8sFNkQ7kNvwFbtfyc&_nc_gid=fzT_Bxk8aoVDeKU_hHBoFw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6TbEHygyXUzKutvDYAosd50ermmSykJl8OAoW8KOzOEg&oe=6A13ED17&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/clara.cottonets/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4234
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/clara.cottonets/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/clara.cottonets/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/clara.cottonets/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # clara.cottonets
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/clara.cottonets/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

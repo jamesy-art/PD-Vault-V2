@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Foto | RUMIRAM konst, foto och grafisk formgivning'
 website_meta_description: 'Rumiram tillhandahåller bildkonst, fotosessioner samt grafisk formgivning.'
 website_about_raw: >-
@@ -107,11 +109,41 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: usable
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Rumiram - creative studio
+instagram_biography: >-
+  Rumiram is a creative studio run by artist Suzi Andersen, Gothenburg, Sweden,
+  offering fine art, graphic design, photography and illustration.
+instagram_posts_count: 1640
+instagram_followers_count: 4589
+instagram_follows_count: 2219
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/470898650_950336373176103_4437722489487920055_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEbx42ljGuo9qVnwbkyved_kyUnKiBhO9B5Pv1ieUsvZ9U7PFYeRWuzTx_e7P7fOSY&_nc_ohc=7m1HsdCk1L0Q7kNvwHIUKdc&_nc_gid=iPoFedLEukqMJ5AjesWl8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5eJJHbPOV6bOQM8PloO8qhMYJJeYODllSOeYPod1VRCg&oe=6A13DFE8&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/470898650_950336373176103_4437722489487920055_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEbx42ljGuo9qVnwbkyved_kyUnKiBhO9B5Pv1ieUsvZ9U7PFYeRWuzTx_e7P7fOSY&_nc_ohc=7m1HsdCk1L0Q7kNvwHIUKdc&_nc_gid=iPoFedLEukqMJ5AjesWl8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5eJJHbPOV6bOQM8PloO8qhMYJJeYODllSOeYPod1VRCg&oe=6A13DFE8&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rumiramdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7327
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rumiramdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rumiramdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rumiramdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rumiramdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rumiramdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

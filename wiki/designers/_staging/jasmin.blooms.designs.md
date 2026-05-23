@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Surface design | Art licensing| Jasmine Blooms Designs|
 website_meta_description: ''
 website_about_raw: >-
@@ -252,11 +254,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Latifa| surface design|Art licensing
+instagram_biography: "▪︎  Surface designer/Illustrator\n▪︎\U0001F48CEmail for a Collab/Licensing \U0001F58C \n▪︎\U0001F447CustomProcreate Brushes/Free Resources"
+instagram_posts_count: 324
+instagram_followers_count: 1458
+instagram_follows_count: 2122
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/683493335_18046985081753132_7021783959496429334_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE8ee4iJB-YD9paPshB3EUYWYf38TNjYA7bo29N546apKEu8lkg2ZkeotQX5-9Iu-g&_nc_ohc=3pBQwTIxR1wQ7kNvwE103lR&_nc_gid=OMknxdE5hEQDK3PHptCj5g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4fFkKB82x-wwni6dSyjEtYK83sT8fCXErw9981pKP0eQ&oe=6A13F766&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/683493335_18046985081753132_7021783959496429334_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE8ee4iJB-YD9paPshB3EUYWYf38TNjYA7bo29N546apKEu8lkg2ZkeotQX5-9Iu-g&_nc_ohc=3pBQwTIxR1wQ7kNvwE103lR&_nc_gid=OMknxdE5hEQDK3PHptCj5g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4fFkKB82x-wwni6dSyjEtYK83sT8fCXErw9981pKP0eQ&oe=6A13F766&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jasmin.blooms.designs/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3602
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jasmin.blooms.designs/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jasmin.blooms.designs/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jasmin.blooms.designs/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jasmin.blooms.designs
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jasmin.blooms.designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

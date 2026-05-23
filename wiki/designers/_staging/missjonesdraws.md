@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Miss Jones Draws
 website_meta_description: ''
 website_about_raw: >-
@@ -219,11 +221,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Anna Jones
+instagram_biography: Rep’d by The Bright Agency
+instagram_posts_count: 236
+instagram_followers_count: 680
+instagram_follows_count: 3476
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-phx1-1.cdninstagram.com/v/t51.2885-19/34571642_1830431587019537_3665256572793126912_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEfprt0eK5_qWdC80frbNxJEra0Imn6bm1QCC8U3KORaovRUCjqNAjv_neFlAdZ29c&_nc_ohc=hXCqwU8TfMsQ7kNvwFh0pum&_nc_gid=t8lbfhBaIgATkKP6UJAmBA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4avJGnYeW7BFrPuyeecM3PUIk3XbPK6vL8y-nJCxV3NQ&oe=6A13F43F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-phx1-1.cdninstagram.com/v/t51.2885-19/34571642_1830431587019537_3665256572793126912_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEfprt0eK5_qWdC80frbNxJEra0Imn6bm1QCC8U3KORaovRUCjqNAjv_neFlAdZ29c&_nc_ohc=hXCqwU8TfMsQ7kNvwFh0pum&_nc_gid=t8lbfhBaIgATkKP6UJAmBA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4avJGnYeW7BFrPuyeecM3PUIk3XbPK6vL8y-nJCxV3NQ&oe=6A13F43F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/missjonesdraws/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3633
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/missjonesdraws/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/missjonesdraws/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/missjonesdraws/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # missjonesdraws
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/missjonesdraws/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Palindrome Art - Bright illustrations, designs and hand-lettering'
 website_meta_description: >-
   Bright illustrations, designs and hand-lettering, straight from my heart to
@@ -294,11 +296,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: "Hannah Pearlman \U0001F3A8 Stationery, Murals, and Illustration"
+instagram_biography: "✏️ Art that makes a difference in the world \n\U0001F3A8 Murals that transform your space\n\U0001F48C Stationery that really says something\n✒️ Whimsical patterns"
+instagram_posts_count: 1306
+instagram_followers_count: 8818
+instagram_follows_count: 2329
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/328168563_199081432704276_6363519014767666325_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENYpEkaFfw7xzbjG5JKS-RmxGr3OUiJjnqDwhYzYTXvUeYMzN_Vk32opkOIgX6mvo&_nc_ohc=tUhYMy2Q4ocQ7kNvwEm0WXh&_nc_gid=KIid4XhRrLx_gkuyxLfY8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5KkVD5qsnc73vIC5U72cDp7YZ2HCYTe0uqmeeNXq_X_Q&oe=6A13E82F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/328168563_199081432704276_6363519014767666325_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENYpEkaFfw7xzbjG5JKS-RmxGr3OUiJjnqDwhYzYTXvUeYMzN_Vk32opkOIgX6mvo&_nc_ohc=tUhYMy2Q4ocQ7kNvwEm0WXh&_nc_gid=KIid4XhRrLx_gkuyxLfY8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5KkVD5qsnc73vIC5U72cDp7YZ2HCYTe0uqmeeNXq_X_Q&oe=6A13E82F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/palindromeart/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7653
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/palindromeart/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/palindromeart/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/palindromeart/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # palindromeart
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/palindromeart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

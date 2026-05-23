@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: “Be-You-Tiful” Fabric Collection by Noble Signed
 website_meta_description: >-
   Hello lovely people, we launched our handmade fabrics collections known as
@@ -249,11 +251,45 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Noble signed
+instagram_biography: |-
+  God first
+  Textile / Surface Designer
+  Sustainable textile / training
+  Writer
+  You can DM for your fabric designs / Collaboration
+  @the__flashback_show
+instagram_posts_count: 49
+instagram_followers_count: 307
+instagram_follows_count: 358
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.find1-1.fna.fbcdn.net/v/t51.2885-19/476811548_1216823889868182_5101135164815528085_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.find1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gH0z5zDaw0G_nLU4a9lyt8u59yONE5R2c3W6BUZw-N-Un-BJSpNZ_iahYmrtVrqDTs&_nc_ohc=SG9wbGMvi_oQ7kNvwHDF2o6&_nc_gid=a1yCP_i84l6AKhp6uLQYdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Qwsq2rw05NXzHVw96q4NbCl4muEZdT3kB3btGmesqQw&oe=6A13D84A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.find1-1.fna.fbcdn.net/v/t51.2885-19/476811548_1216823889868182_5101135164815528085_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.find1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gH0z5zDaw0G_nLU4a9lyt8u59yONE5R2c3W6BUZw-N-Un-BJSpNZ_iahYmrtVrqDTs&_nc_ohc=SG9wbGMvi_oQ7kNvwHDF2o6&_nc_gid=a1yCP_i84l6AKhp6uLQYdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Qwsq2rw05NXzHVw96q4NbCl4muEZdT3kB3btGmesqQw&oe=6A13D84A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/noble_signed/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7348
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/noble_signed/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/noble_signed/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/noble_signed/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # noble_signed
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/noble_signed/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

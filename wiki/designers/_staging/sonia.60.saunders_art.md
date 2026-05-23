@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'saunders60art''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by saunders60art for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -224,11 +226,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sonia M Irving
+instagram_biography: Budding Artist- just a beginner
+instagram_posts_count: 45
+instagram_followers_count: 20
+instagram_follows_count: 41
+instagram_private: true
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/456430110_1015625770229140_8651710513314454425_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH3B4GcK5zZV2zx6k7leGfNi94jAkr7H_I0AgkIDs8gcCSYSjmrfnmOOfavPsSBhUw&_nc_ohc=ezd_pdwVooIQ7kNvwEq9UGS&_nc_gid=IHeUC6g9vFCIo5ya1n7UXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4weiPtFGmLVeBC06o9ZJS5dkBOYqoxkBwRvWBGDwy7Xg&oe=6A13D3CF&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/456430110_1015625770229140_8651710513314454425_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH3B4GcK5zZV2zx6k7leGfNi94jAkr7H_I0AgkIDs8gcCSYSjmrfnmOOfavPsSBhUw&_nc_ohc=ezd_pdwVooIQ7kNvwEq9UGS&_nc_gid=IHeUC6g9vFCIo5ya1n7UXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4weiPtFGmLVeBC06o9ZJS5dkBOYqoxkBwRvWBGDwy7Xg&oe=6A13D3CF&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/sonia.60.saunders_art/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6164
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/sonia.60.saunders_art/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/sonia.60.saunders_art/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/sonia.60.saunders_art/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # sonia.60.saunders_art
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sonia.60.saunders_art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

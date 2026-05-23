@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   made.by.colu | Corinna Falcone | Surface Pattern Designer | Illustratorin im
   Allgäu
@@ -249,11 +251,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Corinna Falcone | Surface Pattern Designer
+instagram_biography: |-
+  Contemporary surface patterns & illustrations
+  For interior, lifestyle & modern brands
+  Licensing & selected collections
+instagram_posts_count: 309
+instagram_followers_count: 734
+instagram_follows_count: 1747
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/504202726_18074911528939314_7255628734811770045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF4sF8afto9NzrQ0Nzecr0WrKOLMrllJ9tNMpJqUs-vunm3P3Z0z9woZT01szAE2Ec&_nc_ohc=lxop0PiMYREQ7kNvwGxbNs0&_nc_gid=dMff5K6zgV8ErlrV3zjEQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6d_PKvYdKoSM2C8eAQTofamw1KQfGbNLN3zwRFcYVX1Q&oe=6A13D828&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/504202726_18074911528939314_7255628734811770045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF4sF8afto9NzrQ0Nzecr0WrKOLMrllJ9tNMpJqUs-vunm3P3Z0z9woZT01szAE2Ec&_nc_ohc=lxop0PiMYREQ7kNvwGxbNs0&_nc_gid=dMff5K6zgV8ErlrV3zjEQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6d_PKvYdKoSM2C8eAQTofamw1KQfGbNLN3zwRFcYVX1Q&oe=6A13D828&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6894
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # made.by.colu
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/made.by.colu/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: MARTA GROSSI
 website_meta_description: ''
 website_about_raw: >-
@@ -288,11 +290,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Marta Grossi
+instagram_biography: "Creative Director / Dreamer / Artist \U0001F5A4Also founder of @bananagraffiti \U0001F3A8@carta_9169 \U0001F48C / Curious Soul / Turin / Hong Kong / Wherever"
+instagram_posts_count: 6350
+instagram_followers_count: 3379
+instagram_follows_count: 3874
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/310983039_673594330527584_5255163165616260473_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmNhbmFyeSJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtGOfW167eVvDYFfHivfbu9oSGrLWSbl554oPXvbakvQnrlhZuhE_-9niX8gDZw1Y&_nc_ohc=QfmaudDr7fcQ7kNvwEESPau&_nc_gid=RRT9sX2e_iXVETM1JJjWog&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5O0hnC3UxzdfKBuGZZyC9Bly-Tx-MoU5zZL4ZK3WIchQ&oe=6A13F21E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sjc6-1.cdninstagram.com/v/t51.2885-19/310983039_673594330527584_5255163165616260473_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmNhbmFyeSJ9&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtGOfW167eVvDYFfHivfbu9oSGrLWSbl554oPXvbakvQnrlhZuhE_-9niX8gDZw1Y&_nc_ohc=QfmaudDr7fcQ7kNvwEESPau&_nc_gid=RRT9sX2e_iXVETM1JJjWog&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5O0hnC3UxzdfKBuGZZyC9Bly-Tx-MoU5zZL4ZK3WIchQ&oe=6A13F21E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/martabunny/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2414
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/martabunny/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/martabunny/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/martabunny/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # martabunny
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/martabunny/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

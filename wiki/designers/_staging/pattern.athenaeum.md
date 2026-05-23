@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Creative Portfolio Pattern Athenaeum Zainab Shakir.pdf
 website_meta_description: ''
 website_about_raw: >-
@@ -93,11 +95,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Zainab Shakir | Surface Pattern Designer | Book Lover
+instagram_biography: "Surface Pattern Designer, Book Obsessed✨️ \nDm for Collabs & Licensing\U0001F48C \nMy Website & Spoonflower Shop\U0001F447"
+instagram_posts_count: 94
+instagram_followers_count: 258
+instagram_follows_count: 1208
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/500306714_17967680336859823_7462736005581139032_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGy9ZCXU2ZCeiS0xOvgFNvtENWfL7Zm_6QVw-NBokyO7Pp_8XJLJKdrshUlaVqKlT0&_nc_ohc=8he4oFjXhmQQ7kNvwHB3zMF&_nc_gid=mqZ2EH899IMundHqAF3N2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yKr8P8kxQ_5TDGhm830CscokbEBO4PUY56zNSIKMJhg&oe=6A1406C7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/500306714_17967680336859823_7462736005581139032_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGy9ZCXU2ZCeiS0xOvgFNvtENWfL7Zm_6QVw-NBokyO7Pp_8XJLJKdrshUlaVqKlT0&_nc_ohc=8he4oFjXhmQQ7kNvwHB3zMF&_nc_gid=mqZ2EH899IMundHqAF3N2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yKr8P8kxQ_5TDGhm830CscokbEBO4PUY56zNSIKMJhg&oe=6A1406C7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/pattern.athenaeum/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5639
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/pattern.athenaeum/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/pattern.athenaeum/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/pattern.athenaeum/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # pattern.athenaeum
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pattern.athenaeum/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

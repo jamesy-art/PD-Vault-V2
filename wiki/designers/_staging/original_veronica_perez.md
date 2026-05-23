@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: INICIO - Original Verónica Pérez
 website_meta_description: >-
   Original Verónica Pérez Bienvenidos Comprar ahora Algo más exclusivo
@@ -268,11 +270,43 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Original veronica perez
+instagram_biography: |-
+  Artist/ Illustration/ lettering /
+  sculpture
+  Freelance artist/available for licensing 
+  &commisions inquires DM
+instagram_posts_count: 302
+instagram_followers_count: 101
+instagram_follows_count: 580
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/398797094_1373860563516221_6579791317713223241_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGQm3hWtPZbNiRKAimO6EB5uwDqlobLs-R0fwXEMFQQdazM-vF2fExf7zi6a_NHZwQ&_nc_ohc=BoaaLd29WckQ7kNvwFb6D0i&_nc_gid=diWw8CPMZogayQxvD9b01g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4iGOLDr1vGKISLGkCKH9XhDmVZvrTuOQ6OV3gIKNtH3w&oe=6A13DA18&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/398797094_1373860563516221_6579791317713223241_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGQm3hWtPZbNiRKAimO6EB5uwDqlobLs-R0fwXEMFQQdazM-vF2fExf7zi6a_NHZwQ&_nc_ohc=BoaaLd29WckQ7kNvwFb6D0i&_nc_gid=diWw8CPMZogayQxvD9b01g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4iGOLDr1vGKISLGkCKH9XhDmVZvrTuOQ6OV3gIKNtH3w&oe=6A13DA18&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/original_veronica_perez/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6025
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/original_veronica_perez/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/original_veronica_perez/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/original_veronica_perez/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # original_veronica_perez
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/original_veronica_perez/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

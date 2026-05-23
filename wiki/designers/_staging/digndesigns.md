@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Surface Pattern Designs & Textile Prints | Dig'n Designs
 website_meta_description: >-
   Dig’n Designs is known for The Art of Everyday Beauty. Creating timeless
@@ -252,11 +254,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ✨Kelly Shipley ✨ Surface & Textile Designer”
+instagram_biography: "\U0001F33A Surface & Textile Designer\U0001F33A\n✨ Custom Patterns, Prints and Designs For Unique Home And Living Textiles and Decor ✨\n\U0001F6CD️ Shop My Latest Designs⬇️"
+instagram_posts_count: 193
+instagram_followers_count: 487
+instagram_follows_count: 914
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/504460831_18512787208037595_1101076837599002224_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEi3xdoFKXFXqucuTGiajIoMb9cNBz4YbgfPw3lJf1lnZHOuF_dIGZ1_HbNGKK6mAA&_nc_ohc=lJ5OH44T_TAQ7kNvwHOF182&_nc_gid=Hz0PBBt0soA475cHon4MWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4bYD4gbWA_illlx0CwozOeotNI7RsFZyL2L1Et22RAfQ&oe=6A13F8C3&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/504460831_18512787208037595_1101076837599002224_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEi3xdoFKXFXqucuTGiajIoMb9cNBz4YbgfPw3lJf1lnZHOuF_dIGZ1_HbNGKK6mAA&_nc_ohc=lJ5OH44T_TAQ7kNvwHOF182&_nc_gid=Hz0PBBt0soA475cHon4MWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4bYD4gbWA_illlx0CwozOeotNI7RsFZyL2L1Et22RAfQ&oe=6A13F8C3&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/digndesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4619
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/digndesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/digndesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/digndesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # digndesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/digndesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

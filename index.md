@@ -166,6 +166,47 @@
 
 - `wiki/designers/_staging/` (Pattern Cloud) — 62+ studio and designer profiles from The Pattern Cloud directory; editorially enriched (staging; not yet published)
 
+### Featured Designers — _level5 staging
+
+- [[wiki/designers/_staging/alexandrabordallo|Alexandra Bordallo]] — Vic Barcelona Spain; quilt pattern designer and licensed fabric designer; Andover Fabrics licensee; modern heirloom quilts; PDF patterns; level_5 enriched
+- [[wiki/designers/_staging/alishadestudio|Alisha de Souza]] — USA; print and graphic designer; folk art and watercolour illustration; clients: Tea Collection, Coyuchi; children's apparel and home; level_5 enriched
+- [[wiki/designers/_staging/aliciahayesart|Alicia Hayes]] — Draper Utah USA; 10+ years watercolour mixed media and digital SPD; whimsical and soulful; published Stampington & Company; licensing available; level_5 enriched
+- [[wiki/designers/_staging/alicepurlstudio|Alice Purling]] — London; Alice Purl Studio; 5+ years print design; painterly fine art–inspired fashion prints; selected by London print studios; @& Repeat Studio collaboration; level_5 enriched
+- [[wiki/designers/_staging/aliceemilytextiles|Alice Marshall]] — UK; Alice Emily Textiles; print designer and retoucher at Meri Meri; narrative heritage-led collections; Etsy; level_5 enriched
+- [[wiki/designers/_staging/ali.wynne.pattern|Alison Moncrieff]] — Oakland California USA; textile artist and quilter; hand-stitched repurposed cloth; juried Pacific International Quilt Festival 2022 and QuiltCon 2023; level_5 enriched
+- [[wiki/designers/_staging/alexfoxley|Alex Foxley]] — Barcelona Spain; freelance illustrator; Studio Foxley; mascots, branding, apparel patterns; bold colourful pop-art; clients: Chocolat des Français, UpHouse, Sush, Koachai; level_5 enriched
+- [[wiki/designers/_staging/alexandrakfarmer|Alexandra Farmer]] — Los Angeles USA; 20-year textile and print designer; fashion and home; limited-edition art prints; 40k Instagram following; level_5 enriched
+- [[wiki/designers/_staging/alexandragalibert|Alexandra Galibert]] — Cheshire UK (French-born); illustrator and SPD; represented by A Fresh Bunch agency; nature and animal motifs; licensing available; level_5 enriched
+- [[wiki/designers/_staging/alisonmporter|Alison Porter]] — London UK; graphic designer and illustrator; RCA MA Industrial Design; former senior at Smythson; clients: Clintons, RSPB, Aspinal of London, Woodmansterne Publications; level_5 enriched
+- [[wiki/designers/_staging/_marcelopez_|Marce Lopez]] — Colombia / Madrid Spain; illustrator and surface pattern designer; botanical, poetic, colourful; clients include La Casita de Wendy, Noc Noc Estudio, BackCouture; CasaDecor 2017 collaboration
+- [[wiki/designers/_staging/_marsuarez_|Marcela Suarez Villa]] — Barcelona (Colombian-born); graphic designer and textile illustrator; BAU Barcelona master; fashion fabric prints; clients include Pineapples, Arkitect; Uooh Design
+- [[wiki/designers/_staging/_pippa.and.i_|Kathleen Atkinson]] — Canada; Pippa & I studio; SPD for wallpaper and home décor; retail through Decor Imprime, Wimzy Walls, Printed Decor; also teaches SPD
+- [[wiki/designers/_staging/_vivdesign|Vivian Hasenclever]] — Norwegian-born, Luxembourg-based; SPD since 2018; whimsical animals and tropical botanical; Spoonflower; featured in Uppercase Magazine and Origin Magazine
+- [[wiki/designers/_staging/05_anukriti|Anukriti Didwania]] — India; textile designer and print-maker; NIFT graduate; floral prints, natural dyes; clients include SUI, Nainsi Agarwal, Margarit, Essgee
+- [[wiki/designers/_staging/12amtoday|Iulia Bors / 12 AM Today]] — France/Romania; creative studio; 10+ years SPD; textiles, wallpapers, video-mappings; international brand clients including Autour du Louvre Lens
+- [[wiki/designers/_staging/50s_vintage_dame|Sue Cadzow]] — Sydney Australia; 20+ years; retro/vintage illustration and SPD; represented by The Illustration Room; 40k+ Instagram followers; published books and tarot deck
+- [[wiki/designers/_staging/120binc|Robin Chakraborty]] — Mumbai India; freelance illustrator and designer; character illustration; clients include Coca-Cola, Hershey's, Levi's; surface pattern emerging alongside brand work
+- [[wiki/designers/_staging/a_day_outside_|Sara Pizzinelli]] — Italy; graphic designer and illustrator; atmospheric landscape illustration; visual arts and fashion sector clients; open to commissions
+- [[wiki/designers/_staging/a_trace_of_design|Tracey Johnson]] — Nelson Bay NSW Australia; former commercial graphic designer; 828+ Spoonflower designs; hand-drawn nature, vintage, and travel motifs; linocut also documented
+- [[wiki/designers/_staging/aamorimmaria|Maria Amorim]] — Brazil; graphic design graduate 2017; swimwear, womenswear, childrenswear, home fashion; clients include PatBo, Maurices, Rio de Sol, Tori Richard, Mohala
+- [[wiki/designers/_staging/abigailbryanart|Abigail Bryan]] — Cheshire UK; Theatre Design background; hand-drawn to Adobe Illustrator vector workflow; collaborations with Wildflower Home Interiors (Spoonflower), Yiume, Loomwell
+- [[wiki/designers/_staging/adelinejuliebee|Adeline-Julie Bee]] — Belgium Ardennes; watercolourist making own natural inks from foraged ingredients; Spoonflower presence; licensing-ready; also teaches
+- [[wiki/designers/_staging/ainamsnape_print_patterns|Aina M Snape]] — Mallorca Spain; Fine Arts Barcelona + LCI Barcelona FD Moda; 10+ years textile design; florals, placements, abstract for womenswear, menswear, childrenswear
+- [[wiki/designers/_staging/alarcon_studio|Carmen Alarcón]] — Spain; illustration and pattern design for fashion, food, and lifestyle brands; bow motifs, gingham, tropical work documented
+- [[wiki/designers/_staging/alchemiqa|Solange Yepez]] — Toronto Canada; Ryerson University + RISD trained; Lead Textile Designer at Andrea Iyamah; clients include Knixwear, Gluckstein Home, JQLYN & Co
+- [[wiki/designers/_staging/alexanderadiels|Alexander Adiels]] — Sweden; illustrator and pattern designer; licensing portfolio: Robin Sprong (wallpaper), Fabric Bank (fabric), Cissi & Selma (womenswear 2021), Wall of Art
+- [[wiki/designers/_staging/Alliconnerillustration|Alli Conner]] — Edinburgh Scotland UK; illustrator; story-led enchanting illustration for books, editorial, licensing, and surface pattern; published by Green Pebble Cards; MA University of Edinburgh (literature); level_5 enriched
+- [[wiki/designers/_staging/Allisonblackillustration|Allison Black]] — Columbus Ohio USA; illustrator and designer; children's books, product licensing, and surface pattern; BFA Syracuse University; 7 years in-house at Target; 30+ published books (Scholastic, Penguin Random House); level_5 enriched
+- [[wiki/designers/_staging/althea___studio|Althea Studio]] — Barcelona (Buenos Aires / Mexico / Paris); design studio; Constanza Macris and Juana Ferreira; print design, garment development, brand strategy; primary client Mariacher (10+ seasons); Carolina K (knitwear); level_5 enriched
+- [[wiki/designers/_staging/amanda_dilworth|Amanda Dilworth]] — UK; watercolour artist and illustrator; food illustration, nature subjects, and surface pattern; clients include Deliciously Ella (packaging, repeat) and Orion Publishing Group (nature book, 80+ illustrations); level_5 enriched
+- [[wiki/designers/_staging/Amandagracedesign|Mandy Corcoran / Amanda Grace Design]] — USA; surface pattern designer, educator, and licensing artist; 44k Instagram (verified); PatternPAL tester creator; Procreate-native; courses, coaching, and Creative Systems Lab programme; level_5 enriched
+
+### Featured Designers — _level4 staging
+
+- [[wiki/designers/_staging/_lulukins_|Lee-Anne Schmidt]] — South Africa / Sitges-Barcelona; surface pattern designer and illustrator; collage, photography, kids wall art; vibrant playful surreal aesthetic; freelance
+- [[wiki/designers/_staging/a.d.r.i.valenzuela|Adri Valenzuela]] — Córdoba Spain; illustrator for Disimusa family workshop; hand-painted fans (abanicos) and textile items; Fine Arts trained (Seville, Cuenca, Switzerland, Greece); limited repeat pattern evidence
+- [[wiki/designers/_staging/abey_print_studio|Nisha Abey]] — Brisbane / Byron Bay Australia; Abey Print Studio; 15+ years fashion and homewares; hand-painted watercolour, acrylic, and ink; Procreate; client OLI & KUBO; image review pending
+
 ## Companies
 
 - [[wiki/companies/Burberry]] — British luxury fashion house; Burberry check is one of fashion's most recognisable brand patterns

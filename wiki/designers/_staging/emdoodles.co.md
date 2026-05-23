@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: EmDoodles
 website_meta_description: >-
   I've been an artist for as long as I can remember, from doodling in notebooks
@@ -257,11 +259,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Em
+instagram_biography: "Hand drawn digital art, aiming to bring joy to others.\nCheck out my Etsy and website, and sign up for my mailing list! \U0001F447"
+instagram_posts_count: 24
+instagram_followers_count: 161
+instagram_follows_count: 158
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/558885217_17850311715563686_44051545440126490_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHSZ_fab7DUwteRu3jpNr8baVF_sfh0IDBvd4u1DCrw92g9TnIsn8gctzZabFdiCz0bJdOFyOcqqYbSNKhBfF_U&_nc_ohc=Nf5Q_FsurtIQ7kNvwGJgunD&_nc_gid=5JKXna54bBA2Y9VCBsk7sQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ORc3kCgzNXEMUFIIKZ6lblHuina219MDuiP667BlEkw&oe=6A13D978&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.82787-19/558885217_17850311715563686_44051545440126490_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHSZ_fab7DUwteRu3jpNr8baVF_sfh0IDBvd4u1DCrw92g9TnIsn8gctzZabFdiCz0bJdOFyOcqqYbSNKhBfF_U&_nc_ohc=Nf5Q_FsurtIQ7kNvwGJgunD&_nc_gid=5JKXna54bBA2Y9VCBsk7sQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ORc3kCgzNXEMUFIIKZ6lblHuina219MDuiP667BlEkw&oe=6A13D978&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/emdoodles.co/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3405
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/emdoodles.co/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/emdoodles.co/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/emdoodles.co/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # emdoodles.co
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emdoodles.co/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

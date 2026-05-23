@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Fabric Drawer - Patterned goods by Melbourne surface designer Beck Ng
 website_meta_description: >-
   Patterned & illustrated fabric and paper goods to brighten your day by
@@ -295,11 +297,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Fabric Drawer | Designer + Maker | Beck Ng
+instagram_biography: |-
+  • Find me: The Big Design Market 22-24 May
+  • Bringing pattern + colour into the everyday
+  • Shop my range 
+  • Licensing and wholesale welcome
+instagram_posts_count: 1023
+instagram_followers_count: 11709
+instagram_follows_count: 496
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/129060057_666114217408451_2922325548398333324_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGptyYTzyOYcHvwq7TDJOmtA2tx7p5yBn-qN7iDXPIpgGaC8cFgSvBT0G4sLb_rHh0&_nc_ohc=TTAAOtvVtFQQ7kNvwHsZoDZ&_nc_gid=qqW-NF2HlX5V5WHPg_HcYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5yLj0FXIWmFRqUnnkNwPignYQrO9JIFPK7qpknMfiAaQ&oe=6A13F6B9&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/129060057_666114217408451_2922325548398333324_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGptyYTzyOYcHvwq7TDJOmtA2tx7p5yBn-qN7iDXPIpgGaC8cFgSvBT0G4sLb_rHh0&_nc_ohc=TTAAOtvVtFQQ7kNvwHsZoDZ&_nc_gid=qqW-NF2HlX5V5WHPg_HcYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5yLj0FXIWmFRqUnnkNwPignYQrO9JIFPK7qpknMfiAaQ&oe=6A13F6B9&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/fabric_drawer/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4733
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/fabric_drawer/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/fabric_drawer/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/fabric_drawer/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # fabric_drawer
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/fabric_drawer/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

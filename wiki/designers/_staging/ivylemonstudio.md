@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Surface pattern design and product development services - Ivy Lemon Studio
 website_meta_description: ''
 website_about_raw: >-
@@ -293,11 +295,45 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Ivy Lemon Studio | Pattern Design & Product Development
+instagram_biography: >-
+  Floral & Lifestyle Surface Pattern Designer for Stationery, Homewares & Gift
+  Products
+
+  Licensing, Product Dev & Custom Design
+
+  hello@ivylemonstudio.com
+instagram_posts_count: 706
+instagram_followers_count: 1958
+instagram_follows_count: 4679
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/520266800_18068200712145258_6807057390601245401_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGO_gRdGH8RN3-7D0RvGNfCtoQ7L0CVto2kMT2zTkD2b3ZduKnjErgzwzYpTOAqBDA&_nc_ohc=jp8b9of_DYUQ7kNvwGrMSKS&_nc_gid=fvy27gR3BklONCQfHw1rDA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zKzVisih3SqCaq3vdDV8bf-mLaXWq-zZdJz4Lnkmm6A&oe=6A140485&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/520266800_18068200712145258_6807057390601245401_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGO_gRdGH8RN3-7D0RvGNfCtoQ7L0CVto2kMT2zTkD2b3ZduKnjErgzwzYpTOAqBDA&_nc_ohc=jp8b9of_DYUQ7kNvwGrMSKS&_nc_gid=fvy27gR3BklONCQfHw1rDA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zKzVisih3SqCaq3vdDV8bf-mLaXWq-zZdJz4Lnkmm6A&oe=6A140485&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4817
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ivylemonstudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

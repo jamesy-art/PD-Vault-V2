@@ -13,12 +13,12 @@ skills: []
 country: Spain
 can_use: 'Yes'
 instagram_handle: a.d.r.i.valenzuela
-instagram: 'https://instagram.com/@a.d.r.i.valenzuela'
+instagram: 'https://instagram.com/a.d.r.i.valenzuela'
 bio: ''
 website: 'https://disimusa.es'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/a.d.r.i.valenzuela
 profile_url: ''
 instagram_images:
@@ -35,7 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Inicio - Disimusa
 website_meta_description: ''
 website_about_raw: >-
@@ -229,7 +234,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Get to know us
 
@@ -298,29 +303,140 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Adriana Valenzuela
+instagram_biography: "Ilustraciones y más en\nwww.disimusa.es\n Y en : DISIMUSA \nC/Almanzor N 7 \nCórdoba \n\U0001F33FP.D.A, Ilustración\U0001F33F\n@disimusa"
+instagram_posts_count: 349
+instagram_followers_count: 899
+instagram_follows_count: 642
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/420658734_2196842940663085_4784991339335119184_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFfd9O79VvF4KxBHuJWZpKfNr3Ig5Rjdue-NaxpQK6_z622AEUD4h-NDYYfCm8c7wA&_nc_ohc=Prl5G8ukwbAQ7kNvwF_Ahuv&_nc_gid=NAQG4Y26nwwD124-8Tyqug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5I7U_2qusIe2PLoo-UA6HMJMJG4An0Gc3sAXiR12g8DA&oe=6A13F521&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/420658734_2196842940663085_4784991339335119184_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFfd9O79VvF4KxBHuJWZpKfNr3Ig5Rjdue-NaxpQK6_z622AEUD4h-NDYYfCm8c7wA&_nc_ohc=Prl5G8ukwbAQ7kNvwF_Ahuv&_nc_gid=NAQG4Y26nwwD124-8Tyqug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5I7U_2qusIe2PLoo-UA6HMJMJG4An0Gc3sAXiR12g8DA&oe=6A13F521&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/a.d.r.i.valenzuela/profile/420658734_2196842940663085_4784991339335119184_n.jpg
+instagram_profile_image_bytes: 5189
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/a.d.r.i.valenzuela/profile/420658734_2196842940663085_4784991339335119184_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/profile/420658734_2196842940663085_4784991339335119184_n.jpg
+profile_image_local: >-
+  ../../assets/designers/a.d.r.i.valenzuela/profile/420658734_2196842940663085_4784991339335119184_n.jpg
+images:
+  profile:
+    - ../../assets/designers/a.d.r.i.valenzuela/profile/instagram-profile.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1617026928_2540128444319523371_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1683544645_3098119489688961070_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700310836_3238764499942108489_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700311188_3238767453252248967_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767457377_3802030507463320887_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767974834_3806371255881102412_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1768422472_3810126312275450154_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1776950868_3881661412645016428_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_10_IMG_1384-500x670.jpeg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_13_IMG-20250119-WA0019-500x707.jpeg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_4_IMG_1237-500x359.jpeg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_8_IMG_1391-500x707.jpeg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_4_IMG_1237-500x359.jpeg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_8_IMG_1391-500x707.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1617026928_2540128444319523371_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700311188_3238767453252248967_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767457377_3802030507463320887_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1776950868_3881661412645016428_35135680133.jpg
+  - >-
+    ../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_13_IMG-20250119-WA0019-500x707.jpeg
+trash_images: []
+selected_pattern_count: 2
+selected_placement_count: 5
+trash_image_count: 0
 ---
-
 # a.d.r.i.valenzuela
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/a.d.r.i.valenzuela/profile/420658734_2196842940663085_4784991339335119184_n.jpg)
+
 ## Instagram Images
+
+| Image                                                                                                                                                                                                                                                                                              | Pattern | Placement | Trash |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------: | --------: | ----: |
+| 01<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1617026928_2540128444319523371_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1617026928_2540128444319523371_35135680133.jpg -->             |     [ ] |       [X] |   [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1683544645_3098119489688961070_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1683544645_3098119489688961070_35135680133.jpg -->             |     [ ] |       [ ] |   [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700310836_3238764499942108489_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700310836_3238764499942108489_35135680133.jpg -->             |     [ ] |       [ ] |   [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700311188_3238767453252248967_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1700311188_3238767453252248967_35135680133.jpg -->             |     [ ] |       [X] |   [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767457377_3802030507463320887_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767457377_3802030507463320887_35135680133.jpg -->             |     [ ] |       [X] |   [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767974834_3806371255881102412_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1767974834_3806371255881102412_35135680133.jpg -->             |     [ ] |       [ ] |   [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1768422472_3810126312275450154_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1768422472_3810126312275450154_35135680133.jpg -->             |     [ ] |       [ ] |   [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1776950868_3881661412645016428_35135680133.jpg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_1776950868_3881661412645016428_35135680133.jpg -->             |     [ ] |       [X] |   [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_10_IMG_1384-500x670.jpeg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_10_IMG_1384-500x670.jpeg -->                       |     [ ] |       [ ] |   [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_13_IMG-20250119-WA0019-500x707.jpeg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_13_IMG-20250119-WA0019-500x707.jpeg --> |     [ ] |       [X] |   [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_4_IMG_1237-500x359.jpeg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_4_IMG_1237-500x359.jpeg -->                         |     [X] |       [ ] |   [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_8_IMG_1391-500x707.jpeg)<br><!-- image:../../assets/designers/a.d.r.i.valenzuela/instagram/a.d.r.i.valenzuela_imageye___-_imgi_8_IMG_1391-500x707.jpeg -->                         |     [X] |       [ ] |   [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Adriana Valenzuela is an illustrator and surface artist from Córdoba, Spain, associated with Disimusa — a family-run workshop producing hand-painted Spanish fans (abanicos), illustrated textiles, and decorative items. Within the Disimusa collective, she serves as the illustrator and colour specialist. The studio is based in Córdoba, Andalusia.
 
 ## Style and Aesthetic
 
+Rooted in Andalusian craft traditions, the work applies hand-painted illustration to fans, garments, and decorative surfaces. Placement images suggest figurative and botanical decorative work with a folk art sensibility, drawing on the flora and fauna of the Córdoba countryside. The aesthetic is hand-crafted, intimate, and distinctly regional.
+
 ## Techniques and Tools
+
+Primarily hand-painted illustration. Fine Arts training underpins strong colour and compositional skills. No digital tools documented in available sources.
 
 ## Markets and Clients
 
+Craft, decorative arts, and fashion accessories. Disimusa produces hand-painted fans (abanicos, 65–80€ retail) and textile products under the "Entretelas" sub-brand (created by Jara Valenzuela). Products also include illustrated art prints and decorative items sold through the disimusa.es e-commerce store.
+
 ## Portfolio and Presence
+
+- Website: https://disimusa.es
+- Instagram: @a.d.r.i.valenzuela
+- Studio Instagram: @disimusa
 
 ## Career Path
 
+Studied Fine Arts in Seville and Cuenca, continuing studies in Switzerland and Greece. Returned to contribute illustration and colour work to the family Disimusa workshop in Córdoba.
+
 ## Pattern Focus
 
+Pattern evidence is limited — only two selected pattern images are available. Work leans toward figurative illustration and placement decoration rather than conventional repeating surface patterns. The Entretelas sub-brand (Jara Valenzuela) is the pattern-oriented branch of the Disimusa collective.
+
 ## Connections
+
+- [[Disimusa]] — family workshop and primary commercial context

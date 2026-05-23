@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: artilydesigns.com
 website_meta_description: ''
 website_about_raw: >-
@@ -287,11 +289,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Arti Rajput | Textile & Surface Pattern Designer
+instagram_biography: "\U0001F469\U0001F3FC‍\U0001F3A8 Making the everyday artily beautiful.\n❤️ Vibrant • Bohemian • Whimsical • Nature-kissed\n\U0001F4CDArtily Designs • Oregon"
+instagram_posts_count: 286
+instagram_followers_count: 795
+instagram_follows_count: 1281
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/615801648_18402806884135567_5118620485035226652_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGFdPlcWVsyZf1tUVHB_cM3krdm_cnL6TmPPYKzKzW-BQBFM2uukQf_rsS9Ent3ePc&_nc_ohc=S142WGLqW7sQ7kNvwGT_lpc&_nc_gid=a0vIfmRriOkTD3uAZg39aQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5mwCLLHhuHsGAkDZzOU810EvI0IMqWqEwILjhGM3nFjQ&oe=6A13D5E1&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/615801648_18402806884135567_5118620485035226652_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGFdPlcWVsyZf1tUVHB_cM3krdm_cnL6TmPPYKzKzW-BQBFM2uukQf_rsS9Ent3ePc&_nc_ohc=S142WGLqW7sQ7kNvwGT_lpc&_nc_gid=a0vIfmRriOkTD3uAZg39aQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5mwCLLHhuHsGAkDZzOU810EvI0IMqWqEwILjhGM3nFjQ&oe=6A13D5E1&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/artilydesignsofficial/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4520
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/artilydesignsofficial/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/artilydesignsofficial/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/artilydesignsofficial/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # artilydesignsofficial
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/artilydesignsofficial/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

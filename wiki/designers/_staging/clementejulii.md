@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Julieta Clemente
 website_meta_description: ''
 website_about_raw: >-
@@ -92,11 +94,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: weak
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Juli Clemente
+instagram_biography: Tec. Diseño de indumentaria y textil
+instagram_posts_count: 20
+instagram_followers_count: 555
+instagram_follows_count: 865
+instagram_private: true
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/491462929_1231651205370713_5764892048901832651_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH-uExN_4jC0XiAZkIH_cx3eEArSxydwxP-UCctmDLIZOc0oAeM8eRxXJ_E7LiUN4Q&_nc_ohc=fIkoiwo-2QwQ7kNvwHxssGQ&_nc_gid=5MmNsLipH4Elm5wKbkKh6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6KGtVX9DVTxU-HKZ1-8SFOy3vnZ4qKLy3DsdojF9bABA&oe=6A13F779&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/491462929_1231651205370713_5764892048901832651_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH-uExN_4jC0XiAZkIH_cx3eEArSxydwxP-UCctmDLIZOc0oAeM8eRxXJ_E7LiUN4Q&_nc_ohc=fIkoiwo-2QwQ7kNvwHxssGQ&_nc_gid=5MmNsLipH4Elm5wKbkKh6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6KGtVX9DVTxU-HKZ1-8SFOy3vnZ4qKLy3DsdojF9bABA&oe=6A13F779&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/clementejulii/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5365
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/clementejulii/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/clementejulii/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/clementejulii/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # clementejulii
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/clementejulii/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

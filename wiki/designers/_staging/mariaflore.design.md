@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: MARIA FLORE | Ever in Bloom
 website_meta_description: >-
   MARIA FLORE — a surface designer rooted in a love for delicate details,
@@ -264,11 +266,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Maria Flore • Designer
+instagram_biography: "Nature-inspired Surface Designer \U0001F338\nTimeless florals for stationery, home & lifestyle\nArt Licensing + Collaborations\n↓ Visit my website"
+instagram_posts_count: 29
+instagram_followers_count: 56
+instagram_follows_count: 143
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/486075531_666406079174012_210801582013749905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGlAZYnCiTJDBNLsyDhe0MhGYxPXlEjUehXnRoIEkqS_PT_ILzoBTzamtbMaxBHreU&_nc_ohc=9VMMmbuDvh8Q7kNvwF2O2KH&_nc_gid=c99ZR5y6sj9CQcWz88ud5w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6zKhMQq5J8IV69syJVWMm5ve9Uw7bhAi83_-ztjm3pUw&oe=6A13FA8C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/486075531_666406079174012_210801582013749905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGlAZYnCiTJDBNLsyDhe0MhGYxPXlEjUehXnRoIEkqS_PT_ILzoBTzamtbMaxBHreU&_nc_ohc=9VMMmbuDvh8Q7kNvwF2O2KH&_nc_gid=c99ZR5y6sj9CQcWz88ud5w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6zKhMQq5J8IV69syJVWMm5ve9Uw7bhAi83_-ztjm3pUw&oe=6A13FA8C&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3923
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # mariaflore.design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mariaflore.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

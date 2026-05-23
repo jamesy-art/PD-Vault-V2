@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Heather Zhou | Artist & Designer
 website_meta_description: >-
   Heather Zhou is a graphic artist and designer who uses a unique visual
@@ -77,11 +79,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Heather Zhou
+instagram_biography: |-
+  Illustrator, designer & artist based in China
+  ✍️Work together: heatherzhouart@gmail.com
+instagram_posts_count: 271
+instagram_followers_count: 3010
+instagram_follows_count: 728
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/509419036_18505606426002214_3924711656755016811_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEzjINXZREKjvKGs5iaAZJkd8Bob0YKB9VmrYRIXbImNzUCTuN6cSlXkYGKQUiOoO8&_nc_ohc=4gZ2EbSBBkUQ7kNvwElPj1G&_nc_gid=yUAldRbzoy_uGCajQKgIPg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7k6V9RYBd5IqaRocxMDyuNCP0uhLp8PefrLIwm2XtpIQ&oe=6A13F281&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/509419036_18505606426002214_3924711656755016811_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEzjINXZREKjvKGs5iaAZJkd8Bob0YKB9VmrYRIXbImNzUCTuN6cSlXkYGKQUiOoO8&_nc_ohc=4gZ2EbSBBkUQ7kNvwElPj1G&_nc_gid=yUAldRbzoy_uGCajQKgIPg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7k6V9RYBd5IqaRocxMDyuNCP0uhLp8PefrLIwm2XtpIQ&oe=6A13F281&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/heather_zhou_/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3996
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/heather_zhou_/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/heather_zhou_/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/heather_zhou_/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # heather_zhou_
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/heather_zhou_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

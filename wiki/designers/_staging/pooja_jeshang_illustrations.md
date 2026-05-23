@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Pooja Jeshang
 website_meta_description: 'Botanical, floral and nature inspired illustration wall art prints.'
 website_about_raw: >-
@@ -271,11 +273,43 @@ manual_about_raw: >2-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Pooja Jeshang • Illustrator & hand painted jewellery
+instagram_biography: "\U0001F338 Illustrated food prints and jewellery, and a few seasonal bits in between.\n\U0001F31E Email for custom work\n✨Shop Jewellery via link in bio✨"
+instagram_posts_count: 719
+instagram_followers_count: 1150
+instagram_follows_count: 802
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/658842273_18064209875664162_2316187846535515477_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFgHX9X1zkH7pZ4PxaT38aPwCfb8sV2dkXD_iJebBdPv_tvMyHwj-IxtUAZwIVaL1E&_nc_ohc=jzsShq63rO0Q7kNvwEKR9P8&_nc_gid=Hfv5YI-kJ1zGMYGB5Vo-Gw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60xr-POHeSIi9D-ISgDhBRXXYH5vydE8txcaxDNCsgeQ&oe=6A1402FE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/658842273_18064209875664162_2316187846535515477_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFgHX9X1zkH7pZ4PxaT38aPwCfb8sV2dkXD_iJebBdPv_tvMyHwj-IxtUAZwIVaL1E&_nc_ohc=jzsShq63rO0Q7kNvwEKR9P8&_nc_gid=Hfv5YI-kJ1zGMYGB5Vo-Gw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60xr-POHeSIi9D-ISgDhBRXXYH5vydE8txcaxDNCsgeQ&oe=6A1402FE&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8081
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
+profile_image_local: >-
+  ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # pooja_jeshang_illustrations
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

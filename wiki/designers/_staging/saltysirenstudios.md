@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Salty Siren Studios
 website_meta_description: ''
 website_about_raw: >-
@@ -133,11 +135,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Charlotte Victoria
+instagram_biography: "Illustrating and designing in Cornwall & London \U0001F3A8\nTake a look at my website and shops for any fabrics, prints, greetings cards and accessories \U0001F447"
+instagram_posts_count: 927
+instagram_followers_count: 1958
+instagram_follows_count: 1780
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/243190907_986545985535497_2125669880449416378_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGMPdJ3mUvWuIl_WESJDu_2Pca_kaNvUKcwsTsuRWrXpe3lBXiE4he9lQ20sE7oeXM&_nc_ohc=8HoEO3f3T9gQ7kNvwEKWis_&_nc_gid=v4uC7dfjg9o5L-klE55M7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6qJBoYKy8x-I4w0Kldmh47ykIKLuCXMlYOPAXm0C29Fg&oe=6A13EEBE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/243190907_986545985535497_2125669880449416378_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGMPdJ3mUvWuIl_WESJDu_2Pca_kaNvUKcwsTsuRWrXpe3lBXiE4he9lQ20sE7oeXM&_nc_ohc=8HoEO3f3T9gQ7kNvwEKWis_&_nc_gid=v4uC7dfjg9o5L-klE55M7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6qJBoYKy8x-I4w0Kldmh47ykIKLuCXMlYOPAXm0C29Fg&oe=6A13EEBE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/saltysirenstudios/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3520
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/saltysirenstudios/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/saltysirenstudios/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/saltysirenstudios/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # saltysirenstudios
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/saltysirenstudios/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

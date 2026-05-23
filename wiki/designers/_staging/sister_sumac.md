@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: SISTER SUMAC - Natural dye and textile studio
 website_meta_description: >-
   Sister Sumac is a design studio that creates fabrics exclusively with natural
@@ -169,11 +171,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sister Sumac
+instagram_biography: A textile studio featuring work created with natural dyes and pigments.
+instagram_posts_count: 363
+instagram_followers_count: 402
+instagram_follows_count: 375
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/321817070_738945854518040_5666802808622303820_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE6ZJS_SV7eKz5He4x2oyBNIweNNibjdm8SFnmNqOiyTpabma6FPGBvBlZOZmZSbCA&_nc_ohc=qvwFM1gWJcQQ7kNvwE5qPVu&_nc_gid=Zoo6AxzC7gxprEOAH3dK8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ux2P1uLUutVHgs4EVmzRpvmhSTA0VASCtf-oOfFm_8g&oe=6A13FA85&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/321817070_738945854518040_5666802808622303820_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE6ZJS_SV7eKz5He4x2oyBNIweNNibjdm8SFnmNqOiyTpabma6FPGBvBlZOZmZSbCA&_nc_ohc=qvwFM1gWJcQQ7kNvwE5qPVu&_nc_gid=Zoo6AxzC7gxprEOAH3dK8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ux2P1uLUutVHgs4EVmzRpvmhSTA0VASCtf-oOfFm_8g&oe=6A13FA85&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2381
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # sister_sumac
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sister_sumac/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

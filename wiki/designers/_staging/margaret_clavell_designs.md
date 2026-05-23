@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | Margaret Clavell
 website_meta_description: >-
   Margaret Clavell - surface pattern designer, creating patterns for Spoonflower
@@ -164,11 +166,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Margaret Clavell
+instagram_biography: >-
+  Surface Pattern Designer | Licensing-ready pattern collections for wallpaper
+  patterns | fabric designs | stationery | Art Licensing enquiries welcome
+instagram_posts_count: 965
+instagram_followers_count: 894
+instagram_follows_count: 697
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/616431368_18055420541670783_369325306781063126_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEwkglAmOCOoUB9HrCw_JFtNgxY04rV296VK2og-fzTmODjp_F9vIIq2xU39jvZ3xU&_nc_ohc=KQxLDxmYQHkQ7kNvwGK-tcR&_nc_gid=MOhSpomuL71UrUcUu2xIxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7v0Jeg1mEJB_5huOws4mdJYR-QIcCe_C_Av1bMoInxGg&oe=6A13EC44&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/616431368_18055420541670783_369325306781063126_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEwkglAmOCOoUB9HrCw_JFtNgxY04rV296VK2og-fzTmODjp_F9vIIq2xU39jvZ3xU&_nc_ohc=KQxLDxmYQHkQ7kNvwGK-tcR&_nc_gid=MOhSpomuL71UrUcUu2xIxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7v0Jeg1mEJB_5huOws4mdJYR-QIcCe_C_Av1bMoInxGg&oe=6A13EC44&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/margaret_clavell_designs/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6354
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/margaret_clavell_designs/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/margaret_clavell_designs/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/margaret_clavell_designs/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # margaret_clavell_designs
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/margaret_clavell_designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

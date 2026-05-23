@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Stacey Novelli Designs
 website_meta_description: >-
   Stacey Novelli is a wildly creative textile designer and maker, known for
@@ -243,11 +245,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Stacey Novelli Designs
+instagram_biography: "Freelance Designer/ Artist & Maker just dabbling in all kinds of colorful things. DM for commissions or to purchase my handmade art & jewelry\U0001F98B"
+instagram_posts_count: 171
+instagram_followers_count: 687
+instagram_follows_count: 872
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/566458767_17952448266040519_7875259343445396759_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTIuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG0bsrrx_woQ28_XntHnnk8xEPdinuNau2vPhUlIxuVOk_G_OQwr0XulmEdUHRNJhk&_nc_ohc=5U_Ppvw9A7QQ7kNvwHkj3e_&_nc_gid=yodh7B3Cs53cvt4Dvz9FqQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KxW0_XDDUFqm-7k40KObmFLATpmvdotUxmY2H8ZXIow&oe=6A13F455&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/566458767_17952448266040519_7875259343445396759_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTIuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG0bsrrx_woQ28_XntHnnk8xEPdinuNau2vPhUlIxuVOk_G_OQwr0XulmEdUHRNJhk&_nc_ohc=5U_Ppvw9A7QQ7kNvwHkj3e_&_nc_gid=yodh7B3Cs53cvt4Dvz9FqQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KxW0_XDDUFqm-7k40KObmFLATpmvdotUxmY2H8ZXIow&oe=6A13F455&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4624
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # staceynovellidesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

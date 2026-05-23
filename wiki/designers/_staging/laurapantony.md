@@ -45,6 +45,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Laura Pantony | kids print design studio & Spoonflower seller
 website_meta_description: >-
   Creating cute kids and baby print designs in a scandinavian cute simple modern
@@ -76,11 +77,40 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Laura | kids & baby print design studio | fabric & patterns
+instagram_biography: |-
+  ✦ Cute surface pattern designs
+  ✦ Email for requests / licensing / scale changes hello@laurapantony.com
+  ✦ Mama of boys
+instagram_posts_count: 562
+instagram_followers_count: 1630
+instagram_follows_count: 3274
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/639817700_18562488685019873_7781924581477174240_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHD69tctwLNjfnd4sU2UvZgyLitQGjGjirwEVrM3YBY9X6c5RrQxD1EPyDQkF-wtHc&_nc_ohc=xnm6m7_8crsQ7kNvwGIs5AW&_nc_gid=3z0rgX5qX2j89Jihqkv-wg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5tYO1Lbzq5mUvnCw53A0rZwboB33vNsnMpmw2MMbSpMA&oe=6A13FB0D&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # laurapantony
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

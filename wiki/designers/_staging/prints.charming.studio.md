@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Prints Charming Studio, LLC | pattern design licensing'
 website_meta_description: >-
   Prints Charming Studio, LLC-whimsical and beautiful pattern design &
@@ -289,11 +291,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Twila Yoder
+instagram_biography: >-
+  We are a studio that creates whimsical art that is available for exclusive
+  licensing for your next project. Check out our website to connect with us!
+instagram_posts_count: 142
+instagram_followers_count: 315
+instagram_follows_count: 542
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/393152223_303977459043296_1302063029339553394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzguYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHgTO-fxH-5AKp3_TGmz1OfxnMOLzyTDeo17BN52wGT9FcPRMntwVqvp4JRfkqu2TA&_nc_ohc=QeyjF0sNZkIQ7kNvwGjP7AB&_nc_gid=OG4yLy6IqfjPeW7XbBfUoQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5dLQujsm6OKX2uGkqVEhiV5Q-jWcZwJQ499AhM9iQmwg&oe=6A13D2BE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/393152223_303977459043296_1302063029339553394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzguYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHgTO-fxH-5AKp3_TGmz1OfxnMOLzyTDeo17BN52wGT9FcPRMntwVqvp4JRfkqu2TA&_nc_ohc=QeyjF0sNZkIQ7kNvwGjP7AB&_nc_gid=OG4yLy6IqfjPeW7XbBfUoQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5dLQujsm6OKX2uGkqVEhiV5Q-jWcZwJQ499AhM9iQmwg&oe=6A13D2BE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3104
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # prints.charming.studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

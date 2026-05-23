@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Mon Lien Atelier | Accessori in seta Made in Italy | Shop Online
 website_meta_description: >-
   Scopri l’universo di un legame in pregiato twill di seta naturale. Accessori
@@ -361,11 +363,39 @@ manual_about_raw: >2-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Mon Lien Atelier
+instagram_biography: "Timeless silk accessories with creative patterns\nDesigned in Milan | Crafted in Como\nA BOND TO WEAR\nDiscover our collection \U0001F447\U0001F3FB"
+instagram_posts_count: 266
+instagram_followers_count: 1356
+instagram_follows_count: 130
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fmem1-2.fna.fbcdn.net/v/t51.2885-19/474143127_9105282802843271_7019214540706007542_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH2AC-nOT7qUYoehfd9cejifIwZMpyB0ahFgnBc3AjZRPGGmioHP5Uni-8lDhoGZ7M&_nc_ohc=qFqks7Vexk4Q7kNvwH3ukZq&_nc_gid=nGtegSTrlGogx-zEpTRXtQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DJFioyo8R-4rrr6gSYQ4v2pxBDcIYkrTgN_6uKM5jyw&oe=6A13DF8E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fmem1-2.fna.fbcdn.net/v/t51.2885-19/474143127_9105282802843271_7019214540706007542_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH2AC-nOT7qUYoehfd9cejifIwZMpyB0ahFgnBc3AjZRPGGmioHP5Uni-8lDhoGZ7M&_nc_ohc=qFqks7Vexk4Q7kNvwH3ukZq&_nc_gid=nGtegSTrlGogx-zEpTRXtQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DJFioyo8R-4rrr6gSYQ4v2pxBDcIYkrTgN_6uKM5jyw&oe=6A13DF8E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3082
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # monlienatelier
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/monlienatelier/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

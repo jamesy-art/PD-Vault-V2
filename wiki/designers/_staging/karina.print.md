@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Karina Duncan,Print Design Consultant: Fresh, Storytelling Prints For
   Swim-Resort Brands
@@ -80,11 +82,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Karina Duncan Fashion Print Designer
+instagram_biography: >-
+  I help swim-resort brands create storytelling prints that take them from a
+  follower to an innovator in their market.
+
+  ✉️studio@karinaduncan.co.uk
+instagram_posts_count: 329
+instagram_followers_count: 4823
+instagram_follows_count: 2675
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/580929536_18537926353056794_5480967536554731180_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGEGaej7xyNoqGIabTD2PB7whX04XpmLiJUOqJkGtErNdyZDOI4xBN8Sbdku4Bi4X0&_nc_ohc=vdCS2xrxwEwQ7kNvwGLZ7bf&_nc_gid=tCrORwyFsuKiUR9mLoPoDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5lrdDZAB4Kw-aRZpE5ECj0SaZSnJ1pX67C4TS1Splq9w&oe=6A13DFAE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/580929536_18537926353056794_5480967536554731180_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGEGaej7xyNoqGIabTD2PB7whX04XpmLiJUOqJkGtErNdyZDOI4xBN8Sbdku4Bi4X0&_nc_ohc=vdCS2xrxwEwQ7kNvwGLZ7bf&_nc_gid=tCrORwyFsuKiUR9mLoPoDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5lrdDZAB4Kw-aRZpE5ECj0SaZSnJ1pX67C4TS1Splq9w&oe=6A13DFAE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/karina.print/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3765
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/karina.print/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/karina.print/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/karina.print/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # karina.print
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/karina.print/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

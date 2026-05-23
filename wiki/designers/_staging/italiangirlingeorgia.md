@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Suzanne M Rogers Interiors. A boutique design agency in Macon, Georgia, with
   an acute eye for detail and color.
@@ -67,11 +69,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: SUZANNE MacCRONE ROGERS • ITALIAN GIRL IN GEORGIA™
+instagram_biography: "\U0001F3A8Painting\n\U0001F4F8Photography\n\U0001F58C️Fabric, Wallpaper & Surface Design\n\U0001F469\U0001F3FB‍\U0001F3A8Self-taught Artist\n\U0001F4D0SMR Interiors @suzannemaccronerogers\n\U0001F4CDFrom CA\U0001F309 to GA\U0001F351"
+instagram_posts_count: 331
+instagram_followers_count: 541
+instagram_follows_count: 614
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/326809765_3484981348382423_7300941735338464930_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHcgSOpqv0frSbk3pgEpieqhBFEO7-XuBQBInyCZ8-rI56aYLImDIOnJnrqXf4Ozp0&_nc_ohc=Rw7Wm9lP4doQ7kNvwFz5RA3&_nc_gid=oQmPVCwyyVq02ySxMq39NQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6FqgaJ3t4UfzKRIchgwVGzas467AKbI94IaZw0hYjSVg&oe=6A13EFA4&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/326809765_3484981348382423_7300941735338464930_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHcgSOpqv0frSbk3pgEpieqhBFEO7-XuBQBInyCZ8-rI56aYLImDIOnJnrqXf4Ozp0&_nc_ohc=Rw7Wm9lP4doQ7kNvwFz5RA3&_nc_gid=oQmPVCwyyVq02ySxMq39NQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6FqgaJ3t4UfzKRIchgwVGzas467AKbI94IaZw0hYjSVg&oe=6A13EFA4&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4289
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # italiangirlingeorgia
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: HOME | ellastration
 website_meta_description: ''
 website_about_raw: >-
@@ -221,11 +223,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Ella Smith - Fashion & Print Illustrator
+instagram_biography: "Fashion & Print Illustrator \U0001F33A\U0001F33F\nDM for Commissions & Fine Art Giclée Prints \U0001F3A8          Falmouth University Illustration Graduate \U0001F31E"
+instagram_posts_count: 420
+instagram_followers_count: 1683
+instagram_follows_count: 2307
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/491418651_3647529865382195_5154885944514144160_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFgWMaZY91XjvTMrQo_BAa7dWmCHqfCf21j4wrwz39VwYLISnnVH5aMoPkEWx4yXHM&_nc_ohc=PuyWemODDV0Q7kNvwH7g_8n&_nc_gid=3tp7rsJJpMSmiZ5Qa8Naqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ma4qzF2uPeMoeE5UH7l_SGFjR2yKzyT5vafvYbTo1yg&oe=6A13E503&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/491418651_3647529865382195_5154885944514144160_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFgWMaZY91XjvTMrQo_BAa7dWmCHqfCf21j4wrwz39VwYLISnnVH5aMoPkEWx4yXHM&_nc_ohc=PuyWemODDV0Q7kNvwH7g_8n&_nc_gid=3tp7rsJJpMSmiZ5Qa8Naqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ma4qzF2uPeMoeE5UH7l_SGFjR2yKzyT5vafvYbTo1yg&oe=6A13E503&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ellastration_/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8490
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ellastration_/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ellastration_/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ellastration_/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ellastration_
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ellastration_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

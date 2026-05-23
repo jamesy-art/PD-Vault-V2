@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: PORTFOLIO | My Site 1
 website_meta_description: ''
 website_about_raw: >-
@@ -184,11 +186,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ''
+instagram_biography: BA (Hons) Textile Design Graduate
+instagram_posts_count: 27
+instagram_followers_count: 156
+instagram_follows_count: 210
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fagc1-2.fna.fbcdn.net/v/t51.2885-19/503899272_18059099045224092_7399046068686959187_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDYuYzIifQ&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFtFv-rDRs5YilyZObwkXk05f-f1CvSpiXRSLXKBO0uDNVfyfFdFy-WHZfP9IMx94s&_nc_ohc=E77LcSHI_N0Q7kNvwFa5V0G&_nc_gid=XXY7TGTKtAqanXrSEdIyMA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7YeFKL8XmXu2zglzY5N89Bm8PJKIoQR6g3VX5hiz-rbQ&oe=6A13FFDE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fagc1-2.fna.fbcdn.net/v/t51.2885-19/503899272_18059099045224092_7399046068686959187_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDYuYzIifQ&_nc_ht=instagram.fagc1-2.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFtFv-rDRs5YilyZObwkXk05f-f1CvSpiXRSLXKBO0uDNVfyfFdFy-WHZfP9IMx94s&_nc_ohc=E77LcSHI_N0Q7kNvwFa5V0G&_nc_gid=XXY7TGTKtAqanXrSEdIyMA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7YeFKL8XmXu2zglzY5N89Bm8PJKIoQR6g3VX5hiz-rbQ&oe=6A13FFDE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/liz.textiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4808
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/liz.textiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/liz.textiles/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/liz.textiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # liz.textiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/liz.textiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

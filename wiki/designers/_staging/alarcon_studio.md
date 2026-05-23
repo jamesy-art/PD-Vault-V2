@@ -28,7 +28,7 @@ bio: ''
 website: 'https://es.pinterest.com/Alarcon_Studio'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/alarcon_studio
 profile_url: ''
 instagram_images:
@@ -45,7 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Alarcon Studio | Illustration and design (Alarcon_Studio) - Profile |
   Pinterest
@@ -283,34 +288,202 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Carmen Alarcón
+instagram_biography: "✨ Ilustración y diseño de patterns para marcas de moda, gastronomía y lifestyle\nDisponible para comisiones \n\U0001F4E9 alarcon.studio17@gmail.com"
+instagram_posts_count: 202
+instagram_followers_count: 1153
+instagram_follows_count: 181
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/442441437_438069168828020_4786543973578473220_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFl3puMn0aZNflCQmB6z2-23JSI1jeYZ7McOp8yHWoLtPJ3QqgOh9dOCHsk6II9p4k&_nc_ohc=-rIliz7JxcAQ7kNvwGwb3p_&_nc_gid=h_47HblSAjG6gWLo3mn1ow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Ql9qUabxgMI9YluWeYNVHYlqwkCHzHc2OIe-nIB95eQ&oe=6A13DF55&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/442441437_438069168828020_4786543973578473220_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFl3puMn0aZNflCQmB6z2-23JSI1jeYZ7McOp8yHWoLtPJ3QqgOh9dOCHsk6II9p4k&_nc_ohc=-rIliz7JxcAQ7kNvwGwb3p_&_nc_gid=h_47HblSAjG6gWLo3mn1ow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Ql9qUabxgMI9YluWeYNVHYlqwkCHzHc2OIe-nIB95eQ&oe=6A13DF55&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/alarcon_studio/profile/442441437_438069168828020_4786543973578473220_n.jpg
+instagram_profile_image_bytes: 64921
+instagram_profile_image_quality: medium
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/alarcon_studio/profile/442441437_438069168828020_4786543973578473220_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/alarcon_studio/profile/442441437_438069168828020_4786543973578473220_n.jpg
+profile_image_local: >-
+  ../../assets/designers/alarcon_studio/profile/442441437_438069168828020_4786543973578473220_n.jpg
+images:
+  profile:
+    - >-
+      ../../assets/designers/alarcon_studio/profile/442441437_438069168828020_4786543973578473220_n.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704763290_3276114392407708675_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739091868_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739137428_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831273852_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831321875_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831482655_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271856553377_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271864982238_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1724809327_3444272737319772356_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1731939225_3504082658604596175_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1741990832_3588401642786728994_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906325496110_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906468040366_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906501590365_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1753404547_3684146825196562965_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500679954767611_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680088954511_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680114122807_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680172849345_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759193100_3732704727642597291_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759328932_3733844168222313394_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759501006_3735287633548331188_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493523101699_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493690887425_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760108217_3740381288575430509_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760744762_3745721011279896838_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1768262013_3808780284943299176_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1778198437_3889902150130517101_8721453486.webp
+instagram_image_count: 28
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704763290_3276114392407708675_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1724809327_3444272737319772356_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1731939225_3504082658604596175_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1753404547_3684146825196562965_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500679954767611_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493690887425_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760744762_3745721011279896838_8721453486.webp
+selected_placements:
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739091868_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759328932_3733844168222313394_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759501006_3735287633548331188_8721453486.webp
+  - >-
+    ../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760108217_3740381288575430509_8721453486.webp
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # alarcon_studio
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/alarcon_studio/profile/442441437_438069168828020_4786543973578473220_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704763290_3276114392407708675_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704763290_3276114392407708675_8721453486.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739091868_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739091868_8721453486.webp --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739137428_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271739137428_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831273852_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831273852_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831321875_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831321875_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831482655_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271831482655_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271856553377_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271856553377_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271864982238_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1704935295_3277557271864982238_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1724809327_3444272737319772356_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1724809327_3444272737319772356_8721453486.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1731939225_3504082658604596175_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1731939225_3504082658604596175_8721453486.webp --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1741990832_3588401642786728994_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1741990832_3588401642786728994_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906325496110_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906325496110_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906468040366_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906468040366_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906501590365_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1742515265_3592800906501590365_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1753404547_3684146825196562965_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1753404547_3684146825196562965_8721453486.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500679954767611_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500679954767611_8721453486.webp --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680088954511_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680088954511_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680114122807_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680114122807_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680172849345_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1758930357_3730500680172849345_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759193100_3732704727642597291_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759193100_3732704727642597291_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759328932_3733844168222313394_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759328932_3733844168222313394_8721453486.webp --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759501006_3735287633548331188_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759501006_3735287633548331188_8721453486.webp --> | [ ] | [x] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493523101699_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493523101699_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493690887425_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1759759202_3737191493690887425_8721453486.webp --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760108217_3740381288575430509_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760108217_3740381288575430509_8721453486.webp --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760744762_3745721011279896838_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1760744762_3745721011279896838_8721453486.webp --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1768262013_3808780284943299176_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1768262013_3808780284943299176_8721453486.webp --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/alarcon_studio/instagram/alarcon_studio_1778198437_3889902150130517101_8721453486.webp)<br><!-- image:../../assets/designers/alarcon_studio/instagram/alarcon_studio_1778198437_3889902150130517101_8721453486.webp --> | [ ] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Carmen Alarcón is a Spanish illustrator and pattern designer operating as Alarcon Studio. She creates illustration and pattern design for fashion, food, and lifestyle brands, available for commissions and licensing.
 
 ## Style and Aesthetic
 
+Selected Instagram images suggest a playful, commercially oriented aesthetic — bow motifs, animal print overlays, gingham backgrounds, and tropical patterns are visible in the work. The output is fashion-forward and seasonally adaptable, spanning womenswear, kidswear, and lifestyle categories.
+
 ## Techniques and Tools
+
+Works across illustration and graphic design with digital pattern construction. Skills include colour theory, repeat construction, trend awareness, and market adaptation. Delivers JPG/PNG at 300 DPI.
 
 ## Markets and Clients
 
+Targets fashion (womenswear, kidswear), food and lifestyle branding, home decor, and stationery. Commissions and licensing available. No named clients documented in available sources.
+
 ## Portfolio and Presence
+
+- Instagram: @alarcon_studio
+- Pinterest: es.pinterest.com/Alarcon_Studio
 
 ## Career Path
 
+No biographical background documented in available sources.
+
 ## Pattern Focus
 
+Selected patterns include bow motifs in multiple print contexts (zebra-inspired, polka dot, gingham, fawn-texture), tropical compositions (palm, pineapple), and geometric checkered patterns. Bow motifs appear to be a signature direction.
+
 ## Connections
+
+- [[Womenswear]]
+- [[Stationery]]

@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Illustration | Discover Unique Illustrations - View Portfolio — Shira Bentley
 website_meta_description: >-
   Explore Shira Bentley’s illustration portfolio, showcasing unique artworks
@@ -270,11 +272,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Shira Bentley
+instagram_biography: "Sydney-based Illustrator & Graphic Designer \U0001F3A8 Helping brands shine ✨ \nClients: Google, YouTube, Pfizer, Greenpeace…\nLet’s Work Together\U0001F447"
+instagram_posts_count: 134
+instagram_followers_count: 6467
+instagram_follows_count: 188
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/404056658_1156506688658981_8881414963253819779_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTcuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1fGUaCNG89o_MJJ0br8cAI0dMOZXmpODo4qCULrZtK0vKP68QaiZ2cvRbIgcSmK0&_nc_ohc=7K6eRfqrgKcQ7kNvwFgn4aU&_nc_gid=Dv3QnPbValDXqggGEIsVmQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5R46d0gdVdgYrbKTAG45C4E5KnWoxpJ1g_t8zB7hNc3Q&oe=6A13E2DC&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/404056658_1156506688658981_8881414963253819779_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTcuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1fGUaCNG89o_MJJ0br8cAI0dMOZXmpODo4qCULrZtK0vKP68QaiZ2cvRbIgcSmK0&_nc_ohc=7K6eRfqrgKcQ7kNvwFgn4aU&_nc_gid=Dv3QnPbValDXqggGEIsVmQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5R46d0gdVdgYrbKTAG45C4E5KnWoxpJ1g_t8zB7hNc3Q&oe=6A13E2DC&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/shirabentley/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3469
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/shirabentley/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/shirabentley/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/shirabentley/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # shirabentley
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/shirabentley/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | Margot Design Bespoke Textile Embroidery Projects
 website_meta_description: >-
   I am Sydney-based textile designer and artist, working at the intersection of
@@ -304,11 +306,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Margot Design
+instagram_biography: "Sydney based Textile & Embroidery Artist Open to Brand Collaborations and Workshop Opportunities. \U0001F9F5\U0001FAA1"
+instagram_posts_count: 1628
+instagram_followers_count: 1919
+instagram_follows_count: 1116
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/553364396_18529670593061247_2956821847922240752_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE9EyATb9y-RQae4dReMJtX3PwpyIgq5WMZVns0OUHDb3Vr1qbiftYRhxdai1-LKSQ&_nc_ohc=1TcKyZJGsegQ7kNvwE8BTew&_nc_gid=vQI1LRLH4rva4mHxzSCtEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4xmaa1ZOM0b79ueQB0jH0vpzvK_SH3JjnhMb8RzVSjdQ&oe=6A13DCF1&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/553364396_18529670593061247_2956821847922240752_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE9EyATb9y-RQae4dReMJtX3PwpyIgq5WMZVns0OUHDb3Vr1qbiftYRhxdai1-LKSQ&_nc_ohc=1TcKyZJGsegQ7kNvwE8BTew&_nc_gid=vQI1LRLH4rva4mHxzSCtEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4xmaa1ZOM0b79ueQB0jH0vpzvK_SH3JjnhMb8RzVSjdQ&oe=6A13DCF1&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/margot_design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4187
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/margot_design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/margot_design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/margot_design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # margot_design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/margot_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

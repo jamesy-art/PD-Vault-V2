@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: PORTFOLIO | Mysite
 website_meta_description: ''
 website_about_raw: >-
@@ -110,11 +112,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Karen Prince
+instagram_biography: |-
+  Mid-Wales girl in Manchester 
+  Love colour & creating 
+  Textile & surface pattern Designer...
+  Member of S.E.W
+instagram_posts_count: 1466
+instagram_followers_count: 3579
+instagram_follows_count: 2481
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/164124057_737970866862185_4801339251277282437_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF1s-TRaIfUFYOJVegsS2OLgP6cOOGzyr6K8FDKQA8fm7cnxPb6BjNmJ9MIn15cXEs&_nc_ohc=O8Wh1ocX5sYQ7kNvwFchmVv&_nc_gid=xI4LGgId-qfWd4E-NCRl8Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5VvRinik9uAdys05b-5QJMNObDjOyiOeZSH7BlgVGhqw&oe=6A13F688&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/164124057_737970866862185_4801339251277282437_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF1s-TRaIfUFYOJVegsS2OLgP6cOOGzyr6K8FDKQA8fm7cnxPb6BjNmJ9MIn15cXEs&_nc_ohc=O8Wh1ocX5sYQ7kNvwFchmVv&_nc_gid=xI4LGgId-qfWd4E-NCRl8Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5VvRinik9uAdys05b-5QJMNObDjOyiOeZSH7BlgVGhqw&oe=6A13F688&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/karenprince69/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6475
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/karenprince69/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/karenprince69/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/karenprince69/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # karenprince69
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/karenprince69/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

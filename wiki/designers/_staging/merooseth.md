@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Meroo Seth
 website_meta_description: ''
 website_about_raw: >-
@@ -263,11 +265,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Meroo Seth
+instagram_biography: "\U0001F1EE\U0001F1F3\U0001F1F3\U0001F1F1\U0001F1EA\U0001F1F8 Brand Designer and Illustrator\nClients include Apple,Youtube, Spotify, Google, Facebook, Snapchat, Malala Fund and Oxfam"
+instagram_posts_count: 561
+instagram_followers_count: 11906
+instagram_follows_count: 1281
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/462159397_462549769438264_6255247857123243742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFzMc---xtWKxedfOB_KwrWiZ49Er3HQVmP6orfHQAG2JmZjqTFwYjL3L8BCvJLd8w&_nc_ohc=OiDl1dDG7UAQ7kNvwF6Cnci&_nc_gid=z-t-LJ8hNybTL2hZgC8Bgw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5a_DJHz4wB-lmIuSWOTB0d-hRJC6l_ExzLPr_LzdF9ug&oe=6A13FBA5&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/462159397_462549769438264_6255247857123243742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFzMc---xtWKxedfOB_KwrWiZ49Er3HQVmP6orfHQAG2JmZjqTFwYjL3L8BCvJLd8w&_nc_ohc=OiDl1dDG7UAQ7kNvwF6Cnci&_nc_gid=z-t-LJ8hNybTL2hZgC8Bgw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5a_DJHz4wB-lmIuSWOTB0d-hRJC6l_ExzLPr_LzdF9ug&oe=6A13FBA5&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/merooseth/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8139
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/merooseth/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/merooseth/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/merooseth/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # merooseth
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/merooseth/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

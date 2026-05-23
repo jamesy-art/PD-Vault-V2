@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Thana Friel - Thana Friel | Illustrator & Artist
 website_meta_description: ''
 website_about_raw: >-
@@ -292,11 +294,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Thana Friel • Illustration & Surface Design
+instagram_biography: "\U000130EE Based in Bavaria\n※ Balancing mamahood & art career\n17+ yrs in IT & UX → Now following art \U0001F90D\n⟡ Make patterns you’re proud to sell—from your tablet ⤵"
+instagram_posts_count: 81
+instagram_followers_count: 446
+instagram_follows_count: 349
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/457143598_537103078824316_7275307469418332014_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZDrkLz6S1wZx8s4_-urOcLSOMF-daxRYP5VcvH_dh07Rbyom937Jh2a7uHX_rmwU&_nc_ohc=kf6Sl85A9D4Q7kNvwGq7Br7&_nc_gid=TGnyKwhtDTVbwYwJlZxC2A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5FZLOQ7alTmO-x3-Zw3R6lmOh_uR3qI8Ubl7TP4LElng&oe=6A13E011&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/457143598_537103078824316_7275307469418332014_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGZDrkLz6S1wZx8s4_-urOcLSOMF-daxRYP5VcvH_dh07Rbyom937Jh2a7uHX_rmwU&_nc_ohc=kf6Sl85A9D4Q7kNvwGq7Br7&_nc_gid=TGnyKwhtDTVbwYwJlZxC2A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5FZLOQ7alTmO-x3-Zw3R6lmOh_uR3qI8Ubl7TP4LElng&oe=6A13E011&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/thanafriel/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4358
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/thanafriel/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/thanafriel/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/thanafriel/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # thanafriel
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/thanafriel/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

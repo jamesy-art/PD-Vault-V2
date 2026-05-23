@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Unique Gifts & Custom Mediterranean-Inspired Fabrics
 website_meta_description: >-
   Discover unique personalized gifts for events, bespoke fabric design for
@@ -276,11 +278,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Elena Scarlata Studio
+instagram_biography: "Mediterranean Narrative Design\nTextile objects for table & home\nHandmade in Sicily\nCustom projects & wholesale\n\U0001F447Discover the collections"
+instagram_posts_count: 288
+instagram_followers_count: 2477
+instagram_follows_count: 1885
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/483471033_9328456297241859_8334477045217655830_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gH4hNW40bjImP4zG-0w7QuXesMLr8P0zaCzKwgCgjQDqP-o_kwbYgmdDuJV5I_KOcE&_nc_ohc=JklX79arF-EQ7kNvwExslLl&_nc_gid=1u91j6X21khLtD1hZIZVCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5kw3H4GVeqWFHU2GCxIvGlVi0uRgJAW5MZx0tQZh2cxw&oe=6A13E525&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/483471033_9328456297241859_8334477045217655830_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gH4hNW40bjImP4zG-0w7QuXesMLr8P0zaCzKwgCgjQDqP-o_kwbYgmdDuJV5I_KOcE&_nc_ohc=JklX79arF-EQ7kNvwExslLl&_nc_gid=1u91j6X21khLtD1hZIZVCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5kw3H4GVeqWFHU2GCxIvGlVi0uRgJAW5MZx0tQZh2cxw&oe=6A13E525&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3200
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # elena_scarlata_studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

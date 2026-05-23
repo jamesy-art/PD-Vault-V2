@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: darcee-norton
 website_meta_description: >-
   Darcee Norton is an illustrator and surface pattern designer who enriches her
@@ -301,11 +303,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Darcee
+instagram_biography: "• UK -  London\n• First Class Textile Design Graduate\n• Illustrator and Surface Pattern designer \n• Find more of my work here \U0001F447\U0001F3FB"
+instagram_posts_count: 26
+instagram_followers_count: 396
+instagram_follows_count: 658
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/522976155_18042181823639951_2518535871595684660_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHVI0D_LtYGQaGngbS_KCqdWF5JqFUMa33sZnewuEF3EF_t7e2PKCHNBCB13GAmcU8&_nc_ohc=5xLBoQ8qKKwQ7kNvwEuUgUf&_nc_gid=9ry2XP-sS9s7gtm1vCudVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7bkpWOQfsyf2Dw3qlHkRnYY96zhnXRfnHYwmJgpOYD8w&oe=6A13D915&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/522976155_18042181823639951_2518535871595684660_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHVI0D_LtYGQaGngbS_KCqdWF5JqFUMa33sZnewuEF3EF_t7e2PKCHNBCB13GAmcU8&_nc_ohc=5xLBoQ8qKKwQ7kNvwEuUgUf&_nc_gid=9ry2XP-sS9s7gtm1vCudVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7bkpWOQfsyf2Dw3qlHkRnYY96zhnXRfnHYwmJgpOYD8w&oe=6A13D915&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8283
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # darceenorton.design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/darceenorton.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

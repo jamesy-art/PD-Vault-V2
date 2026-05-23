@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Mairin Kareli Design | Surface Pattern Designer
 website_meta_description: >-
   At Mairin Kareli Design, we create patterns and illustrations for wallpaper,
@@ -289,11 +291,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Mairin Kareli - Mairin Kareli Design
+instagram_biography: >-
+  Surface Pattern Designer, EXTRAordinary, Wallpaper and Fabric design. 
+  Licensing inquiries:                                   Mairin@mairinkareli.art
+instagram_posts_count: 702
+instagram_followers_count: 1452
+instagram_follows_count: 1869
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/476133654_1400848267745359_3834185580398380154_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjcuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGo7RUqX5SeQVFH7a8zGRbWM_mlQtqRJ16mNt6CMT8bUb2lGkHYw8-KqrBsGqrF528&_nc_ohc=xNkfTO9Uv54Q7kNvwG1uUF-&_nc_gid=Nz4yl_kyc5ar4GRifv-dGw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5qsDxlqLfs5PmMiDP16p6z4PO56qnDTNQU9wggD7vT-A&oe=6A13D2B7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/476133654_1400848267745359_3834185580398380154_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjcuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGo7RUqX5SeQVFH7a8zGRbWM_mlQtqRJ16mNt6CMT8bUb2lGkHYw8-KqrBsGqrF528&_nc_ohc=xNkfTO9Uv54Q7kNvwG1uUF-&_nc_gid=Nz4yl_kyc5ar4GRifv-dGw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5qsDxlqLfs5PmMiDP16p6z4PO56qnDTNQU9wggD7vT-A&oe=6A13D2B7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3893
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # mairinkareli
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mairinkareli/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | citrusfoam
 website_meta_description: ''
 website_about_raw: >-
@@ -207,11 +209,42 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: weak
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: CitrusFoam
+instagram_biography: |-
+  Children's book illustrator represented by 
+  @BrightAgencyUS
+  Printshop: https://www.inprnt.com/gallery/citrusfoam/
+instagram_posts_count: 76
+instagram_followers_count: 8435
+instagram_follows_count: 833
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/465996792_3506324486328569_3120699519943054232_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODMuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGxRyIHOBISF1DvCla7U_roCT_z3Tgu8tiINtDiHMDPuaNsb37RmkUXVR92zKA3V8M&_nc_ohc=JxED4uzVRxQQ7kNvwHKm4bO&_nc_gid=VBlH3BcQirDE6JQxtI36mg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5U3YQah4UuWUvhH6AJHUzI1NM5WUKz3XakqM8oxPh8-A&oe=6A13D3FB&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/465996792_3506324486328569_3120699519943054232_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODMuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGxRyIHOBISF1DvCla7U_roCT_z3Tgu8tiINtDiHMDPuaNsb37RmkUXVR92zKA3V8M&_nc_ohc=JxED4uzVRxQQ7kNvwHKm4bO&_nc_gid=VBlH3BcQirDE6JQxtI36mg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5U3YQah4UuWUvhH6AJHUzI1NM5WUKz3XakqM8oxPh8-A&oe=6A13D3FB&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jesteniasoutherland/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7821
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jesteniasoutherland/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jesteniasoutherland/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jesteniasoutherland/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jesteniasoutherland
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jesteniasoutherland/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

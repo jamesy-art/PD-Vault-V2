@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: patternine® home
 website_meta_description: >-
   Discover parametric artistry in a variety of materials. Patternine crafts
@@ -312,11 +314,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Craig Woehrle
+instagram_biography: |-
+  surface design & fabrication
+  linktr.ee/patternine
+instagram_posts_count: 83
+instagram_followers_count: 11045
+instagram_follows_count: 5186
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/263265770_1105081530230787_5003036689244608071_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjQuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEexCrki7r1CvbCXDIA1C2M2ueBiNtfqr0w6ZEb7zg1vUtUeqU8MeGXvA-AVyzGP9E&_nc_ohc=yTChI9RYWC0Q7kNvwEWU8-d&_nc_gid=3Q6XzJYWJUHS9PEzX67MRg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6KCqcyfCXHOnAwFqJkWWyzJS_sVOIpj5TdsXKJgBFEfA&oe=6A13E697&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/263265770_1105081530230787_5003036689244608071_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjQuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEexCrki7r1CvbCXDIA1C2M2ueBiNtfqr0w6ZEb7zg1vUtUeqU8MeGXvA-AVyzGP9E&_nc_ohc=yTChI9RYWC0Q7kNvwEWU8-d&_nc_gid=3Q6XzJYWJUHS9PEzX67MRg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6KCqcyfCXHOnAwFqJkWWyzJS_sVOIpj5TdsXKJgBFEfA&oe=6A13E697&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/patternine/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4032
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/patternine/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/patternine/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/patternine/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # patternine
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/patternine/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

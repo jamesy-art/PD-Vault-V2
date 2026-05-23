@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: maribustudio
 website_meta_description: ''
 website_about_raw: >-
@@ -116,11 +118,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: maribus ❀ ❁ ✿
+instagram_biography: "Textile and print designer \U0001FA84\nCustom design for brands\nDM or email for collaborations \U0001F48C\nmaribustudio@gmail.com\n\U0001F1E6\U0001F1F7\U0001F4CD\U0001F30E"
+instagram_posts_count: 28
+instagram_followers_count: 104
+instagram_follows_count: 43
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/656735730_17895663039484629_8317494643262702218_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH56T5WIh4Z5B9iknELq4Nt0sN3pY-slQNwqj2ZzSopFXa1tlJxOoLMxbiAjrHMurk&_nc_ohc=FhVx0jgVkdUQ7kNvwFpzbAW&_nc_gid=FHS0eIS4oQcwQ2bWTo86NA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4XAt6mGYtCaIt92kyu8Pc1zZ0NLun54sHp-AEC-GC_QA&oe=6A13D549&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/656735730_17895663039484629_8317494643262702218_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH56T5WIh4Z5B9iknELq4Nt0sN3pY-slQNwqj2ZzSopFXa1tlJxOoLMxbiAjrHMurk&_nc_ohc=FhVx0jgVkdUQ7kNvwFpzbAW&_nc_gid=FHS0eIS4oQcwQ2bWTo86NA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4XAt6mGYtCaIt92kyu8Pc1zZ0NLun54sHp-AEC-GC_QA&oe=6A13D549&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4471
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # maribustudio_
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/maribustudio_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -1,0 +1,4461 @@
+{
+  "priority_designers_found": 494,
+  "priority_designers_with_download_posts": 329,
+  "total_download_images": 2302,
+  "max_images_per_designer": 12,
+  "by_scrape_quality": {
+    "excellent": 348,
+    "good": 139,
+    "usable": 7
+  },
+  "designers_with_8_plus_images": 159,
+  "designers_with_12_plus_images": 110,
+  "designers": {
+    "05_anukriti": {
+      "slug": "05_anukriti",
+      "name": "Anukriti Didwania",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/05_anukriti/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "120binc": {
+      "slug": "120binc",
+      "name": "Robin Chakraborty",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/120binc/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "12amtoday": {
+      "slug": "12amtoday",
+      "name": "Iulia Bors",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/12amtoday/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "50s_vintage_dame": {
+      "slug": "50s_vintage_dame",
+      "name": "Sue Cadzow",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/50s_vintage_dame/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "_lulukins_": {
+      "slug": "_lulukins_",
+      "name": "Lee-Anne Schmidt",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/_lulukins_/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "_marcelopez_": {
+      "slug": "_marcelopez_",
+      "name": "Marce Lopez",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/_marcelopez_/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "_marsuarez_": {
+      "slug": "_marsuarez_",
+      "name": "Marcela Suarez Villa",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/_marsuarez_/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "_pippa.and.i_": {
+      "slug": "_pippa.and.i_",
+      "name": "Kathleen Atkinson",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/_pippa.and.i_/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "_vivdesign": {
+      "slug": "_vivdesign",
+      "name": "Vivian Hasenclever",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/_vivdesign/profile/482299006_2030843697427282_5700835822949207463_n.jpg",
+      "available_download_candidates": 27,
+      "queued_downloads": 12
+    },
+    "a.d.r.i.valenzuela": {
+      "slug": "a.d.r.i.valenzuela",
+      "name": "Adri Valenzuela",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/a.d.r.i.valenzuela/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "a_day_outside_": {
+      "slug": "a_day_outside_",
+      "name": "Sara Pizzinelli",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/a_day_outside_/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "a_trace_of_design": {
+      "slug": "a_trace_of_design",
+      "name": "Tracey Johnson",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/a_trace_of_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "abigailbryanart": {
+      "slug": "abigailbryanart",
+      "name": "Abigail Bryan",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/abigailbryanart/profile/instagram-profile.jpg",
+      "available_download_candidates": 24,
+      "queued_downloads": 12
+    },
+    "adelinejuliebee": {
+      "slug": "adelinejuliebee",
+      "name": "Adeline-Julie Bee",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/adelinejuliebee/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "ainamsnape_print_patterns": {
+      "slug": "ainamsnape_print_patterns",
+      "name": "Aina M Snape",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/ainamsnape_print_patterns/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "alarcon_studio": {
+      "slug": "alarcon_studio",
+      "name": "Carmen Alarcon",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/alarcon_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "alchemiqa": {
+      "slug": "alchemiqa",
+      "name": "Solange Yepez",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/alchemiqa/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "alexanderadiels": {
+      "slug": "alexanderadiels",
+      "name": "Alexander Adiels",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/alexanderadiels/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "alexandrabordallo": {
+      "slug": "alexandrabordallo",
+      "name": "Alexandra Bordallo",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/alexandrabordallo/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "alexandragalibert": {
+      "slug": "alexandragalibert",
+      "name": "Alexandra Galibert",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/alexandragalibert/profile/instagram-profile.jpg",
+      "available_download_candidates": 35,
+      "queued_downloads": 12
+    },
+    "alexandrakfarmer": {
+      "slug": "alexandrakfarmer",
+      "name": "Alexandra Farmer",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/alexandrakfarmer/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "alexfoxley": {
+      "slug": "alexfoxley",
+      "name": "Alex Foxley",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/alexfoxley/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "aliceemilytextiles": {
+      "slug": "aliceemilytextiles",
+      "name": "Alice Marshall",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/aliceemilytextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "aliciahayesart": {
+      "slug": "aliciahayesart",
+      "name": "Alicia Hayes",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/aliciahayesart/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "alishadestudio": {
+      "slug": "alishadestudio",
+      "name": "Alisha de Souza",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/alishadestudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "alisonmporter": {
+      "slug": "alisonmporter",
+      "name": "Alison Porter",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/alisonmporter/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "alliconnerillustration": {
+      "slug": "alliconnerillustration",
+      "name": "Alli Conner",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/alliconnerillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "allisonblackillustration": {
+      "slug": "allisonblackillustration",
+      "name": "Allison Black",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/allisonblackillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "amanda_dilworth": {
+      "slug": "amanda_dilworth",
+      "name": "Amanda Dilworth",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/amanda_dilworth/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "amandagracedesign": {
+      "slug": "amandagracedesign",
+      "name": "Mandy Corcoran",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/amandagracedesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "ambersolbergmakery": {
+      "slug": "ambersolbergmakery",
+      "name": "Amber Solberg",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/ambersolbergmakery/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "amelia_graham_print": {
+      "slug": "amelia_graham_print",
+      "name": "Amelia Graham",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/amelia_graham_print/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "amesnewtondesigns": {
+      "slug": "amesnewtondesigns",
+      "name": "Amy Newton",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/amesnewtondesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "amienmiltonart": {
+      "slug": "amienmiltonart",
+      "name": "Amie N. Milton",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/amienmiltonart/profile/instagram-profile.jpg",
+      "available_download_candidates": 20,
+      "queued_downloads": 12
+    },
+    "amreacedesign": {
+      "slug": "amreacedesign",
+      "name": "Amreace Paige",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/amreacedesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "amysaladesign": {
+      "slug": "amysaladesign",
+      "name": "Amy Sala",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/amysaladesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "andrabadea_illustration": {
+      "slug": "andrabadea_illustration",
+      "name": "andra badea",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "andrea.muart": {
+      "slug": "andrea.muart",
+      "name": "Andrea Munoz",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/andrea.muart/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "andreaalice.nz": {
+      "slug": "andreaalice.nz",
+      "name": "Andrea Muller",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/andreaalice.nz/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "andreaelias_estudio": {
+      "slug": "andreaelias_estudio",
+      "name": "Andrea Elias",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "andrealeonelli_illustrations": {
+      "slug": "andrealeonelli_illustrations",
+      "name": "Andrea Leonelli",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/andrealeonelli_illustrations/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "andreea.robescu": {
+      "slug": "andreea.robescu",
+      "name": "Andreea Robescu",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/andreea.robescu/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "anelas_design_studio": {
+      "slug": "anelas_design_studio",
+      "name": "Olena Kloeppner",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/anelas_design_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "anisillustration": {
+      "slug": "anisillustration",
+      "name": "Anis Illustration",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/anisillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "anna.stefanska.anna": {
+      "slug": "anna.stefanska.anna",
+      "name": "Anna Stefańska-Gozdecka",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/anna.stefanska.anna/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "annah.design": {
+      "slug": "annah.design",
+      "name": "Anna-Maija Houtsonen",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/annah.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "annelyblooms": {
+      "slug": "annelyblooms",
+      "name": "Anelia Madjarova",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/annelyblooms/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "annih_art": {
+      "slug": "annih_art",
+      "name": "Anmari Hanekom",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/annih_art/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "antheadesignstudio": {
+      "slug": "antheadesignstudio",
+      "name": "Priyadarshini Das Sharma",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/antheadesignstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "applied_arts_studio": {
+      "slug": "applied_arts_studio",
+      "name": "Anjuli Bernstein",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/applied_arts_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "archanabhurke": {
+      "slug": "archanabhurke",
+      "name": "Archana Bhurke",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/archanabhurke/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "artbybea_": {
+      "slug": "artbybea_",
+      "name": "Beatrice Campbell",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/artbybea_/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "artbymonicakapur": {
+      "slug": "artbymonicakapur",
+      "name": "Monica Kapur",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "artilydesignsofficial": {
+      "slug": "artilydesignsofficial",
+      "name": "Arti Rajput",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/artilydesignsofficial/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "artwistparis": {
+      "slug": "artwistparis",
+      "name": "Catherine Houriez",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/artwistparis/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "atelier.moeli": {
+      "slug": "atelier.moeli",
+      "name": "Sylvie Maillard",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/atelier.moeli/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "ateliermave": {
+      "slug": "ateliermave",
+      "name": "Berry Aktuglu",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/ateliermave/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "avefelix_": {
+      "slug": "avefelix_",
+      "name": "Felix Dominguez",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/avefelix_/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "axelledesign.fr": {
+      "slug": "axelledesign.fr",
+      "name": "Axelle Valentin",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/axelledesign.fr/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "ayranabarboza": {
+      "slug": "ayranabarboza",
+      "name": "Ayrana Barboza",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/ayranabarboza/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "baptistevirgile": {
+      "slug": "baptistevirgile",
+      "name": "Baptiste Vandaele",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/baptistevirgile/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "barnabetulio": {
+      "slug": "barnabetulio",
+      "name": "Túlio Barnabé",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/barnabetulio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "bcolorido": {
+      "slug": "bcolorido",
+      "name": "Nell Simböck",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/bcolorido/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "beauportions": {
+      "slug": "beauportions",
+      "name": "Nthabiseng Machedi",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/beauportions/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "becoakesdesign": {
+      "slug": "becoakesdesign",
+      "name": "Bec Oakes",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/becoakesdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "beebarts": {
+      "slug": "beebarts",
+      "name": "Beatriz Duarte",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/beebarts/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "beernaert.liesbeth": {
+      "slug": "beernaert.liesbeth",
+      "name": "Liesbeth Beernaert",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/beernaert.liesbeth/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "belac.reative": {
+      "slug": "belac.reative",
+      "name": "Bela Creative",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/belac.reative/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "bethmorganstudio": {
+      "slug": "bethmorganstudio",
+      "name": "Beth Morgan",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "betticlay": {
+      "slug": "betticlay",
+      "name": "Betty Clay",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/betticlay/profile/instagram-profile.jpg",
+      "available_download_candidates": 10,
+      "queued_downloads": 10
+    },
+    "birdandblossom": {
+      "slug": "birdandblossom",
+      "name": "Andrea Hurley",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/birdandblossom/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "blanckslate": {
+      "slug": "blanckslate",
+      "name": "Suzanne Blanck",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/blanckslate/profile/instagram-profile.jpg",
+      "available_download_candidates": 16,
+      "queued_downloads": 12
+    },
+    "branco_design": {
+      "slug": "branco_design",
+      "name": "Natalia Fischer",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/branco_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "brookepalmerdesigns": {
+      "slug": "brookepalmerdesigns",
+      "name": "Brooke Palmer",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/brookepalmerdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "bwdesignestampa": {
+      "slug": "bwdesignestampa",
+      "name": "Bianca Weber",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/bwdesignestampa/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "byheart_design": {
+      "slug": "byheart_design",
+      "name": "Batoul Yazdanian",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/byheart_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "bymartioska": {
+      "slug": "bymartioska",
+      "name": "Marta Traverso",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/bymartioska/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "c.hillmanillustration": {
+      "slug": "c.hillmanillustration",
+      "name": "Carole Hillman",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "carmenplaza.mx": {
+      "slug": "carmenplaza.mx",
+      "name": "Carmen Plaza",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/carmenplaza.mx/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "carolinabastosp": {
+      "slug": "carolinabastosp",
+      "name": "Carolina Bastos",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/carolinabastosp/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "carolmoreira.arte": {
+      "slug": "carolmoreira.arte",
+      "name": "Carolina Moreira",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/carolmoreira.arte/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "cascavel.es": {
+      "slug": "cascavel.es",
+      "name": "Sophia Eisenbarth",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/cascavel.es/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "cassidyraemarietta": {
+      "slug": "cassidyraemarietta",
+      "name": "Cassidy Marietta",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/cassidyraemarietta/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "ccandelot": {
+      "slug": "ccandelot",
+      "name": "Clara Candelot",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/ccandelot/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "cesartorresphotography": {
+      "slug": "cesartorresphotography",
+      "name": "Cesar Torres",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/cesartorresphotography/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "charissemarei": {
+      "slug": "charissemarei",
+      "name": "Charisse Marei",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/charissemarei/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "checiegirl_creations": {
+      "slug": "checiegirl_creations",
+      "name": "Nathifa Simon",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg",
+      "available_download_candidates": 28,
+      "queued_downloads": 12
+    },
+    "cheryl.bruce.creativ.design": {
+      "slug": "cheryl.bruce.creativ.design",
+      "name": "Cheryl Bruce",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "chloemckennatextiles": {
+      "slug": "chloemckennatextiles",
+      "name": "Chloe McKenna",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/chloemckennatextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "chloeturnerdesigns": {
+      "slug": "chloeturnerdesigns",
+      "name": "chloe turner",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/chloeturnerdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "cinnamonclouds.za": {
+      "slug": "cinnamonclouds.za",
+      "name": "Zaaheda Dhalech",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/cinnamonclouds.za/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "ckf_design_studio": {
+      "slug": "ckf_design_studio",
+      "name": "Charlotte Ferri",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/ckf_design_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "clara.cottonets": {
+      "slug": "clara.cottonets",
+      "name": "Clara Martí Aguasca",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/clara.cottonets/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "clarelewisillustration": {
+      "slug": "clarelewisillustration",
+      "name": "Clare Lewis",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/clarelewisillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "claremartindesign": {
+      "slug": "claremartindesign",
+      "name": "Clare Martin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/claremartindesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "claudiafasser": {
+      "slug": "claudiafasser",
+      "name": "Claudia Fasser",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/claudiafasser/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "cocobloom_uk": {
+      "slug": "cocobloom_uk",
+      "name": "LISA BERRIDGE",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/cocobloom_uk/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "coelfenart": {
+      "slug": "coelfenart",
+      "name": "Elisabeth Cölfen",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/coelfenart/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "colorvoyagedesigns": {
+      "slug": "colorvoyagedesigns",
+      "name": "Anuja Dhawale",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/colorvoyagedesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "courtneygrabendesigns": {
+      "slug": "courtneygrabendesigns",
+      "name": "Courtney Graben",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/courtneygrabendesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "craftifairy": {
+      "slug": "craftifairy",
+      "name": "Liat Huller Harari",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/craftifairy/profile/instagram-profile.jpg",
+      "available_download_candidates": 25,
+      "queued_downloads": 12
+    },
+    "damppstudio": {
+      "slug": "damppstudio",
+      "name": "Daniela Rota",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/damppstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "danaduricekova": {
+      "slug": "danaduricekova",
+      "name": "Dana Duricekova",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/danaduricekova/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "dandymarkcreative": {
+      "slug": "dandymarkcreative",
+      "name": "Jennifer Healy",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "danielavargas.art": {
+      "slug": "danielavargas.art",
+      "name": "Daniela Vargas",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/danielavargas.art/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "danielbevisdesign": {
+      "slug": "danielbevisdesign",
+      "name": "Daniel Bevis",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/danielbevisdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 35,
+      "queued_downloads": 12
+    },
+    "danielegaube": {
+      "slug": "danielegaube",
+      "name": "Daniele Gaube",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/danielegaube/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "dannie_hughes_design": {
+      "slug": "dannie_hughes_design",
+      "name": "Daniela Hughes",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/dannie_hughes_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "daphaniedenae": {
+      "slug": "daphaniedenae",
+      "name": "daphanie shaddock",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/daphaniedenae/profile/instagram-profile.jpg",
+      "available_download_candidates": 24,
+      "queued_downloads": 12
+    },
+    "darceenorton.design": {
+      "slug": "darceenorton.design",
+      "name": "Darcee Norton",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/darceenorton.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "daviddelander": {
+      "slug": "daviddelander",
+      "name": "David Delander",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/daviddelander/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "deamarianastasia": {
+      "slug": "deamarianastasia",
+      "name": "Anastasia Dea Maria Poljatschenko",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/deamarianastasia/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "debbieseftonart": {
+      "slug": "debbieseftonart",
+      "name": "Debbie Sefton",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/debbieseftonart/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "deinki_com": {
+      "slug": "deinki_com",
+      "name": "Lucia Sanguinetti-Jonescheit",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/deinki_com/profile/instagram-profile.jpg",
+      "available_download_candidates": 19,
+      "queued_downloads": 12
+    },
+    "den____studios": {
+      "slug": "den____studios",
+      "name": "Melita Dedden",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/den____studios/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "designbycheyney": {
+      "slug": "designbycheyney",
+      "name": "Cheyney McDonnell",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/designbycheyney/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "designedbyemikli": {
+      "slug": "designedbyemikli",
+      "name": "Eugenia Tsimiklis",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/designedbyemikli/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "designs_n_fibers": {
+      "slug": "designs_n_fibers",
+      "name": "Mariam Oladepo-Ajagbe",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/designs_n_fibers/profile/instagram-profile.jpg",
+      "available_download_candidates": 26,
+      "queued_downloads": 12
+    },
+    "deya.studio": {
+      "slug": "deya.studio",
+      "name": "Jinny F",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/deya.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "digndesigns": {
+      "slug": "digndesigns",
+      "name": "Kelly Shipley",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/digndesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "dippitydonuts": {
+      "slug": "dippitydonuts",
+      "name": "Tara Carone",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/dippitydonuts/profile/instagram-profile.jpg",
+      "available_download_candidates": 19,
+      "queued_downloads": 12
+    },
+    "ditsyfabric": {
+      "slug": "ditsyfabric",
+      "name": "Gae Helton",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/ditsyfabric/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "doart.textile": {
+      "slug": "doart.textile",
+      "name": "Daniela Duarte",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/doart.textile/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "dressedbypoetry": {
+      "slug": "dressedbypoetry",
+      "name": "Caroline Falasca",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/dressedbypoetry/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "durgamaibradley": {
+      "slug": "durgamaibradley",
+      "name": "Durga Mai Bradley",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/durgamaibradley/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "dyes_happy": {
+      "slug": "dyes_happy",
+      "name": "Kathryn Reuschel",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/dyes_happy/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "elena_scarlata_studio": {
+      "slug": "elena_scarlata_studio",
+      "name": "Elena Scarlata",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "elenaromerodesign": {
+      "slug": "elenaromerodesign",
+      "name": "Elena Romero",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/elenaromerodesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "eliveradesigns": {
+      "slug": "eliveradesigns",
+      "name": "Elena Veronica Mocanu",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/eliveradesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 22,
+      "queued_downloads": 12
+    },
+    "ellajostudio": {
+      "slug": "ellajostudio",
+      "name": "Ella Camlibel",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/ellajostudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "ellastration_": {
+      "slug": "ellastration_",
+      "name": "Ella Smith",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/ellastration_/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "ellenaprints": {
+      "slug": "ellenaprints",
+      "name": "Eleni Piperidou",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/ellenaprints/profile/instagram-profile.jpg",
+      "available_download_candidates": 28,
+      "queued_downloads": 12
+    },
+    "elmaduerr.art": {
+      "slug": "elmaduerr.art",
+      "name": "Elma Duerr",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/elmaduerr.art/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "emberillustrates": {
+      "slug": "emberillustrates",
+      "name": "Lauren Ember",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/emberillustrates/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "emdoodles.co": {
+      "slug": "emdoodles.co",
+      "name": "Em Poole",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/emdoodles.co/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "emiliecsimpson": {
+      "slug": "emiliecsimpson",
+      "name": "Emilie Simpson",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/emiliecsimpson/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "emilyblack_designs": {
+      "slug": "emilyblack_designs",
+      "name": "Emily Black",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/emilyblack_designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "emilysundaydesigns": {
+      "slug": "emilysundaydesigns",
+      "name": "Emily Sontag",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "emjwalker": {
+      "slug": "emjwalker",
+      "name": "Michelle Walker",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/emjwalker/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "emma_graham_illustrations": {
+      "slug": "emma_graham_illustrations",
+      "name": "Emma Graham",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/emma_graham_illustrations/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "emmalawrencedesigns": {
+      "slug": "emmalawrencedesigns",
+      "name": "Emma Lawrence",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/emmalawrencedesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "emmalawrencepeattie": {
+      "slug": "emmalawrencepeattie",
+      "name": "Emma Lawrence",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/emmalawrencepeattie/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "emmapallettdesign": {
+      "slug": "emmapallettdesign",
+      "name": "Emma Pallett",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/emmapallettdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "empatterns": {
+      "slug": "empatterns",
+      "name": "Manali Dixit",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/empatterns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "enelbosqueencantado": {
+      "slug": "enelbosqueencantado",
+      "name": "Isabel Pozo Montero",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/enelbosqueencantado/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "enprint.in": {
+      "slug": "enprint.in",
+      "name": "Kalyani A",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/enprint.in/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "estampasdamarcela": {
+      "slug": "estampasdamarcela",
+      "name": "Marcela Abdalla",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/estampasdamarcela/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "ester_muxune": {
+      "slug": "ester_muxune",
+      "name": "Ester Bernaldo de Quiros",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/ester_muxune/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "estudioblackfisk": {
+      "slug": "estudioblackfisk",
+      "name": "Vanesa Guarino",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/estudioblackfisk/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "eucalyptroses": {
+      "slug": "eucalyptroses",
+      "name": "Rose Feely",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/eucalyptroses/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "evaontwerp": {
+      "slug": "evaontwerp",
+      "name": "Eva Jansen",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/evaontwerp/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "eyecatchwear": {
+      "slug": "eyecatchwear",
+      "name": "Ariadna Sysoeva",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/eyecatchwear/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "fabric_drawer": {
+      "slug": "fabric_drawer",
+      "name": "Beck Ng",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/fabric_drawer/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "farnarts": {
+      "slug": "farnarts",
+      "name": "Farnaz Ghafouri",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/farnarts/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "fede.volpato.studio": {
+      "slug": "fede.volpato.studio",
+      "name": "Federica Volpato",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/fede.volpato.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "femketextiles": {
+      "slug": "femketextiles",
+      "name": "Simone Deckers",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/femketextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "figandhue": {
+      "slug": "figandhue",
+      "name": "Emma Sowerby",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/figandhue/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "fiinkdesign": {
+      "slug": "fiinkdesign",
+      "name": "Fiona Powers",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/fiinkdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "finchleydesigns": {
+      "slug": "finchleydesigns",
+      "name": "Nicole Shorthouse",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/finchleydesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "flyingwall": {
+      "slug": "flyingwall",
+      "name": "Nina Leth",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/flyingwall/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "fran.illus": {
+      "slug": "fran.illus",
+      "name": "Francesca Querin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/fran.illus/profile/instagram-profile.jpg",
+      "available_download_candidates": 28,
+      "queued_downloads": 12
+    },
+    "franbragancastudio": {
+      "slug": "franbragancastudio",
+      "name": "Francisca Bragança",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/franbragancastudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "franki_makes": {
+      "slug": "franki_makes",
+      "name": "Franki Barber",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/franki_makes/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "franzispeer": {
+      "slug": "franzispeer",
+      "name": "Franzi Speer",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/franzispeer/profile/instagram-profile.jpg",
+      "available_download_candidates": 22,
+      "queued_downloads": 12
+    },
+    "freyatheillustrator": {
+      "slug": "freyatheillustrator",
+      "name": "Freya Symonds",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/freyatheillustrator/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "gabbyrios_design": {
+      "slug": "gabbyrios_design",
+      "name": "Gabby Rios",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "geetaaiiprints": {
+      "slug": "geetaaiiprints",
+      "name": "Maitreyee Deshpande",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/geetaaiiprints/profile/instagram-profile.jpg",
+      "available_download_candidates": 30,
+      "queued_downloads": 12
+    },
+    "gemmalofthousedesigns": {
+      "slug": "gemmalofthousedesigns",
+      "name": "Gemma Helm",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/gemmalofthousedesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 22,
+      "queued_downloads": 12
+    },
+    "gemmastantoncreative": {
+      "slug": "gemmastantoncreative",
+      "name": "Gemma Stanton",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/gemmastantoncreative/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "gerlacta": {
+      "slug": "gerlacta",
+      "name": "Tammy Gerlach",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/gerlacta/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "glitdesign": {
+      "slug": "glitdesign",
+      "name": "Ana Bircic",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/glitdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 36,
+      "queued_downloads": 12
+    },
+    "goldenmole_artworks": {
+      "slug": "goldenmole_artworks",
+      "name": "Faith Ee",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/goldenmole_artworks/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "guylainecharlebois": {
+      "slug": "guylainecharlebois",
+      "name": "Guylaine Charlebois",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg",
+      "available_download_candidates": 15,
+      "queued_downloads": 12
+    },
+    "guymegides": {
+      "slug": "guymegides",
+      "name": "Guy Megides",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/guymegides/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "hannahbeisang": {
+      "slug": "hannahbeisang",
+      "name": "Hannah Beisang",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/hannahbeisang/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "happyfarrowdesigns": {
+      "slug": "happyfarrowdesigns",
+      "name": "Happy Farrow",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/happyfarrowdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "heather_zhou_": {
+      "slug": "heather_zhou_",
+      "name": "Heather Zhou",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/heather_zhou_/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "helenbuchandesign": {
+      "slug": "helenbuchandesign",
+      "name": "HELEN BUCHAN",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/helenbuchandesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 47,
+      "queued_downloads": 12
+    },
+    "helene.blanc": {
+      "slug": "helene.blanc",
+      "name": "Hélène Blanc",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/helene.blanc/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "hello_matze_illustrations": {
+      "slug": "hello_matze_illustrations",
+      "name": "Martina Stock",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/hello_matze_illustrations/profile/instagram-profile.jpg",
+      "available_download_candidates": 32,
+      "queued_downloads": 12
+    },
+    "hellolauraortiz": {
+      "slug": "hellolauraortiz",
+      "name": "Laura Orti",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/hellolauraortiz/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "heywawa___": {
+      "slug": "heywawa___",
+      "name": "Elena Wa",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/heywawa___/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "hiprintdesign": {
+      "slug": "hiprintdesign",
+      "name": "Hannah Inglis",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/hiprintdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "holavicze": {
+      "slug": "holavicze",
+      "name": "Vicze Vicze",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/holavicze/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "hotoffthepressdesign": {
+      "slug": "hotoffthepressdesign",
+      "name": "Anna Liza Ganguly",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "house__of__may": {
+      "slug": "house__of__may",
+      "name": "Wendy Scheerlinck",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/house__of__may/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "houseon84th": {
+      "slug": "houseon84th",
+      "name": "Annelie Hervi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/houseon84th/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "iamtheastra": {
+      "slug": "iamtheastra",
+      "name": "Astra de la Crème",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/iamtheastra/profile/instagram-profile.jpg",
+      "available_download_candidates": 20,
+      "queued_downloads": 12
+    },
+    "ichajayanti.id": {
+      "slug": "ichajayanti.id",
+      "name": "Icha Jayanti",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "illustrationkaisakoponen": {
+      "slug": "illustrationkaisakoponen",
+      "name": "Kaisa Koponen",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/illustrationkaisakoponen/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "illustrations_by_zu": {
+      "slug": "illustrations_by_zu",
+      "name": "Zuzanna Konieczna-Czerwinska",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/illustrations_by_zu/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "isabella_sheridan_textiles": {
+      "slug": "isabella_sheridan_textiles",
+      "name": "Isabella Sheridan",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/isabella_sheridan_textiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "isataylor.studio": {
+      "slug": "isataylor.studio",
+      "name": "Isabel Couto",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/isataylor.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "italiangirlingeorgia": {
+      "slug": "italiangirlingeorgia",
+      "name": "Suzanne MacCrone Rogers",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "itiha_art_world": {
+      "slug": "itiha_art_world",
+      "name": "Jaishree Iyer",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/itiha_art_world/profile/instagram-profile.jpg",
+      "available_download_candidates": 15,
+      "queued_downloads": 12
+    },
+    "ivylemonstudio": {
+      "slug": "ivylemonstudio",
+      "name": "Jane Addis",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 38,
+      "queued_downloads": 12
+    },
+    "ivywxtart": {
+      "slug": "ivywxtart",
+      "name": "Ivy Wang",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/ivywxtart/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "jacqueline__toal": {
+      "slug": "jacqueline__toal",
+      "name": "Jacqueline Toal",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/jacqueline__toal/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "jacqui_ponytaildesigns": {
+      "slug": "jacqui_ponytaildesigns",
+      "name": "Jacqui Hewlett",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "jasmin.blooms.designs": {
+      "slug": "jasmin.blooms.designs",
+      "name": "Latifa Righi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/jasmin.blooms.designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "jasminegoodwindesigns": {
+      "slug": "jasminegoodwindesigns",
+      "name": "Jasmine Goodwin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/jasminegoodwindesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "jellybean_studio": {
+      "slug": "jellybean_studio",
+      "name": "Aysha Zreika",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/jellybean_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "jennifer_geldard": {
+      "slug": "jennifer_geldard",
+      "name": "Jennifer Geldard",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/jennifer_geldard/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "jenniferladdhandmade": {
+      "slug": "jenniferladdhandmade",
+      "name": "Jennifer Ladd",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg",
+      "available_download_candidates": 10,
+      "queued_downloads": 10
+    },
+    "jenniferlemondesigns": {
+      "slug": "jenniferlemondesigns",
+      "name": "Jennifer Lemon",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/jenniferlemondesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "jenwardletextiles": {
+      "slug": "jenwardletextiles",
+      "name": "Jenna Wardle",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/jenwardletextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "jessicajane.illustration": {
+      "slug": "jessicajane.illustration",
+      "name": "Jessica Jane",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/jessicajane.illustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "jessicawestwood.designs": {
+      "slug": "jessicawestwood.designs",
+      "name": "Jessica Rodgers",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/jessicawestwood.designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 24,
+      "queued_downloads": 12
+    },
+    "jesspattern": {
+      "slug": "jesspattern",
+      "name": "Jess Naara",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/jesspattern/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "jianghuanxi2019": {
+      "slug": "jianghuanxi2019",
+      "name": "Huanxi Jiang",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/jianghuanxi2019/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "jlabre": {
+      "slug": "jlabre",
+      "name": "Jennifer Labre",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/jlabre/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "jmegjmeg": {
+      "slug": "jmegjmeg",
+      "name": "Jamie Girouard",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/jmegjmeg/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "joanna_plucknett": {
+      "slug": "joanna_plucknett",
+      "name": "JoNna Plucknett",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/joanna_plucknett/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "jolandakerttuli": {
+      "slug": "jolandakerttuli",
+      "name": "Jolanda Jokinen",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/jolandakerttuli/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "joliodesign": {
+      "slug": "joliodesign",
+      "name": "Jodi Broglio",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/joliodesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 20,
+      "queued_downloads": 12
+    },
+    "jordanliepolt": {
+      "slug": "jordanliepolt",
+      "name": "Jordan Liepolt",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/jordanliepolt/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "jordansondler": {
+      "slug": "jordansondler",
+      "name": "jordan sondler",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/jordansondler/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "josie.bel": {
+      "slug": "josie.bel",
+      "name": "Joséphine Belloeil",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/josie.bel/profile/instagram-profile.jpg",
+      "available_download_candidates": 19,
+      "queued_downloads": 12
+    },
+    "juanibengali.art": {
+      "slug": "juanibengali.art",
+      "name": "Juani Bengali",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/juanibengali.art/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "julianapaivailustra": {
+      "slug": "julianapaivailustra",
+      "name": "Juliana Paiva",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/julianapaivailustra/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "julianaporto.designer": {
+      "slug": "julianaporto.designer",
+      "name": "Juliana Porto",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/julianaporto.designer/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "juliekuberski": {
+      "slug": "juliekuberski",
+      "name": "Julie Kuberski",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/juliekuberski/profile/instagram-profile.jpg",
+      "available_download_candidates": 22,
+      "queued_downloads": 12
+    },
+    "juliesoricellidesigns": {
+      "slug": "juliesoricellidesigns",
+      "name": "Julie Soricelli",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/juliesoricellidesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 32,
+      "queued_downloads": 12
+    },
+    "julietabesse.studio": {
+      "slug": "julietabesse.studio",
+      "name": "Julieta Besse",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/julietabesse.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "julzclementine": {
+      "slug": "julzclementine",
+      "name": "Julz Clementine",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/julzclementine/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "jun.shu.create": {
+      "slug": "jun.shu.create",
+      "name": "Jun Shu",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/jun.shu.create/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "kaeselotti": {
+      "slug": "kaeselotti",
+      "name": "Kathrin Wessel",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/kaeselotti/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "kaila.art13": {
+      "slug": "kaila.art13",
+      "name": "Kaila Aaron",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/kaila.art13/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "kaprintstudio": {
+      "slug": "kaprintstudio",
+      "name": "Victoria Alonso",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/kaprintstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 16,
+      "queued_downloads": 12
+    },
+    "karina.print": {
+      "slug": "karina.print",
+      "name": "Karina Duncan",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/karina.print/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "karismithdesigns": {
+      "slug": "karismithdesigns",
+      "name": "Kari Smith",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/karismithdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "kaseymelissa.art": {
+      "slug": "kaseymelissa.art",
+      "name": "Kasey Lewis",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/kaseymelissa.art/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "katdogdesign": {
+      "slug": "katdogdesign",
+      "name": "Kat Manor",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/katdogdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "katefrostdesign": {
+      "slug": "katefrostdesign",
+      "name": "Kate Frost",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/katefrostdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "katie_oshea_design": {
+      "slug": "katie_oshea_design",
+      "name": "Katie O'Shea",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/katie_oshea_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "katrinesstrek": {
+      "slug": "katrinesstrek",
+      "name": "Katrine Hesselberg",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/katrinesstrek/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "kellyrideoutdesign": {
+      "slug": "kellyrideoutdesign",
+      "name": "Kelly Rideout",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 26,
+      "queued_downloads": 12
+    },
+    "kemijolaosodesign": {
+      "slug": "kemijolaosodesign",
+      "name": "Kemi Jolaoso",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/kemijolaosodesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 31,
+      "queued_downloads": 12
+    },
+    "kerfuffy": {
+      "slug": "kerfuffy",
+      "name": "Sara De Los Santos",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/kerfuffy/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "kidfia": {
+      "slug": "kidfia",
+      "name": "Sofia Poejo",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/kidfia/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "kristinaforrestcreative": {
+      "slug": "kristinaforrestcreative",
+      "name": "Kristina Forrest",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/kristinaforrestcreative/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "l.ittlemisshug": {
+      "slug": "l.ittlemisshug",
+      "name": "Alina Pringle",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/l.ittlemisshug/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "lagallery.art": {
+      "slug": "lagallery.art",
+      "name": "Nathaly Sánchez",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/lagallery.art/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "laura.hamzic.design": {
+      "slug": "laura.hamzic.design",
+      "name": "Laura Hamzic",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/laura.hamzic.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "laurabrumana": {
+      "slug": "laurabrumana",
+      "name": "Laura Brumana",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/laurabrumana/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "lauramaycroft.design": {
+      "slug": "lauramaycroft.design",
+      "name": "Laura Maycroft",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/lauramaycroft.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 20,
+      "queued_downloads": 12
+    },
+    "laurasasdi": {
+      "slug": "laurasasdi",
+      "name": "Laura Sasdi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/laurasasdi/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "lemon_dessin": {
+      "slug": "lemon_dessin",
+      "name": "Monika Lechner",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/lemon_dessin/profile/instagram-profile.jpg",
+      "available_download_candidates": 17,
+      "queued_downloads": 12
+    },
+    "letmerepeatmyself": {
+      "slug": "letmerepeatmyself",
+      "name": "Rachel Poulin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "lexagalbi": {
+      "slug": "lexagalbi",
+      "name": "Marine Pasco",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/lexagalbi/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "lhais.munhoz": {
+      "slug": "lhais.munhoz",
+      "name": "Lhais Munhoz",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/lhais.munhoz/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "liazawackidesign": {
+      "slug": "liazawackidesign",
+      "name": "Lia Zawacki",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/liazawackidesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "lilapng": {
+      "slug": "lilapng",
+      "name": "Lila Panagiotou",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/lilapng/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "lisa_weeillustrator": {
+      "slug": "lisa_weeillustrator",
+      "name": "Lisa Wee",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/lisa_weeillustrator/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "liseereedesigns": {
+      "slug": "liseereedesigns",
+      "name": "Lisa Mabey",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/liseereedesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "liz.textiles": {
+      "slug": "liz.textiles",
+      "name": "Liz May",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/liz.textiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "loopyfuldesign": {
+      "slug": "loopyfuldesign",
+      "name": "Luana Adriani",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/loopyfuldesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "lorenaruizillustration": {
+      "slug": "lorenaruizillustration",
+      "name": "Lorena Ruiz",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/lorenaruizillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "lovelybillydesigns": {
+      "slug": "lovelybillydesigns",
+      "name": "Kimberley Robinson",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/lovelybillydesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 22,
+      "queued_downloads": 12
+    },
+    "loyaltycottage": {
+      "slug": "loyaltycottage",
+      "name": "Sara Kirby",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/loyaltycottage/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "lucrecia.caporale": {
+      "slug": "lucrecia.caporale",
+      "name": "Lucrecia Caporale",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/lucrecia.caporale/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "macapatterns": {
+      "slug": "macapatterns",
+      "name": "Mariana Campos",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/macapatterns/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "macichini": {
+      "slug": "macichini",
+      "name": "Marilia Cichini Simões",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/macichini/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "mackenziekuck": {
+      "slug": "mackenziekuck",
+      "name": "Mackenzie Kuck",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/mackenziekuck/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "macluredesigns": {
+      "slug": "macluredesigns",
+      "name": "Lauren MacLure",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/macluredesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "made.by.colu": {
+      "slug": "made.by.colu",
+      "name": "Corinna Falcone",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/made.by.colu/profile/instagram-profile.jpg",
+      "available_download_candidates": 16,
+      "queued_downloads": 12
+    },
+    "madebytaye": {
+      "slug": "madebytaye",
+      "name": "Taye Wells",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/madebytaye/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "maetextiles": {
+      "slug": "maetextiles",
+      "name": "Mae Thompson",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/maetextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "magdalenawesolowskaart": {
+      "slug": "magdalenawesolowskaart",
+      "name": "Magdalena Wesołowska",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "mai_aboucaya": {
+      "slug": "mai_aboucaya",
+      "name": "Mai Aboucaya",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/mai_aboucaya/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "mairinkareli": {
+      "slug": "mairinkareli",
+      "name": "Mairin Kareli",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/mairinkareli/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "malikabuttinger": {
+      "slug": "malikabuttinger",
+      "name": "Malika Buttinger",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/malikabuttinger/profile/instagram-profile.jpg",
+      "available_download_candidates": 28,
+      "queued_downloads": 12
+    },
+    "manendesign": {
+      "slug": "manendesign",
+      "name": "Ilaria Manen",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/manendesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "mangoflamingostudio": {
+      "slug": "mangoflamingostudio",
+      "name": "Swati Chopra",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mangoflamingostudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "mardi.art_": {
+      "slug": "mardi.art_",
+      "name": "Mar Giraldo",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mardi.art_/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "margaret_clavell_designs": {
+      "slug": "margaret_clavell_designs",
+      "name": "Margaret Cowell",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/margaret_clavell_designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "margot_design": {
+      "slug": "margot_design",
+      "name": "Margot Warre",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/margot_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "maria_galybina": {
+      "slug": "maria_galybina",
+      "name": "Maria Galybina",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/maria_galybina/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "mariaflore.design": {
+      "slug": "mariaflore.design",
+      "name": "Maria Flore",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/mariaflore.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 17,
+      "queued_downloads": 12
+    },
+    "mariavallmostudio": {
+      "slug": "mariavallmostudio",
+      "name": "Maria Kultala",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/mariavallmostudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "maribustudio_": {
+      "slug": "maribustudio_",
+      "name": "Maria Busto",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/maribustudio_/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "marinagdesign": {
+      "slug": "marinagdesign",
+      "name": "Marina González Leanza",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/marinagdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 16,
+      "queued_downloads": 12
+    },
+    "marinettescolours": {
+      "slug": "marinettescolours",
+      "name": "Leah Shimi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/marinettescolours/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "martabunny": {
+      "slug": "martabunny",
+      "name": "Marta Grossi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/martabunny/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "martincampi.prints": {
+      "slug": "martincampi.prints",
+      "name": "Martin Campi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/martincampi.prints/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "marushabelle": {
+      "slug": "marushabelle",
+      "name": "Marusha Belle",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/marushabelle/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "mashakarpushina": {
+      "slug": "mashakarpushina",
+      "name": "Masha Karpushina",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/mashakarpushina/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "mashalitvinova.design": {
+      "slug": "mashalitvinova.design",
+      "name": "Masha Litvinova",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/mashalitvinova.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 24,
+      "queued_downloads": 12
+    },
+    "maycartprintart": {
+      "slug": "maycartprintart",
+      "name": "Kathryn Please use biz name",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/maycartprintart/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "mblochlaine": {
+      "slug": "mblochlaine",
+      "name": "Marie Bloch-Laine",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/mblochlaine/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "mearnsgraphics7": {
+      "slug": "mearnsgraphics7",
+      "name": "Dawn MacEachern",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/mearnsgraphics7/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "meganmetcalfstudio": {
+      "slug": "meganmetcalfstudio",
+      "name": "Megan Metcalf",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/meganmetcalfstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "megauchenbachart": {
+      "slug": "megauchenbachart",
+      "name": "Meg Auchenbach",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/megauchenbachart/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "melaniemilesdesign": {
+      "slug": "melaniemilesdesign",
+      "name": "Melanie Miles",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/melaniemilesdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "melindamouzannar": {
+      "slug": "melindamouzannar",
+      "name": "Melinda Mouzannar",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/melindamouzannar/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "melissadonnestudio": {
+      "slug": "melissadonnestudio",
+      "name": "Melissa Donne",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 16,
+      "queued_downloads": 12
+    },
+    "merooseth": {
+      "slug": "merooseth",
+      "name": "Meroo Seth",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/merooseth/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "merveacelebi": {
+      "slug": "merveacelebi",
+      "name": "Merve Celebi",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/merveacelebi/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "mesadezign": {
+      "slug": "mesadezign",
+      "name": "Saumya Sah",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mesadezign/profile/instagram-profile.jpg",
+      "available_download_candidates": 17,
+      "queued_downloads": 12
+    },
+    "mf_illustration": {
+      "slug": "mf_illustration",
+      "name": "Marilyn Foehrenbach Wirtz",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mf_illustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "michael_zindell_designs": {
+      "slug": "michael_zindell_designs",
+      "name": "Michael Zindell",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/michael_zindell_designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "michal.gorelick.design": {
+      "slug": "michal.gorelick.design",
+      "name": "Michal Gorelick",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/michal.gorelick.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 15,
+      "queued_downloads": 12
+    },
+    "michelepnoo": {
+      "slug": "michelepnoo",
+      "name": "Michele Payne",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/michelepnoo/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "michelmassih": {
+      "slug": "michelmassih",
+      "name": "Michel Massih",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/michelmassih/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "mikaela_karthik_design": {
+      "slug": "mikaela_karthik_design",
+      "name": "Mikaela Bernhardt (MIKAELA KARTHIK DESIGN)",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/mikaela_karthik_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "mikelle.makes": {
+      "slug": "mikelle.makes",
+      "name": "Mikelle Williams",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mikelle.makes/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "milenabarbalinardo": {
+      "slug": "milenabarbalinardo",
+      "name": "Milena Barbalinardo",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/milenabarbalinardo/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "millystextiles": {
+      "slug": "millystextiles",
+      "name": "Milly Vine",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/millystextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "mimisha_designstudio": {
+      "slug": "mimisha_designstudio",
+      "name": "Telma Fernandes",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mimisha_designstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "mini.magique.studio": {
+      "slug": "mini.magique.studio",
+      "name": "Genine Delahaye",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/mini.magique.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "mira_paradies": {
+      "slug": "mira_paradies",
+      "name": "Uta Krogmann",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/mira_paradies/profile/instagram-profile.jpg",
+      "available_download_candidates": 14,
+      "queued_downloads": 12
+    },
+    "mirelapopescu_design": {
+      "slug": "mirelapopescu_design",
+      "name": "Mirela Popescu",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "miriam_ortwed": {
+      "slug": "miriam_ortwed",
+      "name": "Miriam Ortwed",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/miriam_ortwed/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "missjonesdraws": {
+      "slug": "missjonesdraws",
+      "name": "Anna Jones",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/missjonesdraws/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "missy.wildflower": {
+      "slug": "missy.wildflower",
+      "name": "Sherri Smith",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/missy.wildflower/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "mitalimdesigns": {
+      "slug": "mitalimdesigns",
+      "name": "Mitali M",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/mitalimdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "mjmstudio": {
+      "slug": "mjmstudio",
+      "name": "Jacqueline Maldonado",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/mjmstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "mmdecorbrand": {
+      "slug": "mmdecorbrand",
+      "name": "Juan Mosquea",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg",
+      "available_download_candidates": 10,
+      "queued_downloads": 10
+    },
+    "mnnkshi": {
+      "slug": "mnnkshi",
+      "name": "Meenakshi Rajagopal",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/mnnkshi/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "monapatterns": {
+      "slug": "monapatterns",
+      "name": "Mona Monash",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/monapatterns/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "moniquemoranstudio": {
+      "slug": "moniquemoranstudio",
+      "name": "Monique Moran",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/moniquemoranstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "moniquilla_oficial": {
+      "slug": "moniquilla_oficial",
+      "name": "Monica Muñoz",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/moniquilla_oficial/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "monlienatelier": {
+      "slug": "monlienatelier",
+      "name": "Céline Theis",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/monlienatelier/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "monneeshka": {
+      "slug": "monneeshka",
+      "name": "Monika Koch",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/monneeshka/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "moonup.studio": {
+      "slug": "moonup.studio",
+      "name": "Tish Nation",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/moonup.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 19,
+      "queued_downloads": 12
+    },
+    "moreno.naranjo": {
+      "slug": "moreno.naranjo",
+      "name": "Jesus Moreno",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/moreno.naranjo/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "morningmusedesigns.co": {
+      "slug": "morningmusedesigns.co",
+      "name": "Rachael Douglass",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "moshitodesign": {
+      "slug": "moshitodesign",
+      "name": "Ana Benito Gonzalez",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/moshitodesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "mushydoodle": {
+      "slug": "mushydoodle",
+      "name": "Erin Cole",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/mushydoodle/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "myown_mess": {
+      "slug": "myown_mess",
+      "name": "Karen Santalices",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/myown_mess/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "mysooni_designer": {
+      "slug": "mysooni_designer",
+      "name": "Misoon Obied",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/mysooni_designer/profile/instagram-profile.jpg",
+      "available_download_candidates": 29,
+      "queued_downloads": 12
+    },
+    "nalani.jones.design": {
+      "slug": "nalani.jones.design",
+      "name": "Alana Lemke",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/nalani.jones.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 15,
+      "queued_downloads": 12
+    },
+    "nancykouta.me": {
+      "slug": "nancykouta.me",
+      "name": "Nancy Kouta",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/nancykouta.me/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "naomiboyneillustration": {
+      "slug": "naomiboyneillustration",
+      "name": "Naomi Boyne (nee Craigs)",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/naomiboyneillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "nataliaa.tello": {
+      "slug": "nataliaa.tello",
+      "name": "Natalia Tello",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/nataliaa.tello/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "nataliyagreen.studio": {
+      "slug": "nataliyagreen.studio",
+      "name": "Nataliya Green",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "natitys": {
+      "slug": "natitys",
+      "name": "Eloisa Docton",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/natitys/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "naturally_antique": {
+      "slug": "naturally_antique",
+      "name": "Jesika Neemann",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/naturally_antique/profile/instagram-profile.jpg",
+      "available_download_candidates": 10,
+      "queued_downloads": 10
+    },
+    "negracalaca": {
+      "slug": "negracalaca",
+      "name": "Jenniffer Rios",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/negracalaca/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "niceandfancy": {
+      "slug": "niceandfancy",
+      "name": "Dawn Clarkson",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/niceandfancy/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "niranjanamanidesign": {
+      "slug": "niranjanamanidesign",
+      "name": "Niranjana Mani",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/niranjanamanidesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "noble_signed": {
+      "slug": "noble_signed",
+      "name": "Nobel Acquah",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/noble_signed/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "nykton": {
+      "slug": "nykton",
+      "name": "Anton Nykänen",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/nykton/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "oakabeedesign": {
+      "slug": "oakabeedesign",
+      "name": "Pavlina Jirankova",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/oakabeedesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "olisiadesign": {
+      "slug": "olisiadesign",
+      "name": "Alessandra Medeiros",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/olisiadesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "oliviaboutrou_illustration": {
+      "slug": "oliviaboutrou_illustration",
+      "name": "Olivia Boutrou",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/oliviaboutrou_illustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "opeachyday": {
+      "slug": "opeachyday",
+      "name": "Radhika Modi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/opeachyday/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "organicshapedesign": {
+      "slug": "organicshapedesign",
+      "name": "Tabitha Baker",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/organicshapedesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "original_veronica_perez": {
+      "slug": "original_veronica_perez",
+      "name": "Veronica Perez (Original Veronica Perez)",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/original_veronica_perez/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "osasere.designs": {
+      "slug": "osasere.designs",
+      "name": "Osasere Edo-Jegede",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/osasere.designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 30,
+      "queued_downloads": 12
+    },
+    "oyeah_studio": {
+      "slug": "oyeah_studio",
+      "name": "Marion Rousseau",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/oyeah_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "paint.to.paper.designs": {
+      "slug": "paint.to.paper.designs",
+      "name": "Beth Scrivens",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/paint.to.paper.designs/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "palindromeart": {
+      "slug": "palindromeart",
+      "name": "Hannah Pearlman",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/palindromeart/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "palmerkdesigns": {
+      "slug": "palmerkdesigns",
+      "name": "Karen Palmer",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "pappenpop": {
+      "slug": "pappenpop",
+      "name": "Paula Pappenheim",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/pappenpop/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "pariparistudio": {
+      "slug": "pariparistudio",
+      "name": "Parigna Desai",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/pariparistudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "patidavies": {
+      "slug": "patidavies",
+      "name": "Patricia Davies",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/patidavies/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "patrona.patrones": {
+      "slug": "patrona.patrones",
+      "name": "Natalia Buitrago",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/patrona.patrones/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "pattern.athenaeum": {
+      "slug": "pattern.athenaeum",
+      "name": "Zainab Shakir",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/pattern.athenaeum/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "patternine": {
+      "slug": "patternine",
+      "name": "Craig Woehrle",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/patternine/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "pauli_salmi_illustrations": {
+      "slug": "pauli_salmi_illustrations",
+      "name": "Pauli Salmi",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "pcamata": {
+      "slug": "pcamata",
+      "name": "Patricia Camata",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/pcamata/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "penelopevanhoorn_art": {
+      "slug": "penelopevanhoorn_art",
+      "name": "Penelope van Hoorn",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/penelopevanhoorn_art/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "peonyrosedesign": {
+      "slug": "peonyrosedesign",
+      "name": "Nicola Allen",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/peonyrosedesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "peperinamagenta": {
+      "slug": "peperinamagenta",
+      "name": "Carolina Fantozzi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/peperinamagenta/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "petleypatterns": {
+      "slug": "petleypatterns",
+      "name": "Jonathan Petley",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/petleypatterns/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "phoebej_design": {
+      "slug": "phoebej_design",
+      "name": "Phoebe John",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/phoebej_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "pilarsart19": {
+      "slug": "pilarsart19",
+      "name": "Pilar Mageau",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/pilarsart19/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "pmarie.creates": {
+      "slug": "pmarie.creates",
+      "name": "Penny Maurer",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/pmarie.creates/profile/instagram-profile.jpg",
+      "available_download_candidates": 18,
+      "queued_downloads": 12
+    },
+    "pooja_jeshang_illustrations": {
+      "slug": "pooja_jeshang_illustrations",
+      "name": "Pooja Jeshang",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "poppiesanducks": {
+      "slug": "poppiesanducks",
+      "name": "Benedetta Conforzi",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/poppiesanducks/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "prajaktarao": {
+      "slug": "prajaktarao",
+      "name": "Prajakta Rao",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/prajaktarao/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "prints.charming.studio": {
+      "slug": "prints.charming.studio",
+      "name": "Twila Yoder",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "printsbynicole": {
+      "slug": "printsbynicole",
+      "name": "Nicole Borjas",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/printsbynicole/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "prisca_priano": {
+      "slug": "prisca_priano",
+      "name": "Prisca Priano",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/prisca_priano/profile/instagram-profile.jpg",
+      "available_download_candidates": 37,
+      "queued_downloads": 12
+    },
+    "purubarnwal_official": {
+      "slug": "purubarnwal_official",
+      "name": "Puru Raj",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/purubarnwal_official/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "qousqoza7": {
+      "slug": "qousqoza7",
+      "name": "Sahar Ahmed",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/qousqoza7/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "r_hernandez_textiles": {
+      "slug": "r_hernandez_textiles",
+      "name": "Renee Hernandez",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/r_hernandez_textiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "rabbittownart": {
+      "slug": "rabbittownart",
+      "name": "Marta Tesoro",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/rabbittownart/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "rachael.addis.artist": {
+      "slug": "rachael.addis.artist",
+      "name": "Rachael Addis",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/rachael.addis.artist/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "rebeccafrostillustration": {
+      "slug": "rebeccafrostillustration",
+      "name": "Rebecca Frost",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/rebeccafrostillustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "rickmidlerstudios": {
+      "slug": "rickmidlerstudios",
+      "name": "Rick Midler",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "riyakeera": {
+      "slug": "riyakeera",
+      "name": "Ruriya Shrestha",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/riyakeera/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "robertapaolini.designer": {
+      "slug": "robertapaolini.designer",
+      "name": "Roberta Paolini",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/robertapaolini.designer/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "rosalia_prints": {
+      "slug": "rosalia_prints",
+      "name": "Abigail Dmello",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/rosalia_prints/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "rosalinde.clara": {
+      "slug": "rosalinde.clara",
+      "name": "Rosalinde Clara B",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "rosita.uricchio": {
+      "slug": "rosita.uricchio",
+      "name": "Rosita Uricchio",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/rosita.uricchio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "rousehousedesign": {
+      "slug": "rousehousedesign",
+      "name": "Amanda Letscher",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/rousehousedesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "sabethelberse_studio": {
+      "slug": "sabethelberse_studio",
+      "name": "Sabeth Elberse",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/sabethelberse_studio/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "sabinawgustrin": {
+      "slug": "sabinawgustrin",
+      "name": "Sabina W. Gustrin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "salmaillustrates": {
+      "slug": "salmaillustrates",
+      "name": "Salma Koshek",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/salmaillustrates/profile/instagram-profile.jpg",
+      "available_download_candidates": 16,
+      "queued_downloads": 12
+    },
+    "salo.demateicara": {
+      "slug": "salo.demateicara",
+      "name": "Salo Dematei Cara",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/salo.demateicara/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "saltysirenstudios": {
+      "slug": "saltysirenstudios",
+      "name": "Charlotte Victoria",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/saltysirenstudios/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "samjayne_design": {
+      "slug": "samjayne_design",
+      "name": "Samantha Keyte",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/samjayne_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "sandrabcreative": {
+      "slug": "sandrabcreative",
+      "name": "Sandra Botero",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/sandrabcreative/profile/instagram-profile.jpg",
+      "available_download_candidates": 20,
+      "queued_downloads": 12
+    },
+    "sandrahutterdesigns": {
+      "slug": "sandrahutterdesigns",
+      "name": "Sandra Hutter",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/sandrahutterdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "sanikab.textiles": {
+      "slug": "sanikab.textiles",
+      "name": "Sanika Borkar",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/sanikab.textiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "saracartmelldesign": {
+      "slug": "saracartmelldesign",
+      "name": "Sara Cartmell",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 17,
+      "queued_downloads": 12
+    },
+    "sarah_biggs_design": {
+      "slug": "sarah_biggs_design",
+      "name": "Sarah Biggs",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/sarah_biggs_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "sarah_metcalfe_design": {
+      "slug": "sarah_metcalfe_design",
+      "name": "Sarah Metcalfe",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/sarah_metcalfe_design/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "saraharnettstudio": {
+      "slug": "saraharnettstudio",
+      "name": "Sarah Arnett",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/saraharnettstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "scrappily_ever_after": {
+      "slug": "scrappily_ever_after",
+      "name": "Kaia Tait",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/scrappily_ever_after/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "seel.illustrations": {
+      "slug": "seel.illustrations",
+      "name": "Serineh Eliasian",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/seel.illustrations/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "september.sneha": {
+      "slug": "september.sneha",
+      "name": "Sneha Kakad",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/september.sneha/profile/instagram-profile.jpg",
+      "available_download_candidates": 19,
+      "queued_downloads": 12
+    },
+    "shirabentley": {
+      "slug": "shirabentley",
+      "name": "Shira Bentley",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/shirabentley/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "siandowneydesigns": {
+      "slug": "siandowneydesigns",
+      "name": "Sian Downey",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/siandowneydesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 13,
+      "queued_downloads": 12
+    },
+    "silromanodesigns": {
+      "slug": "silromanodesigns",
+      "name": "Silvia Romano",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/silromanodesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 24,
+      "queued_downloads": 12
+    },
+    "silvia_gariglio_illustrator": {
+      "slug": "silvia_gariglio_illustrator",
+      "name": "Silvia Gariglio Gariglio",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/silvia_gariglio_illustrator/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "simona.ferrero_pattern": {
+      "slug": "simona.ferrero_pattern",
+      "name": "Simona Ferrero",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/simona.ferrero_pattern/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "simoneinez.illu": {
+      "slug": "simoneinez.illu",
+      "name": "Simone Grice",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/simoneinez.illu/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "siobhanelizabethcreates": {
+      "slug": "siobhanelizabethcreates",
+      "name": "Siobhan McLoughlin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/siobhanelizabethcreates/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "sister_sumac": {
+      "slug": "sister_sumac",
+      "name": "Chelsea Erhart",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/sister_sumac/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "sneha_coloursoft": {
+      "slug": "sneha_coloursoft",
+      "name": "Sneha Bhosale",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/sneha_coloursoft/profile/instagram-profile.jpg",
+      "available_download_candidates": 10,
+      "queued_downloads": 10
+    },
+    "snipesdesign": {
+      "slug": "snipesdesign",
+      "name": "Jennifer Spencer",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/snipesdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "solleyfiona": {
+      "slug": "solleyfiona",
+      "name": "Fiona Solley",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/solleyfiona/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "staceynovellidesigns": {
+      "slug": "staceynovellidesigns",
+      "name": "Stacey Novelli",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "stavrina_art_lab": {
+      "slug": "stavrina_art_lab",
+      "name": "Stavrina (aka Stavrina Art Lab) Devetzoglou",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/stavrina_art_lab/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "stephaniefionadesign": {
+      "slug": "stephaniefionadesign",
+      "name": "Stephanie Holdsworth",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/stephaniefionadesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 23,
+      "queued_downloads": 12
+    },
+    "stephanygeiser": {
+      "slug": "stephanygeiser",
+      "name": "Stephany Geiser",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/stephanygeiser/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "stixylin": {
+      "slug": "stixylin",
+      "name": "Dominique Collins",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/stixylin/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "stokelanetextiles": {
+      "slug": "stokelanetextiles",
+      "name": "Penny Mcintyre",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "storigraphic": {
+      "slug": "storigraphic",
+      "name": "Storigraphic (and Storihome)",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/storigraphic/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "studio.sun.shine": {
+      "slug": "studio.sun.shine",
+      "name": "Marina Ellen Simillide",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/studio.sun.shine/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "studio8design.illustration": {
+      "slug": "studio8design.illustration",
+      "name": "Stephanie Beischer",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/studio8design.illustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 11,
+      "queued_downloads": 11
+    },
+    "studio_patme": {
+      "slug": "studio_patme",
+      "name": "Raquel Saez Fliquete",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/studio_patme/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "studioalisonnolan": {
+      "slug": "studioalisonnolan",
+      "name": "Alison Nolan",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/studioalisonnolan/profile/instagram-profile.jpg",
+      "available_download_candidates": 3,
+      "queued_downloads": 3
+    },
+    "studioebloom": {
+      "slug": "studioebloom",
+      "name": "Elizabeth Bloom",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/studioebloom/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "studiojoanamattos": {
+      "slug": "studiojoanamattos",
+      "name": "Joana Mattos",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/studiojoanamattos/profile/instagram-profile.jpg",
+      "available_download_candidates": 4,
+      "queued_downloads": 4
+    },
+    "studiomodink": {
+      "slug": "studiomodink",
+      "name": "Karla Stelling-McWeeney",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/studiomodink/profile/instagram-profile.jpg",
+      "available_download_candidates": 36,
+      "queued_downloads": 12
+    },
+    "studioottilin": {
+      "slug": "studioottilin",
+      "name": "Sophie Quiling",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/studioottilin/profile/instagram-profile.jpg",
+      "available_download_candidates": 32,
+      "queued_downloads": 12
+    },
+    "suchidebdesigns": {
+      "slug": "suchidebdesigns",
+      "name": "Suchi Deb",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/suchidebdesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 21,
+      "queued_downloads": 12
+    },
+    "suegentart": {
+      "slug": "suegentart",
+      "name": "Sue Gent",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/suegentart/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "suehalsteaddesigns": {
+      "slug": "suehalsteaddesigns",
+      "name": "Sue Halstead",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/suehalsteaddesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "sukimcmaster": {
+      "slug": "sukimcmaster",
+      "name": "Suki McMaster",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/sukimcmaster/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "susannahleecutler": {
+      "slug": "susannahleecutler",
+      "name": "Susannah Cutler",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/susannahleecutler/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "susanthomascreative": {
+      "slug": "susanthomascreative",
+      "name": "Susan Thomas",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/susanthomascreative/profile/instagram-profile.jpg",
+      "available_download_candidates": 26,
+      "queued_downloads": 12
+    },
+    "sussecollection": {
+      "slug": "sussecollection",
+      "name": "Susse Linton",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/sussecollection/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "svetlanalerie": {
+      "slug": "svetlanalerie",
+      "name": "Svetlana Lerie",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/svetlanalerie/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "t_anne_j_creative": {
+      "slug": "t_anne_j_creative",
+      "name": "Taylor Johnson",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/t_anne_j_creative/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "tahliapaigetextiles": {
+      "slug": "tahliapaigetextiles",
+      "name": "Tahlia Paige",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "tara_k_illustration": {
+      "slug": "tara_k_illustration",
+      "name": "Tara Keogh",
+      "scrape_quality": "good",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/tara_k_illustration/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "tatjana_tscherepanov": {
+      "slug": "tatjana_tscherepanov",
+      "name": "Tatjana Tscherepanov",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/tatjana_tscherepanov/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "tawnmoore": {
+      "slug": "tawnmoore",
+      "name": "Tawn Moore",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/tawnmoore/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "terriconraddesigns": {
+      "slug": "terriconraddesigns",
+      "name": "Terri Conrad",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/terriconraddesigns/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "textilesbyellie": {
+      "slug": "textilesbyellie",
+      "name": "Ellie Beales",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/textilesbyellie/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "thanafriel": {
+      "slug": "thanafriel",
+      "name": "Thana Friel",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/thanafriel/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "thaonca": {
+      "slug": "thaonca",
+      "name": "Thais Mendonca",
+      "scrape_quality": "good",
+      "scrape_quality_score": 60,
+      "profile_image": "../../assets/designers/thaonca/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "the_art_booth": {
+      "slug": "the_art_booth",
+      "name": "Dawn Booth",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/the_art_booth/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "the_artsyfreeman": {
+      "slug": "the_artsyfreeman",
+      "name": "Paula Freeman",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/the_artsyfreeman/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "thegraphicpatternstudio": {
+      "slug": "thegraphicpatternstudio",
+      "name": "Leigh Bagley",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/thegraphicpatternstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "thepatternlane": {
+      "slug": "thepatternlane",
+      "name": "Savvy Tagra",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/thepatternlane/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "therosenborgcompany": {
+      "slug": "therosenborgcompany",
+      "name": "Rosalie Sterenborg",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/therosenborgcompany/profile/instagram-profile.jpg",
+      "available_download_candidates": 35,
+      "queued_downloads": 12
+    },
+    "tina.type": {
+      "slug": "tina.type",
+      "name": "Tina Sims",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/tina.type/profile/instagram-profile.jpg",
+      "available_download_candidates": 8,
+      "queued_downloads": 8
+    },
+    "tizicav.official": {
+      "slug": "tizicav.official",
+      "name": "Tiziana Cavaliere",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/tizicav.official/profile/instagram-profile.jpg",
+      "available_download_candidates": 6,
+      "queued_downloads": 6
+    },
+    "tm_design25": {
+      "slug": "tm_design25",
+      "name": "Theo Mitchell",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/tm_design25/profile/instagram-profile.jpg",
+      "available_download_candidates": 26,
+      "queued_downloads": 12
+    },
+    "tonia_tkach": {
+      "slug": "tonia_tkach",
+      "name": "Tonia Tkach",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/tonia_tkach/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "tracyschifeling": {
+      "slug": "tracyschifeling",
+      "name": "Tracy Schifeling",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/tracyschifeling/profile/instagram-profile.jpg",
+      "available_download_candidates": 9,
+      "queued_downloads": 9
+    },
+    "tragicallyindecisive": {
+      "slug": "tragicallyindecisive",
+      "name": "emily tragedy",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "trashionpattern": {
+      "slug": "trashionpattern",
+      "name": "Titti Augustsson",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/trashionpattern/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "tugceasik.art": {
+      "slug": "tugceasik.art",
+      "name": "Tugce Asik Yalcin",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/tugceasik.art/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "turquoisegem_home": {
+      "slug": "turquoisegem_home",
+      "name": "Gem Blastock",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/turquoisegem_home/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "typemonger": {
+      "slug": "typemonger",
+      "name": "Sarah Stec",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/typemonger/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "ulrikajarldesign": {
+      "slug": "ulrikajarldesign",
+      "name": "Ulrika Jarl",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "unblinkstudio": {
+      "slug": "unblinkstudio",
+      "name": "Jackie Tahara",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/unblinkstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 28,
+      "queued_downloads": 12
+    },
+    "valentin_vpv": {
+      "slug": "valentin_vpv",
+      "name": "Valentin Viven",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/valentin_vpv/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "valevale_art": {
+      "slug": "valevale_art",
+      "name": "Valentina Di Blase",
+      "scrape_quality": "good",
+      "scrape_quality_score": 70,
+      "profile_image": "../../assets/designers/valevale_art/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "vallaines.arte": {
+      "slug": "vallaines.arte",
+      "name": "Inês Valla",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/vallaines.arte/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "vanita.iyer": {
+      "slug": "vanita.iyer",
+      "name": "Vanita Subramanian",
+      "scrape_quality": "good",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/vanita.iyer/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "vendelavrensk": {
+      "slug": "vendelavrensk",
+      "name": "Vendela Vrensk",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/vendelavrensk/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "veritylowry": {
+      "slug": "veritylowry",
+      "name": "Verity Lowry",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/veritylowry/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "veropetrina.arte": {
+      "slug": "veropetrina.arte",
+      "name": "Veronica Petrina",
+      "scrape_quality": "usable",
+      "scrape_quality_score": 65,
+      "profile_image": "../../assets/designers/veropetrina.arte/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "verymuchhello": {
+      "slug": "verymuchhello",
+      "name": "Danny Crofts",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/verymuchhello/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "vicky.comas": {
+      "slug": "vicky.comas",
+      "name": "Maria Victoria Comas",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/vicky.comas/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "victoriakelland_patterns": {
+      "slug": "victoriakelland_patterns",
+      "name": "Victoria Kelland",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg",
+      "available_download_candidates": 29,
+      "queued_downloads": 12
+    },
+    "vihiboh": {
+      "slug": "vihiboh",
+      "name": "Andrea Voros",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/vihiboh/profile/instagram-profile.jpg",
+      "available_download_candidates": 43,
+      "queued_downloads": 12
+    },
+    "virginialandro": {
+      "slug": "virginialandro",
+      "name": "Virginia Landro",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/virginialandro/profile/instagram-profile.jpg",
+      "available_download_candidates": 28,
+      "queued_downloads": 12
+    },
+    "visual.eavesdropper": {
+      "slug": "visual.eavesdropper",
+      "name": "Aneri Jariwala",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/visual.eavesdropper/profile/instagram-profile.jpg",
+      "available_download_candidates": 12,
+      "queued_downloads": 12
+    },
+    "vivemma.design": {
+      "slug": "vivemma.design",
+      "name": "Vivienne Emma",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/vivemma.design/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "vivinicolin": {
+      "slug": "vivinicolin",
+      "name": "Viviane Nicolin",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/vivinicolin/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "vvisuals___": {
+      "slug": "vvisuals___",
+      "name": "Vivian Florez",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/vvisuals___/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "wanderingmoda": {
+      "slug": "wanderingmoda",
+      "name": "Miriam Rowe",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/wanderingmoda/profile/instagram-profile.jpg",
+      "available_download_candidates": 33,
+      "queued_downloads": 12
+    },
+    "webvillastudio": {
+      "slug": "webvillastudio",
+      "name": "Beata Pijanowska",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/webvillastudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 36,
+      "queued_downloads": 12
+    },
+    "weitz1750": {
+      "slug": "weitz1750",
+      "name": "Carole Weitz",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/weitz1750/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "whitestoneprintstudio": {
+      "slug": "whitestoneprintstudio",
+      "name": "Núria Belloc Rocasalbas",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/whitestoneprintstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "wigglesignalstudio": {
+      "slug": "wigglesignalstudio",
+      "name": "Meredith Hoffman",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 85,
+      "profile_image": "../../assets/designers/wigglesignalstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "xee_summer": {
+      "slug": "xee_summer",
+      "name": "Xia Carstens",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/xee_summer/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "yao_hg": {
+      "slug": "yao_hg",
+      "name": "Yao Hernandez",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/yao_hg/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    },
+    "yuhan.lo_drawing": {
+      "slug": "yuhan.lo_drawing",
+      "name": "Yuhan Lo",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 95,
+      "profile_image": "../../assets/designers/yuhan.lo_drawing/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "yuliia_bahniuk": {
+      "slug": "yuliia_bahniuk",
+      "name": "Yuliia Bahniuk",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg",
+      "available_download_candidates": 2,
+      "queued_downloads": 2
+    },
+    "yuyasutake": {
+      "slug": "yuyasutake",
+      "name": "Yu Yasutake",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/yuyasutake/profile/instagram-profile.jpg",
+      "available_download_candidates": 33,
+      "queued_downloads": 12
+    },
+    "yvonnehartstudio": {
+      "slug": "yvonnehartstudio",
+      "name": "Yvonne Hart",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 90,
+      "profile_image": "../../assets/designers/yvonnehartstudio/profile/instagram-profile.jpg",
+      "available_download_candidates": 5,
+      "queued_downloads": 5
+    },
+    "zaba.creative": {
+      "slug": "zaba.creative",
+      "name": "Ursula McCarthy",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 80,
+      "profile_image": "../../assets/designers/zaba.creative/profile/instagram-profile.jpg",
+      "available_download_candidates": 7,
+      "queued_downloads": 7
+    },
+    "zoesymonsdesign": {
+      "slug": "zoesymonsdesign",
+      "name": "Zoe Symons",
+      "scrape_quality": "good",
+      "scrape_quality_score": 75,
+      "profile_image": "../../assets/designers/zoesymonsdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 1,
+      "queued_downloads": 1
+    },
+    "zotosdesign": {
+      "slug": "zotosdesign",
+      "name": "Alexia Zotos",
+      "scrape_quality": "excellent",
+      "scrape_quality_score": 100,
+      "profile_image": "../../assets/designers/zotosdesign/profile/instagram-profile.jpg",
+      "available_download_candidates": 0,
+      "queued_downloads": 0
+    }
+  }
+}

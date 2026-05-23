@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Katrine Hesselberg
 website_meta_description: I am a norwegian graphic designer and illustrator
 website_about_raw: >-
@@ -116,11 +118,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Katrine Hesselberg
+instagram_biography: "\U0001F338 Maler blomsterbokstaver\n\U0001F9D8‍♀️ Healer fra utmattelse\n\U0001F426‍\U0001F525 Tar imot bestillinger på dm"
+instagram_posts_count: 92
+instagram_followers_count: 239
+instagram_follows_count: 1212
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/446288490_976404887130455_911412508339889277_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF92GQQntXWR4RTBsq0hlCHoM5ewLHEO1jOa_gWeNotDhfmEJMo5-Ga_ZQyosHMS0M&_nc_ohc=OzXXcVMEXdYQ7kNvwEd5zx_&_nc_gid=SRDsf2lVuMDra-Ykq4PLEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6YSt0-oPbd_-4NfRgm6rWj2S_l2m5-2kBzIGGb68H-AA&oe=6A140449&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/446288490_976404887130455_911412508339889277_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF92GQQntXWR4RTBsq0hlCHoM5ewLHEO1jOa_gWeNotDhfmEJMo5-Ga_ZQyosHMS0M&_nc_ohc=OzXXcVMEXdYQ7kNvwEd5zx_&_nc_gid=SRDsf2lVuMDra-Ykq4PLEg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6YSt0-oPbd_-4NfRgm6rWj2S_l2m5-2kBzIGGb68H-AA&oe=6A140449&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/katrinesstrek/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6480
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/katrinesstrek/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/katrinesstrek/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/katrinesstrek/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # katrinesstrek
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/katrinesstrek/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -42,15 +42,45 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Odarka Hrychaniuk • Packaging Illustrator
+instagram_biography: "\U0001F33F Botanical illustration\nfor packaging & artisan brands\nWine • Olive oil • Honey • Tea & more\nWork with me ↓\nStudio @dashaglashastudio.pt"
+instagram_posts_count: 128
+instagram_followers_count: 373
+instagram_follows_count: 760
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/520507245_18019051577726320_5375534889015060502_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF1EfaDPMie39HxZrEvzqudpUjT-onaHXdHn7XRj4dHomawG0w1nWBwvTbXDtzxz0k&_nc_ohc=lRtlK5JCWnsQ7kNvwHJzJij&_nc_gid=DCuaXLY964a02Ukw3WLhkA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4i331D6ePkY-a_psQ4FEVnqeO5Sutw6JTm__Bc54aHjQ&oe=6A13FA49&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/520507245_18019051577726320_5375534889015060502_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF1EfaDPMie39HxZrEvzqudpUjT-onaHXdHn7XRj4dHomawG0w1nWBwvTbXDtzxz0k&_nc_ohc=lRtlK5JCWnsQ7kNvwHJzJij&_nc_gid=DCuaXLY964a02Ukw3WLhkA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4i331D6ePkY-a_psQ4FEVnqeO5Sutw6JTm__Bc54aHjQ&oe=6A13FA49&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/dashaglasha_art/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7539
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/dashaglasha_art/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/dashaglasha_art/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/dashaglasha_art/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # dashaglasha_art
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/dashaglasha_art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: surface design — Sofia Poejo Art
 website_meta_description: ''
 website_about_raw: >-
@@ -484,11 +486,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Sofia “Fia” Poejo
+instagram_biography: "✏️NYC ✷ Illustrator + Designer\n\U0001F337Represented by Analía Cabello @andreabrownlit \n☀️Past: Scholastic, MoteSea, SRQ, NYRP & More!\n\U0001F48Csofiapoejoart@gmail.com"
+instagram_posts_count: 128
+instagram_followers_count: 861
+instagram_follows_count: 824
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/545319437_18075997748099445_6677295892747710082_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH9CcA0Qprc_zy4aecGsZf2YROgz-41Mfb-Ku049dql2FM5oujiY0QqOzTfqvFfipI&_nc_ohc=D6pfOzHjwNoQ7kNvwHt9spM&_nc_gid=UjFdMVaXnGrueNXDsmRlsQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Y__qTyvPvWfWgmK5x8JJEgcizj_HXMCajnFIXYVo1Bw&oe=6A13F4E8&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/545319437_18075997748099445_6677295892747710082_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH9CcA0Qprc_zy4aecGsZf2YROgz-41Mfb-Ku049dql2FM5oujiY0QqOzTfqvFfipI&_nc_ohc=D6pfOzHjwNoQ7kNvwHt9spM&_nc_gid=UjFdMVaXnGrueNXDsmRlsQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Y__qTyvPvWfWgmK5x8JJEgcizj_HXMCajnFIXYVo1Bw&oe=6A13F4E8&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/kidfia/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8507
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/kidfia/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/kidfia/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/kidfia/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # kidfia
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kidfia/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

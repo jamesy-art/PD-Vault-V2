@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: StokeLane Textiles - Stoke Lane Textiles
 website_meta_description: >-
   A beautiful collection of textile designs, sustainably printed onto natural
@@ -239,11 +241,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: stoke_lane_studio
+instagram_biography: |-
+  Upholstery Linens and Eco wallpapers designed and printed in Australia.
+            Textile Design Studio  
+             1/7 Belubula Street Carcoar 2791
+instagram_posts_count: 178
+instagram_followers_count: 1527
+instagram_follows_count: 1555
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/402429946_1743902266088795_4581278816756200010_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzjfdrB7IQLTn99AUGoOpp0ioCJycSEtCIDfo_CnzBzV3LuER0n7I4JNOIHaO0Bes&_nc_ohc=y3xKU5aElCYQ7kNvwGXaPv6&_nc_gid=wA7qh0J9ooi24Gmzy_Xr5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5uSPldkLGDI68RLJRwiU3ES4Ydt35dGvq3ZIQ8nZqrww&oe=6A13E5FB&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/402429946_1743902266088795_4581278816756200010_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzjfdrB7IQLTn99AUGoOpp0ioCJycSEtCIDfo_CnzBzV3LuER0n7I4JNOIHaO0Bes&_nc_ohc=y3xKU5aElCYQ7kNvwGXaPv6&_nc_gid=wA7qh0J9ooi24Gmzy_Xr5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5uSPldkLGDI68RLJRwiU3ES4Ydt35dGvq3ZIQ8nZqrww&oe=6A13E5FB&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3420
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # stokelanetextiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

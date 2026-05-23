@@ -6,6 +6,18 @@
 
 ---
 
+## [2026-05-22] edit | Level 4 editorial enrichment — 5 designer profiles (alli-amanda batch)
+Enriched 5 staging profiles in Level 4 Designer Image Enrichment Mode: Alliconnerillustration (Alli Conner), Amandagracedesign (Mandy Corcoran), amanda_dilworth (Amanda Dilworth), althea___studio (Althea Studio / Juana Ferreira + Constanza Macris), Allisonblackillustration (Allison Black). All standard editorial body sections written from frontmatter, website_about_clean, Instagram bio, and selected image metadata. All 5 files promoted level_4 → level_5, enrichment_status: enriched. Index updated with 5 new _level5 staging entries.
+
+## [2026-05-22] edit | Level 5 promotion — alisonmporter
+alisonmporter (Alison Porter) promoted level_4 → level_5. Image review now complete (image_reviewed: true, 8 selected_patterns, 4 selected_placements). enrichment_status updated to enriched. Index entry moved from _level4 staging to _level5 staging.
+
+## [2026-05-22] edit | Level 4 editorial enrichment — 10 designer profiles (alex-ali batch)
+Enriched 10 staging profiles in Level 4 Designer Image Enrichment Mode: alexandrabordallo, alishadestudio, alisonmporter, aliciahayesart, alicepurlstudio, aliceemilytextiles, ali.wynne.pattern, alexfoxley, alexandrakfarmer, alexandragalibert. All standard editorial body sections (Overview, Style and Aesthetic, Techniques and Tools, Markets and Clients, Portfolio and Presence, Career Path, Pattern Focus, Connections) written from frontmatter, website_about_clean, Instagram bio, and selected image metadata. 9 files promoted level_4 → level_5 (enrichment_status: enriched). alisonmporter held at level_4 — image_reviewed: false, enrichment_status: needs_image_table_review. Index and log updated.
+
+## [2026-05-22] edit | Enriched abey_print_studio.md → Level 5
+Level 4 editorial enrichment for Nisha Abey / Abey Print Studio. Updated Style and Aesthetic and Pattern Focus to reference selected portfolio images. Expanded Connections to include Review Australia collaboration and pattern type links. Promoted level_4 → level_5, enrichment_status: enriched.
+
 ## [2026-04-27] create | Wiki initialized
 Set up vault structure: `raw/`, `raw/assets/`, `wiki/sources/`, `wiki/entities/`, `wiki/concepts/`, `wiki/queries/`. Created `CLAUDE.md` schema, `index.md`, `log.md`, `wiki/overview.md`.
 
@@ -86,3 +98,45 @@ Re-enriched Kemi Jolaoso's profile after the pipeline corrected a previously nul
 ## [2026-05-12] edit | re-enrichment | karakellerdesigns.md
 
 Re-enriched Kara Keller's profile. Prior sections were underwritten despite a detailed Q&A interview in the `about` field. Updated sections now reflect: single-parent motivation for launching an independent practice, gouache and watercolour hand-painting with digitisation workflow, active licensing pipeline (4 pieces in discussion at time of interview), nature-led subject matter with preference for small detail, and confirmed markets (home décor, gifting, stationery).
+## [2026-05-22] edit | Level 4 enrichment → Level 5 promotion | 9 designer profiles
+
+Editorially enriched 9 designer staging files in `wiki/designers/_staging/` using Level 4 Designer Image Enrichment Mode. Sources used: `website_about_clean`, Instagram bio/metadata, `selected_patterns`, `selected_placements`, image checkbox review. All 8 standard body sections rewritten: Overview, Style and Aesthetic, Techniques and Tools, Markets and Clients, Portfolio and Presence, Career Path, Pattern Focus, Connections. All YAML frontmatter and image review tables preserved exactly. All 9 files promoted from level_4 to level_5 (`enrichment_status: enriched`).
+
+Files enriched and promoted:
+- `_marcelopez_` (Marce Lopez) — Colombian/Madrid illustrator and SPD; botanical, poetic; clients La Casita de Wendy, Noc Noc Estudio
+- `_marsuarez_` (Marcela Suarez Villa) — Barcelona/Colombian; textile illustrator; BAU Barcelona; clients Pineapples, Arkitect
+- `_pippa.and.i_` (Kathleen Atkinson) — Canada; Pippa & I studio; wallpaper SPD; Decor Imprime, Wimzy Walls, Printed Decor
+- `_vivdesign` (Vivian Hasenclever) — Norwegian-born, Luxembourg; whimsical animals, tropical botanical; Spoonflower; Uppercase + Origin Magazine features
+- `05_anukriti` (Anukriti Didwania) — India; NIFT textile designer; floral prints, natural dyes; SUI, Nainsi Agarwal, Margarit
+- `12amtoday` (Iulia Bors) — France/Romania; 12 AM Today studio; 10+ years SPD; textiles, wallpapers, video-mappings; Autour du Louvre Lens
+- `50s_vintage_dame` (Sue Cadzow) — Sydney; 20+ years; retro/vintage SPD; The Illustration Room; published books and tarot deck
+- `120binc` (Robin Chakraborty) — Mumbai; illustrator/designer; Coca-Cola, Hershey's, Levi's; SPD emerging alongside brand work
+- `a_day_outside_` (Sara Pizzinelli) — Italy; graphic designer/illustrator; atmospheric landscape illustration; visual arts and fashion clients
+
+Updated index.md with new Featured Designers — _level5 staging section.
+
+## [2026-05-22] edit | Level 4 enrichment → Level 5 promotion | 10 designer profiles
+
+Editorially enriched 10 designer staging files in `wiki/designers/_staging/` using Level 4 Designer Image Enrichment Mode. Sources used: `website_about_clean`, Instagram bio/metadata, `selected_patterns`, `selected_placements`, checked image review table entries only, existing body sections. All 8 standard body sections rewritten: Overview, Style and Aesthetic, Techniques and Tools, Markets and Clients, Portfolio and Presence, Career Path, Pattern Focus, Connections. All YAML frontmatter and image review tables preserved exactly.
+
+8 files promoted to level_5 (`enrichment_status: enriched`):
+- `alexanderadiels` (Alexander Adiels) — Sweden; illustrator/pattern designer; licensing: Robin Sprong, Fabric Bank, Cissi & Selma, Wall of Art
+- `alchemiqa` (Solange Yepez) — Toronto Canada; Ryerson + RISD trained; Lead Textile Designer at Andrea Iyamah; clients: Knixwear, Gluckstein Home, JQLYN & Co
+- `alarcon_studio` (Carmen Alarcón) — Spain; fashion, food, lifestyle illustration/pattern; bow motifs, gingham, tropical
+- `ainamsnape_print_patterns` (Aina M Snape) — Mallorca Spain; Fine Arts + LCI Barcelona; 10+ years textile; womenswear/menswear/childrenswear
+- `adelinejuliebee` (Adeline-Julie Bee) — Belgium Ardennes; watercolourist; natural inks from foraged ingredients; Spoonflower; licensing-ready; also teaches
+- `abigailbryanart` (Abigail Bryan) — Cheshire UK; Theatre Design background; hand-drawn → Illustrator; Wildflower Home Interiors + Spoonflower, Yiume, Loomwell
+- `aamorimmaria` (Maria Amorim) — Brazil; graphic design 2017; swimwear/womenswear/childrenswear/home; clients: PatBo, Maurices, Rio de Sol, Tori Richard, Mohala
+- `a_trace_of_design` (Tracey Johnson) — Nelson Bay NSW Australia; former commercial graphic designer; 828+ Spoonflower designs; nature/vintage/travel; linocut
+
+1 file enriched, stays level_4 (insufficient selected patterns for level_5):
+- `a.d.r.i.valenzuela` (Adri Valenzuela) — Córdoba Spain; illustrator for Disimusa hand-painted fan workshop; Fine Arts trained; only 2 selected patterns
+
+1 file enriched from text sources only, stays level_4 (image review not yet complete):
+- `abey_print_studio` (Nisha Abey) — Brisbane/Byron Bay Australia; 15+ years fashion/homewares; hand-painted media + Procreate; client OLI & KUBO; `enrichment_status` remains `needs_image_table_review`
+
+Updated index.md with new entries in Featured Designers — _level5 staging and _level4 staging sections.
+
+## [2026-05-21] edit | Level 4 enrichment | _lulukins_.md
+
+Editorially enriched Lee-Anne Schmidt (@_lulukins_) from level_4 staging file. Sources: `website_about_clean`, Instagram bio/metadata, image checkbox review (21 selected images, 7 marked Pattern, 4 marked Placement). Rewrote all 8 standard body sections: Overview, Style and Aesthetic, Techniques and Tools, Markets and Clients, Portfolio and Presence, Career Path, Pattern Focus, Connections. YAML frontmatter preserved exactly. Image table and checkboxes untouched. Added entry to index.md under new Featured Designers — _level4 staging section.

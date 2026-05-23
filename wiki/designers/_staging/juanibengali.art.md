@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Ilustración | Juani Bengali
 website_meta_description: >-
   Juani Bengali es el proyecto creativo de Ana García López. Ilustración, diseño
@@ -266,11 +268,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Juani Bengali
+instagram_biography: "Illustrator ❤️‍\U0001F525 designer ✨ architect \U0001F47D\nFrom Spain, based in Paris\U0001F4CD\nWork together? juanibengali.art@gmail.com\nBuy my collabs and check my website \U0001F447\U0001F3FB"
+instagram_posts_count: 312
+instagram_followers_count: 3438
+instagram_follows_count: 2502
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/562386770_18067943561251197_504078716969234519_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE9T7X0B-tHPhkqSJH2rM5zbmThFLX5tfvlCShBUirXaJ3LL9vbqSHQEGIpTRC3aEo&_nc_ohc=uigDvLEj4kIQ7kNvwFV-z4Y&_nc_gid=lD7qU9VmV-CsOzJrJ6-goA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Xh2P9s9To7-VryfA-7HEUaGEZ4gBt7_hQDYRGQqik4A&oe=6A13E3EA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/562386770_18067943561251197_504078716969234519_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE9T7X0B-tHPhkqSJH2rM5zbmThFLX5tfvlCShBUirXaJ3LL9vbqSHQEGIpTRC3aEo&_nc_ohc=uigDvLEj4kIQ7kNvwFV-z4Y&_nc_gid=lD7qU9VmV-CsOzJrJ6-goA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Xh2P9s9To7-VryfA-7HEUaGEZ4gBt7_hQDYRGQqik4A&oe=6A13E3EA&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7362
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # juanibengali.art
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/juanibengali.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

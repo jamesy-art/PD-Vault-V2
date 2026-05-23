@@ -44,6 +44,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Luova Flow
 website_meta_description: ''
 website_about_raw: >-
@@ -285,11 +286,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: "\U0001D40B\U0001D42E\U0001D428\U0001D42F\U0001D41A \U0001D405\U0001D425\U0001D428\U0001D430 | \U0001D412\U0001D42E\U0001D42B\U0001D41F\U0001D41A\U0001D41C\U0001D41E \U0001D40F\U0001D41A\U0001D42D\U0001D42D\U0001D41E\U0001D42B\U0001D427 \U0001D403\U0001D41E\U0001D42C\U0001D422\U0001D420\U0001D427"
+instagram_biography: |-
+  Whimsical worlds of maximalist patterns by Jenna Nelson✨
+  Licenses for interior, apparel and more✨
+instagram_posts_count: 476
+instagram_followers_count: 1288
+instagram_follows_count: 526
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/436401911_3715795708705690_2595170721238715121_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjguYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFniQkKmbaTE_2NaYe2_JMk1qMg0_jIr5tmhh8xLDx3qVtQS3EfWrXgbyO35WGavwg&_nc_ohc=i8DyAzdqBv0Q7kNvwHhJ2Nm&_nc_gid=hEdQcmFUbaxPsPUZ3i3VLQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af58wcqBcDoW83yjvVHtbK32d_FjKEDgJpXfi2ljaXmD1Q&oe=6A1405D2&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # luovaflow
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

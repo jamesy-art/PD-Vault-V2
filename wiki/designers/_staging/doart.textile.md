@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Design de Estampas | DoArt Design
 website_meta_description: >-
   Ilustração e Design de Estampas Ilustradora e Designer de Estampas freelancer.
@@ -169,11 +171,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Dani Duarte
+instagram_biography: |-
+  Textile Art/ Print&Pattern/ Illustration 
+  PhD student researching Textile Arts + Feminism + Aesthetics of Care
+  Rio de Janeiro & Barcelona
+instagram_posts_count: 648
+instagram_followers_count: 1378
+instagram_follows_count: 2299
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/176083512_3808976792555110_602959904289604352_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHCKCgWEAJ4E5VqpdbtnMYu6yZOHBWKnXBkjJrSupEYVsbkCk0rXAoBqBl9sSajgkk&_nc_ohc=nhCalrpW34wQ7kNvwG2b_fa&_nc_gid=ph3L1kCfJx6W5fAKXBoj_g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zf-z_BUuKoYRDB9LW88KwUBLvx67cz-VUx94eTw_9Aw&oe=6A13DC5B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/176083512_3808976792555110_602959904289604352_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHCKCgWEAJ4E5VqpdbtnMYu6yZOHBWKnXBkjJrSupEYVsbkCk0rXAoBqBl9sSajgkk&_nc_ohc=nhCalrpW34wQ7kNvwG2b_fa&_nc_gid=ph3L1kCfJx6W5fAKXBoj_g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zf-z_BUuKoYRDB9LW88KwUBLvx67cz-VUx94eTw_9Aw&oe=6A13DC5B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/doart.textile/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4902
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/doart.textile/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/doart.textile/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/doart.textile/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # doart.textile
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/doart.textile/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://alicepurlstudio.myportfolio.com/work'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/alicepurlstudio
 profile_url: ''
 instagram_images:
@@ -42,7 +42,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Alice Purl Studio
 website_meta_description: ''
 website_about_raw: >-
@@ -178,34 +182,161 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  Alice is a London-based freelance print designer with over five years of
+  industry experience. She specialises in creating painterly, fine art–inspired
+  prints for fashion, bringing a handcrafted touch to an increasingly digital
+  world. Her work has been selected by leading London print studios and
+  recognised for its painterly quality and originality.
+
+  Her work combines traditional painting and drawing with a contemporary eye for
+  colour and composition, resulting in bespoke prints that feel both fresh and
+  timeless. With experience working in-house and freelance, Alice has developed
+  a versatile design approach - adaptable to different brand identities while
+  staying true to her expressive, artistic style.
+
+  Each piece is created with care and intention, blending techniques and mediums
+  to produce original prints that stand out.
+
+  If you’re looking for unique, hand-painted textile designs tailored to your
+  brand, Alice would love to bring your ideas to life.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ''
+instagram_biography: ''
+instagram_posts_count: null
+instagram_followers_count: null
+instagram_follows_count: null
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: ''
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/alicepurlstudio/profile/1d536a93-5780-4b15-8e24-d8b94cc7a545_rwc_0x0x2362x2362x4096.png
+instagram_profile_image_bytes: 2772978
+instagram_profile_image_quality: large
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/alicepurlstudio/profile/1d536a93-5780-4b15-8e24-d8b94cc7a545_rwc_0x0x2362x2362x4096.png
+profile_images:
+  - >-
+    ../../assets/designers/alicepurlstudio/profile/1d536a93-5780-4b15-8e24-d8b94cc7a545_rwc_0x0x2362x2362x4096.png
+profile_image_local: >-
+  ../../assets/designers/alicepurlstudio/profile/1d536a93-5780-4b15-8e24-d8b94cc7a545_rwc_0x0x2362x2362x4096.png
+images:
+  profile:
+    - >-
+      ../../assets/designers/alicepurlstudio/profile/1d536a93-5780-4b15-8e24-d8b94cc7a545_rwc_0x0x2362x2362x4096.png
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_10_9ac4351c-ab04-4926-bf1d-6fded4b26b17.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_20_72b2de79-87de-45de-ac71-dbfe89da3c90.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_22_a44e3ff3-2665-4ea0-a898-6ddd5d9c5494.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_26_26ecbf47-5138-410e-b55b-534ae0291840.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_27_1126ec4c-0c98-4e7d-8294-b52ba6e68056.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_2_f8c5bf03-6986-419d-af7d-0e941e7cf27f_rw_1200.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_06b27375-8df6-48fb-b170-036fe22731d5_rw_1920.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_f33d5f1b-983c-4672-9cfa-63025e514e27_rw_1920.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_4_c7d5bfa7-d261-4c0b-9368-1d53ab64e997_rw_1920.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_7_e8982bbd-af07-4ec6-9b51-40a87a201612_rw_1200.png
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_10_9ac4351c-ab04-4926-bf1d-6fded4b26b17.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_20_72b2de79-87de-45de-ac71-dbfe89da3c90.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_22_a44e3ff3-2665-4ea0-a898-6ddd5d9c5494.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_26_26ecbf47-5138-410e-b55b-534ae0291840.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_2_f8c5bf03-6986-419d-af7d-0e941e7cf27f_rw_1200.png
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_f33d5f1b-983c-4672-9cfa-63025e514e27_rw_1920.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_4_c7d5bfa7-d261-4c0b-9368-1d53ab64e997_rw_1920.jpeg
+  - >-
+    ../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_7_e8982bbd-af07-4ec6-9b51-40a87a201612_rw_1200.png
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # alicepurlstudio
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/alicepurlstudio/profile/1d536a93-5780-4b15-8e24-d8b94cc7a545_rwc_0x0x2362x2362x4096.png)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_10_9ac4351c-ab04-4926-bf1d-6fded4b26b17.png)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_10_9ac4351c-ab04-4926-bf1d-6fded4b26b17.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_20_72b2de79-87de-45de-ac71-dbfe89da3c90.jpeg)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_20_72b2de79-87de-45de-ac71-dbfe89da3c90.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_22_a44e3ff3-2665-4ea0-a898-6ddd5d9c5494.png)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_22_a44e3ff3-2665-4ea0-a898-6ddd5d9c5494.png --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_26_26ecbf47-5138-410e-b55b-534ae0291840.jpeg)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_26_26ecbf47-5138-410e-b55b-534ae0291840.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_27_1126ec4c-0c98-4e7d-8294-b52ba6e68056.png)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_27_1126ec4c-0c98-4e7d-8294-b52ba6e68056.png --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_2_f8c5bf03-6986-419d-af7d-0e941e7cf27f_rw_1200.png)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_2_f8c5bf03-6986-419d-af7d-0e941e7cf27f_rw_1200.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_06b27375-8df6-48fb-b170-036fe22731d5_rw_1920.jpeg)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_06b27375-8df6-48fb-b170-036fe22731d5_rw_1920.jpeg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_f33d5f1b-983c-4672-9cfa-63025e514e27_rw_1920.jpeg)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_3_f33d5f1b-983c-4672-9cfa-63025e514e27_rw_1920.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_4_c7d5bfa7-d261-4c0b-9368-1d53ab64e997_rw_1920.jpeg)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_4_c7d5bfa7-d261-4c0b-9368-1d53ab64e997_rw_1920.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_7_e8982bbd-af07-4ec6-9b51-40a87a201612_rw_1200.png)<br><!-- image:../../assets/designers/alicepurlstudio/instagram/alicepurlstudio_imageye___-_imgi_7_e8982bbd-af07-4ec6-9b51-40a87a201612_rw_1200.png --> | [x] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Alice Purling (Alice Purl Studio) is a London-based freelance print designer with over five years of industry experience. She specialises in painterly, fine art–inspired prints for fashion, bringing a handcrafted quality to commercial print design. Her work has been selected by leading London print studios and is recognised for painterly originality. She has worked both in-house and as a freelancer, adapting to different brand identities while maintaining a consistent expressive style.
 
 ## Style and Aesthetic
 
+Purling's aesthetic is rooted in traditional painting and drawing, translated into fashion-forward prints. Portfolio titles — J.W. Turner–inspired seascapes, Abstract Monotones, Artistic Garden, Maximalist Tropics, Rainforest Brief — suggest a range spanning fine art influence and trend-driven commercial output. Selected Instagram images suggest gestural, expressive compositions with a handcrafted surface quality.
+
 ## Techniques and Tools
+
+Combines traditional painting and drawing with a contemporary eye for colour and composition. Works across media, blending techniques in each piece. Portfolio spans fashion and interior briefs (SS24 season naming convention). Collaboration with @& Repeat Studio is documented on her website. Open to freelance commissions.
 
 ## Markets and Clients
 
+- [[Womenswear]] — primary market; fashion-focused portfolio with seasonal brief naming
+- [[Home Decor]] — interior project briefs present in portfolio (Precious Paradise, Positano SS23, Natural Forms SS24)
+- @& Repeat Studio — confirmed collaboration (Rainforest Brief SS24)
+- Leading London print studios — work selected (unnamed)
+
 ## Portfolio and Presence
+
+- Website: alicepurlstudio.myportfolio.com
+- Instagram: @alicepurlstudio
 
 ## Career Path
 
+London-based with over five years of print design experience, working in-house and freelance. Portfolio dated from 2018 to 2026 with consistent seasonal brief production. Available for freelance commissions from brands seeking unique, hand-painted textile designs.
+
 ## Pattern Focus
 
+Selected Instagram images suggest painterly print work across florals (trend-driven and fine art–inspired), tropical and rainforest motifs, landscape abstracts (seascapes, layered landscapes), and abstract monotone compositions. The seasonal brief structure (SS24, Trans 2023) indicates trend-aligned commercial production. Work is characterised by a painterly, handcrafted finish.
+
 ## Connections
+
+- [[Womenswear]] — primary market
+- [[Home Decor]] — secondary market
+- @& Repeat Studio — confirmed collaboration

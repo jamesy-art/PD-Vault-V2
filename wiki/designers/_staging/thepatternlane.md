@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: The Pattern Lane | Print Design Studio for Fashion & Home
 website_meta_description: >-
   Discover bold, original textile prints for fashion, home, and lifestyle. Shop
@@ -313,11 +315,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: The Pattern Lane
+instagram_biography: "Print and Pattern for Fashion, Accessories & Home Textile\U0001F31F\nShop Prints ⇩"
+instagram_posts_count: 388
+instagram_followers_count: 2244
+instagram_follows_count: 1686
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/47583708_527880404375948_7027021002580164608_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGwGU91O8gxJ1LoAH70f6OYN9iSZ4Q6JR4ak_yZJOK6HPDMPL5xQUoZoxt66QGabgjRtKUAl4rk7X7NVINc5wN8&_nc_ohc=H_dTWhbl7ugQ7kNvwFUUf_n&_nc_gid=2AtqcCw_sCqKID08RhWNZQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Q4sTFUcKrgDL6I4MmT90sfXpDcJzzOxo1rLVvsh0nKQ&oe=6A13CE97&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/47583708_527880404375948_7027021002580164608_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGwGU91O8gxJ1LoAH70f6OYN9iSZ4Q6JR4ak_yZJOK6HPDMPL5xQUoZoxt66QGabgjRtKUAl4rk7X7NVINc5wN8&_nc_ohc=H_dTWhbl7ugQ7kNvwFUUf_n&_nc_gid=2AtqcCw_sCqKID08RhWNZQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Q4sTFUcKrgDL6I4MmT90sfXpDcJzzOxo1rLVvsh0nKQ&oe=6A13CE97&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4491
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # thepatternlane
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/thepatternlane/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

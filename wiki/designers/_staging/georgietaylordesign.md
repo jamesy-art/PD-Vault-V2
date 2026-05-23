@@ -44,6 +44,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Georgie Taylor
 website_meta_description: ''
 website_about_raw: >-
@@ -133,11 +134,40 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Georgie
+instagram_biography: |-
+  For those who want to invite more colour into their lives 
+  Artist, pattern & graphic designer
+  Prints and greeting cards available on my website now
+instagram_posts_count: 136
+instagram_followers_count: 467
+instagram_follows_count: 1056
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/362277232_1243044513032875_2082907629831719228_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFFnEP-C0J7Tb6m7P0PqToZHxHFgzyU3OmwqaLrLdYlnmJSJVxJOqet3oQisKSrx_w&_nc_ohc=o2h-VBcShScQ7kNvwERzlEL&_nc_gid=_jArGsvBTLXAdnfJzBxBcw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7t7QE-piQ5zQBb1okhyON719-dZ-p4hYPrk64bb9Vgdg&oe=6A13DDCF&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # georgietaylordesign
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

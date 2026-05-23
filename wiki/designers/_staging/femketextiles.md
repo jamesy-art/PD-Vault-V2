@@ -37,6 +37,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Femke Textiles
 website_meta_description: >-
   Femke Textiles is a Melbourne based textile design business that specialises
@@ -274,11 +276,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Simone Deckers
+instagram_biography: |-
+  Dutch/Australian artist, textile designer & screen printer.
+  Maker of functional and useful things.
+  Designed and made in Melbourne Australia.
+instagram_posts_count: 3673
+instagram_followers_count: 9437
+instagram_follows_count: 2630
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/648967182_18569607913005497_1042610249310640949_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHFk9M1LTpzr2EMfcy0c1BVYMPZDgXATNCXpSGJyfBpgsOJ2mYEE0F8Dwc-tYltBqw&_nc_ohc=GYMH9OBvTLMQ7kNvwGjX8XO&_nc_gid=SiecmKpxIB8vn_PQgjQZXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7CzXTC81OUkzg7TjI2WaghES2si_fLoBhlgfL9t2ATqw&oe=6A13FD83&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/648967182_18569607913005497_1042610249310640949_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHFk9M1LTpzr2EMfcy0c1BVYMPZDgXATNCXpSGJyfBpgsOJ2mYEE0F8Dwc-tYltBqw&_nc_ohc=GYMH9OBvTLMQ7kNvwGjX8XO&_nc_gid=SiecmKpxIB8vn_PQgjQZXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7CzXTC81OUkzg7TjI2WaghES2si_fLoBhlgfL9t2ATqw&oe=6A13FD83&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/femketextiles/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8605
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/femketextiles/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/femketextiles/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/femketextiles/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # femketextiles
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/femketextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

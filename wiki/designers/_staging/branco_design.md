@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Criação | studiobrancodesign
 website_meta_description: ''
 website_about_raw: >-
@@ -126,11 +128,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: B R A N C O   D E S I G N
+instagram_biography: "Criaçoes ✌️\U0001F4BB✏️\nDesign Gráfico | Id. Visual | Ilustrações  \nConvites | Estampas\nBrazil, SP | Por @nbadan \n\U0001F4F1Whatsapp 11 994998570"
+instagram_posts_count: 2537
+instagram_followers_count: 22836
+instagram_follows_count: 7445
+instagram_private: false
+instagram_verified: true
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/10707216_1640606482859147_530246608_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFVXkQjQfM2SfhIYBJYyqC_JWp9mwLmumdJnlyWK8PTYNEhfZTGMwhwteocT2OrxQE&_nc_ohc=aDrE2sqlf0UQ7kNvwHaXmUl&_nc_gid=Q6k7oGvAG5z465kyz5C45w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af74sihRAe322Bb4l2h0PMFaMkFv6XD3k1awM15kOqRrWA&oe=6A13CEDB&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/10707216_1640606482859147_530246608_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFVXkQjQfM2SfhIYBJYyqC_JWp9mwLmumdJnlyWK8PTYNEhfZTGMwhwteocT2OrxQE&_nc_ohc=aDrE2sqlf0UQ7kNvwHaXmUl&_nc_gid=Q6k7oGvAG5z465kyz5C45w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af74sihRAe322Bb4l2h0PMFaMkFv6XD3k1awM15kOqRrWA&oe=6A13CEDB&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/branco_design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3067
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/branco_design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/branco_design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/branco_design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # branco_design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/branco_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

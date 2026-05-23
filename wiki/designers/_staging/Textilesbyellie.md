@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Ellie Beales-Print designer
 website_meta_description: ''
 website_about_raw: >-
@@ -258,11 +260,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Ellie Beales
+instagram_biography: |-
+  Printed textile designer 
+  First class BA (Hons) Textiles
+  Freelance print designer for PopCreate
+instagram_posts_count: 118
+instagram_followers_count: 723
+instagram_follows_count: 566
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/669978728_18088026686599855_5848653428492729667_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjcuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHXv_3BxrDwegEB7J6cV2V5R0uf8En2BBUEmTz_btxz3a9p1fbEu9I3bPfDI7xyeMc&_nc_ohc=O-mOYNA8EZ8Q7kNvwFliyqu&_nc_gid=Eg1QwfPJMcozWHPqrOkTJw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5taaWAlobZu-hSMo6Zg3tNrvHFuM7-LMJWa3cz_TCR7A&oe=6A13F580&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/669978728_18088026686599855_5848653428492729667_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjcuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHXv_3BxrDwegEB7J6cV2V5R0uf8En2BBUEmTz_btxz3a9p1fbEu9I3bPfDI7xyeMc&_nc_ohc=O-mOYNA8EZ8Q7kNvwFliyqu&_nc_gid=Eg1QwfPJMcozWHPqrOkTJw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5taaWAlobZu-hSMo6Zg3tNrvHFuM7-LMJWa3cz_TCR7A&oe=6A13F580&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/textilesbyellie/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2120
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/textilesbyellie/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/textilesbyellie/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/textilesbyellie/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # textilesbyellie
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/textilesbyellie/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

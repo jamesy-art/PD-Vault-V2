@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | PragatiSharma
 website_meta_description: ''
 website_about_raw: >-
@@ -263,11 +265,43 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: usable
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: P r a g a t i . S h a r m a . M o h a n t y
+instagram_biography: >-
+  National Institute of Design, Ahmedabad
+
+  RAMAYAN Exhibition @ Walt Disney Museum • Richmond Art Center • Euphrat Museum
+  • Harvard• Montalvo • Stanford
+instagram_posts_count: 1602
+instagram_followers_count: 4916
+instagram_follows_count: 1754
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.faus1-1.fna.fbcdn.net/v/t51.82787-19/670531788_18590594674029695_2584130912484116270_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.faus1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHzBerLyYGHUbK8kTCyXYQ7DbPJB2evcY2CiVJSV6NSyp7uQHvCxrKKBXNoZ620rLg&_nc_ohc=HElqwJI1nXQQ7kNvwE9pD9s&_nc_gid=EHSDiVdAjbUOMPUwFbC-RA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6XnK3dhDdWxRZkXyGsCf1sZLzIAC0Xkngj12zbelHDdg&oe=6A140523&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.faus1-1.fna.fbcdn.net/v/t51.82787-19/670531788_18590594674029695_2584130912484116270_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.faus1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHzBerLyYGHUbK8kTCyXYQ7DbPJB2evcY2CiVJSV6NSyp7uQHvCxrKKBXNoZ620rLg&_nc_ohc=HElqwJI1nXQQ7kNvwE9pD9s&_nc_gid=EHSDiVdAjbUOMPUwFbC-RA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6XnK3dhDdWxRZkXyGsCf1sZLzIAC0Xkngj12zbelHDdg&oe=6A140523&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/pragati_sharma_artist/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 9323
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/pragati_sharma_artist/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/pragati_sharma_artist/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/pragati_sharma_artist/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # pragati_sharma_artist
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pragati_sharma_artist/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

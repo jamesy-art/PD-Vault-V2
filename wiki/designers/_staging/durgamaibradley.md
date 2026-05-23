@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Durga Mai Bradley | Quirky Surface Designs, Eco-Friendly Tote Bags, Cushion
   Covers & More
@@ -259,11 +261,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Durga Mai Bradley
+instagram_biography: "Durga-Mai Bradley / D-Mai\nSurface Pattern Designer & artist \U0001F3A8\nQuirky patterns for joyful homes & brands ✨ \nLicensing Collabs durga@durgamaibradley.com"
+instagram_posts_count: 645
+instagram_followers_count: 873
+instagram_follows_count: 2049
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/494850244_18339896014092849_2993500511610290068_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEqTQvv96Xz-DjdmiAl8xsBD3rqrVc72Hi_UuxjFe508RPfSzBStzeeaYonmvyEQGA&_nc_ohc=CiaQ7q8mc_sQ7kNvwFmx6sW&_nc_gid=v_kp_nGZOhDgg46MgR2NIA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6RD1HYzpPmtk8y5WeVO38qnGdUzhiPj1gyam1TOPAYEg&oe=6A13E528&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/494850244_18339896014092849_2993500511610290068_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEqTQvv96Xz-DjdmiAl8xsBD3rqrVc72Hi_UuxjFe508RPfSzBStzeeaYonmvyEQGA&_nc_ohc=CiaQ7q8mc_sQ7kNvwFmx6sW&_nc_gid=v_kp_nGZOhDgg46MgR2NIA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6RD1HYzpPmtk8y5WeVO38qnGdUzhiPj1gyam1TOPAYEg&oe=6A13E528&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/durgamaibradley/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5081
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/durgamaibradley/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/durgamaibradley/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/durgamaibradley/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # durgamaibradley
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/durgamaibradley/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

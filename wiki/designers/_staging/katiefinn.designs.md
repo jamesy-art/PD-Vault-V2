@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Katie Finn - 'LIVING'
 website_meta_description: >-
   A project exploring my connection to nature and how I grew up around plants
@@ -81,11 +83,39 @@ manual_about_raw: "Artist\nTextile Design @chelsea_ba_textile_design\nInspired b
 manual_reviewed: true
 manual_quality: weak
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Katie
+instagram_biography: "Artist\nTextile Design @chelsea_ba_textile_design \nInspired by nature and focus on organic shapes and forms.\n \U0001F469\U0001F3FB‍\U0001F3A8\U0001F58C️\n@katiefxx"
+instagram_posts_count: 132
+instagram_followers_count: 155
+instagram_follows_count: 465
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/503161002_18069712901496558_4568181669341331498_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gH3dXEqOiKcIhvr1pK8-6a38N5sNUoW1vCC9EiTpzQs7XUBpu1QG4rG_5NdnvqOh5g&_nc_ohc=IExwbS5jifQQ7kNvwGOfiVK&_nc_gid=3qsAOynApcuAgex3j3JGBQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zMxkzbUvrCPI4qvHvWzra8biI7REPdubXsz6-QFcmEQ&oe=6A140604&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sjc3-1.cdninstagram.com/v/t51.2885-19/503161002_18069712901496558_4568181669341331498_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gH3dXEqOiKcIhvr1pK8-6a38N5sNUoW1vCC9EiTpzQs7XUBpu1QG4rG_5NdnvqOh5g&_nc_ohc=IExwbS5jifQQ7kNvwGOfiVK&_nc_gid=3qsAOynApcuAgex3j3JGBQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zMxkzbUvrCPI4qvHvWzra8biI7REPdubXsz6-QFcmEQ&oe=6A140604&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/katiefinn.designs/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5720
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/katiefinn.designs/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/katiefinn.designs/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/katiefinn.designs/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # katiefinn.designs
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/katiefinn.designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

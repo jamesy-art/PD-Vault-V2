@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Verity Lowry
 website_meta_description: ''
 website_about_raw: >-
@@ -214,11 +216,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Verity Lowry
+instagram_biography: >-
+  Surface pattern designer & illustrator. Creating playful patterns for cool
+  clients. Let’s work together hello@veritylowry.com
+instagram_posts_count: 363
+instagram_followers_count: 930
+instagram_follows_count: 1753
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/549771356_18530347618058529_866582657220387925_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFurpr95ecUoqqoGnM7G4FcOGzU_yVl4P_3N4F6oB8yrUf5h8wQis78DDosU2Du6AA&_nc_ohc=dbzQG6-ZaT0Q7kNvwER_KEH&_nc_gid=ocfR6OM6x_nM66r_JzDB9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af73IRuSYedGx0xEACjQK_PuHvT1LxZpZ5rZIEa1Ei9LPQ&oe=6A13F1EE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/549771356_18530347618058529_866582657220387925_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFurpr95ecUoqqoGnM7G4FcOGzU_yVl4P_3N4F6oB8yrUf5h8wQis78DDosU2Du6AA&_nc_ohc=dbzQG6-ZaT0Q7kNvwER_KEH&_nc_gid=ocfR6OM6x_nM66r_JzDB9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af73IRuSYedGx0xEACjQK_PuHvT1LxZpZ5rZIEa1Ei9LPQ&oe=6A13F1EE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/veritylowry/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5695
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/veritylowry/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/veritylowry/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/veritylowry/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # veritylowry
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/veritylowry/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

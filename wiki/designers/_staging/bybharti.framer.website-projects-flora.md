@@ -109,11 +109,22 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # bybharti.framer.website-projects-flora
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

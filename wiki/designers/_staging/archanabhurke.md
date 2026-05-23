@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | Designer
 website_meta_description: >-
   Discover the portfolio of Archana Bhurke, a surface pattern designer and
@@ -259,11 +261,44 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Archana Bhurke l Surface Pattern Designer & Illustrator
+instagram_biography: |-
+  Licensed Designer ▪️ Illustrator
+  Wallpaper Design, Print Design
+  New Zealand * Mumbai 
+  Open to Art licensing and Collabs
+  archanabhurkedesign@gmail.com
+instagram_posts_count: 893
+instagram_followers_count: 1496
+instagram_follows_count: 2817
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/475428535_950922260391863_5472769981033009749_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF1OiAKCwfeAeRKxQ4FQcAPRY-zQ-6kmaUZFVFuL8Uq2paXXPUDhZa7vtVlHiTbml8&_nc_ohc=hZlszV1wJ1AQ7kNvwFOmI4o&_nc_gid=HSx8R4u49nY8soSS7bZeGg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Wqdk40q3CI20368CHdsiId4nHY2MyVXqvuL6C5oHCCg&oe=6A13EFB7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/475428535_950922260391863_5472769981033009749_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF1OiAKCwfeAeRKxQ4FQcAPRY-zQ-6kmaUZFVFuL8Uq2paXXPUDhZa7vtVlHiTbml8&_nc_ohc=hZlszV1wJ1AQ7kNvwFOmI4o&_nc_gid=HSx8R4u49nY8soSS7bZeGg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Wqdk40q3CI20368CHdsiId4nHY2MyVXqvuL6C5oHCCg&oe=6A13EFB7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6585
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # archanabhurke
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/archanabhurke/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

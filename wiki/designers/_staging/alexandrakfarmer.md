@@ -20,7 +20,7 @@ bio: ''
 website: 'https://alexandrafarmer.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/alexandrakfarmer
 profile_url: ''
 instagram_images:
@@ -37,7 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Art Prints | Alexandra Farmer
 website_meta_description: >-
   Digital prints created by Artist Alexandra Farmer. Alex, with a background in
@@ -233,34 +238,204 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Alexandra Farmer
+instagram_biography: "\U0001F49BTEXTILE / PRINT DESIGNER \U0001F49BARTIST"
+instagram_posts_count: 1535
+instagram_followers_count: 40002
+instagram_follows_count: 6955
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/441133500_1393539424859754_3508574454119556147_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODMuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHvLto8Uv3qankslrpZ6YHYfZMd7W96ouLrYzeFLuswMD2UCnIJk04P_AO0gpj3fAU&_nc_ohc=KOYd4rjgsIcQ7kNvwEsVdha&_nc_gid=BaTIchAfuZamtgITdz9Csw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af66p-xOzpfL6WAfdDmBZ4-O5xY6sBcftk7A2PtnMDsPaQ&oe=6A13D95C&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/441133500_1393539424859754_3508574454119556147_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODMuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHvLto8Uv3qankslrpZ6YHYfZMd7W96ouLrYzeFLuswMD2UCnIJk04P_AO0gpj3fAU&_nc_ohc=KOYd4rjgsIcQ7kNvwEsVdha&_nc_gid=BaTIchAfuZamtgITdz9Csw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af66p-xOzpfL6WAfdDmBZ4-O5xY6sBcftk7A2PtnMDsPaQ&oe=6A13D95C&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/alexandrakfarmer/profile/441133500_1393539424859754_3508574454119556147_n.jpg
+instagram_profile_image_bytes: 28100
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/alexandrakfarmer/profile/441133500_1393539424859754_3508574454119556147_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/alexandrakfarmer/profile/441133500_1393539424859754_3508574454119556147_n.jpg
+profile_image_local: >-
+  ../../assets/designers/alexandrakfarmer/profile/441133500_1393539424859754_3508574454119556147_n.jpg
+images:
+  profile:
+    - >-
+      ../../assets/designers/alexandrakfarmer/profile/441133500_1393539424859754_3508574454119556147_n.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616748_3610429427775229901_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616982_3610431392118898227_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616982_3610431392294910853_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596568162771_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596576609346_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596702445003_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118699590408_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118699773700_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118850709798_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118859075962_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753355726_3683737286751081572_5587920170.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349415832070_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349541429557_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349709221591_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753647246_3686182732398650542_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408272289080_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408280647429_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408414866714_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841894731583970_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841894731585000_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895033593401_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895092261976_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1767736757_3804374119828558969_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712032950114398_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712046078286286_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712057847513467_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712359661250361_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712365113845341_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712372000912800_28751097.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616748_3610429427775229901_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596702445003_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753355726_3683737286751081572_5587920170.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349415832070_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753647246_3686182732398650542_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895092261976_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712046078286286_28751097.jpg
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712359661250361_28751097.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118850709798_28751097.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # alexandrakfarmer
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/alexandrakfarmer/profile/441133500_1393539424859754_3508574454119556147_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616748_3610429427775229901_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616748_3610429427775229901_28751097.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616982_3610431392118898227_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616982_3610431392118898227_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616982_3610431392294910853_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744616982_3610431392294910853_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596568162771_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596568162771_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596576609346_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596576609346_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596702445003_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1744617364_3610434596702445003_28751097.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118699590408_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118699590408_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118699773700_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118699773700_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118850709798_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118850709798_28751097.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118859075962_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1751407349_3667393118859075962_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753355726_3683737286751081572_5587920170.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753355726_3683737286751081572_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349415832070_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349415832070_28751097.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349541429557_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349541429557_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349709221591_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753646843_3686179349709221591_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753647246_3686182732398650542_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1753647246_3686182732398650542_28751097.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408272289080_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408272289080_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408280647429_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408280647429_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408414866714_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1764793037_3779680408414866714_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841894731583970_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841894731583970_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841894731585000_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841894731585000_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895033593401_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895033593401_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895092261976_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1766958055_3797841895092261976_28751097.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1767736757_3804374119828558969_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1767736757_3804374119828558969_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712032950114398_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712032950114398_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712046078286286_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712046078286286_28751097.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712057847513467_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712057847513467_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712359661250361_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712359661250361_28751097.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712365113845341_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712365113845341_28751097.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712372000912800_28751097.jpg)<br><!-- image:../../assets/designers/alexandrakfarmer/instagram/alexandrakfarmer_1772068618_3840712372000912800_28751097.jpg --> | [ ] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Alexandra Farmer is a textile and print designer with a 20-year career across fashion and home, now based in Los Angeles, California. She has worked in London, Europe, and Australia before settling in LA. Currently developing a limited-edition art print collection, with wallpaper and home textiles planned as next steps. Her Instagram following of 40k reflects an established professional presence.
 
 ## Style and Aesthetic
 
+Farmer's work centres on florals and botanical motifs, described as a "love affair with flowers and all things beautiful." Her print career is defined by distinctly detailed decorative works. Selected Instagram images suggest painterly, detailed botanical compositions — feminine and decorative in character, suited to wall art and home applications. Print titles (Patchwork/Peony, Lemons, Sweetie, Samara, Spirit, Femme) reinforce a floral and decorative vocabulary.
+
 ## Techniques and Tools
+
+20-year background in textile and print design for fashion and home. Currently producing limited-edition art prints on Somerset Velvet Fine Art Paper (255 GSM, textured matte finish). Instagram bio: "TEXTILE / PRINT DESIGNER / ARTIST." Original artworks available on request.
 
 ## Markets and Clients
 
+- Fashion and home — 20-year career working with major fashion labels (unverified; described generically on website)
+- [[Home Decor]] — wallpaper and home textiles planned
+- Art prints — direct-to-consumer via website (launched circa 2022)
+
 ## Portfolio and Presence
+
+- Website: alexandrafarmer.com (art prints shop)
+- Instagram: @alexandrakfarmer (40k followers, 1,535 posts)
+- Los Angeles, CA
 
 ## Career Path
 
+20-year career as a textile designer across fashion and home, working in London, Europe, and Australia before settling in Los Angeles. Developed a reputation for detailed works with major labels (unverified, generic claim on website). Currently producing an art print collection with planned expansion into wallpaper and home textiles. Original artworks available by request.
+
 ## Pattern Focus
 
+Selected Instagram images suggest detailed botanical and floral work with a decorative, painterly character. The art print portfolio (Patchwork/Peony, Darling, Lemons, Sweetie, Samara, Spirit, Hope, Fable, Charlotte, Celine, Femme) indicates a broad floral and figurative vocabulary. Placement images suggest framed art print applications. Work targets the wall art and home décor market.
+
 ## Connections
+
+- [[Home Decor]] — current development direction (art prints, wallpaper, home textiles)
+- [[Womenswear]] — prior 20-year career in fashion print design

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Baptiste Vandaele
 website_meta_description: Bienvenue
 website_about_raw: >-
@@ -273,11 +275,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Baptiste Vandaele
+instagram_biography: |-
+  designer indépendant à Paris 
+  papier peint - textile - céramique - illustration
+  co-fondateur @burning.for.blue
+  Résident @villa_mais_dici
+instagram_posts_count: 1314
+instagram_followers_count: 4814
+instagram_follows_count: 2537
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/440853209_276796072171697_1236386149915702693_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1M7ccbeoOH1P-Qaed83IX1u6EF94c6EMpk41tbDVR9cd4Xveh7bpa5D_EBWVcG44&_nc_ohc=XXCuLT-r6qoQ7kNvwF5kQ0S&_nc_gid=nGwUt_ItapkaEKJPxCRq8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KMMwir--5H6H8k6n4W5NF_kCxTLde7dV32GrYTcr1Jg&oe=6A13E1B2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/440853209_276796072171697_1236386149915702693_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1M7ccbeoOH1P-Qaed83IX1u6EF94c6EMpk41tbDVR9cd4Xveh7bpa5D_EBWVcG44&_nc_ohc=XXCuLT-r6qoQ7kNvwF5kQ0S&_nc_gid=nGwUt_ItapkaEKJPxCRq8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KMMwir--5H6H8k6n4W5NF_kCxTLde7dV32GrYTcr1Jg&oe=6A13E1B2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6044
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # baptistevirgile
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/baptistevirgile/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

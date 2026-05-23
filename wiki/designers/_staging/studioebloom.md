@@ -46,6 +46,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'Shop custom artwork, bespoke home decor, and wedding designs, Bloom'
 website_meta_description: >-
   Elizabeth Bloom is a Washington, D.C.-based fashion, home decor, and textile
@@ -286,11 +288,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Elizabeth Bloom
+instagram_biography: "Designer & Illustrator rooted in style and nature \U0001F31E\nshop, collaborations, & chat ↓"
+instagram_posts_count: 670
+instagram_followers_count: 10209
+instagram_follows_count: 1127
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/554783534_18054335960540251_2344575258381882256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHl4E3w74lN_iwGBMUJbEs5tE0NdfvRsXIwFaZRb4BHDJS8_ngV3oYDi4cNEWY4ZmY&_nc_ohc=M0RYOeXzKVcQ7kNvwE3bdlO&_nc_gid=NSwtlNOWRqX_X-Zw3Zoocg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af45sp0bmXX_ULbS-G1CbK9flug33d65NSOTskVE1BK2NQ&oe=6A13E47F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/554783534_18054335960540251_2344575258381882256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHl4E3w74lN_iwGBMUJbEs5tE0NdfvRsXIwFaZRb4BHDJS8_ngV3oYDi4cNEWY4ZmY&_nc_ohc=M0RYOeXzKVcQ7kNvwE3bdlO&_nc_gid=NSwtlNOWRqX_X-Zw3Zoocg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af45sp0bmXX_ULbS-G1CbK9flug33d65NSOTskVE1BK2NQ&oe=6A13E47F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/studioebloom/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5877
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/studioebloom/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/studioebloom/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/studioebloom/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # studioebloom
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/studioebloom/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

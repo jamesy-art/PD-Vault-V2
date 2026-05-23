@@ -22,7 +22,7 @@ bio: ''
 website: 'https://alexandrabordallostudio.com'
 website_about: ''
 accepted: 30/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/alexandrabordallo
 profile_url: ''
 instagram_images:
@@ -39,7 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Alexandra Bordallo Studio
 website_meta_description: >-
   Modern quilt patterns designed by Alexandra Bordallo. All our patterns
@@ -264,34 +269,184 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Alexandra Bordallo Studio
+instagram_biography: |-
+  Quilt Pattern & Fabric Designer at @andoverfabrics
+  Surface designer @alexandrabordallodesign
+  #flourishfabricbyab #meadowwalkfabric
+instagram_posts_count: 1169
+instagram_followers_count: 20772
+instagram_follows_count: 863
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/416514181_2232552306946907_7533364011110656954_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFO6NIqZuxKPOvJQwI5ea4iR4C6PmE1Y7j3qaTzAm1eE9XwSWmscrKgMCwpdrErgzU&_nc_ohc=S56zFr6KXl8Q7kNvwEQQzfi&_nc_gid=xlEBBDqyh1WAUEWGBxvaww&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xX0cNyNCjjhv_m64KR4qzylpbf1h4WiQP8Y0LY_Dc2Q&oe=6A13F236&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/416514181_2232552306946907_7533364011110656954_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDMwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFO6NIqZuxKPOvJQwI5ea4iR4C6PmE1Y7j3qaTzAm1eE9XwSWmscrKgMCwpdrErgzU&_nc_ohc=S56zFr6KXl8Q7kNvwEQQzfi&_nc_gid=xlEBBDqyh1WAUEWGBxvaww&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xX0cNyNCjjhv_m64KR4qzylpbf1h4WiQP8Y0LY_Dc2Q&oe=6A13F236&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/alexandrabordallo/profile/416514181_2232552306946907_7533364011110656954_n.jpg
+instagram_profile_image_bytes: 242981
+instagram_profile_image_quality: large
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/alexandrabordallo/profile/416514181_2232552306946907_7533364011110656954_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/alexandrabordallo/profile/416514181_2232552306946907_7533364011110656954_n.jpg
+profile_image_local: >-
+  ../../assets/designers/alexandrabordallo/profile/416514181_2232552306946907_7533364011110656954_n.jpg
+images:
+  profile:
+    - >-
+      ../../assets/designers/alexandrabordallo/profile/416514181_2232552306946907_7533364011110656954_n.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641098707619_1720127356.webp
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641107087940_1720127356.webp
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641140861734_1720127356.webp
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784335906290_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784629426503_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784654702202_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491090968611_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491367752747_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491384499961_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273756774286_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273773532799_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595274067338862_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975930011403_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975938382520_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975971989799_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975971995516_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976005499582_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976013900436_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976206827178_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294303479341_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294311816585_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769029226_3815216002234064596_1720127356.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641140861734_1720127356.webp
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784629426503_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491384499961_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273773532799_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975930011403_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976206827178_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294303479341_1720127356.jpg
+  - >-
+    ../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769029226_3815216002234064596_1720127356.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # alexandrabordallo
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/alexandrabordallo/profile/416514181_2232552306946907_7533364011110656954_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641098707619_1720127356.webp)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641098707619_1720127356.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641107087940_1720127356.webp)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641107087940_1720127356.webp --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641140861734_1720127356.webp)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1715346602_3364893641140861734_1720127356.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784335906290_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784335906290_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784629426503_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784629426503_1720127356.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784654702202_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1734896704_3528891784654702202_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491090968611_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491090968611_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491367752747_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491367752747_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491384499961_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745328644_3616380491384499961_1720127356.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273756774286_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273756774286_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273773532799_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595273773532799_1720127356.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595274067338862_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1745351774_3616595274067338862_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975930011403_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975930011403_1720127356.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975938382520_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975938382520_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975971989799_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975971989799_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975971995516_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515975971995516_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976005499582_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976005499582_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976013900436_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976013900436_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976206827178_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1765132546_3782515976206827178_1720127356.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294303479341_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294303479341_1720127356.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294311816585_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769008503_3815042294311816585_1720127356.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769029226_3815216002234064596_1720127356.jpg)<br><!-- image:../../assets/designers/alexandrabordallo/instagram/alexandrabordallo_1769029226_3815216002234064596_1720127356.jpg --> | [x] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Alexandra Bordallo is a quilt pattern and fabric designer based in Vic, Barcelona, Spain. She designs modern heirloom quilt patterns for all skill levels and holds a fabric design licence with [[Andover Fabrics]]. Her patterns are sold as PDF digital downloads and include step-by-step sewing instructions with colour diagrams. She also operates under the handle @alexandrabordallodesign for broader surface design work.
 
 ## Style and Aesthetic
 
+Selected Instagram images suggest a quilt-centred aesthetic built around geometric precision and considered colour relationships. The work balances traditional patchwork construction with a contemporary sensibility — clean block arrangements, vibrant palettes, and accessible visual presentation. Digital mockups of finished quilt tops are a consistent feature, reinforcing a clear, polished brand.
+
 ## Techniques and Tools
+
+Quilt pattern design, colour diagramming, and digital quilt-top mockup production. Skills listed include pattern design, colour theory, and licensing basics. The inclusion of step-by-step sewing instructions across all patterns indicates strong technical documentation capability.
 
 ## Markets and Clients
 
+- [[Home Decor]] — PDF quilt patterns for the residential maker market
+- [[Andover Fabrics]] — confirmed licensed fabric designer
+
 ## Portfolio and Presence
+
+- Website: alexandrabordallostudio.com
+- Instagram: @alexandrabordallo (20.7k followers, 1,169 posts)
+- Instagram: @alexandrabordallodesign (surface design)
+- PDF pattern shop via Payhip
 
 ## Career Path
 
+Based in Vic, Barcelona. Established a licensed fabric design relationship with [[Andover Fabrics]] alongside an independent quilt pattern business. Runs a Facebook community group for quilters. Open to licensing. Active since at least 2025 with a consistent publishing cadence.
+
 ## Pattern Focus
 
+Modern geometric and patchwork quilt patterns. Selected Instagram images suggest structured block-based compositions with vibrant colour schemes — including star blocks and large-scale patchwork arrangements. Work spans heirloom-style quilts to beginner-accessible projects, all presented with coordinating mockups and diagrams.
+
 ## Connections
+
+- [[Andover Fabrics]] — licensed fabric designer (confirmed)
+- [[Home Decor]] — primary market

@@ -45,6 +45,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Longina Phillips Designs | Exclusive Print & Pattern Design Studio
 website_meta_description: >-
   Longina Phillips Designs creates original surface patterns for global fashion
@@ -302,11 +303,37 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Longina Phillips Design
+instagram_biography: "A leading Textile Design Studio creating timeless original prints since 1988.  \n\U0001F3A8Learn with us @theprintschool_ \n✨Register to see our colletion"
+instagram_posts_count: 5531
+instagram_followers_count: 51562
+instagram_follows_count: 800
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/575716553_18540522706051905_4936851242918208190_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEU8ei4Y_-9XDIQ4puhQHEWYQbv9qtR_kkNLE0_WMGgCrxmEs0JGwnt53CesX25NC8&_nc_ohc=HwTiQvhRMAYQ7kNvwH3YrOk&_nc_gid=1mKaHzCqpkfwqPSw-wQAIA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56cpE2KSHy_sew_7xpgFLde0xuqTaAXhLWnB32cNIoHw&oe=6A13F6FE&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # longinaphillipsdesigns
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

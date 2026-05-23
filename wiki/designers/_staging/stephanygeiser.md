@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Stephany Geiser - Stephany Geiser
 website_meta_description: >-
   my silk collection view all products Bandanas New Designs See all Bandanas
@@ -252,11 +254,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: STEPHANY GEISER
+instagram_biography: "⭐️UNIQUE PRINTS⭐️\nSIGNATURE TEXTILES \U0001F3A8 MY SILK ROAD\nInspired by ancient Peru and my journeys. \nWorldwide shipping."
+instagram_posts_count: 374
+instagram_followers_count: 5175
+instagram_follows_count: 1248
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/390736698_848417226880337_8848163560148163975_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzUuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGnRvaqFrri8d3mBhM9GfsCRkGO4e-jHDKkEYTgjXV_vnJ8jltXJ07Voake6Yf8jBU&_nc_ohc=mbimR42TcyEQ7kNvwGnZx8w&_nc_gid=Gv0UIOYrYjRJekB__u2IXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NgbCePSXLtzhhXj2bXAFTzJinaPBN1ynJbKrVYnEcPg&oe=6A13E920&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/390736698_848417226880337_8848163560148163975_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzUuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGnRvaqFrri8d3mBhM9GfsCRkGO4e-jHDKkEYTgjXV_vnJ8jltXJ07Voake6Yf8jBU&_nc_ohc=mbimR42TcyEQ7kNvwGnZx8w&_nc_gid=Gv0UIOYrYjRJekB__u2IXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NgbCePSXLtzhhXj2bXAFTzJinaPBN1ynJbKrVYnEcPg&oe=6A13E920&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2369
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # stephanygeiser
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/stephanygeiser/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

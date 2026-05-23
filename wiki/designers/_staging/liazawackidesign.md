@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Lia Zawacki Design
 website_meta_description: Lia Zawacki Design Textildesign und Illustration.
 website_about_raw: >-
@@ -282,11 +284,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Lia Zawacki Design
+instagram_biography: |-
+  BEAUTIFUL HANDCRAFTED DESIGNS FOR YOUR BRAND!
+  Freelance textile designer & illustrator from Germany
+  DM for comissions and collaborations.
+instagram_posts_count: 85
+instagram_followers_count: 1235
+instagram_follows_count: 1592
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/457618296_1055524146284042_2921312606070353495_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENeNceGapjiCK_TD1B8CMzjBAMxI0LovDwnT2YjbgQ8_VMYUYNOqInvOXhLA11utc&_nc_ohc=QBxUuz-goJkQ7kNvwEqlKaL&_nc_gid=Av2GT7vO27QON7-gU68_7w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7oCSCjvD5sHBsqUpYfKZ9mO30D_DUuJW3uPyDFauGfzQ&oe=6A13D1D7&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/457618296_1055524146284042_2921312606070353495_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENeNceGapjiCK_TD1B8CMzjBAMxI0LovDwnT2YjbgQ8_VMYUYNOqInvOXhLA11utc&_nc_ohc=QBxUuz-goJkQ7kNvwEqlKaL&_nc_gid=Av2GT7vO27QON7-gU68_7w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7oCSCjvD5sHBsqUpYfKZ9mO30D_DUuJW3uPyDFauGfzQ&oe=6A13D1D7&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 8458
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # liazawackidesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/liazawackidesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

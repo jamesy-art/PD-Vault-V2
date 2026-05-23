@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: CuteOshenii - the whimsical characters of Andra Badea
 website_meta_description: >-
   The whimsical illustrated characters of Andra Badea for children's books,
@@ -266,11 +268,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Andra Badea Illustrator&Character Designer
+instagram_biography: "\U0001F3A8Illustrator for advertising/publishing/ branding/packaging\n\U0001F9E0\U0001F440Giving a cute face to tricky concepts\n✦ Clients: TED, Canon, Glovo, IKEA\nSHOP here\U0001F447"
+instagram_posts_count: 653
+instagram_followers_count: 2539
+instagram_follows_count: 2639
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://instagram.fshd1-1.fna.fbcdn.net/v/t51.82787-19/557659380_18532498687053794_7935871446466020425_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDUuYzIifQ&_nc_ht=instagram.fshd1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVpzQBDtBoepYnflA0z-6M8FtnnU_uA204S4tER_2_h7NXWfr3HH4LTYSoUF0wZxQ&_nc_ohc=eUj4ogZqeUQQ7kNvwG6Pskl&_nc_gid=nJD90NmjzvBUu0bpfHdOwQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af75DtpcwolEpF7Gt0nM5RH8xVQLKUo8_t9rdA1MScNktA&oe=6A13F81A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fshd1-1.fna.fbcdn.net/v/t51.82787-19/557659380_18532498687053794_7935871446466020425_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDUuYzIifQ&_nc_ht=instagram.fshd1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVpzQBDtBoepYnflA0z-6M8FtnnU_uA204S4tER_2_h7NXWfr3HH4LTYSoUF0wZxQ&_nc_ohc=eUj4ogZqeUQQ7kNvwG6Pskl&_nc_gid=nJD90NmjzvBUu0bpfHdOwQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af75DtpcwolEpF7Gt0nM5RH8xVQLKUo8_t9rdA1MScNktA&oe=6A13F81A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4976
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # andrabadea_illustration
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

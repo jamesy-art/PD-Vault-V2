@@ -47,6 +47,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Gabby Rios Design | Discover Unique Patterns Today
 website_meta_description: >-
   Explore Gabby Rios' nature-inspired surface and packaging designs. Perfect for
@@ -280,11 +282,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Gabby Rios | Surface Pattern Designer
+instagram_biography: >-
+  Surface Pattern Design & Graphic Designer based in Los Angeles ☀️Email me at
+  gabbyrios.design@gmail.com
+instagram_posts_count: 338
+instagram_followers_count: 2238
+instagram_follows_count: 7446
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/441498041_984233173054799_6575889157023528203_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGYv1WokRppgbkY16mRm-FUS8LfPBsYoqcvUWFXItIi3GfvbX_YJSLeZs9VvPdGpSQ&_nc_ohc=GVHOc7vJWHoQ7kNvwGb4Z48&_nc_gid=XJajflXLNce6B2egoc819g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vbFbDAe7Fxc6XnPZBu_1YM1XB89XP4Q5LYX8ipCTYXA&oe=6A13FD84&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/441498041_984233173054799_6575889157023528203_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGYv1WokRppgbkY16mRm-FUS8LfPBsYoqcvUWFXItIi3GfvbX_YJSLeZs9VvPdGpSQ&_nc_ohc=GVHOc7vJWHoQ7kNvwGb4Z48&_nc_gid=XJajflXLNce6B2egoc819g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vbFbDAe7Fxc6XnPZBu_1YM1XB89XP4Q5LYX8ipCTYXA&oe=6A13FD84&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2966
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # gabbyrios_design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

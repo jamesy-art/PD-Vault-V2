@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home - Jasmine Goodwin Designs
 website_meta_description: ''
 website_about_raw: >-
@@ -286,11 +288,45 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Jasmine Goodwin l Illustration & Surface Pattern Design
+instagram_biography: >-
+  Surface Pattern Designer, Illustrator 
+
+  Gouache, Acrylic Gouache & Mixed Media designs for fabric, wallpaper & home
+  decor.
+
+  Licensing & Collabs Welcome
+instagram_posts_count: 351
+instagram_followers_count: 516
+instagram_follows_count: 1322
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/414772881_374246985152327_1244457100776571315_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF19veElfsBgeZNSeKkSs5_aRMovhA93PrZzW6f1m36RRxpSBQhd-2rku7r8HLg3UU&_nc_ohc=qM2r_qT2YM4Q7kNvwFA5k21&_nc_gid=DeVsrZMdcW2UdDYY9KvGXw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wNn-ng1YVESkF4tvhiKVIZxhwG5D874pXXMdNeNrLgw&oe=6A13D674&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/414772881_374246985152327_1244457100776571315_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF19veElfsBgeZNSeKkSs5_aRMovhA93PrZzW6f1m36RRxpSBQhd-2rku7r8HLg3UU&_nc_ohc=qM2r_qT2YM4Q7kNvwFA5k21&_nc_gid=DeVsrZMdcW2UdDYY9KvGXw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wNn-ng1YVESkF4tvhiKVIZxhwG5D874pXXMdNeNrLgw&oe=6A13D674&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/jasminegoodwindesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6072
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/jasminegoodwindesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/jasminegoodwindesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/jasminegoodwindesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # jasminegoodwindesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jasminegoodwindesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

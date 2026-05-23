@@ -41,6 +41,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Lucie Adler / Print studio |
 website_meta_description: >-
   Bienvenue sur le site de Lucie Adler / Print Studio, designer textile pour les
@@ -278,11 +279,37 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Lucie Adler
+instagram_biography: "Print Studio\nHand crafted ✍\U0001F3FC \nFor fashion, interior & more \nShop @lucieadleredition \n\U0001F48Chellolucieadler@gmail.com"
+instagram_posts_count: 176
+instagram_followers_count: 1081
+instagram_follows_count: 2090
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/488345421_1100955952074869_6600264737864293546_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDUuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHzPgPYRcUFZ0rUI6SYIvKPVrWVTp95KRyIIcWFMh6GFhNxhIuSnxb1-UbLD9DNBJenHkRuEB1AycbEFlVWTKde&_nc_ohc=vQj1aqnGKxYQ7kNvwG4vMPG&_nc_gid=kcING-eLrozvcJtrDk93tw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4jakWneHbp2hwKsP4mhV6V004szbXdZAa4sMDB4N3NQw&oe=6A13EE08&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # lucieadlerstudio
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

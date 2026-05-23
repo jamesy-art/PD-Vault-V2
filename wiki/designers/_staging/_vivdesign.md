@@ -25,7 +25,7 @@ bio: ''
 website: 'https://vivdesign.me'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/_vivdesign
 profile_url: ''
 instagram_images:
@@ -42,7 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: VivDesign
 website_meta_description: 'Surface pattern design, seamless patterns, print designer'
 website_about_raw: >-
@@ -247,34 +252,217 @@ open_to:
   - Freelance
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Vivian Hasenclever
+instagram_biography: Surface pattern designer
+instagram_posts_count: 247
+instagram_followers_count: 6063
+instagram_follows_count: 2582
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/482299006_2030843697427282_5700835822949207463_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGhI3K6JOAKOqnutOumH9mkzu_6ScrRoIlmC3zwaMUNZuWBWK3pey9LsN0cMmjqpn8&_nc_ohc=YoabhcMSfoMQ7kNvwGmpJGD&_nc_gid=1P9yiMXN8kwq_eBXgXMu-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7cbSUB8zeQHlnAjKu5YU7npTjW_9q_W-s2ytTxWa1uTw&oe=6A13D139&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/_vivdesign/profile/instagram-profile.jpg
+instagram_profile_imported: true
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/482299006_2030843697427282_5700835822949207463_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGhI3K6JOAKOqnutOumH9mkzu_6ScrRoIlmC3zwaMUNZuWBWK3pey9LsN0cMmjqpn8&_nc_ohc=YoabhcMSfoMQ7kNvwGmpJGD&_nc_gid=1P9yiMXN8kwq_eBXgXMu-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7cbSUB8zeQHlnAjKu5YU7npTjW_9q_W-s2ytTxWa1uTw&oe=6A13D139&_nc_sid=8b3546
+instagram_profile_image_bytes: 7314
+instagram_profile_image_quality: thumbnail
+profile_image: >-
+  ../../assets/designers/_vivdesign/profile/482299006_2030843697427282_5700835822949207463_n.jpg
+profile_images: &ref_0
+  - >-
+    ../../assets/designers/_vivdesign/profile/482299006_2030843697427282_5700835822949207463_n.jpg
+  - ../../assets/designers/_vivdesign/profile/instagram-profile.jpg
+profile_image_local: >-
+  ../../assets/designers/_vivdesign/profile/482299006_2030843697427282_5700835822949207463_n.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 2
+  profile_valid: 2
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1618314995_2550933532991940355_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1640351833_2735791921353696947_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789758974618_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789801072896_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1686217844_3120543914179357617_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463531695487_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463791800162_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708722773664_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708848638282_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708848656210_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702944696142_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702961502366_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702978327774_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1738951091_3562902453767350047_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1738951092_3562902453758891348_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912054526298_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912054605162_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912063054415_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912071363798_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1743783491_3603439561061666553_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1743783491_3603439561137123594_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1748687687_3644578936679745431_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1750405047_3658985198016119745_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272435336730_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272619886853_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551256951366348_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551258620687108_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551261363763960_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768543889385107_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768547806854304_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1771506093_3835993311865889051_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1772280095_3842485752412382908_17317780632.jpg
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789758974618_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1686217844_3120543914179357617_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1738951092_3562902453758891348_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1748687687_3644578936679745431_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1750405047_3658985198016119745_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272435336730_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768543889385107_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1772280095_3842485752412382908_17317780632.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1618314995_2550933532991940355_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1640351833_2735791921353696947_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463791800162_17317780632.jpg
+  - >-
+    ../../assets/designers/_vivdesign/instagram/_vivdesign_1771506093_3835993311865889051_17317780632.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # _vivdesign
 
 ## Profile Image
 
+![pd-profile|185](../../assets/designers/_vivdesign/profile/482299006_2030843697427282_5700835822949207463_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1618314995_2550933532991940355_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1618314995_2550933532991940355_17317780632.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1640351833_2735791921353696947_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1640351833_2735791921353696947_17317780632.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789758974618_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789758974618_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789801072896_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1644347116_2769306789801072896_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1686217844_3120543914179357617_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1686217844_3120543914179357617_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463531695487_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463531695487_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463791800162_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1686912900_3126374463791800162_17317780632.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708722773664_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708722773664_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708848638282_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708848638282_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708848656210_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1729870950_3486732708848656210_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702944696142_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702944696142_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702961502366_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702961502366_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702978327774_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1735928689_3537548702978327774_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1738951091_3562902453767350047_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1738951091_3562902453767350047_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1738951092_3562902453758891348_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1738951092_3562902453758891348_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912054526298_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912054526298_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912054605162_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912054605162_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912063054415_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912063054415_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912071363798_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1739551365_3567937912071363798_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1743783491_3603439561061666553_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1743783491_3603439561061666553_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1743783491_3603439561137123594_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1743783491_3603439561137123594_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1748687687_3644578936679745431_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1748687687_3644578936679745431_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1750405047_3658985198016119745_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1750405047_3658985198016119745_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272435336730_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272435336730_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272619886853_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1761928780_3755653272619886853_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551256951366348_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551256951366348_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551258620687108_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551258620687108_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551261363763960_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1769784482_3821551261363763960_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768543889385107_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768543889385107_17317780632.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768547806854304_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1771002457_3831768547806854304_17317780632.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1771506093_3835993311865889051_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1771506093_3835993311865889051_17317780632.jpg --> | [ ] | [x] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/_vivdesign/instagram/_vivdesign_1772280095_3842485752412382908_17317780632.jpg)<br><!-- image:../../assets/designers/_vivdesign/instagram/_vivdesign_1772280095_3842485752412382908_17317780632.jpg --> | [x] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Vivian Hasenclever is a Norwegian-born freelance surface pattern designer currently based in Luxembourg, having previously lived in the US, France, Switzerland, Singapore, and Spain. She has been creating surface patterns since February 2018, when she discovered the discipline through Spoonflower. All her work is vector, originating as hand-drawn sketches before digitalization in Adobe Illustrator. Selected Instagram images confirm a bold, colourful practice centred on whimsical animal characters and tropical botanical environments.
 
 ## Style and Aesthetic
 
+Bold, colourful, and playful. Hasenclever consistently describes her work as "simple, whimsical, colorful, happy." Selected pattern images suggest confident vector compositions with saturated palettes, clean outlines, and a joyful, upbeat character. Nature-inspired — whimsical animals set within tropical or fantasy botanical landscapes are a recurring theme. Each pattern aims to incorporate elements from her extensive travel and international living.
+
 ## Techniques and Tools
+
+Workflow begins with hand-drawn sketches, digitalized and polished in Adobe Illustrator. All output is vector. Skills include illustration, colour theory, repeat construction, and Adobe Illustrator. Invested significantly in professional courses after entering the field in 2018.
 
 ## Markets and Clients
 
+Licensing is the primary commercial route. Active on [[Spoonflower]] and other print-on-demand platforms; designs have appeared on various products through licensing deals. Open to direct licensing inquiries.
+
 ## Portfolio and Presence
+
+- Website: https://vivdesign.me
+- Instagram: @_vivdesign (6,063 followers)
 
 ## Career Path
 
+Originally from Norway, with an international biography spanning the US, France, Switzerland, Singapore, Spain, and Luxembourg. Entered surface pattern design in 2018 via a sewing course that led to Spoonflower. Self-directed learning through professional courses and extensive practice. Press features include: Origin Magazine (Summer 2020, Vol. 42; Spring 2021, Vol. 45 — three full pages), Uppercase Magazine Surface Pattern Design Guide (April 2021, issue 49), Love Patchwork & Quilting Magazine Spoonflower Spotlight (March 2021, issue 96), Spoonflower Designer Spotlight Blog (January 2020).
+
 ## Pattern Focus
 
+Selected patterns suggest whimsical animals in tropical or nature-themed settings, alongside botanical all-overs. Bold vector colour and confident, clean line work are characteristic. Tropical foliage, fantasy creatures, and cheerful surface density are consistent across the selected image set. The stated aim is to make patterns "just as fun to look at as it is to work on."
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Uppercase Magazine]]
+- [[Origin Magazine]]
+- [[Tropical Pattern]]
+- [[Animal Pattern]]

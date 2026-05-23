@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Inicio | Portafolio Yao Hernandez Guerrero
 website_meta_description: ''
 website_about_raw: >-
@@ -153,11 +155,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Yao Hernández Guerrero
+instagram_biography: Diseño de Estampados Textiles y Superficies / Diseño y Comunicación Visual
+instagram_posts_count: 13
+instagram_followers_count: 79
+instagram_follows_count: 156
+instagram_private: true
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/504104560_17842563456513770_806242803774513052_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFJ06_r7a--uQJqNiMQjfeIHRgJyUcE-3okShDTnJcGFIwTYI3XcwqVuLY9Ks3574w&_nc_ohc=mg438a3EuVMQ7kNvwF15aBZ&_nc_gid=YtLruf1PZqPp2JYtCUCUFA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DvQDFeiMlIFN6wC8TxvmArnuLIfq8U6sWSkXy1Pf-Iw&oe=6A13FD44&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/504104560_17842563456513770_806242803774513052_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFJ06_r7a--uQJqNiMQjfeIHRgJyUcE-3okShDTnJcGFIwTYI3XcwqVuLY9Ks3574w&_nc_ohc=mg438a3EuVMQ7kNvwF15aBZ&_nc_gid=YtLruf1PZqPp2JYtCUCUFA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DvQDFeiMlIFN6wC8TxvmArnuLIfq8U6sWSkXy1Pf-Iw&oe=6A13FD44&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/yao_hg/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4689
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/yao_hg/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/yao_hg/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/yao_hg/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # yao_hg
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/yao_hg/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

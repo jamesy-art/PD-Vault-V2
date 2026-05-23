@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Links | Patrona Patrones
 website_meta_description: ''
 website_about_raw: >-
@@ -274,11 +276,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Natalia ° Pattern Design ✨
+instagram_biography: "Surface pattern designer \U0001F1E8\U0001F1F4 \U0001F1E6\U0001F1EA \U0001F30E\n\U0001F31FBeautiful Patterns & illustrations for brands of all sizes. \n\U0001F1E8\U0001F1F4@patpat_tienda\n\U0001F3A8\U0001F30E Let's create together"
+instagram_posts_count: 637
+instagram_followers_count: 5445
+instagram_follows_count: 1534
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/306229575_423815709817825_3513970092942675927_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjIuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHX20F07PtDLXFVDtdiA5YbzUnjQ2T2AldIbDTJtxnxlo9ltRxMQ2E0CTZBKVlxecI&_nc_ohc=cLYrffiGA9YQ7kNvwEcISCL&_nc_gid=fP09E8_KJ66sJEIPcZeOnQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7GCFbeR9k9ngp8MmsXISNhS5L1K8lvqvh1cu65bo1wbg&oe=6A13D186&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/306229575_423815709817825_3513970092942675927_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjIuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHX20F07PtDLXFVDtdiA5YbzUnjQ2T2AldIbDTJtxnxlo9ltRxMQ2E0CTZBKVlxecI&_nc_ohc=cLYrffiGA9YQ7kNvwEcISCL&_nc_gid=fP09E8_KJ66sJEIPcZeOnQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7GCFbeR9k9ngp8MmsXISNhS5L1K8lvqvh1cu65bo1wbg&oe=6A13D186&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/patrona.patrones/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5530
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/patrona.patrones/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/patrona.patrones/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/patrona.patrones/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # patrona.patrones
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/patrona.patrones/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

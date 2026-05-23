@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Lhais Munhoz | Readymag
 website_meta_description: Lhais Munhoz · Selected Works
 website_about_raw: >-
@@ -108,11 +110,42 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: good
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Lhais Munhoz
+instagram_biography: |-
+  Designer de estampas
+  Ilustradora
+  Conto histórias em papel no @lha.la.land
+instagram_posts_count: 48
+instagram_followers_count: 950
+instagram_follows_count: 76
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/71169801_408069896563249_9045508245602435072_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH6UHlZi7NroqalMr_tBmWlitp4B3CCqHE7FLAux54qt26WOt6BHRqxxmgtdNH2FZ8&_nc_ohc=6_WeCSlS8vcQ7kNvwGVIafr&_nc_gid=1y-NPxgZjJyX8wPby1cCtw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7C_dRptly2wc-FAiHTb11SJBXM0YKJsqymaDbPOPUwSw&oe=6A13E419&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/71169801_408069896563249_9045508245602435072_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH6UHlZi7NroqalMr_tBmWlitp4B3CCqHE7FLAux54qt26WOt6BHRqxxmgtdNH2FZ8&_nc_ohc=6_WeCSlS8vcQ7kNvwGVIafr&_nc_gid=1y-NPxgZjJyX8wPby1cCtw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7C_dRptly2wc-FAiHTb11SJBXM0YKJsqymaDbPOPUwSw&oe=6A13E419&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/lhais.munhoz/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4699
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/lhais.munhoz/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/lhais.munhoz/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/lhais.munhoz/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # lhais.munhoz
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/lhais.munhoz/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

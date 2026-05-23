@@ -44,6 +44,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Design By Cheyney
 website_meta_description: >-
   Boutique graphic design boutique based in Auckland, New Zealand. Offering
@@ -226,11 +228,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Design by Cheyney
+instagram_biography: "Graphic & Surface Print Designer \U0001F3A8 Author/Illustrator of Thank you for Feeding Freckle \U0001F408 Side hustle @slimeministernz"
+instagram_posts_count: 1066
+instagram_followers_count: 2279
+instagram_follows_count: 1400
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/15877076_362574147450715_3113491049218048000_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAxLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF3KTJ71Br19Nq9k7jg6nVg09ZF9vKflh5sXbmo0jHKe9I9nphY7I0VDL-NZx2_x1w&_nc_ohc=AQnK8FO0lpcQ7kNvwFuhx4K&_nc_gid=NHwLEStIu7nlr9ELYibNtw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aFDMSrXv4eiJOH-9OB_MWStH4-5zC1xfe4pN9YTbjRA&oe=6A13FD60&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/15877076_362574147450715_3113491049218048000_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAxLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF3KTJ71Br19Nq9k7jg6nVg09ZF9vKflh5sXbmo0jHKe9I9nphY7I0VDL-NZx2_x1w&_nc_ohc=AQnK8FO0lpcQ7kNvwFuhx4K&_nc_gid=NHwLEStIu7nlr9ELYibNtw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aFDMSrXv4eiJOH-9OB_MWStH4-5zC1xfe4pN9YTbjRA&oe=6A13FD60&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/designbycheyney/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4397
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/designbycheyney/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/designbycheyney/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/designbycheyney/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # designbycheyney
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/designbycheyney/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

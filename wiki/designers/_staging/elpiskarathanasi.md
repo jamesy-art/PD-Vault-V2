@@ -38,6 +38,7 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
 website_title: Elpis Karathanasi illustrations | illustration
 website_meta_description: >-
   Elpis Karathanasi illustrations: picture book illustrations, collage, digital
@@ -75,11 +76,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Elpis Karathanasi
+instagram_biography: |-
+  graphic designer, illustrator
+  images copyright ©️: elpis karathanasi
+instagram_posts_count: 108
+instagram_followers_count: 82
+instagram_follows_count: 203
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/11820495_482207145289152_1011206641_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGNauI8UslYxD8wsmwyhH7Wq_obmLhMrv5xjDVZTbPNYPATVHR-IggaYNPur4Z_5eg&_nc_ohc=WYfWMVB_lp4Q7kNvwGouH_c&_nc_gid=j_u58W2-mlPz5h4dYPnq4g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Tb13OG8DMMXCnrB0kOpZsR9Xm7BgembvyTULb1BE02w&oe=6A13DDA4&_nc_sid=8b3546
+instagram_profile_pic_best_url: ''
+instagram_profile_image_local: ''
+instagram_profile_image_bytes: 0
+instagram_profile_image_quality: ''
+instagram_profile_imported: true
+profile_image: ''
+profile_images: []
+profile_image_local: ''
+images:
+  profile: null
+enrichment_stats:
+  profile_total: 0
+  profile_valid: 0
+profile_image_synced: true
 ---
 
 # elpiskarathanasi
 
 ## Profile Image
+
+_No profile image found._
 
 ## Instagram Images
 

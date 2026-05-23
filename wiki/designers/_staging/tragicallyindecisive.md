@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Emily Tragedy | Narrative Illustrator
 website_meta_description: >-
   Emily Tragedy is a narrative illustrator, surface designer, and tattoo artist
@@ -76,11 +78,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Emily Tragedy
+instagram_biography: |-
+  •Canadian narrative illustrator & printmaker
+  •millietragedy@gmail.com
+  •I love all things spooky, weird and magical!
+instagram_posts_count: 82
+instagram_followers_count: 628
+instagram_follows_count: 2147
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/515591874_18061065275256843_6893302658461087550_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGaqpHL-Iew_pXnizt9_hzlhB9rJNlnQtCKSdRwyQWATZZkR0eIRWDtyydX1SXbTf8&_nc_ohc=NCJD-hZ_utcQ7kNvwG6KDrg&_nc_gid=J59i1Z40Lgu2UWbVx5aJhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5B6kyN3fdOctiZ8b9pwKKX7Zb0_wnx7SwujTP_GcrnMA&oe=6A13DB58&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/515591874_18061065275256843_6893302658461087550_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGaqpHL-Iew_pXnizt9_hzlhB9rJNlnQtCKSdRwyQWATZZkR0eIRWDtyydX1SXbTf8&_nc_ohc=NCJD-hZ_utcQ7kNvwG6KDrg&_nc_gid=J59i1Z40Lgu2UWbVx5aJhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5B6kyN3fdOctiZ8b9pwKKX7Zb0_wnx7SwujTP_GcrnMA&oe=6A13DB58&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4382
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # tragicallyindecisive
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

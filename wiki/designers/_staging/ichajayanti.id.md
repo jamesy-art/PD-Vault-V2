@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Icha Jayanti - Your Online Dressmaker Official Site
 website_meta_description: >-
   Welcome to Icha Jayanti Official Store - IchaJayanti is an online dressmaker,
@@ -237,11 +239,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Icha Jayanti
+instagram_biography: "\U0001F4CDBogor, Indonesia\n\U0001F495 Dress making - Pattern making - Designing\nPKK Tata Busana Unnes 2012"
+instagram_posts_count: 107
+instagram_followers_count: 310
+instagram_follows_count: 933
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/429913421_338088625888362_3051804816128253219_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHLAct7dlQ_QjleyatqtxJaalzAuZ52QZYffusnUCP-l8uVJDMXaZpa8MUl9T1JnGU&_nc_ohc=YgfZ_FYleNMQ7kNvwFqWXSr&_nc_gid=RcOECzSHDewT6EF37GqYuA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4P4awyKtGv5URB212m-zBt-l9Mcn4VF6qFSMUM6rTN2w&oe=6A14039E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/429913421_338088625888362_3051804816128253219_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHLAct7dlQ_QjleyatqtxJaalzAuZ52QZYffusnUCP-l8uVJDMXaZpa8MUl9T1JnGU&_nc_ohc=YgfZ_FYleNMQ7kNvwFqWXSr&_nc_gid=RcOECzSHDewT6EF37GqYuA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4P4awyKtGv5URB212m-zBt-l9Mcn4VF6qFSMUM6rTN2w&oe=6A14039E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4645
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ichajayanti.id
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

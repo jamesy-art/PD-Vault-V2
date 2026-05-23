@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: laura brumana - Print obsession
 website_meta_description: ''
 website_about_raw: >-
@@ -195,11 +197,43 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Laura Brumana
+instagram_biography: |-
+  #freelance fashion designer
+  #fashionillustrator 
+  #outerwear
+  #printdesigner
+instagram_posts_count: 252
+instagram_followers_count: 305
+instagram_follows_count: 1426
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fcps4-2.fna.fbcdn.net/v/t51.2885-19/329037659_1142407076450014_7049035208189288356_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcps4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gG8vEAqxxJYNaevuDtT8UKG6HIL7QJR8J_TY3NWPqznb2Wy8MBNbQR9Jc0LevEk6aBkaD5zbsyfx4Nrlwn18OW2&_nc_ohc=lqzfMlBoubQQ7kNvwF1j1ZK&_nc_gid=WQif7_wHw7bKORI5cLKtYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7bbl2wE1b6FHnQw0Jgox5L1oAFi82pJD7wuYz3g7YGKw&oe=6A13F10B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fcps4-2.fna.fbcdn.net/v/t51.2885-19/329037659_1142407076450014_7049035208189288356_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fcps4-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gG8vEAqxxJYNaevuDtT8UKG6HIL7QJR8J_TY3NWPqznb2Wy8MBNbQR9Jc0LevEk6aBkaD5zbsyfx4Nrlwn18OW2&_nc_ohc=lqzfMlBoubQQ7kNvwF1j1ZK&_nc_gid=WQif7_wHw7bKORI5cLKtYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7bbl2wE1b6FHnQw0Jgox5L1oAFi82pJD7wuYz3g7YGKw&oe=6A13F10B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/laurabrumana/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4760
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/laurabrumana/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/laurabrumana/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/laurabrumana/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # laurabrumana
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/laurabrumana/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

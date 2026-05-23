@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Welcome - Mirela Popescu
 website_meta_description: >-
   Surface Pattern Designer, Illustrator & Hand Letterer creating beautiful
@@ -293,11 +295,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Mirela Popescu | Artist
+instagram_biography: "Artist creating patterns & illustrations for licensing and commission. I share my experience and process\n\U0001F48C hello@mirelapopescu.com"
+instagram_posts_count: 400
+instagram_followers_count: 528
+instagram_follows_count: 2999
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/457618356_860457272329373_2821149989080521217_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gECkLNysa1N_83ty__Dj3VUuueo_RUR6G0j8oFp2traGc09_46OzBJAt3fNESK5D6o10Xwf4KXm-jqiibBrzcpW&_nc_ohc=B-rTvFuvzbYQ7kNvwHDDfkW&_nc_gid=CNROe7zI4I9LAPkPYwYYug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af44aWgxIb1arqon-WKtZb1t9YqiUrk7O6yu27T5M114LQ&oe=6A13D0C8&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/457618356_860457272329373_2821149989080521217_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gECkLNysa1N_83ty__Dj3VUuueo_RUR6G0j8oFp2traGc09_46OzBJAt3fNESK5D6o10Xwf4KXm-jqiibBrzcpW&_nc_ohc=B-rTvFuvzbYQ7kNvwHDDfkW&_nc_gid=CNROe7zI4I9LAPkPYwYYug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af44aWgxIb1arqon-WKtZb1t9YqiUrk7O6yu27T5M114LQ&oe=6A13D0C8&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6681
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # mirelapopescu_design
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

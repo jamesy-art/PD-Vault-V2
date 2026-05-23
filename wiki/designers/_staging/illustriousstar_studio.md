@@ -42,15 +42,45 @@ website_images:
 tags:
   - pattern_designer
   - level_1
+  - has_instagram_profile
+  - has_profile_image
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Setareh Mohazzab
+instagram_biography: "Fashion Designer & Illustrator\U0001F9DC\U0001F3FB‍♀️\nChildren’s Book Author\U0001F4D6✍\U0001F3FB\n\U0001F4CDToronto\U0001F1E8\U0001F1E6\nMy books and coloring books\U0001F447\U0001F3FB\U0001F6CD️"
+instagram_posts_count: 125
+instagram_followers_count: 4472
+instagram_follows_count: 616
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/670764531_18079417265620790_2607167633208340629_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE5CrGtIquxp9fLgElf-fHH92Zmq5M5yvsRC0tEvqb8Nw1q6h-Fz_2uL6jKxMQEksg&_nc_ohc=ZhLrNgFz9AgQ7kNvwEWPz7r&_nc_gid=g89hDNr8CWUkfQ1U4WzloA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7pSZ6I2ullDtfvYccUMQXOU90JG--aO2wpMnXZutqxyg&oe=6A13D0BD&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/670764531_18079417265620790_2607167633208340629_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE5CrGtIquxp9fLgElf-fHH92Zmq5M5yvsRC0tEvqb8Nw1q6h-Fz_2uL6jKxMQEksg&_nc_ohc=ZhLrNgFz9AgQ7kNvwEWPz7r&_nc_gid=g89hDNr8CWUkfQ1U4WzloA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7pSZ6I2ullDtfvYccUMQXOU90JG--aO2wpMnXZutqxyg&oe=6A13D0BD&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/illustriousstar_studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6593
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/illustriousstar_studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/illustriousstar_studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/illustriousstar_studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # illustriousstar_studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/illustriousstar_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -1,0 +1,38 @@
+img[alt*="pd-profile"] {
+  border-radius: 18px;
+  object-fit: cover;
+  margin: 12px 0 20px;
+}
+
+img[alt*="pd-review"] {
+  border-radius: 14px;
+  object-fit: cover;
+  margin: 6px 0;
+}
+
+/* Image review table */
+.markdown-preview-view table {
+  width: 100%;
+}
+
+.markdown-preview-view table img[alt*="pd-review"] {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.markdown-preview-view table th,
+.markdown-preview-view table td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.markdown-preview-view table td:first-child,
+.markdown-preview-view table th:first-child {
+  text-align: left;
+  width: 180px;
+}
+
+.markdown-preview-view table input[type="checkbox"] {
+  transform: scale(1.2);
+}

@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Sian Downey Designs - Surface Pattern Designer
 website_meta_description: >-
   I'm a surface pattern designer from Toowoomba, Qld, Australia. Creating
@@ -153,11 +155,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sian Downey
+instagram_biography: "Surface Pattern Designer \U0001F538 Fabric Lover \U0001F538 Sewing Enthusiast \U0001F538 Designs to bring you Joy. Email me for design collaborations"
+instagram_posts_count: 404
+instagram_followers_count: 590
+instagram_follows_count: 1286
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/298002354_1035295807129912_3416288456615854837_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTUuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGIQabSOxwmtoUu39es-QS1Z6_tpZZGyqzjtTfgfW7m8VGQqjs-KmxupFvbc5Z2VWM&_nc_ohc=aLzGzmLcEioQ7kNvwEmL7Un&_nc_gid=vkOmhAncuHWRnOBI_rcJHQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af65dnNyPaKe88eWubIT3ldNjsX-cQ_1rINDd8t1vQUAFA&oe=6A13D396&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/298002354_1035295807129912_3416288456615854837_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTUuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGIQabSOxwmtoUu39es-QS1Z6_tpZZGyqzjtTfgfW7m8VGQqjs-KmxupFvbc5Z2VWM&_nc_ohc=aLzGzmLcEioQ7kNvwEmL7Un&_nc_gid=vkOmhAncuHWRnOBI_rcJHQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af65dnNyPaKe88eWubIT3ldNjsX-cQ_1rINDd8t1vQUAFA&oe=6A13D396&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/siandowneydesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6417
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/siandowneydesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/siandowneydesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/siandowneydesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # siandowneydesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/siandowneydesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

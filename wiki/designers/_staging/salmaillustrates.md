@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Salma Koshek
 website_meta_description: ''
 website_about_raw: >-
@@ -267,11 +269,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Salma Koshek
+instagram_biography: "Surface Pattern Designer & Illustrator \U0001F1E8\U0001F1E6\nCats and Flowers \U0001F338\n@coziegirlie \nFor licensing & inquiries ⬇️"
+instagram_posts_count: 38
+instagram_followers_count: 543
+instagram_follows_count: 271
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/526191309_18063629141241743_2714317666310404553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF9HyTEm3ffjibxPJOPAsOsIPOjRNU-V3A6_yWpZKPlPAX6jWxlIvSv9oHPBbKOZYE&_nc_ohc=PT30SEIkjP4Q7kNvwFym9i2&_nc_gid=r63HjEjCRb3Ntjf9N34jgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xk0FyhtjADqCglgqBQ2EJwf8KeOGb_X3ZoOb4Qm-Fuw&oe=6A13DD4A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/526191309_18063629141241743_2714317666310404553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF9HyTEm3ffjibxPJOPAsOsIPOjRNU-V3A6_yWpZKPlPAX6jWxlIvSv9oHPBbKOZYE&_nc_ohc=PT30SEIkjP4Q7kNvwFym9i2&_nc_gid=r63HjEjCRb3Ntjf9N34jgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xk0FyhtjADqCglgqBQ2EJwf8KeOGb_X3ZoOb4Qm-Fuw&oe=6A13DD4A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3088
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # salmaillustrates
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/salmaillustrates/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

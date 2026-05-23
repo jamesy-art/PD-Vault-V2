@@ -39,6 +39,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: >-
   Bold designs based on cut outs to make your life more colorful. - etsyshop and
   available for licensing
@@ -192,11 +194,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Sabeth Elberse Studio~Etsyseller and surface pattern designer
+instagram_biography: "✂️Papercut based designs+\nBold colors \n•tapestries•wallart•surface pattern design for all surfaces \nUtrecht\n\U0001F6CD️Etsy\nSabethElberseStudio\nLink site>shop"
+instagram_posts_count: 1361
+instagram_followers_count: 1665
+instagram_follows_count: 5451
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/471637732_1147576920281892_9018160050433547179_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFfE3bNmei4UdD_XXa1UwUNF_T7HaqTqKFBl8HF7kM8NloCS7jCiOQbRRbUWTjBiqY&_nc_ohc=56iaW2aitUwQ7kNvwHSk9T5&_nc_gid=6Q1UJRXX-2kffunZlK4EWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7_Cb6BGl9GrPNsRDlqPK_n5322rHb6I6fFLcjP1kWadw&oe=6A14066E&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/471637732_1147576920281892_9018160050433547179_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFfE3bNmei4UdD_XXa1UwUNF_T7HaqTqKFBl8HF7kM8NloCS7jCiOQbRRbUWTjBiqY&_nc_ohc=56iaW2aitUwQ7kNvwHSk9T5&_nc_gid=6Q1UJRXX-2kffunZlK4EWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7_Cb6BGl9GrPNsRDlqPK_n5322rHb6I6fFLcjP1kWadw&oe=6A14066E&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/sabethelberse_studio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5926
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/sabethelberse_studio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/sabethelberse_studio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/sabethelberse_studio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # sabethelberse_studio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sabethelberse_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

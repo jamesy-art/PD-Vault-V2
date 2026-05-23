@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Vendela Vrensk Illustration
 website_meta_description: ''
 website_about_raw: >-
@@ -242,11 +244,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Vendela Vrensk
+instagram_biography: |-
+  She/her. Swedish illustrator living in Gijón in northern Spain. 
+  Represented by @illustrateit_agency 
+  Member of @apiast.ilustracion
+instagram_posts_count: 516
+instagram_followers_count: 1419
+instagram_follows_count: 3025
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/501238427_18077072386847446_6145313573912943220_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHsH9vN08TpjuiQ2_cUqYEOYtK-XVXAVp53NMoc7lIF2ke9Hv7cbwIrP5rX6EA4zfg&_nc_ohc=615g3PAvi2YQ7kNvwHWQdk8&_nc_gid=kcrKEvkL6xo2gn25hRMe6Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4BWxjsddGN5YuryS1yJPs6zdHW157_JODAF0aq5eCCIg&oe=6A13F821&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/501238427_18077072386847446_6145313573912943220_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHsH9vN08TpjuiQ2_cUqYEOYtK-XVXAVp53NMoc7lIF2ke9Hv7cbwIrP5rX6EA4zfg&_nc_ohc=615g3PAvi2YQ7kNvwHWQdk8&_nc_gid=kcrKEvkL6xo2gn25hRMe6Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4BWxjsddGN5YuryS1yJPs6zdHW157_JODAF0aq5eCCIg&oe=6A13F821&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6744
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # vendelavrensk
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vendelavrensk/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Rosita Uricchio
 website_meta_description: Rosita Uricchio • illustrator
 website_about_raw: >-
@@ -195,11 +197,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: la rosita illustrator
+instagram_biography: "\U0001F58D️ Illustrator & plant seeker \U0001F33F\n\U0001F447\U0001F3FEget in touch:\nrosita.uricchio@gmail.com"
+instagram_posts_count: 1379
+instagram_followers_count: 4393
+instagram_follows_count: 1308
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/497055900_18508587766046017_3600088161108074572_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGneUiMJaP64UtV5ObO9QGX_XCeOWnpy48zLrLmafvIcVIfHO9gmD9EwU3mqmeYT-Y&_nc_ohc=cM3HJiJXHk4Q7kNvwF6i__S&_nc_gid=c-3Y6IztM572gZMHvMqsyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6SNEgHDl-m1T80Jc9kkwLUUSRVspYNBHB91mc50c45LA&oe=6A13E4E9&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/497055900_18508587766046017_3600088161108074572_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGneUiMJaP64UtV5ObO9QGX_XCeOWnpy48zLrLmafvIcVIfHO9gmD9EwU3mqmeYT-Y&_nc_ohc=cM3HJiJXHk4Q7kNvwF6i__S&_nc_gid=c-3Y6IztM572gZMHvMqsyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6SNEgHDl-m1T80Jc9kkwLUUSRVspYNBHB91mc50c45LA&oe=6A13E4E9&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/rosita.uricchio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2665
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/rosita.uricchio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/rosita.uricchio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/rosita.uricchio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # rosita.uricchio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rosita.uricchio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

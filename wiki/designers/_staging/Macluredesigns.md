@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | MacLure Designs
 website_meta_description: ''
 website_about_raw: >-
@@ -267,11 +269,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: ''
+instagram_biography: |-
+  Independent Hotel trade show 5th & 6th october 2026
+   - Freelance Surface Pattern and Textiles Designer www.macluredesigns.com
+instagram_posts_count: 415
+instagram_followers_count: 327
+instagram_follows_count: 531
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/504509893_18503894518038036_7465121586490855561_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFzhh2StLx3_TgDrFzt1GVtXlXTwCXoYL0nHPdfGrURi6CODsXNRQpyLhKasTXPrzg&_nc_ohc=3AeqQZRN28UQ7kNvwEBT_lc&_nc_gid=AMzsjsWjdYVLCeO5MNPacw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6x7qWcJzoCTbwgLKuUC28nakloA1CXxJ4oWuYqsWSi6Q&oe=6A1404FA&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/504509893_18503894518038036_7465121586490855561_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFzhh2StLx3_TgDrFzt1GVtXlXTwCXoYL0nHPdfGrURi6CODsXNRQpyLhKasTXPrzg&_nc_ohc=3AeqQZRN28UQ7kNvwEBT_lc&_nc_gid=AMzsjsWjdYVLCeO5MNPacw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6x7qWcJzoCTbwgLKuUC28nakloA1CXxJ4oWuYqsWSi6Q&oe=6A1404FA&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5231
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # macluredesigns
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/macluredesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

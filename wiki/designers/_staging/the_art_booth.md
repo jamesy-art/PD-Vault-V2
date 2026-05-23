@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Artist | The Art Booth
 website_meta_description: >-
   The Art Booth is a place to view work by Dawn, who has a real passion for
@@ -157,11 +159,46 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Dawn booth
+instagram_biography: |-
+  @skyarts Wild card on Landscape Artist 
+  Art
+  @inherstudiomagazine
+  @euphoricartcollections 
+  @thearchesproject 
+  @globalarttimes 
+  Partner @atlasprojectuk
+instagram_posts_count: 2406
+instagram_followers_count: 3839
+instagram_follows_count: 4378
+instagram_private: false
+instagram_verified: true
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fric1-2.fna.fbcdn.net/v/t51.2885-19/315914657_5792820724114708_574572131945256454_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFWu_3OQ32zf25WhVj02OCP-m48u9zjh47Eutd1eD8kHWYTr8QMsdqd9nnOy7L5F2A&_nc_ohc=x0cnXwPJvA0Q7kNvwHTKWKy&_nc_gid=jU_8L0aHazHARU2LH6lGag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6tcLWbu_KdpWG9a_5Qn2f_sITTaPMnYQ99ARs_3ADzVA&oe=6A13F4B1&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fric1-2.fna.fbcdn.net/v/t51.2885-19/315914657_5792820724114708_574572131945256454_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFWu_3OQ32zf25WhVj02OCP-m48u9zjh47Eutd1eD8kHWYTr8QMsdqd9nnOy7L5F2A&_nc_ohc=x0cnXwPJvA0Q7kNvwHTKWKy&_nc_gid=jU_8L0aHazHARU2LH6lGag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6tcLWbu_KdpWG9a_5Qn2f_sITTaPMnYQ99ARs_3ADzVA&oe=6A13F4B1&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6471
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # the_art_booth
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/the_art_booth/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

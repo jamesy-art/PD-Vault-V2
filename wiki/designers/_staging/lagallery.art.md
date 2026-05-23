@@ -42,6 +42,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Lagallery | Cuadros artisticos
 website_meta_description: ''
 website_about_raw: >-
@@ -272,11 +274,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Arte & Diseño / lagallery
+instagram_biography: "Ilustraciones digitales & Cuadros coloridos\nDiseño que inspira y llena tus espacios\nCreadora: @nathasanz \nDescubre mi galería encarga tu ilustración\U0001F447"
+instagram_posts_count: 122
+instagram_followers_count: 173
+instagram_follows_count: 213
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/545305106_18064317698599524_8674564962798005256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUq5MU4REwDQxLmxf_6QANACMSIQywOEFYM_27Z9DOdsbe0kJ1I2WU6L75XljChdg&_nc_ohc=xHR8iK0xHsAQ7kNvwGSJMHh&_nc_gid=qWf37Xs5xBZY9fLBSq2pHA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Y2sgW7YToNJUtNZCgGLwZWk4yIRVwitz88Jqzxc-yPQ&oe=6A13D937&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/545305106_18064317698599524_8674564962798005256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUq5MU4REwDQxLmxf_6QANACMSIQywOEFYM_27Z9DOdsbe0kJ1I2WU6L75XljChdg&_nc_ohc=xHR8iK0xHsAQ7kNvwGSJMHh&_nc_gid=qWf37Xs5xBZY9fLBSq2pHA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Y2sgW7YToNJUtNZCgGLwZWk4yIRVwitz88Jqzxc-yPQ&oe=6A13D937&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 6511
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # lagallery.art
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/lagallery.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

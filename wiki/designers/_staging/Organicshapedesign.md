@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Home | Organic Shape Design
 website_meta_description: ''
 website_about_raw: >-
@@ -286,11 +288,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Organic Shape
+instagram_biography: "Freelance Surface Pattern Designer. \nillustrator of botanicals and organic forms.\U0001F33F\nStockist enquiries always open.✨️\n@design.capture.collective"
+instagram_posts_count: 60
+instagram_followers_count: 478
+instagram_follows_count: 475
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/315631439_6048926188465051_338938991087690839_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE1DeELt8Xje9cAUaWVCKCbTicb-Q1dI_IZVrBGjT9oMNu1urYM_YsUPtFm8ut3hhs&_nc_ohc=KZe-qEoITLwQ7kNvwHjUgcH&_nc_gid=zyXQuZlXNGPkR5-_3eZ5-w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4B7VdkeyI7UpWB7-IPnZXLtXDltfJRhlF4QY1smObOyg&oe=6A14039B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/315631439_6048926188465051_338938991087690839_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE1DeELt8Xje9cAUaWVCKCbTicb-Q1dI_IZVrBGjT9oMNu1urYM_YsUPtFm8ut3hhs&_nc_ohc=KZe-qEoITLwQ7kNvwHjUgcH&_nc_gid=zyXQuZlXNGPkR5-_3eZ5-w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4B7VdkeyI7UpWB7-IPnZXLtXDltfJRhlF4QY1smObOyg&oe=6A14039B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/organicshapedesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2790
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/organicshapedesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/organicshapedesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/organicshapedesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # organicshapedesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/organicshapedesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -38,6 +38,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Beth Morgan Studio | Artist & Textile Designer
 website_meta_description: >-
   Explore the portfolio of Beth Morgan, an artist and textile designer
@@ -261,11 +263,41 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Beth Morgan
+instagram_biography: |-
+  Textile Designer & Illustrator
+  First Class Honours Textile Design Graduate 2025
+instagram_posts_count: 30
+instagram_followers_count: 203
+instagram_follows_count: 406
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/491413346_18049037681370243_5019072597682448054_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBJl3Tf6Is6W-mM9QVr147FufF3RGgV-i_zgV1lFgPTeFTiLBqZRIvcnVseV44_Eg&_nc_ohc=VXuS-g_bJ-sQ7kNvwGS6Rre&_nc_gid=D2lRqSjVR_1CwLf3YMKk_w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63qgitrE7QJGa87eATwEj8fqLci9Jofx8gZd-dkRuzqA&oe=6A13E25F&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/491413346_18049037681370243_5019072597682448054_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBJl3Tf6Is6W-mM9QVr147FufF3RGgV-i_zgV1lFgPTeFTiLBqZRIvcnVseV44_Eg&_nc_ohc=VXuS-g_bJ-sQ7kNvwGS6Rre&_nc_gid=D2lRqSjVR_1CwLf3YMKk_w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63qgitrE7QJGa87eATwEj8fqLci9Jofx8gZd-dkRuzqA&oe=6A13E25F&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3610
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # bethmorganstudio
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -47,6 +47,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Kelly Rideout | Floral Botanical Surface Pattern Designer
 website_meta_description: >-
   Kelly Rideout I am a Floral Botanical Surface Pattern Designer and Illustrator
@@ -318,11 +320,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: KELLY RIDEOUT | Surface Pattern Designer & Illustrator
+instagram_biography: "\U0001F338 Art licensing for product developers & brands.\n\U0001F33F Botanical hand-drawn patterns | UK South Coast.\n\U0001F4E9 Open to collaborations\n\U0001F447Portfolio | Shop"
+instagram_posts_count: 274
+instagram_followers_count: 388
+instagram_follows_count: 651
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/648147533_18569405935027709_9051935374365616496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEOwbQW0ZUSgyG7u8Mplw1ra-uod9jMMK_NHGfCbdUXauUHiPjw2IuLj_CiutPEviY&_nc_ohc=u330bLKuOkwQ7kNvwE9kdxP&_nc_gid=kvy7BOSwNMk-XNnZtC_pbg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7oatEeiwWHL1PsAF-3mVYjgjqrwpBIokd0Oig5jzxSzg&oe=6A13F1AE&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/648147533_18569405935027709_9051935374365616496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEOwbQW0ZUSgyG7u8Mplw1ra-uod9jMMK_NHGfCbdUXauUHiPjw2IuLj_CiutPEviY&_nc_ohc=u330bLKuOkwQ7kNvwE9kdxP&_nc_gid=kvy7BOSwNMk-XNnZtC_pbg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7oatEeiwWHL1PsAF-3mVYjgjqrwpBIokd0Oig5jzxSzg&oe=6A13F1AE&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7373
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # kellyrideoutdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: 'chuda_wiedzma''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by chuda_wiedzma for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -231,11 +233,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Anita Łęcka
+instagram_biography: "\U0001F31EIllustration \U0001F31Cpattern design \U0001FA84 whimsy \nsometimes I sing\n\U0001F48Canita.lecka.projekty@gmail.com\n@tachudawiedzma\n\U0001F4CDPoland"
+instagram_posts_count: 114
+instagram_followers_count: 816
+instagram_follows_count: 837
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/570024185_18097590205746939_9048745275375011368_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gF3UvMmRgZztYwqXOJCOH5RkfXkSTroOla7RF0X67AufiGfBmV4FWPaIMoBjOLoEqM&_nc_ohc=YH4CUItIvyIQ7kNvwGBmQz-&_nc_gid=Jo-wRMFTPJZYvOiVekCCYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4b33fPGtdBvavhFOhYnwKFTI9fC8cHoh6afTwx-M9dOA&oe=6A13FF0B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/570024185_18097590205746939_9048745275375011368_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gF3UvMmRgZztYwqXOJCOH5RkfXkSTroOla7RF0X67AufiGfBmV4FWPaIMoBjOLoEqM&_nc_ohc=YH4CUItIvyIQ7kNvwGBmQz-&_nc_gid=Jo-wRMFTPJZYvOiVekCCYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4b33fPGtdBvavhFOhYnwKFTI9fC8cHoh6afTwx-M9dOA&oe=6A13FF0B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/chuda_wiedzma/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 2880
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/chuda_wiedzma/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/chuda_wiedzma/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/chuda_wiedzma/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # chuda_wiedzma
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/chuda_wiedzma/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -48,6 +48,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Surface Pattern Design and Illustration Studio | Clare Martin Design
 website_meta_description: >-
   Whimsical, hand-drawn surface pattern designs inspired by nature, food and
@@ -286,11 +288,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Clare Martin I Surface pattern design + illustration
+instagram_biography: "✍\U0001F3FC Australian artist making joyful, whimsical ink illustrations for Fabric, Homewares, Giftware and Wall Art \U0001F3A8 Member of @illustratorsforhire"
+instagram_posts_count: 1149
+instagram_followers_count: 3387
+instagram_follows_count: 3614
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/376283381_324435853490220_3839188967682393833_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQQ0siy7K3eXoyiW9MOFecX-5M8YQ4UggE7UpJIa4oATdnlFBnTGwJIjkyL9r0-Bc&_nc_ohc=LAwKi5D1lhcQ7kNvwHIJEdA&_nc_gid=fmYD4TFV0LHjftiSswObMA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7hxuHTbhS4ioLM5ZzR6GDshm36gZj90Z41SIswRBt3cA&oe=6A13D0E0&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/376283381_324435853490220_3839188967682393833_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHQQ0siy7K3eXoyiW9MOFecX-5M8YQ4UggE7UpJIa4oATdnlFBnTGwJIjkyL9r0-Bc&_nc_ohc=LAwKi5D1lhcQ7kNvwHIJEdA&_nc_gid=fmYD4TFV0LHjftiSswObMA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7hxuHTbhS4ioLM5ZzR6GDshm36gZj90Z41SIswRBt3cA&oe=6A13D0E0&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/claremartindesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5633
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/claremartindesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/claremartindesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/claremartindesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # claremartindesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/claremartindesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

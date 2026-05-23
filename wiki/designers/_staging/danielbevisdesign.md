@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Daniel Bevis Design
 website_meta_description: >-
   Daniel Bevis Design is a UK Illustrator and Surface Pattern Artist, who is
@@ -113,11 +115,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Daniel Bevis Design
+instagram_biography: "\U0001F3A8\U0001F3F3️‍\U0001F308 UK Surface Pattern Designer, \U0001F6ABAI \nPlease DM me for art and freelicensing\nShop artwork ⬇️"
+instagram_posts_count: 2487
+instagram_followers_count: 448
+instagram_follows_count: 1379
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/606967093_18547792012046414_5386617643424496016_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGljS1-Jb4hPB8srdWwEqeN5OHJSGfv18S8RJFAI1EMGhdnppGY8JyNEfh2qXOIXvW_xOzUc8mGM488IcKy8_x7&_nc_ohc=djjISEGVyKgQ7kNvwHXRC9Q&_nc_gid=aTuw9XxGwwbOzQ5Xg9mUYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6oBnFQMHFo1qdyxFJQa5s34Br_JJhQPJ_u5qhBjADjfw&oe=6A13DEDC&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/606967093_18547792012046414_5386617643424496016_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGljS1-Jb4hPB8srdWwEqeN5OHJSGfv18S8RJFAI1EMGhdnppGY8JyNEfh2qXOIXvW_xOzUc8mGM488IcKy8_x7&_nc_ohc=djjISEGVyKgQ7kNvwHXRC9Q&_nc_gid=aTuw9XxGwwbOzQ5Xg9mUYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6oBnFQMHFo1qdyxFJQa5s34Br_JJhQPJ_u5qhBjADjfw&oe=6A13DEDC&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/danielbevisdesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 5391
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/danielbevisdesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/danielbevisdesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/danielbevisdesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # danielbevisdesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/danielbevisdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

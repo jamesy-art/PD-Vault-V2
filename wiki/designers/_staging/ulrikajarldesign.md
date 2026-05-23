@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Illustration & Surface Pattern Design | ulrikajarl.com | Brighton
 website_meta_description: >-
   Ulrika Jarl is an Illustrator and Surface Pattern Designer. Her designs are
@@ -70,11 +72,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Ulrika Jarl | Surface Pattern Design
+instagram_biography: "✏️Illustration | Surface Pattern | Public Art\n\U0001F4CDBrighton, UK | \U0001F30D Available Worldwide \n\U0001F4E9 DM for commissions & collaborations"
+instagram_posts_count: 962
+instagram_followers_count: 4162
+instagram_follows_count: 1782
+instagram_private: false
+instagram_verified: false
+instagram_business_account: true
+instagram_profile_pic_url: >-
+  https://instagram.fsan1-1.fna.fbcdn.net/v/t51.2885-19/494484919_18501493612044723_4434912792113631896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsan1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gH8bwQ7_0I6v4YMMJCJqgxc7Bp9Hf3ApV6sXwIre-0CQ7nSzwYhVFX2B0CYF2KHxUc&_nc_ohc=6jZQG0YZ4bUQ7kNvwFziPVT&_nc_gid=7N1UlRZpqf7E78OCmv3THA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aYuILaR7DRs1QaZWJa2SVd2wXdvVsal2MBKV9jKb6qQ&oe=6A13FB2A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://instagram.fsan1-1.fna.fbcdn.net/v/t51.2885-19/494484919_18501493612044723_4434912792113631896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsan1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gH8bwQ7_0I6v4YMMJCJqgxc7Bp9Hf3ApV6sXwIre-0CQ7nSzwYhVFX2B0CYF2KHxUc&_nc_ohc=6jZQG0YZ4bUQ7kNvwFziPVT&_nc_gid=7N1UlRZpqf7E78OCmv3THA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aYuILaR7DRs1QaZWJa2SVd2wXdvVsal2MBKV9jKb6qQ&oe=6A13FB2A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 4253
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ulrikajarldesign
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

@@ -18,7 +18,7 @@ bio: ''
 website: 'https://alexanderadiels.com/patterndesign.html'
 website_about: ''
 accepted: 03/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/alexanderadiels
 profile_url: ''
 instagram_images:
@@ -35,7 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Patterndesign | alexanderadiels.com
 website_meta_description: ''
 website_about_raw: >-
@@ -238,7 +243,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Alexander is an illustrator and pattern designer from Sweden.
 
@@ -525,29 +530,239 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Alexander Adiels
+instagram_biography: |-
+  Patterndesigner
+  Drawing/painting: @alexanderadiels.art 
+  Available at:
+  @happywall_com 
+  @robinsprongwallpapers 
+  @wallofartcom  
+  @fabricbank_
+instagram_posts_count: 715
+instagram_followers_count: 3552
+instagram_follows_count: 485
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/431855135_1603376517131075_8082269153697248703_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHghFHjxM6jwXqub7O3wiyXEgWP9ZawoNYZ2ZGgzsnbfNKiKJgS-SL9Y5IBJbDPSnw&_nc_ohc=616VDhfLKp4Q7kNvwFFdvHs&_nc_gid=OssFAO2OyJ3Rq9o20O0g6Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5r9hy9F9bJrYQLQae5XSsbxMnmzrbXhi-jIGBAc4O0Dg&oe=6A13DE73&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/431855135_1603376517131075_8082269153697248703_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHghFHjxM6jwXqub7O3wiyXEgWP9ZawoNYZ2ZGgzsnbfNKiKJgS-SL9Y5IBJbDPSnw&_nc_ohc=616VDhfLKp4Q7kNvwFFdvHs&_nc_gid=OssFAO2OyJ3Rq9o20O0g6Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5r9hy9F9bJrYQLQae5XSsbxMnmzrbXhi-jIGBAc4O0Dg&oe=6A13DE73&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/alexanderadiels/profile/431855135_1603376517131075_8082269153697248703_n.jpg
+instagram_profile_image_bytes: 106133
+instagram_profile_image_quality: large
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/alexanderadiels/profile/431855135_1603376517131075_8082269153697248703_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/alexanderadiels/profile/431855135_1603376517131075_8082269153697248703_n.jpg
+profile_image_local: >-
+  ../../assets/designers/alexanderadiels/profile/431855135_1603376517131075_8082269153697248703_n.jpg
+images:
+  profile:
+    - >-
+      ../../assets/designers/alexanderadiels/profile/431855135_1603376517131075_8082269153697248703_n.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1656952683_2875049950560555849_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1656952683_2875049950770328448_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1657887696_2882893409107405191_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1659688505_2897999682643479381_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1664870922_2941472950754939608_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1665062900_2943083379084102419_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784483156_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784500105_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352344091008_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352511826650_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669137930_2977267212184210054_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669137930_2977267212377378317_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669719940_2982149466119457778_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1673684184_3015403947392883695_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1696765232_3209021815018501331_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710156365_3321354780884521552_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710156365_3321354780901207213_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710762323_3326437928794198313_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1715941448_3369883573747727575_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1718711181_3393117781974839890_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775014872503_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775023423669_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737970999_3554680840261248965_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737970999_3554680840261399103_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1739794245_3569975339371872874_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523091951111_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523267859316_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1745920817_3621368751169573108_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1745920817_3621368751186354322_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1759835808_3738096153330732084_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217150909762771_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217151673115950_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1763560840_3769343984427092835_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1764080034_3773699305358514655_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1768398482_3809924439802920534_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772116497_3841112616261439787_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772713011_3846116591322845800_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772713011_3846116594653107055_2620337719.jpg
+instagram_image_count: 38
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784500105_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352511826650_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710762323_3326437928794198313_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1715941448_3369883573747727575_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1718711181_3393117781974839890_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775014872503_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523267859316_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217150909762771_2620337719.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1659688505_2897999682643479381_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1664870922_2941472950754939608_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1665062900_2943083379084102419_2620337719.jpg
+  - >-
+    ../../assets/designers/alexanderadiels/instagram/alexanderadiels_1768398482_3809924439802920534_2620337719.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # alexanderadiels
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/alexanderadiels/profile/431855135_1603376517131075_8082269153697248703_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1656952683_2875049950560555849_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1656952683_2875049950560555849_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1656952683_2875049950770328448_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1656952683_2875049950770328448_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1657887696_2882893409107405191_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1657887696_2882893409107405191_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1659688505_2897999682643479381_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1659688505_2897999682643479381_2620337719.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1664870922_2941472950754939608_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1664870922_2941472950754939608_2620337719.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1665062900_2943083379084102419_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1665062900_2943083379084102419_2620337719.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784483156_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784483156_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784500105_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1666362954_2953989019784500105_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352344091008_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352344091008_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352511826650_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1667462580_2963213352511826650_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669137930_2977267212184210054_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669137930_2977267212184210054_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669137930_2977267212377378317_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669137930_2977267212377378317_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669719940_2982149466119457778_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1669719940_2982149466119457778_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1673684184_3015403947392883695_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1673684184_3015403947392883695_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1696765232_3209021815018501331_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1696765232_3209021815018501331_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710156365_3321354780884521552_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710156365_3321354780884521552_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710156365_3321354780901207213_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710156365_3321354780901207213_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710762323_3326437928794198313_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1710762323_3326437928794198313_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1715941448_3369883573747727575_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1715941448_3369883573747727575_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1718711181_3393117781974839890_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1718711181_3393117781974839890_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775014872503_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775014872503_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775023423669_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737113399_3547486775023423669_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737970999_3554680840261248965_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737970999_3554680840261248965_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737970999_3554680840261399103_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1737970999_3554680840261399103_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1739794245_3569975339371872874_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1739794245_3569975339371872874_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523091951111_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523091951111_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523267859316_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1744806302_3612019523267859316_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1745920817_3621368751169573108_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1745920817_3621368751169573108_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1745920817_3621368751186354322_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1745920817_3621368751186354322_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1759835808_3738096153330732084_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1759835808_3738096153330732084_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217150909762771_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217150909762771_2620337719.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217151673115950_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1762353627_3759217151673115950_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1763560840_3769343984427092835_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1763560840_3769343984427092835_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1764080034_3773699305358514655_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1764080034_3773699305358514655_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1768398482_3809924439802920534_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1768398482_3809924439802920534_2620337719.jpg --> | [ ] | [x] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772116497_3841112616261439787_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772116497_3841112616261439787_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772713011_3846116591322845800_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772713011_3846116591322845800_2620337719.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772713011_3846116594653107055_2620337719.jpg)<br><!-- image:../../assets/designers/alexanderadiels/instagram/alexanderadiels_1772713011_3846116594653107055_2620337719.jpg --> | [ ] | [ ] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Alexander Adiels is a Swedish illustrator and pattern designer based in Stockholm. He studied pattern design and painting before establishing a practice spanning licensed wallpaper, fabric, and art prints. His patterns are currently distributed through Robin Sprong Wallpapers and Fabric Bank, with additional retail presence via Happy Wall and Wall of Art.
 
 ## Style and Aesthetic
 
+Adiels' work bridges figurative and abstract motifs, employing both analog and digital approaches. His "Laws of a fraction" collection frames pattern design as a system in which each element plays a role in completing a unified whole — a concept drawing on natural fractals found in plants, animals, and minerals. Selected Instagram images suggest structured, repeating compositions with a controlled graphic sensibility.
+
 ## Techniques and Tools
+
+Works across both analog drawing/painting and digital production, combining hand-made origins with technically finished repeats. Produces vector-ready work for licensing.
 
 ## Markets and Clients
 
+Licensing is the primary commercial route. Confirmed licensed clients include [[Robin Sprong]] (wallpaper, South Africa), [[Fabric Bank]] (fabric, South Africa), and [[Cissi & Selma]] (Swedish womenswear, autumn 2021). Art prints are distributed through [[Wall of Art]] (Sweden) and available via [[Happy Wall]]. Additional illustration work covers music and editorial artwork.
+
 ## Portfolio and Presence
+
+- Website: https://alexanderadiels.com/patterndesign.html
+- Instagram: @alexanderadiels
 
 ## Career Path
 
+Studied pattern design and painting, then moved into a freelance illustration and pattern design practice. Works primarily from a home studio in Stockholm. Has built a licensed portfolio across wallpaper, fabric, and retail print markets since at least 2021.
+
 ## Pattern Focus
 
+The "Laws of a fraction" collection (Fabric Bank, 12 patterns) and the Robin Sprong wallpaper collection (8+ patterns, multiple colorways) represent the two core licensed bodies of work. Selected Instagram patterns suggest a range of geometric, abstract, and nature-inspired all-over repeats.
+
 ## Connections
+
+- [[Robin Sprong]] — wallpaper licensing partner, South Africa
+- [[Fabric Bank]] — fabric licensing partner, South Africa
+- [[Cissi & Selma]] — womenswear collaboration (autumn 2021)
+- [[Happy Wall]] — retail distribution
+- [[Wall of Art]] — art print distribution, Sweden

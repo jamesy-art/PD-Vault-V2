@@ -41,6 +41,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Sandra B Creative | Explore Creative Surface Patterns
 website_meta_description: >-
   Discover Sandra B Creative's portfolio of unique surface pattern design
@@ -132,11 +134,39 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: excellent
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Sandra B Creative | Sandra Botero
+instagram_biography: "• Surface Pattern Designer \n• Portfolio on sandrabcreative.com\n• Owner of @heroicouture \n\U0001F53DDesigns available on\U0001F53D\n@spoonflower @legaleriste"
+instagram_posts_count: 140
+instagram_followers_count: 694
+instagram_follows_count: 1454
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/520555489_18057011213601197_8900139575575314967_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjkuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHb5sJmb4ksr1j1NpB-Lot4-MmCRklfuWw3XrxumQ4RHnGvUE5X3vPEUBqZ1nCgzqs&_nc_ohc=69HBHqmboXkQ7kNvwEHQITr&_nc_gid=WyNwavwZ5qVXCi2M7urlIw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Qkj-Zp3-bdub24hQ3_NiTfKSq-zrnxuCbclRMGANKGg&oe=6A13EDB2&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/520555489_18057011213601197_8900139575575314967_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjkuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHb5sJmb4ksr1j1NpB-Lot4-MmCRklfuWw3XrxumQ4RHnGvUE5X3vPEUBqZ1nCgzqs&_nc_ohc=69HBHqmboXkQ7kNvwEHQITr&_nc_gid=WyNwavwZ5qVXCi2M7urlIw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Qkj-Zp3-bdub24hQ3_NiTfKSq-zrnxuCbclRMGANKGg&oe=6A13EDB2&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/sandrabcreative/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3259
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/sandrabcreative/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/sandrabcreative/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/sandrabcreative/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # sandrabcreative
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sandrabcreative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

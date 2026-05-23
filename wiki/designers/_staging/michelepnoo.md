@@ -45,6 +45,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: michele payne
 website_meta_description: ''
 website_about_raw: >-
@@ -254,11 +256,45 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Michele Payne (she/her)
+instagram_biography: >-
+  Freelance surface designer, artist and mum, living in Worthing, South Coast of
+  the UK
+
+  To see my art go to @michelepaints
+
+  All work ©michelepayne2023
+instagram_posts_count: 764
+instagram_followers_count: 3366
+instagram_follows_count: 5238
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/123496809_1808231589332987_974834018180957705_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTUuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFwdsJkH6ANICSe7meuboWot9azXr2_13uVy_RXlh3oiQ8hYnQi1VF1O4wYQoTP3Pk&_nc_ohc=woxLDFzIIM0Q7kNvwEPSxtI&_nc_gid=1inQWGZ_7pstBOD25N0oiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4hlMEweULYp9sFdTFV7CaqHR5h5RYVQB-ow1u4Ps831Q&oe=6A13F5CF&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/123496809_1808231589332987_974834018180957705_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTUuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFwdsJkH6ANICSe7meuboWot9azXr2_13uVy_RXlh3oiQ8hYnQi1VF1O4wYQoTP3Pk&_nc_ohc=woxLDFzIIM0Q7kNvwEPSxtI&_nc_gid=1inQWGZ_7pstBOD25N0oiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4hlMEweULYp9sFdTFV7CaqHR5h5RYVQB-ow1u4Ps831Q&oe=6A13F5CF&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3930
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # michelepnoo
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/michelepnoo/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

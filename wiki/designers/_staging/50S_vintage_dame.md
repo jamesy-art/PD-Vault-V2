@@ -25,7 +25,7 @@ bio: ''
 website: 'https://50svintagedame.com'
 website_about: ''
 accepted: 25/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/50s_vintage_dame
 profile_url: ''
 instagram_images:
@@ -42,7 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - has_instagram_profile
+  - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 50's Vintage Dame
 website_meta_description: >-
   Vintage and Retro illustration specialist. Freelance illustrator, surface
@@ -279,34 +284,203 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: 50s Vintage Dame
+instagram_biography: "Sue  ✨ Freelance Illustrator & Designer\n\U0001F33A Represented by @theillustrationroom\n\U0001F33A Sydney Australia \n\U0001F33A Fun, vintage-style artwork"
+instagram_posts_count: 1842
+instagram_followers_count: 40952
+instagram_follows_count: 5780
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/121057393_655164891869172_4620785771007308697_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEHGrIubX4z1mChZT7Oz45OQn9u_pRbJxUiECZfQeLe0hZPZHD2IUG47csZ3p02JI8&_nc_ohc=eD0cJ17gPrUQ7kNvwFXU7RJ&_nc_gid=iX5z7EgB3vYNNhxE4_ZmtQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yyy-3MzMlPcnrsrgEDBFbqQyrdpZT2mO3W-kfx26q1A&oe=6A13EAA3&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/121057393_655164891869172_4620785771007308697_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEHGrIubX4z1mChZT7Oz45OQn9u_pRbJxUiECZfQeLe0hZPZHD2IUG47csZ3p02JI8&_nc_ohc=eD0cJ17gPrUQ7kNvwFXU7RJ&_nc_gid=iX5z7EgB3vYNNhxE4_ZmtQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yyy-3MzMlPcnrsrgEDBFbqQyrdpZT2mO3W-kfx26q1A&oe=6A13EAA3&_nc_sid=8b3546
+instagram_profile_image_local: >-
+  ../../assets/designers/50s_vintage_dame/profile/121057393_655164891869172_4620785771007308697_n.jpg
+instagram_profile_image_bytes: 9897
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: >-
+  ../../assets/designers/50s_vintage_dame/profile/121057393_655164891869172_4620785771007308697_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/50s_vintage_dame/profile/121057393_655164891869172_4620785771007308697_n.jpg
+profile_image_local: >-
+  ../../assets/designers/50s_vintage_dame/profile/121057393_655164891869172_4620785771007308697_n.jpg
+images:
+  profile:
+    - ../../assets/designers/50s_vintage_dame/profile/instagram-profile.jpg
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1766344182_3792692350092033104_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1767905629_3805790721216347099_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270235652388_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270294338441_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371009724009_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371395640197_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371747930453_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052379264096947_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052379926817590_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380052649021_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380061062639_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380119769735_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380455313900_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052394581698731_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052395538037404_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1773604336_3853593413334316621_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775431171_3868917283377357906_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030001857185334_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030002981266289_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776027450_3873918787347800791_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776286251_3876090819871211627_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776550818_3878309548495427061_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778281941_3892829714608235316_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778792290_3897113940551761275_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779137546_3900007867948563606_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779224748_3900739654593050308_1122494692.jpg
+instagram_image_count: 26
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1766344182_3792692350092033104_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270235652388_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371009724009_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1773604336_3853593413334316621_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775431171_3868917283377357906_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030001857185334_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030002981266289_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776550818_3878309548495427061_1122494692.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1767905629_3805790721216347099_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776027450_3873918787347800791_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778792290_3897113940551761275_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779137546_3900007867948563606_1122494692.jpg
+  - >-
+    ../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779224748_3900739654593050308_1122494692.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 5
+trash_image_count: 0
 ---
-
 # 50s_vintage_dame
 
 ## Profile Image
 
+![pd-profile|160](../../assets/designers/50s_vintage_dame/profile/121057393_655164891869172_4620785771007308697_n.jpg)
+
 ## Instagram Images
+
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1766344182_3792692350092033104_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1766344182_3792692350092033104_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1767905629_3805790721216347099_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1767905629_3805790721216347099_1122494692.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270235652388_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270235652388_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270294338441_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1768081409_3807265270294338441_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371009724009_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371009724009_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371395640197_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371395640197_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371747930453_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052371747930453_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052379264096947_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052379264096947_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052379926817590_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052379926817590_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380052649021_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380052649021_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380061062639_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380061062639_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380119769735_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380119769735_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380455313900_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052380455313900_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052394581698731_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052394581698731_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052395538037404_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1770321168_3826052395538037404_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1773604336_3853593413334316621_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1773604336_3853593413334316621_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775431171_3868917283377357906_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775431171_3868917283377357906_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030001857185334_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030001857185334_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030002981266289_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1775683398_3871030002981266289_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776027450_3873918787347800791_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776027450_3873918787347800791_1122494692.jpg --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776286251_3876090819871211627_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776286251_3876090819871211627_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776550818_3878309548495427061_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1776550818_3878309548495427061_1122494692.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778281941_3892829714608235316_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778281941_3892829714608235316_1122494692.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778792290_3897113940551761275_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1778792290_3897113940551761275_1122494692.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779137546_3900007867948563606_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779137546_3900007867948563606_1122494692.jpg --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779224748_3900739654593050308_1122494692.jpg)<br><!-- image:../../assets/designers/50s_vintage_dame/instagram/50s_vintage_dame_1779224748_3900739654593050308_1122494692.jpg --> | [ ] | [x] | [ ] |
 
 ## Website Images
 
-
 ## Overview
+
+Sue Cadzow is a Sydney-based freelance print and pattern designer and retro illustration specialist, operating under the brand 50s Vintage Dame. With over 20 years of industry experience and a background in graphic design and print production, she creates vintage-style artwork with a sharp modern attitude. Represented by The Illustration Room (Australia). Selected Instagram images confirm a richly illustrated retro pattern and surface design practice, with strong coverage across apparel, homewares, and publishing applications.
 
 ## Style and Aesthetic
 
+Mid-century inspired illustration and surface pattern, characterised by joyful nostalgia and saturated colour. Aesthetic draws heavily on 1950s design — informed by Sue's own Sydney home furnished with period pieces. Work spans tiki/Hawaiian illustration, Wild West imagery, retro pinup, retro comic, sci-fi/retro-futurism, and paper dolls alongside floral and decorative surface patterns. Colourful, densely detailed, and thematically consistent across a large body of work.
+
 ## Techniques and Tools
+
+Digital illustration and design. Background in graphic design and print production ensures professional, print-ready output. A surface pattern licensing library is now live on the website, available to buyers on request.
 
 ## Markets and Clients
 
+Broad market reach: books and editorial, packaging, maps, events, marketing, stationery, homewares, cocktail bars, entertainment and hospitality, apparel and textiles, personal commissions. Published projects include *Tiki Cocktails* (book), *Keep Coolidge and Carry On* (Jennifer Coolidge), and *Tinseltown Tarot* (Hollywood-themed tarot deck). Selected placement images suggest apparel and product surface applications. A dedicated surface pattern licensing library signals active commercial licensing activity.
+
 ## Portfolio and Presence
+
+- Website: https://50svintagedame.com
+- Instagram: @50S_vintage_dame (40,952 followers)
+- Agent: The Illustration Room — Katie Perrott, katie@illustrationroom.com.au
 
 ## Career Path
 
+Over 20 years in graphic design and print production before establishing the 50s Vintage Dame brand. Lives in a classic mid-century Sydney home, directly informing the aesthetic direction. Surface pattern licensing library launched as a dedicated commercial offering. Represented by The Illustration Room for licensing and commission enquiries.
+
 ## Pattern Focus
 
+Selected pattern images suggest illustrative surface patterns — retro florals, character-based compositions, and vintage-themed all-overs consistent with the mid-century register. Pattern work integrates closely with illustration commissions, spanning surface licensing and editorial contexts. Tiki, pinup, and retro-floral are the most prominent pattern categories.
+
 ## Connections
+
+- [[The Illustration Room]]
+- [[Retro Pattern]]
+- [[Stationery Market]]
+- [[Home Decor Market]]
+- [[Apparel Market]]

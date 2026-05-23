@@ -40,6 +40,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Monneeshka Art Studio - Unique Artworks for Sale
 website_meta_description: >-
   Discover original artworks and prints at Monneeshka Art Studio. Embrace bold
@@ -217,11 +219,39 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: monika koch
+instagram_biography: "Copyright © monneeshka/Monika Koch All rights reserved.\nto buy art please get in touch through DM or visit my Etsy shop\U0001F447\U0001F3FB\U0001F44D\U0001F3FB\U0001F601"
+instagram_posts_count: 1114
+instagram_followers_count: 19811
+instagram_follows_count: 1788
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/92951395_220202075982377_6389010237893902336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEJ3C27w22-uXVhwGr95l23dzm2aK7mU0sLE_fb-gLxprzAL8AIIplgGtVcavjbyNk&_nc_ohc=tGAxIeWl6KIQ7kNvwEVFxNS&_nc_gid=YrETNW96M1M_dICa8I2m9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wob6pOCIKbTkkfvb15G2f2ND1A7iLm-gLP0GCVza8uw&oe=6A13DAF0&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/92951395_220202075982377_6389010237893902336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEJ3C27w22-uXVhwGr95l23dzm2aK7mU0sLE_fb-gLxprzAL8AIIplgGtVcavjbyNk&_nc_ohc=tGAxIeWl6KIQ7kNvwEVFxNS&_nc_gid=YrETNW96M1M_dICa8I2m9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wob6pOCIKbTkkfvb15G2f2ND1A7iLm-gLP0GCVza8uw&oe=6A13DAF0&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/monneeshka/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 3294
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/monneeshka/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/monneeshka/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/monneeshka/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # monneeshka
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/monneeshka/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

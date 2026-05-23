@@ -36,6 +36,8 @@ website_images:
 tags:
   - pattern_designer
   - level_2
+  - has_instagram_profile
+  - has_profile_image
 website_title: Hosted By One.com | Webhosting made simple
 website_meta_description: ''
 website_about_raw: >-
@@ -82,11 +84,41 @@ manual_about_raw: >-
 manual_reviewed: true
 manual_quality: usable
 manual_review_note: Manual about text reviewed and rescored.
+instagram_full_name: Ellen van Engelen
+instagram_biography: >-
+  I'm an illustrator who became a patternmaker and can't resist switching back
+  and forth between both.
+instagram_posts_count: 175
+instagram_followers_count: 789
+instagram_follows_count: 332
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/358798152_789817672553260_8082603769555540555_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODMuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF7A_OxvpIjHCPboyX3ZDjY4NzwhdN5wjWhgFkd0mlJHHSQk0Cys1YIdV_R38ac1vw&_nc_ohc=LIy5c9MT140Q7kNvwGOUTIw&_nc_gid=POZSLs0ZkeLrQkjbZskayw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4vkkzioTbjN_yV18NfLtM4j_Ry5tuw3o790xqZEROEQw&oe=6A13D74A&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/358798152_789817672553260_8082603769555540555_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODMuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF7A_OxvpIjHCPboyX3ZDjY4NzwhdN5wjWhgFkd0mlJHHSQk0Cys1YIdV_R38ac1vw&_nc_ohc=LIy5c9MT140Q7kNvwGOUTIw&_nc_gid=POZSLs0ZkeLrQkjbZskayw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4vkkzioTbjN_yV18NfLtM4j_Ry5tuw3o790xqZEROEQw&oe=6A13D74A&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/ellen_van_engelen/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 9504
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/ellen_van_engelen/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/ellen_van_engelen/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/ellen_van_engelen/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # ellen_van_engelen
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ellen_van_engelen/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 

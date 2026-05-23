@@ -43,6 +43,8 @@ website_images:
 tags:
   - pattern_designer
   - level_3
+  - has_instagram_profile
+  - has_profile_image
 website_title: Tonia Tkach
 website_meta_description: ''
 website_about_raw: >-
@@ -143,11 +145,42 @@ manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
+instagram_full_name: Tonia Tkach
+instagram_biography: |-
+  ✿ Illustrator, Print Designer
+  ✎ art.tonia.tkach@gmail.com
+   ⌂ Seattle, WA
+instagram_posts_count: 2396
+instagram_followers_count: 194635
+instagram_follows_count: 938
+instagram_private: false
+instagram_verified: false
+instagram_business_account: false
+instagram_profile_pic_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/518131193_18517096279037343_8046903881002548466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEaXH3eywalXNN7_nJZgalYSntUuRpPYP293ZdC9RORvMe5g2IyJvuqo-YrxJsxzIQ&_nc_ohc=hVu400ZZsAUQ7kNvwF-3fhO&_nc_gid=kzJzMnwMa7AuD5l00UjY5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xp157RfffQ4np6LwtFHOuuzr0Mb7TwuBDtRM3KbwZLA&oe=6A13ED4B&_nc_sid=8b3546
+instagram_profile_pic_best_url: >-
+  https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/518131193_18517096279037343_8046903881002548466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEaXH3eywalXNN7_nJZgalYSntUuRpPYP293ZdC9RORvMe5g2IyJvuqo-YrxJsxzIQ&_nc_ohc=hVu400ZZsAUQ7kNvwF-3fhO&_nc_gid=kzJzMnwMa7AuD5l00UjY5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xp157RfffQ4np6LwtFHOuuzr0Mb7TwuBDtRM3KbwZLA&oe=6A13ED4B&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/tonia_tkach/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 7024
+instagram_profile_image_quality: thumbnail
+instagram_profile_imported: true
+profile_image: ../../assets/designers/tonia_tkach/profile/instagram-profile.jpg
+profile_images: &ref_0
+  - ../../assets/designers/tonia_tkach/profile/instagram-profile.jpg
+profile_image_local: ../../assets/designers/tonia_tkach/profile/instagram-profile.jpg
+images:
+  profile: *ref_0
+enrichment_stats:
+  profile_total: 1
+  profile_valid: 1
+profile_image_synced: true
 ---
 
 # tonia_tkach
 
 ## Profile Image
+
+<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tonia_tkach/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
 
 ## Instagram Images
 
