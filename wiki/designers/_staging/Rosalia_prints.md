@@ -26,7 +26,7 @@ bio: ''
 website: 'https://rosaliaprints.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/rosalia_prints
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Rosalia | Surface Pattern Designer in Mumbai
 website_meta_description: 'Surface Pattern Designer in Mumbai, India'
 website_about_raw: >-
@@ -286,7 +289,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -303,45 +306,138 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/572014836_18077827286328186_7314070248516769757_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE9MmsAhDVgwERGOTmkwxNMz-p8kB1GBRT5H4dCuUgEygik1K_3nwtyV6W0o1DQnpE&_nc_ohc=mqVKq13Iq50Q7kNvwF8q9GP&_nc_gid=DU_Bf369XuzIhNBXv7cGZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xq0vL3CgVTkk282iUvvyxEkg_49irTHSEwSx6NUkJfA&oe=6A13CF8D&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/572014836_18077827286328186_7314070248516769757_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE9MmsAhDVgwERGOTmkwxNMz-p8kB1GBRT5H4dCuUgEygik1K_3nwtyV6W0o1DQnpE&_nc_ohc=mqVKq13Iq50Q7kNvwF8q9GP&_nc_gid=DU_Bf369XuzIhNBXv7cGZg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6xq0vL3CgVTkk282iUvvyxEkg_49irTHSEwSx6NUkJfA&oe=6A13CF8D&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3108
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/rosalia_prints/profile/572014836_18077827286328186_7314070248516769757_n.jpg
+instagram_profile_image_bytes: 49093
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/rosalia_prints/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/rosalia_prints/profile/572014836_18077827286328186_7314070248516769757_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/rosalia_prints/profile/572014836_18077827286328186_7314070248516769757_n.jpg
+profile_image_local: >-
+  ../../assets/designers/rosalia_prints/profile/572014836_18077827286328186_7314070248516769757_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/rosalia_prints/profile/572014836_18077827286328186_7314070248516769757_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_15_502360460_1702897413947542_7191953150490352998_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_19_503359015_2454813901549367_3526006929394004690_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_20_502493540_1614411359222955_52978866410650683_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_24_491464120_1241138584194374_6951547238349216224_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_25_503328501_510704598704530_1954618078630796156_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_26_503864697_1255973239408175_3829331009435341022_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_27_496253487_1656967415014344_4755645942137608380_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_28_497340629_497321670041128_3232463790364973787_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_29_503028010_1839593856617588_1451579574040664608_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_39_622701581_18094187711289776_5673524305506389621_n.webp
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_41_655202265_18115951936656920_4258661841400575949_n.webp
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_42_622333968_18054595145429951_1896136409705648914_n.webp
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_54_669855753_18103260221483947_5221303178441266971_n.webp
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_57_625692407_18080184962251192_4139882076553028745_n.webp
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_15_502360460_1702897413947542_7191953150490352998_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_20_502493540_1614411359222955_52978866410650683_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_24_491464120_1241138584194374_6951547238349216224_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_28_497340629_497321670041128_3232463790364973787_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_29_503028010_1839593856617588_1451579574040664608_n.jpeg
+  - >-
+    ../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_57_625692407_18080184962251192_4139882076553028745_n.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # rosalia_prints
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rosalia_prints/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/rosalia_prints/profile/572014836_18077827286328186_7314070248516769757_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_15_502360460_1702897413947542_7191953150490352998_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_15_502360460_1702897413947542_7191953150490352998_n.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_19_503359015_2454813901549367_3526006929394004690_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_19_503359015_2454813901549367_3526006929394004690_n.jpeg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_20_502493540_1614411359222955_52978866410650683_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_20_502493540_1614411359222955_52978866410650683_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_24_491464120_1241138584194374_6951547238349216224_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_24_491464120_1241138584194374_6951547238349216224_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_25_503328501_510704598704530_1954618078630796156_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_25_503328501_510704598704530_1954618078630796156_n.jpeg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_26_503864697_1255973239408175_3829331009435341022_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_26_503864697_1255973239408175_3829331009435341022_n.jpeg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_27_496253487_1656967415014344_4755645942137608380_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_27_496253487_1656967415014344_4755645942137608380_n.jpeg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_28_497340629_497321670041128_3232463790364973787_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_28_497340629_497321670041128_3232463790364973787_n.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_29_503028010_1839593856617588_1451579574040664608_n.jpeg)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_29_503028010_1839593856617588_1451579574040664608_n.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_39_622701581_18094187711289776_5673524305506389621_n.webp)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_39_622701581_18094187711289776_5673524305506389621_n.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_41_655202265_18115951936656920_4258661841400575949_n.webp)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_41_655202265_18115951936656920_4258661841400575949_n.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_42_622333968_18054595145429951_1896136409705648914_n.webp)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_42_622333968_18054595145429951_1896136409705648914_n.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_54_669855753_18103260221483947_5221303178441266971_n.webp)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_54_669855753_18103260221483947_5221303178441266971_n.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_57_625692407_18080184962251192_4139882076553028745_n.webp)<br><!-- image:../../assets/designers/rosalia_prints/instagram/rosalia_prints_imageye___-_imgi_57_625692407_18080184962251192_4139882076553028745_n.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Abigail Dmello is a surface pattern designer, illustrator, and founder of Rosalia Prints, based in Mumbai, India. She creates contemporary surface patterns for licensing and custom commission, serving fashion, home décor, stationery, and packaging clients. Her declared design philosophy centres on storytelling — blending nature, culture, and architecture into market-ready print collections.
+
 ## Style and Aesthetic
+
+Contemporary and culturally varied. Named collections — Moroccan Mayuri, Susegad, Paisley Delight, Indigo Bliss, Block Print, Marigold Love — signal Indian subcontinent design heritage alongside international aesthetic range. Instagram bio explicitly positions Indian ethnic print as a core offering alongside home decor, wallpaper, stationery, and packaging. Selected pattern images suggest confident, structured repeat work with clear motif identity.
 
 ## Techniques and Tools
 
+Digital pattern construction with production-ready file delivery (AI, PSD, TIFF, JPEG formats). Process: moodboard and colour direction → motif sketching → pattern building → repeat construction → digitisation and mockup. Print placement and mockup services offered alongside standalone pattern design.
+
 ## Markets and Clients
+
+Fashion brands, home décor labels, stationery and packaging companies, and individual entrepreneurs launching collections. Three service tiers: exclusive/limited-edition prints, pre-made portfolio licensing, and bespoke custom commissions. Project timescales: 1–2 weeks single print; 4–6 weeks full collection.
 
 ## Portfolio and Presence
 
+- Website: rosaliaprints.com
+- Instagram: @rosalia_prints (289 followers, 122 posts)
+- Contact: abigail@rosaliaprints.com
+
 ## Career Path
+
+Founder and sole practitioner of Rosalia Prints. Based in Mumbai. Applied to patterndesigners.com in December 2025.
 
 ## Pattern Focus
 
+Broad motif range including Moroccan-inspired geometric and floral work, Indian ethnic prints (block print, paisley, indigo-dye influenced), botanical florals, and seasonal/occasion collections. Output targets fabric, wallpaper, packaging, and stationery licensing. Selected pattern images suggest clean, legible repeat structures suited to commercial application.
+
 ## Connections
+
+- [[Indian Ethnic Print]] (documented specialty)
+- [[Block Print]] (named collection)
+- [[Paisley Pattern]] (named collection)
+- [[Licensing]] (primary commercial model)
+- [[Mumbai]]
+- [[Stationery Market]]

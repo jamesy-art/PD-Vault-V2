@@ -26,7 +26,7 @@ bio: ''
 website: 'https://cascavel.es'
 website_about: ''
 accepted: 31/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/cascavel.es
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: CASCAVEL – Pattern Design Atelier
 website_meta_description: ''
 website_about_raw: >-
@@ -281,8 +284,37 @@ categories:
   - Womenswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  Sophia and David bring a wealth of experience to the studio, each with a
+  unique background. Sophia, with her keen eye for emerging trends and passion
+  for timeless aesthetics, has spent years honing her knowledge of traditional
+  and digital painting. David, with a long history in the industry and a gift
+  for combining tradition with innovation, understands exactly what it takes to
+  create prints that not only capture the spirit of the times but also transcend
+  fads.
+
+  The synergy of collaboration is the driving force behind our commitment to
+  delivering world-class designs that resonate across a broad spectrum of
+  markets. By merging our individual strengths, we have cultivated a design
+  philosophy that combines innovation with classic elegance, ensuring our
+  designs have a lasting impact in the dynamic world of fashion,
+
+  home textiles, giftware, and stationery. The Atelier
+
+  At Cascavel, we are dedicated to prints as an artistic discipline, where
+  history and innovation converge to create designs that tell stories and add
+  value to our clients projects.
+
+  We work with our private collection of historic prints, meticulously restoring
+  and adapting documents from centuries past to bring their beauty to the modern
+  world. These timeless designs are reimagined for contemporary production,
+  ensuring they continue to inspire and captivate people.
+
+  In addition to working with historic prints, we create our trend-driven
+  collections, drawing on a deep understanding of pop culture and future color
+  trends. Our designs capture both the past and the present, and each one has
+  its own story.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -300,45 +332,149 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/418886154_736470605103527_3638428330360798756_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTkuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFSK0H1yBflV9cT4fy-6CLslYQ-x4J-nfkgjz7cbKmZSmvRmed37kJcIgme55tymLQ&_nc_ohc=lOFmF2nIl8gQ7kNvwHOEqG0&_nc_gid=RiUa-j8nN7uy0pFEFGXvdw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6AfcOqruh4Ht6NRDmPBMztinVeSOUcLy7miRGx8C6kjA&oe=6A140299&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/418886154_736470605103527_3638428330360798756_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTkuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFSK0H1yBflV9cT4fy-6CLslYQ-x4J-nfkgjz7cbKmZSmvRmed37kJcIgme55tymLQ&_nc_ohc=lOFmF2nIl8gQ7kNvwHOEqG0&_nc_gid=RiUa-j8nN7uy0pFEFGXvdw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6AfcOqruh4Ht6NRDmPBMztinVeSOUcLy7miRGx8C6kjA&oe=6A140299&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/cascavel.es/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4786
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/cascavel.es/profile/418886154_736470605103527_3638428330360798756_n.jpg
+instagram_profile_image_bytes: 36440
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/cascavel.es/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/cascavel.es/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/cascavel.es/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/cascavel.es/profile/418886154_736470605103527_3638428330360798756_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/cascavel.es/profile/418886154_736470605103527_3638428330360798756_n.jpg
+profile_image_local: >-
+  ../../assets/designers/cascavel.es/profile/418886154_736470605103527_3638428330360798756_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/cascavel.es/profile/418886154_736470605103527_3638428330360798756_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119937926259_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946200865_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946201440_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946408312_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1750140300_3656764583917391923_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1750226700_3657489451344622925_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565908840_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565914406_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454582661391_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242455295691686_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009165866029_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009165900945_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174245931_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174251480_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1763120758_3765652314737128735_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667667275198_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667675667813_63402739469.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174245931_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1763120758_3765652314737128735_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667667275198_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667675667813_63402739469.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565908840_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565914406_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454582661391_63402739469.jpg
+  - >-
+    ../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242455295691686_63402739469.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # cascavel.es
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/cascavel.es/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/cascavel.es/profile/418886154_736470605103527_3638428330360798756_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119937926259_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119937926259_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946200865_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946200865_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946201440_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946201440_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946408312_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1721889818_3419782119946408312_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1750140300_3656764583917391923_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1750140300_3656764583917391923_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1750226700_3657489451344622925_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1750226700_3657489451344622925_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565908840_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565908840_63402739469.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565914406_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454565914406_63402739469.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454582661391_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242454582661391_63402739469.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242455295691686_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1759137993_3732242455295691686_63402739469.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009165866029_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009165866029_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009165900945_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009165900945_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174245931_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174245931_63402739469.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174251480_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1761028800_3747686009174251480_63402739469.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1763120758_3765652314737128735_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1763120758_3765652314737128735_63402739469.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667667275198_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667667275198_63402739469.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667675667813_63402739469.jpg)<br><!-- image:../../assets/designers/cascavel.es/instagram/cascavel.es_1764750511_3779323667675667813_63402739469.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+CASCAVEL is a Spain-based creative agency and pattern design atelier founded by Sophia Eisenbarth and David. Positioned at the intersection of art and neuroaesthetics — the study of how colour and form influence perception — the studio develops brand-integrated print design, illustration, and visual identity work for clients in fashion, home textiles, giftware, and stationery. Their approach treats print as strategic brand infrastructure rather than surface decoration.
+
 ## Style and Aesthetic
+
+CASCAVEL's aesthetic blends innovation with what the studio describes as "classic elegance," drawing on a private reference collection of over 60,000 antique books. Selected Instagram pattern images suggest structured, research-informed surface design with a sophisticated, detail-oriented character. The studio works across both historically restored prints — adapted from their antique collection for contemporary production — and original trend-driven collections informed by pop culture and colour forecasting.
 
 ## Techniques and Tools
 
+Sophia brings traditional and digital painting expertise with a focus on emerging trends and timeless aesthetics. David contributes long commercial industry experience in print production and market knowledge. Research partnerships with colour and shape study centres underpin the studio's neuroaesthetics positioning. The studio delivers the full print development pipeline: creative direction, custom pattern design, brand illustration, verbal and visual identity kits, packaging design, and offline marketing materials.
+
 ## Markets and Clients
+
+CASCAVEL targets fashion, home textiles, giftware, and stationery markets, also serving packaging, digital platforms, and physical brand touchpoints. Services are structured around brand briefing and strategic design rather than open-catalogue licensing — the model is consultancy-led. Selected Instagram placement images suggest work appearing in branded packaging and collateral contexts.
 
 ## Portfolio and Presence
 
+- Website: https://cascavel.es
+- Instagram: @cascavel.es (2,233 followers, 224 posts)
+
 ## Career Path
+
+The studio was formed by combining Sophia Eisenbarth's background in traditional and digital painting with David's commercial print industry experience. Their design philosophy positions print as an artistic discipline rooted in historical research. The curated antique book collection — over 60,000 volumes — functions as both archive and creative resource, informing historic restoration work and original collections alike.
 
 ## Pattern Focus
 
+CASCAVEL works in two distinct modes: historically restored prints (sourced from their antique collection and reimagined for contemporary production) and original trend-driven collections. Selected Instagram pattern images suggest structured compositions suited to fashion and branded goods. The studio's print offer spans editorial illustration, detailed iconography, and custom surface design for brand applications across physical and digital touchpoints.
+
 ## Connections
+
+- [[Fashion]] — primary market
+- [[Stationery]] — confirmed category
+- [[Home Decor]] — confirmed market
+- [[Packaging]] — confirmed service area
+- [[Branding]] — core studio positioning

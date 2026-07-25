@@ -25,7 +25,7 @@ bio: ''
 website: 'https://coelfenart.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/coelfenart
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Elisabeth Cölfen Surface Pattern Design & Illustration | Discover Unique
   Patterns Now
@@ -274,7 +277,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -293,45 +296,231 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/434789106_416561447734459_2684436046296271701_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF4jHQrytsPobYYLGNN_TWELZ5SggIEc3gw6ubEqxzYAhe1iiNyqJYDatgtMOyrqQc&_nc_ohc=XW-8C6sB0yMQ7kNvwFK9mKv&_nc_gid=0GhncMegA-J4zxwjAjjiXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af648U9UNM8BRdcViq4kdx3T0Rh_q3IVL3ub6hB0PdoA6A&oe=6A13E6B9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/434789106_416561447734459_2684436046296271701_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF4jHQrytsPobYYLGNN_TWELZ5SggIEc3gw6ubEqxzYAhe1iiNyqJYDatgtMOyrqQc&_nc_ohc=XW-8C6sB0yMQ7kNvwFK9mKv&_nc_gid=0GhncMegA-J4zxwjAjjiXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af648U9UNM8BRdcViq4kdx3T0Rh_q3IVL3ub6hB0PdoA6A&oe=6A13E6B9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/coelfenart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3630
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/coelfenart/profile/434789106_416561447734459_2684436046296271701_n.jpg
+instagram_profile_image_bytes: 56450
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/coelfenart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/coelfenart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/coelfenart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/coelfenart/profile/434789106_416561447734459_2684436046296271701_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/coelfenart/profile/434789106_416561447734459_2684436046296271701_n.jpg
+profile_image_local: >-
+  ../../assets/designers/coelfenart/profile/434789106_416561447734459_2684436046296271701_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/coelfenart/profile/434789106_416561447734459_2684436046296271701_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1661881145_2916392886589258138_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1661881395_2916394983900791392_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1664460684_2938031621982564467_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089031389314_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089039751670_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089073330904_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1698138510_3220541705323998891_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1698668262_3224985586207664652_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1698668262_3224985586224577447_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1711111320_3329365523886069760_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036563834_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036603923_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044863484_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044902495_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044905047_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044924529_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044951214_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250112017691_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250204218480_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250212643612_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250229526019_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237773566_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237817273_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237844656_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250246111536_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250254480874_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250254581345_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250262863616_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718467652898_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660475999_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660564982_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660583761_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660630269_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718668793489_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718668898170_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986638589130470_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986664795058645_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986689499580098_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986712492623893_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986733715825817_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986758923687194_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986779223999439_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986803861317582_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986822660106953_48888087052.jpg
+instagram_image_count: 44
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1661881145_2916392886589258138_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1664460684_2938031621982564467_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089031389314_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036603923_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250262863616_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660583761_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986779223999439_48888087052.jpg
+  - >-
+    ../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986803861317582_48888087052.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # coelfenart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/coelfenart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/coelfenart/profile/434789106_416561447734459_2684436046296271701_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1661881145_2916392886589258138_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1661881145_2916392886589258138_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1661881395_2916394983900791392_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1661881395_2916394983900791392_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1664460684_2938031621982564467_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1664460684_2938031621982564467_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089031389314_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089031389314_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089039751670_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089039751670_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089073330904_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1684100470_3102782089073330904_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1698138510_3220541705323998891_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1698138510_3220541705323998891_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1698668262_3224985586207664652_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1698668262_3224985586207664652_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1698668262_3224985586224577447_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1698668262_3224985586224577447_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1711111320_3329365523886069760_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1711111320_3329365523886069760_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036563834_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036563834_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036603923_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250036603923_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044863484_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044863484_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044902495_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044902495_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044905047_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044905047_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044924529_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044924529_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044951214_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250044951214_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250112017691_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250112017691_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250204218480_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250204218480_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250212643612_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250212643612_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250229526019_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250229526019_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237773566_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237773566_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237817273_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237817273_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237844656_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250237844656_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250246111536_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250246111536_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250254480874_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250254480874_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250254581345_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250254581345_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250262863616_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1714648823_3359040250262863616_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718467652898_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718467652898_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660475999_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660475999_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660564982_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660564982_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660583761_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660583761_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660630269_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718660630269_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718668793489_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718668793489_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718668898170_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1715104497_3362862718668898170_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986638589130470_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986638589130470_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986664795058645_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986664795058645_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986689499580098_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986689499580098_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986712492623893_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986712492623893_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986733715825817_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986733715825817_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986758923687194_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986758923687194_48888087052.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986779223999439_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986779223999439_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986803861317582_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986803861317582_48888087052.jpg --> | [x] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986822660106953_48888087052.jpg)<br><!-- image:../../assets/designers/coelfenart/instagram/coelfenart_1726682597_3459986822660106953_48888087052.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elisabeth Cölfen is a German surface pattern designer and illustrator based in Dorsten, operating under the name Cölfen Art. She creates surface pattern designs available for licensing across fabrics, wallpapers, and home products, with work distributed through [[Spoonflower]] print-on-demand and a direct licensing enquiry process on her website. Her Instagram account is dedicated to surface pattern designs and illustrations; food photography is a parallel practice.
+
 ## Style and Aesthetic
+
+Selected Instagram pattern images suggest a decorative, nature-informed design practice suited to home textiles and wallpaper markets. The website positions the work as both on-trend and timeless — targeting licensing clients looking to differentiate products through unique surface pattern. The palette and compositional approach reflect awareness of licensing-friendly design conventions.
 
 ## Techniques and Tools
 
+Digital illustration tools used in pattern development. Output formats include fabrics and wallpapers. Print-on-demand production via [[Spoonflower]] alongside direct licensing. Portfolio hosted via Adobe InDesign viewer for licensing client review.
+
 ## Markets and Clients
+
+Home decor, fabric, and wallpaper markets, primarily through licensing. Non-exclusive licensing allows simultaneous use by multiple clients; exclusive and buy-out terms also available case by case. Licensing request form on website for tailored quoting. No specific clients documented.
 
 ## Portfolio and Presence
 
+- Website: coelfenart.com
+- Instagram: @coelfenart
+- Spoonflower: available
+
 ## Career Path
+
+Registered as Photodesign Elisabeth Cölfen in Dorsten, Germany. Independent practice combining surface pattern design and food photography. Licensing-focused business model with a publicly available digital portfolio and active Spoonflower POD presence.
 
 ## Pattern Focus
 
+Nature-inspired and decorative surface patterns designed for licensing to fabric, wallpaper, and home product manufacturers. Selected Instagram images indicate an all-over repeat approach. Both non-exclusive and exclusive licensing terms offered.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Home decor market]]
+- [[Fabric market]]
+- [[Wallpaper market]]
+- [[Licensing]]

@@ -23,7 +23,7 @@ bio: ''
 website: 'https://yuyasutake.com'
 website_about: ''
 accepted: 26/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/yuyasutake
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: YU YASUTAKE
 website_meta_description: ''
 website_about_raw: >-
@@ -136,7 +139,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -153,45 +156,137 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/448466028_765789535740754_7028334509664639959_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gESDvcbm8E5V347IPQfnI4uHEy1oEMF6MrmXSMydDrXCb5gSYsIKop7-pc9duq0Zd4&_nc_ohc=M4lU4L7WLjYQ7kNvwHs6OUq&_nc_gid=y1zIaDMsDKOSOj-L_c3vYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7pnwW96_EI7O02G0VXuMYe96EV4sGX9r9of61KUV_xZw&oe=6A13EB13&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/448466028_765789535740754_7028334509664639959_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gESDvcbm8E5V347IPQfnI4uHEy1oEMF6MrmXSMydDrXCb5gSYsIKop7-pc9duq0Zd4&_nc_ohc=M4lU4L7WLjYQ7kNvwHs6OUq&_nc_gid=y1zIaDMsDKOSOj-L_c3vYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7pnwW96_EI7O02G0VXuMYe96EV4sGX9r9of61KUV_xZw&oe=6A13EB13&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/yuyasutake/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5022
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/yuyasutake/profile/448466028_765789535740754_7028334509664639959_n.jpg
+instagram_profile_image_bytes: 146991
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/yuyasutake/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/yuyasutake/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/yuyasutake/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/yuyasutake/profile/448466028_765789535740754_7028334509664639959_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/yuyasutake/profile/448466028_765789535740754_7028334509664639959_n.jpg
+profile_image_local: >-
+  ../../assets/designers/yuyasutake/profile/448466028_765789535740754_7028334509664639959_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/yuyasutake/profile/448466028_765789535740754_7028334509664639959_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1756292037_3708368846130937674_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077625248557_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077633643520_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1761203952_3749572980985679034_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1770561854_3828070257978627524_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1770891384_3830835960611668197_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1771575046_3836570850405769201_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627341603885460_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627343331887662_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1773304747_3851080727467496830_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1778659877_3896003174857985951_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1779887143_3906298071796201778_6623843974.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1756292037_3708368846130937674_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077633643520_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1770561854_3828070257978627524_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627343331887662_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1773304747_3851080727467496830_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1778659877_3896003174857985951_6623843974.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1770891384_3830835960611668197_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1771575046_3836570850405769201_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627341603885460_6623843974.jpg
+  - >-
+    ../../assets/designers/yuyasutake/instagram/yuyasutake_1779887143_3906298071796201778_6623843974.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # yuyasutake
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/yuyasutake/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/yuyasutake/profile/448466028_765789535740754_7028334509664639959_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1756292037_3708368846130937674_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1756292037_3708368846130937674_6623843974.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077625248557_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077625248557_6623843974.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077633643520_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1759830792_3738054077633643520_6623843974.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1761203952_3749572980985679034_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1761203952_3749572980985679034_6623843974.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1770561854_3828070257978627524_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1770561854_3828070257978627524_6623843974.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1770891384_3830835960611668197_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1770891384_3830835960611668197_6623843974.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1771575046_3836570850405769201_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1771575046_3836570850405769201_6623843974.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627341603885460_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627341603885460_6623843974.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627343331887662_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1772535403_3844627343331887662_6623843974.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1773304747_3851080727467496830_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1773304747_3851080727467496830_6623843974.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1778659877_3896003174857985951_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1778659877_3896003174857985951_6623843974.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/yuyasutake/instagram/yuyasutake_1779887143_3906298071796201778_6623843974.jpg)<br><!-- image:../../assets/designers/yuyasutake/instagram/yuyasutake_1779887143_3906298071796201778_6623843974.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Yu Yasutake is a Japanese surface pattern designer based in France. She creates joyful, colourful patterns drawn from nature, everyday life, and her two daughters. Her portfolio spans animals, florals, seasonal themes, food, space, and everyday objects. Licensing and commissions are open.
+
 ## Style and Aesthetic
+
+Simple, naive shapes with delicate details characterise Yasutake's work. Selected Instagram images suggest warm, playful all-over repeat patterns in clear, bright hues. Her aesthetic blends childlike lightness with careful compositional control — accessible without being generic.
 
 ## Techniques and Tools
 
+Production tools are not specified in available sources. Portfolio categories (Animals, Florals, Food & Drink, Nature, Seasonal, Space, Everyday Scenes, Objects) reflect a versatile, digitally organised output across multiple repeat formats.
+
 ## Markets and Clients
+
+Kids' products, stationery, gifts, and fabrics are her stated target markets. Selected placement images suggest active mockup work across product contexts. Her style and stated markets are well aligned with childrenswear and giftware licensing.
 
 ## Portfolio and Presence
 
+- Website: https://yuyasutake.com
+- Instagram: https://instagram.com/yuyasutake
+
 ## Career Path
+
+A Japanese designer living and working in France. Her two daughters are cited as a key creative influence alongside nature and everyday life. Prior career timeline and education are not documented in available sources.
 
 ## Pattern Focus
 
+Joyful all-over repeat patterns across a broad subject range: animals, florals, seasonal motifs, food, everyday scenes, and space. Selected patterns include structured repeats with clear motif definition, suggesting production-ready work suitable for childrenswear, stationery, and gifting licensing.
+
 ## Connections
+
+- [[Kidswear]] — stated primary market
+- [[Stationery]] — stated market
+- [[Japan]] — cultural background
+- [[France]] — current studio base

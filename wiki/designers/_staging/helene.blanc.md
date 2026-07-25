@@ -21,7 +21,7 @@ bio: ''
 website: 'https://heleneblanc.com'
 website_about: ''
 accepted: 16/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/helene.blanc
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Hélène Blanc
 website_meta_description: >-
   Hélène Blanc | Freelance art director, illustrator and photographer working in
@@ -245,7 +248,7 @@ open_to:
   - Freelance
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -267,45 +270,294 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/656913820_18531304207069941_3488744072297743873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFKA6twlX46J-wFME4-sDLW_ZDp9IpW9KwW8O2L7A6O0sooVY4doGq-6Aoka63K6reY-S3Cw3sse_MPKDf9tnA-&_nc_ohc=6M0IY_3anjQQ7kNvwHLuSpH&_nc_gid=OZ1RWI1DxD1mRtR40g9JiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iy7Ial3_VB7KjSIYRlL1t03dRqiFEjPVAOe5s9hjBWg&oe=6A13D445&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/656913820_18531304207069941_3488744072297743873_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFKA6twlX46J-wFME4-sDLW_ZDp9IpW9KwW8O2L7A6O0sooVY4doGq-6Aoka63K6reY-S3Cw3sse_MPKDf9tnA-&_nc_ohc=6M0IY_3anjQQ7kNvwHLuSpH&_nc_gid=OZ1RWI1DxD1mRtR40g9JiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iy7Ial3_VB7KjSIYRlL1t03dRqiFEjPVAOe5s9hjBWg&oe=6A13D445&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3738
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/helene.blanc/profile/656913820_18531304207069941_3488744072297743873_n.jpg
+instagram_profile_image_bytes: 169385
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/helene.blanc/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/helene.blanc/profile/656913820_18531304207069941_3488744072297743873_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/helene.blanc/profile/656913820_18531304207069941_3488744072297743873_n.jpg
+profile_image_local: >-
+  ../../assets/designers/helene.blanc/profile/656913820_18531304207069941_3488744072297743873_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/helene.blanc/profile/656913820_18531304207069941_3488744072297743873_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860769318613_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777773762_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777782519_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916447489243_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916531141347_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916539728850_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916548159028_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916698906146_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788268341584_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788276707519_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788293517788_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838189595820_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838206403895_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1742848554_3595596742630042861_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1742848554_3595596742646802668_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080113232435_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080121434507_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130025535_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130051337_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122131236765_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122139565373_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122257185960_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828158859998_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828167359023_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828175633220_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1756738706_3712115778859597445_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1756738706_3712115778926681296_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070133103121_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070133151234_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070393192128_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107646901182_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107655311054_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107856621546_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1765386268_3784656787019158253_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1765386268_3784656787044360738_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672289495728032_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672291878104270_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672292607856285_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822414649_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822420110_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822457414_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891830833627_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891830861790_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1770910323_3830993680073494677_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1770910323_3830993682095148684_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1771098804_3832576796806386010_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1771098804_3832576799650134205_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696769787961846_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696775240541043_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696777413228500_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696778319182898_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740274287076014_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740277348950728_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740279387371094_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740280779861174_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740282482777941_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740283858503730_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740287851467744_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740288128260902_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799219521517303_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799242103684042_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799301067171446_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799358831110093_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799370432592186_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1780473055_3911213816073983792_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1780473055_3911213818943061648_2139733940.jpg
+instagram_image_count: 66
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828158859998_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107655311054_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822420110_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799242103684042_2139733940.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777782519_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916548159028_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838206403895_2139733940.jpg
+  - >-
+    ../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130025535_2139733940.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # helene.blanc
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/helene.blanc/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/helene.blanc/profile/656913820_18531304207069941_3488744072297743873_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860769318613_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860769318613_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777773762_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777773762_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777782519_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1728656583_3476545860777782519_2139733940.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916447489243_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916447489243_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916531141347_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916531141347_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916539728850_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916539728850_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916548159028_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916548159028_2139733940.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916698906146_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1729791105_3486062916698906146_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788268341584_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788268341584_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788276707519_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788276707519_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788293517788_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1732547089_3509181788293517788_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838189595820_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838189595820_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838206403895_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1735114625_3530719838206403895_2139733940.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1742848554_3595596742630042861_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1742848554_3595596742630042861_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1742848554_3595596742646802668_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1742848554_3595596742646802668_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080113232435_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080113232435_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080121434507_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080121434507_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130025535_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130025535_2139733940.jpg --> | [ ] | [x] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130051337_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1747743805_3636661080130051337_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122131236765_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122131236765_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122139565373_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122139565373_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122257185960_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1748185719_3640368122257185960_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828158859998_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828158859998_2139733940.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828167359023_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828167359023_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828175633220_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1753714491_3686746828175633220_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1756738706_3712115778859597445_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1756738706_3712115778859597445_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1756738706_3712115778926681296_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1756738706_3712115778926681296_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070133103121_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070133103121_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070133151234_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070133151234_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070393192128_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1761929709_3755661070393192128_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107646901182_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107646901182_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107655311054_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107655311054_2139733940.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107856621546_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1762879931_3763632107856621546_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1765386268_3784656787019158253_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1765386268_3784656787019158253_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1765386268_3784656787044360738_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1765386268_3784656787044360738_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672289495728032_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672289495728032_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672291878104270_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672291878104270_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672292607856285_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1765984302_3789672292607856285_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822414649_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822414649_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822420110_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822420110_2139733940.jpg --> | [x] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822457414_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891822457414_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891830833627_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891830833627_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891830861790_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1767181096_3799712891830861790_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1770910323_3830993680073494677_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1770910323_3830993680073494677_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1770910323_3830993682095148684_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1770910323_3830993682095148684_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1771098804_3832576796806386010_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1771098804_3832576796806386010_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1771098804_3832576799650134205_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1771098804_3832576799650134205_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696769787961846_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696769787961846_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696775240541043_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696775240541043_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696777413228500_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696777413228500_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696778319182898_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1771351536_3834696778319182898_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740274287076014_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740274287076014_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740277348950728_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740277348950728_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740279387371094_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740279387371094_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740280779861174_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740280779861174_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740282482777941_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740282482777941_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740283858503730_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740283858503730_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740287851467744_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740287851467744_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740288128260902_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1773860427_3855740288128260902_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799219521517303_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799219521517303_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799242103684042_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799242103684042_2139733940.jpg --> | [x] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799301067171446_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799301067171446_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799358831110093_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799358831110093_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799370432592186_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1778516289_3894799370432592186_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1780473055_3911213816073983792_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1780473055_3911213816073983792_2139733940.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/helene.blanc/instagram/helene.blanc_1780473055_3911213818943061648_2139733940.jpg)<br><!-- image:../../assets/designers/helene.blanc/instagram/helene.blanc_1780473055_3911213818943061648_2139733940.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Hélène Blanc is a Paris-based freelance art director, illustrator, and photographer with editorial clients including The New York Times, The New Yorker, Die Zeit, and Le Monde. She is also half of the creative duo @antinomia.fr and publishes comics under @dessins.palpitants.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest expressive drawing and painting with a personal, emotionally direct visual language. Work is figurative and narrative in orientation, rooted in drawing practice. Her editorial output is adapted across diverse cultural and journalistic subjects.
 
 ## Techniques and Tools
 
+Drawings and paintings (per Instagram bio). Works across illustration, art direction, and photography. Adapts visual approach across editorial, cultural, and commercial briefs.
+
 ## Markets and Clients
+
+Editorial illustration is the primary market. Documented clients include The New York Times, The New Yorker, Die Zeit, Die Zeit Schweiz, Politico, Le Monde, Noema Magazine, Psychologies Magazine NL, Louie Media, Éditions La Déferlante, Chocolaterie Jacques Genin, and Carrières Saint-Roch. Also a member of @wisewomen_paris.
 
 ## Portfolio and Presence
 
+- Website: https://heleneblanc.com
+- Instagram: @helene.blanc (2,574 followers, 389 posts)
+- Comics: @dessins.palpitants
+- Creative duo: @antinomia.fr
+
 ## Career Path
+
+Based in Paris. Established editorial illustration and art direction practice serving international press and cultural organisations. No detailed career chronology documented from available sources.
 
 ## Pattern Focus
 
+Selected Instagram images suggest decorative drawing and painting work. Surface pattern for repeat application is not clearly evidenced from available sources; practice is primarily editorial illustration. (unverified for repeat pattern production)
+
 ## Connections
+
+[[Editorial Illustration]] · [[The New York Times]] · [[The New Yorker]] · [[Paris]] · [[antinomia.fr]]

@@ -27,7 +27,7 @@ bio: ''
 website: 'https://ninaleth.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/flyingwall
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Art
 website_meta_description: >-
   Surface patterns all in vectors for apparel, home decor, stationary and
@@ -234,7 +237,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -256,40 +259,162 @@ instagram_profile_image_bytes: 4933
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/flyingwall/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/flyingwall/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/flyingwall/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/flyingwall/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_161_Aktiv+1%400.5x-50.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_176_dark.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_183_Aktiv+1%400.5x-50.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_203_Dandelion-seed-mint.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_210_Dandelion-seed---blush.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_236_jaguar-russet.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_311_Rita---peach.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_337_Sprutte-dayflower.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_412_Kirsten-blue.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_438_Clemmentine-rose.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_454_Clementine-blue.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_461_Clementine-single.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_479_zig-zag-yellow.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_494_zig-zag-pink.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_515_crow---orange.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_528_Flowers-with-the-blues---ice.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_549_Flowers-with-the-blues---purple.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_555_Blooming-tulip.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_607_Agnete---blue.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_622_Agnete---card.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_635_Agnete---purple.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_99_scandi-flower---pink.png
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_176_dark.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_203_Dandelion-seed-mint.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_236_jaguar-russet.jpeg
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_311_Rita---peach.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_337_Sprutte-dayflower.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_438_Clemmentine-rose.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_479_zig-zag-yellow.png
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_555_Blooming-tulip.png
+selected_placements:
+  - >-
+    ../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_622_Agnete---card.png
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # flyingwall
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/flyingwall/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/flyingwall/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_161_Aktiv+1%400.5x-50.jpeg)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_161_Aktiv+1%400.5x-50.jpeg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_176_dark.jpeg)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_176_dark.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_183_Aktiv+1%400.5x-50.jpeg)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_183_Aktiv+1%400.5x-50.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_203_Dandelion-seed-mint.jpeg)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_203_Dandelion-seed-mint.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_210_Dandelion-seed---blush.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_210_Dandelion-seed---blush.png --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_236_jaguar-russet.jpeg)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_236_jaguar-russet.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_311_Rita---peach.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_311_Rita---peach.png --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_337_Sprutte-dayflower.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_337_Sprutte-dayflower.png --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_412_Kirsten-blue.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_412_Kirsten-blue.png --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_438_Clemmentine-rose.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_438_Clemmentine-rose.png --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_454_Clementine-blue.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_454_Clementine-blue.png --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_461_Clementine-single.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_461_Clementine-single.png --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_479_zig-zag-yellow.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_479_zig-zag-yellow.png --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_494_zig-zag-pink.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_494_zig-zag-pink.png --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_515_crow---orange.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_515_crow---orange.png --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_528_Flowers-with-the-blues---ice.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_528_Flowers-with-the-blues---ice.png --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_549_Flowers-with-the-blues---purple.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_549_Flowers-with-the-blues---purple.png --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_555_Blooming-tulip.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_555_Blooming-tulip.png --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_607_Agnete---blue.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_607_Agnete---blue.png --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_622_Agnete---card.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_622_Agnete---card.png --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_635_Agnete---purple.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_635_Agnete---purple.png --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_99_scandi-flower---pink.png)<br><!-- image:../../assets/designers/flyingwall/instagram/flyingwall_imageye___-_imgi_99_scandi-flower---pink.png --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Nina Leth is a Danish artist and designer based in Hillerød with over 20 years of practice spanning surface pattern design, illustration, painting, and ceramics. Her pattern library of over 5,000 designs is distributed across print-on-demand platforms and available for licensing. She is represented by galleries including The Ode To, KBH Kunst, Minted, and Galleri Nijenkamp.
+
 ## Style and Aesthetic
+
+A deliberately broad aesthetic range — Leth describes herself as a "multi making artist." Selected pattern images reveal a mix of named botanical designs (Dandelion Seed, Sprutte Dayflower, Clemmentine Rose, Blooming Tulip), animal motifs (jaguar), and geometric structures (zig-zag). Colour palettes span mint, blush, russet, peach, and blue. The work has a confident Scandinavian-influenced print sensibility across categories.
 
 ## Techniques and Tools
 
+Primarily vector-based work in Adobe Illustrator — chosen for quality retention at scale and ease of recolouring. Also works with watercolours, finger painting, and potato printing. Pattern files are licensing-ready vector format. Ceramics and woodturning form a separate parallel practice.
+
 ## Markets and Clients
+
+Print-on-demand platforms (Spoonflower, Society6, Patternbank, Minted) are the primary distribution channel. A selected placement image (Agnete greeting card) suggests stationery and gifting application. Named clients include Gyldendal (3 adult colouring books), Socialstyrelsen (3 campaigns), Kunstnernes Efterårsudstilling, Frederiksborgs Slots (censored portrait exhibition), Politikken (fridge magnet, 1st place), and Adobe Draw (1st place). Open for licensing enquiries.
 
 ## Portfolio and Presence
 
+- Website: [ninaleth.com](https://ninaleth.com)
+- Instagram: [@flyingwall](https://instagram.com/flyingwall) — 3,634 followers, 730 posts
+- Spoonflower: active
+- Society6: active
+- Patternbank: active
+- Minted: accepted (exclusive heron art print, gift wrap, puzzle)
+
 ## Career Path
+
+Over 20 years as a working artist, moving through painting, mixed media, printmaking, and eventually surface pattern design as a primary commercial focus. Early work included painting, canvas-cutting, and chewing gum portraiture (Frederiksborgs Slots censored portrait exhibition). Pattern design became the dominant practice; now operates a 5,000-design library.
 
 ## Pattern Focus
 
+Diverse botanical, floral, and animal motif patterns alongside geometric designs. Named pattern series include Dandelion Seed (mint and blush colourways), Sprutte Dayflower, Clemmentine Rose, Agnete (blue, purple), Rita (peach), and zig-zag geometric range. The breadth of styles is an intentional brand position.
+
 ## Connections
+
+- [[Floral Patterns]]
+- [[Surface Pattern Design]]
+- [[Spoonflower]]
+- [[Minted]]
+- [[Patternbank]]
+- [[Society6]]
+- [[Licensing]]

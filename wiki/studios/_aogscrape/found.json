@@ -1,0 +1,46 @@
+{
+  "slug": "found",
+  "name": "Found",
+  "website": "https://www.founddesignstudio.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/found.md",
+  "scraped_at": "2026-06-05T23:22:11.257Z",
+  "status": "scraped",
+  "website_title": "Found Design Studio | Original prints | London",
+  "website_meta_description": "Found designs original prints for fashion and lifestyle companies.",
+  "pages": [
+    {
+      "url": "https://www.founddesignstudio.com/",
+      "text": "--> Found Design Studio | Original prints | London top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. &copy; Found Design Studio Limited ​ bottom of page",
+      "images": []
+    },
+    {
+      "url": "https://www.founddesignstudio.com/",
+      "text": "--> Found Design Studio | Original prints | London top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. &copy; Found Design Studio Limited ​ bottom of page",
+      "images": []
+    },
+    {
+      "url": "https://www.founddesignstudio.com/about",
+      "text": "--> Found Design Studio | About top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. ABOUT Based in East London's vibrant Hackney Wick, Sophie Dakin's 16 years of expertise in both international sales and trend direction leads her to constantly explore the world, dreaming up the very latest seasonal print and colour trends. ​ ​ Found's team of amazing designers combine meticulous research with a variety of different skills and techniques to produce a diverse range of weekly exclusive designs. ​ ​ Our global collection is designed with womenswear, menswear, kids, active and swim brands in mind. All of our original files are designed to an excellent standard and our fabric artwork is printed in UK. ​ ​ If you would like to view our collection either online, by video call or in person please click here &copy; Found Design Studio Limited ​ bottom of page",
+      "images": []
+    },
+    {
+      "url": "https://www.founddesignstudio.com/gallery",
+      "text": "--> Gallery | founddesignstudio top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. GALLERY &copy; Found Design Studio Limited ​ bottom of page",
+      "images": []
+    },
+    {
+      "url": "https://www.founddesignstudio.com/find-us",
+      "text": "--> Contact | founddesignstudio top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. CONTACT Submit Thanks for submitting! For anything Found-related please contact us at: ​ info@founddesignstudio.com &copy; Found Design Studio Limited ​ bottom of page",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://www.founddesignstudio.com/\n--> Found Design Studio | Original prints | London top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/\n--> Found Design Studio | Original prints | London top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/about\n--> Found Design Studio | About top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. ABOUT Based in East London's vibrant Hackney Wick, Sophie Dakin's 16 years of expertise in both international sales and trend direction leads her to constantly explore the world, dreaming up the very latest seasonal print and colour trends. ​ ​ Found's team of amazing designers combine meticulous research with a variety of different skills and techniques to produce a diverse range of weekly exclusive designs. ​ ​ Our global collection is designed with womenswear, menswear, kids, active and swim brands in mind. All of our original files are designed to an excellent standard and our fabric artwork is printed in UK. ​ ​ If you would like to view our collection either online, by video call or in person please click here &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/gallery\n--> Gallery | founddesignstudio top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. GALLERY &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/find-us\n--> Contact | founddesignstudio top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. CONTACT Submit Thanks for submitting! For anything Found-related please contact us at: ​ info@founddesignstudio.com &copy; Found Design Studio Limited ​ bottom of page",
+  "website_about_clean": "SOURCE: https://www.founddesignstudio.com/\n--> Found Design Studio | Original prints | London top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/\n--> Found Design Studio | Original prints | London top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/about\n--> Found Design Studio | About top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. ABOUT Based in East London's vibrant Hackney Wick, Sophie Dakin's 16 years of expertise in both international sales and trend direction leads her to constantly explore the world, dreaming up the very latest seasonal print and colour trends. ​ ​ Found's team of amazing designers combine meticulous research with a variety of different skills and techniques to produce a diverse range of weekly exclusive designs. ​ ​ Our global collection is designed with womenswear, menswear, kids, active and swim brands in mind. All of our original files are designed to an excellent standard and our fabric artwork is printed in UK. ​ ​ If you would like to view our collection either online, by video call or in person please click here &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/gallery\n--> Gallery | founddesignstudio top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. GALLERY &copy; Found Design Studio Limited ​ bottom of page\n\nSOURCE: https://www.founddesignstudio.com/find-us\n--> Contact | founddesignstudio top of page FOUND Home About Shop Gallery Contact More... Use tab to navigate through the menu items. CONTACT Submit Thanks for submitting! For anything Found-related please contact us at: ​ info@founddesignstudio.com &copy; Found Design Studio Limited ​ bottom of page",
+  "website_images": [],
+  "scrape_quality": "partial",
+  "scrape_quality_score": 70,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [],
+  "website_images_local": []
+}

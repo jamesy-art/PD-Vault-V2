@@ -25,7 +25,7 @@ bio: ''
 website: 'https://naturallyantique.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/naturally_antique
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Naturally Antique Art Studio | premium quality floral illustrations
 website_meta_description: >-
   Naturally Antique Art Studio designs floral fabric, wallpaper & wall decor for
@@ -64,7 +67,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -83,45 +86,139 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/702223983_18599473246001204_966531322675547852_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEAPqwsJcYFhG4UPbUM91-XHW1Za6RdEDi2jBiPDLdtNHM3oX_0aG8MUnPSK8BJmI4&_nc_ohc=JJqoeGkk4kIQ7kNvwEYNDcJ&_nc_gid=8EtK2q838eJUNN7Fb1eRdA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5YAYzhjC3x4mEtLufzk5Cp_tXtpVlmlJm-zlZdBmZFSw&oe=6A13EC1C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/702223983_18599473246001204_966531322675547852_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEAPqwsJcYFhG4UPbUM91-XHW1Za6RdEDi2jBiPDLdtNHM3oX_0aG8MUnPSK8BJmI4&_nc_ohc=JJqoeGkk4kIQ7kNvwEYNDcJ&_nc_gid=8EtK2q838eJUNN7Fb1eRdA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5YAYzhjC3x4mEtLufzk5Cp_tXtpVlmlJm-zlZdBmZFSw&oe=6A13EC1C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5212
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/naturally_antique/profile/707632127_18601334485001204_1814647937929869373_n.jpg
+instagram_profile_image_bytes: 178665
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/naturally_antique/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/naturally_antique/profile/707632127_18601334485001204_1814647937929869373_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/naturally_antique/profile/707632127_18601334485001204_1814647937929869373_n.jpg
+profile_image_local: >-
+  ../../assets/designers/naturally_antique/profile/707632127_18601334485001204_1814647937929869373_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/naturally_antique/profile/707632127_18601334485001204_1814647937929869373_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537231511219619_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537232417624640_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207008872467982_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207012580368658_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207013326937351_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154086261314_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154094782038_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154161761172_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430583779490_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430768303356_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477085860059_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477085860255_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477094288460_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477094292452_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477144563316_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477320771729_180865203.jpg
+instagram_image_count: 16
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537232417624640_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207013326937351_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154161761172_180865203.jpg
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477144563316_180865203.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430768303356_180865203.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # naturally_antique
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/naturally_antique/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/naturally_antique/profile/707632127_18601334485001204_1814647937929869373_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537231511219619_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537231511219619_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537232417624640_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1745344860_3616537232417624640_180865203.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207008872467982_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207008872467982_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207012580368658_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207012580368658_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207013326937351_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1747332055_3633207013326937351_180865203.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154086261314_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154086261314_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154094782038_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154094782038_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154161761172_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1748558132_3643492154161761172_180865203.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430583779490_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430583779490_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430768303356_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1760387899_3742727430768303356_180865203.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477085860059_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477085860059_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477085860255_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477085860255_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477094288460_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477094288460_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477094292452_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477094292452_180865203.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477144563316_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477144563316_180865203.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477320771729_180865203.jpg)<br><!-- image:../../assets/designers/naturally_antique/instagram/naturally_antique_1774188000_3855949477320771729_180865203.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jesika Neemann is the artist behind Naturally Antique Art Studio, a Utah-based surface pattern and illustration practice specialising in hand-drawn maximalist florals for cottagecore and traditional interiors. With around a decade of illustration experience, she licenses designs for wallpaper, home goods, bedding, and stationery. She is co-founder of @artdesk.app.
+
 ## Style and Aesthetic
+
+Maximalist florals with a handcrafted quality — intricate pencil-drawn linework and layered botanical compositions that retain visible mark-making. Selected Instagram images suggest large-scale botanical repeat patterns with detailed multi-flower drawings, including poppies, chamomile, pansies, tulips, and wildflowers. Palette tends toward soft, vintage-adjacent tones suited to traditional home decor and nursery applications. An ocean-themed range (Mermaid Dreamer collection) demonstrates range beyond florals into nautical motifs with the same handcrafted sensibility.
 
 ## Techniques and Tools
 
+Works primarily by hand — sketchbook drawing is central to her practice, with refined pencil illustration developed for print and licensing delivery. She cites the handcrafted touch as a defining commercial differentiator. Digital finish for delivery is implied but not explicitly documented.
+
 ## Markets and Clients
+
+Targets wallpaper, home goods (bedding, bakeware, curtains), fabric, and stationery markets. Has licensed designs exclusively to Loomwell for the "Mermaid Dreamer" collection, including wallpaper designs Pearla, Karina, Aquatta, and Mala. Has submitted work to @wholesale.annakate.ca and @anewalldecor art calls via @yourcreativementorship. Custom birth flower designs documented for private clients. Identifies stationary, bedding, and curtain companies as licensing targets.
 
 ## Portfolio and Presence
 
+- Website: https://naturallyantique.com
+- Instagram: https://instagram.com/naturally_antique
+
 ## Career Path
+
+Around a decade of commercial illustration experience, built alongside motherhood in southern Utah. Active in @yourcreativementorship community. Pitched the Mermaid Dreamer collection to Loomwell in November (year unspecified) and placed it after a period of delay. Planning a "Ravens & Roses" collection (darker, moody palette) targeted toward autumn licensing. Submitted to the Golden Coil design call in 2025.
 
 ## Pattern Focus
 
+Selected patterns indicate complex all-over botanical compositions featuring layered multi-species flower drawings — a signature dense, painterly style suited to maximalist wallpaper and home decor. The Mala design demonstrates a more structured stripe-based repeat with small tulip motifs. Selected placement image suggests wallpaper application. The Mermaid Dreamer collection extends the practice into ocean and coastal motifs (seashells, mermaids, diamond layouts) while retaining the hand-drawn aesthetic.
+
 ## Connections
+
+- [[Loomwell]] — licensed wallpaper collaborator (Mermaid Dreamer collection)
+- [[Botanical Pattern]] — primary motif category
+- [[Wallpaper]] — primary product market
+- [[Home Decor Market]] — core audience

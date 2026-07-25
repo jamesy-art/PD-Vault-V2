@@ -26,7 +26,7 @@ bio: ''
 website: 'https://jordanliepolt.com'
 website_about: ''
 accepted: 25/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jordanliepolt
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Jordan Liepolt hand-painted watercolor botanical floral wild beach roses bees
   butterflies
@@ -279,7 +282,7 @@ categories:
   - Womenswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -296,45 +299,174 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/476483751_1441698223344643_7041407191351102475_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFwuhBzWx5UGFSlMJabT9YiO6BA-2y5IfTYRBPwseA1jomXuDGlfiYvdSFBoZ8myxk&_nc_ohc=Bc1iY2wuO30Q7kNvwHzX6Ow&_nc_gid=j5D0F8ykGWVjevnGPBVsYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5n4UrmG502_67GyX5dwFqZqifQ0Mr0fPHA-ggYySUPVQ&oe=6A14040E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/476483751_1441698223344643_7041407191351102475_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFwuhBzWx5UGFSlMJabT9YiO6BA-2y5IfTYRBPwseA1jomXuDGlfiYvdSFBoZ8myxk&_nc_ohc=Bc1iY2wuO30Q7kNvwHzX6Ow&_nc_gid=j5D0F8ykGWVjevnGPBVsYg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5n4UrmG502_67GyX5dwFqZqifQ0Mr0fPHA-ggYySUPVQ&oe=6A14040E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jordanliepolt/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7105
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jordanliepolt/profile/476483751_1441698223344643_7041407191351102475_n.jpg
+instagram_profile_image_bytes: 277379
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jordanliepolt/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jordanliepolt/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jordanliepolt/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jordanliepolt/profile/476483751_1441698223344643_7041407191351102475_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jordanliepolt/profile/476483751_1441698223344643_7041407191351102475_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jordanliepolt/profile/476483751_1441698223344643_7041407191351102475_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jordanliepolt/profile/476483751_1441698223344643_7041407191351102475_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319842256670_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319859104398_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552860159_2001858568911237287_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553162011_2004390689722833247_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553213331_2004821194368798472_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020440143205_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020448595134_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020456829507_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1567256942_2122627535603530990_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546925121936_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546941852073_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546941978233_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546950364041_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546958836053_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546967002984_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546967077021_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546984008975_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546992344505_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306547050922705_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407136885_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407226448_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407257022_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848415543057_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848415610711_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1771095548_3832548780877484174_7973621230.jpg
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020448595134_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1567256942_2122627535603530990_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546925121936_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1771095548_3832548780877484174_7973621230.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319859104398_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552860159_2001858568911237287_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553162011_2004390689722833247_7973621230.jpg
+  - >-
+    ../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553213331_2004821194368798472_7973621230.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # jordanliepolt
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jordanliepolt/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jordanliepolt/profile/476483751_1441698223344643_7041407191351102475_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319842256670_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319842256670_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319859104398_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552417267_1998143319859104398_7973621230.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552860159_2001858568911237287_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1552860159_2001858568911237287_7973621230.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553162011_2004390689722833247_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553162011_2004390689722833247_7973621230.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553213331_2004821194368798472_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1553213331_2004821194368798472_7973621230.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020440143205_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020440143205_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020448595134_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020448595134_7973621230.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020456829507_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1556899262_2035741020456829507_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1567256942_2122627535603530990_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1567256942_2122627535603530990_7973621230.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546925121936_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546925121936_7973621230.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546941852073_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546941852073_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546941978233_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546941978233_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546950364041_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546950364041_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546958836053_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546958836053_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546967002984_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546967002984_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546967077021_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546967077021_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546984008975_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546984008975_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546992344505_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306546992344505_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306547050922705_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1614902393_2522306547050922705_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407136885_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407136885_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407226448_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407226448_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407257022_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848407257022_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848415543057_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848415543057_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848415610711_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1752681300_3677640848415610711_7973621230.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/jordanliepolt/instagram/jordanliepolt_1771095548_3832548780877484174_7973621230.jpg)<br><!-- image:../../assets/designers/jordanliepolt/instagram/jordanliepolt_1771095548_3832548780877484174_7973621230.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jordan Liepolt is a Rhode Island-based textile designer and surface pattern designer with over 20 years of experience in the home fashions industry. She holds a BFA in Textile Design from the Rhode Island School of Design (2004) and has held a director-level role in floor coverings and graphic design at NATCO Home. She also creates and sells art through her product brand @shopbellalie.
+
 ## Style and Aesthetic
+
+Hand-painted floral botanical work characterised by intricate, layered detail. Selected patterns suggest dense watercolor arrangements — full-coverage garden florals, pressed flower compositions, and linework botanical motifs. Palette draws from natural garden and seasonal themes: citrus, harvest, and classic cottage-garden tones. Occasionally extends to novelty motifs including animals and food subjects.
 
 ## Techniques and Tools
 
+Hand-painted watercolor as primary medium; also works digitally. Approaches floral compositions "as though arranging a bouquet," layering individual elements for depth and refinement. Over 20 years of professional textile design practice across design and director-level roles.
+
 ## Markets and Clients
+
+Home gifting and stationery. Confirmed licensed work for The TJX Companies, Inc. across a wide product range including wrapping paper, greeting cards, napkins, table linens, ceramics, and novelty tableware. Named collections include Floral Garden, Pressed Flowers, Flower Butterflies, Linework Floral, Day Garden, Sterndale Floral, Lemon Floral, Grapefruit Floral, and Dahlias. Also completed a commissioned painting for Carrubba Incorporated (fragrance advertisement). Available for licensing and custom commissions.
 
 ## Portfolio and Presence
 
+- Website: jordanliepolt.com
+- Instagram: @jordanliepolt
+- Shop: @shopbellalie
+
 ## Career Path
+
+Attended Rhode Island School of Design; graduated with a BFA in Textiles in 2004. Over 20 years in the home fashions industry as designer and design director, including a role at NATCO Home. Builds an independent surface pattern and licensing practice alongside industry employment.
 
 ## Pattern Focus
 
+Selected images suggest detailed hand-painted floral patterns: botanical all-overs, pressed flower arrangements, and garden-inspired linework compositions. Confirmed product placements span wrapping paper, greeting cards, napkins, and ceramics via TJX licensing — strong positioning in the home gifting and stationery categories.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Home Décor]] market
+- [[Stationery]] market
+- [[The TJX Companies]] — confirmed licensing client
+- [[Rhode Island School of Design]] — education

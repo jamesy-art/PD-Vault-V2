@@ -25,7 +25,7 @@ bio: ''
 website: 'https://jenniferladd.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jenniferladdhandmade
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Handmade handbags and accessories | Jennifer Ladd
 website_meta_description: >-
   Jennifer Ladd offers handmade handbags, accessories, and home goods that are
@@ -134,7 +137,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -151,45 +154,266 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/438442398_1148310573183101_1989773608948704101_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGLQs7gPLsRNd8Qwv2ol4oGhQjREj9QfHCW5sNVunrhrSs3IzFawTdlsx-NuBrJeW4&_nc_ohc=vyNhQ0sjxEsQ7kNvwERkbux&_nc_gid=O2uPmWCNaQqSpPrEGD_Zcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af62NUrel7yD_2oocNuw_khoT9c3Yyc2wY8T1wReyRPysg&oe=6A13E422&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/438442398_1148310573183101_1989773608948704101_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGLQs7gPLsRNd8Qwv2ol4oGhQjREj9QfHCW5sNVunrhrSs3IzFawTdlsx-NuBrJeW4&_nc_ohc=vyNhQ0sjxEsQ7kNvwERkbux&_nc_gid=O2uPmWCNaQqSpPrEGD_Zcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af62NUrel7yD_2oocNuw_khoT9c3Yyc2wY8T1wReyRPysg&oe=6A13E422&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 10121
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jenniferladdhandmade/profile/438442398_1148310573183101_1989773608948704101_n.jpg
+instagram_profile_image_bytes: 338214
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jenniferladdhandmade/profile/438442398_1148310573183101_1989773608948704101_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jenniferladdhandmade/profile/438442398_1148310573183101_1989773608948704101_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jenniferladdhandmade/profile/438442398_1148310573183101_1989773608948704101_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jenniferladdhandmade/profile/438442398_1148310573183101_1989773608948704101_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279628403570_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279645274504_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279779547946_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279787936097_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279997430375_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176408877_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176480444_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176592615_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151201787911_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151218459323_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151235218354_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257764077023_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257780856308_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257789201191_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257797518542_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257872950909_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257780838255_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257839612484_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257940296921_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856506555222_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856506589655_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856531592947_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856573605331_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856582095524_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856590322826_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856590324353_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113209043779_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225819260_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225881995_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113259374782_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113267850919_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113276047838_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113326540201_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113527857069_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224391387694_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224399856688_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224399920617_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458555049_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458571050_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1710684352_3325783856094256704_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371186043_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371241831_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371265921_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439496907959_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439505298416_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439505319778_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439698310163_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278905382611_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278905394684_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278913810143_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278972625323_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748279022787010_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748279073213151_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1738164071_3556300450628532206_3184941295.jpg
+instagram_image_count: 54
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176408877_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257764077023_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856531592947_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225881995_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458555049_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1710684352_3325783856094256704_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439496907959_3184941295.jpg
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278972625323_3184941295.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279997430375_3184941295.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # jenniferladdhandmade
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jenniferladdhandmade/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jenniferladdhandmade/profile/438442398_1148310573183101_1989773608948704101_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279628403570_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279628403570_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279645274504_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279645274504_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279779547946_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279779547946_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279787936097_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279787936097_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279997430375_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1678305848_3054173279997430375_3184941295.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176408877_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176408877_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176480444_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176480444_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176592615_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151176592615_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151201787911_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151201787911_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151218459323_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151218459323_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151235218354_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1681397168_3080105151235218354_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257764077023_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257764077023_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257780856308_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257780856308_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257789201191_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257789201191_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257797518542_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257797518542_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257872950909_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588268_3123651257872950909_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257780838255_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257780838255_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257839612484_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257839612484_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257940296921_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1686588269_3123651257940296921_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856506555222_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856506555222_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856506589655_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856506589655_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856531592947_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856531592947_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856573605331_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856573605331_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856582095524_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856582095524_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856590322826_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856590322826_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856590324353_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1690821581_3159162856590324353_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113209043779_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113209043779_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225819260_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225819260_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225881995_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113225881995_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113259374782_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113259374782_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113267850919_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113267850919_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113276047838_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113276047838_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113326540201_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113326540201_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113527857069_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1694618666_3191015113527857069_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224391387694_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224391387694_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224399856688_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224399856688_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224399920617_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224399920617_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458555049_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458555049_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458571050_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1709143616_3312859224458571050_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1710684352_3325783856094256704_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1710684352_3325783856094256704_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371186043_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371186043_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371241831_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371241831_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371265921_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439371265921_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439496907959_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439496907959_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439505298416_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439505298416_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439505319778_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439505319778_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439698310163_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1714679602_3359298439698310163_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278905382611_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278905382611_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278905394684_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278905394684_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278913810143_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278913810143_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278972625323_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748278972625323_3184941295.jpg --> | [x] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748279022787010_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748279022787010_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748279073213151_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1716402157_3373748279073213151_3184941295.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1738164071_3556300450628532206_3184941295.jpg)<br><!-- image:../../assets/designers/jenniferladdhandmade/instagram/jenniferladdhandmade_1738164071_3556300450628532206_3184941295.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jennifer Ladd is a Milwaukee-based surface pattern designer and maker. She creates hand-drawn floral and nature-inspired patterns, producing both handmade goods (handbags, accessories) and licensable repeat designs available on Redbubble, Society6, and Spoonflower. Her practice spans direct product sales and digital licensing across fabric, wallpaper, and finished homewares.
+
 ## Style and Aesthetic
+
+Jennifer's work is consistently bright, colourful, and floral, with nature-inspired departures including birds, botanicals, and mandala structures. Palettes are uplifting and modern. Selected Instagram images suggest confident all-over floral repeats in multiple colourways. The aesthetic is cheerful and accessible, aimed at adding colour to everyday objects.
 
 ## Techniques and Tools
 
+All patterns are created by hand — sketched, drawn, and designed personally. Physical production techniques include screen printing, hand-carved block printing, embroidery, and sun-reactive dyeing. Pattern work is adapted for digital repeat construction and distributed across print-on-demand platforms.
+
 ## Markets and Clients
+
+Primary markets: home decor, womenswear accessories, and stationery. Distribution channels include Redbubble (apparel, accessories, wall art), Society6, and [[Spoonflower]] (fabric by yard, wallpaper, finished products including duvet covers, tea towels, throw pillows, and tablecloths). Licensing is the core commercial model for pattern work.
 
 ## Portfolio and Presence
 
+- Website: https://jenniferladd.com
+- Instagram: @jenniferladdhandmade (1,288 followers)
+- Redbubble shop
+- Society6 shop
+- [[Spoonflower]] shop
+
 ## Career Path
+
+Jennifer Ladd runs a woman-owned independent design business in Milwaukee. All work is hand-drawn and personally inspired with a sketchbook-driven process. She has entered multiple planner design competitions (Golden Coil) and the Kula Cloth outdoor textile design contest, indicating active engagement with licensed product design opportunities beyond POD platforms.
 
 ## Pattern Focus
 
+Selected patterns suggest large, confident floral repeats with layered botanical detail. Subject matter extends to specific species (goldfinch, lily of the valley, daffodils) and complex motifs (nature mandala). Multiple colourway variants appear across the pattern library. A selected placement image shows finished handmade goods bearing her patterns.
+
 ## Connections
+
+- [[Floral Patterns]]
+- [[Home Decor]]
+- [[Spoonflower]]
+- [[Redbubble]]
+- [[Society6]]
+- [[Licensing]]

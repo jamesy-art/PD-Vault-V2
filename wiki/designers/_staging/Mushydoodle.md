@@ -18,7 +18,7 @@ bio: ''
 website: 'https://Mushydoodle.co.uk'
 website_about: ''
 accepted: 26/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mushydoodle
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Illustration & Design | Mushydoodle
 website_meta_description: Magical and whimsical illustration and design from the mind of Mushydoodle.
 website_about_raw: >-
@@ -106,7 +109,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
 
   About
@@ -141,45 +144,131 @@ instagram_profile_pic_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/272097671_610866950007487_979726818549657445_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFfbRdD6QptTZjdeQvgzhGcJyAqcUA14k4rTfJjIwY1IXWxn_TNK6LoJJdHGgUyrHo&_nc_ohc=Nb-H3MNCtD8Q7kNvwFyrOXJ&_nc_gid=0H-dKBTPcGB6lAI-kx083A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4cgKDvelGO2Ky869X6KOhiZ0Jdg8IHXObP0aup-vKs7Q&oe=6A140577&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/272097671_610866950007487_979726818549657445_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFfbRdD6QptTZjdeQvgzhGcJyAqcUA14k4rTfJjIwY1IXWxn_TNK6LoJJdHGgUyrHo&_nc_ohc=Nb-H3MNCtD8Q7kNvwFyrOXJ&_nc_gid=0H-dKBTPcGB6lAI-kx083A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4cgKDvelGO2Ky869X6KOhiZ0Jdg8IHXObP0aup-vKs7Q&oe=6A140577&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mushydoodle/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7868
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mushydoodle/profile/272097671_610866950007487_979726818549657445_n.jpg
+instagram_profile_image_bytes: 110014
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mushydoodle/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mushydoodle/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mushydoodle/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mushydoodle/profile/272097671_610866950007487_979726818549657445_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mushydoodle/profile/272097671_610866950007487_979726818549657445_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mushydoodle/profile/272097671_610866950007487_979726818549657445_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mushydoodle/profile/272097671_610866950007487_979726818549657445_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414899464_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414985447_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105641568517_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253685479934_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253870036341_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253878467553_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253970660306_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991406269475_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991565717065_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991624232755_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130102377_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130117557_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050138481774_1374099836.jpg
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414899464_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253870036341_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253970660306_1374099836.webp
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130117557_1374099836.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105641568517_1374099836.jpg
+  - >-
+    ../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991565717065_1374099836.webp
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mushydoodle
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mushydoodle/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mushydoodle/profile/272097671_610866950007487_979726818549657445_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414899464_1374099836.jpg)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414899464_1374099836.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414985447_1374099836.jpg)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105414985447_1374099836.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105641568517_1374099836.jpg)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1654535137_2854770105641568517_1374099836.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253685479934_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253685479934_1374099836.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253870036341_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253870036341_1374099836.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253878467553_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253878467553_1374099836.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253970660306_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1678987007_3059887253970660306_1374099836.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991406269475_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991406269475_1374099836.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991565717065_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991565717065_1374099836.webp --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991624232755_1374099836.webp)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1684246132_3104003991624232755_1374099836.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130102377_1374099836.jpg)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130102377_1374099836.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130117557_1374099836.jpg)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050130117557_1374099836.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050138481774_1374099836.jpg)<br><!-- image:../../assets/designers/mushydoodle/instagram/mushydoodle_1755017952_3697681050138481774_1374099836.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Erin Cole is the illustrator and designer behind Mushydoodle, a UK-based creative practice known for its warm, whimsical character illustrations and bold surface design patterns. Mushydoodle was created as a source of comfort and distraction from chronic illness and has developed into a small commercial practice spanning illustrated prints, surface pattern licensing, greeting card design, and digital downloads.
+
 ## Style and Aesthetic
+
+Magical and whimsical — warm, character-driven illustrations featuring friendly animals, plants, mushrooms, and fantastical subjects with a deliberately joyful register. Selected Instagram images suggest bold, bright all-over surface patterns with a high-contrast, graphic quality suited to apparel and home decor. Palette is rich and saturated. Selected placement images suggest finished product application contexts consistent with homeware or printed goods.
 
 ## Techniques and Tools
 
+Digital illustration practice (specific software not documented). Produces both standalone illustration and full repeat surface design patterns for POD platforms. Digital downloads sold via Gumroad indicate a file-delivery workflow suited to licensing clients. Also works in greeting card design, tarot illustration, character design, and logo design.
+
 ## Markets and Clients
+
+Surface design patterns available on Spoonflower (fabric and home decor). Products sold via Etsy (prints, keychains, stickers). Digital downloads on Gumroad. Available for licensing and bespoke commissions via email (mushydoodle@outlook.com). Practice spans apparel, home decor, greeting card, and stationery markets.
 
 ## Portfolio and Presence
 
+- Website: https://mushydoodle.co.uk
+- Instagram: https://instagram.com/Mushydoodle
+
 ## Career Path
+
+UK-based practice established by 2020. Mushydoodle developed from a personal creative project tied to the experience of chronic illness into a small commercial studio with multiple revenue channels: Spoonflower POD platform, Etsy print shop, Gumroad digital downloads, and direct licensing inquiries.
 
 ## Pattern Focus
 
+Selected images suggest bright, bold all-over surface patterns with a whimsical character motif aesthetic. Likely featuring illustrated subjects (animals, plants, fantastical elements) in structured repeat layouts. Placement images suggest finished product application on home goods or apparel. Website describes patterns as suitable for "a wide variety of projects from apparel to home decor."
+
 ## Connections
+
+- [[Spoonflower]] — fabric and home decor platform
+- [[Stationery Market]] — greeting card and print output
+- [[Home Decor Market]] — surface pattern application

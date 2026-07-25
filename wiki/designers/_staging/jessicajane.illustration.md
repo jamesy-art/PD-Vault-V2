@@ -27,7 +27,7 @@ bio: ''
 website: 'https://jessicajaneillustration.com/pattern-library'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jessicajane.illustration
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Pattern Library — Jessica Jane Illustration
 website_meta_description: >-
   SURFACE PATTERN DESIGNS: NON-EXCLUSIVE PRINT LIBRARY A selection of Hand-Drawn
@@ -278,7 +281,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -299,46 +302,184 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/451667916_1017083316760415_6939828523866398320_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH-kukT494nknneGwcNkTxUU0Rx6lP-Lh17t4n38GjUdO1De8003ndegFhTVUZ1u0s&_nc_ohc=qUXPq_MxH48Q7kNvwGjMNl3&_nc_gid=d7cP64Z20Wx2BW2ZhBsCqQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4nQeiYRIYMPmxCbJEvowQrLsIDSnKrFAUIB1CBAQxvIw&oe=6A13ECEF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/451667916_1017083316760415_6939828523866398320_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH-kukT494nknneGwcNkTxUU0Rx6lP-Lh17t4n38GjUdO1De8003ndegFhTVUZ1u0s&_nc_ohc=qUXPq_MxH48Q7kNvwGjMNl3&_nc_gid=d7cP64Z20Wx2BW2ZhBsCqQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4nQeiYRIYMPmxCbJEvowQrLsIDSnKrFAUIB1CBAQxvIw&oe=6A13ECEF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jessicajane.illustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5303
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jessicajane.illustration/profile/451667916_1017083316760415_6939828523866398320_n.jpg
+instagram_profile_image_bytes: 133863
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jessicajane.illustration/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_image: >-
+  ../../assets/designers/jessicajane.illustration/profile/451667916_1017083316760415_6939828523866398320_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/jessicajane.illustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jessicajane.illustration/profile/instagram-profile.jpg
+    ../../assets/designers/jessicajane.illustration/profile/451667916_1017083316760415_6939828523866398320_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jessicajane.illustration/profile/451667916_1017083316760415_6939828523866398320_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jessicajane.illustration/profile/451667916_1017083316760415_6939828523866398320_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791895212212_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903577067_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903590861_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903592847_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903604428_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903609379_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791911993910_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851007028487418_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851018420237448_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851028150985191_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851032848640019_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851038796151987_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851043384688691_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366423274964678_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366438827438327_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366447241186233_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366452542796574_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366458423218027_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366463095660890_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307473604686568_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307482454351926_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307483033455945_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307486213012993_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307487235571881_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307488627583117_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307491959219742_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_46_1AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_50_2AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_62_5AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_6_0AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+instagram_image_count: 30
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851007028487418_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366452542796574_275697990.jpg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_46_1AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_50_2AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_62_5AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+  - >-
+    ../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_6_0AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jessicajane.illustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jessicajane.illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jessicajane.illustration/profile/451667916_1017083316760415_6939828523866398320_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791895212212_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791895212212_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903577067_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903577067_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903590861_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903590861_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903592847_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903592847_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903604428_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903604428_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903609379_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791903609379_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791911993910_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1767838284_3805225791911993910_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851007028487418_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851007028487418_275697990.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851018420237448_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851018420237448_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851028150985191_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851028150985191_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851032848640019_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851032848640019_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851038796151987_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851038796151987_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851043384688691_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1769462593_3818851043384688691_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366423274964678_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366423274964678_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366438827438327_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366438827438327_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366447241186233_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366447241186233_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366452542796574_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366452542796574_275697990.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366458423218027_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366458423218027_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366463095660890_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1772862184_3847366463095660890_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307473604686568_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307473604686568_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307482454351926_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307482454351926_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307483033455945_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307483033455945_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307486213012993_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307486213012993_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307487235571881_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307487235571881_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307488627583117_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307488627583117_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307491959219742_275697990.jpg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_1775955703_3873307491959219742_275697990.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_46_1AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_46_1AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_50_2AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_50_2AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_62_5AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_62_5AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_6_0AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg)<br><!-- image:../../assets/designers/jessicajane.illustration/instagram/jessicajane.illustration_imageye___-_imgi_6_0AusFlorals_Fanned+Cotton+Fabric+Stack+Mockup+(freebie)+by+Creatsy®.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jessica Jane is a Melbourne-based illustrator and surface pattern designer. She maintains a non-exclusive print library of hand-drawn repeat patterns targeting manufacturers and product brands seeking ready-to-license artwork. Her pattern work sits alongside a personal illustration practice covering animals, nature, and vintage-influenced ink drawing.
+
 ## Style and Aesthetic
+
+Selected Instagram images include repeat floral and butterfly patterns shown in fabric stack mockups. The Australian Florals collection features native botanical species — kangaroo paw, corymbia, protea, waratah, and wattle — in navy blue, warm-toned, mustard, green, and red line-work variants against contrasting backgrounds. The aesthetic is detailed, hand-drawn, and naturalistic, with a nostalgic quality drawn from traditional illustration technique.
 
 ## Techniques and Tools
 
+Jessica works in hand-drawn ink illustration, scanned and adapted digitally into surface repeat patterns. Drawing techniques include cross-hatching, stippling, and shading. She is formally trained in illustration (BA, Melbourne Polytechnic) and concept design (CG Spectrum, scholarship). Patterns are available as standard or can be commissioned with adjusted assets and colour variations.
+
 ## Markets and Clients
+
+The print library targets product and textile manufacturers seeking non-exclusive licensed artwork. Selected mockup images suggest fabric and textile applications. She is a designer for @fabled.magazine. Custom and exclusive commissions are available on enquiry.
 
 ## Portfolio and Presence
 
+- Website: https://jessicajaneillustration.com/pattern-library
+- Instagram: @jessicajane.illustration (4,044 followers)
+- Designer: @fabled.magazine
+
 ## Career Path
+
+Jessica Jane holds a BA in Illustration from Melbourne Polytechnic and a scholarship diploma in Screen and Media/Concept Design from CG Spectrum. She has exhibited widely in Melbourne — Jacky Winter Gallery, BSIDE Gallery, Dark Horse Experiment, and Metro Tunnel commissions. Products are stocked at Finders Keepers, Murphy & Co, and Sticky Institute. Her surface pattern practice developed alongside an active exhibition and illustration career.
 
 ## Pattern Focus
 
+Two documented collections: Butterflies and Florals (five repeat patterns using hand-drawn butterfly and floral motifs) and Australian Florals (five repeat patterns in multiple colourways featuring native botanical species). Selected images show fabric-weight prints with layered illustrative detail and clean repeat construction.
+
 ## Connections
+
+- [[Australian Florals]]
+- [[Illustration]]
+- [[Stationery]]
+- [[Licensing]]

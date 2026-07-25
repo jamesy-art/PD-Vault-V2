@@ -21,7 +21,7 @@ bio: ''
 website: 'https://jordansondler.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jordansondler
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Jordan Sondler
 website_meta_description: >-
   Jordan Sondler is a Brooklyn-based illustrator and the author of Feel It Out.
@@ -218,7 +221,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -238,45 +241,178 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/234254310_428211651763397_1633045087139756681_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFZTk3RjBBmLZKSz-DY_MzJTZIYddoXOJoN0ciXFkTrMLoH1qVz1ymmnNTPtUN2fwA&_nc_ohc=rQyvOYXEuKQQ7kNvwGFdWLf&_nc_gid=Oyoq-ZrE9QZXHgnOjLrxTg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5mMUrUvd7-TZTp_QdPtBCJuyetSggm_Nlo41LO3zaz4Q&oe=6A13EC49&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/234254310_428211651763397_1633045087139756681_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFZTk3RjBBmLZKSz-DY_MzJTZIYddoXOJoN0ciXFkTrMLoH1qVz1ymmnNTPtUN2fwA&_nc_ohc=rQyvOYXEuKQQ7kNvwGFdWLf&_nc_gid=Oyoq-ZrE9QZXHgnOjLrxTg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5mMUrUvd7-TZTp_QdPtBCJuyetSggm_Nlo41LO3zaz4Q&oe=6A13EC49&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jordansondler/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5346
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jordansondler/profile/234254310_428211651763397_1633045087139756681_n.jpg
+instagram_profile_image_bytes: 242899
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jordansondler/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jordansondler/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jordansondler/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jordansondler/profile/234254310_428211651763397_1633045087139756681_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jordansondler/profile/234254310_428211651763397_1633045087139756681_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jordansondler/profile/234254310_428211651763397_1633045087139756681_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jordansondler/profile/234254310_428211651763397_1633045087139756681_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1739198191_3564975271163968871_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1742909645_3596109205859576170_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576188751241_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576247630876_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849430475284_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849447213093_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1752067237_3672928657408779268_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1761572178_3752661883716206269_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1765034437_3781705411792308368_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1766154154_3791098283322854156_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1766586593_3794725846389740365_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1770216533_3825173950733566905_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370098752078132_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370100798947129_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370103332252553_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1774876650_3864267315517176244_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1774876650_3864267319753411332_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993898523605173_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993899236636408_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993900788521366_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993901862304865_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515326076720391_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515333685152276_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515336579799040_43562045.jpg
+instagram_image_count: 24
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1742909645_3596109205859576170_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576188751241_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576247630876_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849430475284_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1761572178_3752661883716206269_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1765034437_3781705411792308368_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1766586593_3794725846389740365_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515326076720391_43562045.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1739198191_3564975271163968871_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1752067237_3672928657408779268_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1770216533_3825173950733566905_43562045.jpg
+  - >-
+    ../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370098752078132_43562045.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # jordansondler
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jordansondler/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jordansondler/profile/234254310_428211651763397_1633045087139756681_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1739198191_3564975271163968871_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1739198191_3564975271163968871_43562045.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1742909645_3596109205859576170_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1742909645_3596109205859576170_43562045.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576188751241_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576188751241_43562045.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576247630876_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1749511857_3651492576247630876_43562045.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849430475284_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849430475284_43562045.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849447213093_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1751288466_3666395849447213093_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1752067237_3672928657408779268_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1752067237_3672928657408779268_43562045.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1761572178_3752661883716206269_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1761572178_3752661883716206269_43562045.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1765034437_3781705411792308368_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1765034437_3781705411792308368_43562045.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1766154154_3791098283322854156_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1766154154_3791098283322854156_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1766586593_3794725846389740365_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1766586593_3794725846389740365_43562045.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1770216533_3825173950733566905_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1770216533_3825173950733566905_43562045.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370098752078132_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370098752078132_43562045.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370100798947129_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370100798947129_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370103332252553_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1773697051_3854370103332252553_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1774876650_3864267315517176244_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1774876650_3864267315517176244_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1774876650_3864267319753411332_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1774876650_3864267319753411332_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993898523605173_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993898523605173_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993899236636408_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993899236636408_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993900788521366_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993900788521366_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993901862304865_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1774963784_3864993901862304865_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515326076720391_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515326076720391_43562045.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515333685152276_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515333685152276_43562045.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515336579799040_43562045.jpg)<br><!-- image:../../assets/designers/jordansondler/instagram/jordansondler_1775860057_3872515336579799040_43562045.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Brooklyn-based illustrator, educator, and mental health advocate. Jordan Sondler's award-winning commercial practice spans illustration, murals, television set design, comics, children's apparel, and publishing. She is the author of *Feel It Out* and co-founder of the Dead Parent Club. Teaches at Pratt, University of the Arts, and Skillshare alongside active commercial work. Over 40,000 Instagram followers.
+
 ## Style and Aesthetic
+
+Warm, figurative illustration with a strong storytelling character. Selected Instagram images suggest character-driven work combining emotional themes with visual playfulness — figures, animals, and narrative motifs in a style described as "warm and approachable." Work resonates with audiences seeking authenticity and emotional connection. Nostalgic influences, including 1970s and 1990s aesthetics, are visible across her client portfolio.
 
 ## Techniques and Tools
 
+Digital illustration spanning editorial, apparel print, and stationery. Active teaching presence on Skillshare, Pratt, and University of the Arts indicates fluency in accessible, instructional creative workflows.
+
 ## Markets and Clients
+
+Extensive commercial footprint across publishing, stationery, children's product, editorial, and brand licensing. Confirmed clients include The New York Times, Adobe, Google, Scholastic Books, Meta, Pottery Barn, Urban Outfitters, Hallmark, Papyrus, Fisher Price, Nickelodeon, Nooworks, Daydream Society, Minted, Doc Martens, Oeuf, Rockets of Awesome, Kotex, Chronicle Books, Harper Collins, and Random House, among many others.
 
 ## Portfolio and Presence
 
+- Website: jordansondler.com
+- Instagram: @jordansondler (40,000+ followers)
+
 ## Career Path
+
+Brooklyn-based throughout career. Practice evolved from storytelling and creative writing through editorial illustration into broad commercial licensing across multiple product categories. Author of *Feel It Out*. Co-founded the Dead Parent Club, a community focused on grief and mental health. Teaches at Pratt and University of the Arts.
 
 ## Pattern Focus
 
+Selected images suggest illustrative print work suited to children's apparel and stationery — character-based, emotionally expressive compositions. Selected placements indicate applied product contexts including wrapped goods and print-on-product. Portfolio confirms broad reach across apparel (Nooworks), stationery (Daydream Society, Papyrus, Hallmark), and home goods (Pottery Barn).
+
 ## Connections
+
+- [[Stationery]] market
+- [[Kidswear]] market
+- [[Daydream Society]] — stationery and gifting client
+- [[Nooworks]] — apparel client
+- [[Minted]] — licensing platform

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://emikli.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/designedbyemikli
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: emikli | textile design surface pattern print
 website_meta_description: ''
 website_about_raw: >-
@@ -263,8 +266,21 @@ categories:
   - Menswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+
+  Emikli Design Portfolio
+
+  Creative Textile and
+
+  Surface Designs
+
+  I create textiles and surface designs that combine artistry, craft, and
+  innovation. My portfolio blends hand-painted prints and illustrator renders
+  with AI visualisations, allowing clients to see designs imagined in editorial,
+  luxury settings. I collaborate with global brands and airlines to develop
+  distinctive fabrics, patterns, and product concepts that balance creativity
+  with commercial impact.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -280,45 +296,178 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/329678278_1276547913217152_1332076687490478753_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH55YC1buzMQ_FuZ1695tu4xnkInBU9FZ2_9Q4H-nDWuvHF0FQHJ4HztmjQeUU4ado&_nc_ohc=x8LVTHzgmqgQ7kNvwG-LzOE&_nc_gid=GzAIqwL6p0pbf1UrmnWQPA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5h8r3AwMomi2za2tW1QLUir2o-7mtHvpXGgrPkHc_8nA&oe=6A13D89F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/329678278_1276547913217152_1332076687490478753_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH55YC1buzMQ_FuZ1695tu4xnkInBU9FZ2_9Q4H-nDWuvHF0FQHJ4HztmjQeUU4ado&_nc_ohc=x8LVTHzgmqgQ7kNvwG-LzOE&_nc_gid=GzAIqwL6p0pbf1UrmnWQPA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5h8r3AwMomi2za2tW1QLUir2o-7mtHvpXGgrPkHc_8nA&oe=6A13D89F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/designedbyemikli/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4724
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/designedbyemikli/profile/329678278_1276547913217152_1332076687490478753_n.jpg
+instagram_profile_image_bytes: 126282
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/designedbyemikli/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/designedbyemikli/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/designedbyemikli/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/designedbyemikli/profile/329678278_1276547913217152_1332076687490478753_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/designedbyemikli/profile/329678278_1276547913217152_1332076687490478753_n.jpg
+profile_image_local: >-
+  ../../assets/designers/designedbyemikli/profile/329678278_1276547913217152_1332076687490478753_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/designedbyemikli/profile/329678278_1276547913217152_1332076687490478753_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1656476108_2871052143924452585_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657026066_2875665525709313652_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884343719414_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884352199087_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884360534686_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665649080_2948000610227409397_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665878428_2949924522079183807_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1666096204_2951751359432476666_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1666698425_2956803161529998142_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1670143108_2985699249091351112_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1672663856_3006844817279305267_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091794194600_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091802537371_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091802579354_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091919883394_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091936755228_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1676463908_3038721965792667243_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180589887462663_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180589887629297_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180590080508799_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873121570_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873172199_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873262161_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873341575_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1699318123_3230437014368980768_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1699318123_3230437014369093673_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1702772268_3259412486440309422_1648479974.jpg
+instagram_image_count: 27
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884343719414_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1676463908_3038721965792667243_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180590080508799_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1702772268_3259412486440309422_1648479974.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1656476108_2871052143924452585_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657026066_2875665525709313652_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665649080_2948000610227409397_1648479974.jpg
+  - >-
+    ../../assets/designers/designedbyemikli/instagram/designedbyemikli_1672663856_3006844817279305267_1648479974.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # designedbyemikli
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/designedbyemikli/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/designedbyemikli/profile/329678278_1276547913217152_1332076687490478753_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1656476108_2871052143924452585_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1656476108_2871052143924452585_1648479974.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657026066_2875665525709313652_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657026066_2875665525709313652_1648479974.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884343719414_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884343719414_1648479974.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884352199087_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884352199087_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884360534686_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1657444175_2879172884360534686_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665649080_2948000610227409397_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665649080_2948000610227409397_1648479974.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665878428_2949924522079183807_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1665878428_2949924522079183807_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1666096204_2951751359432476666_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1666096204_2951751359432476666_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1666698425_2956803161529998142_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1666698425_2956803161529998142_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1670143108_2985699249091351112_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1670143108_2985699249091351112_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1672663856_3006844817279305267_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1672663856_3006844817279305267_1648479974.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091794194600_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091794194600_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091802537371_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091802537371_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091802579354_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091802579354_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091919883394_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091919883394_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091936755228_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1674981555_3026287091936755228_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1676463908_3038721965792667243_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1676463908_3038721965792667243_1648479974.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180589887462663_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180589887462663_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180589887629297_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180589887629297_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180590080508799_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1678783557_3058180590080508799_1648479974.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873121570_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873121570_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873172199_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873172199_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873262161_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873262161_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873341575_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1685281089_3112685841873341575_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1699318123_3230437014368980768_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1699318123_3230437014368980768_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1699318123_3230437014369093673_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1699318123_3230437014369093673_1648479974.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/designedbyemikli/instagram/designedbyemikli_1702772268_3259412486440309422_1648479974.jpg)<br><!-- image:../../assets/designers/designedbyemikli/instagram/designedbyemikli_1702772268_3259412486440309422_1648479974.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Eugenia Tsimiklis is an Australia-based textile and surface pattern designer working under the name Emikli. She creates textiles and surface designs for global fashion brands, airlines, and lifestyle product clients, with a focus on womenswear, resort, accessories, and homewares. Her practice combines artistic craft with commercial production.
+
 ## Style and Aesthetic
+
+Selected Instagram patterns suggest a strong florals direction — including romantic sketchy florals, black floral and purple floral colourways — alongside broader textile work. The website portfolio references titles such as "Romantic Sketchy Floral" and multiple square-format floral repeats in black and purple. Work balances bold artistic direction with commercial readability for fashion and interior markets.
 
 ## Techniques and Tools
 
+Portfolio blends hand-painted prints with Adobe Illustrator renders and AI visualisations, allowing clients to see designs placed in editorial, luxury settings. This hybrid approach positions the studio at the intersection of artisanal craft and digital commercial delivery.
+
 ## Markets and Clients
+
+Works across three main segments: Fashion (womenswear, resort, accessories — distinctive textile and print designs balancing artistic direction with commercial relevance for global fashion brands); Interiors (homewares and airlines — surface designs that elevate interiors through colour, texture, and storytelling); Product Development (textiles, bedding, and lifestyle goods — design from vision to visualisation with a focus on function and innovation). Collaborates with global brands and airlines.
 
 ## Portfolio and Presence
 
+- Website: https://emikli.com
+- Instagram: https://instagram.com/designedbyemikli (2,210 followers, 1,579 posts)
+- Contact: emikli@hotmail.com
+
 ## Career Path
+
+Dedicated to pushing the boundaries of textile design by combining artistry, craft, and innovation. Offers studio visits for design project discussions. Mission oriented around collaborating with global brands to create forward-thinking, commercially impactful designs.
 
 ## Pattern Focus
 
+Selected patterns suggest romantic, painterly florals as a signature direction — particularly in black, purple, and neutral colourways. Work extends to fashion placement designs and textile applications across womenswear and interior product categories.
+
 ## Connections
+
+- [[Womenswear]] — core market
+- [[Home Decor]] — interior-facing textile work
+- [[Australia]] — based

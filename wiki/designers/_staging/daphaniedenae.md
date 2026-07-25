@@ -24,7 +24,7 @@ bio: ''
 website: 'https://daphaniedenae.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/daphaniedenae
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: the site title
 website_meta_description: ''
 website_about_raw: >-
@@ -244,7 +247,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -264,45 +267,126 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/641279804_17978054054988813_6401629851421291894_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEITCJW17BxXsS9vBV9f0METcSbVJ_koiqSweslL2sPkVAnC2vkAfqKERbvAZV8lyA&_nc_ohc=hRzB3BESSLgQ7kNvwEi-iTF&_nc_gid=CvrlhoDyRxMstItv4NOEaw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7qpX8zBYEeQlcVg1bb0FkJTgVSGxlejDzlvil4LoEucw&oe=6A13F834&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/641279804_17978054054988813_6401629851421291894_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEITCJW17BxXsS9vBV9f0METcSbVJ_koiqSweslL2sPkVAnC2vkAfqKERbvAZV8lyA&_nc_ohc=hRzB3BESSLgQ7kNvwEi-iTF&_nc_gid=CvrlhoDyRxMstItv4NOEaw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7qpX8zBYEeQlcVg1bb0FkJTgVSGxlejDzlvil4LoEucw&oe=6A13F834&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/daphaniedenae/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5581
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/daphaniedenae/profile/641279804_17978054054988813_6401629851421291894_n.jpg
+instagram_profile_image_bytes: 218203
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/daphaniedenae/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/daphaniedenae/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/daphaniedenae/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/daphaniedenae/profile/641279804_17978054054988813_6401629851421291894_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/daphaniedenae/profile/641279804_17978054054988813_6401629851421291894_n.jpg
+profile_image_local: >-
+  ../../assets/designers/daphaniedenae/profile/641279804_17978054054988813_6401629851421291894_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/daphaniedenae/profile/641279804_17978054054988813_6401629851421291894_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1708715391_3309267013813063405_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1714094944_3354393979900131829_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1715177863_3363478161402621618_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1716145867_3371598368491856670_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1718910315_3394788233177754415_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1719084549_3396249814861114104_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1747679485_3636121527499891877_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748151641_3640082257982831308_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748219448_3640651066338353192_59592812812.jpg
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1708715391_3309267013813063405_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1714094944_3354393979900131829_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1715177863_3363478161402621618_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1716145867_3371598368491856670_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1718910315_3394788233177754415_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1719084549_3396249814861114104_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748151641_3640082257982831308_59592812812.jpg
+  - >-
+    ../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748219448_3640651066338353192_59592812812.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # daphaniedenae
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/daphaniedenae/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/daphaniedenae/profile/641279804_17978054054988813_6401629851421291894_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1708715391_3309267013813063405_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1708715391_3309267013813063405_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1714094944_3354393979900131829_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1714094944_3354393979900131829_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1715177863_3363478161402621618_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1715177863_3363478161402621618_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1716145867_3371598368491856670_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1716145867_3371598368491856670_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1718910315_3394788233177754415_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1718910315_3394788233177754415_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1719084549_3396249814861114104_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1719084549_3396249814861114104_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1747679485_3636121527499891877_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1747679485_3636121527499891877_59592812812.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748151641_3640082257982831308_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748151641_3640082257982831308_59592812812.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748219448_3640651066338353192_59592812812.jpg)<br><!-- image:../../assets/designers/daphaniedenae/instagram/daphaniedenae_1748219448_3640651066338353192_59592812812.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Daphanie Shaddock is a San Francisco Bay Area-based textile and surface pattern designer with over 25 years of industry experience. Her background combines strong creative development with deep production knowledge — from concept and colour direction through to production-ready artwork. She works across apparel, home, and adjacent surface design, and is available for freelance projects, licensing, and creative partnerships.
+
 ## Style and Aesthetic
+
+Focused on sophisticated pattern, colour, and visual storytelling. Work is described as both expressive and commercially relevant, with a deliberate avoidance of work that is purely decorative without commercial utility. Selected Instagram patterns suggest a broad creative range across multiple motif types and colourways, consistent with a senior designer's ability to navigate diverse client briefs.
 
 ## Techniques and Tools
 
+Full-pipeline capability: colour development and recolours, custom palette creation, mood board development, concept-to-repeat construction, seamless repeat production, and file formatting to manufacturer specifications. Can step in at any stage of the design process — concept, colour, or production. Offers bespoke services to brands at any scale.
+
 ## Markets and Clients
+
+Womenswear and home decor primary markets. Named clients from in-house career include Kenneth Cole, Calvin Klein, DKNY, Ellen Tracy, Lucky Brand, Juicy Couture, Laundry by Shelli Segal, and Talbots. Currently available for freelance work, collaborations, licensing, and creative partnerships. Pattern Library described as "coming soon" on website.
 
 ## Portfolio and Presence
 
+- Website: https://daphaniedenae.com
+- Instagram: https://instagram.com/daphaniedenae (412 followers, 27 posts)
+
 ## Career Path
+
+Spent 15 years as an in-house textile designer at fashion brands, developing prints and patterns for leading US fashion labels. Subsequently transitioned to independent freelance practice and creative collaboration. Over 25 years of total industry experience spanning design leadership and production execution.
 
 ## Pattern Focus
 
+Selected Instagram patterns (8 confirmed) suggest sophisticated, commercially oriented designs across multiple categories consistent with womenswear and lifestyle applications. Pattern Library currently in development. Work spans from individual motif development to full collection artwork pipelines.
+
 ## Connections
+
+- [[Kenneth Cole]] — named in-house client
+- [[Calvin Klein]] — named in-house client
+- [[raw/companies/dkny]] — named in-house client
+- [[Womenswear]] — primary market
+- [[Home Decor]] — secondary market
+- [[United States]] — based

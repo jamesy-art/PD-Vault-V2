@@ -26,7 +26,7 @@ bio: ''
 website: 'https://martagrossi.com'
 website_about: ''
 accepted: 18/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/martabunny
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MARTA GROSSI
 website_meta_description: ''
 website_about_raw: >-
@@ -285,8 +288,44 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  Multidisciplinary Italian creative director and artist, Marta Grossi, mixes
+  illustrations, digital art and hand techniques creating bold works distinctly
+  her own. After graduating from International Graphic School of Venice, Marta
+  has spent the past 17 years throughout Europe and Asia lending her art
+  direction talents to brands including: Ferrari, Lane Crawford, Agnès B,
+  ArtAsiaPacific Magazine, Stuart Weitzman, Max Mara Group, Johnnie Walker and
+  more. Blending brand strategies, aesthetics and functionality. Marta is also
+  the creator of The Banana Graffiti project. 
+
+
+  Currently based in Turin, and relocated after 9 years in Hong Kong - while
+  developing brand imagery for international companies - Marta is cultivating
+  her own personal interest in arts, storytelling and the essence of
+  communication in a meaningful way. 
+
+
+  Marta continues to show her works in various exhibitions worldwide. Her
+  projects have been published in Vogue, Disney, Chanel, Elle, Harper’s Bazaar,
+  Adobe, Artribune, Yahoo, Designboom, just to name a few.
+
+
+  CLIENTS
+
+
+  Lane Crawford, Harvey Nichols, Ferrari, ArtAsiaPacific Magazine, Pedder Red
+  Group, Stuart Weitzman, Shiseido, Max Mara Group-IBlues, Agnès b Group,
+  Johnnie Walker, Maserati, Colgate, Lindor, Lipton, Jones Lang LaSalle,
+  Electricsekki Ltd, Latitude 11, Six Senses Group, Grana Group, Design
+  Anthology Magazine, Kitchen Infinity Group, Dinh Van, Stutter Hen, Luxarity,
+  MAISON XXII, twentytwofifty, Blueflower collective-Wonder Magazine, Studio 63,
+  Le Saunda, HipHongKong, Jo's Ready-to-Wear, Aroxta, ETL Educational
+  Technology, Great Day, Kitec, HKMA, HYSAN, IFC, Singleton, Darlie, Salt Hk,
+  Quaker, Yoho Mall 形點, Zoom and Sizes HK, Arthur Fang - Speech-Language
+  Pathologist, The Hive, Stutter Hen, Poplab Studio, Castello di Ugento,
+  Breathrough, Nordico Museum Linz, Palmiero Jewelry Design, Studio Adel,
+  Youevolve.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -307,40 +346,110 @@ instagram_profile_image_bytes: 2414
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/martabunny/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/martabunny/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/martabunny/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/martabunny/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_11_manarti_botany.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_132_manarti_botany.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_136_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_15_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_169_9A4E9F1D-38CA-46D8-8BE4-289108EDCD5D.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_178_love+often+love+deeply.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_17_martagrossi-X-manarti_pandamous_Tavola-disegno-1-copia.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_203_statue_pattern+3.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_132_manarti_botany.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_136_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_169_9A4E9F1D-38CA-46D8-8BE4-289108EDCD5D.jpeg
+  - >-
+    ../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_17_martagrossi-X-manarti_pandamous_Tavola-disegno-1-copia.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # martabunny
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/martabunny/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/martabunny/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_11_manarti_botany.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_11_manarti_botany.jpeg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_132_manarti_botany.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_132_manarti_botany.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_136_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_136_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_15_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_15_martagrossi-X-manarti_pandamous_Tavola-disegno-1.jpeg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_169_9A4E9F1D-38CA-46D8-8BE4-289108EDCD5D.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_169_9A4E9F1D-38CA-46D8-8BE4-289108EDCD5D.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_178_love+often+love+deeply.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_178_love+often+love+deeply.jpeg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_17_martagrossi-X-manarti_pandamous_Tavola-disegno-1-copia.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_17_martagrossi-X-manarti_pandamous_Tavola-disegno-1-copia.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_203_statue_pattern+3.jpeg)<br><!-- image:../../assets/designers/martabunny/instagram/martabunny_imageye___-_imgi_203_statue_pattern+3.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marta Grossi is a multidisciplinary Italian creative director, illustrator, and pattern designer with 17 years of practice across Europe and Asia. A graduate of the International Graphic School of Venice, she has directed brand imagery and illustration for an extensive international roster including Ferrari, Max Mara Group/iBlues, Lane Crawford, Stuart Weitzman, Shiseido, Johnnie Walker, and Maserati. Based in Turin after nine years in Hong Kong. Her work has been published in Vogue, Elle, Harper's Bazaar, Adobe, Artribune, and Designboom. Founder of the Banana Graffiti project and @carta_9169.
+
 ## Style and Aesthetic
+
+Grossi's visual language is bold, expressive, and culturally rich — spanning figurative illustration, botanical motifs, and decorative pattern work. Selected Instagram images suggest illustrated surface patterns including the Manarti Botany series and the Pandamous figurative illustrated print. A confident, high-impact aesthetic runs across fashion, luxury, and lifestyle applications.
 
 ## Techniques and Tools
 
+Works across illustration, digital art, and hand techniques including watercolour and ink. Experienced in art direction, live painting, murals, and art performance. Pattern designs available through the Manarti platform.
+
 ## Markets and Clients
+
+Fashion: iBlues/Max Mara Group (flamingo capsule, reissued PE24), Agnès b, Lane Crawford, Harvey Nichols, Stuart Weitzman. Luxury/lifestyle: Ferrari, Maserati, Singleton of Glen Ord, MAISON XXII, Lindor. Media: Vogue, Elle, Harper's Bazaar, Adobe, Artribune, Designboom. Hospitality: Six Senses Group. Full documented client list spans 40+ brands including Colgate, Johnnie Walker, ArtAsiaPacific, and Nordico Museum Linz.
 
 ## Portfolio and Presence
 
+- Website: https://martagrossi.com
+- Instagram: https://instagram.com/martabunny (3.4K followers)
+- Also: @bananagraffiti, @carta_9169
+- Patterns: Manarti platform
+
 ## Career Path
+
+Graduated from International Graphic School of Venice. Nine years based in Hong Kong directing global brand imagery before relocating to Turin. Exhibited internationally: Nordico Stadtmuseum Linz, The Torineser (Turin), Rovigoracconta festival.
 
 ## Pattern Focus
 
+Selected patterns include botanical illustration (Manarti Botany series) and figurative illustrated prints (Pandamous, produced for Manarti). The iBlues flamingo capsule print is the most documented commercial SPD application — reissued for the brand's PE24 collection. Work spans all-over repeat and placement print applications across fashion and luxury categories.
+
 ## Connections
+
+- [[iBlues]]
+- [[Max Mara Group]]
+- [[Lane Crawford]]
+- [[Manarti]]
+- [[Ferrari]]
+- [[MAISON XXII]]
+- [[Banana Graffiti]]
+- [[Botanical Pattern]]
+- [[Art Direction]]

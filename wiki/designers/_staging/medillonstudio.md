@@ -27,7 +27,7 @@ bio: ''
 website: 'https://medillon.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/medillonstudio
 profile_url: ''
 instagram_images:
@@ -44,8 +44,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Medillon | Contemporary Pattern Design & Illustration Studio
 website_meta_description: >-
   Contemporary modern pattern design & illustrations for textiles, kids’
@@ -283,7 +286,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -299,44 +302,117 @@ instagram_business_account: true
 instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/469398869_1150828519983331_5027703314042410704_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHKPUwoMEk96H4PhXyyD_vRUvt91vkoJt1Q7diVn3jfzCaz5acAcJtrXHXf3PHPmwU&_nc_ohc=WayQAI6h2OEQ7kNvwFDgmfa&_nc_gid=g0xplLXlJ_K4K4WoR_qW1w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7twtuwu7ZuE73aZMDd1Y7dR84qmkSsdGnYwigbygcyhQ&oe=6A13F429&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/medillonstudio/profile/469398869_1150828519983331_5027703314042410704_n.jpg
+instagram_profile_image_bytes: 32643
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/medillonstudio/profile/469398869_1150828519983331_5027703314042410704_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/medillonstudio/profile/469398869_1150828519983331_5027703314042410704_n.jpg
+profile_image_local: >-
+  ../../assets/designers/medillonstudio/profile/469398869_1150828519983331_5027703314042410704_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/medillonstudio/profile/469398869_1150828519983331_5027703314042410704_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_1772431406_3843755691522385863_70036668747.jpg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_1773993655_3856860778851458244_70036668747.jpg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_1774511566_3861205331628752811_70036668747.jpg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_72_icon-sunwashed.jpeg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_73_icon-2.jpeg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_74_COLLECTION-3a.jpeg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_75_icon-for-home.jpeg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_1772431406_3843755691522385863_70036668747.jpg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_1774511566_3861205331628752811_70036668747.jpg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_72_icon-sunwashed.jpeg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_73_icon-2.jpeg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_74_COLLECTION-3a.jpeg
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_75_icon-for-home.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/medillonstudio/instagram/medillonstudio_1773993655_3856860778851458244_70036668747.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # medillonstudio
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/medillonstudio/profile/469398869_1150828519983331_5027703314042410704_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_1772431406_3843755691522385863_70036668747.jpg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_1772431406_3843755691522385863_70036668747.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_1773993655_3856860778851458244_70036668747.jpg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_1773993655_3856860778851458244_70036668747.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_1774511566_3861205331628752811_70036668747.jpg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_1774511566_3861205331628752811_70036668747.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_72_icon-sunwashed.jpeg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_72_icon-sunwashed.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_73_icon-2.jpeg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_73_icon-2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_74_COLLECTION-3a.jpeg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_74_COLLECTION-3a.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_75_icon-for-home.jpeg)<br><!-- image:../../assets/designers/medillonstudio/instagram/medillonstudio_imageye___-_imgi_75_icon-for-home.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sera Dillon is a surface pattern designer and the founder of Medillon Studio, based in Auckland, New Zealand. Holding both a Bachelor's and Master's degree in Architecture, she brings a structurally informed approach to pattern development — applying her understanding of balance, proportion, and composition to repeat construction and motif scaling. Medillon Studio positions as nature-led surface design for home and lifestyle brands, with collections available for licensing and collaborative development.
+
 ## Style and Aesthetic
+
+Dillon's work explores florals as quiet storytelling — hand-touched, sun-faded, and imperfect by design. Inspired by old garden journals, worn ceramics, and botanical studies, selected patterns suggest collections that feel lived-in rather than decorative. A warm, restrained palette with an emphasis on textural and artisanal quality runs across the studio's output. Collections include Sunwashed Blooms, Garden Stills, Meadow Reverie, and Mira.
 
 ## Techniques and Tools
 
+Architectural training informs the precision of her repeat construction and motif scaling. Each collection is designed for cross-surface versatility — adaptable across fabric, ceramics, wallpaper, and seasonal product runs. Digital workflow combined with an expressive, artisanal aesthetic.
+
 ## Markets and Clients
+
+Home, tabletop, and lifestyle surfaces are the primary target markets. Open to licensing partnerships and collaborative collections with home, lifestyle, and apparel brands. No documented brand clients at this time. Selected placements suggest home product applications.
 
 ## Portfolio and Presence
 
+- Website: https://medillon.com
+- Instagram: https://instagram.com/medillonstudio
+
 ## Career Path
+
+Holds a Bachelor's and Master's degree in Architecture. Founded Medillon Studio as an independent surface pattern design practice. Based in Auckland, New Zealand.
 
 ## Pattern Focus
 
+Selected patterns are centred on botanical and expressive floral motifs with a hand-crafted, sun-faded character. Collection titles — Sunwashed Blooms, Garden Stills, Meadow Reverie, Mira — indicate a thematic, seasonal approach to portfolio development. The work is suited to all-over surface coverage across fabric, wallpaper, and tabletop categories.
+
 ## Connections
+
+- [[Botanical Pattern]]
+- [[Flower Pattern]]
+- [[Home Decor Market]]
+- [[Wallpaper Market]]
+- [[Licensing]]

@@ -21,7 +21,7 @@ bio: ''
 website: 'https://andreaeliasestudio.wixsite.com/andreaelias'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/andreaelias_estudio
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Diseño de estampados e Ilustración | Andrea Elias | España
 website_meta_description: >-
   Andrea Elias Estudio en Lleida. Ofrecemos diseño de estampados, ilustraciones,
@@ -255,7 +258,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Design and art have been a part of my life since I was very young. Creating,
   illustrating, and designing have led me to where I am today. After working in
@@ -292,45 +295,175 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.82787-19/689855786_18456477580108065_9142821792318912856_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFG93UggAXdOD4Z1R6uDTDZZVoB2_90BZeuu73GiyKl_MyAfwAdZpxd1Zp9y6YZF3M&_nc_ohc=COK3NbLlDiwQ7kNvwFPjty8&_nc_gid=2oD6YJCOnWFLjUN56q4PJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vXC98h0Sj_TO_H3psZtf8CitDLkB9hxoqXKJLvK5r9g&oe=6A13DB4B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.82787-19/689855786_18456477580108065_9142821792318912856_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFG93UggAXdOD4Z1R6uDTDZZVoB2_90BZeuu73GiyKl_MyAfwAdZpxd1Zp9y6YZF3M&_nc_ohc=COK3NbLlDiwQ7kNvwFPjty8&_nc_gid=2oD6YJCOnWFLjUN56q4PJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vXC98h0Sj_TO_H3psZtf8CitDLkB9hxoqXKJLvK5r9g&oe=6A13DB4B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4424
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/andreaelias_estudio/profile/689855786_18456477580108065_9142821792318912856_n.jpg
+instagram_profile_image_bytes: 151718
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/andreaelias_estudio/profile/689855786_18456477580108065_9142821792318912856_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/andreaelias_estudio/profile/689855786_18456477580108065_9142821792318912856_n.jpg
+profile_image_local: >-
+  ../../assets/designers/andreaelias_estudio/profile/689855786_18456477580108065_9142821792318912856_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/andreaelias_estudio/profile/689855786_18456477580108065_9142821792318912856_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233159784383398_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233159952153964_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233160077838950_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1672345964_3004178144311632195_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1673362467_3012705197126741566_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1675188665_3028024455406053069_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1680592849_3073358032255874263_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740124598563_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740133033825_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089074411622_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089242120405_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726925089_3462021033416310128_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555451050570_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555459406318_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555526673271_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555543407356_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555543505289_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1745427628_3617231583673898120_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890271191_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890281737_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1770113100_3824308491704389880_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1773344700_3851417014187632747_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1775753616_3871623084554099671_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1778529916_3894910894805754673_3177028064.jpg
+instagram_image_count: 24
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233160077838950_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1672345964_3004178144311632195_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1673362467_3012705197126741566_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1675188665_3028024455406053069_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740124598563_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740133033825_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726925089_3462021033416310128_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1745427628_3617231583673898120_3177028064.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089074411622_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890271191_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1773344700_3851417014187632747_3177028064.jpg
+  - >-
+    ../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1778529916_3894910894805754673_3177028064.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # andreaelias_estudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/andreaelias_estudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/andreaelias_estudio/profile/689855786_18456477580108065_9142821792318912856_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233159784383398_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233159784383398_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233159952153964_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233159952153964_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233160077838950_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1670325964_2987233160077838950_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1672345964_3004178144311632195_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1672345964_3004178144311632195_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1673362467_3012705197126741566_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1673362467_3012705197126741566_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1675188665_3028024455406053069_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1675188665_3028024455406053069_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1680592849_3073358032255874263_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1680592849_3073358032255874263_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740124598563_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740124598563_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740133033825_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1681759873_3083147740133033825_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089074411622_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089074411622_3177028064.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089242120405_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726047358_3454658089242120405_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726925089_3462021033416310128_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1726925089_3462021033416310128_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555451050570_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555451050570_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555459406318_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555459406318_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555526673271_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555526673271_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555543407356_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555543407356_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555543505289_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1741201656_3581781555543505289_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1745427628_3617231583673898120_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1745427628_3617231583673898120_3177028064.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890271191_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890271191_3177028064.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890281737_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1756711500_3711573507890281737_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1770113100_3824308491704389880_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1770113100_3824308491704389880_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1773344700_3851417014187632747_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1773344700_3851417014187632747_3177028064.jpg --> | [ ] | [x] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1775753616_3871623084554099671_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1775753616_3871623084554099671_3177028064.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1778529916_3894910894805754673_3177028064.jpg)<br><!-- image:../../assets/designers/andreaelias_estudio/instagram/andreaelias_estudio_1778529916_3894910894805754673_3177028064.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Graphic designer and textile artist based in Lleida, Catalonia. Andrea Elias Estudio offers pattern design, illustration, and brand identity services for entrepreneurs and small brands. The practice draws on over 10 years of creative business experience, combining print-ready graphic design with surface pattern production.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a flat, illustration-led aesthetic with botanical and decorative motifs. Work combines graphic clarity with hand-drawn warmth, suited to stationery and product branding applications.
 
 ## Techniques and Tools
 
+Digital illustration and graphic design, developed from a background in logo creation, magazine layout, and cover illustration. Delivers print-ready files; applies patterns to client product ranges as a service.
+
 ## Markets and Clients
+
+Serves entrepreneurs and small brands in Catalonia. Services include brand identity, illustration, and pattern design for products. Selected placement images suggest applications to textile and stationery products.
 
 ## Portfolio and Presence
 
+- Website: andreaeliasestudio.wixsite.com/andreaelias
+- Instagram: @andreaelias_estudio (4,000 followers, 779 posts)
+
 ## Career Path
+
+Worked across graphic design roles including logo creation, magazine layout, and cover illustration before co-founding a family creative business with her mother. Built an independent studio practice alongside the business over approximately 10 years in Lleida.
 
 ## Pattern Focus
 
+Selected patterns suggest botanical and decorative print work created to complement brand identities and product ranges. Pattern design is offered as a service alongside illustration and branding, with motifs drawn from nature and decorative traditions.
+
 ## Connections
+
+- [[Stationery]] — primary product category
+- [[Brand Identity]] — core studio service alongside pattern design

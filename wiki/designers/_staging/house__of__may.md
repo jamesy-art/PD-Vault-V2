@@ -25,7 +25,7 @@ bio: ''
 website: 'https://houseofmay.eu'
 website_about: ''
 accepted: 07/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/house__of__may
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: House of May - Contemporary abstract print design studio
 website_meta_description: >-
   House of May brings bold, abstract print design to interiors, fashion, and
@@ -298,7 +301,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -318,45 +321,161 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/502088966_18073582468924291_7706272535022317973_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG1Ff8qmdYkP8ZzsC_sLWSgSFe-lAaf57I1ZqSZ7EQYeLh1II6n4BndHM9vknZJQbc&_nc_ohc=cg9HLG6ICkUQ7kNvwHqAkH1&_nc_gid=MRZXwvBJOulm3JUXyHv1nQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71uGzSFpYI9cBMnk9d0b6drruGKv0dX51tfDzvXFj_sA&oe=6A13FF51&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/502088966_18073582468924291_7706272535022317973_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG1Ff8qmdYkP8ZzsC_sLWSgSFe-lAaf57I1ZqSZ7EQYeLh1II6n4BndHM9vknZJQbc&_nc_ohc=cg9HLG6ICkUQ7kNvwHqAkH1&_nc_gid=MRZXwvBJOulm3JUXyHv1nQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71uGzSFpYI9cBMnk9d0b6drruGKv0dX51tfDzvXFj_sA&oe=6A13FF51&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/house__of__may/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4525
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/house__of__may/profile/502088966_18073582468924291_7706272535022317973_n.jpg
+instagram_profile_image_bytes: 138110
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/house__of__may/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/house__of__may/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/house__of__may/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/house__of__may/profile/502088966_18073582468924291_7706272535022317973_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/house__of__may/profile/502088966_18073582468924291_7706272535022317973_n.jpg
+profile_image_local: >-
+  ../../assets/designers/house__of__may/profile/502088966_18073582468924291_7706272535022317973_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/house__of__may/profile/502088966_18073582468924291_7706272535022317973_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1640205151_2734561467086119861_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1641063919_2741765334034811117_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1645038197_2775103998924135103_27747676290.webp
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1645733972_2780940582386700797_27747676290.webp
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1673819129_3016535956118308780_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1686032289_3118987342475501106_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725431956_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725571297_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1693372906_3180564924764205945_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1701757489_3250899905700671406_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655665419542_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655674030784_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1708240564_3305283867055831162_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1709018286_3311807869127587195_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1716442182_3374084039651022863_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1723208406_3430843217744674479_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1744782697_3611821505092213091_27747676290.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1640205151_2734561467086119861_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1641063919_2741765334034811117_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1686032289_3118987342475501106_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1701757489_3250899905700671406_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1708240564_3305283867055831162_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1709018286_3311807869127587195_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1716442182_3374084039651022863_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1744782697_3611821505092213091_27747676290.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725431956_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1693372906_3180564924764205945_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655665419542_27747676290.jpg
+  - >-
+    ../../assets/designers/house__of__may/instagram/house__of__may_1723208406_3430843217744674479_27747676290.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # house__of__may
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/house__of__may/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/house__of__may/profile/502088966_18073582468924291_7706272535022317973_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1640205151_2734561467086119861_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1640205151_2734561467086119861_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1641063919_2741765334034811117_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1641063919_2741765334034811117_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1645038197_2775103998924135103_27747676290.webp)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1645038197_2775103998924135103_27747676290.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1645733972_2780940582386700797_27747676290.webp)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1645733972_2780940582386700797_27747676290.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1673819129_3016535956118308780_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1673819129_3016535956118308780_27747676290.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1686032289_3118987342475501106_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1686032289_3118987342475501106_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725431956_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725431956_27747676290.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725571297_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1692215173_3170853152725571297_27747676290.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1693372906_3180564924764205945_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1693372906_3180564924764205945_27747676290.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1701757489_3250899905700671406_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1701757489_3250899905700671406_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655665419542_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655665419542_27747676290.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655674030784_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1706513672_3290797655674030784_27747676290.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1708240564_3305283867055831162_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1708240564_3305283867055831162_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1709018286_3311807869127587195_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1709018286_3311807869127587195_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1716442182_3374084039651022863_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1716442182_3374084039651022863_27747676290.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1723208406_3430843217744674479_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1723208406_3430843217744674479_27747676290.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/house__of__may/instagram/house__of__may_1744782697_3611821505092213091_27747676290.jpg)<br><!-- image:../../assets/designers/house__of__may/instagram/house__of__may_1744782697_3611821505092213091_27747676290.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+House of May is a contemporary abstract print design studio founded by Belgian architect Wendy Scheerlinck. With over 20 years of design and project management experience in hospitality and public buildings, the studio offers licensed prints and patterns, custom design solutions, and full creative and project direction — with particular expertise in hotel and hospitality interior projects.
+
 ## Style and Aesthetic
+
+Selected Instagram images (8 patterns, 4 placements) confirm a bold, high-saturation, abstract aesthetic designed to make spaces and products stand out. The work is graphic and maximalist. Scheerlinck positions herself as a "color addict" and "visual thinker" who rejects generic design. Selected placements suggest application to home textiles, wallpaper, and interior soft furnishings.
 
 ## Techniques and Tools
 
+Digital print design combined with creative and project direction. Architectural background informs spatial thinking and scale sensitivity in pattern application. Sells prints through Spoonflower (25+ fabric types and home décor) and Happywall. Has published editorial content in the Spoonflower blog on developing modern minimalist bedding design collections.
+
 ## Markets and Clients
+
+Primarily targets interior design, home décor, and hospitality markets. Client base includes designers, creative directors, agencies, home décor brands, developers, property managers, and hotel groups. Named testimonials from Angelina Meyer (bedding pairings) and Zaïna De Beer (Alpha Legal Creatives) — both regarding commercial interior and product applications. Creative direction of hotel renovations is a stated specialty.
 
 ## Portfolio and Presence
 
+- Website: https://houseofmay.eu
+- Instagram: @house__of__may
+- Spoonflower shop (25+ fabric and home décor types)
+- Happywall
+
 ## Career Path
+
+Wendy Scheerlinck is an architect by training with over 20 years in hospitality and public building design and project management. She founded House of May as a print design and creative direction studio, channeling spatial and project management expertise into bold, maximalist decorative design for interiors and products.
 
 ## Pattern Focus
 
+Selected patterns (8) suggest bold, graphic, abstract all-overs with maximalist color. Selected placements (4) indicate application to soft furnishings, wallpaper, and interior textiles — consistent with the studio's hospitality and home décor market positioning. The studio operates across licensed stock prints, custom design, and full creative direction.
+
 ## Connections
+
+- [[Abstract Pattern]]
+- [[Home Decor]]
+- [[Hospitality]]
+- [[Interior Design]]
+- [[Spoonflower]]
+- [[Licensing]]
+- [[Belgium]]

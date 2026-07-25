@@ -21,7 +21,7 @@ bio: ''
 website: 'https://simonaferreropattern.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/simona.ferrero_pattern
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Simona Ferrero | Pattern – WordPress Description
 website_meta_description: ''
 website_about_raw: >-
@@ -240,7 +243,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -261,45 +264,161 @@ instagram_profile_pic_url: >-
   https://scontent-msp1-1.cdninstagram.com/v/t51.82787-19/582071650_18047528186677892_9146267286341924041_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNTJ6Usn__XIq9JbH1pTVN6XYkh2SXDdS3EL3VDvOKHUJHHB6YwtZBQ05FHpVr4Ls&_nc_ohc=cZ9xgpZQ6T0Q7kNvwHWCYDo&_nc_gid=Uzn83uDo7JyTsR-yDsbyug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4EFisUfxYMi6jqXmcsk0uAT8nnk-DcQTDUOeORrLAV0Q&oe=6A13E4FB&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-msp1-1.cdninstagram.com/v/t51.82787-19/582071650_18047528186677892_9146267286341924041_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHNTJ6Usn__XIq9JbH1pTVN6XYkh2SXDdS3EL3VDvOKHUJHHB6YwtZBQ05FHpVr4Ls&_nc_ohc=cZ9xgpZQ6T0Q7kNvwHWCYDo&_nc_gid=Uzn83uDo7JyTsR-yDsbyug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4EFisUfxYMi6jqXmcsk0uAT8nnk-DcQTDUOeORrLAV0Q&oe=6A13E4FB&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/simona.ferrero_pattern/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 9420
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/simona.ferrero_pattern/profile/582071650_18047528186677892_9146267286341924041_n.jpg
+instagram_profile_image_bytes: 133925
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/simona.ferrero_pattern/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/simona.ferrero_pattern/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/simona.ferrero_pattern/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/simona.ferrero_pattern/profile/582071650_18047528186677892_9146267286341924041_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/profile/582071650_18047528186677892_9146267286341924041_n.jpg
+profile_image_local: >-
+  ../../assets/designers/simona.ferrero_pattern/profile/582071650_18047528186677892_9146267286341924041_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/simona.ferrero_pattern/profile/582071650_18047528186677892_9146267286341924041_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1639671449_2730084453038194137_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175365076084_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175499304187_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956726510_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956793491_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956910061_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577246004813_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577254323312_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577262730835_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577388620672_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577396996724_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077291376_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077461827_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066303956037_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066304017218_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791308045196_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791316321491_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159115572821_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159291644728_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159291684271_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159308535380_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159308545212_50273205891.webp
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1639671449_2730084453038194137_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175499304187_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956910061_50273205891.jpg
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077291376_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066304017218_50273205891.webp
+  - >-
+    ../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791308045196_50273205891.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # simona.ferrero_pattern
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/simona.ferrero_pattern/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/simona.ferrero_pattern/profile/582071650_18047528186677892_9146267286341924041_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1639671449_2730084453038194137_50273205891.jpg)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1639671449_2730084453038194137_50273205891.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175365076084_50273205891.jpg)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175365076084_50273205891.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175499304187_50273205891.jpg)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1642519684_2753977175499304187_50273205891.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956726510_50273205891.jpg)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956726510_50273205891.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956793491_50273205891.jpg)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956793491_50273205891.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956910061_50273205891.jpg)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1651677717_2830800329956910061_50273205891.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577246004813_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577246004813_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577254323312_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577254323312_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577262730835_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577262730835_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577388620672_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577388620672_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577396996724_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1707736631_3301056577396996724_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077291376_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077291376_50273205891.webp --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077461827_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066077461827_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066303956037_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066303956037_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066304017218_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1734690863_3527165066304017218_50273205891.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791308045196_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791308045196_50273205891.webp --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791316321491_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1748781011_3645361791316321491_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159115572821_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159115572821_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159291644728_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159291644728_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159291684271_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159291684271_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159308535380_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159308535380_50273205891.webp --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159308545212_50273205891.webp)<br><!-- image:../../assets/designers/simona.ferrero_pattern/instagram/simona.ferrero_pattern_1755763500_3703935159308545212_50273205891.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Simona Ferrero is an Italian surface pattern designer based in Turin, creating coordinated pattern collections for licensing across all printable surfaces. Her practice is defined by an emphasis on compositional balance, colour coherence, and the development of internally consistent collection systems.
+
 ## Style and Aesthetic
+
+Collections span organic and geometric registers: Ritmo Pelagico (ocean rhythm), Omo River, Cerchi50 (circles), and Orto Pop (garden) suggest a range from biomorphic natural reference to abstract geometry. Selected Instagram pattern images indicate a strong sense of order and proportion, with colour relationships developed carefully across each coordinated collection.
 
 ## Techniques and Tools
 
+Self-describes her process as drawing, cutting, and composing (disegno, ritaglio, compongo). Studied both basic and advanced surface pattern design at Scuola Internazionale Comics, Turin (from 2020). Prior academic background in Scienze ed Arti della Stampa at Politecnico di Torino. Documents creative process extensively; uses photography as ongoing design research.
+
 ## Markets and Clients
+
+Exclusively licensing-positioned. Website includes a structured licensing inquiry form covering territory, duration, and product type. Open for custom brand collections developed from palette, theme, and end-use briefs. No specific client credits documented.
 
 ## Portfolio and Presence
 
+- Website: https://simonaferreropattern.com
+- Instagram: https://instagram.com/simona.ferrero_pattern
+- LinkedIn: listed
+- Facebook: listed
+
 ## Career Path
+
+Ran a family bookshop for over 20 years after completing her printing and arts degree in Turin. Enrolled in surface pattern design in 2020 at Scuola Internazionale Comics, describing it as "love at first sight." Has since completed both basic and advanced SPD courses. Has participated in weekly drawing and painting groups for over a decade, building observational skills alongside the pattern practice.
 
 ## Pattern Focus
 
+Selected patterns — six chosen from 22 reviewed — suggest coordinated collection work in which each design functions as part of a broader palette and theme system. Website showcases three primary collections with mockup applications. All work is positioned for licensing with no placement images selected.
+
 ## Connections
+
+- [[Italy]]
+- [[Licensing]]
+- [[Geometric pattern]]
+- [[Botanical Pattern]]

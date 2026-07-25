@@ -18,7 +18,7 @@ bio: ''
 website: 'https://danniehughesdesignsa.myportfolio.com/'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/dannie_hughes_design
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'dannie_hughes''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by dannie_hughes for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -229,7 +232,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Hi there! I’m Dannie. I am a new surface pattern designer that fell in love
   with the process of creating and sharing my patterns. Born and raised in
@@ -261,45 +264,209 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/553899294_18297383692252002_9024203256412389527_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHSXgjuK9eSqkMl_E3T-_xOlfhZrZOsY7oW2sDO_ya16F4RdnnVsvNVZD1dvw4QWzQ&_nc_ohc=tYZJWiN81lMQ7kNvwG0K3YB&_nc_gid=SEDhutLJD4gNxCIrcCbmfQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5gMGVZPY4719xfXSymCGeW5pLIiaSQkZMZUqPcirqE3w&oe=6A140079&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/553899294_18297383692252002_9024203256412389527_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHSXgjuK9eSqkMl_E3T-_xOlfhZrZOsY7oW2sDO_ya16F4RdnnVsvNVZD1dvw4QWzQ&_nc_ohc=tYZJWiN81lMQ7kNvwG0K3YB&_nc_gid=SEDhutLJD4gNxCIrcCbmfQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5gMGVZPY4719xfXSymCGeW5pLIiaSQkZMZUqPcirqE3w&oe=6A140079&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/dannie_hughes_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4877
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/dannie_hughes_design/profile/553899294_18297383692252002_9024203256412389527_n.jpg
+instagram_profile_image_bytes: 124313
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/dannie_hughes_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/dannie_hughes_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/dannie_hughes_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/dannie_hughes_design/profile/553899294_18297383692252002_9024203256412389527_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/dannie_hughes_design/profile/553899294_18297383692252002_9024203256412389527_n.jpg
+profile_image_local: >-
+  ../../assets/designers/dannie_hughes_design/profile/553899294_18297383692252002_9024203256412389527_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/dannie_hughes_design/profile/553899294_18297383692252002_9024203256412389527_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142745805759214_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142860654214675_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142979084569255_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143098437677676_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143223411121041_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143344660113601_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987715251525_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987715296383_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987815945336_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988143108055_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988327666369_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988336042881_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988386392042_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1776605922_3878764533061934905_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563079465008093_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563089640330383_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563091561318120_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749735005869674_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749738780743233_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749742639492711_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749743528644925_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749747085442198_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749753142038883_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601109942587975_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601109950962490_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601110512988258_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601111393793959_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041139928743_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041550965404_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041844595172_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041920061788_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042037487072_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042045885235_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042054284825_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042104592615_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042171708426_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042700188016_7560356001.jpg
+instagram_image_count: 37
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142745805759214_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143098437677676_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143344660113601_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987815945336_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988143108055_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563079465008093_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749735005869674_7560356001.jpg
+  - >-
+    ../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601110512988258_7560356001.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # dannie_hughes_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/dannie_hughes_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/dannie_hughes_design/profile/553899294_18297383692252002_9024203256412389527_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142745805759214_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142745805759214_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142860654214675_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142860654214675_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142979084569255_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802142979084569255_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143098437677676_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143098437677676_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143223411121041_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143223411121041_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143344660113601_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1767470855_3802143344660113601_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987715251525_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987715251525_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987715296383_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987715296383_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987815945336_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664987815945336_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988143108055_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988143108055_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988327666369_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988327666369_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988336042881_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988336042881_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988386392042_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1769678780_3820664988386392042_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1776605922_3878764533061934905_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1776605922_3878764533061934905_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563079465008093_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563079465008093_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563089640330383_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563089640330383_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563091561318120_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777057974_3882563091561318120_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749735005869674_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749735005869674_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749738780743233_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749738780743233_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749742639492711_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749742639492711_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749743528644925_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749743528644925_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749747085442198_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749747085442198_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749753142038883_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777199676_3883749753142038883_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601109942587975_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601109942587975_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601109950962490_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601109950962490_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601110512988258_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601110512988258_7560356001.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601111393793959_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777658188_3887601111393793959_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041139928743_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041139928743_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041550965404_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041550965404_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041844595172_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041844595172_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041920061788_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552041920061788_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042037487072_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042037487072_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042045885235_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042045885235_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042054284825_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042054284825_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042104592615_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042104592615_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042171708426_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042171708426_7560356001.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042700188016_7560356001.jpg)<br><!-- image:../../assets/designers/dannie_hughes_design/instagram/dannie_hughes_design_1777890757_3889552042700188016_7560356001.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Daniela Hughes, known as Dannie, is a self-taught surface pattern designer based in the South African Midlands. Originally from Germany, she spent 20 years working as a veterinarian before pivoting to pattern design. Her commercial work is available through [[Spoonflower]], where she maintains a substantial catalogue of over 668 fabric and 622 wallpaper designs.
+
 ## Style and Aesthetic
+
+Dannie's aesthetic is joyful, colourful, and energetic. Her catalogue spans florals, butterflies, gingham checks, polka dots, retro geometric patterns, cottage core motifs, Scandinavian floral fields, and tropical themes. Selected Instagram patterns suggest bold, clear repeat structures with strong colour contrast and playful motif variety — designed to be uplifting and accessible.
 
 ## Techniques and Tools
 
+Self-taught digital pattern designer. Specific tools not documented publicly, but her Spoonflower output reflects a proficient digital repeat workflow.
+
 ## Markets and Clients
+
+Print-on-demand via [[Spoonflower]] — custom fabric and wallpaper available to consumers. Her broad catalogue suits children's, home, and novelty apparel categories. Colour and scale changes available on request.
 
 ## Portfolio and Presence
 
+- Website: https://danniehughesdesignsa.myportfolio.com/
+- Instagram: https://instagram.com/dannie_hughes_design
+- Shop: [[Spoonflower]]
+
 ## Career Path
+
+Born and raised in Germany, Daniela spent 21 years living in the South African Midlands with her husband, two sons, and animals. After a 20-year career as a veterinarian, she turned to pattern design as a second creative practice, teaching herself drawing and repeat structures over approximately two years. She has built a large Spoonflower catalogue in that time.
 
 ## Pattern Focus
 
+Florals, butterflies, gingham, polka dots, retro geometric, Scandinavian florals, cottage core, and tropical prints. Selected Instagram patterns suggest bright, structured all-over repeats with high colour saturation and joyful character.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Print-on-Demand Market]]
+- [[Floral Patterns]]
+- [[Geometric Pattern]]

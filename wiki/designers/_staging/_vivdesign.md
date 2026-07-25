@@ -464,5 +464,5 @@ Selected patterns suggest whimsical animals in tropical or nature-themed setting
 - [[Spoonflower]]
 - [[Uppercase Magazine]]
 - [[Origin Magazine]]
-- [[Tropical Pattern]]
+- [[Tropical Pattern 5]]
 - [[Animal Pattern]]

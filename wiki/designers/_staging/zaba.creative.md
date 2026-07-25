@@ -22,12 +22,12 @@ skills:
 country: United States
 can_use: 'Yes'
 instagram_handle: zaba.creative
-instagram: 'https://instagram.com/@zaba.creative'
+instagram: 'https://instagram.com/zaba.creative'
 bio: ''
 website: 'https://zabacreative.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/zaba.creative
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Zaba Creative
 website_meta_description: ''
 website_about_raw: >-
@@ -212,7 +215,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -229,45 +232,213 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/640980085_17998089227883487_1267003401820095591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFRiDkRtoOA1eo_fc9zMjBF-ZnunNkxJU_oPkcKyLoEHI1npX28MMkMC4Zc5RIywr8&_nc_ohc=IwG-wL9dpMMQ7kNvwGdX2cW&_nc_gid=TS-8pLPfpnJyjKcEq0r_4Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7IpwWX0TRJ3J06FTMt1xep_jr9ppqSi5LayzrF1O66aQ&oe=6A13F6FE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/640980085_17998089227883487_1267003401820095591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFRiDkRtoOA1eo_fc9zMjBF-ZnunNkxJU_oPkcKyLoEHI1npX28MMkMC4Zc5RIywr8&_nc_ohc=IwG-wL9dpMMQ7kNvwGdX2cW&_nc_gid=TS-8pLPfpnJyjKcEq0r_4Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7IpwWX0TRJ3J06FTMt1xep_jr9ppqSi5LayzrF1O66aQ&oe=6A13F6FE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6558
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/zaba.creative/profile/640980085_17998089227883487_1267003401820095591_n.jpg
+instagram_profile_image_bytes: 39776
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/zaba.creative/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/zaba.creative/profile/640980085_17998089227883487_1267003401820095591_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/zaba.creative/profile/640980085_17998089227883487_1267003401820095591_n.jpg
+profile_image_local: >-
+  ../../assets/designers/zaba.creative/profile/640980085_17998089227883487_1267003401820095591_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/zaba.creative/profile/640980085_17998089227883487_1267003401820095591_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072000550745_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072042402297_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072067744798_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620917168154_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620917175968_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620933981174_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620950749605_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234522703845_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234547824617_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234606514105_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985508684482_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701538127_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701603510_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709976201_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709998594_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212689996725233_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690038570942_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690080615883_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690080672445_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690131076745_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460354583153_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460362967638_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460513966165_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460614616900_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213155830664_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213273219567_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213281665825_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213491343284_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101009178467_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101076276095_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101185379799_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590016358667_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590024702808_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590033095392_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590041511799_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242200978844_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242226143537_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242226161500_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242477854180_56536011486.jpg
+instagram_image_count: 39
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072042402297_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620933981174_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620950749605_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234522703845_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234606514105_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701538127_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709976201_56536011486.jpg
+  - >-
+    ../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460513966165_56536011486.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # zaba.creative
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/zaba.creative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/zaba.creative/profile/640980085_17998089227883487_1267003401820095591_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072000550745_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072000550745_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072042402297_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072042402297_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072067744798_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737197400_3546177072067744798_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620917168154_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620917168154_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620917175968_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620917175968_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620933981174_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620933981174_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620950749605_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1737802500_3552960620950749605_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234522703845_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234522703845_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234547824617_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234547824617_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234606514105_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1739012100_3563044234606514105_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985508684482_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985508684482_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701538127_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701538127_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701603510_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985701603510_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709976201_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709976201_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709998594_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1745663830_3619212985709998594_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212689996725233_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212689996725233_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690038570942_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690038570942_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690080615883_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690080615883_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690080672445_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690080672445_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690131076745_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1748688300_3644212690131076745_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460354583153_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460354583153_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460362967638_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460362967638_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460513966165_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460513966165_56536011486.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460614616900_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1757759400_3719512460614616900_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213155830664_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213155830664_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213273219567_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213273219567_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213281665825_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213281665825_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213491343284_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1758364200_3724559213491343284_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101009178467_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101009178467_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101076276095_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101076276095_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101185379799_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1765938602_3789290101185379799_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590016358667_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590016358667_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590024702808_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590024702808_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590033095392_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590033095392_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590041511799_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1768649100_3811693590041511799_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242200978844_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242200978844_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242226143537_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242226143537_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242226161500_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242226161500_56536011486.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242477854180_56536011486.jpg)<br><!-- image:../../assets/designers/zaba.creative/instagram/zaba.creative_1771065900_3831910242477854180_56536011486.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ursula McCarthy is a US-based surface pattern designer and illustrator operating under the studio name Zaba Creative. After years designing for major consumer brands, she founded Zaba Creative to focus on nature-inspired, heritage-rooted pattern collections for licensing. Licensing partnerships with retailers and brands are the studio's primary commercial route.
+
 ## Style and Aesthetic
+
+Bold, colourful patterns rooted in nature, place, and personal history are central to the studio's identity. Selected Instagram images suggest florals, organic motifs, and structured all-over repeat work in warm, inviting palettes. The Adirondacks and Saint Lawrence River landscape are cited as ongoing inspiration sources.
 
 ## Techniques and Tools
 
+Declared skills include illustration, pattern design, colour theory, and composition. Earlier brand-design work for Estée Lauder and Procter & Gamble suggests strong production-standard file output. Current work appears digitally produced.
+
 ## Markets and Clients
+
+Licensing for wholesale and direct-to-consumer brands is the studio's current focus. Pre-studio clients include Ben & Jerry's, Burton Snowboards, Estée Lauder, Procter & Gamble, Northland Communications, and higher-education institutions.
 
 ## Portfolio and Presence
 
+- Website: https://zabacreative.com
+- Instagram: https://instagram.com/zaba.creative
+
 ## Career Path
+
+Prior to Zaba Creative, McCarthy worked as a brand designer for major consumer-facing companies. The studio name references "Zaba" — Polish for "frog" — as a nod to her heritage. Based in the United States, with the Adirondacks and Saint Lawrence River as documented landscape references.
 
 ## Pattern Focus
 
+Selected patterns suggest nature-inspired collections with structured repeat formats: organic motifs, botanical forms, and seasonal palettes. Work is positioned across home goods, lifestyle licensing, and brand collaboration.
+
 ## Connections
+
+- [[Licensing]] — primary commercial model
+- [[Nature]] — stated creative inspiration
+- [[United States]] — studio base

@@ -24,7 +24,7 @@ bio: ''
 website: 'https://deinki.com'
 website_about: ''
 accepted: 04/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/deinki_com
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Welcome
 website_meta_description: >-
   Custom Pattern Collections for Brands | Development of Baby & Kids Fashion
@@ -277,7 +280,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -297,45 +300,167 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/320631392_3214247658887388_1629221367620257478_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH72iEZo58oxuP8YYrN58MepG7H78gEuKkvvzyD1Dm46uIHcMST03-0LLH6jIQF2qs&_nc_ohc=-fhu6wq8ywQQ7kNvwFX5nN7&_nc_gid=icEsNUEXdnbG5Mg1KXEiSw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af44ZxJ69Sww8yjoeRTxTJiNniNPjsdkES7ye3yRPmCwfw&oe=6A13F134&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/320631392_3214247658887388_1629221367620257478_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH72iEZo58oxuP8YYrN58MepG7H78gEuKkvvzyD1Dm46uIHcMST03-0LLH6jIQF2qs&_nc_ohc=-fhu6wq8ywQQ7kNvwFX5nN7&_nc_gid=icEsNUEXdnbG5Mg1KXEiSw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af44ZxJ69Sww8yjoeRTxTJiNniNPjsdkES7ye3yRPmCwfw&oe=6A13F134&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/deinki_com/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4063
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/deinki_com/profile/320631392_3214247658887388_1629221367620257478_n.jpg
+instagram_profile_image_bytes: 119236
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/deinki_com/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/deinki_com/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/deinki_com/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/deinki_com/profile/320631392_3214247658887388_1629221367620257478_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/deinki_com/profile/320631392_3214247658887388_1629221367620257478_n.jpg
+profile_image_local: >-
+  ../../assets/designers/deinki_com/profile/320631392_3214247658887388_1629221367620257478_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/deinki_com/profile/320631392_3214247658887388_1629221367620257478_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988161115329_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988286958997_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988295387174_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405438226_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405460351_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080438999278_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1769783976_3821546841272284909_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333002551268_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333925318945_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765413044005_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765421409739_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088280889672114_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088281787280846_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773420659_3852054121205762221_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773420659_3852054121356727047_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619753310477762_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619755122381695_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786918651082657_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786919263438665_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786920102284694_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1775228755_3867220541556173594_9374687418.jpg
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988161115329_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405438226_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333002551268_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765413044005_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088280889672114_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088281787280846_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619753310477762_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786920102284694_9374687418.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1769783976_3821546841272284909_9374687418.jpg
+  - >-
+    ../../assets/designers/deinki_com/instagram/deinki_com_1775228755_3867220541556173594_9374687418.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # deinki_com
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/deinki_com/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/deinki_com/profile/320631392_3214247658887388_1629221367620257478_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988161115329_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988161115329_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988286958997_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988286958997_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988295387174_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1765830943_3788386988295387174_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405438226_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405438226_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405460351_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080405460351_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080438999278_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1766768654_3796253080438999278_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1769783976_3821546841272284909_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1769783976_3821546841272284909_9374687418.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333002551268_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333002551268_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333925318945_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1770224634_3825243333925318945_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765413044005_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765413044005_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765421409739_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1770995241_3831707765421409739_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088280889672114_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088280889672114_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088281787280846_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1773067149_3849088281787280846_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1773420659_3852054121205762221_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1773420659_3852054121205762221_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1773420659_3852054121356727047_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1773420659_3852054121356727047_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619753310477762_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619753310477762_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619755122381695_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1773845784_3855619755122381695_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786918651082657_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786918651082657_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786919263438665_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786919263438665_9374687418.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786920102284694_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1775057809_3865786920102284694_9374687418.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/deinki_com/instagram/deinki_com_1775228755_3867220541556173594_9374687418.jpg)<br><!-- image:../../assets/designers/deinki_com/instagram/deinki_com_1775228755_3867220541556173594_9374687418.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Lucia Sanguinetti-Jonescheit is a Germany-based fashion and surface pattern designer with over 15 years of industry experience. She is the founder of Deinki Studio, which licenses patterns worldwide and offers custom design services to brands, textile studios, and individual clients. The studio name is a play on the German "Dein Kind" (your child), reflecting its primary focus on baby, kids, and family lifestyle markets.
+
 ## Style and Aesthetic
+
+Whimsical, colourful, and sophisticated — combining playfulness with design intelligence. Inspired by nature, dreams, and memories. Selected Instagram patterns suggest strong colour work and clean motif construction suited to kids and lifestyle product categories. Studio tagline: "Patterns with soul for the young-at-heart."
 
 ## Techniques and Tools
 
+Works with a mix of analogue and digital tools. Formal training in fashion design at the University of Buenos Aires, supplemented by an exchange programme at the University of Applied Sciences in Berlin. Early career at a design agency in Hamburg. Services include custom pattern collections, a licensable pattern catalogue, fashion design, and commissions.
+
 ## Markets and Clients
+
+Baby and kids fashion (primary), women's fashion, home interiors, stationery, and packaging. Licenses patterns worldwide; works as remote freelance designer for various brands and textile studios. Documented industry presence: new designer presentation at Lillestoff GmbH (Germany), featured in Print & Pattern Blog (Bowie Style), Creative Howl Designer Directory, and Surface Design News. Published in "The Solopreneur's Guide to Surface Pattern Design" by Telva E. Chase (2025) and "Freelancing in Fashion" by SewHeidi (2022). Selected placement images suggest kidswear product applications.
 
 ## Portfolio and Presence
 
+- Website: https://deinki.com
+- Instagram: https://instagram.com/deinki_com (10,609 followers, 2,186 posts)
+- Spoonflower (documented — wall hanging featured August 2022)
+
 ## Career Path
+
+Grew up surrounded by Pantone catalogs and fabric swatches from her father's work in the textile industry. Studied fashion design at the University of Buenos Aires, emigrated from Argentina to Germany, completed an exchange programme in Berlin, then worked at a Hamburg design agency. Founded Deinki Studio to offer specialised and distinctive prints to clients worldwide. Mother of two, with family life directly informing the studio's market positioning.
 
 ## Pattern Focus
 
+Whimsical, colour-led patterns with a young-at-heart sensibility. Selected Instagram images suggest strong, production-ready motif work across multiple colourways. Applications span apparel, home interiors, stationery, and packaging — with kids and baby fashion as the core commercial direction.
+
 ## Connections
+
+- [[Spoonflower]] — documented platform presence
+- [[Kidswear]] — primary market
+- [[Home Decor]] — secondary market
+- [[Stationery]] — secondary market
+- [[Germany]] — based
+- [[Lillestoff]] — industry presentation

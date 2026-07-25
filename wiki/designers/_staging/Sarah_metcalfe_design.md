@@ -20,7 +20,7 @@ bio: ''
 website: 'https://sarahmetcalfedesign.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/sarah_metcalfe_design
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Sarah Metcalfe Design
 website_meta_description: ''
 website_about_raw: >-
@@ -156,8 +159,28 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  About me
+
+  Since studying Textile Design at West Surrey College of Art and Design in
+  Farnham (later the UCA), I have been designing and creating for over 30 years,
+  primarily within the world of fashion and textiles.
+
+
+  I work from my cottage on the Surrey and Hampshire border, where I live with
+  my husband and two boys.
+
+
+  My studio used to be full of silk screens and fabric dyes, but for many years
+  now I have created my designs digitally. I still love that handpainted feel
+  only a paintbrush can achieve and try to paint something new every day.
+
+
+  My textile designs have been featured on a huge range of products, from
+  womenswear to childrenswear, curtains to bedding, umbrellas to giftware. I
+  create bespoke scarves and card ranges, and also run creative workshops for
+  adults and children.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -178,45 +201,110 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/615345880_18551739265001416_8280243816405661260_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFnkgo83ORRQrYDzcXyZ1sOB87LLK2iRBjWOEd6tR5zuN38c7bso1XYOkZmQJBkn20&_nc_ohc=m6bCd_81DBIQ7kNvwFQVC5z&_nc_gid=Nel_zDMKBxjEeiHhA_r4Qg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Y4KYnu8uhTkra-5I1IRwgTQeEZM2x_0FgO1OjcKt8yA&oe=6A13F435&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/615345880_18551739265001416_8280243816405661260_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFnkgo83ORRQrYDzcXyZ1sOB87LLK2iRBjWOEd6tR5zuN38c7bso1XYOkZmQJBkn20&_nc_ohc=m6bCd_81DBIQ7kNvwFQVC5z&_nc_gid=Nel_zDMKBxjEeiHhA_r4Qg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Y4KYnu8uhTkra-5I1IRwgTQeEZM2x_0FgO1OjcKt8yA&oe=6A13F435&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/sarah_metcalfe_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6672
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/sarah_metcalfe_design/profile/615345880_18551739265001416_8280243816405661260_n.jpg
+instagram_profile_image_bytes: 178041
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/sarah_metcalfe_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/sarah_metcalfe_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/sarah_metcalfe_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/sarah_metcalfe_design/profile/615345880_18551739265001416_8280243816405661260_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/profile/615345880_18551739265001416_8280243816405661260_n.jpg
+profile_image_local: >-
+  ../../assets/designers/sarah_metcalfe_design/profile/615345880_18551739265001416_8280243816405661260_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/sarah_metcalfe_design/profile/615345880_18551739265001416_8280243816405661260_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_1746020068_3622201326922414586_186177415.jpg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_15_623496088_18554475172001416_2476471833290308877_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_18_481587512_18489744286001416_1642749659295872257_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_34_476663838_18486918325001416_4401030950281859427_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_46_542808600_18526313506001416_6040333185632980324_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_49_541663357_18525458518001416_3273720224715003536_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_51_474234933_18483170698001416_7339720452815673586_n.jpeg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_15_623496088_18554475172001416_2476471833290308877_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_18_481587512_18489744286001416_1642749659295872257_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_34_476663838_18486918325001416_4401030950281859427_n.jpeg
+  - >-
+    ../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_46_542808600_18526313506001416_6040333185632980324_n.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # sarah_metcalfe_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sarah_metcalfe_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/sarah_metcalfe_design/profile/615345880_18551739265001416_8280243816405661260_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_1746020068_3622201326922414586_186177415.jpg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_1746020068_3622201326922414586_186177415.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_15_623496088_18554475172001416_2476471833290308877_n.jpeg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_15_623496088_18554475172001416_2476471833290308877_n.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_18_481587512_18489744286001416_1642749659295872257_n.jpeg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_18_481587512_18489744286001416_1642749659295872257_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_34_476663838_18486918325001416_4401030950281859427_n.jpeg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_34_476663838_18486918325001416_4401030950281859427_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_46_542808600_18526313506001416_6040333185632980324_n.jpeg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_46_542808600_18526313506001416_6040333185632980324_n.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_49_541663357_18525458518001416_3273720224715003536_n.jpeg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_49_541663357_18525458518001416_3273720224715003536_n.jpeg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_51_474234933_18483170698001416_7339720452815673586_n.jpeg)<br><!-- image:../../assets/designers/sarah_metcalfe_design/instagram/sarah_metcalfe_design_imageye___-_imgi_51_474234933_18483170698001416_7339720452815673586_n.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sarah Metcalfe is a UK-based textile designer and illustrator with over 30 years of professional experience in fashion and textiles. She studied Textile Design at West Surrey College of Art and Design (later the UCA, Farnham) and works from a home studio on the Surrey and Hampshire border. Her designs have appeared across womenswear, childrenswear, furnishings, and giftware. She also teaches art and runs creative workshops.
+
 ## Style and Aesthetic
+
+Trend-led textile design with a handpainted warmth. Selected Instagram images suggest botanical and decorative floral patterns with a painterly, organic quality — commercial in range but retaining the character of hand-made marks. Her practice spans "Fashion, Furnishing, Illustration" per her Instagram bio.
 
 ## Techniques and Tools
 
+Digital design, transitioned from a physical studio practice that once included silk screens and fabric dyes. Maintains a daily hand-painting habit to preserve the brushwork quality she values. Delivers designs digitally across all product categories.
+
 ## Markets and Clients
+
+Womenswear, childrenswear, furnishings (curtains, bedding), and giftware (umbrellas, scarves, greeting cards). Bespoke design requests accommodated. Also teaches art at HSDC and Seasons Art, and runs creative workshops for adults and children.
 
 ## Portfolio and Presence
 
+- Website: sarahmetcalfedesign.com
+- Instagram: @Sarah_metcalfe_design (1,601 followers)
+
 ## Career Path
+
+Studied Textile Design at West Surrey College of Art and Design (later the UCA). Over 30 years designing for fashion and textiles. Transitioned from silk screen studio practice to digital design. Also teaches art at HSDC and Seasons Art, and runs independent creative workshops for adults and children.
 
 ## Pattern Focus
 
+Selected Instagram images suggest detailed botanical and floral repeat patterns with a painterly, handcrafted quality. Trend-aware output suited to womenswear, kidswear, and home furnishing markets. Work spans both seasonal fashion and perennial furnishing applications.
+
 ## Connections
+
+- [[womenswear]] — primary market
+- [[kidswear]] — market
+- [[home decor]] — furnishings market
+- [[UCA]] — textile design education

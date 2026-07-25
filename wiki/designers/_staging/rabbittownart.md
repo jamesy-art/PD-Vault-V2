@@ -22,7 +22,7 @@ bio: ''
 website: 'https://rabbittownanimator.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/rabbittownart
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Rabbit Town Art
 website_meta_description: >-
   Art diary of Australian Illustrator and Animator Marta Tesoro / Rabbit Town
@@ -245,7 +248,7 @@ open_to:
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -264,45 +267,377 @@ instagram_profile_pic_url: >-
   https://instagram.ftpa1-2.fna.fbcdn.net/v/t51.2885-19/130928043_396388701578238_5662190117118613741_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNDYuYzIifQ&_nc_ht=instagram.ftpa1-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGaNOdfOR_vafH53MJhf_d_vkUc9PHrkyqbApboVUaGXXRsWhu7spjVyc4v0CmxAxKkC0FgjWKsGt4LSq4ZTX5T&_nc_ohc=PzPNKihMnA0Q7kNvwGMroN_&_nc_gid=4xCv3n-4qwLOjUzFAjnQ9w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uYU5XjCGqUoE2_MAGvFhUXyttZPMABbobxUZ5IKM9jQ&oe=6A13D77C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.ftpa1-2.fna.fbcdn.net/v/t51.2885-19/130928043_396388701578238_5662190117118613741_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNDYuYzIifQ&_nc_ht=instagram.ftpa1-2.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gGaNOdfOR_vafH53MJhf_d_vkUc9PHrkyqbApboVUaGXXRsWhu7spjVyc4v0CmxAxKkC0FgjWKsGt4LSq4ZTX5T&_nc_ohc=PzPNKihMnA0Q7kNvwGMroN_&_nc_gid=4xCv3n-4qwLOjUzFAjnQ9w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uYU5XjCGqUoE2_MAGvFhUXyttZPMABbobxUZ5IKM9jQ&oe=6A13D77C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/rabbittownart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3326
+instagram_profile_image_local: >-
+  ../../assets/designers/rabbittownart/profile/130928043_396388701578238_5662190117118613741_n.jpg
+instagram_profile_image_bytes: 10176
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/rabbittownart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/rabbittownart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/rabbittownart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/rabbittownart/profile/130928043_396388701578238_5662190117118613741_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/rabbittownart/profile/130928043_396388701578238_5662190117118613741_n.jpg
+profile_image_local: >-
+  ../../assets/designers/rabbittownart/profile/130928043_396388701578238_5662190117118613741_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/rabbittownart/profile/130928043_396388701578238_5662190117118613741_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874540953423627_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874540961904078_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541062596788_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541071023536_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743478644018_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743654732763_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743663309105_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908641455376_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908650033815_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908775887619_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585477949956453_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478075997454_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478159821290_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478361033617_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697641172108_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649566112_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649652345_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649696432_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697783735903_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697968513633_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069331536440_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339772977_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339814772_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339869048_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069457216051_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069465799957_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069616744643_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069616849101_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483433855852_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483433883304_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442300617_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442307143_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442394177_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442452105_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442452395_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450683927_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450766404_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483559734856_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483710683399_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483735984484_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483736072894_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483744334276_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187257435098_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187265689488_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187425057920_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187458663882_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993679295417_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993939263726_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993947730178_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993956100755_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112536080_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112558874_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870146000754_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246561607_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246604486_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246742034_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870406150178_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870447869448_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745667542_3619244128216910152_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745667542_3619244128225200014_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128225438731_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128502044747_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807144017021_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807152581201_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807152608312_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807160898138_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807269977146_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807270009151_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807429372120_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807437715132_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747138266_3631581447561229969_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747138266_3631581447729004848_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350482367980_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350490872763_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350608412626_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350616596497_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350616754074_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350784395762_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840814618381_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840822851336_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840822858542_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509015381663_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509023784580_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509023910286_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509149672902_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1749390176_3650471840956648774_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700376301399098_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700377702264626_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700378801188128_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700379447103786_1282193196.jpg
+instagram_image_count: 90
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585477949956453_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649652345_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339814772_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450683927_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187257435098_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993679295417_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112536080_1282193196.jpg
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128502044747_1282193196.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541062596788_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743478644018_1282193196.webp
+  - >-
+    ../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908641455376_1282193196.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # rabbittownart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rabbittownart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/rabbittownart/profile/130928043_396388701578238_5662190117118613741_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874540953423627_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874540953423627_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874540961904078_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874540961904078_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541062596788_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541062596788_1282193196.webp --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541071023536_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728338137_3473874541071023536_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743478644018_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743478644018_1282193196.webp --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743654732763_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743654732763_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743663309105_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1728639165_3476399743663309105_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908641455376_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908641455376_1282193196.webp --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908650033815_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908650033815_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908775887619_1282193196.webp)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1730370819_3490925908775887619_1282193196.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585477949956453_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585477949956453_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478075997454_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478075997454_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478159821290_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478159821290_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478361033617_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1741774328_3586585478361033617_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697641172108_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697641172108_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649566112_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649566112_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649652345_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649652345_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649696432_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697649696432_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697783735903_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697783735903_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697968513633_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1742885862_3595909697968513633_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069331536440_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069331536440_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339772977_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339772977_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339814772_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339814772_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339869048_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069339869048_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069457216051_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069457216051_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069465799957_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069465799957_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069616744643_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069616744643_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069616849101_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743154365_3598162069616849101_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483433855852_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483433855852_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483433883304_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483433883304_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442300617_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442300617_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442307143_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442307143_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442394177_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442394177_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442452105_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442452105_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442452395_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483442452395_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450683927_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450683927_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450766404_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483450766404_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483559734856_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483559734856_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483710683399_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483710683399_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483735984484_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483735984484_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483736072894_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483736072894_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483744334276_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1743327387_3599613483744334276_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187257435098_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187257435098_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187265689488_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187265689488_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187425057920_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187425057920_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187458663882_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744193169_3606876187458663882_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993679295417_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993679295417_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993939263726_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993939263726_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993947730178_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993947730178_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993956100755_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1744624326_3610492993956100755_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112536080_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112536080_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112558874_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870112558874_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870146000754_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870146000754_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246561607_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246561607_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246604486_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246604486_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246742034_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870246742034_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870406150178_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870406150178_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870447869448_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745109016_3614558870447869448_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745667542_3619244128216910152_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745667542_3619244128216910152_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745667542_3619244128225200014_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745667542_3619244128225200014_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128225438731_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128225438731_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128502044747_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1745667543_3619244128502044747_1282193196.jpg --> | [x] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807144017021_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807144017021_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807152581201_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807152581201_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807152608312_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807152608312_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807160898138_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807160898138_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 67<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807269977146_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807269977146_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 68<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807270009151_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807270009151_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 69<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807429372120_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807429372120_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 70<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807437715132_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1746355819_3625017807437715132_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 71<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747138266_3631581447561229969_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747138266_3631581447561229969_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 72<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747138266_3631581447729004848_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747138266_3631581447729004848_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 73<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350482367980_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350482367980_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 74<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350490872763_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350490872763_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 75<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350608412626_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350608412626_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 76<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350616596497_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350616596497_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 77<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350616754074_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350616754074_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 78<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350784395762_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1747648231_3635859350784395762_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 79<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840814618381_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840814618381_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 80<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840822851336_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840822851336_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 81<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840822858542_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748172334_3640255840822858542_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 82<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509015381663_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509015381663_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 83<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509023784580_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509023784580_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 84<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509023910286_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509023910286_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 85<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509149672902_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1748424064_3642367509149672902_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 86<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1749390176_3650471840956648774_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1749390176_3650471840956648774_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 87<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700376301399098_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700376301399098_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 88<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700377702264626_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700377702264626_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 89<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700378801188128_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700378801188128_1282193196.jpg --> | [ ] | [ ] | [ ] |
+| 90<br>![pd-review\|180](../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700379447103786_1282193196.jpg)<br><!-- image:../../assets/designers/rabbittownart/instagram/rabbittownart_1770517913_3827700379447103786_1282193196.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marta Tesoro (Rabbit Town Art) is an Australian illustrator and 2D animator with 20+ years of industry experience. She creates animation, illustration, and surface design for children's media, publishing, and commercial projects. Her illustrated subject range spans animals, food, plants, skulls, and decorative patterns — eclectic and character-rich across the board.
+
 ## Style and Aesthetic
+
+Character-driven, playful, and eclectically themed. Instagram biography: "draws animals, food, plants and skulls, patterns, anything goes." Selected pattern images suggest confident, bounded illustration applied to surface-ready layouts — including animal characters, botanical compositions, and decorative print structures. Work spans deliberate variety rather than a constrained aesthetic lane, consistent with a professional illustrator-for-hire positioning.
 
 ## Techniques and Tools
 
+Digital illustration (documented: 4 detailed digital illustrations produced in 2 weeks for an educational client, 2026). Also practices urban sketching and life drawing. Maintains a separate account @fuzzypudgies alongside Rabbit Town Art. Maintains an art diary blog at rabbittownanimator.com documenting ongoing work and process.
+
 ## Markets and Clients
+
+Children's media, educational publishing, and commercial illustration. Documented 2026 commissions: educational company (4 digital illustrations), sea life commission. Open to freelance and commissions. Previously associated with Squishface Studio (Brisbane collage/mixed-media community, 2013–2015).
 
 ## Portfolio and Presence
 
+- Website: rabbittownanimator.com
+- Instagram: @rabbittownart (1,337 followers, 1,734 posts)
+- Additional account: @fuzzypudgies
+- Contact: marta.tesoro@rabbittownanimator.com
+
 ## Career Path
+
+Australian-based. 20+ years as freelance animator and illustrator across children's media, educational publishing, and commercial projects. Maintains an active art practice documented through a blog and regular Instagram posts. Applied to patterndesigners.com in March 2023; accepted September 2024.
 
 ## Pattern Focus
 
+Animal, botanical, and character illustration adapted to surface pattern contexts. Selected pattern images suggest distinct, bounded motif work with strong thematic coherence within each illustrated set. Selected placements indicate application to fabric/textile contexts. Style is illustration-first, with repeat pattern as a service extension of a broader illustration practice.
+
 ## Connections
+
+- [[Children's Media]]
+- [[Illustration]]
+- [[Animation]]
+- [[Surface Pattern Design]]
+- [[Australia]]
+- [[Educational Publishing]]

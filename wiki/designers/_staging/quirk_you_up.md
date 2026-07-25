@@ -22,7 +22,7 @@ bio: ''
 website: 'https://krishnamuraleedharan.com'
 website_about: ''
 accepted: 02/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/quirk_you_up
 profile_url: ''
 instagram_images:
@@ -39,8 +39,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Quirkyouup Designs | Unique and Creative Artwork
 website_meta_description: ''
 website_about_raw: >-
@@ -239,7 +242,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -267,31 +270,113 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_243_0ed943_0b9e895a50d84f2285911bdf0d47a5fc~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_258_0ed943_7bf26bb51d7442e9aff1b40803e3b6c1~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_267_0ed943_171966bb1dd04effab3a70438a608d0c~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_270_0ed943_16a97748e4954729843d1f9d4d981fb4~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_273_0ed943_00fff880501647a0b72bb0ec9bc01183~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_276_0ed943_9010b40cb3c14dcd98ee5148ba19eaf1~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_282_0ed943_d780db08a59347b9985a4b5ca8baaa38~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_285_0ed943_731fb59547cd45bca4bff98116c67727~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_294_0ed943_de94e5e97afd4c8c9dd535e569105d3e~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_297_0ed943_9215a1bebb3e4d5094fb739868e16241~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_300_0ed943_9bb2980e45df4b48aa08f7bed84a734e~mv2.jpeg
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_243_0ed943_0b9e895a50d84f2285911bdf0d47a5fc~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_258_0ed943_7bf26bb51d7442e9aff1b40803e3b6c1~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_267_0ed943_171966bb1dd04effab3a70438a608d0c~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_270_0ed943_16a97748e4954729843d1f9d4d981fb4~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_273_0ed943_00fff880501647a0b72bb0ec9bc01183~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_276_0ed943_9010b40cb3c14dcd98ee5148ba19eaf1~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_282_0ed943_d780db08a59347b9985a4b5ca8baaa38~mv2.jpeg
+  - >-
+    ../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_294_0ed943_de94e5e97afd4c8c9dd535e569105d3e~mv2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # quirk_you_up
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_243_0ed943_0b9e895a50d84f2285911bdf0d47a5fc~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_243_0ed943_0b9e895a50d84f2285911bdf0d47a5fc~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_258_0ed943_7bf26bb51d7442e9aff1b40803e3b6c1~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_258_0ed943_7bf26bb51d7442e9aff1b40803e3b6c1~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_267_0ed943_171966bb1dd04effab3a70438a608d0c~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_267_0ed943_171966bb1dd04effab3a70438a608d0c~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_270_0ed943_16a97748e4954729843d1f9d4d981fb4~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_270_0ed943_16a97748e4954729843d1f9d4d981fb4~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_273_0ed943_00fff880501647a0b72bb0ec9bc01183~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_273_0ed943_00fff880501647a0b72bb0ec9bc01183~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_276_0ed943_9010b40cb3c14dcd98ee5148ba19eaf1~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_276_0ed943_9010b40cb3c14dcd98ee5148ba19eaf1~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_282_0ed943_d780db08a59347b9985a4b5ca8baaa38~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_282_0ed943_d780db08a59347b9985a4b5ca8baaa38~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_285_0ed943_731fb59547cd45bca4bff98116c67727~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_285_0ed943_731fb59547cd45bca4bff98116c67727~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_294_0ed943_de94e5e97afd4c8c9dd535e569105d3e~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_294_0ed943_de94e5e97afd4c8c9dd535e569105d3e~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_297_0ed943_9215a1bebb3e4d5094fb739868e16241~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_297_0ed943_9215a1bebb3e4d5094fb739868e16241~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_300_0ed943_9bb2980e45df4b48aa08f7bed84a734e~mv2.jpeg)<br><!-- image:../../assets/designers/quirk_you_up/instagram/quirk_you_up_imageye___-_imgi_300_0ed943_9bb2980e45df4b48aa08f7bed84a734e~mv2.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Krishna Muraleedharan is an India-based surface and textile designer and founder of Quirkyouup, a surface design practice built around lively, experimental pattern work. She holds advanced qualifications from two of India's leading design institutions and brings deep technical expertise in weaving and print, alongside a commercial background across fashion and interiors. She operates as a freelance designer, taking commissions across womenswear and home decor categories.
+
 ## Style and Aesthetic
+
+Muraleedharan describes her work as "lively and quirky," favouring unique surfaces for the experimental and fun-loving. Her practice spans traditional textile techniques and contemporary pattern design, with painting as a strong parallel creative discipline that feeds into her print sensibility. Selected Instagram images suggest a wide stylistic range consistent with her experimental, multi-medium approach.
 
 ## Techniques and Tools
 
+Specialist skills in technical and experimental weaving alongside surface pattern design. Training at NID Ahmedabad encompasses advanced textile disciplines including woven construction. She also takes pride in an artist identity — painting and print-making as related creative practices. Listed on PatternBank and Behance for industry visibility; Spoonflower-adjacent through Society6 presence.
+
 ## Markets and Clients
+
+Background spans womenswear and home interiors. Career includes work at Raw Mango (New Delhi) — a high-end Indian fashion house known for handwoven silks — where she served as Head Textile Designer. Also freelanced for Myntra and completed internships in block printing (Aavaran, Udaipur) and interiors (Ode Interiors, Chennai). Currently freelancing; open to commissions.
 
 ## Portfolio and Presence
 
+- Website: krishnamuraleedharan.com
+- Instagram: @quirk_you_up
+- PatternBank: listed
+- Society6: listed (as Silverlining Mole)
+- Behance: active
+
 ## Career Path
+
+B.Des from National Institute of Fashion Technology (2007–2011); M.Des from National Institute of Design, Ahmedabad (2012–2015). Post-graduation: Head Textile Designer at Raw Mango, New Delhi (2015–2017); freelance consultant for Myntra; design internships at Chamundi Silks (Bangalore), Aavaran Echoes of Rural India (Udaipur, block prints), and Ode Interiors (Chennai). Founded Quirkyouup as an independent practice.
 
 ## Pattern Focus
 
+Experimental and technically grounded — specialises in both woven textile construction and surface pattern design. Background in India's artisan textile traditions (block printing, handloom) informs a practice that spans heritage technique and contemporary surface work. Selected patterns reflect a broad contemporary surface aesthetic.
+
 ## Connections
+
+- [[Raw Mango]] (former employer; high-end Indian fashion)
+- [[PatternBank]] (industry platform)
+- [[Block Printing]] (artisan technique; internship background)
+- [[Surface Pattern Design]] (core discipline)

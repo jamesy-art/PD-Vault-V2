@@ -23,7 +23,7 @@ bio: ''
 website: 'https://damppstudio.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/damppstudio
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: dani rota / damppstudio
 website_meta_description: ''
 website_about_raw: >-
@@ -233,7 +236,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Hi! I’m Dani Rota — a Brazilian illustrator based in Italy, with a background
   in graphic design and communication.
@@ -268,45 +271,131 @@ instagram_profile_pic_url: >-
   https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/609869461_18090493445486063_9018840857216157944_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODcuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH1d6l55lrrX1HSo9NIMxeIuBLIgV91socVqIC7XJskHsa4tXi0rEiayE4AEZ-HwsA&_nc_ohc=w0R8WLo-pPMQ7kNvwGEQoJk&_nc_gid=JJhyq2Bvxm-btfP861j-rw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6kx-fpghdIkvNtY8Y44UEvxWKaSc1GCmNyM3SCHTqn4Q&oe=6A13F8F4&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/609869461_18090493445486063_9018840857216157944_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODcuYzIifQ&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH1d6l55lrrX1HSo9NIMxeIuBLIgV91socVqIC7XJskHsa4tXi0rEiayE4AEZ-HwsA&_nc_ohc=w0R8WLo-pPMQ7kNvwGEQoJk&_nc_gid=JJhyq2Bvxm-btfP861j-rw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6kx-fpghdIkvNtY8Y44UEvxWKaSc1GCmNyM3SCHTqn4Q&oe=6A13F8F4&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/damppstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4837
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/damppstudio/profile/609869461_18090493445486063_9018840857216157944_n.jpg
+instagram_profile_image_bytes: 132108
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/damppstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/damppstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/damppstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/damppstudio/profile/609869461_18090493445486063_9018840857216157944_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/damppstudio/profile/609869461_18090493445486063_9018840857216157944_n.jpg
+profile_image_local: >-
+  ../../assets/designers/damppstudio/profile/609869461_18090493445486063_9018840857216157944_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/damppstudio/profile/609869461_18090493445486063_9018840857216157944_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1709457798_3315494772847055114_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1709457798_3315494772872125522_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1728910636_3478677011177405614_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1750057938_3656073437225033131_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132004124446269_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132010231323671_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1776712748_3879668841152690594_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905127383834391_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905135587892545_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905137735372646_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1778844922_3897554620048298107_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1779093939_3899643293086723667_44504878062.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1776712748_3879668841152690594_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905127383834391_44504878062.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1728910636_3478677011177405614_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1750057938_3656073437225033131_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132010231323671_44504878062.jpg
+  - >-
+    ../../assets/designers/damppstudio/instagram/damppstudio_1779093939_3899643293086723667_44504878062.jpg
+trash_images: []
+selected_pattern_count: 2
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # damppstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/damppstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/damppstudio/profile/609869461_18090493445486063_9018840857216157944_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1709457798_3315494772847055114_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1709457798_3315494772847055114_44504878062.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1709457798_3315494772872125522_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1709457798_3315494772872125522_44504878062.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1728910636_3478677011177405614_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1728910636_3478677011177405614_44504878062.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1750057938_3656073437225033131_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1750057938_3656073437225033131_44504878062.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132004124446269_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132004124446269_44504878062.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132010231323671_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1775933575_3873132010231323671_44504878062.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1776712748_3879668841152690594_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1776712748_3879668841152690594_44504878062.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905127383834391_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905127383834391_44504878062.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905135587892545_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905135587892545_44504878062.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905137735372646_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1777217811_3883905137735372646_44504878062.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1778844922_3897554620048298107_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1778844922_3897554620048298107_44504878062.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/damppstudio/instagram/damppstudio_1779093939_3899643293086723667_44504878062.jpg)<br><!-- image:../../assets/designers/damppstudio/instagram/damppstudio_1779093939_3899643293086723667_44504878062.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Dani Rota (Daniela Rota) is a Brazilian illustrator based in Florence, Italy, working under the studio name damppstudio. Represented by Lemonade Illustration Agency and a member of the Inkygoodness Collective, her practice spans editorial illustration, branding, packaging, and digital work. With over 18,000 Instagram followers, she operates at a well-established professional level.
+
 ## Style and Aesthetic
+
+Dani's style is playful, character-driven, and expressive — combining minimalist forms with storytelling. Her work explores body positivity, femininity, identity, and everyday joy with a dry, warm humour. Selected Instagram patterns suggest bold, flat figurative illustration with clean graphic forms and a warm, considered colour range. Selected placement images indicate editorial and printed product applications.
 
 ## Techniques and Tools
 
+Background in graphic design and communication. Digital illustration as primary medium, with a focus on character work, editorial composition, and expressive figurative forms.
+
 ## Markets and Clients
+
+Editorial illustration (confirmed client: Brigitte Magazine), branding, packaging, and digital. Commercial inquiries handled through Lemonade Illustration Agency.
 
 ## Portfolio and Presence
 
+- Website: https://damppstudio.com
+- Instagram: https://instagram.com/damppstudio
+- Representation: Lemonade Illustration Agency (@lemonadeillustrationagency)
+- Collective: Inkygoodness (@inkygoodnesscollective)
+
 ## Career Path
+
+Brazilian-born, based in Florence, Italy. Background in graphic design and communication. Agency-represented with a published editorial client list including Brigitte Magazine. Active participant in the Inkygoodness 28 Day Editorial Illustration Challenge.
 
 ## Pattern Focus
 
+Character-led illustration with surface pattern applications. Selected Instagram patterns suggest flat, graphic repeats using bold figurative forms. The practice sits primarily in editorial and branding illustration, with surface pattern as a secondary output.
+
 ## Connections
+
+- [[Editorial Illustration]]
+- [[Branding]]
+- [[Packaging]]
+- [[Inkygoodness]]

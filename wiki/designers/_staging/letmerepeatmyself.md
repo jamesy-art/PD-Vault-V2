@@ -28,7 +28,7 @@ bio: ''
 website: 'https://letmerepeatmyself.com'
 website_about: ''
 accepted: 25/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/letmerepeatmyself
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Let Me Repeat Myself
 website_meta_description: ''
 website_about_raw: >-
@@ -226,7 +229,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -243,45 +246,214 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/503304895_18010349285754235_6925679817902055255_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzYuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFmBp9YHsDjCleJNFMM7WzlW1JpFZ9kLGoMZQQ7Oef2QiGAkMT7E8wts4BAzpNWXP4&_nc_ohc=2VtWy2ub5SEQ7kNvwGlUA5b&_nc_gid=aPBC86bpzVcT3iMp5ReC8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Of_CmYHW_x3AF5vO8oMvRTnhMR4PgKUp_BKHFl5O3aA&oe=6A13EB66&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/503304895_18010349285754235_6925679817902055255_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzYuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFmBp9YHsDjCleJNFMM7WzlW1JpFZ9kLGoMZQQ7Oef2QiGAkMT7E8wts4BAzpNWXP4&_nc_ohc=2VtWy2ub5SEQ7kNvwGlUA5b&_nc_gid=aPBC86bpzVcT3iMp5ReC8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Of_CmYHW_x3AF5vO8oMvRTnhMR4PgKUp_BKHFl5O3aA&oe=6A13EB66&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7378
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/letmerepeatmyself/profile/503304895_18010349285754235_6925679817902055255_n.jpg
+instagram_profile_image_bytes: 104868
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/letmerepeatmyself/profile/503304895_18010349285754235_6925679817902055255_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/letmerepeatmyself/profile/503304895_18010349285754235_6925679817902055255_n.jpg
+profile_image_local: >-
+  ../../assets/designers/letmerepeatmyself/profile/503304895_18010349285754235_6925679817902055255_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/letmerepeatmyself/profile/503304895_18010349285754235_6925679817902055255_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1758723858_3728768440061775095_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965268634668_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965276986353_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965293796955_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965302189211_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942400606120_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942417390908_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760898959_3747014511295576396_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1770913381_3831019522665051315_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934326297078_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934812883759_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771967439_3839862647291008874_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505523000960_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505908875133_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038507787973437_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038508266099779_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038509054611730_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038509406954809_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038510304531094_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038511042712101_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134428381111233_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134430738342667_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337948970959777_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337961402141259_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337963004338516_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337963164515721_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337964245906918_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337964916085848_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337965452923797_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243851100868148_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243855429363416_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243856897384973_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243858793216736_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489579380905945_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489582426021453_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489585773101256_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489589245989794_52609034234.jpg
+instagram_image_count: 37
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1758723858_3728768440061775095_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760898959_3747014511295576396_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934812883759_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505523000960_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134428381111233_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337948970959777_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243856897384973_52609034234.jpg
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489585773101256_52609034234.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942400606120_52609034234.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # letmerepeatmyself
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/letmerepeatmyself/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/letmerepeatmyself/profile/503304895_18010349285754235_6925679817902055255_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1758723858_3728768440061775095_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1758723858_3728768440061775095_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965268634668_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965268634668_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965276986353_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965276986353_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965293796955_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965293796955_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965302189211_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1759723729_3737155965302189211_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942400606120_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942400606120_52609034234.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942417390908_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760538522_3743990942417390908_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760898959_3747014511295576396_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1760898959_3747014511295576396_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1770913381_3831019522665051315_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1770913381_3831019522665051315_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934326297078_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934326297078_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934812883759_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771433032_3835378934812883759_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771967439_3839862647291008874_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1771967439_3839862647291008874_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505523000960_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505523000960_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505908875133_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038505908875133_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038507787973437_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038507787973437_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038508266099779_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038508266099779_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038509054611730_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038509054611730_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038509406954809_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038509406954809_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038510304531094_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038510304531094_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038511042712101_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772227147_3842038511042712101_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134428381111233_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134428381111233_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134430738342667_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1772476716_3844134430738342667_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337948970959777_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337948970959777_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337961402141259_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337961402141259_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337963004338516_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337963004338516_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337963164515721_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337963164515721_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337964245906918_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337964245906918_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337964916085848_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337964916085848_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337965452923797_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1774289102_3859337965452923797_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243851100868148_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243851100868148_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243855429363416_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243855429363416_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243856897384973_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243856897384973_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243858793216736_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1775589457_3870243858793216736_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489579380905945_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489579380905945_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489582426021453_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489582426021453_52609034234.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489585773101256_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489585773101256_52609034234.jpg --> | [x] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489589245989794_52609034234.jpg)<br><!-- image:../../assets/designers/letmerepeatmyself/instagram/letmerepeatmyself_1780507076_3911489589245989794_52609034234.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rachel Poulin is the Los Angeles-based designer and letterer behind Let Me Repeat Myself (LMRM), a lettering and surface pattern design studio. She brings 15+ years of corporate graphic design experience — including agency-side and in-house roles for fashion, tech, and retail brands — to a pattern practice centred on hand lettering, maximalist all-over design, and vibrant retro aesthetics. Licensing enquiries are handled through a dedicated private portfolio.
+
 ## Style and Aesthetic
+
+Maximalist, high-contrast, and vibrant. The defining concept is hand lettering treated as pattern texture — letterforms and messages functioning as repeat motifs and visual surfaces. Selected Instagram images suggest bold graphic patterns, retro styling, and strong negative-space composition throughout. Colour is vivid; surface density is high. Described self-referentially as "weird hand lettering, high-contrast line art, maximalism, vibrant colors, retro styling."
 
 ## Techniques and Tools
 
+BFA Graphic Design, Rochester Institute of Technology. Additional AA in Art and Illustration. Fifteen years of professional practice in branding, iconography, infographics, print production, marketing collateral, and presentation design. Personal creative practice spans painting, lettering, and sketchbook work.
+
 ## Markets and Clients
+
+Licensing portfolio active. Products sold include stationery, apparel, and home goods via the LMRM shop. Corporate design background covers fashion brands (Kelly Wearstler, Bella+Canvas, Alo, London Fog, Badgley Mischka, Candie's, Guess, Op, Bongo) and tech (Meta, Google, Microsoft, eBay, Zoom, PayPal, Salesforce, T-Mobile). These are corporate graphic design clients; surface pattern licensing clients are not individually named.
 
 ## Portfolio and Presence
 
+- Website: https://letmerepeatmyself.com
+- Instagram: @letmerepeatmyself (1,840 followers)
+- Corporate portfolio: rachelvpoulin.com
+- Contact: hello@letmerepeatmyself.com
+
 ## Career Path
+
+Originally from Maine. BFA Graphic Design, Rochester Institute of Technology, plus AA in Art and Illustration. Fifteen-year corporate career as graphic designer, art director, and illustrator — agency and in-house roles across fashion and tech brands. Launched LMRM as a dedicated lettering and surface pattern studio. Based in Los Angeles.
 
 ## Pattern Focus
 
+Selected Instagram images suggest graphic repeat patterns with hand lettering integrated as the primary motif element. High-contrast black-and-white line work alongside bold coloured all-overs. Retro styling, puzzle-piece composition, and maximalist density are consistent. Selected placements suggest apparel context.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Hand Lettering]]
+- [[Lettering]]
+- [[Licensing]]
+- [[Stationery]]
+- [[Apparel]]

@@ -23,7 +23,7 @@ bio: ''
 website: 'https://karinaduncan.co.uk'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/karina.print
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Karina Duncan,Print Design Consultant: Fresh, Storytelling Prints For
   Swim-Resort Brands
@@ -77,7 +80,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -98,45 +101,164 @@ instagram_profile_pic_url: >-
   https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/580929536_18537926353056794_5480967536554731180_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGEGaej7xyNoqGIabTD2PB7whX04XpmLiJUOqJkGtErNdyZDOI4xBN8Sbdku4Bi4X0&_nc_ohc=vdCS2xrxwEwQ7kNvwGLZ7bf&_nc_gid=tCrORwyFsuKiUR9mLoPoDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5lrdDZAB4Kw-aRZpE5ECj0SaZSnJ1pX67C4TS1Splq9w&oe=6A13DFAE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-19/580929536_18537926353056794_5480967536554731180_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGEGaej7xyNoqGIabTD2PB7whX04XpmLiJUOqJkGtErNdyZDOI4xBN8Sbdku4Bi4X0&_nc_ohc=vdCS2xrxwEwQ7kNvwGLZ7bf&_nc_gid=tCrORwyFsuKiUR9mLoPoDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5lrdDZAB4Kw-aRZpE5ECj0SaZSnJ1pX67C4TS1Splq9w&oe=6A13DFAE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/karina.print/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3765
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/karina.print/profile/580929536_18537926353056794_5480967536554731180_n.jpg
+instagram_profile_image_bytes: 212759
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/karina.print/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/karina.print/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/karina.print/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/karina.print/profile/580929536_18537926353056794_5480967536554731180_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/karina.print/profile/580929536_18537926353056794_5480967536554731180_n.jpg
+profile_image_local: >-
+  ../../assets/designers/karina.print/profile/580929536_18537926353056794_5480967536554731180_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/karina.print/profile/580929536_18537926353056794_5480967536554731180_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867125988600_1919480793.jpg
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867134373677_1919480793.jpg
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824195907758563_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824196108984992_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1707393655_3298179490515670052_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1708947298_3311212389225490336_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378740915640765_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741075139386_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741167477239_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1719396811_3398869257925905527_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1745830093_3620607699784808791_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1764331806_3775811316695486352_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710313421_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710342363_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091718679799_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091727098540_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765971746_3789568095283606726_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1767781471_3804749201897506308_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1768825165_3813504343245114025_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1773832124_3855499011226639821_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1773832124_3855499012577190783_1919480793.webp
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867125988600_1919480793.jpg
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867134373677_1919480793.jpg
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824195907758563_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824196108984992_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1707393655_3298179490515670052_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741075139386_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1745830093_3620607699784808791_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091718679799_1919480793.webp
+selected_placements:
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1708947298_3311212389225490336_1919480793.webp
+  - >-
+    ../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710313421_1919480793.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # karina.print
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/karina.print/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/karina.print/profile/580929536_18537926353056794_5480967536554731180_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867125988600_1919480793.jpg)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867125988600_1919480793.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867134373677_1919480793.jpg)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1690902287_3159839867134373677_1919480793.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824195907758563_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824195907758563_1919480793.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824196108984992_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1706874464_3293824196108984992_1919480793.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1707393655_3298179490515670052_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1707393655_3298179490515670052_1919480793.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1708947298_3311212389225490336_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1708947298_3311212389225490336_1919480793.webp --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378740915640765_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378740915640765_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741075139386_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741075139386_1919480793.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741167477239_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1717669407_3384378741167477239_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1719396811_3398869257925905527_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1719396811_3398869257925905527_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1745830093_3620607699784808791_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1745830093_3620607699784808791_1919480793.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1764331806_3775811316695486352_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1764331806_3775811316695486352_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710313421_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710313421_1919480793.webp --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710342363_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091710342363_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091718679799_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091718679799_1919480793.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091727098540_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1765802106_3788145091727098540_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1765971746_3789568095283606726_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1765971746_3789568095283606726_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1767781471_3804749201897506308_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1767781471_3804749201897506308_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1768825165_3813504343245114025_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1768825165_3813504343245114025_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1773832124_3855499011226639821_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1773832124_3855499011226639821_1919480793.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/karina.print/instagram/karina.print_1773832124_3855499012577190783_1919480793.webp)<br><!-- image:../../assets/designers/karina.print/instagram/karina.print_1773832124_3855499012577190783_1919480793.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Karina Duncan is a UK-based print design consultant specialising in swim and resortwear. She creates hand-painted, storytelling prints for swim-resort brands—working from brief through to production-ready files including engineered prints, allover repeats, and layered PSDs. She graduated with a degree in Design for Textiles in Scotland and worked in-house at a textile mill in Portugal before establishing her independent consultancy.
+
 ## Style and Aesthetic
+
+Bold, narrative-driven prints with a hand-painted energy. Karina positions her work as storytelling—prints that are distinctively on-brand and recognisable in a competitive resortwear market. Selected Instagram patterns suggest vibrant, colourful surface designs with tropical or expressive character suited to swimwear and resortwear placement. She explicitly frames her value proposition as helping brands move from follower to innovator.
 
 ## Techniques and Tools
 
+Hand-painting is central to her process, with digital translation to production-ready formats. Delivers layered PSD files with perfect repeats, Pantone-matched colours, and engineered layouts designed to work with specific garment flats. Experienced with both digital and screen-printing technical requirements for apparel production.
+
 ## Markets and Clients
+
+Swim-resort brands exclusively—her positioning is as a specialist print consultant for this market. No named clients documented publicly. Services include: custom design from client brief (client owns final artwork), licensed collection designs (exclusive and non-exclusive agreements), and engineered placement prints mapped to garment flats.
 
 ## Portfolio and Presence
 
+- Website: https://karinaduncan.co.uk
+- Instagram: @karina.print (4,800+ followers)
+
 ## Career Path
+
+Graduated with a degree in Design for Textiles from a Scottish university. Relocated to Portugal and worked in-house at a textile mill, gaining technical production knowledge. Now UK-based, operating as a specialist print consultant for the swim-resort market.
 
 ## Pattern Focus
 
+Hand-painted prints for swimwear and resortwear applications. Selected Instagram patterns suggest vibrant, decorative designs with tropical and expressive qualities. Engineered prints—designed to work with specific garment templates—are a core technical offering alongside allover repeats.
+
 ## Connections
+
+- [[Swimwear Market]] — primary market specialism
+- [[Resortwear]] — target application
+- [[Art Licensing]] — licensing service offered
+- [[Engineered Print]] — technical specialism

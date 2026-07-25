@@ -23,7 +23,7 @@ bio: ''
 website: 'https://meganmetcalfstudio.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/meganmetcalfstudio
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Megan Metcalf Studio-meganmetcalfillustration.com
 website_meta_description: >-
   Megan is an intuitive expressive artist whose subject matter and inspiration
@@ -272,7 +275,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -289,45 +292,145 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/499463546_18504396145049134_3051037052414795064_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTYuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJY9LqGKyV4Wq2veYVktNOfFmejrcLekQTbGj5IGDtE928bvmjweQlqL042z1r32Y&_nc_ohc=UNOHQqTdW7YQ7kNvwGLLIfn&_nc_gid=MVCX5PPqNOnRx2x1h8QQnA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4f2XiiMWyWOEzilsLP_tIaSq8mTZczsy35W0UUNdli2A&oe=6A13CF58&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/499463546_18504396145049134_3051037052414795064_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTYuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHJY9LqGKyV4Wq2veYVktNOfFmejrcLekQTbGj5IGDtE928bvmjweQlqL042z1r32Y&_nc_ohc=UNOHQqTdW7YQ7kNvwGLLIfn&_nc_gid=MVCX5PPqNOnRx2x1h8QQnA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4f2XiiMWyWOEzilsLP_tIaSq8mTZczsy35W0UUNdli2A&oe=6A13CF58&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/meganmetcalfstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6317
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/meganmetcalfstudio/profile/499463546_18504396145049134_3051037052414795064_n.jpg
+instagram_profile_image_bytes: 58763
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/meganmetcalfstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/meganmetcalfstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/meganmetcalfstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/meganmetcalfstudio/profile/499463546_18504396145049134_3051037052414795064_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/meganmetcalfstudio/profile/499463546_18504396145049134_3051037052414795064_n.jpg
+profile_image_local: >-
+  ../../assets/designers/meganmetcalfstudio/profile/499463546_18504396145049134_3051037052414795064_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/meganmetcalfstudio/profile/499463546_18504396145049134_3051037052414795064_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1651422593_2828660189932052075_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1694716726_3191837698020268748_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562124825439_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562217030308_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562309382060_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562351123563_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753081513_3681437023542176896_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377824999382947_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007740707_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007828681_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182764738_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182776525_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090464521299_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481257606_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481286313_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1758223476_3724570935161559372_1038001133.jpg
+instagram_image_count: 16
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1651422593_2828660189932052075_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562309382060_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007740707_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1758223476_3724570935161559372_1038001133.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1694716726_3191837698020268748_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182764738_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481257606_1038001133.jpg
+  - >-
+    ../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481286313_1038001133.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # meganmetcalfstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/meganmetcalfstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/meganmetcalfstudio/profile/499463546_18504396145049134_3051037052414795064_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1651422593_2828660189932052075_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1651422593_2828660189932052075_1038001133.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1694716726_3191837698020268748_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1694716726_3191837698020268748_1038001133.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562124825439_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562124825439_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562217030308_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562217030308_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562309382060_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562309382060_1038001133.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562351123563_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1736433881_3541786562351123563_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753081513_3681437023542176896_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753081513_3681437023542176896_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377824999382947_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377824999382947_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007740707_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007740707_1038001133.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007828681_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753551293_3685377825007828681_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182764738_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182764738_1038001133.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182776525_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1753727518_3686856103182776525_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090464521299_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090464521299_1038001133.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481257606_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481257606_1038001133.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481286313_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1756918988_3713628090481286313_1038001133.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1758223476_3724570935161559372_1038001133.jpg)<br><!-- image:../../assets/designers/meganmetcalfstudio/instagram/meganmetcalfstudio_1758223476_3724570935161559372_1038001133.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Megan Metcalf is a multidisciplinary artist and live event illustrator based in Margate, Kent. A graduate of Central Saint Martins, she works primarily as a live event illustrator — covering weddings, brand activations, corporate conferences, and product launches — and maintains a parallel practice in expressive illustration and surface-facing print work. Her Instagram biography references a forthcoming 22 Card Deck available for pre-order.
+
 ## Style and Aesthetic
+
+Metcalf's work is expressive and intuitive, rooted in real-time observation of place and people. Her style is lively and instantly recognisable, characterised by a loose, characterful line quality. Selected Instagram images suggest both illustrative pattern work and expressive figurative compositions across a range of colour and surface applications.
 
 ## Techniques and Tools
 
+Works in fine pen and ink and expressive watercolour. Creates 2–4 illustrations per hour in live event contexts; studio work applies watercolour washes to ink finishes. Capable of working at multiple scales including bespoke crockery, murals, and painted tablecloths.
+
 ## Markets and Clients
+
+Primary practice: live event illustration for weddings, corporate events, conferences, product launches, and brand activations. Surface print and pattern capability evidenced in selected images. No documented surface pattern brand clients at this time.
 
 ## Portfolio and Presence
 
+- Website: https://meganmetcalfstudio.com
+- Instagram: https://instagram.com/meganmetcalfstudio (3.8K followers)
+
 ## Career Path
+
+Trained at Central Saint Martins, London. Over 10 years as a professional fine artist and illustrator; over 7 years as a live event illustrator. Now based in Margate, Kent.
 
 ## Pattern Focus
 
+Selected Instagram images suggest illustrated surface patterns and expressive compositions with potential for application across lifestyle surfaces. The pattern register spans figurative and ornamental work in an expressive, hand-led style.
+
 ## Connections
+
+- [[Central Saint Martins]]
+- [[Live Event Illustration]]
+- [[Watercolour Techniques]]
+- [[Expressive Illustration]]

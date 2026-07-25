@@ -21,7 +21,7 @@ bio: ''
 website: 'https://ambersolberg.com'
 website_about: ''
 accepted: 16/06/25
-level: level_4
+level: level_5
 asset_folder: wiki/assets/designers/ambersolbergmakery
 profile_url: ''
 instagram_images:
@@ -248,7 +248,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: ready_for_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Well, hello!
 
@@ -399,16 +399,36 @@ trash_image_count: 0
 
 ## Overview
 
+Canadian illustrator and creative practitioner splitting time between Alberta and Nova Scotia. Amber Solberg draws on flora, fauna, and fantasy across illustration, mural work, embroidery, and print. She holds a Visual Arts Diploma from Red Deer College and a BFA from NSCAD University, and maintains an active teaching and facilitation practice alongside her commercial illustration work.
+
 ## Style and Aesthetic
+
+Whimsical, nature-led illustration with expressive character. Selected patterns suggest botanical compositions — rice flower studies and organic motifs — in a warm, hand-rendered style. Mural work demonstrates large-scale confidence and bold character illustration suited to public and community contexts.
 
 ## Techniques and Tools
 
+Watercolour, ink, and embroidery thread are primary media. Practice spans technical and expressive registers across scales from embroidered pins to city-block murals. Teaching practice encompasses illustration, embroidery, and storytelling workshops.
+
 ## Markets and Clients
+
+Illustration commissions, community mural projects, educational workshops, and creative sector facilitation. Art Director for NFP kindness society Altruistic Current (@altc.ca). Selected placement images suggest wall mural and large-format character illustration applications.
 
 ## Portfolio and Presence
 
+- Website: ambersolberg.com
+- Instagram: @ambersolbergmakery (1,550 followers, 1,436 posts)
+
 ## Career Path
+
+Training at Red Deer College (AB, Visual Arts Diploma) and NSCAD University (NS, Interdisciplinary BFA). Practice developed across illustration commissions, community mural coordination (7 projects, 300+ participants), workshop teaching (via @all.by.hand.art.classes), and event facilitation. Maintains a creative opportunities resource channel (@you.got.this.gigs).
 
 ## Pattern Focus
 
+Limited selected pattern evidence (3 images). Selected patterns suggest botanical repeat work — a rice flower composition in a triadic colourway — consistent with the broader illustrative practice. Image evidence is insufficient to characterise the full pattern range; the illustrative practice is more extensively documented.
+
 ## Connections
+
+- [[Canada]] — Alberta/Nova Scotia based
+- [[Illustration]] — core practice
+- [[Mural Design]] — documented large-scale specialism
+- [[Watercolour]] — primary medium

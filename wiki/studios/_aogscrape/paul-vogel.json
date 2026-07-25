@@ -1,0 +1,65 @@
+{
+  "slug": "paul-vogel",
+  "name": "Paul Vogel",
+  "website": "https://paulvogel.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/paul-vogel.md",
+  "scraped_at": "2026-06-05T23:24:07.021Z",
+  "status": "scraped",
+  "website_title": "PAUL VOGEL",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://paulvogel.com/",
+      "text": "PAUL VOGEL HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN HAND WOVEN DENIM SWATCHES JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://images.v2.thepatterncloud.com//studio_64/blageidxhzkp.jpg",
+        "https://paulvogel.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_64/klmubizqfgac.jpg",
+        "https://images.v2.thepatterncloud.com//studio_64/homePage/pdoehlkjzqwi.jpg",
+        "https://images.v2.thepatterncloud.com//studio_64/homePage/print.jpg",
+        "https://images.v2.thepatterncloud.com//studio_64/homePage/wnmipagudvoz.jpg",
+        "https://images.v2.thepatterncloud.com//studio_64/homePage/tzfxirgakdhu.jpg",
+        "https://images.v2.thepatterncloud.com//studio_64/homePage/zcdynmfuxret.jpg",
+        "https://images.v2.thepatterncloud.com//studio_64/homePage/gipvjnuxcwde.jpg",
+        "https://paulvogel.com/img/social/facebook.png",
+        "https://paulvogel.com/img/social/instagram.png",
+        "https://paulvogel.com/img/social/pinterest.png",
+        "https://paulvogel.com/img/social/twitter.png",
+        "https://paulvogel.com/img/social/facebookB.png",
+        "https://paulvogel.com/img/social/instagramB.png",
+        "https://paulvogel.com/img/social/pinterestB.png",
+        "https://paulvogel.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://paulvogel.com/about.php",
+      "text": "PAUL VOGEL",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://paulvogel.com/\nPAUL VOGEL HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN HAND WOVEN DENIM SWATCHES JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://paulvogel.com/about.php\nPAUL VOGEL",
+  "website_about_clean": "SOURCE: https://paulvogel.com/\nPAUL VOGEL HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN HAND WOVEN DENIM SWATCHES JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://paulvogel.com/about.php\nPAUL VOGEL",
+  "website_images": [
+    "https://images.v2.thepatterncloud.com//studio_64/blageidxhzkp.jpg",
+    "https://paulvogel.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_64/klmubizqfgac.jpg",
+    "https://images.v2.thepatterncloud.com//studio_64/homePage/pdoehlkjzqwi.jpg",
+    "https://images.v2.thepatterncloud.com//studio_64/homePage/print.jpg",
+    "https://images.v2.thepatterncloud.com//studio_64/homePage/wnmipagudvoz.jpg",
+    "https://images.v2.thepatterncloud.com//studio_64/homePage/tzfxirgakdhu.jpg",
+    "https://images.v2.thepatterncloud.com//studio_64/homePage/zcdynmfuxret.jpg",
+    "https://images.v2.thepatterncloud.com//studio_64/homePage/gipvjnuxcwde.jpg",
+    "https://paulvogel.com/img/social/facebook.png",
+    "https://paulvogel.com/img/social/instagram.png",
+    "https://paulvogel.com/img/social/pinterest.png",
+    "https://paulvogel.com/img/social/twitter.png",
+    "https://paulvogel.com/img/social/facebookB.png",
+    "https://paulvogel.com/img/social/instagramB.png",
+    "https://paulvogel.com/img/social/pinterestB.png",
+    "https://paulvogel.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

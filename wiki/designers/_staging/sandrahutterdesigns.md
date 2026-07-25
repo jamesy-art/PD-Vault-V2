@@ -29,7 +29,7 @@ bio: ''
 website: 'https://sandrahutter.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/sandrahutterdesigns
 profile_url: ''
 instagram_images:
@@ -46,9 +46,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Sandra Hutter - Surface Pattern Design and Illustrations
 website_meta_description: >-
   Sandra Hutter offers surface pattern design and illustrations, specializing in
@@ -296,7 +299,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -313,45 +316,255 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/432111414_433046899153174_8865368145766221592_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDkuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFHeDrTcIqi7QIWLezuCe2EwOrEkHTNzTmomRTYrHjIWc7X-AR5iWZ3oKxgkrBnQBI&_nc_ohc=Zs31_557w_sQ7kNvwHZYmMP&_nc_gid=428xVaeckkvib5QatSzc8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7AjWkHcEurWhY7rVVzUOhwmlqii5qriXRs4te03dT_tg&oe=6A13D765&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/432111414_433046899153174_8865368145766221592_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDkuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFHeDrTcIqi7QIWLezuCe2EwOrEkHTNzTmomRTYrHjIWc7X-AR5iWZ3oKxgkrBnQBI&_nc_ohc=Zs31_557w_sQ7kNvwHZYmMP&_nc_gid=428xVaeckkvib5QatSzc8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7AjWkHcEurWhY7rVVzUOhwmlqii5qriXRs4te03dT_tg&oe=6A13D765&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/sandrahutterdesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7885
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/sandrahutterdesigns/profile/432111414_433046899153174_8865368145766221592_n.jpg
+instagram_profile_image_bytes: 154155
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/sandrahutterdesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/sandrahutterdesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/sandrahutterdesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/sandrahutterdesigns/profile/432111414_433046899153174_8865368145766221592_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/sandrahutterdesigns/profile/432111414_433046899153174_8865368145766221592_n.jpg
+profile_image_local: >-
+  ../../assets/designers/sandrahutterdesigns/profile/432111414_433046899153174_8865368145766221592_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/sandrahutterdesigns/profile/432111414_433046899153174_8865368145766221592_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742767769582031_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742768675491309_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742769195636102_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778320818_3893159569393468510_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778403618_3893854122176994135_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968034935823025_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968036001173933_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037720818955_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037829904736_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968038953954727_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985203116672107_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985204131678243_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536263090702_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536716073723_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536909012165_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528540952291891_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782595075276_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782955764044_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531783274498948_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531784885166836_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531787963776417_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827113375417_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827725757335_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890873665710839_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890874261338155_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890876484265467_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890877138599395_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769013535064145_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769013618944954_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769014382311672_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769015271507700_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769016135562031_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769048951788762_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769048985365230_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769049270531121_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769050159715996_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769051778726239_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194457470740_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194474249631_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194709133732_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761195615116649_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761196344932108_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761232281737494_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761232382407336_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513698178783464_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513698841508891_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513700737327382_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513701785879910_6884566942.jpg
+instagram_image_count: 48
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742769195636102_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037720818955_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985204131678243_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536263090702_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536909012165_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782595075276_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827725757335_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890876484265467_6884566942.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778320818_3893159569393468510_6884566942.jpg
+  - >-
+    ../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778403618_3893854122176994135_6884566942.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # sandrahutterdesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sandrahutterdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/sandrahutterdesigns/profile/432111414_433046899153174_8865368145766221592_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742767769582031_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742767769582031_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742768675491309_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742768675491309_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742769195636102_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778151954_3891742769195636102_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778320818_3893159569393468510_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778320818_3893159569393468510_6884566942.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778403618_3893854122176994135_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778403618_3893854122176994135_6884566942.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968034935823025_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968034935823025_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968036001173933_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968036001173933_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037720818955_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037720818955_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037829904736_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968037829904736_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968038953954727_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1778655647_3895968038953954727_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985203116672107_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985203116672107_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985204131678243_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779372940_3901985204131678243_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536263090702_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536263090702_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536716073723_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536716073723_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536909012165_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528536909012165_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528540952291891_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1779795318_3905528540952291891_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782595075276_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782595075276_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782955764044_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531782955764044_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531783274498948_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531783274498948_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531784885166836_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531784885166836_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531787963776417_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531787963776417_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827113375417_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827113375417_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827725757335_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780034131_3907531827725757335_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890873665710839_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890873665710839_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890874261338155_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890874261338155_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890876484265467_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890876484265467_6884566942.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890877138599395_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780196147_3908890877138599395_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769013535064145_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769013535064145_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769013618944954_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769013618944954_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769014382311672_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769014382311672_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769015271507700_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769015271507700_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769016135562031_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769016135562031_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769048951788762_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769048951788762_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769048985365230_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769048985365230_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769049270531121_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769049270531121_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769050159715996_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769050159715996_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769051778726239_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780300829_3909769051778726239_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194457470740_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194457470740_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194474249631_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194474249631_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194709133732_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761194709133732_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761195615116649_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761195615116649_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761196344932108_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761196344932108_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761232281737494_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761232281737494_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761232382407336_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780657521_3912761232382407336_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513698178783464_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513698178783464_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513698841508891_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513698841508891_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513700737327382_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513700737327382_6884566942.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513701785879910_6884566942.jpg)<br><!-- image:../../assets/designers/sandrahutterdesigns/instagram/sandrahutterdesigns_1780747254_3913513701785879910_6884566942.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sandra Hutter is an illustrator and surface pattern designer based in Vienna, Austria. She graduated from Art and Design School in Austria with training in colour theory, composition, and art and architecture history. Her work — described as vibrant, colorful, bold, and feel-good — appears on fabric, wallpaper, home decor, gift wrap, apparel, and greeting cards. Confirmed licensing clients include Trader Joe's (US), Monsterthreads (Australia), Cool Bottles (Europe), and CASETiFY (Asia & US). She has 35,700 Instagram followers and holds a verified account.
+
 ## Style and Aesthetic
+
+Bold, joyful, all-over compositions designed to bring energy and colour to everyday products. Selected Instagram images suggest vibrant floral, botanical, and illustrative patterns — high-saturation palettes, full-coverage layouts, and a warm, positive character consistent across product applications.
 
 ## Techniques and Tools
 
+Illustration-led digital design. Delivers print-ready artwork for licensing and custom projects. Operates a print-on-demand product store for both European and US customers. Custom design commissions available in her signature style, unique per client. Licensed artwork supplied for stationery, apparel, packaging, home goods, and fabric.
+
 ## Markets and Clients
+
+Broad licensing across home decor, gift wrap, apparel, stationery, fabric, and wallpaper. Confirmed brand clients:
+- Trader Joe's (US)
+- Monsterthreads (Australia)
+- Cool Bottles (Europe)
+- CASETiFY (Asia & US)
+
+Also serves small and independent businesses via a direct art licensing inquiry form. Custom design commissions available. POD product store serves European and US customers.
 
 ## Portfolio and Presence
 
+- Website: sandrahutter.com
+- Instagram: @sandrahutterdesigns (35,700 followers, verified)
+- Book: pre-order listed in Instagram bio (2026, unverified title/publisher)
+
 ## Career Path
+
+Graduated from Art and Design School in Austria. Based in Vienna. Built an independent illustration and surface pattern design practice centred on art licensing. Grew to 35,700 Instagram followers with a verified account. Global licensing relationships across four continents, with confirmed placements at major retail and lifestyle brands.
 
 ## Pattern Focus
 
+Selected Instagram images suggest vibrant, all-over botanical and illustrative patterns — warm palettes, high energy, and a consistent joyful character. Suitable for homeware, fabric, gift wrap, and apparel. Named brand placements at Trader Joe's and CASETiFY confirm mass-market and lifestyle product applications.
+
 ## Connections
+
+- [[CASETiFY]] — confirmed licensing client
+- [[Trader Joe's]] — confirmed licensing client
+- [[Monsterthreads]] — confirmed licensing client
+- [[Cool Bottles]] — confirmed licensing client
+- [[home decor]] — primary market
+- [[gift wrap]] — market
+- [[art licensing]] — business model

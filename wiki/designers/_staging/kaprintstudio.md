@@ -27,7 +27,7 @@ bio: ''
 website: 'https://kaprintstudio.com'
 website_about: ''
 accepted: 05/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/kaprintstudio
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home -
 website_meta_description: >-
   Hello & Welcome Surface Pattern Designer for Socks, Homeware & Apparel I'm
@@ -100,7 +103,7 @@ categories:
   - Menswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -120,45 +123,233 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/652933841_18330082417247205_6627920044911506539_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG60MbWKfbzzyjx-jnyhQGhQZWsIQF2HTbITfC-LagsCY9dp3T4T35PAyLvWk3gcbI&_nc_ohc=izWQ_5WDseMQ7kNvwG4T_8F&_nc_gid=n79csDwk7G3IPCg-7OkuQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5GbzHsj9RulqhxypF0rK2nUhFM2onZxd-Y251_v-AWeg&oe=6A13D803&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/652933841_18330082417247205_6627920044911506539_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG60MbWKfbzzyjx-jnyhQGhQZWsIQF2HTbITfC-LagsCY9dp3T4T35PAyLvWk3gcbI&_nc_ohc=izWQ_5WDseMQ7kNvwG4T_8F&_nc_gid=n79csDwk7G3IPCg-7OkuQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5GbzHsj9RulqhxypF0rK2nUhFM2onZxd-Y251_v-AWeg&oe=6A13D803&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6520
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/kaprintstudio/profile/652933841_18330082417247205_6627920044911506539_n.jpg
+instagram_profile_image_bytes: 207138
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/kaprintstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/kaprintstudio/profile/652933841_18330082417247205_6627920044911506539_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/kaprintstudio/profile/652933841_18330082417247205_6627920044911506539_n.jpg
+profile_image_local: >-
+  ../../assets/designers/kaprintstudio/profile/652933841_18330082417247205_6627920044911506539_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/kaprintstudio/profile/652933841_18330082417247205_6627920044911506539_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1686771250_3125186221587105151_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1715115622_3362956031797458711_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1727290810_3465088913789114855_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1728133219_3472155555326825964_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013607344011197_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608266710380_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608661008855_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446566643276056_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567037554143_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567154997303_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567213702410_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567230478070_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567498922636_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070526643474273_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527255823630_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527390080421_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527482346468_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094192037941448_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094192809691934_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094197624707701_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694378724441617_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694378791558525_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694379403918807_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992941248941252_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992941483803584_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992942020687330_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031784805260256_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031784981397483_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031785996389272_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786298410230_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786743020130_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031787464453844_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941214201091_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941793022749_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942078248719_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942715764858_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942724186783_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601943839856333_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601946213816087_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242441375552_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242634337176_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232246065247198_7426303204.jpg
+instagram_image_count: 42
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1728133219_3472155555326825964_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608266710380_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567230478070_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070526643474273_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094197624707701_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786298410230_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031787464453844_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242441375552_7426303204.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941793022749_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942724186783_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601943839856333_7426303204.jpg
+  - >-
+    ../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601946213816087_7426303204.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # kaprintstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kaprintstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/kaprintstudio/profile/652933841_18330082417247205_6627920044911506539_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1686771250_3125186221587105151_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1686771250_3125186221587105151_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1715115622_3362956031797458711_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1715115622_3362956031797458711_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1727290810_3465088913789114855_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1727290810_3465088913789114855_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1728133219_3472155555326825964_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1728133219_3472155555326825964_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013607344011197_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013607344011197_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608266710380_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608266710380_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608661008855_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770316386_3826013608661008855_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446566643276056_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446566643276056_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567037554143_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567037554143_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567154997303_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567154997303_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567213702410_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567213702410_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567230478070_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567230478070_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567498922636_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770487208_3827446567498922636_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070526643474273_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070526643474273_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527255823630_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527255823630_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527390080421_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527390080421_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527482346468_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1770919217_3831070527482346468_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094192037941448_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094192037941448_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094192809691934_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094192809691934_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094197624707701_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771160459_3833094197624707701_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694378724441617_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694378724441617_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694378791558525_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694378791558525_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694379403918807_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771351215_3834694379403918807_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992941248941252_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992941248941252_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992941483803584_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992941483803584_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992942020687330_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1771506015_3835992942020687330_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031784805260256_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031784805260256_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031784981397483_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031784981397483_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031785996389272_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031785996389272_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786298410230_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786298410230_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786743020130_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031786743020130_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031787464453844_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774371671_3860031787464453844_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941214201091_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941214201091_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941793022749_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601941793022749_7426303204.jpg --> | [ ] | [x] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942078248719_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942078248719_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942715764858_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942715764858_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942724186783_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601942724186783_7426303204.jpg --> | [ ] | [x] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601943839856333_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601943839856333_7426303204.jpg --> | [ ] | [x] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601946213816087_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1774558848_3861601946213816087_7426303204.jpg --> | [ ] | [x] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242441375552_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242441375552_7426303204.jpg --> | [x] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242634337176_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232242634337176_7426303204.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232246065247198_7426303204.jpg)<br><!-- image:../../assets/designers/kaprintstudio/instagram/kaprintstudio_1775826078_3872232246065247198_7426303204.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Victoria Alonso is the founder of KA Print Studio, a Buenos Aires–based surface pattern design practice specialising in socks, homeware, and apparel. She designs bold, market-ready patterns from concept through to production-ready files, with particular technical depth in sock design—including BMP production files and Pantone specifications for knitting manufacture. She also offers licensing collections and sells patterns on Spoonflower and Happywall.
+
 ## Style and Aesthetic
+
+Bold and decorative with a playful, colourful sensibility. Victoria's Instagram biography describes her work as "playful and decorative prints for fabric, wallpaper, stationery and home decor." Selected Instagram patterns suggest vibrant all-over florals—her named collections include Wildflowers Garden and Wavy Garden, indicating a botanical direction with colourful, nature-inspired palettes.
 
 ## Techniques and Tools
 
+Full production pipeline for sock design: custom repeat and imagery layouts, BMP pixel-ready files for knitting machines, Pantone and yarn colour specifications, mockups on product, and revisions to production-ready. Apparel and homeware work is delivered ready for digital and screen printing. Sells licensed patterns on Spoonflower (fabric and wallpaper) and Happywall (wallpaper).
+
 ## Markets and Clients
+
+Markets: novelty and fashion socks, womenswear, menswear, swimwear, beachwear, and homeware (towels, bedding, tablelinen, wallpaper, cushions). Documented client case studies: Imagery Socks (USA)—novelty sock designs with BMP production files and Pantone specs; Nandu (Chile)—fashion sock collection inspired by Chilean culture and wildlife; Colorful Socks (USA)—ongoing multi-season collaboration across food, animals, sports, and novelty themes. Selected placement images suggest finished sock product applications.
 
 ## Portfolio and Presence
 
+- Website: https://kaprintstudio.com
+- Instagram: @kaprintstudio
+- Spoonflower — fabric and wallpaper
+- Happywall — wallpaper
+
 ## Career Path
+
+Victoria Alonso is based in Buenos Aires, Argentina. Her practice, KA Print Studio, delivers pattern design across three distinct product verticals: socks, homeware, and apparel. She works with brands of all sizes from independent labels to large manufacturers, and offers both exclusive and non-exclusive licensing arrangements.
 
 ## Pattern Focus
 
+Botanical and floral repeats predominate in the licensed collection work—Wildflowers Garden and Wavy Garden are documented named collections. Sock design output spans novelty imagery, fashion prints, and cultural themes. Selected patterns suggest colourful, all-over decorative compositions across multiple product categories.
+
 ## Connections
+
+- [[Spoonflower]] — pattern licensing and print-on-demand platform
+- [[Happywall]] — wallpaper licensing
+- [[Flower Pattern]] — primary licensed pattern type
+- [[Art Licensing]] — business model

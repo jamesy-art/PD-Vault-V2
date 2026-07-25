@@ -25,7 +25,7 @@ bio: ''
 website: 'https://loyaltycottage.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/loyaltycottage
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Loyalty Cottage
 website_meta_description: >-
   Explore our hand printed textiles and unique home accessories crafted in our
@@ -290,7 +293,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -309,45 +312,120 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/626271990_18161393941410702_3520299325434425151_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGuyyrQoBK1n8Vta-rN3TfaJuven5s4UpXbG1YDK2k2QLVzIAz6ZetLQrSbSl90UKg&_nc_ohc=sUhKTkDc8kgQ7kNvwHf7cnD&_nc_gid=EU9DTESNS6JTciX7lBylIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7v6j12GL2NIBeXfRL5VXRFNHZxy5_71NIOb1l6CpLT5w&oe=6A13EB99&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/626271990_18161393941410702_3520299325434425151_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGuyyrQoBK1n8Vta-rN3TfaJuven5s4UpXbG1YDK2k2QLVzIAz6ZetLQrSbSl90UKg&_nc_ohc=sUhKTkDc8kgQ7kNvwHf7cnD&_nc_gid=EU9DTESNS6JTciX7lBylIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7v6j12GL2NIBeXfRL5VXRFNHZxy5_71NIOb1l6CpLT5w&oe=6A13EB99&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6347
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/loyaltycottage/profile/626271990_18161393941410702_3520299325434425151_n.jpg
+instagram_profile_image_bytes: 172883
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/loyaltycottage/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/loyaltycottage/profile/626271990_18161393941410702_3520299325434425151_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/loyaltycottage/profile/626271990_18161393941410702_3520299325434425151_n.jpg
+profile_image_local: >-
+  ../../assets/designers/loyaltycottage/profile/626271990_18161393941410702_3520299325434425151_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/loyaltycottage/profile/626271990_18161393941410702_3520299325434425151_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1645963972_2782869957798739202_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1646146488_2784401011684542925_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1648886776_2807388220142148235_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1678004632_3051646498945106796_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584388859385_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584397348706_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584430704198_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942555239071735_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942591964390076_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942598851483498_12412346701.jpg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1646146488_2784401011684542925_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1678004632_3051646498945106796_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584430704198_12412346701.jpg
+  - >-
+    ../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942555239071735_12412346701.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # loyaltycottage
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/loyaltycottage/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/loyaltycottage/profile/626271990_18161393941410702_3520299325434425151_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1645963972_2782869957798739202_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1645963972_2782869957798739202_12412346701.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1646146488_2784401011684542925_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1646146488_2784401011684542925_12412346701.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1648886776_2807388220142148235_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1648886776_2807388220142148235_12412346701.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1678004632_3051646498945106796_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1678004632_3051646498945106796_12412346701.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584388859385_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584388859385_12412346701.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584397348706_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584397348706_12412346701.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584430704198_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1684242507_3103973584430704198_12412346701.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942555239071735_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942555239071735_12412346701.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942591964390076_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942591964390076_12412346701.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942598851483498_12412346701.jpg)<br><!-- image:../../assets/designers/loyaltycottage/instagram/loyaltycottage_1772453699_3843942598851483498_12412346701.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sara Kirby is the founder of Loyalty Cottage Studio, a hand-printed textile studio based in Hampshire, United Kingdom. With a background spanning industry practice, academic teaching, and postgraduate study, she founded Loyalty Cottage following a career as a textile designer and educator. The studio produces hand-printed fabrics and textile products to order, with bespoke design and colour sampling services for private and commercial clients.
+
 ## Style and Aesthetic
+
+Textiles Inspired by Wildflowers — the studio's stated positioning — reflects a nature-informed aesthetic grounded in hand-drawn line and screen-printed texture. Selected Instagram images suggest print work rooted in botanical and floral references, with colour practice developed through traditional screen-printing. Work is produced in limited editions; each piece described as unique and individual.
 
 ## Techniques and Tools
 
+Screen-printing is the primary method. Every design begins as a hand-drawn line, then translated to screen for printing. Water-based pigment dyes are individually mixed; fabrics are natural fibres (cotton and linen) sourced in England. Production is fully in-house — including a darkroom and a purpose-built print table. Hand-sewing and bespoke packaging are also carried out at the studio.
+
 ## Markets and Clients
+
+Home textiles — napkins, tea-towels, cushions, aprons, bags, and bespoke fabric lengths for home furnishings. Wedding and occasion tableware (personalised napkins, made to order). Branded promotional textiles for clients' specifications. Bespoke colour sampling service for interior design schemes. Accepts direct commissions and fabric made to order.
 
 ## Portfolio and Presence
 
+- Website: https://loyaltycottage.com
+- Instagram: @loyaltycottage
+
 ## Career Path
+
+Trained at Manchester Polytechnic, with a course focused on drawing, painting, and mixing colour from observation. After graduation, received a "Designer into Industry" bursary from The Royal Society of Arts. First industry position: setting up a colour-sampling studio using designs from the Sundour and Edinburgh Weavers archive. Subsequent career included originating artwork, colour sampling, liaising with textile and wallpaper mills, developing archival document designs into co-ordinated collections, and launching new products at international trade shows including Decorex and Heimtex. Holds an MA in Design History. Also worked as a textile design educator. Founded Loyalty Cottage following industry and teaching career.
 
 ## Pattern Focus
 
+Hand-screen-printed botanicals and florals, inspired by wildflowers. Designs originate from hand-drawn line, with texture and colour expression added through the screen-printing process. Limited-edition production; each piece individual. Bespoke colouring service available to match client interior schemes.
+
 ## Connections
+
+- [[Screen Printing]]
+- [[Home Decor]]
+- [[Botanical Pattern]]
+- [[Decorex]]
+- [[Heimtex]]

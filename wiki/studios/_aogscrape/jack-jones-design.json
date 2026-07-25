@@ -1,0 +1,130 @@
+{
+  "slug": "jack-jones-design",
+  "name": "Jack Jones Design",
+  "website": "http://jackjonesdesign.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/jack-jones-design.md",
+  "scraped_at": "2026-06-05T23:23:04.242Z",
+  "status": "scraped",
+  "website_title": "Jack Jones Design Studio Limited",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "http://jackjonesdesign.com/",
+      "text": "Jack Jones Design Studio Limited HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://images.v2.thepatterncloud.com//studio_70/avcpojsqlbxg.jpg",
+        "http://jackjonesdesign.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/large18sep.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun1.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/large2.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/wdyjqbfpnaux.jpg",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/small1.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/large3.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/small3.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/small2.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/large4.png",
+        "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun2.png",
+        "http://jackjonesdesign.com/img/social/facebook.png",
+        "http://jackjonesdesign.com/img/social/instagram.png",
+        "http://jackjonesdesign.com/img/social/pinterest.png",
+        "http://jackjonesdesign.com/img/social/twitter.png",
+        "http://jackjonesdesign.com/img/social/facebookB.png",
+        "http://jackjonesdesign.com/img/social/instagramB.png",
+        "http://jackjonesdesign.com/img/social/pinterestB.png",
+        "http://jackjonesdesign.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "http://jackjonesdesign.com/about.php",
+      "text": "Jack Jones Design Studio Limited",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: http://jackjonesdesign.com/\nJack Jones Design Studio Limited HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: http://jackjonesdesign.com/about.php\nJack Jones Design Studio Limited",
+  "website_about_clean": "SOURCE: http://jackjonesdesign.com/\nJack Jones Design Studio Limited HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: http://jackjonesdesign.com/about.php\nJack Jones Design Studio Limited",
+  "website_images": [
+    "https://images.v2.thepatterncloud.com//studio_70/avcpojsqlbxg.jpg",
+    "http://jackjonesdesign.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large18sep.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun1.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large2.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/wdyjqbfpnaux.jpg",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/small1.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large3.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/small3.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/small2.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large4.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun2.png",
+    "http://jackjonesdesign.com/img/social/facebook.png",
+    "http://jackjonesdesign.com/img/social/instagram.png",
+    "http://jackjonesdesign.com/img/social/pinterest.png",
+    "http://jackjonesdesign.com/img/social/twitter.png",
+    "http://jackjonesdesign.com/img/social/facebookB.png",
+    "http://jackjonesdesign.com/img/social/instagramB.png",
+    "http://jackjonesdesign.com/img/social/pinterestB.png",
+    "http://jackjonesdesign.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [
+    "https://images.v2.thepatterncloud.com//studio_70/avcpojsqlbxg.jpg",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large18sep.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun1.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large2.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/wdyjqbfpnaux.jpg",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/small1.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large3.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/small3.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/small2.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/large4.png",
+    "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun2.png"
+  ],
+  "website_images_local": [
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/avcpojsqlbxg.jpg",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-01.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/large18sep.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-02.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun1.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-03.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/large2.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-04.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/wdyjqbfpnaux.jpg",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-05.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/small1.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-06.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/large3.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-07.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/small3.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-08.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/small2.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-09.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/large4.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-10.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_70/homePage/mediun2.png",
+      "local_path": "../../assets/studios/jack-jones-design/website/website-11.png"
+    }
+  ]
+}

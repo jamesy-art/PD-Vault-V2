@@ -1,0 +1,71 @@
+{
+  "slug": "miksa-design-studio",
+  "name": "MIKSA Design Studio",
+  "website": "https://miksa.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/miksa-design-studio.md",
+  "scraped_at": "2026-06-05T23:23:51.366Z",
+  "status": "scraped",
+  "website_title": "MIKSA Design",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://miksa.thepatterncloud.com/home.php",
+      "text": "MIKSA Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://images.v2.thepatterncloud.com//studio_328/mgcervdhaqbw.png",
+        "https://miksa.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_328/204-x-46_new.png",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_top-left_2.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/medium-image_floral_black-ground.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_workspace.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/small-image_orange-floral.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_leave-blue_smart-object.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/small-image_animal-texture.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/small-image_blackwhite.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_model-and-blue-floral.jpg",
+        "https://images.v2.thepatterncloud.com//studio_328/homePage/medium-image_red-floral.jpg",
+        "https://miksa.thepatterncloud.com/img/social/facebook.png",
+        "https://miksa.thepatterncloud.com/img/social/instagram.png",
+        "https://miksa.thepatterncloud.com/img/social/pinterest.png",
+        "https://miksa.thepatterncloud.com/img/social/twitter.png",
+        "https://miksa.thepatterncloud.com/img/social/facebookB.png",
+        "https://miksa.thepatterncloud.com/img/social/instagramB.png",
+        "https://miksa.thepatterncloud.com/img/social/pinterestB.png",
+        "https://miksa.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://miksa.thepatterncloud.com/about.php",
+      "text": "MIKSA Design",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://miksa.thepatterncloud.com/home.php\nMIKSA Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://miksa.thepatterncloud.com/about.php\nMIKSA Design",
+  "website_about_clean": "SOURCE: https://miksa.thepatterncloud.com/home.php\nMIKSA Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://miksa.thepatterncloud.com/about.php\nMIKSA Design",
+  "website_images": [
+    "https://images.v2.thepatterncloud.com//studio_328/mgcervdhaqbw.png",
+    "https://miksa.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_328/204-x-46_new.png",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_top-left_2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/medium-image_floral_black-ground.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_workspace.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/small-image_orange-floral.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_leave-blue_smart-object.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/small-image_animal-texture.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/small-image_blackwhite.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/large-image_model-and-blue-floral.jpg",
+    "https://images.v2.thepatterncloud.com//studio_328/homePage/medium-image_red-floral.jpg",
+    "https://miksa.thepatterncloud.com/img/social/facebook.png",
+    "https://miksa.thepatterncloud.com/img/social/instagram.png",
+    "https://miksa.thepatterncloud.com/img/social/pinterest.png",
+    "https://miksa.thepatterncloud.com/img/social/twitter.png",
+    "https://miksa.thepatterncloud.com/img/social/facebookB.png",
+    "https://miksa.thepatterncloud.com/img/social/instagramB.png",
+    "https://miksa.thepatterncloud.com/img/social/pinterestB.png",
+    "https://miksa.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

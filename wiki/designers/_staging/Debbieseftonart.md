@@ -25,7 +25,7 @@ bio: ''
 website: 'https://Debbieseftonart.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/debbieseftonart
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Surface Pattern Designer and Illustrator | Art by Debbie
 website_meta_description: >-
   Children's book writer and illustrator. Certified educator with creative
@@ -258,7 +261,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -275,45 +278,142 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/325536077_695341745424606_7607457358687824343_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFM1XQz1tXA6fzcPCNm0AVY9iRou3X-0D8mJFWhYSXmKEJpn_EZULU7egjp602W30tdMQH_pbKIazwLTU0LP9pg&_nc_ohc=BdMHLlqwUzcQ7kNvwHnaods&_nc_gid=ICFWpd5AenwXDRHM7SOJQQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VSbX7CtANLBjpqbyPSKFCNYrqEplupvPWELXW73w_lQ&oe=6A13EDD1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/325536077_695341745424606_7607457358687824343_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFM1XQz1tXA6fzcPCNm0AVY9iRou3X-0D8mJFWhYSXmKEJpn_EZULU7egjp602W30tdMQH_pbKIazwLTU0LP9pg&_nc_ohc=BdMHLlqwUzcQ7kNvwHnaods&_nc_gid=ICFWpd5AenwXDRHM7SOJQQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6VSbX7CtANLBjpqbyPSKFCNYrqEplupvPWELXW73w_lQ&oe=6A13EDD1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/debbieseftonart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5779
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/debbieseftonart/profile/325536077_695341745424606_7607457358687824343_n.jpg
+instagram_profile_image_bytes: 58728
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/debbieseftonart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/debbieseftonart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/debbieseftonart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/debbieseftonart/profile/325536077_695341745424606_7607457358687824343_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/debbieseftonart/profile/325536077_695341745424606_7607457358687824343_n.jpg
+profile_image_local: >-
+  ../../assets/designers/debbieseftonart/profile/325536077_695341745424606_7607457358687824343_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/debbieseftonart/profile/325536077_695341745424606_7607457358687824343_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811820274_55490679670.jpg
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811865034_55490679670.jpg
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788828626229_55490679670.jpg
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788853756302_55490679670.jpg
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788946104765_55490679670.jpg
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_14_Paisley%20flower.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_15_Peek-a-boo_Ghost_%233.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_16_Turtles.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_17_Playful%20pastel%20stripes.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_18_4966a0_bef7650707a64b91ba786f39ba1f83f9~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_19_4966a0_c7abcf3a68794dcabd62817dea333900~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_20_4966a0_07dd4ddfefe745b2a6ded47d0cc258e0~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_21_4966a0_2271c21df51e49cd871e9ebe3fc2695e~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_22_4966a0_0d52b9c52df1421aac2fdca5059d758e~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_23_4966a0_f1b836292e5d46c0bec18d2d563eec65~mv2.png
+instagram_image_count: 15
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811865034_55490679670.jpg
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_14_Paisley%20flower.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_15_Peek-a-boo_Ghost_%233.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_17_Playful%20pastel%20stripes.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_18_4966a0_bef7650707a64b91ba786f39ba1f83f9~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_20_4966a0_07dd4ddfefe745b2a6ded47d0cc258e0~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_22_4966a0_0d52b9c52df1421aac2fdca5059d758e~mv2.png
+  - >-
+    ../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_23_4966a0_f1b836292e5d46c0bec18d2d563eec65~mv2.png
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # debbieseftonart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/debbieseftonart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/debbieseftonart/profile/325536077_695341745424606_7607457358687824343_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811820274_55490679670.jpg)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811820274_55490679670.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811865034_55490679670.jpg)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788811865034_55490679670.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788828626229_55490679670.jpg)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788828626229_55490679670.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788853756302_55490679670.jpg)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788853756302_55490679670.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788946104765_55490679670.jpg)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_1745851204_3620784788946104765_55490679670.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_14_Paisley%20flower.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_14_Paisley%20flower.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_15_Peek-a-boo_Ghost_%233.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_15_Peek-a-boo_Ghost_%233.png --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_16_Turtles.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_16_Turtles.png --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_17_Playful%20pastel%20stripes.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_17_Playful%20pastel%20stripes.png --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_18_4966a0_bef7650707a64b91ba786f39ba1f83f9~mv2.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_18_4966a0_bef7650707a64b91ba786f39ba1f83f9~mv2.png --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_19_4966a0_c7abcf3a68794dcabd62817dea333900~mv2.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_19_4966a0_c7abcf3a68794dcabd62817dea333900~mv2.png --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_20_4966a0_07dd4ddfefe745b2a6ded47d0cc258e0~mv2.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_20_4966a0_07dd4ddfefe745b2a6ded47d0cc258e0~mv2.png --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_21_4966a0_2271c21df51e49cd871e9ebe3fc2695e~mv2.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_21_4966a0_2271c21df51e49cd871e9ebe3fc2695e~mv2.png --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_22_4966a0_0d52b9c52df1421aac2fdca5059d758e~mv2.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_22_4966a0_0d52b9c52df1421aac2fdca5059d758e~mv2.png --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_23_4966a0_f1b836292e5d46c0bec18d2d563eec65~mv2.png)<br><!-- image:../../assets/designers/debbieseftonart/instagram/debbieseftonart_imageye___-_imgi_23_4966a0_f1b836292e5d46c0bec18d2d563eec65~mv2.png --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Debbie Sefton is a US-based artist, illustrator, and surface pattern designer operating under the brand Sprout & Blossom Designs. She creates fun, sweet, and whimsical illustrations and surface patterns with a primary focus on nursery, children's decor, and the young at heart. Available for licensing and brand collaboration.
+
 ## Style and Aesthetic
+
+Selected Instagram patterns include a paisley floral, a peek-a-boo Halloween ghost, playful pastel stripes, and a range of floral/botanical designs — all reflecting a children's book illustration sensibility. The palette ranges from pastels to bolder seasonal colourways (Halloween, Christmas). Work is warm, approachable, and clearly categorised for product use. Picture book storytelling is a stated influence.
 
 ## Techniques and Tools
 
+Fine arts degree. Surface pattern and illustration practice with a focus on digital production across categories. Portfolio is organised by theme: Floral & Botanical, Seasonal, Animals & Bugs, and Stripes & Misc — indicating an efficient, market-aligned production approach.
+
 ## Markets and Clients
+
+Nursery and children's decor, fabric collections, wallpaper, and home decor. Operates a licensing and collaboration model — brand-fit enquiries welcomed. Products include fabric and wallpaper alongside general surface design applications. Category breakdown in website portfolio indicates breadth across seasonal and perennial motif sets.
 
 ## Portfolio and Presence
 
+- Website: https://debbieseftonart.com (also referenced as Sprout & Blossom Designs)
+- Instagram: https://instagram.com/debbieseftonart (431 followers, 71 posts)
+
 ## Career Path
+
+Always creative — obtained a fine arts degree but also pursued teaching, ultimately spending 25 years as a first-grade teacher. Developed a deep passion for children's literature and picture books during that time, which directly informs the storytelling quality and whimsy in her surface pattern and illustration work. Now focused on design, licensing, and creative collaboration.
 
 ## Pattern Focus
 
+Children's-adjacent motifs across four documented categories: Floral & Botanical (paisley chrysanthemum, zinnia, tulips, rose buds), Seasonal (Halloween ghosts and frames, Christmas plaid, Merry Berry Christmas), Animals & Bugs, and Stripes & Misc. Selected patterns confirm pastel stripes, florals, and seasonal novelty imagery as core output.
+
 ## Connections
+
+- [[Illustration]] — core practice
+- [[Kidswear]] — primary market
+- [[Home Decor]] — key product category
+- [[United States]] — based

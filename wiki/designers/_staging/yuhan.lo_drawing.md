@@ -24,7 +24,7 @@ bio: ''
 website: 'https://yuhanlo.myportfolio.com/portfolio'
 website_about: ''
 accepted: 20/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/yuhan.lo_drawing
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Yuhan Lo
 website_meta_description: >-
   I create expressive, sketchy watercolors illustrations focused on landscapes
@@ -228,7 +231,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -245,45 +248,184 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/581431991_18293120944274100_348560055621103379_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEPQsveoiIetBbkCvReZTMZkOrOVa0XUtcJOjPQY8X5o-n2bDcapPRXv2xieKshaiw&_nc_ohc=zskdHWHWmjMQ7kNvwEXAX6P&_nc_gid=mvd63B8H5hjy25AhMwZlNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42E3oj-s9TTlW_xJb9o5YmatN0YZiWghqIW4X1YtEufQ&oe=6A13CF8B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/581431991_18293120944274100_348560055621103379_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEPQsveoiIetBbkCvReZTMZkOrOVa0XUtcJOjPQY8X5o-n2bDcapPRXv2xieKshaiw&_nc_ohc=zskdHWHWmjMQ7kNvwEXAX6P&_nc_gid=mvd63B8H5hjy25AhMwZlNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42E3oj-s9TTlW_xJb9o5YmatN0YZiWghqIW4X1YtEufQ&oe=6A13CF8B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/yuhan.lo_drawing/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6083
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/yuhan.lo_drawing/profile/581431991_18293120944274100_348560055621103379_n.jpg
+instagram_profile_image_bytes: 161315
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/yuhan.lo_drawing/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/yuhan.lo_drawing/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/yuhan.lo_drawing/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/yuhan.lo_drawing/profile/581431991_18293120944274100_348560055621103379_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/profile/581431991_18293120944274100_348560055621103379_n.jpg
+profile_image_local: >-
+  ../../assets/designers/yuhan.lo_drawing/profile/581431991_18293120944274100_348560055621103379_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/yuhan.lo_drawing/profile/581431991_18293120944274100_348560055621103379_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812157942597171_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812158236172837_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079905296116_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079922060637_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079922068210_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462722225898_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462738985091_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462747404611_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462747425068_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462755803056_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526281544476_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526331920823_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526340325596_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526373846690_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526390646798_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681594328702971_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681596434243057_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681598162285535_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332692007568_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332801075241_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332851442645_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332910108580_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258814631365_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258823041065_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258823067195_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666361546545_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666395064608_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666420243273_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666428647885_8173994099.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079905296116_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462755803056_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526331920823_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681594328702971_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332910108580_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258814631365_8173994099.jpg
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666395064608_8173994099.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812158236172837_8173994099.jpg
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # yuhan.lo_drawing
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/yuhan.lo_drawing/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/yuhan.lo_drawing/profile/581431991_18293120944274100_348560055621103379_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812157942597171_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812157942597171_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812158236172837_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1729393200_3481812158236172837_8173994099.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079905296116_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079905296116_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079922060637_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079922060637_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079922068210_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1770867000_3828892079922068210_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462722225898_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462722225898_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462738985091_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462738985091_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462747404611_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462747404611_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462747425068_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462747425068_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462755803056_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1771470900_3834952462755803056_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526281544476_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526281544476_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526331920823_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526331920823_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526340325596_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526340325596_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526373846690_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526373846690_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526390646798_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1772595600_3844367526390646798_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681594328702971_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681594328702971_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681596434243057_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681596434243057_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681598162285535_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775402828_3868681598162285535_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332692007568_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332692007568_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332801075241_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332801075241_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332851442645_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332851442645_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332910108580_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1775961900_3872544332910108580_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258814631365_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258814631365_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258823041065_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258823041065_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258823067195_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1778988600_3898004258823067195_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666361546545_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666361546545_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666395064608_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666395064608_8173994099.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666420243273_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666420243273_8173994099.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666428647885_8173994099.jpg)<br><!-- image:../../assets/designers/yuhan.lo_drawing/instagram/yuhan.lo_drawing_1779593402_3903045666428647885_8173994099.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Yuhan Lo is a self-taught watercolour artist and surface designer from Taiwan, currently based in Calgary, Canada. She creates expressive, nostalgic paintings focused on florals, landscapes, and seasonal moments, drawing on memories of living abroad. She is open to licensing and collaboration for home décor, stationery, and lifestyle products.
+
 ## Style and Aesthetic
+
+Transparent, layered watercolour with expressive colour palettes is Lo's defining approach. Her work is nostalgic and calming — inspired by places she has lived and fleeting spring scenery. Selected Instagram patterns suggest loose but structured floral all-overs and landscape-derived surface designs with a painterly, spontaneous quality.
 
 ## Techniques and Tools
 
+Self-taught watercolour is her primary and only documented medium. Her Instagram bio describes her as "a florist illustrating life abroad in watercolor art," suggesting direct botanical observation informs her practice. She works with layered transparency and expressive palette-building.
+
 ## Markets and Clients
+
+Home décor, stationery, and lifestyle products are her stated targets for art licensing. She also accepts custom commissions with documented client testimonials on her website.
 
 ## Portfolio and Presence
 
+- Website: https://yuhanlo.myportfolio.com/portfolio
+- Instagram: https://instagram.com/yuhan.lo_drawing
+
 ## Career Path
+
+Originally from Taiwan, currently based in Calgary, Canada. Self-taught, with no formal art education documented. Built her practice around personal experience of living abroad and seasonal observation as primary source material. Custom commission work runs alongside licensing interest.
 
 ## Pattern Focus
 
+Floral and landscape-inspired watercolour surface design. Selected patterns suggest loose but structured all-over repeat florals, seasonal botanical compositions, and landscape-reference surface designs. Positioned for lifestyle and home décor licensing.
+
 ## Connections
+
+- [[Watercolour]] — primary technique
+- [[Home Decor]] — stated licensing market
+- [[Stationery]] — stated licensing market
+- [[Canada]] — current base

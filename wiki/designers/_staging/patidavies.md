@@ -18,7 +18,7 @@ bio: ''
 website: 'https://patriciadavies.com.br'
 website_about: ''
 accepted: 22/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/patidavies
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Loja | patriciadavies
 website_meta_description: ''
 website_about_raw: >-
@@ -140,7 +143,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -161,45 +164,149 @@ instagram_profile_pic_url: >-
   https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/491446519_1822158988624488_731573143860254949_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTYuYzIifQ&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGhzyOqseBE-K1kKCTb9-Jne7arGkot6uuMSJCsLJknwqNXFW4sUoP8-h-bNAnZEe0&_nc_ohc=DOJ3SUmi_TwQ7kNvwFvN9gv&_nc_gid=4PCOXFqELCCno8j_7WYIKQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5p2MB_4tBLb-6Kk72glSFDQdjblgfMBy1J2L0xDRGvLA&oe=6A13D457&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/491446519_1822158988624488_731573143860254949_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTYuYzIifQ&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGhzyOqseBE-K1kKCTb9-Jne7arGkot6uuMSJCsLJknwqNXFW4sUoP8-h-bNAnZEe0&_nc_ohc=DOJ3SUmi_TwQ7kNvwFvN9gv&_nc_gid=4PCOXFqELCCno8j_7WYIKQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5p2MB_4tBLb-6Kk72glSFDQdjblgfMBy1J2L0xDRGvLA&oe=6A13D457&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/patidavies/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5438
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/patidavies/profile/491446519_1822158988624488_731573143860254949_n.jpg
+instagram_profile_image_bytes: 91968
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/patidavies/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/patidavies/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/patidavies/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/patidavies/profile/491446519_1822158988624488_731573143860254949_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/patidavies/profile/491446519_1822158988624488_731573143860254949_n.jpg
+profile_image_local: >-
+  ../../assets/designers/patidavies/profile/491446519_1822158988624488_731573143860254949_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/patidavies/profile/491446519_1822158988624488_731573143860254949_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1548167029_1962489739999358413_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1549399434_1972827901537350125_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1550327006_1980608939546237839_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1569887674_2144695714635442862_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1569937608_2145114591529969416_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1579548570_2225737188780722890_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1580229770_2231451507879290720_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484292433099_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484309277067_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1591054051_2322252159420705559_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1598489208_2384622770930949223_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206304891168_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206321831766_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206338425544_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206346864460_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206363686461_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206388763127_504036179.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1549399434_1972827901537350125_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1569887674_2144695714635442862_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484309277067_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1598489208_2384622770930949223_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206363686461_504036179.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1548167029_1962489739999358413_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1569937608_2145114591529969416_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1579548570_2225737188780722890_504036179.jpg
+  - >-
+    ../../assets/designers/patidavies/instagram/patidavies_1591054051_2322252159420705559_504036179.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # patidavies
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/patidavies/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/patidavies/profile/491446519_1822158988624488_731573143860254949_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1548167029_1962489739999358413_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1548167029_1962489739999358413_504036179.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1549399434_1972827901537350125_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1549399434_1972827901537350125_504036179.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1550327006_1980608939546237839_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1550327006_1980608939546237839_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1569887674_2144695714635442862_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1569887674_2144695714635442862_504036179.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1569937608_2145114591529969416_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1569937608_2145114591529969416_504036179.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1579548570_2225737188780722890_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1579548570_2225737188780722890_504036179.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1580229770_2231451507879290720_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1580229770_2231451507879290720_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484292433099_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484292433099_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484309277067_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1580395587_2232842484309277067_504036179.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1591054051_2322252159420705559_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1591054051_2322252159420705559_504036179.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1598489208_2384622770930949223_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1598489208_2384622770930949223_504036179.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206304891168_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206304891168_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206321831766_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206321831766_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206338425544_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206338425544_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206346864460_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206346864460_504036179.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206363686461_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206363686461_504036179.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206388763127_504036179.jpg)<br><!-- image:../../assets/designers/patidavies/instagram/patidavies_1611240720_2491590206388763127_504036179.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Patricia Davies is a creative director, visual artist, and fashion artist based in Rio de Janeiro, Brazil. Working under her own name and through the @zensorial.lab studio, she provides creative direction for brands with "soul" — encompassing moodboards, collections, and campaigns. Her practice blends manual and digital techniques including drawing, photography, and AI-assisted processes.
+
 ## Style and Aesthetic
+
+Selected images suggest a sensorial, layered aesthetic rooted in nature, the body, and the present moment. The work integrates hand-crafted mark-making with digital processing. Placement selections indicate application across fashion editorial and branding contexts.
 
 ## Techniques and Tools
 
+Works across drawing, photography, and AI as complementary tools within a unified creative process. Offers creative direction as a service — translating brand vision into visual collections and campaign imagery.
+
 ## Markets and Clients
+
+Fashion brands and creative identity projects. Services include moodboards, seasonal collections, and campaigns. Studio work operates through @zensorial.lab for structured brand engagements.
 
 ## Portfolio and Presence
 
+- Instagram: @patidavies
+- Studio: @zensorial.lab
+
 ## Career Path
+
+Established creative practice in Rio de Janeiro spanning visual art, surface design, and fashion creative direction. Integrates pattern and print work within a broader multidisciplinary offer.
 
 ## Pattern Focus
 
+Pattern work positioned within fashion creative direction — applied to editorial and campaign contexts rather than as standalone licensing. Sensorial and nature-influenced aesthetic guides both surface and directional output.
+
 ## Connections
+
+- [[Fashion]] market
+- [[Surface Pattern Design]]
+- [[Brazil]]

@@ -23,7 +23,7 @@ bio: ''
 website: 'https://gubiller.com'
 website_about: ''
 accepted: 18/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/gubiller_
 profile_url: ''
 instagram_images:
@@ -40,8 +40,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Gubiller
 website_meta_description: >-
   Licensing of pattern designs for fabric, wallpaper, home decor, stationery and
@@ -186,7 +189,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -202,44 +205,193 @@ instagram_business_account: true
 instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/565967292_18016987400790161_1970424791324086631_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjEuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHJCiINO0vSh7YWcHFuc_bdPQfYnMLjurR-TOxT3_C81yZkO0I4aiemuTXP90wU-3E&_nc_ohc=FnweLXqdxVcQ7kNvwHyKqMc&_nc_gid=nLXDxI75DNPX1S9IDz3Uhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af41iHZdH430agZaY4eKFqqBnGxKQujiFbsAz82QwmiCEw&oe=6A13F92F&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/gubiller_/profile/565967292_18016987400790161_1970424791324086631_n.jpg
+instagram_profile_image_bytes: 10418
+instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/gubiller_/profile/565967292_18016987400790161_1970424791324086631_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/gubiller_/profile/565967292_18016987400790161_1970424791324086631_n.jpg
+profile_image_local: >-
+  ../../assets/designers/gubiller_/profile/565967292_18016987400790161_1970424791324086631_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/gubiller_/profile/565967292_18016987400790161_1970424791324086631_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022239278974_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022281284402_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010549735557_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010558154221_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010675489940_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1701191335_3246150659082422636_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802738818503_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802755493173_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802755547349_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802864726932_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1703598543_3266343784526489743_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1704207911_3271455529100250156_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1705428157_3281691700820198517_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286047113250_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055531951_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055623248_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055679974_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286181421070_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286231840394_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103176950808_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103269254981_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103277584426_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1711900699_3335987311941956704_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618489752515_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618556719900_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618565342896_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618573501927_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1747328398_3633176394521361432_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498255970626204_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498255978806092_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498256113046303_53633622160.jpg
+instagram_image_count: 31
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022281284402_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010549735557_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1701191335_3246150659082422636_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802738818503_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1703598543_3266343784526489743_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286047113250_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103176950808_53633622160.jpg
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498256113046303_53633622160.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618573501927_53633622160.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # gubiller_
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/gubiller_/profile/565967292_18016987400790161_1970424791324086631_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022239278974_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022239278974_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022281284402_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1699017716_3227917022281284402_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010549735557_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010549735557_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010558154221_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010558154221_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010675489940_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1700240683_3238176010675489940_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1701191335_3246150659082422636_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1701191335_3246150659082422636_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802738818503_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802738818503_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802755493173_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802755493173_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802755547349_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802755547349_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802864726932_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1702388929_3256196802864726932_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1703598543_3266343784526489743_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1703598543_3266343784526489743_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1704207911_3271455529100250156_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1704207911_3271455529100250156_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1705428157_3281691700820198517_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1705428157_3281691700820198517_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286047113250_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286047113250_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055531951_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055531951_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055623248_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055623248_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055679974_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286055679974_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286181421070_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286181421070_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286231840394_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1707854613_3302046286231840394_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103176950808_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103176950808_53633622160.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103269254981_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103269254981_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103277584426_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1711763464_3334836103277584426_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1711900699_3335987311941956704_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1711900699_3335987311941956704_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618489752515_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618489752515_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618556719900_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618556719900_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618565342896_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618565342896_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618573501927_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1742743635_3594716618573501927_53633622160.jpg --> | [ ] | [x] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1747328398_3633176394521361432_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1747328398_3633176394521361432_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498255970626204_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498255970626204_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498255978806092_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498255978806092_53633622160.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498256113046303_53633622160.jpg)<br><!-- image:../../assets/designers/gubiller_/instagram/gubiller___1750346999_3658498256113046303_53633622160.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marie is an Argentine architect and surface pattern designer, and the founder of Gubiller Studio. Her practice focuses on licensing and commissioning pattern designs for wallpaper, fabric, and home décor — described as "timeless, elegant and tailored to your space." Collections are available in customisable colourways and scales. With 449 Instagram posts and an active presence targeting the interiors licensing market, she is open to licensing, commissions, and new project collaborations.
+
 ## Style and Aesthetic
+
+Elegant and interior-focused with a design-forward architectural sensibility. Selected patterns suggest refined decorative compositions — likely structured, considered repeat work with a timeless rather than trend-driven character. The studio's stated positioning emphasises versatility and customisation, indicating a range adaptable across wallpaper, fabric, and décor applications.
 
 ## Techniques and Tools
 
+Background in architecture, now applied to surface pattern design. Produces digital pattern collections positioned for wallpaper, fabric, and home décor applications. Collections are available with customisable colour and scale options — a feature that signals comfort with production specifications and client-facing flexibility.
+
 ## Markets and Clients
+
+Wallpaper, fabric, and home décor are the primary product categories. Website and Instagram confirm licensing, commissions, and collaborations as the primary commercial model. Selected placement image suggests interior application context. Also references stationery as an additional product category.
 
 ## Portfolio and Presence
 
+- Website: [gubiller.com](https://gubiller.com)
+- Instagram: [@gubiller_](https://instagram.com/gubiller_) — 1,340 followers, 449 posts
+
 ## Career Path
+
+Trained as an architect. Founded Gubiller Studio as a surface design and art licensing practice, applying architectural design thinking to decorative pattern development. Based in Argentina; operates internationally via art licensing, with bilingual communications (English and Spanish).
 
 ## Pattern Focus
 
+Decorative interior patterns — wallpaper, fabric, and home décor — with an emphasis on elegance and versatility. Selected patterns suggest refined all-over compositions suited to wallpaper and interior fabric applications. Work is customisable by colour and scale, positioning collections for direct licensing to interior design and homeware clients.
+
 ## Connections
+
+- [[Wallpaper Design]]
+- [[Surface Pattern Design]]
+- [[Licensing]]
+- [[Home Interiors]]
+- [[Fabric Design]]

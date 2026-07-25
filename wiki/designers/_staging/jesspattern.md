@@ -21,12 +21,12 @@ skills:
 country: ''
 can_use: 'Yes'
 instagram_handle: jesspattern
-instagram: 'https://instagram.com/@jesspattern'
+instagram: 'https://instagram.com/jesspattern'
 bio: ''
 website: 'https://jessnaara.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jesspattern
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Jess Naara
 website_meta_description: ''
 website_about_raw: >-
@@ -202,7 +205,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -219,45 +222,104 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/329053321_736283887841028_3123950162781759885_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHjLwmwCRUPXX644Xz1wvih2qr42NEapZXeUnzKL3Vt7gkAWdj2H_mq4hi61e8F3Wc&_nc_ohc=0vz-nAdieAoQ7kNvwFko2uV&_nc_gid=glaplY5qaM4qkxnHmBWo_A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5U3rCWDOHPCQtMNid2baxBD8Tn5t1R7lFwA4ZTop3XFg&oe=6A1405CD&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/329053321_736283887841028_3123950162781759885_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHjLwmwCRUPXX644Xz1wvih2qr42NEapZXeUnzKL3Vt7gkAWdj2H_mq4hi61e8F3Wc&_nc_ohc=0vz-nAdieAoQ7kNvwFko2uV&_nc_gid=glaplY5qaM4qkxnHmBWo_A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5U3rCWDOHPCQtMNid2baxBD8Tn5t1R7lFwA4ZTop3XFg&oe=6A1405CD&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jesspattern/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3794
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jesspattern/profile/329053321_736283887841028_3123950162781759885_n.jpg
+instagram_profile_image_bytes: 75529
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jesspattern/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jesspattern/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jesspattern/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jesspattern/profile/329053321_736283887841028_3123950162781759885_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jesspattern/profile/329053321_736283887841028_3123950162781759885_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jesspattern/profile/329053321_736283887841028_3123950162781759885_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jesspattern/profile/329053321_736283887841028_3123950162781759885_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_49_09e6e6_8eac361598674f69b2951d84ca054fad~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_56_09e6e6_30091c78193c45e1ab0ef12e6cfaa4fa~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_57_09e6e6_d047bfffccce438f8331964f17035a15~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_62_09e6e6_c8d08c9f44314317aa4f0560e12541c5~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_64_09e6e6_12eb21fee83c4279af172b51481625cc~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_69_09e6e6_eb9d0276f08540aa88b35dc30bd9bfc7~mv2.jpeg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_49_09e6e6_8eac361598674f69b2951d84ca054fad~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_56_09e6e6_30091c78193c45e1ab0ef12e6cfaa4fa~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_62_09e6e6_c8d08c9f44314317aa4f0560e12541c5~mv2.jpeg
+  - >-
+    ../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_64_09e6e6_12eb21fee83c4279af172b51481625cc~mv2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jesspattern
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jesspattern/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jesspattern/profile/329053321_736283887841028_3123950162781759885_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_49_09e6e6_8eac361598674f69b2951d84ca054fad~mv2.jpeg)<br><!-- image:../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_49_09e6e6_8eac361598674f69b2951d84ca054fad~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_56_09e6e6_30091c78193c45e1ab0ef12e6cfaa4fa~mv2.jpeg)<br><!-- image:../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_56_09e6e6_30091c78193c45e1ab0ef12e6cfaa4fa~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_57_09e6e6_d047bfffccce438f8331964f17035a15~mv2.jpeg)<br><!-- image:../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_57_09e6e6_d047bfffccce438f8331964f17035a15~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_62_09e6e6_c8d08c9f44314317aa4f0560e12541c5~mv2.jpeg)<br><!-- image:../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_62_09e6e6_c8d08c9f44314317aa4f0560e12541c5~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_64_09e6e6_12eb21fee83c4279af172b51481625cc~mv2.jpeg)<br><!-- image:../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_64_09e6e6_12eb21fee83c4279af172b51481625cc~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_69_09e6e6_eb9d0276f08540aa88b35dc30bd9bfc7~mv2.jpeg)<br><!-- image:../../assets/designers/jesspattern/instagram/jesspattern_imageye___-_imgi_69_09e6e6_eb9d0276f08540aa88b35dc30bd9bfc7~mv2.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jess Naara is a São Paulo-based surface print designer operating as Jesspattern. She graduated in Fashion Design and holds an MBA in Creative Economy. Her studio offers exclusive print design, artwork processing (colour separation, recolouring, seamless repeats), and concept development for fashion and lifestyle brands seeking nature-inspired print work.
+
 ## Style and Aesthetic
+
+Nature-inspired with a stated identity of "Nature inspired. Heart guided." Selected images suggest clean, illustrative nature motifs — botanical elements and organic forms with considered composition and colour. Work is described as oriented toward "meaningful and memorable prints" — distinctive and commercially refined rather than trend-following.
 
 ## Techniques and Tools
 
+Print design with full artwork processing capability: colour separation, recolouring, and seamless repeat construction. Also produces briefings, moodboards, mockups, and graphic concept development. Background in fashion design informs technical knowledge and market literacy.
+
 ## Markets and Clients
+
+Fashion and lifestyle brands, primarily in Brazil. Background includes collaboration with brands and creative studios across Brazilian fashion. Services span exclusive print collections for licensing, curated licensing catalog, and bespoke commissioned work. No specific commercial clients confirmed publicly.
 
 ## Portfolio and Presence
 
+- Website: jessnaara.com
+- Instagram: @jesspattern (private)
+
 ## Career Path
+
+Fashion Design graduate with an MBA in Creative Economy. Broad Brazilian fashion industry experience spanning technical teaching, exhibition curation, runway, and costume production. Now focused on surface print design and licensing.
 
 ## Pattern Focus
 
+Selected images suggest nature-inspired surface prints — botanical and organic motifs in clean repeat structures. A fashion-facing sensibility consistent with her Brazilian fashion design background, positioned toward womenswear and lifestyle brand licensing.
+
 ## Connections
+
+- [[Womenswear]] market

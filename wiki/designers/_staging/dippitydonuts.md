@@ -26,7 +26,7 @@ bio: ''
 website: 'https://taracarone.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/dippitydonuts
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Tara Carone | Creative Direction, Product Development, Content Design'
 website_meta_description: >-
   Versatile creative leader with 10+ years driving consumer product innovation,
@@ -284,7 +287,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -301,45 +304,146 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/28152992_433342977082794_1575365068978126848_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzcuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEGVzn0bSPwu9KUQQ85Fk4ATjTtDUEtB0g4l43oDZFWne_pMUlmBd9if2S4AKDAAlk&_nc_ohc=7znh1Dc4oDcQ7kNvwFuRhQ8&_nc_gid=94zg6NVr22ph64fsz200dg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71N80WwK04Bph0-ETkihSsToG1P0wu3Vg2ikRMFioGFA&oe=6A13DD9E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/28152992_433342977082794_1575365068978126848_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzcuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEGVzn0bSPwu9KUQQ85Fk4ATjTtDUEtB0g4l43oDZFWne_pMUlmBd9if2S4AKDAAlk&_nc_ohc=7znh1Dc4oDcQ7kNvwFuRhQ8&_nc_gid=94zg6NVr22ph64fsz200dg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af71N80WwK04Bph0-ETkihSsToG1P0wu3Vg2ikRMFioGFA&oe=6A13DD9E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5512
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/dippitydonuts/profile/28152992_433342977082794_1575365068978126848_n.jpg
+instagram_profile_image_bytes: 40601
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/dippitydonuts/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/dippitydonuts/profile/28152992_433342977082794_1575365068978126848_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/dippitydonuts/profile/28152992_433342977082794_1575365068978126848_n.jpg
+profile_image_local: >-
+  ../../assets/designers/dippitydonuts/profile/28152992_433342977082794_1575365068978126848_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/dippitydonuts/profile/28152992_433342977082794_1575365068978126848_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028369_1759999984294217259_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028370_1759999989671378851_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524455023_1763579016444786871_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525321386_1770846593931898915_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525399964_1771505757754524289_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525551650_1772778195914250144_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478509689772741_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478510142662590_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527745399_1791180691745335526_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527830405_1791893775963317108_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537842616_1875882284775796490_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537931608_1876628809365828165_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1538093267_1877984901072989248_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1559191123_2054966540060378604_7069640230.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028369_1759999984294217259_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524455023_1763579016444786871_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525321386_1770846593931898915_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525551650_1772778195914250144_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478510142662590_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527745399_1791180691745335526_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527830405_1791893775963317108_7069640230.jpg
+  - >-
+    ../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537842616_1875882284775796490_7069640230.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # dippitydonuts
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/dippitydonuts/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/dippitydonuts/profile/28152992_433342977082794_1575365068978126848_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028369_1759999984294217259_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028369_1759999984294217259_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028370_1759999989671378851_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524028370_1759999989671378851_7069640230.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524455023_1763579016444786871_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1524455023_1763579016444786871_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525321386_1770846593931898915_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525321386_1770846593931898915_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525399964_1771505757754524289_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525399964_1771505757754524289_7069640230.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525551650_1772778195914250144_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1525551650_1772778195914250144_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478509689772741_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478509689772741_7069640230.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478510142662590_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527661692_1790478510142662590_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527745399_1791180691745335526_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527745399_1791180691745335526_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527830405_1791893775963317108_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1527830405_1791893775963317108_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537842616_1875882284775796490_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537842616_1875882284775796490_7069640230.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537931608_1876628809365828165_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1537931608_1876628809365828165_7069640230.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1538093267_1877984901072989248_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1538093267_1877984901072989248_7069640230.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/dippitydonuts/instagram/dippitydonuts_1559191123_2054966540060378604_7069640230.jpg)<br><!-- image:../../assets/designers/dippitydonuts/instagram/dippitydonuts_1559191123_2054966540060378604_7069640230.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Tara Carone is a Seattle-based creative director and illustrator specialising in consumer product design, licensed character IP, and brand development. With over 10 years of industry experience, she has directed product lines and design campaigns for globally recognised brands including Roblox, Disney, Sanrio, Star Wars, Barbie/Mattel, and Igloo Coolers. Her core specialty is cute and quirky character-driven illustration, with hands-on creative direction capability across packaging, e-commerce, and licensed merchandise.
+
 ## Style and Aesthetic
+
+Carone works in a bright, energetic register centred on character IP and fandom culture. Her stated specialty is "cute and quirky," with demonstrated range across approachable kids' aesthetics and horror-adjacent styles (as evidenced by the Doors/Roblox style guide). Selected Instagram images suggest a versatile illustrative practice encompassing surface pattern applications and graphic product design across multiple tone registers.
 
 ## Techniques and Tools
 
+Graphic design and illustration background. Working method spans creative direction, colour selection, guide design, pattern design, and designer sourcing — operating at both art direction and execution level. Works across packaging, e-commerce assets, and licensed merchandise. Specific software not documented.
+
 ## Markets and Clients
+
+Licensed consumer products, with particular strength in gaming IP and character brands. Confirmed projects include:
+- **Roblox** — Blox Fruits and Doors style guides (creative direction, pattern design, designer sourcing)
+- **Sanrio** — including a Sanrio penny press machine
+- **Disney**, **Star Wars**, **Barbie/Mattel** — licensed product lines
+- **Igloo Coolers** — licensed product (Iron Maiden coolers referenced)
+- **Epic Drops** — brand rebrand including logo, mascot, brand guide, and softlines merchandise
+
+Available for freelance and custom development.
 
 ## Portfolio and Presence
 
+- Website: taracarone.com
+- Instagram: @dippitydonuts (90 posts, 168 followers)
+
 ## Career Path
+
+Over 10 years of experience across consumer product innovation, brand development, and visual storytelling. Spent significant time on the hiring side of the industry, which shapes her collaborative and transparent freelance approach. Based in Seattle.
 
 ## Pattern Focus
 
+Selected Instagram images suggest character-driven and illustrative surface designs across multiple IP properties. Pattern design in her practice is integrated into licensed consumer product development — adapting and directing print-ready graphics for merchandise — rather than standalone repeat pattern creation.
+
 ## Connections
+
+- [[Consumer Products]] — primary market
+- [[Licensing]] — central business model
+- [[Character Design]] — core illustrative speciality
+- [[Stationery]] — listed product category

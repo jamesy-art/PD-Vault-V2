@@ -23,7 +23,7 @@ bio: ''
 website: 'https://digndesigns.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/digndesigns
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Surface Pattern Designs & Textile Prints | Dig'n Designs
 website_meta_description: >-
   Dig’n Designs is known for The Art of Everyday Beauty. Creating timeless
@@ -249,7 +252,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -266,45 +269,101 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/504460831_18512787208037595_1101076837599002224_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEi3xdoFKXFXqucuTGiajIoMb9cNBz4YbgfPw3lJf1lnZHOuF_dIGZ1_HbNGKK6mAA&_nc_ohc=lJ5OH44T_TAQ7kNvwHOF182&_nc_gid=Hz0PBBt0soA475cHon4MWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4bYD4gbWA_illlx0CwozOeotNI7RsFZyL2L1Et22RAfQ&oe=6A13F8C3&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/504460831_18512787208037595_1101076837599002224_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEi3xdoFKXFXqucuTGiajIoMb9cNBz4YbgfPw3lJf1lnZHOuF_dIGZ1_HbNGKK6mAA&_nc_ohc=lJ5OH44T_TAQ7kNvwHOF182&_nc_gid=Hz0PBBt0soA475cHon4MWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4bYD4gbWA_illlx0CwozOeotNI7RsFZyL2L1Et22RAfQ&oe=6A13F8C3&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/digndesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4619
+instagram_profile_image_local: >-
+  ../../assets/designers/digndesigns/profile/504460831_18512787208037595_1101076837599002224_n.jpg
+instagram_profile_image_bytes: 20583
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/digndesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/digndesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/digndesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/digndesigns/profile/504460831_18512787208037595_1101076837599002224_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/digndesigns/profile/504460831_18512787208037595_1101076837599002224_n.jpg
+profile_image_local: >-
+  ../../assets/designers/digndesigns/profile/504460831_18512787208037595_1101076837599002224_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/digndesigns/profile/504460831_18512787208037595_1101076837599002224_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1460576281_1227725290110176302_1496869594.jpg
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1463432882_1251688197621534040_1496869594.jpg
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1464020352_1256616252064386559_1496869594.jpg
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1464035980_1256747352661151193_1496869594.jpg
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1460576281_1227725290110176302_1496869594.jpg
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1463432882_1251688197621534040_1496869594.jpg
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1464020352_1256616252064386559_1496869594.jpg
+  - >-
+    ../../assets/designers/digndesigns/instagram/digndesigns_1464035980_1256747352661151193_1496869594.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # digndesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/digndesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/digndesigns/profile/504460831_18512787208037595_1101076837599002224_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/digndesigns/instagram/digndesigns_1460576281_1227725290110176302_1496869594.jpg)<br><!-- image:../../assets/designers/digndesigns/instagram/digndesigns_1460576281_1227725290110176302_1496869594.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/digndesigns/instagram/digndesigns_1463432882_1251688197621534040_1496869594.jpg)<br><!-- image:../../assets/designers/digndesigns/instagram/digndesigns_1463432882_1251688197621534040_1496869594.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/digndesigns/instagram/digndesigns_1464020352_1256616252064386559_1496869594.jpg)<br><!-- image:../../assets/designers/digndesigns/instagram/digndesigns_1464020352_1256616252064386559_1496869594.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/digndesigns/instagram/digndesigns_1464035980_1256747352661151193_1496869594.jpg)<br><!-- image:../../assets/designers/digndesigns/instagram/digndesigns_1464035980_1256747352661151193_1496869594.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kelly Shipley is a US-based surface and textile designer working under the brand Dig'n Designs, positioned around the tagline "The Art of Everyday Beauty." Her practice combines a self-produced line of home goods — notebooks, stickers, greeting cards, blankets, bookmarks, and metal signs — with a licensing offering for manufacturers, brands, and retailers. All patterns are hand-drawn and centred on a warm botanical-floral aesthetic rooted in nostalgia and cottage charm.
+
 ## Style and Aesthetic
+
+Shipley's work sits in a warm, nostalgic register defined by hand-drawn botanicals and florals. Pattern names — The Gentle Gathering, April's Quiet Bloom, Big Blossom, Honeyed Tulip, Peach Petal Bloom, Whispering Daisy, Sage Blossom Bow, Golden Meadow Stem — indicate an all-over floral vocabulary with a soft, muted palette. The aesthetic is positioned as "modern cottage elegance," drawing on childhood memories and a cosy domestic sensibility. Selected Instagram images confirm a consistent botanical floral register across the four reviewed patterns.
 
 ## Techniques and Tools
 
+Hand-drawn patterns. Website positions work for fabric, wallpaper, and home goods. The practice covers both direct-to-consumer product design and licensing. Specific tools or software not documented beyond a hand-drawn working method.
+
 ## Markets and Clients
+
+Home décor and lifestyle, sold direct-to-consumer via digndesigns.com. Licensing is explicitly offered to manufacturers, brands, and retailers seeking designs for fabric, wallpaper, and home goods. Blog content covers home styling topics aligned with the brand's aesthetic. No specific licensing clients are documented.
 
 ## Portfolio and Presence
 
+- Website: digndesigns.com
+- Instagram: @digndesigns (193 posts, 487 followers)
+
 ## Career Path
+
+Shipley traces her love of pattern and design to childhood memories of handmade gifts and cosy family gatherings. She built Dig'n Designs around that nostalgia, developing both a direct product line and a licensing offering. The brand's stated mission is to bring "comfort, style, and meaningful nostalgia" into the home.
 
 ## Pattern Focus
 
+All-over botanical florals with a soft, warm palette — tulips, daisies, meadow stems, garden blooms. Named collections (April's Quiet Bloom, The Gentle Gathering) suggest a seasonal, nature-led editorial cadence. The pattern vocabulary is well-suited to home textiles, stationery, and lifestyle product applications.
+
 ## Connections
+
+- [[Botanical Pattern]] — core pattern type
+- [[Home Décor]] — primary market
+- [[Stationery]] — product line category
+- [[Licensing]] — available service

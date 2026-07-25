@@ -18,7 +18,7 @@ bio: ''
 website: 'https://frandesign.com.br'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/franbragancastudio
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | frandesign
 website_meta_description: ''
 website_about_raw: >-
@@ -230,7 +233,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
 
   Our
@@ -262,45 +265,148 @@ instagram_profile_pic_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/106744963_935074027007644_4926409020082322545_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGCZjLnquaFzVbz3YQ1fn0dgxyH1inWRuj5amd5a82X1SDTJFtk7DNkFntJU2LjbH4gVRn3hhphL_Kg5LqrS5Wm&_nc_ohc=UjKAWYQ7CQkQ7kNvwFJDmad&_nc_gid=B5uke2US4G28BvWa4djBtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5TRB9S4MH35sRtF1jZLChNE_TkSB8JGk0_53WVDXW2-Q&oe=6A13FAB7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/106744963_935074027007644_4926409020082322545_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGCZjLnquaFzVbz3YQ1fn0dgxyH1inWRuj5amd5a82X1SDTJFtk7DNkFntJU2LjbH4gVRn3hhphL_Kg5LqrS5Wm&_nc_ohc=UjKAWYQ7CQkQ7kNvwFJDmad&_nc_gid=B5uke2US4G28BvWa4djBtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5TRB9S4MH35sRtF1jZLChNE_TkSB8JGk0_53WVDXW2-Q&oe=6A13FAB7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7199
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/franbragancastudio/profile/106744963_935074027007644_4926409020082322545_n.jpg
+instagram_profile_image_bytes: 164414
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/franbragancastudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/franbragancastudio/profile/106744963_935074027007644_4926409020082322545_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/franbragancastudio/profile/106744963_935074027007644_4926409020082322545_n.jpg
+profile_image_local: >-
+  ../../assets/designers/franbragancastudio/profile/106744963_935074027007644_4926409020082322545_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/franbragancastudio/profile/106744963_935074027007644_4926409020082322545_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304777039565_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304793788455_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304802135256_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1568819046_2135731415619565880_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273586256918_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273611207470_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273619584195_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1616548964_2536118987115470219_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372576042571_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372601236124_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372634719274_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_2_3afe37_67739f376c65450aa0a33a69b954dd37~mv2.jpeg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_4_3afe37_7d6bb17a37954def87b966eb6999cce3~mv2.jpeg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_6_3afe37_ba22d029097f4603a9381d8a6fe97523~mv2.jpeg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_7_3afe37_bdea59cf21794ebdad5aeb8a0bb41ad2~mv2.jpeg
+instagram_image_count: 15
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304793788455_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1616548964_2536118987115470219_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_2_3afe37_67739f376c65450aa0a33a69b954dd37~mv2.jpeg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_4_3afe37_7d6bb17a37954def87b966eb6999cce3~mv2.jpeg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_6_3afe37_ba22d029097f4603a9381d8a6fe97523~mv2.jpeg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_7_3afe37_bdea59cf21794ebdad5aeb8a0bb41ad2~mv2.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1568819046_2135731415619565880_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372576042571_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372601236124_4362256.jpg
+  - >-
+    ../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372634719274_4362256.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # franbragancastudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/franbragancastudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/franbragancastudio/profile/106744963_935074027007644_4926409020082322545_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304777039565_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304777039565_4362256.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304793788455_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304793788455_4362256.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304802135256_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1549380170_1972666304802135256_4362256.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1568819046_2135731415619565880_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1568819046_2135731415619565880_4362256.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273586256918_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273586256918_4362256.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273611207470_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273611207470_4362256.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273619584195_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1575570447_2192366273619584195_4362256.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1616548964_2536118987115470219_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1616548964_2536118987115470219_4362256.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372576042571_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372576042571_4362256.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372601236124_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372601236124_4362256.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372634719274_4362256.jpg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_1700426216_3239732372634719274_4362256.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_2_3afe37_67739f376c65450aa0a33a69b954dd37~mv2.jpeg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_2_3afe37_67739f376c65450aa0a33a69b954dd37~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_4_3afe37_7d6bb17a37954def87b966eb6999cce3~mv2.jpeg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_4_3afe37_7d6bb17a37954def87b966eb6999cce3~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_6_3afe37_ba22d029097f4603a9381d8a6fe97523~mv2.jpeg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_6_3afe37_ba22d029097f4603a9381d8a6fe97523~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_7_3afe37_bdea59cf21794ebdad5aeb8a0bb41ad2~mv2.jpeg)<br><!-- image:../../assets/designers/franbragancastudio/instagram/franbragancastudio_imageye___-_imgi_7_3afe37_bdea59cf21794ebdad5aeb8a0bb41ad2~mv2.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Fran Bragança is a Rio de Janeiro-based graphic designer, botanical illustrator, and surface pattern designer with a practice dating to 2003. A graduate in product design from PUC-RJ, she has worked for established Brazilian fashion brands and in 2019 pivoted toward hand-painted botanical pattern work. She operates frandesign.com.br, selling hand-painted bags and accessories under her own brand, alongside developing surface patterns for licensing and print-on-demand.
+
 ## Style and Aesthetic
+
+Botanical watercolour and gouache compositions inspired by the interior of Rio de Janeiro and its native flora, fauna, and traditional visual culture. Selected pattern images suggest rich botanical repeat designs with a warm, lush colour palette and hand-painted character. The work has a boho-chic register suited to women's lifestyle and accessories markets.
 
 ## Techniques and Tools
 
+Hand-painting in watercolour and gouache is the primary method, supplemented by formal botanical drawing training completed at the National School of Tropical Botany in Rio de Janeiro. The product design background (PUC-RJ) informs layout and repeat construction. Graphic design practice runs alongside the pattern work.
+
 ## Markets and Clients
+
+Direct-to-consumer via her own product line — hand-painted bags, backpacks, jewellery cases, and accessories sold at frandesign.com.br. Selected placement images confirm the patterns are applied to women's bags and accessories. Prior commercial work with Richards and Francesca Romana Diana (Brazilian fashion brands). Print-on-demand channel also active.
 
 ## Portfolio and Presence
 
+- Website: [frandesign.com.br](https://frandesign.com.br)
+- Instagram: [@franbragancastudio](https://instagram.com/franbragancastudio) — 1,531 followers, 185 posts
+
 ## Career Path
+
+Graphic designer and illustrator since 2003. Product design degree from PUC-RJ. Worked for Richards and Francesca Romana Diana before returning to hand-painting in watercolour and gouache in 2019. Subsequent botanical drawing course at the National School of Tropical Botany, Rio de Janeiro, further refined the illustration practice.
 
 ## Pattern Focus
 
+Botanical and floral repeat patterns in watercolour and gouache. Motifs include flowers, fruits, animals, and traditional elements drawn from Rio de Janeiro's interior. Selected patterns show dense botanical compositions. Applied primarily to bags and accessories in the direct product line; also positioned for licensing.
+
 ## Connections
+
+- [[Botanical Patterns]]
+- [[Floral Patterns]]
+- [[Watercolour Illustration]]
+- [[Surface Pattern Design]]
+- [[Licensing]]
+- [[Home Accessories]]

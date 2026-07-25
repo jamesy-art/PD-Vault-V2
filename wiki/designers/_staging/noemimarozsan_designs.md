@@ -27,7 +27,7 @@ bio: ''
 website: 'https://nmpatternstudio.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/noemimarozsan_designs
 profile_url: ''
 instagram_images:
@@ -44,7 +44,10 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Noemi Marozsan Designs | seamless pattern
 website_meta_description: >-
   Explore Noemi Marozsan Design for timeless elegance and vibrant seamless
@@ -261,45 +264,267 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/noemimarozsan_designs/profile/483545601_1008749254502454_2377960544811412746_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/noemimarozsan_designs/profile/483545601_1008749254502454_2377960544811412746_n.jpg
+profile_image_local: >-
+  ../../assets/designers/noemimarozsan_designs/profile/483545601_1008749254502454_2377960544811412746_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/noemimarozsan_designs/profile/483545601_1008749254502454_2377960544811412746_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_profile_image_local: >-
+  ../../assets/designers/noemimarozsan_designs/profile/483545601_1008749254502454_2377960544811412746_n.jpg
+instagram_profile_image_bytes: 148721
+instagram_profile_image_quality: large
+instagram_images_selected:
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061577685757_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061585881203_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920670424_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920680531_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920737229_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920843940_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483929150151_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828484205959682_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979238744724_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255570972_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255665765_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255708535_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255741522_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200614101_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200822693_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438497822_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438503385_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438505504_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438512326_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438523783_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438543952_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438552583_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514446925793_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514648266257_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514648273152_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476968618127_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476968636112_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476977025560_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476977041217_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477035746867_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477035753399_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477513898016_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786141488649_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786720295878_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786770606433_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091787307484807_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091787492025352_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091789564020292_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800577217557042_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800578526182410_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800578710708244_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800579742517629_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800580707235049_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581344741885_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581420268970_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581596431068_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800582032620617_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800582292680942_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800590639342243_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821467_3863800590630932632_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973412967609330_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415668746627_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415694058136_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415702267783_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973416096713177_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973417153562870_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973417782725455_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1780475161_3911228388970500676_4263963346.jpg
+instagram_image_count: 58
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061585881203_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920680531_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200614101_4263963346.jpg
+  - >-
+    ../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438497822_4263963346.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # noemimarozsan_designs
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/noemimarozsan_designs/profile/483545601_1008749254502454_2377960544811412746_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061577685757_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061577685757_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061585881203_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1743530350_3601316061585881203_4263963346.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920670424_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920670424_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920680531_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920680531_4263963346.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920737229_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920737229_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920843940_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483920843940_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483929150151_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828483929150151_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828484205959682_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1744306692_3607828484205959682_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979238744724_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979238744724_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255570972_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255570972_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255665765_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255665765_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255708535_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255708535_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255741522_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1749728270_3653307979255741522_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200614101_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200614101_4263963346.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200822693_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1750004825_3655627892200822693_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438497822_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438497822_4263963346.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438503385_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438503385_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438505504_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438505504_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438512326_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438512326_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438523783_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438523783_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438543952_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438543952_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438552583_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514438552583_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514446925793_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514446925793_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514648266257_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514648266257_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514648273152_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1763331067_3767416514648273152_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476968618127_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476968618127_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476968636112_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476968636112_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476977025560_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476977025560_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476977041217_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303476977041217_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477035746867_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477035746867_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477035753399_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477035753399_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477513898016_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1767966755_3806303477513898016_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786141488649_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786141488649_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786720295878_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786720295878_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786770606433_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091786770606433_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091787307484807_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091787307484807_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091787492025352_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091787492025352_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091789564020292_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1770326404_3826091789564020292_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800577217557042_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800577217557042_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800578526182410_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800578526182410_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800578710708244_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800578710708244_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800579742517629_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800579742517629_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800580707235049_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800580707235049_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581344741885_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581344741885_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581420268970_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581420268970_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581596431068_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800581596431068_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800582032620617_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800582032620617_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800582292680942_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800582292680942_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800590639342243_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821466_3863800590639342243_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821467_3863800590630932632_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1774821467_3863800590630932632_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973412967609330_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973412967609330_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415668746627_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415668746627_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415694058136_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415694058136_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415702267783_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973415702267783_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973416096713177_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973416096713177_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973417153562870_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973417153562870_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973417782725455_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1779610701_3903973417782725455_4263963346.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1780475161_3911228388970500676_4263963346.jpg)<br><!-- image:../../assets/designers/noemimarozsan_designs/instagram/noemimarozsan_designs_1780475161_3911228388970500676_4263963346.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Noemi Marozsan is a UK-based surface pattern designer working under her own name through NM Pattern Studio. She specialises in seamless pattern design with a focus on vintage charm, whimsical motifs, and seasonal themes. Her collections are available for licensing and collaboration, and she produces a direct-to-consumer range of printed products.
+
 ## Style and Aesthetic
+
+Selected images suggest a vibrant, nature-inspired aesthetic — vintage-inflected animal motifs (tigers, cats), botanical compositions, abstract geometric forms, and playful hand-drawn subjects. Work blends artistic vision with trend-focused creativity, combining nostalgic warmth with contemporary colour.
 
 ## Techniques and Tools
 
+Seamless repeat construction across a range of motif types. Designs for multiple product formats simultaneously — fabric, wallpaper, apparel, accessories, and phone cases.
+
 ## Markets and Clients
+
+Licensing and direct consumer sales. Own product range includes yoga leggings (Tiger Palm Tree, Kaleidoscope geometric), hoodies and sweatshirts (Born to Roam Tiger), iPhone cases, bandanas, and children's leggings (Colourful Hand-Drawn Veggie Pattern series). Open to licensing collaboration across a variety of creative applications.
 
 ## Portfolio and Presence
 
+- Instagram: @noemimarozsan_designs
+- Website: nmpatternstudio.com
+
 ## Career Path
+
+UK-based surface pattern designer creating seamless designs and printed products, blending artistic vision with trend-focused creativity. Runs NM Pattern Studio as both a licensing practice and a direct-to-consumer product business.
 
 ## Pattern Focus
 
+Vintage, whimsical, and seasonal seamless patterns — tigers, tropical themes, abstract geometry, hand-drawn vegetables, and botanical subjects. Exclusive collections available for licensing and collaboration.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Art Licensing]]
+- [[Surface Pattern Design]]
+- [[Home Textiles]] market

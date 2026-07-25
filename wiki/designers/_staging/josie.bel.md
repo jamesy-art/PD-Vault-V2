@@ -24,7 +24,7 @@ bio: ''
 website: 'https://josie-bel.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/josie.bel
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Josie Bel | Pattern designer
 website_meta_description: >-
   Je suis Joséphine Belloeil aka Josie Bel, pattern designer et créatrice
@@ -267,7 +270,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -284,45 +287,178 @@ instagram_profile_pic_url: >-
   https://instagram.fhsv1-1.fna.fbcdn.net/v/t51.2885-19/434139739_1470195516911100_4972341219841318208_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fhsv1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFkQqVOsQsZcYOfSY4EWP0zTU4lTn-NfVnpBsE07fNvMn7uT0MhOTgELP60NUzeE4E&_nc_ohc=IUyfGI7nJooQ7kNvwGyPrDv&_nc_gid=NOsVUPU-8JxMnhdKVM0Hgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42ClZKLjAowlTxra9avaP4wMVVpSREerkw5OkGwLLgLg&oe=6A13E971&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fhsv1-1.fna.fbcdn.net/v/t51.2885-19/434139739_1470195516911100_4972341219841318208_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fhsv1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gFkQqVOsQsZcYOfSY4EWP0zTU4lTn-NfVnpBsE07fNvMn7uT0MhOTgELP60NUzeE4E&_nc_ohc=IUyfGI7nJooQ7kNvwGyPrDv&_nc_gid=NOsVUPU-8JxMnhdKVM0Hgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42ClZKLjAowlTxra9avaP4wMVVpSREerkw5OkGwLLgLg&oe=6A13E971&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/josie.bel/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7283
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/josie.bel/profile/434139739_1470195516911100_4972341219841318208_n.jpg
+instagram_profile_image_bytes: 284437
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/josie.bel/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/josie.bel/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/josie.bel/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/josie.bel/profile/434139739_1470195516911100_4972341219841318208_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/josie.bel/profile/434139739_1470195516911100_4972341219841318208_n.jpg
+profile_image_local: >-
+  ../../assets/designers/josie.bel/profile/434139739_1470195516911100_4972341219841318208_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/josie.bel/profile/434139739_1470195516911100_4972341219841318208_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520396965_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520601806_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838881152551_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237031127813_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237039521740_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237039573707_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141573601782_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141581914782_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141606986563_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141615357682_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348928924510042_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348929813698449_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673140745496_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673442729438_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003203605_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003216662_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667251458117_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259820930_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259836489_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090965919_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090994602_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292325875445_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1762364028_3759304402893831955_1583484107.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520396965_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237031127813_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141581914782_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348928924510042_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673442729438_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259820930_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090965919_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292325875445_1583484107.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348929813698449_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003203605_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259836489_1583484107.jpg
+  - >-
+    ../../assets/designers/josie.bel/instagram/josie.bel_1762364028_3759304402893831955_1583484107.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # josie.bel
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/josie.bel/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/josie.bel/profile/434139739_1470195516911100_4972341219841318208_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520396965_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520396965_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520601806_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838520601806_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838881152551_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1746703437_3627933838881152551_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237031127813_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237031127813_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237039521740_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237039521740_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237039573707_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1748362997_3641855237039573707_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141573601782_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141573601782_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141581914782_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141581914782_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141606986563_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141606986563_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141615357682_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1749228564_3649116141615357682_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348928924510042_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348928924510042_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348929813698449_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1751044454_3664348929813698449_1583484107.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673140745496_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673140745496_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673442729438_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1752507956_3676625673442729438_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003203605_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003203605_1583484107.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003216662_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1755019851_3697696980003216662_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667251458117_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667251458117_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259820930_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259820930_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259836489_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1755891830_3705011667259836489_1583484107.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090965919_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090965919_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090994602_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292090994602_1583484107.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292325875445_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1757672534_3719949292325875445_1583484107.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/josie.bel/instagram/josie.bel_1762364028_3759304402893831955_1583484107.jpg)<br><!-- image:../../assets/designers/josie.bel/instagram/josie.bel_1762364028_3759304402893831955_1583484107.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Joséphine Belloeil, working as Josie Bel, is a French pattern designer and textile creator based between Lyon and Savoie. She designs exclusive prints for textiles, accessories, stationery, and home decor through licensing, custom commissions, and collaborations. Her documented client list includes Bouygues Immobilier, Club Med, Brooklyn Brewery, Omart, Sticker App, Lovely Brive Festival, and Mercerie Snaply. She was a finalist in the Etsy Design Awards 2022 and has been featured in Tribune de Lyon, Grain de sel, Tissus Print, Vivre Lyon, and Lyon Capitale. With 8,700+ Instagram followers, she is among the more visible independent pattern designers in France.
+
 ## Style and Aesthetic
+
+Joséphine's work is characterised by geometric and naive shapes, mixed colours and textures, and a playful-retro sensibility. Selected Instagram images suggest bold, flat-colour pattern compositions with strong graphic presence. The work is commercially confident — balancing decorative richness with clear visual structure suited to product application.
 
 ## Techniques and Tools
 
+Joséphine creates prints across textile, accessories, stationery, and home decor. Her stated practice covers direct collaborations, custom commissions, and licensing. Packaging and set design are referenced as additional application areas. No specific software is documented in available sources.
+
 ## Markets and Clients
+
+- Bouygues Immobilier, Club Med, Brooklyn Brewery, Omart, Sticker App, Lovely Brive Festival, Mercerie Snaply (documented clients)
+- Textiles, accessories, stationery, home decor (stated)
+- Packaging, set design (cited in website copy)
 
 ## Portfolio and Presence
 
+- Website: https://josie-bel.com
+- Instagram: https://instagram.com/josie.bel (8,707 followers, 187 posts)
+
 ## Career Path
+
+Joséphine Belloeil has built an active independent practice from Lyon and Savoie, accumulating clients across real estate (Bouygues Immobilier), hospitality (Club Med), beverage (Brooklyn Brewery), and craft/festival contexts. She was a 2022 Etsy Design Awards finalist. Press coverage includes multiple Lyon-based publications. She maintains worldwide delivery capability through her online shop.
 
 ## Pattern Focus
 
+Geometric and naive motifs with a playful, story-bearing quality and a retro aesthetic. Selected patterns suggest bold flat-colour constructions with strong decorative intent, suited to textile, home decor, stationery, and packaging. Selected placements suggest garment and interior product photography contexts. The range is broad and commercially versatile.
+
 ## Connections
+
+- [[Bouygues Immobilier]] — documented client
+- [[Club Med]] — documented client
+- [[Brooklyn Brewery]] — documented client
+- [[Home Decor]] — primary market
+- [[Stationery]] — market
+- [[Licensing]] — business model

@@ -1,13 +1,13 @@
 ---
-applied: '3/3/2026 18:46:23'
+applied: 3/3/2026 18:46:23
 email: nataliyagreen.studio@gmail.com
 name: Nataliya Green
 slug: nataliyagreen.studio
 type: pattern designer
-experience: ''
+experience: ""
 open to:
-  - ''
-  - ''
+  - ""
+  - ""
 pricing:
   - Licensing
 skills:
@@ -17,248 +17,41 @@ skills:
   - Market adaptation
   - Licensing basics
 country: United Kingdom
-can_use: 'Yes'
+can_use: Yes
 instagram_handle: nataliyagreen.studio
-instagram: 'https://instagram.com/@nataliyagreen.studio'
-bio: ''
-website: 'https://nataliyagreen.co.uk'
-website_about: ''
-accepted: ''
-level: level_3
+instagram: https://instagram.com/nataliyagreen.studio
+bio: ""
+website: https://nataliyagreen.co.uk
+website_about: ""
+accepted: ""
+level: level_2
 asset_folder: wiki/assets/designers/nataliyagreen.studio
-profile_url: ''
+profile_url: ""
 instagram_images:
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
 website_images:
-  - ''
-  - ''
-  - ''
-  - ''
+  - ""
+  - ""
+  - ""
+  - ""
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - needs_image_table_review
 website_title: Nataliya Green - Illustrator
-website_meta_description: ''
-website_about_raw: >-
-  Original mixed-media illustrations for publishing, products, décor & editorial
-  work.Collections include city maps, culinary scenes, lifestyle illustration,
-  fashion & character work.Available for licensing across print, giftware,
-  apparel, editorial, packaging, and décor. View fullsize View fullsize View
-  fullsize View fullsize View fullsize View fullsize View fullsize View fullsize
-  View fullsize View fullsize View fullsize View fullsize View fullsize View
-  fullsize View fullsize 0 Skip to Content Nataliya Green - Illustrator Open
-  Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Original
-  mixed-media illustrations for publishing, products, décor & editorial
-  work.Collections include city maps, culinary scenes, lifestyle illustration,
-  fashion & character work.Available for licensing across print, giftware,
-  apparel, editorial, packaging, and décor. View fullsize View fullsize View
-  fullsize View fullsize View fullsize View fullsize View fullsize View fullsize
-  View fullsize View fullsize View fullsize View fullsize View fullsize View
-  fullsize View fullsize Skip to Content Nataliya Green - Illustrator Open Menu
-  Close Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green -
-  Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close
-  Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green -
-  Illustrator { "video": { "playbackSpeed": 1, "filter": 1, "filterStrength": 0,
-  "zoom": 0, "videoSourceProvider": "none" }, "backgroundImageId": null,
-  "backgroundMediaEffect": { "type": "none" }, "divider": { "enabled": false },
-  "typeName": "page" } { "video": { "playbackSpeed": 0.5, "filter": 1,
-  "filterStrength": 0, "zoom": 0 }, "backgroundImageId": null,
-  "backgroundMediaEffect": null, "divider": { "enabled": false }, "typeName":
-  "page" } 0 Skip to Content @supports (-webkit-backdrop-filter: none) or
-  (backdrop-filter: none) { .header-blur-background { } } Nataliya Green -
-  Illustrator Work Portfolio People Restaurants Food & Hospitality Architecture
-  Hotels & Resorts Maps & Travel Fashion Illustration Commercial&Advertising
-  About Contact .top-bun, .patty, .bottom-bun { height: 1px; } Open Menu Close
-  Menu Nataliya Green - Illustrator Work Portfolio People Restaurants Food &
-  Hospitality Architecture Hotels & Resorts Maps & Travel Fashion Illustration
-  Commercial&Advertising About Contact .top-bun, .patty, .bottom-bun { height:
-  1px; } Open Menu Close Menu Work Folder: Portfolio Back People Restaurants
-  Food & Hospitality Architecture Hotels & Resorts Maps & Travel Fashion
-  Illustration Commercial&Advertising About Contact .fe-699a56cf66283759ed8271b1
-  { --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px);
-  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 -
-  1)) ) / 8 ); display: grid; position: relative; grid-area: 1/1/-1/-1;
-  grid-template-rows: repeat(6,minmax(24px, auto)); grid-template-columns:
-  minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width)))
-  minmax(var(--grid-gutter), 1fr); row-gap: 0.0px; column-gap: 0.0px;
-  overflow-x: hidden; overflow-x: clip; } @media (min-width: 768px) {
-  .background-width--inset .fe-699a56cf66283759ed8271b1 { --inset-padding:
-  calc(var(--sqs-site-gutter) * 2); } .fe-699a56cf66283759ed8271b1 {
-  --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px); --cell-max-width:
-  calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 );
-  --inset-padding: 0vw; --row-height-scaling-factor: 0.0215; --container-width:
-  min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter,
-  4vw) * 2 - var(--inset-padding) )); grid-template-rows:
-  repeat(3,minmax(calc(var(--container-width) *
-  var(--row-height-scaling-factor)), auto)); grid-template-columns:
-  minmax(var(--grid-gutter), 1fr) repeat(24, minmax(0, var(--cell-max-width)))
-  minmax(var(--grid-gutter), 1fr); } } .fe-block-41222105af2ee0d6234b {
-  grid-area: 2/2/6/10; z-index: 1; @media (max-width: 767px) { } }
-  .fe-block-41222105af2ee0d6234b .sqs-block { justify-content: flex-start; }
-  .fe-block-41222105af2ee0d6234b .sqs-block-alignment-wrapper { align-items:
-  flex-start; } @media (min-width: 768px) { .fe-block-41222105af2ee0d6234b {
-  grid-area: 1/7/4/21; z-index: 1; } .fe-block-41222105af2ee0d6234b .sqs-block {
-  justify-content: flex-start; } .fe-block-41222105af2ee0d6234b
-  .sqs-block-alignment-wrapper { align-items: flex-start; } } Original
-  mixed-media illustrations for publishing, products, décor & editorial work.
-  Collections include city maps, culinary scenes, lifestyle illustration,
-  fashion & character work. Available for licensing across print, giftware,
-  apparel, editorial, packaging, and décor.
-  Barth\u00E9lemy","code":"BL","phoneCode":"+590"},{"name":"St. Pierre &
-  Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Review the following
-  information: {0}.","invalidCountryCode":"Country code should have an optional
-  plus and up to 4 digits.","invalidDate":"This is not a real
-  date.","required":"{0} is required.","invalidStringLength":"Value should be
-  {0} characters long.","invalidEmail":"Email addresses should follow the format
-  user@domain.com.","invalidListLength":"Value should be {0} elements
-  long.","allEmpty":"Please fill out at least one form
-  field.","missingRequiredQuestion":"Missing a required
-  question.","invalidQuestion":"Contained an invalid
-  question.","captchaFailure":"Captcha validation failed. Collections include
-  city maps, culinary scenes, lifestyle illustration, fashion & character work.
-  Available for licensing across print, giftware, apparel, editorial, packaging,
-  and décor. Nataliya Green is a Cambridge - based lifestyle illustrator
-  specialising in luxury, hospitality and cultural environments. Working
-  primarily through observational drawing, her illustrations capture atmosphere,
-  gesture, and human interaction within fashion, retail, and architectural
-  spaces. Her work balances expressive mark-making with selective detail,
-  focusing on mood, movement, and the experience of place rather than literal
-  representation. Influenced by live observation and on-location sketching,
-  Nataliya’s practice explores how people inhabit and move through interiors,
-  cities, and social spaces. Through simplified forms, layered textures, and
-  atmospheric compositions, she creates illustrations that feel both elegant and
-  immediate. Her work spans editorial, hospitality, luxury branding, and live
-  illustration, often combining architectural settings with a strong sense of
-  human presence and visual storytelling. Nataliya graduated from Cambridge
-  School of Visual & Performing Arts and exhibited at New Designers in London,
-  where she was selected to participate in The Artworks Agency’s year-long
-  Startworks development program until July 2026. Sept 2025 chosen by The
-  Artworks Agency to be The Artworks Startworks artist July 2025 prize from
-  Hallmark at New Designers 2025 July 2025 exhibitor at New Designers 2025,
-  London UK Dec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Interested in
-  working together? Fill out some info, and I will be in touch with you.
-  Nataliya Green is a Cambridge - based lifestyle illustrator specialising in
-  luxury, hospitality and cultural environments.Working primarily through
-  observational drawing, her illustrations capture atmosphere, gesture, and
-  human interaction within fashion, retail, and architectural spaces. Her work
-  balances expressive mark-making with selective detail, focusing on mood,
-  movement, and the experience of place rather than literal
-  representation.Influenced by live observation and on-location sketching,
-  Nataliya’s practice explores how people inhabit and move through interiors,
-  cities, and social spaces. Through simplified forms, layered textures, and
-  atmospheric compositions, she creates illustrations that feel both elegant and
-  immediate.Her work spans editorial, hospitality, luxury branding, and live
-  illustration, often combining architectural settings with a strong sense of
-  human presence and visual storytelling.Nataliya graduated from Cambridge
-  School of Visual & Performing Arts and exhibited at New Designers in London,
-  where she was selected to participate in The Artworks Agency’s year-long
-  Startworks development program until July 2026.Sept 2025 chosen by The
-  Artworks Agency to be The Artworks Startworks artistJuly 2025 prize from
-  Hallmark at New Designers 2025July 2025 exhibitor at New Designers 2025,
-  London UKDec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Contact
-  Interested in working together? Fill out some info, and I will be in touch
-  with you. 0 Skip to Content Nataliya Green - Illustrator Open Menu Close Menu
-  Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green is a
-  Cambridge - based lifestyle illustrator specialising in luxury, hospitality
-  and cultural environments.Working primarily through observational drawing, her
-  illustrations capture atmosphere, gesture, and human interaction within
-  fashion, retail, and architectural spaces. Her work balances expressive
-  mark-making with selective detail, focusing on mood, movement, and the
-  experience of place rather than literal representation.Influenced by live
-  observation and on-location sketching, Nataliya’s practice explores how people
-  inhabit and move through interiors, cities, and social spaces. Through
-  simplified forms, layered textures, and atmospheric compositions, she creates
-  illustrations that feel both elegant and immediate.Her work spans editorial,
-  hospitality, luxury branding, and live illustration, often combining
-  architectural settings with a strong sense of human presence and visual
-  storytelling.Nataliya graduated from Cambridge School of Visual & Performing
-  Arts and exhibited at New Designers in London, where she was selected to
-  participate in The Artworks Agency’s year-long Startworks development program
-  until July 2026.Sept 2025 chosen by The Artworks Agency to be The Artworks
-  Startworks artistJuly 2025 prize from Hallmark at New Designers 2025July 2025
-  exhibitor at New Designers 2025, London UKDec 2024 exhibitor at Fizwilliam
-  Museum, Cambridge UK Contact Interested in working together? Fill out some
-  info, and I will be in touch with you. Working primarily through observational
-  drawing, her illustrations capture atmosphere, gesture, and human interaction
-  within fashion, retail, and architectural spaces. Her work balances expressive
-  mark-making with selective detail, focusing on mood, movement, and the
-  experience of place rather than literal representation. Influenced by live
-  observation and on-location sketching, Nataliya’s practice explores how people
-  inhabit and move through interiors, cities, and social spaces. Through
-  simplified forms, layered textures, and atmospheric compositions, she creates
-  illustrations that feel both elegant and immediate. Double-click here to edit
-  this form, and tell us where to save form submissions in the Storage
-  tab.","notFound":"Form not found.","phone":{"areaCode":"Area
-  Code","country":"Country","line":"Line","number":"Number","prefix":"Prefix"},"required":"(required)","submit":"Submit","submitError":"Unable
-  to submit form. Please try again
-  later.","time":{"am":"AM","amPm":"AM/PM","hour":"Hour","minute":"Minute","pm":"PM","second":"Second"},"validation":{"allEmpty":"Please
-  fill out at least one form field.","captchaFailure":"Captcha validation
-  failed. Please try again.","containsInvalidKey":"{0} contains an invalid
-  key.","containsInvalidValue":"{0} contains an invalid
-  value.","formErrors":"Form Errors","formSubmissionFailed":"Form submission
-  failed. To get in touch, please write to nataliyagreen.studio@gmail.com
-  Instagram: nataliyagreen.studio Contact Nataliya To get in touch, please write
-  to nataliyagreen.studio@gmail.comInstagram: nataliyagreen.studio To get in
-  touch, please write to nataliyagreen.studio@gmail.comInstagram:
-  nataliyagreen.studio 0 Skip to Content Nataliya Green - Illustrator Open Menu
-  Close Menu Nataliya Green - Illustrator Open Menu Close Menu Contact Nataliya
-  To get in touch, please write to nataliyagreen.studio@gmail.comInstagram:
-  natal
-website_about_clean: >-
-  Original mixed-media illustrations for publishing, products, décor & editorial
-  work.Collections include city maps, culinary scenes, lifestyle illustration,
-  fashion & character work.Available for licensing across print, giftware,
-  apparel, editorial, packaging, and décor. Available for licensing across
-  print, giftware, apparel, editorial, packaging, and décor. Nataliya Green is a
-  Cambridge - based lifestyle illustrator specialising in luxury, hospitality
-  and cultural environments. Her work balances expressive mark-making with
-  selective detail, focusing on mood, movement, and the experience of place
-  rather than literal representation. Her work spans editorial, hospitality,
-  luxury branding, and live illustration, often combining architectural settings
-  with a strong sense of human presence and visual storytelling. Nataliya
-  graduated from Cambridge School of Visual & Performing Arts and exhibited at
-  New Designers in London, where she was selected to participate in The Artworks
-  Agency’s year-long Startworks development program until July 2026. Sept 2025
-  chosen by The Artworks Agency to be The Artworks Startworks artist July 2025
-  prize from Hallmark at New Designers 2025 July 2025 exhibitor at New Designers
-  2025, London UK Dec 2024 exhibitor at Fizwilliam Museum, Cambridge UK
-  Interested in working together? Nataliya Green is a Cambridge - based
-  lifestyle illustrator specialising in luxury, hospitality and cultural
-  environments.Working primarily through observational drawing, her
-  illustrations capture atmosphere, gesture, and human interaction within
-  fashion, retail, and architectural spaces. Her work balances expressive
-  mark-making with selective detail, focusing on mood, movement, and the
-  experience of place rather than literal representation.Influenced by live
-  observation and on-location sketching, Nataliya’s practice explores how people
-  inhabit and move through interiors, cities, and social spaces. Through
-  simplified forms, layered textures, and atmospheric compositions, she creates
-  illustrations that feel both elegant and immediate.Her work spans editorial,
-  hospitality, luxury branding, and live illustration, often combining
-  architectural settings with a strong sense of human presence and visual
-  storytelling.Nataliya graduated from Cambridge School of Visual & Performing
-  Arts and exhibited at New Designers in London, where she was selected to
-  participate in The Artworks Agency’s year-long Startworks development program
-  until July 2026.Sept 2025 chosen by The Artworks Agency to be The Artworks
-  Startworks artistJuly 2025 prize from Hallmark at New Designers 2025July 2025
-  exhibitor at New Designers 2025, London UKDec 2024 exhibitor at Fizwilliam
-  Museum, Cambridge UK Contact Interested in working together?
-website_project_text: >-
-  Collections include city maps, culinary scenes, lifestyle illustration,
-  fashion & character work. Working primarily through observational drawing, her
-  illustrations capture atmosphere, gesture, and human interaction within
-  fashion, retail, and architectural spaces. Influenced by live observation and
-  on-location sketching, Nataliya’s practice explores how people inhabit and
-  move through interiors, cities, and social spaces. Through simplified forms,
-  layered textures, and atmospheric compositions, she creates illustrations that
-  feel both elegant and immediate.
-website_social_text: ''
+website_meta_description: ""
+website_about_raw: 'Original mixed-media illustrations for publishing, products, décor & editorial work.Collections include city maps, culinary scenes, lifestyle illustration, fashion & character work.Available for licensing across print, giftware, apparel, editorial, packaging, and décor. View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize 0 Skip to Content Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Original mixed-media illustrations for publishing, products, décor & editorial work.Collections include city maps, culinary scenes, lifestyle illustration, fashion & character work.Available for licensing across print, giftware, apparel, editorial, packaging, and décor. View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Skip to Content Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator { "video": { "playbackSpeed": 1, "filter": 1, "filterStrength": 0, "zoom": 0, "videoSourceProvider": "none" }, "backgroundImageId": null, "backgroundMediaEffect": { "type": "none" }, "divider": { "enabled": false }, "typeName": "page" } { "video": { "playbackSpeed": 0.5, "filter": 1, "filterStrength": 0, "zoom": 0 }, "backgroundImageId": null, "backgroundMediaEffect": null, "divider": { "enabled": false }, "typeName": "page" } 0 Skip to Content @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) { .header-blur-background { } } Nataliya Green - Illustrator Work Portfolio People Restaurants Food & Hospitality Architecture Hotels & Resorts Maps & Travel Fashion Illustration Commercial&Advertising About Contact .top-bun, .patty, .bottom-bun { height: 1px; } Open Menu Close Menu Nataliya Green - Illustrator Work Portfolio People Restaurants Food & Hospitality Architecture Hotels & Resorts Maps & Travel Fashion Illustration Commercial&Advertising About Contact .top-bun, .patty, .bottom-bun { height: 1px; } Open Menu Close Menu Work Folder: Portfolio Back People Restaurants Food & Hospitality Architecture Hotels & Resorts Maps & Travel Fashion Illustration Commercial&Advertising About Contact .fe-699a56cf66283759ed8271b1 { --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 0.0px); --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (8 - 1)) ) / 8 ); display: grid; position: relative; grid-area: 1/1/-1/-1; grid-template-rows: repeat(6,minmax(24px, auto)); grid-template-columns: minmax(var(--grid-gutter), 1fr) repeat(8, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr); row-gap: 0.0px; column-gap: 0.0px; overflow-x: hidden; overflow-x: clip; } @media (min-width: 768px) { .background-width--inset .fe-699a56cf66283759ed8271b1 { --inset-padding: calc(var(--sqs-site-gutter) * 2); } .fe-699a56cf66283759ed8271b1 { --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 0.0px); --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (0.0px * (24 - 1)) ) / 24 ); --inset-padding: 0vw; --row-height-scaling-factor: 0.0215; --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) )); grid-template-rows: repeat(3,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto)); grid-template-columns: minmax(var(--grid-gutter), 1fr) repeat(24, minmax(0, var(--cell-max-width))) minmax(var(--grid-gutter), 1fr); } } .fe-block-41222105af2ee0d6234b { grid-area: 2/2/6/10; z-index: 1; @media (max-width: 767px) { } } .fe-block-41222105af2ee0d6234b .sqs-block { justify-content: flex-start; } .fe-block-41222105af2ee0d6234b .sqs-block-alignment-wrapper { align-items: flex-start; } @media (min-width: 768px) { .fe-block-41222105af2ee0d6234b { grid-area: 1/7/4/21; z-index: 1; } .fe-block-41222105af2ee0d6234b .sqs-block { justify-content: flex-start; } .fe-block-41222105af2ee0d6234b .sqs-block-alignment-wrapper { align-items: flex-start; } } Original mixed-media illustrations for publishing, products, décor & editorial work. Collections include city maps, culinary scenes, lifestyle illustration, fashion & character work. Available for licensing across print, giftware, apparel, editorial, packaging, and décor. Barth\u00E9lemy","code":"BL","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Collections include city maps, culinary scenes, lifestyle illustration, fashion & character work. Available for licensing across print, giftware, apparel, editorial, packaging, and décor. Nataliya Green is a Cambridge - based lifestyle illustrator specialising in luxury, hospitality and cultural environments. Working primarily through observational drawing, her illustrations capture atmosphere, gesture, and human interaction within fashion, retail, and architectural spaces. Her work balances expressive mark-making with selective detail, focusing on mood, movement, and the experience of place rather than literal representation. Influenced by live observation and on-location sketching, Nataliya’s practice explores how people inhabit and move through interiors, cities, and social spaces. Through simplified forms, layered textures, and atmospheric compositions, she creates illustrations that feel both elegant and immediate. Her work spans editorial, hospitality, luxury branding, and live illustration, often combining architectural settings with a strong sense of human presence and visual storytelling. Nataliya graduated from Cambridge School of Visual & Performing Arts and exhibited at New Designers in London, where she was selected to participate in The Artworks Agency’s year-long Startworks development program until July 2026. Sept 2025 chosen by The Artworks Agency to be The Artworks Startworks artist July 2025 prize from Hallmark at New Designers 2025 July 2025 exhibitor at New Designers 2025, London UK Dec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Interested in working together? Fill out some info, and I will be in touch with you. Nataliya Green is a Cambridge - based lifestyle illustrator specialising in luxury, hospitality and cultural environments.Working primarily through observational drawing, her illustrations capture atmosphere, gesture, and human interaction within fashion, retail, and architectural spaces. Her work balances expressive mark-making with selective detail, focusing on mood, movement, and the experience of place rather than literal representation.Influenced by live observation and on-location sketching, Nataliya’s practice explores how people inhabit and move through interiors, cities, and social spaces. Through simplified forms, layered textures, and atmospheric compositions, she creates illustrations that feel both elegant and immediate.Her work spans editorial, hospitality, luxury branding, and live illustration, often combining architectural settings with a strong sense of human presence and visual storytelling.Nataliya graduated from Cambridge School of Visual & Performing Arts and exhibited at New Designers in London, where she was selected to participate in The Artworks Agency’s year-long Startworks development program until July 2026.Sept 2025 chosen by The Artworks Agency to be The Artworks Startworks artistJuly 2025 prize from Hallmark at New Designers 2025July 2025 exhibitor at New Designers 2025, London UKDec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Contact Interested in working together? Fill out some info, and I will be in touch with you. 0 Skip to Content Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green is a Cambridge - based lifestyle illustrator specialising in luxury, hospitality and cultural environments.Working primarily through observational drawing, her illustrations capture atmosphere, gesture, and human interaction within fashion, retail, and architectural spaces. Her work balances expressive mark-making with selective detail, focusing on mood, movement, and the experience of place rather than literal representation.Influenced by live observation and on-location sketching, Nataliya’s practice explores how people inhabit and move through interiors, cities, and social spaces. Through simplified forms, layered textures, and atmospheric compositions, she creates illustrations that feel both elegant and immediate.Her work spans editorial, hospitality, luxury branding, and live illustration, often combining architectural settings with a strong sense of human presence and visual storytelling.Nataliya graduated from Cambridge School of Visual & Performing Arts and exhibited at New Designers in London, where she was selected to participate in The Artworks Agency’s year-long Startworks development program until July 2026.Sept 2025 chosen by The Artworks Agency to be The Artworks Startworks artistJuly 2025 prize from Hallmark at New Designers 2025July 2025 exhibitor at New Designers 2025, London UKDec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Contact Interested in working together? Fill out some info, and I will be in touch with you. Working primarily through observational drawing, her illustrations capture atmosphere, gesture, and human interaction within fashion, retail, and architectural spaces. Her work balances expressive mark-making with selective detail, focusing on mood, movement, and the experience of place rather than literal representation. Influenced by live observation and on-location sketching, Nataliya’s practice explores how people inhabit and move through interiors, cities, and social spaces. Through simplified forms, layered textures, and atmospheric compositions, she creates illustrations that feel both elegant and immediate. Double-click here to edit this form, and tell us where to save form submissions in the Storage tab.","notFound":"Form not found.","phone":{"areaCode":"Area Code","country":"Country","line":"Line","number":"Number","prefix":"Prefix"},"required":"(required)","submit":"Submit","submitError":"Unable to submit form. Please try again later.","time":{"am":"AM","amPm":"AM/PM","hour":"Hour","minute":"Minute","pm":"PM","second":"Second"},"validation":{"allEmpty":"Please fill out at least one form field.","captchaFailure":"Captcha validation failed. Please try again.","containsInvalidKey":"{0} contains an invalid key.","containsInvalidValue":"{0} contains an invalid value.","formErrors":"Form Errors","formSubmissionFailed":"Form submission failed. To get in touch, please write to nataliyagreen.studio@gmail.com Instagram: nataliyagreen.studio Contact Nataliya To get in touch, please write to nataliyagreen.studio@gmail.comInstagram: nataliyagreen.studio To get in touch, please write to nataliyagreen.studio@gmail.comInstagram: nataliyagreen.studio 0 Skip to Content Nataliya Green - Illustrator Open Menu Close Menu Nataliya Green - Illustrator Open Menu Close Menu Contact Nataliya To get in touch, please write to nataliyagreen.studio@gmail.comInstagram: natal'
+website_about_clean: Original mixed-media illustrations for publishing, products, décor & editorial work.Collections include city maps, culinary scenes, lifestyle illustration, fashion & character work.Available for licensing across print, giftware, apparel, editorial, packaging, and décor. Available for licensing across print, giftware, apparel, editorial, packaging, and décor. Nataliya Green is a Cambridge - based lifestyle illustrator specialising in luxury, hospitality and cultural environments. Her work balances expressive mark-making with selective detail, focusing on mood, movement, and the experience of place rather than literal representation. Her work spans editorial, hospitality, luxury branding, and live illustration, often combining architectural settings with a strong sense of human presence and visual storytelling. Nataliya graduated from Cambridge School of Visual & Performing Arts and exhibited at New Designers in London, where she was selected to participate in The Artworks Agency’s year-long Startworks development program until July 2026. Sept 2025 chosen by The Artworks Agency to be The Artworks Startworks artist July 2025 prize from Hallmark at New Designers 2025 July 2025 exhibitor at New Designers 2025, London UK Dec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Interested in working together? Nataliya Green is a Cambridge - based lifestyle illustrator specialising in luxury, hospitality and cultural environments.Working primarily through observational drawing, her illustrations capture atmosphere, gesture, and human interaction within fashion, retail, and architectural spaces. Her work balances expressive mark-making with selective detail, focusing on mood, movement, and the experience of place rather than literal representation.Influenced by live observation and on-location sketching, Nataliya’s practice explores how people inhabit and move through interiors, cities, and social spaces. Through simplified forms, layered textures, and atmospheric compositions, she creates illustrations that feel both elegant and immediate.Her work spans editorial, hospitality, luxury branding, and live illustration, often combining architectural settings with a strong sense of human presence and visual storytelling.Nataliya graduated from Cambridge School of Visual & Performing Arts and exhibited at New Designers in London, where she was selected to participate in The Artworks Agency’s year-long Startworks development program until July 2026.Sept 2025 chosen by The Artworks Agency to be The Artworks Startworks artistJuly 2025 prize from Hallmark at New Designers 2025July 2025 exhibitor at New Designers 2025, London UKDec 2024 exhibitor at Fizwilliam Museum, Cambridge UK Contact Interested in working together?
+website_project_text: Collections include city maps, culinary scenes, lifestyle illustration, fashion & character work. Working primarily through observational drawing, her illustrations capture atmosphere, gesture, and human interaction within fashion, retail, and architectural spaces. Influenced by live observation and on-location sketching, Nataliya’s practice explores how people inhabit and move through interiors, cities, and social spaces. Through simplified forms, layered textures, and atmospheric compositions, she creates illustrations that feel both elegant and immediate.
+website_social_text: ""
 scrape_quality: excellent
 scrape_quality_score: 90
 usable_for_claude: true
@@ -270,11 +63,11 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: needs_image_table_review
+manual_about_raw: ""
 manual_reviewed: false
-manual_quality: ''
-manual_review_note: ''
+manual_quality: ""
+manual_review_note: ""
 instagram_full_name: Nataliya Green
 instagram_biography: |-
   The Artworks Startworks artist.
@@ -285,49 +78,73 @@ instagram_follows_count: 1446
 instagram_private: false
 instagram_verified: false
 instagram_business_account: true
-instagram_profile_pic_url: >-
-  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/459235975_2008190559637058_7188177175956646173_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGrmgQr8DsEL4jg4299ELuxgJaMmCN3Wla6mfi76CEcFTGVrb3s2MHXszyo2Ujt9VE&_nc_ohc=gAoGg66yfRkQ7kNvwEuxxSs&_nc_gid=gk78FXsH1mHypHFy2d1FlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4NP5U2BQtxbSauSUZjxCAOdYa5Cl8P8xupTsXf3sfUeQ&oe=6A13DBB5&_nc_sid=8b3546
-instagram_profile_pic_best_url: >-
-  https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/459235975_2008190559637058_7188177175956646173_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGrmgQr8DsEL4jg4299ELuxgJaMmCN3Wla6mfi76CEcFTGVrb3s2MHXszyo2Ujt9VE&_nc_ohc=gAoGg66yfRkQ7kNvwEuxxSs&_nc_gid=gk78FXsH1mHypHFy2d1FlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4NP5U2BQtxbSauSUZjxCAOdYa5Cl8P8xupTsXf3sfUeQ&oe=6A13DBB5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6255
-instagram_profile_image_quality: thumbnail
+instagram_profile_pic_url: https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/459235975_2008190559637058_7188177175956646173_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGrmgQr8DsEL4jg4299ELuxgJaMmCN3Wla6mfi76CEcFTGVrb3s2MHXszyo2Ujt9VE&_nc_ohc=gAoGg66yfRkQ7kNvwEuxxSs&_nc_gid=gk78FXsH1mHypHFy2d1FlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4NP5U2BQtxbSauSUZjxCAOdYa5Cl8P8xupTsXf3sfUeQ&oe=6A13DBB5&_nc_sid=8b3546
+instagram_profile_pic_best_url: https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/459235975_2008190559637058_7188177175956646173_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGrmgQr8DsEL4jg4299ELuxgJaMmCN3Wla6mfi76CEcFTGVrb3s2MHXszyo2Ujt9VE&_nc_ohc=gAoGg66yfRkQ7kNvwEuxxSs&_nc_gid=gk78FXsH1mHypHFy2d1FlA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4NP5U2BQtxbSauSUZjxCAOdYa5Cl8P8xupTsXf3sfUeQ&oe=6A13DBB5&_nc_sid=8b3546
+instagram_profile_image_local: ../../assets/designers/nataliyagreen.studio/profile/459235975_2008190559637058_7188177175956646173_n.jpg
+instagram_profile_image_bytes: 116454
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg
+profile_image: ../../assets/designers/nataliyagreen.studio/profile/459235975_2008190559637058_7188177175956646173_n.jpg
+profile_images:
+  - ../../assets/designers/nataliyagreen.studio/profile/459235975_2008190559637058_7188177175956646173_n.jpg
+profile_image_local: ../../assets/designers/nataliyagreen.studio/profile/459235975_2008190559637058_7188177175956646173_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/nataliyagreen.studio/profile/459235975_2008190559637058_7188177175956646173_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - ../../assets/designers/nataliyagreen.studio/instagram/nataliyagreen.studio_1735123447_3530793841380795002_46700860409.webp
+instagram_image_count: 1
+image_reviewed: false
 ---
-
 # nataliyagreen.studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/nataliyagreen.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/nataliyagreen.studio/profile/459235975_2008190559637058_7188177175956646173_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/nataliyagreen.studio/instagram/nataliyagreen.studio_1735123447_3530793841380795002_46700860409.webp)<br><!-- image:../../assets/designers/nataliyagreen.studio/instagram/nataliyagreen.studio_1735123447_3530793841380795002_46700860409.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Nataliya Green is a Cambridge-based lifestyle illustrator specialising in luxury hospitality, fashion, and cultural environments. Her practice combines observational drawing with mixed-media illustration, producing work for publishing, editorial, product licensing, and live event illustration. Selected by The Artworks Agency as a Startworks artist in September 2025.
+
 ## Style and Aesthetic
+
+Expressive mark-making with selective detail — simplified forms, layered textures, and atmospheric compositions that prioritise mood, gesture, and human presence over literal representation. Collections span city maps, culinary scenes, architectural interiors, hotels and resorts, fashion illustration, and commercial advertising work. The visual language combines immediacy with elegance.
 
 ## Techniques and Tools
 
+Works primarily through observational drawing and on-location sketching. Mixed-media practice — specific tools not documented. The breadth of subject matter (fashion figures, architectural spaces, food scenes, maps) indicates a versatile technical range.
+
 ## Markets and Clients
+
+Available for licensing across print, giftware, apparel, editorial, packaging, and décor. Portfolio categories include restaurants, food and hospitality, architecture, hotels and resorts, maps and travel, fashion illustration, and commercial/advertising. Received a prize from Hallmark at New Designers 2025. The Artworks Agency representation positions her toward commercial licensing and product applications.
 
 ## Portfolio and Presence
 
+- Website: https://nataliyagreen.co.uk
+- Instagram: https://instagram.com/nataliyagreen.studio
+
 ## Career Path
+
+Graduated from Cambridge School of Visual & Performing Arts. Exhibited at New Designers, London (July 2025), receiving a Hallmark prize. Selected to participate in The Artworks Agency's year-long Startworks development programme until July 2026. Exhibited at Fitzwilliam Museum, Cambridge, December 2024.
 
 ## Pattern Focus
 
+Surface pattern output is secondary to her core editorial and hospitality illustration practice. Collections suggest repeatable decorative subjects — city maps, culinary tableaux, architectural compositions — suited to product licensing and giftware applications.
+
 ## Connections
+
+- [[The Artworks Agency]] — Startworks development programme
+- [[Hallmark]] — prize at New Designers 2025
+- [[Fitzwilliam Museum]] — exhibition, Cambridge, December 2024

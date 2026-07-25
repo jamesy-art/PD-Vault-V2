@@ -26,7 +26,7 @@ bio: ''
 website: 'https://mmdigitaldesigns.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mmdecorbrand
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Custom Wallpaper & Murals | Transform Your Walls Today
 website_meta_description: >-
   Make a statement with custom wallpaper and murals. Explore our curated
@@ -64,7 +67,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -86,40 +89,136 @@ instagram_profile_image_bytes: 5058
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1725387475_3449122588010684712_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743860574724236_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743861849783137_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743862755601359_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1745522233_3618025179074293664_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1746809600_3628824404839461067_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278629550899_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278897996680_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386279359210552_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750429907_3659193736589374178_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750875926_3662935214637622101_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1759416977_3734582742105525511_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1761663572_3753428541812332176_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912045674286_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912850993708_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828913194938210_1600261263.jpg
+instagram_image_count: 16
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743860574724236_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1746809600_3628824404839461067_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278629550899_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278897996680_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750875926_3662935214637622101_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1759416977_3734582742105525511_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1761663572_3753428541812332176_1600261263.jpg
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912045674286_1600261263.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750429907_3659193736589374178_1600261263.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # mmdecorbrand
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mmdecorbrand/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1725387475_3449122588010684712_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1725387475_3449122588010684712_1600261263.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743860574724236_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743860574724236_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743861849783137_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743861849783137_1600261263.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743862755601359_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1726772840_3460743862755601359_1600261263.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1745522233_3618025179074293664_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1745522233_3618025179074293664_1600261263.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1746809600_3628824404839461067_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1746809600_3628824404839461067_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278629550899_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278629550899_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278897996680_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386278897996680_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386279359210552_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1747234209_3632386279359210552_1600261263.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750429907_3659193736589374178_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750429907_3659193736589374178_1600261263.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750875926_3662935214637622101_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1750875926_3662935214637622101_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1759416977_3734582742105525511_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1759416977_3734582742105525511_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1761663572_3753428541812332176_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1761663572_3753428541812332176_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912045674286_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912045674286_1600261263.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912850993708_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828912850993708_1600261263.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828913194938210_1600261263.jpg)<br><!-- image:../../assets/designers/mmdecorbrand/instagram/mmdecorbrand_1762545765_3760828913194938210_1600261263.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+MM Digital Designs is a US-based studio co-founded by Juan Mosquea, Roberto, and Scott, operating at the intersection of custom printing, surface pattern design, and personalised home décor fabrication. The studio produces custom wallpaper and murals, seamless repeating surface patterns available for licensing to product brands, and a range of printed home décor including woven pet portrait blankets, pillows, bath towels, and handcrafted lampshades. The pattern licensing catalogue targets swimwear, pet accessories, baby wraps, and children's apparel markets.
+
 ## Style and Aesthetic
+
+The studio's pattern approach is described as purpose-driven — each design weaving a story connected to causes including the environment, animal rights, and civil rights. Selected Instagram images (8 patterns, 1 placement) suggest a decorative, vibrant aesthetic suited to home décor and lifestyle product applications. Custom mural work ranges from cultural (Mexican folk art, bold colours) to local and heritage (harbour views, neighbourhood landmarks).
 
 ## Techniques and Tools
 
+Premium materials and advanced digital printing technology for wallpaper, murals, and fabric. Surface pattern designs are produced as seamless repeating digital files ready for product licensing. Handcrafted lampshades use sleek metallic hardware and high-quality fabrics.
+
 ## Markets and Clients
+
+Custom wallpaper and murals for commercial and residential clients. Named mural and custom print clients: Se-port Deli (Sammy Dakwar), Salsa Salsa A Burrito Bar (Chris Jehle), LRIG (Evelyn Volgraff, historic wallpaper recreation). Pattern licensing catalogue targeting swimwear, pet accessories, baby wraps, and children's apparel. Direct retail products: personalised pet portrait woven blankets, bath towels, throw pillows.
 
 ## Portfolio and Presence
 
+- Website: mmdigitaldesigns.com
+- Instagram: @mmdecorbrand (371 followers)
+
 ## Career Path
+
+Co-founded by Juan Mosquea, Roberto, and Scott, who bring decades of experience in printing and wallpaper. The studio expanded from custom wall installations into a broader home décor and surface pattern licensing range.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 1 placement) suggest a decorative, product-oriented pattern catalogue. The studio offers seamless repeating surface designs available to brands worldwide — described as versatile works of art suited to multiple product categories.
+
 ## Connections
+
+- [[Wallpaper]] — primary service category
+- [[Surface Pattern Licensing]] — documented business model
+- [[Home Decor]] — primary product market

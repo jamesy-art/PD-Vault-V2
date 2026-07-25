@@ -26,7 +26,7 @@ bio: ''
 website: 'https://ellajostudio.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ellajostudio
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: EllaJo Studio | Hand Painted Botanical & Wildlife Prints
 website_meta_description: >-
   EllaJo Studio brings colour, pattern, and personality to interiors with hand
@@ -292,7 +295,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -313,45 +316,127 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.82787-19/653568120_18164394793418148_2392208045054126957_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNTEuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpDdGPrNZP8zaKrhYJcI8Olpxn98ojnk4xO4K0R6ZCurTMzdyA26gptKt5-GZzvBk&_nc_ohc=RUaDSUbjkssQ7kNvwGLI69u&_nc_gid=Nc6vO4PT2xUvQYQo_CXuiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5gb2DVHX-Cw1y_lndaHwT_7V-O6Cv_p8HkhheegFPraQ&oe=6A13D831&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.82787-19/653568120_18164394793418148_2392208045054126957_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNTEuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpDdGPrNZP8zaKrhYJcI8Olpxn98ojnk4xO4K0R6ZCurTMzdyA26gptKt5-GZzvBk&_nc_ohc=RUaDSUbjkssQ7kNvwGLI69u&_nc_gid=Nc6vO4PT2xUvQYQo_CXuiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5gb2DVHX-Cw1y_lndaHwT_7V-O6Cv_p8HkhheegFPraQ&oe=6A13D831&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ellajostudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2835
+instagram_profile_image_local: >-
+  ../../assets/designers/ellajostudio/profile/653568120_18164394793418148_2392208045054126957_n.jpg
+instagram_profile_image_bytes: 9628
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ellajostudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ellajostudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ellajostudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ellajostudio/profile/653568120_18164394793418148_2392208045054126957_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ellajostudio/profile/653568120_18164394793418148_2392208045054126957_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ellajostudio/profile/653568120_18164394793418148_2392208045054126957_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ellajostudio/profile/653568120_18164394793418148_2392208045054126957_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105411766117_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105428425700_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105604670243_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1651053195_2825561455325161411_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1684250702_3104042327367315234_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1773846768_3855619783450617033_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619780162278806_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619782955641551_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1774180253_3858426075269479967_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1775137918_3866459558847843816_12627058147.jpg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105428425700_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1651053195_2825561455325161411_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1684250702_3104042327367315234_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1773846768_3855619783450617033_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619782955641551_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1774180253_3858426075269479967_12627058147.jpg
+  - >-
+    ../../assets/designers/ellajostudio/instagram/ellajostudio_1775137918_3866459558847843816_12627058147.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ellajostudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ellajostudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ellajostudio/profile/653568120_18164394793418148_2392208045054126957_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105411766117_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105411766117_12627058147.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105428425700_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105428425700_12627058147.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105604670243_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1631098233_2658167105604670243_12627058147.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1651053195_2825561455325161411_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1651053195_2825561455325161411_12627058147.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1684250702_3104042327367315234_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1684250702_3104042327367315234_12627058147.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1773846768_3855619783450617033_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1773846768_3855619783450617033_12627058147.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619780162278806_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619780162278806_12627058147.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619782955641551_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1773846769_3855619782955641551_12627058147.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1774180253_3858426075269479967_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1774180253_3858426075269479967_12627058147.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ellajostudio/instagram/ellajostudio_1775137918_3866459558847843816_12627058147.jpg)<br><!-- image:../../assets/designers/ellajostudio/instagram/ellajostudio_1775137918_3866459558847843816_12627058147.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ella Camlibel is a Manchester-based artist, designer, and illustrator working under the name EllaJo Studio. Her practice centres on hand-painted botanical and wildlife prints, produced as fine art prints, greeting cards, and coordinated triptych print sets. The studio also offers bespoke print and pattern design services for fashion, interiors, and independent brands.
+
 ## Style and Aesthetic
+
+EllaJo Studio's visual language draws on layered tropical foliage, bold botanical compositions, and wildlife figures — leopards hidden in leaves, tigers within dense jungle, peacocks in full movement. Collections are designed for both standalone display and as coordinated multi-piece gallery arrangements. Selected Instagram patterns suggest a confident tropical palette with layered, painterly texture. The work is described as colourful, expressive, and designed to bring character into the home.
 
 ## Techniques and Tools
 
+All work is hand painted. Prints are produced on 280gsm archival matte paper and sold as made-to-order A5, A4, and A3 sizes. Greeting cards use 250gsm textured linen stock with kraft envelopes. Packaging is plastic-free. Bespoke client projects are developed from initial concept through to finished artwork.
+
 ## Markets and Clients
+
+Direct-to-consumer print and stationery sales, shipped UK and internationally. Triptych print sets designed for residential interiors. The studio works with fashion, interiors, and independent brands on bespoke print and pattern design — from initial concept through to production-ready artwork.
 
 ## Portfolio and Presence
 
+- Website: ellajostudio.com
+- Instagram: @ellajostudio (269 posts, 4,967 followers)
+
 ## Career Path
+
+Ella Camlibel built EllaJo Studio around hand-painted illustration work inspired by nature, travel, and collected visual reference. The retail range spans prints, cards, and triptych sets; a parallel commercial service offers bespoke design for brand clients across fashion and interiors.
 
 ## Pattern Focus
 
+Signature works include Sneaky Leopard (hidden feline within layered tropical foliage), Tropical Jungle (bold rhythmic plant forms), and wildlife compositions featuring tigers, lions, and peacocks with botanical layering. Selected Instagram patterns suggest an all-over tropical botanical vocabulary with expressive, painterly surface texture. Pattern range is suited to interior art prints, stationery, and fashion or accessories applications.
+
 ## Connections
+
+- [[Tropical Botanical Pattern]] — core pattern type
+- [[Wildlife Pattern]] — leopard, tiger, lion, peacock motifs
+- [[Home Decor]] — primary market via print sales
+- [[Stationery]] — greeting card and triptych print range
+- [[Womenswear]] — bespoke pattern design services
+- [[Hand Painting]] — primary technique

@@ -14,12 +14,12 @@ skills:
 country: Spain
 can_use: 'Yes'
 instagram_handle: avefelix_
-instagram: 'https://instagram.com/@avefelix_'
+instagram: 'https://instagram.com/avefelix_'
 bio: ''
 website: 'https://avefelix.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/avefelix_
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Work - Ave Félix
 website_meta_description: trabajos seleccionados de Ave Felix / Ave Felix's selected works
 website_about_raw: >-
@@ -253,7 +256,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -270,45 +273,208 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/280162637_153987637131973_7135016579855024092_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHtCaqJQAVXVTcJepnBOAZt_dfANqg8sRpYYnOAvCtvYS_dsUpVLWOryaF6xf96CQgpLfD5hx6NT_gK7XQVDO9p&_nc_ohc=PZ6hyS4v4jgQ7kNvwGoYH1H&_nc_gid=xYBAh7DfOztntkXkzLZUpA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5arrPJbb4KwWZV-fP7lyRs_ni5xTSGES-c2betOqlp6g&oe=6A13FA46&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/280162637_153987637131973_7135016579855024092_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHtCaqJQAVXVTcJepnBOAZt_dfANqg8sRpYYnOAvCtvYS_dsUpVLWOryaF6xf96CQgpLfD5hx6NT_gK7XQVDO9p&_nc_ohc=PZ6hyS4v4jgQ7kNvwGoYH1H&_nc_gid=xYBAh7DfOztntkXkzLZUpA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5arrPJbb4KwWZV-fP7lyRs_ni5xTSGES-c2betOqlp6g&oe=6A13FA46&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/avefelix_/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2082
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/avefelix_/profile/280162637_153987637131973_7135016579855024092_n.jpg
+instagram_profile_image_bytes: 49091
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/avefelix_/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/avefelix_/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/avefelix_/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/avefelix_/profile/280162637_153987637131973_7135016579855024092_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/avefelix_/profile/280162637_153987637131973_7135016579855024092_n.jpg
+profile_image_local: >-
+  ../../assets/designers/avefelix_/profile/280162637_153987637131973_7135016579855024092_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/avefelix_/profile/280162637_153987637131973_7135016579855024092_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1574719488_2185227906952421955_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1575923659_2195329226770051269_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1582575449_2251128488925372200_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1621971648_2581607758353475342_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1622224332_2583727421418106736_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769410415417_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769553256266_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769561435942_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1695758818_3200579403938176681_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1695758818_3200579403946426488_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1715796686_3368669223796313677_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1715796686_3368669223813019918_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790258293_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790260597_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790260634_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790277700_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790289586_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790303003_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790311840_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790313131_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790315406_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920798679811_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920807052195_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1760635289_3744802686622269622_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168797840_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168848714_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874460965132_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874461002364_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874486140736_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874586821183_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874721004761_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015875123645092_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1774544283_3861478162412870413_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1775494892_3869453019670969534_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866780060148548_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866781603636517_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866786586487983_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866787274381057_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866790378114793_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1777981596_3890306542317317072_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1778057836_3890951912598275548_52392615.jpg
+instagram_image_count: 41
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866780060148548_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1777981596_3890306542317317072_52392615.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1574719488_2185227906952421955_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1575923659_2195329226770051269_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168848714_52392615.jpg
+  - >-
+    ../../assets/designers/avefelix_/instagram/avefelix___1775494892_3869453019670969534_52392615.jpg
+trash_images: []
+selected_pattern_count: 2
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # avefelix_
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/avefelix_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/avefelix_/profile/280162637_153987637131973_7135016579855024092_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1574719488_2185227906952421955_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1574719488_2185227906952421955_52392615.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1575923659_2195329226770051269_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1575923659_2195329226770051269_52392615.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1582575449_2251128488925372200_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1582575449_2251128488925372200_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1621971648_2581607758353475342_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1621971648_2581607758353475342_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1622224332_2583727421418106736_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1622224332_2583727421418106736_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769410415417_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769410415417_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769553256266_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769553256266_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769561435942_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1669673723_2981761769561435942_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1695758818_3200579403938176681_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1695758818_3200579403938176681_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1695758818_3200579403946426488_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1695758818_3200579403946426488_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1715796686_3368669223796313677_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1715796686_3368669223796313677_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1715796686_3368669223813019918_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1715796686_3368669223813019918_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790258293_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790258293_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790260597_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790260597_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790260634_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790260634_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790277700_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790277700_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790289586_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790289586_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790303003_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790303003_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790311840_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790311840_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790313131_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790313131_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790315406_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920790315406_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920798679811_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920798679811_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920807052195_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1759938300_3738955920807052195_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1760635289_3744802686622269622_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1760635289_3744802686622269622_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168797840_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168797840_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168848714_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1767811207_3804998649168848714_52392615.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874460965132_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874460965132_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874461002364_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874461002364_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874486140736_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874486140736_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874586821183_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874586821183_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874721004761_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015874721004761_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015875123645092_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1769362981_3818015875123645092_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1774544283_3861478162412870413_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1774544283_3861478162412870413_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1775494892_3869453019670969534_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1775494892_3869453019670969534_52392615.jpg --> | [ ] | [x] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866780060148548_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866780060148548_52392615.jpg --> | [x] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866781603636517_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866781603636517_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866786586487983_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866786586487983_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866787274381057_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866787274381057_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866790378114793_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1776617521_3878866790378114793_52392615.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1777981596_3890306542317317072_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1777981596_3890306542317317072_52392615.jpg --> | [x] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/avefelix_/instagram/avefelix___1778057836_3890951912598275548_52392615.jpg)<br><!-- image:../../assets/designers/avefelix_/instagram/avefelix___1778057836_3890951912598275548_52392615.jpg --> | [ ] | [ ] | [ ] |
+
 ## Website Images
 
-
 ## Overview
+Ave Félix is the artistic name of Félix Domínguez, a Huelva-born illustrator based in Andalucía, southern Spain. His practice centres on editorial and conceptual illustration — work published in magazines, newspapers, and books — with a secondary presence in surface applications including printed apparel. He draws full time under the Ave Félix alias, with a body of work characterised by ironic social commentary, pop culture references, and mixed analogue-digital technique.
 
 ## Style and Aesthetic
+Domínguez works in a style rooted in comic books, pop culture, and current cultural obsessions — ironic and playful drawings, sometimes with a dark twist. Selected images suggest flat, graphic compositions with bold character and object-based imagery. The work is conceptually led rather than pattern-driven.
 
 ## Techniques and Tools
+Mixed analogue and digital techniques. No specific software documented.
 
 ## Markets and Clients
+Editorial and print media: The Guardian, The Observer, Dwell, The Sevillaner, INNN, Directa.cat, The Posttraumatic, The Onubenser, Graficatessen, The Madrileñer. Broadcast: TVE (La2), HuelvaTV. Surface applications include printed apparel. Open to full-time employment and commissions.
 
 ## Portfolio and Presence
+- Website: avefelix.com
+- Instagram: @avefelix_ (11,169 followers, 515 posts)
+- Email: hola@avefelix.com
 
 ## Career Path
+Born in Huelva, Andalucía. Exhibition credits: "Outsiders vol.3" (Galería Zunino, Sevilla), Expo '92 memory exhibition, Grafistas Onubenses 10th anniversary (Casa Colón, Huelva). Featured in national and international press. Social and cultural commentary is a recurring thread.
 
 ## Pattern Focus
+Surface pattern application is secondary to editorial illustration. Selected patterns suggest graphic, character-driven compositions. Selected placements show work applied to printed goods and editorial media contexts.
 
 ## Connections
+- [[Editorial Illustration]]
+- [[Conceptual Illustration]]
+- [[Surface Pattern Design]]

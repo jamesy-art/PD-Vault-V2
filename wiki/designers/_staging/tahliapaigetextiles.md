@@ -19,7 +19,7 @@ bio: ''
 website: 'https://tahliapaige.co.uk'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tahliapaigetextiles
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Tahlia Paige Gifts and Accessories
 website_meta_description: >-
   Gifts and accessories in bespoke designed fabrics inspired by endangered
@@ -247,7 +250,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -264,45 +267,121 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/486442872_958952003069246_1614011815803081451_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGcRGKX4RlEA6nQUrv2uc7AHPBcBmXhM6IN3Z4zLvNfH7s6Zk_7GyjmM4Sqb3ueGnE&_nc_ohc=fKSM6eTYt6gQ7kNvwFBHZCS&_nc_gid=5JH_SATELK8YZdcyR9TH3g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wu9ag_Fngp3-s5A4nVnT24_4bNziYMN6vlvDH41T9ow&oe=6A13E1D2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/486442872_958952003069246_1614011815803081451_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGcRGKX4RlEA6nQUrv2uc7AHPBcBmXhM6IN3Z4zLvNfH7s6Zk_7GyjmM4Sqb3ueGnE&_nc_ohc=fKSM6eTYt6gQ7kNvwFBHZCS&_nc_gid=5JH_SATELK8YZdcyR9TH3g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4wu9ag_Fngp3-s5A4nVnT24_4bNziYMN6vlvDH41T9ow&oe=6A13E1D2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3757
+instagram_profile_image_local: >-
+  ../../assets/designers/tahliapaigetextiles/profile/486442872_958952003069246_1614011815803081451_n.jpg
+instagram_profile_image_bytes: 23563
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tahliapaigetextiles/profile/486442872_958952003069246_1614011815803081451_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tahliapaigetextiles/profile/486442872_958952003069246_1614011815803081451_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tahliapaigetextiles/profile/486442872_958952003069246_1614011815803081451_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tahliapaigetextiles/profile/486442872_958952003069246_1614011815803081451_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_101_colourway_tile_blue_1.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_11_8_1f24d3a6-fd9a-4253-91af-ba9599518956.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_2_green_repeat_hero.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_45_coord11.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_4_hare_hero_2c88382a-81d9-446c-b6d9-7b6ba4b33855.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_5_hero_green_and_dots_and_blobs.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_67_1_462a96b0-0f76-46be-84c1-db9ab6172f38.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_7_co_ord_5_e3d41e5a-7d11-48d3-a471-2016241c4e06.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_101_colourway_tile_blue_1.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_11_8_1f24d3a6-fd9a-4253-91af-ba9599518956.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_2_green_repeat_hero.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_45_coord11.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_4_hare_hero_2c88382a-81d9-446c-b6d9-7b6ba4b33855.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_5_hero_green_and_dots_and_blobs.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_67_1_462a96b0-0f76-46be-84c1-db9ab6172f38.jpeg
+  - >-
+    ../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_7_co_ord_5_e3d41e5a-7d11-48d3-a471-2016241c4e06.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # tahliapaigetextiles
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tahliapaigetextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tahliapaigetextiles/profile/486442872_958952003069246_1614011815803081451_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_101_colourway_tile_blue_1.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_101_colourway_tile_blue_1.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_11_8_1f24d3a6-fd9a-4253-91af-ba9599518956.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_11_8_1f24d3a6-fd9a-4253-91af-ba9599518956.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_2_green_repeat_hero.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_2_green_repeat_hero.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_45_coord11.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_45_coord11.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_4_hare_hero_2c88382a-81d9-446c-b6d9-7b6ba4b33855.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_4_hare_hero_2c88382a-81d9-446c-b6d9-7b6ba4b33855.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_5_hero_green_and_dots_and_blobs.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_5_hero_green_and_dots_and_blobs.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_67_1_462a96b0-0f76-46be-84c1-db9ab6172f38.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_67_1_462a96b0-0f76-46be-84c1-db9ab6172f38.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_7_co_ord_5_e3d41e5a-7d11-48d3-a471-2016241c4e06.jpeg)<br><!-- image:../../assets/designers/tahliapaigetextiles/instagram/tahliapaigetextiles_imageye___-_imgi_7_co_ord_5_e3d41e5a-7d11-48d3-a471-2016241c4e06.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Welsh surface pattern designer and maker based in the United Kingdom. Creates bespoke fabric designs inspired by UK and international endangered species, applied to handmade gift products. Brand positions around nature, wildlife, and eco-conscious gifting. Wholesale available; open to freelance and licensing. 926 posts; 1,653 followers (business account).
+
 ## Style and Aesthetic
+
+Nature and wildlife-driven, with a handmade warmth. Selected patterns confirm illustrated animal motifs — hare, hedgehog, and woodland characters — in organic repeat structures across coordinating collections. Earthy, natural palettes with colour variations offered across collections.
 
 ## Techniques and Tools
 
+Bespoke fabric design with a structured collection approach (hero print plus co-ordinates). Makes products by hand from designed fabrics — cosmetic bags, skincare sets, hair accessories, book covers, face pads, and sleeping masks.
+
 ## Markets and Clients
+
+Gifting market — sustainable skincare, storage, eco accessories, and book-lover products. Species featured: Hedgehog, Red Squirrel, Otter, Asian Elephant, Snow Leopard. Charitable partnerships supporting woodland and endangered species organisations. Rated 4.94★ by verified customers. Wholesale available.
 
 ## Portfolio and Presence
 
+- Website: https://tahliapaige.co.uk
+- Instagram: @tahliapaigetextiles (1,653 followers, 926 posts, business account)
+
 ## Career Path
+
+UK-based designer-maker building a product brand around original wildlife pattern designs. Collections include Woodland Classics, Endangered Asia, and Cosy Woodland Book Club, each applying species-inspired prints to handmade gift goods.
 
 ## Pattern Focus
 
+Selected patterns confirm a structured collection system: colourway tile variations, hare hero print, green repeats, co-ordinate patterns, and dot/blob fills — a coordinated collection approach with hero prints supported by secondary repeats.
+
 ## Connections
+
+- [[Gifting]] — primary market
+- [[Wildlife Pattern]] — core theme
+- [[Sustainable Products]] — brand positioning
+- [[United Kingdom]] — based in Wales

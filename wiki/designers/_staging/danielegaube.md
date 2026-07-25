@@ -18,12 +18,12 @@ skills:
 country: Lithuania
 can_use: 'Yes'
 instagram_handle: danielegaube
-instagram: 'https://instagram.com/@danielegaube'
+instagram: 'https://instagram.com/danielegaube'
 bio: ''
 website: 'https://danielegaube.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/danielegaube
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Front Page - danielegaube.com
 website_meta_description: >-
   Discover bespoke patterned table linen inspired by heritage design, created
@@ -284,7 +287,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -301,45 +304,116 @@ instagram_profile_pic_url: >-
   https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/516414387_17954477369977212_5717499817744996905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gENcW70mJTE0nIxgoT2o9PG6C02_ZCsXRBayOU3VOuzVwOa1r9yeoB8_mDMWaPU5FI&_nc_ohc=0KnU7pswmEwQ7kNvwF4bctP&_nc_gid=zZQFO9yfEzq4FP47KwKQ_Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uPJ-84Y0jewgTYkmOsu1kHLv_UKIVMvKXEfb8iGmDDg&oe=6A1401ED&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fsac1-1.fna.fbcdn.net/v/t51.82787-19/516414387_17954477369977212_5717499817744996905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gENcW70mJTE0nIxgoT2o9PG6C02_ZCsXRBayOU3VOuzVwOa1r9yeoB8_mDMWaPU5FI&_nc_ohc=0KnU7pswmEwQ7kNvwF4bctP&_nc_gid=zZQFO9yfEzq4FP47KwKQ_Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uPJ-84Y0jewgTYkmOsu1kHLv_UKIVMvKXEfb8iGmDDg&oe=6A1401ED&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/danielegaube/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4733
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/danielegaube/profile/516414387_17954477369977212_5717499817744996905_n.jpg
+instagram_profile_image_bytes: 126222
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/danielegaube/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/danielegaube/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/danielegaube/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/danielegaube/profile/516414387_17954477369977212_5717499817744996905_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/danielegaube/profile/516414387_17954477369977212_5717499817744996905_n.jpg
+profile_image_local: >-
+  ../../assets/designers/danielegaube/profile/516414387_17954477369977212_5717499817744996905_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/danielegaube/profile/516414387_17954477369977212_5717499817744996905_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1684762714_3108337399582718474_59490969211.jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1684763673_3108345437689540831_59490969211.jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1684765495_3108360722387772349_59490969211.jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211%20(1).jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211.jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_16_Blog-Post-Blue-1920-x-1280px-1024x683.jpeg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_33_cropped-DSC3854-scaled-1.jpeg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_9_Blog-Post-Image-by-Daniele-Gaube-768x768.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1684765495_3108360722387772349_59490969211.jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211%20(1).jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_33_cropped-DSC3854-scaled-1.jpeg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_9_Blog-Post-Image-by-Daniele-Gaube-768x768.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1684762714_3108337399582718474_59490969211.jpg
+  - >-
+    ../../assets/designers/danielegaube/instagram/danielegaube_1684763673_3108345437689540831_59490969211.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # danielegaube
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/danielegaube/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/danielegaube/profile/516414387_17954477369977212_5717499817744996905_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_1684762714_3108337399582718474_59490969211.jpg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_1684762714_3108337399582718474_59490969211.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_1684763673_3108345437689540831_59490969211.jpg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_1684763673_3108345437689540831_59490969211.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_1684765495_3108360722387772349_59490969211.jpg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_1684765495_3108360722387772349_59490969211.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211%20(1).jpg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211%20(1).jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211.jpg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_1703521297_3265695797746971091_59490969211.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_16_Blog-Post-Blue-1920-x-1280px-1024x683.jpeg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_16_Blog-Post-Blue-1920-x-1280px-1024x683.jpeg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_33_cropped-DSC3854-scaled-1.jpeg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_33_cropped-DSC3854-scaled-1.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_9_Blog-Post-Image-by-Daniele-Gaube-768x768.jpeg)<br><!-- image:../../assets/designers/danielegaube/instagram/danielegaube_imageye___-_imgi_9_Blog-Post-Image-by-Daniele-Gaube-768x768.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Danielė Gaubė is a Lithuanian pattern designer who creates bespoke heritage-inspired table linens for the luxury dining and events market. Her practice bridges surface pattern design and product application — original repeat designs applied to table textiles sold directly and commissioned for weddings, special occasions, and everyday elevated dining.
+
 ## Style and Aesthetic
+
+Daniele draws on European artistic heritage — paintings, ornament, and architecture — producing patterns with historic resonance and contemporary refinement. Blue and white combinations appear as a recurring palette. Selected Instagram patterns suggest structured ornamental motifs derived from European decorative arts, rendered with clean, confident line work. Selected placement images show designs applied to table linen in formal dining contexts.
 
 ## Techniques and Tools
 
+Graphic design and painting are listed as core skills. Her website and blog suggest a research-led design process drawing on European art history and craft traditions.
+
 ## Markets and Clients
+
+Luxury home dining and events. Table linen for weddings, celebrations, and elevated everyday dining. Customised sets, bespoke sizing, and designer collaborations offered directly. Her Instagram bio positions the work around "memorable dining experiences."
 
 ## Portfolio and Presence
 
+- Website: https://danielegaube.com
+- Instagram: https://instagram.com/danielegaube
+
 ## Career Path
+
+Daniele's professional background is not fully documented publicly. Her website self-identifies her as "Graphic Designer, Pattern Creator, Educator" — suggesting teaching or mentoring activity alongside her design and product practice. Her sustained focus on heritage pattern research and table textile application is evident across her website, blog, and portfolio.
 
 ## Pattern Focus
 
+Heritage ornamental motifs drawn from European painting, architecture, and decorative arts. Blue and white palettes are a recurring signature. Selected patterns suggest structured ornamental repeats suited to the scale and formality of table linen applications.
+
 ## Connections
+
+- [[Home Decor Market]]
+- [[Heritage Patterns]]
+- [[Luxury Textiles]]

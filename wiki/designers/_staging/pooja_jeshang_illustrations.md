@@ -19,7 +19,7 @@ bio: ''
 website: 'https://poojajeshang.co.uk'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/pooja_jeshang_illustrations
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Pooja Jeshang
 website_meta_description: 'Botanical, floral and nature inspired illustration wall art prints.'
 website_about_raw: >-
@@ -235,7 +238,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >2-
    Hello! 
 
@@ -286,48 +289,403 @@ instagram_profile_pic_url: >-
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/658842273_18064209875664162_2316187846535515477_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFgHX9X1zkH7pZ4PxaT38aPwCfb8sV2dkXD_iJebBdPv_tvMyHwj-IxtUAZwIVaL1E&_nc_ohc=jzsShq63rO0Q7kNvwEKR9P8&_nc_gid=Hfv5YI-kJ1zGMYGB5Vo-Gw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60xr-POHeSIi9D-ISgDhBRXXYH5vydE8txcaxDNCsgeQ&oe=6A1402FE&_nc_sid=8b3546
 instagram_profile_image_local: >-
-  ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8081
-instagram_profile_image_quality: thumbnail
+  ../../assets/designers/pooja_jeshang_illustrations/profile/658842273_18064209875664162_2316187846535515477_n.jpg
+instagram_profile_image_bytes: 288647
+instagram_profile_image_quality: large
 instagram_profile_imported: true
 profile_image: >-
-  ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
-profile_images: &ref_0
+  ../../assets/designers/pooja_jeshang_illustrations/profile/658842273_18064209875664162_2316187846535515477_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
+    ../../assets/designers/pooja_jeshang_illustrations/profile/658842273_18064209875664162_2316187846535515477_n.jpg
 profile_image_local: >-
-  ../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg
+  ../../assets/designers/pooja_jeshang_illustrations/profile/658842273_18064209875664162_2316187846535515477_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/pooja_jeshang_illustrations/profile/658842273_18064209875664162_2316187846535515477_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1675695234_3032273865237320482_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1676825684_3041756765120791631_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1677593715_3048199474492512900_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1679056854_3060473171555146035_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756721940_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756869765_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1687971484_3135254512192371675_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1699088413_3228510068616513024_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1701851603_3251689390541915229_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427027862641_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427028019395_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427371767040_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706881752_3293885335681440018_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839347327884_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839347468480_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839364026628_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839364101529_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707816839_3301729417426511377_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707897772_3302408325868127419_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1708068978_3303844513220971273_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382845788067_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382870863124_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709539613_3316181091012526144_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711178311_3329927484679978394_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711178311_3329927484906650298_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711435771_3332087214538037218_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712126573_3337882084825510665_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712126573_3337882084842245558_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712604235_3341888998832064857_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712643660_3342219724735399861_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712689997_3342608429166005765_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712729700_3342941906222654263_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779481417815_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779481479975_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779598771970_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779598938880_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011546476789_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554824785_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554850909_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011756169770_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011773056341_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011773117326_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011823392657_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715087928_3362723731035811839_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353063002148_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353222249009_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353222365552_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353239095581_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353264229490_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353264337154_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353281100425_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353281104170_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715799892_3368696117497223427_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066386885423_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066386971940_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066546234679_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066554755461_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066563174700_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066563219866_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066571477848_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066579854087_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1736021995_3538331412021741188_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1736021995_3538331412231357101_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1741378070_3583261422947827373_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1741378070_3583261422964446683_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1745769519_3620099571329990386_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378274159131_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450185205_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450317250_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450347686_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450357344_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378458647311_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378467148166_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378483701140_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767633884_3803511160528763522_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910407930_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910435324_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910461109_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213918827829_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1773936670_3856382195032448718_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774302389_3859450007057613854_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774339266_3859759165740963049_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774467723_3860837080662593659_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777667742_3887679960542651997_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777754357_3888406970218864174_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657378585242897_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657389893065111_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657402585019947_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657407123260781_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777960108_3890132588650649479_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675209057209111_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675213872264542_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675238576747149_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675241797913818_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675246805965848_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778271171_3892741807327168951_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463243897496943_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463256144843973_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463263291952512_50114696161.jpg
+instagram_image_count: 99
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1675695234_3032273865237320482_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1676825684_3041756765120791631_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1677593715_3048199474492512900_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756869765_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1687971484_3135254512192371675_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1699088413_3228510068616513024_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427027862641_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382870863124_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554824785_50114696161.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378274159131_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1773936670_3856382195032448718_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774467723_3860837080662593659_50114696161.jpg
+  - >-
+    ../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777960108_3890132588650649479_50114696161.jpg
+trash_images: []
+selected_pattern_count: 9
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # pooja_jeshang_illustrations
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pooja_jeshang_illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/pooja_jeshang_illustrations/profile/658842273_18064209875664162_2316187846535515477_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1675695234_3032273865237320482_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1675695234_3032273865237320482_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1676825684_3041756765120791631_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1676825684_3041756765120791631_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1677593715_3048199474492512900_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1677593715_3048199474492512900_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1679056854_3060473171555146035_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1679056854_3060473171555146035_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756721940_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756721940_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756869765_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1680598298_3073403740756869765_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1687971484_3135254512192371675_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1687971484_3135254512192371675_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1699088413_3228510068616513024_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1699088413_3228510068616513024_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1701851603_3251689390541915229_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1701851603_3251689390541915229_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427027862641_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427027862641_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427028019395_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427028019395_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427371767040_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706347228_3289401427371767040_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706881752_3293885335681440018_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1706881752_3293885335681440018_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839347327884_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839347327884_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839347468480_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839347468480_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839364026628_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839364026628_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839364101529_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707141331_3296062839364101529_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707816839_3301729417426511377_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707816839_3301729417426511377_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707897772_3302408325868127419_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1707897772_3302408325868127419_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1708068978_3303844513220971273_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1708068978_3303844513220971273_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382845788067_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382845788067_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382870863124_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709278937_3313994382870863124_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709539613_3316181091012526144_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1709539613_3316181091012526144_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711178311_3329927484679978394_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711178311_3329927484679978394_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711178311_3329927484906650298_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711178311_3329927484906650298_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711435771_3332087214538037218_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1711435771_3332087214538037218_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712126573_3337882084825510665_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712126573_3337882084825510665_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712126573_3337882084842245558_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712126573_3337882084842245558_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712604235_3341888998832064857_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712604235_3341888998832064857_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712643660_3342219724735399861_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712643660_3342219724735399861_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712689997_3342608429166005765_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712689997_3342608429166005765_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712729700_3342941906222654263_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712729700_3342941906222654263_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779481417815_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779481417815_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779481479975_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779481479975_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779598771970_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779598771970_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779598938880_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712815200_3343389779598938880_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011546476789_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011546476789_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554824785_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554824785_50114696161.jpg --> | [x] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554850909_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011554850909_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011756169770_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011756169770_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011773056341_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011773056341_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011773117326_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011773117326_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011823392657_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1712951016_3344798011823392657_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715087928_3362723731035811839_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715087928_3362723731035811839_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353063002148_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353063002148_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353222249009_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353222249009_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353222365552_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353222365552_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353239095581_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353239095581_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353264229490_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353264229490_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353264337154_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353264337154_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353281100425_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353281100425_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353281104170_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715669982_3367606353281104170_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715799892_3368696117497223427_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1715799892_3368696117497223427_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066386885423_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066386885423_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066386971940_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066386971940_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066546234679_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066546234679_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066554755461_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066554755461_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066563174700_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066563174700_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066563219866_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066563219866_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066571477848_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066571477848_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066579854087_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1716065365_3370923066579854087_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1736021995_3538331412021741188_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1736021995_3538331412021741188_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1736021995_3538331412231357101_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1736021995_3538331412231357101_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1741378070_3583261422947827373_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1741378070_3583261422947827373_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1741378070_3583261422964446683_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1741378070_3583261422964446683_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1745769519_3620099571329990386_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1745769519_3620099571329990386_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 67<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378274159131_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378274159131_50114696161.jpg --> | [ ] | [x] | [ ] |
+| 68<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450185205_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450185205_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 69<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450317250_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450317250_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 70<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450347686_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450347686_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 71<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450357344_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378450357344_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 72<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378458647311_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378458647311_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 73<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378467148166_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378467148166_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 74<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378483701140_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1746818538_3628899378483701140_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 75<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767633884_3803511160528763522_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767633884_3803511160528763522_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 76<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910407930_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910407930_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 77<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910435324_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910435324_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 78<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910461109_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213910461109_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 79<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213918827829_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1767730808_3804324213918827829_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 80<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1773936670_3856382195032448718_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1773936670_3856382195032448718_50114696161.jpg --> | [ ] | [x] | [ ] |
+| 81<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774302389_3859450007057613854_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774302389_3859450007057613854_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 82<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774339266_3859759165740963049_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774339266_3859759165740963049_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 83<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774467723_3860837080662593659_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1774467723_3860837080662593659_50114696161.jpg --> | [ ] | [x] | [ ] |
+| 84<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777667742_3887679960542651997_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777667742_3887679960542651997_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 85<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777754357_3888406970218864174_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777754357_3888406970218864174_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 86<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657378585242897_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657378585242897_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 87<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657389893065111_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657389893065111_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 88<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657402585019947_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657402585019947_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 89<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657407123260781_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777903407_3889657407123260781_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 90<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777960108_3890132588650649479_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1777960108_3890132588650649479_50114696161.jpg --> | [ ] | [x] | [ ] |
+| 91<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675209057209111_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675209057209111_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 92<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675213872264542_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675213872264542_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 93<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675238576747149_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675238576747149_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 94<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675241797913818_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675241797913818_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 95<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675246805965848_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778144157_3891675246805965848_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 96<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778271171_3892741807327168951_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778271171_3892741807327168951_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 97<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463243897496943_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463243897496943_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 98<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463256144843973_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463256144843973_50114696161.jpg --> | [ ] | [ ] | [ ] |
+| 99<br>![pd-review\|180](../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463263291952512_50114696161.jpg)<br><!-- image:../../assets/designers/pooja_jeshang_illustrations/instagram/pooja_jeshang_illustrations_1778357155_3893463263291952512_50114696161.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Pooja Jeshang is a UK-based illustrator with a dual practice spanning illustrated food and botanical prints and hand-painted jewellery. She sells wall art prints, makeup bags, and hand-painted jewellery dishes through her own website, and takes commissions for custom work including wedding invitations. Her work is informed by an affinity for botanical walks and wildflower foraging, rendered through both digital and traditional gouache mediums.
+
 ## Style and Aesthetic
+
+Jeshang's illustrated work favours bold, playful food subjects — fruits (pineapple, strawberry, lemon, banana), condiments (hot sauce, ketchup, mustard, mayonnaise), café objects (coffee and croissant) — alongside botanical florals and illustrated places. Website titles signal a graphic, slightly irreverent pop sensibility applied to everyday subjects. Her botanical work ranges from whimsical English wildflowers to formal Indian compositions (Rose and Marigold Garden, The Jodhpur Door). Selected Instagram pattern images reflect this breadth across food, floral, and decorative surface motifs.
 
 ## Techniques and Tools
 
+Works in both digital and traditional mediums. Website features original gouache paintings (Blooming Meadows, Camellias of Forty Hall, Daisies of Forty Hall, The Jodhpur Door) alongside digitally produced prints. Hand-painted jewellery dishes are a distinct physical product line with their own naming system (Luna, Este, Avaluna, Emilia). About text describes "a delightful blend of traditional and digital mediums."
+
 ## Markets and Clients
+
+Operates primarily through a direct-to-consumer website: wall art prints from £10, original paintings from £65–£70, makeup bags at £15, hand-painted jewellery dishes at £25. Ships Royal Mail Second Class. Open to commissions including custom work and wedding invitation design. Selected placement images suggest context in gifting and lifestyle product settings.
 
 ## Portfolio and Presence
 
+- Website: poojajeshang.co.uk
+- Instagram: @pooja_jeshang_illustrations (1,150 followers, 719 posts)
+
 ## Career Path
+
+UK-based illustrator. Practice is grounded in nature observation — wildflower foraging as a named source of inspiration — combined with an interest in Indian botanical heritage (evident in the marigold and rose compositions). Has operated her own e-commerce site for several years. Applied to patterndesigners.com in March 2023; accepted September 2024.
 
 ## Pattern Focus
 
+Specialises in bold food illustration, botanical and floral surface work, and illustrated place prints. Selected pattern images reflect a graphic, pop-influenced approach to botanical and food subjects. Floral range includes Indian-heritage compositions and English wildflower-inspired designs. Surface pattern applications currently skew toward wall art and fabric gifts; direct surface pattern licensing is not the primary business model.
+
 ## Connections
+
+- [[Botanical]] (core motif)
+- [[Illustration]] (primary practice)
+- [[Surface Pattern Design]] (emerging practice area)
+- [[Food Illustration]] (signature subject category)

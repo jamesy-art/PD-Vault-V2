@@ -23,7 +23,7 @@ bio: ''
 website: 'https://patternine.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/patternine
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: patternine® home
 website_meta_description: >-
   Discover parametric artistry in a variety of materials. Patternine crafts
@@ -309,7 +312,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -328,45 +331,116 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/263265770_1105081530230787_5003036689244608071_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjQuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEexCrki7r1CvbCXDIA1C2M2ueBiNtfqr0w6ZEb7zg1vUtUeqU8MeGXvA-AVyzGP9E&_nc_ohc=yTChI9RYWC0Q7kNvwEWU8-d&_nc_gid=3Q6XzJYWJUHS9PEzX67MRg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6KCqcyfCXHOnAwFqJkWWyzJS_sVOIpj5TdsXKJgBFEfA&oe=6A13E697&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/263265770_1105081530230787_5003036689244608071_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjQuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEexCrki7r1CvbCXDIA1C2M2ueBiNtfqr0w6ZEb7zg1vUtUeqU8MeGXvA-AVyzGP9E&_nc_ohc=yTChI9RYWC0Q7kNvwEWU8-d&_nc_gid=3Q6XzJYWJUHS9PEzX67MRg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6KCqcyfCXHOnAwFqJkWWyzJS_sVOIpj5TdsXKJgBFEfA&oe=6A13E697&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/patternine/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4032
+instagram_profile_image_local: >-
+  ../../assets/designers/patternine/profile/263265770_1105081530230787_5003036689244608071_n.jpg
+instagram_profile_image_bytes: 28400
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/patternine/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/patternine/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/patternine/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/patternine/profile/263265770_1105081530230787_5003036689244608071_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/patternine/profile/263265770_1105081530230787_5003036689244608071_n.jpg
+profile_image_local: >-
+  ../../assets/designers/patternine/profile/263265770_1105081530230787_5003036689244608071_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/patternine/profile/263265770_1105081530230787_5003036689244608071_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801638786_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801659891_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810008130_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810064592_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781818412708_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201781810059951_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201782112052383_5587920170.jpg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801638786_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801659891_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810008130_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810064592_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201781810059951_5587920170.jpg
+  - >-
+    ../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201782112052383_5587920170.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # patternine
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/patternine/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/patternine/profile/263265770_1105081530230787_5003036689244608071_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801638786_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801638786_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801659891_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781801659891_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810008130_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810008130_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810064592_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781810064592_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781818412708_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391330_3709201781818412708_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201781810059951_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201781810059951_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201782112052383_5587920170.jpg)<br><!-- image:../../assets/designers/patternine/instagram/patternine_imageye_1756391331_3709201782112052383_5587920170.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Patternine® is a surface design and fabrication studio founded by Craig Woehrle, trained in architecture and landscape architecture. The studio designs, develops, and fabricates scalable parametric surface systems for architectural and product applications — drawing pattern language from natural phenomena: waves, wind, stone, and structural logic. Designs are evaluated for fabrication compatibility before entering the catalogue and are built for application across materials, methods, and scales, from personal objects and intimate interiors to large-scale installations.
+
 ## Style and Aesthetic
+
+Selected images suggest structured, geometry-driven surface systems — precise repeating forms with textural variation derived from natural processes. The visual language is architectural and material-aware: patterns are developed as systems with names (System 58, Pattern 59 textural) and evaluated for what they can become across different materials and production methods. Selected patterns span both linear and organic structural forms.
 
 ## Techniques and Tools
 
+Parametric and generative design, with each pattern developed using repeat rules, orientation logic, and fabrication compatibility as primary constraints. Material partners include Durasein®, Envel®, Lumicor®, and Archifibe®. Applications span architectural walls and ceilings, hard surface and composite materials, textiles and soft goods, furniture, fixtures, moving objects, and transportation.
+
 ## Markets and Clients
+
+Architecture, interior design, materials manufacturing, and product design. Works with architects, interior designers, manufacturers, and brands. Services include licensing, custom commission, and architectural product supply. Installed project references: DECOlegno Showroom (2025), Arterfacto (2025), Jeddah-One (2021), CASACOR (2022).
 
 ## Portfolio and Presence
 
+- Instagram: @patternine
+- Website: patternine.com
+- Collections: Retrospecta, Urban Geology, Co-Habit, Fissure
+
 ## Career Path
+
+Craig Woehrle launched Patternine to explore how the language of nature and its processes can inform and become design. Trained in architecture and landscape architecture, he developed a parametric approach drawing from diverse fields — art, mathematics, and natural observation, with inspiration particularly drawn from the rhythms of Whidbey Island, USA.
 
 ## Pattern Focus
 
+Parametric surface systems derived from natural phenomena — structural, textural, and geometric repeat patterns built for architectural and product applications. Each design is scalable and fabrication-ready across hard surfaces, composites, textiles, furniture, and transportation.
+
 ## Connections
+
+- [[Architecture]] market
+- [[Interior Design]]
+- [[Parametric Design]]
+- [[Licensing]]
+- [[Hard Surfaces]]

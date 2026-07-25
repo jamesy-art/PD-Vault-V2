@@ -25,7 +25,7 @@ bio: ''
 website: 'https://estermuxune.com'
 website_about: ''
 accepted: 19/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ester_muxune
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Ester Muxune. Surface pattern designer - Ester Muxune
 website_meta_description: >-
   Hi, I’m Ester, a self-taught surface pattern designer, biologist and based in
@@ -207,7 +210,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -227,45 +230,173 @@ instagram_profile_pic_url: >-
   https://instagram.fpit1-1.fna.fbcdn.net/v/t51.2885-19/321833850_1910752222610319_4337032457414867466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fpit1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFhwMro3q1h6qTqoAioZf5IznEzK0synss8-9xPHW2nJGCdadLl8fQOdbqZ2dyELpg&_nc_ohc=1MHOnkEf7ioQ7kNvwGb6Wrx&_nc_gid=nqW_E5d_hmzIMyiHXWLaOA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pMOBUwZ3pUZF1TVPo2xaXzWPvb0qqBPKeYowP1SLG-g&oe=6A13F6D7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fpit1-1.fna.fbcdn.net/v/t51.2885-19/321833850_1910752222610319_4337032457414867466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=instagram.fpit1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gFhwMro3q1h6qTqoAioZf5IznEzK0synss8-9xPHW2nJGCdadLl8fQOdbqZ2dyELpg&_nc_ohc=1MHOnkEf7ioQ7kNvwGb6Wrx&_nc_gid=nqW_E5d_hmzIMyiHXWLaOA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pMOBUwZ3pUZF1TVPo2xaXzWPvb0qqBPKeYowP1SLG-g&oe=6A13F6D7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4418
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ester_muxune/profile/321833850_1910752222610319_4337032457414867466_n.jpg
+instagram_profile_image_bytes: 74037
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ester_muxune/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ester_muxune/profile/321833850_1910752222610319_4337032457414867466_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ester_muxune/profile/321833850_1910752222610319_4337032457414867466_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ester_muxune/profile/321833850_1910752222610319_4337032457414867466_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ester_muxune/profile/321833850_1910752222610319_4337032457414867466_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349215305850_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349399915781_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349416654935_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251845353711_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251887295526_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332277695180005_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332278483678800_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741017393191_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741789149105_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777534432_3886562972097442674_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777534432_3886562972181329979_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357447473416_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357657154768_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175576186868_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175702014408_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175802669665_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389709262750_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389902181878_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778136806_3891616049229844699_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778136806_3891616049229850939_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346858786062576_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346859037748497_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1779096855_3899669525537064817_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1779096855_3899669525922923527_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1779953724_3906857463970654348_57213309055.jpg
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349416654935_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251887295526_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332278483678800_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741017393191_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357657154768_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389902181878_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346858786062576_57213309055.jpg
+  - >-
+    ../../assets/designers/ester_muxune/instagram/ester_muxune_1779953724_3906857463970654348_57213309055.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ester_muxune
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ester_muxune/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ester_muxune/profile/321833850_1910752222610319_4337032457414867466_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349215305850_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349215305850_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349399915781_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349399915781_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349416654935_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1776701204_3879573349416654935_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251845353711_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251845353711_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251887295526_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1776926975_3881467251887295526_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332277695180005_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332277695180005_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332278483678800_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777030094_3882332278483678800_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741017393191_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741017393191_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741789149105_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777193466_3883702741789149105_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777534432_3886562972097442674_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777534432_3886562972097442674_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777534432_3886562972181329979_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777534432_3886562972181329979_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357447473416_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357447473416_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357657154768_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777711384_3888047357657154768_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175576186868_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175576186868_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175702014408_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175702014408_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175802669665_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1777969809_3890215175802669665_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389709262750_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389709262750_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389902181878_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1778065082_3891014389902181878_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1778136806_3891616049229844699_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1778136806_3891616049229844699_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1778136806_3891616049229850939_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1778136806_3891616049229850939_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346858786062576_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346858786062576_57213309055.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346859037748497_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1778223925_3892346859037748497_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1779096855_3899669525537064817_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1779096855_3899669525537064817_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1779096855_3899669525922923527_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1779096855_3899669525922923527_57213309055.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/ester_muxune/instagram/ester_muxune_1779953724_3906857463970654348_57213309055.jpg)<br><!-- image:../../assets/designers/ester_muxune/instagram/ester_muxune_1779953724_3906857463970654348_57213309055.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ester Bernaldo de Quirós is a self-taught surface pattern designer based in Navarra, in the green northern part of Spain. Trained as a biologist with a research background in primate behaviour — including fieldwork in Argentina, Madagascar, and Germany — she came to surface pattern design after returning to Spain and taking a sewing course. Her work is described as cheerful, fun, and bright, drawing directly on scientific knowledge of the natural world. She is open to licensing and commissions.
+
 ## Style and Aesthetic
+
+Ester's patterns are colourful and playful, with a strong nature and animal focus grounded in biological observation. Her work spans illustrated fauna and flora, novelty prints, and geometric designs. Selected Instagram images (8 approved patterns) confirm a confident, bright palette and range across motif types. The scientific rigour behind her observation gives her animal subjects unusual specificity compared to conventional decorative florals.
 
 ## Techniques and Tools
 
+Self-taught in surface pattern design. Produces work digitally. Active participant in Spoonflower and design challenge communities — the website references the Blender Bonanza challenge by Power Sellers Academy, and she sells designs on Spoonflower in fabric and wallpaper formats. Her background as a sewist reflects close familiarity with how patterns translate to textile application.
+
 ## Markets and Clients
+
+Sells designs on Spoonflower (fabric and wallpaper). Open to art licensing and commissions. No documented trade clients. Her colourful, nature- and animal-led aesthetic suits children's, homewares, and stationery markets.
 
 ## Portfolio and Presence
 
+- Website: https://estermuxune.com
+- Instagram: @ester_muxune (1,478 followers, 313 posts)
+
 ## Career Path
+
+Biology degree with specialisation in primate behaviour. Fieldwork in Argentina, Madagascar, and Germany. Returned to Spain and reconnected with creative practice after taking a sewing course, which introduced her to surface pattern design. Self-taught from that point, building an active presence on Spoonflower and within the Make It in Design community.
 
 ## Pattern Focus
 
+Eight selected Instagram images confirm surface pattern work across nature, animal, and geometric categories. The pattern set appears to span flora, fauna, and structured geometric designs — consistent with her stated range. Spoonflower activity confirms repeat pattern production at a commercial level.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Animal Pattern]]
+- [[Nature Pattern]]
+- [[Surface Pattern Design]]
+- [[Licensing]]

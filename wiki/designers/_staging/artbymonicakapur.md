@@ -19,7 +19,7 @@ bio: ''
 website: 'https://heyzine.com/flip-book/bbca177535.html'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/artbymonicakapur
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Online Flipbook
 website_meta_description: Created with the Heyzine flipbook maker
 website_about_raw: >-
@@ -177,7 +180,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -197,45 +200,269 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/466804078_1760955221373969_1062308807241574117_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE8tuumSENMKGDiIeq7xIyL_HEk--fhq2Hzu66BM-WvqgkAgL5tlSsNSLlDNtUL_4A&_nc_ohc=t4jc67EczIgQ7kNvwHBEVwp&_nc_gid=S31LKFzXley8WbQyiiSa6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7sQV1eFPrNC7Is89pKLPD_lRbAdh0312ykm1tqEAMCdA&oe=6A13DBDD&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/466804078_1760955221373969_1062308807241574117_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE8tuumSENMKGDiIeq7xIyL_HEk--fhq2Hzu66BM-WvqgkAgL5tlSsNSLlDNtUL_4A&_nc_ohc=t4jc67EczIgQ7kNvwHBEVwp&_nc_gid=S31LKFzXley8WbQyiiSa6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7sQV1eFPrNC7Is89pKLPD_lRbAdh0312ykm1tqEAMCdA&oe=6A13DBDD&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5074
+instagram_profile_image_local: >-
+  ../../assets/designers/artbymonicakapur/profile/466804078_1760955221373969_1062308807241574117_n.jpg
+instagram_profile_image_bytes: 15332
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/artbymonicakapur/profile/466804078_1760955221373969_1062308807241574117_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/artbymonicakapur/profile/466804078_1760955221373969_1062308807241574117_n.jpg
+profile_image_local: >-
+  ../../assets/designers/artbymonicakapur/profile/466804078_1760955221373969_1062308807241574117_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/artbymonicakapur/profile/466804078_1760955221373969_1062308807241574117_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366378981_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366379819_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301492185456_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301567711430_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795959893944730_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795959893978337_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960011366396_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960019786104_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295560813_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295564768_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295574673_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813807936_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813943837_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835814005039_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835822251324_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835948160456_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958824175_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958943277_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958951928_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958954271_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967199073_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967255772_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967386802_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042076244022_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042093158618_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042134962433_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368474265005_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368474347822_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368482906262_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368633665296_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288422295268_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430572300_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430587695_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430624645_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430780414_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288439092265_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615160257_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615235158_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615256270_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288640325983_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966811945432_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820208067_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820242868_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820359255_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966828656754_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966962827577_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445219556_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445226495_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445293354_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114587787257_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114613068779_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114654936900_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441564358084_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441564554715_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441681995916_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441690320211_8949263335.jpg
+instagram_image_count: 56
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366378981_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960019786104_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295574673_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813943837_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288422295268_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615235158_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820208067_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114587787257_8949263335.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820359255_8949263335.jpg
+  - >-
+    ../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441690320211_8949263335.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # artbymonicakapur
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/artbymonicakapur/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/artbymonicakapur/profile/466804078_1760955221373969_1062308807241574117_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366378981_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366378981_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366379819_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301366379819_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301492185456_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301492185456_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301567711430_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1655815945_2865514301567711430_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795959893944730_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795959893944730_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795959893978337_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795959893978337_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960011366396_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960011366396_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960019786104_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1658233707_2885795960019786104_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295560813_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295560813_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295564768_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295564768_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295574673_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1664536646_2938668844295574673_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813807936_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813807936_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813943837_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835813943837_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835814005039_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835814005039_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835822251324_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835822251324_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835948160456_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1675858548_3033643835948160456_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958824175_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958824175_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958943277_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958943277_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958951928_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958951928_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958954271_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041958954271_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967199073_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967199073_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967255772_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967255772_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967386802_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079041967386802_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042076244022_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042076244022_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042093158618_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042093158618_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042134962433_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676268056_3037079042134962433_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368474265005_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368474265005_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368474347822_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368474347822_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368482906262_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368482906262_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368633665296_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676388600_3037968368633665296_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288422295268_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288422295268_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430572300_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430572300_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430587695_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430587695_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430624645_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430624645_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430780414_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288430780414_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288439092265_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288439092265_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615160257_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615160257_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615235158_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615235158_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615256270_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288615256270_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288640325983_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1676560506_3039532288640325983_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966811945432_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966811945432_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820208067_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820208067_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820242868_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820242868_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820359255_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966820359255_8949263335.jpg --> | [ ] | [x] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966828656754_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966828656754_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966962827577_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1678795999_3058284966962827577_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445219556_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445219556_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445226495_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445226495_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445293354_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114445293354_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114587787257_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114587787257_8949263335.jpg --> | [x] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114613068779_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114613068779_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114654936900_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686653697_3124200114654936900_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441564358084_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441564358084_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441564554715_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441564554715_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441681995916_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441681995916_8949263335.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441690320211_8949263335.jpg)<br><!-- image:../../assets/designers/artbymonicakapur/instagram/artbymonicakapur_1686739925_3124923441690320211_8949263335.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Monica Kapur is an India-based artist and surface pattern designer working across botanical patterns, painterly abstractions, and murals. Her Instagram bio — "Painterly Art, patterns & murals by Monica Kapur / Print-ready • Global clients" — positions her as available for international commissions and licensing. With 5+ years of experience, she presents her portfolio via a digital flipbook hosted on Heyzine.
+
 ## Style and Aesthetic
+
+Selected pattern images suggest a loose, expressive approach — botanical subjects rendered with visible painterly qualities rather than tight graphic construction. The work reads as hand-originated, warm in palette, and natural in subject matter. Instagram bio identifies "Botanicals • Murals • Painterly abstractions" as the core vocabulary.
 
 ## Techniques and Tools
 
+Works in a painterly style suggesting an analogue-first or mixed-media process. The emphasis on "painterly" across patterns, murals, and abstractions points to a consistent hand-rendered method adapted for different applications. Portfolio presented as a digital flipbook (Heyzine). Listed skill: market adaptation.
+
 ## Markets and Clients
+
+Describes work as "print-ready" for "Global clients." Selected placement images suggest textile or product application contexts. Available for international commissions and licensing.
 
 ## Portfolio and Presence
 
+- Website: https://heyzine.com/flip-book/bbca177535.html (digital portfolio flipbook)
+- Instagram: @artbymonicakapur (847 followers, 366 posts)
+
 ## Career Path
+
+5+ years in surface pattern design. Formal background and training not documented in available sources.
 
 ## Pattern Focus
 
+Selected patterns suggest botanical and abstract compositions with a consistent painterly quality. Work spans repeat-oriented surface design and larger mural-scale applications, with botanicals as the consistent core subject.
+
 ## Connections
+
+- [[India]]
+- [[Botanical]] motif type
+- [[Mural]] application
+- [[Licensing]] market

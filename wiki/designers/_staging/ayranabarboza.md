@@ -19,7 +19,7 @@ bio: ''
 website: 'https://ayranabarboza.myportfolio.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ayranabarboza
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Ayrana Oliveira
 website_meta_description: ''
 website_about_raw: >-
@@ -94,7 +97,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   ABOUT
 
@@ -135,45 +138,103 @@ instagram_profile_pic_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/683454135_18180682723391140_5684682211469879695_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHaMYHQ-DHvSScIMQ4l7WO1RILGtdAtOpMAbLfaYDYo2weqidYRW50ndQSff22llAg&_nc_ohc=vmhsV8fr4fgQ7kNvwEZpCg2&_nc_gid=hCAQrBib-ZxyQmCgz77euw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5V8CXWDch171Y5s3KAfCQduT3sltE7r6TGEVee-GsEuQ&oe=6A13F672&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/683454135_18180682723391140_5684682211469879695_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHaMYHQ-DHvSScIMQ4l7WO1RILGtdAtOpMAbLfaYDYo2weqidYRW50ndQSff22llAg&_nc_ohc=vmhsV8fr4fgQ7kNvwEZpCg2&_nc_gid=hCAQrBib-ZxyQmCgz77euw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5V8CXWDch171Y5s3KAfCQduT3sltE7r6TGEVee-GsEuQ&oe=6A13F672&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ayranabarboza/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3531
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ayranabarboza/profile/683454135_18180682723391140_5684682211469879695_n.jpg
+instagram_profile_image_bytes: 139509
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ayranabarboza/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ayranabarboza/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ayranabarboza/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ayranabarboza/profile/683454135_18180682723391140_5684682211469879695_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ayranabarboza/profile/683454135_18180682723391140_5684682211469879695_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ayranabarboza/profile/683454135_18180682723391140_5684682211469879695_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ayranabarboza/profile/683454135_18180682723391140_5684682211469879695_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649371836676_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649388702314_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396923543_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396963583_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649397048724_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684881_3703275649363491822_5587920170.jpg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649371836676_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649388702314_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396923543_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396963583_5587920170.jpg
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649397048724_5587920170.jpg
+selected_placements: []
+trash_images:
+  - >-
+    ../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684881_3703275649363491822_5587920170.jpg
+selected_pattern_count: 5
+selected_placement_count: 0
+trash_image_count: 1
 ---
-
 # ayranabarboza
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ayranabarboza/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ayranabarboza/profile/683454135_18180682723391140_5684682211469879695_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649371836676_5587920170.jpg)<br><!-- image:../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649371836676_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649388702314_5587920170.jpg)<br><!-- image:../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649388702314_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396923543_5587920170.jpg)<br><!-- image:../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396923543_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396963583_5587920170.jpg)<br><!-- image:../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649396963583_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649397048724_5587920170.jpg)<br><!-- image:../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684880_3703275649397048724_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684881_3703275649363491822_5587920170.jpg)<br><!-- image:../../assets/designers/ayranabarboza/instagram/ayranabarboza_1755684881_3703275649363491822_5587920170.jpg --> | [ ] | [ ] | [x] |
+
 ## Website Images
 
-
 ## Overview
+Ayrana Barboza is a surface pattern designer based in Tallinn, Estonia, originally from Brazil. Her studio develops original prints for fashion brands, positioning itself between Brazilian visual culture and Nordic aesthetic restraint. A Fashion Design graduate, Barboza transitioned from a career as a costume designer to surface pattern design, establishing her studio in Estonia.
 
 ## Style and Aesthetic
+The studio's creative identity is built on cross-cultural contrast: Rio de Janeiro vibrancy against Nordic quietude. Design is rooted in what Barboza describes as a "deep investigative process, crossing cultures, textures and global references." Selected Instagram images suggest considered compositional structure and controlled colour relationships suited to womenswear print.
 
 ## Techniques and Tools
+Digital print design. Background in fashion design and costume making. No specific software documented.
 
 ## Markets and Clients
+Womenswear. Documented partnership projects: Studio Sense/Chica Fulô (Vintage Floral print) and SheinX (Glitter Sun and Moon print).
 
 ## Portfolio and Presence
+- Website: ayranabarboza.myportfolio.com
+- Instagram: @ayranabarboza (456 followers, 33 posts)
+- Email: ayrana.barboza@gmail.com
 
 ## Career Path
+Brazilian-born; graduated in Fashion Design. Worked as a Costume Designer before relocating to Estonia and pivoting to surface pattern design. Now based in Tallinn.
 
 ## Pattern Focus
+Fashion-facing womenswear prints. Documented work includes vintage floral and celestial/decorative motifs. Selected images suggest a portfolio grounded in womenswear print conventions, with a culturally hybrid visual sensibility.
 
 ## Connections
+- [[Womenswear]]
+- [[Fashion Print]]
+- [[SheinX]]

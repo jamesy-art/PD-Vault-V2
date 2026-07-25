@@ -373,5 +373,5 @@ Selected pattern images suggest botanical all-over compositions, layered floral 
 - [[Noc Noc Estudio]] — FW21/22 Spirit collection pattern design
 - [[La Casita de Wendy]] — FW25 collection
 - [[CasaDecor]] — 2017 collaboration with Izaskun Chinchilla Arquitecta
-- [[Floral Pattern]]
+- [[Flower Pattern]]
 - [[Botanical Pattern]]

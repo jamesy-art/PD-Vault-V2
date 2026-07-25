@@ -15,12 +15,12 @@ skills:
 country: ''
 can_use: 'Yes'
 instagram_handle: ivywxtart
-instagram: 'https://instagram.com/@ivywxtart'
+instagram: 'https://instagram.com/ivywxtart'
 bio: ''
 website: 'https://ivywxt.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ivywxtart
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Ivywxt
 website_meta_description: ''
 website_about_raw: >-
@@ -191,7 +194,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -208,45 +211,144 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/523902099_18086436646751683_814913771264817960_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHbCAU-DhSyaAviRzIc-GOD5s08alZrbaPaXTlimkoqK5YRax1kn5AqEE3Gyo72KeI&_nc_ohc=kZJETyl8SUAQ7kNvwG71WKn&_nc_gid=HOmJRXApR4nej85Jh17ymQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6V6kDZ4JFUS4cCF1GVmC6orZ6EPBgb34fIIqe4G8pWVw&oe=6A13D4EE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/523902099_18086436646751683_814913771264817960_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHbCAU-DhSyaAviRzIc-GOD5s08alZrbaPaXTlimkoqK5YRax1kn5AqEE3Gyo72KeI&_nc_ohc=kZJETyl8SUAQ7kNvwG71WKn&_nc_gid=HOmJRXApR4nej85Jh17ymQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6V6kDZ4JFUS4cCF1GVmC6orZ6EPBgb34fIIqe4G8pWVw&oe=6A13D4EE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ivywxtart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5221
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ivywxtart/profile/523902099_18086436646751683_814913771264817960_n.jpg
+instagram_profile_image_bytes: 147830
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ivywxtart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ivywxtart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ivywxtart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ivywxtart/profile/523902099_18086436646751683_814913771264817960_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ivywxtart/profile/523902099_18086436646751683_814913771264817960_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ivywxtart/profile/523902099_18086436646751683_814913771264817960_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ivywxtart/profile/523902099_18086436646751683_814913771264817960_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962721824_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962780411_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962812319_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962934016_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515172029794153_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515172197675508_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293189747366_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293214905633_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524767177179_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524951551683_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072321753722_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072321754358_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072329960557_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129395281_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129451291_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863613703645_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863630405818_22434391682.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962934016_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293214905633_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524951551683_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072329960557_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129395281_22434391682.jpg
+  - >-
+    ../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863613703645_22434391682.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ivywxtart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ivywxtart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ivywxtart/profile/523902099_18086436646751683_814913771264817960_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962721824_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962721824_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962780411_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962780411_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962812319_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962812319_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962934016_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515171962934016_22434391682.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515172029794153_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515172029794153_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515172197675508_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1728322200_3473515172197675508_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293189747366_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293189747366_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293214905633_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1729953000_3487228293214905633_22434391682.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524767177179_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524767177179_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524951551683_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730143679_3489020524951551683_22434391682.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072321753722_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072321753722_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072321754358_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072321754358_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072329960557_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730295000_3490124072329960557_22434391682.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129395281_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129395281_22434391682.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129451291_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1730302200_3490140446129451291_22434391682.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863613703645_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863613703645_22434391682.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863630405818_22434391682.jpg)<br><!-- image:../../assets/designers/ivywxtart/instagram/ivywxtart_1732328349_3507346863630405818_22434391682.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ivy Wang is an illustrator and emerging pattern designer working as Ivywxt. She holds a Master's in Illustration from the Maryland Institute College of Art (2024) and a BA in Studio Art from Denison University (2021). Her practice centres on vibrant, character-driven illustration informed by her Chinese heritage and an interest in interactive and product-based formats.
+
 ## Style and Aesthetic
+
+Wang works with saturated, intentionally chaotic colour palettes to present imaginative, humour-inflected worlds. Selected Instagram patterns suggest bold, character-driven compositions with energetic colour and strong graphic presence. Personal work frequently draws on her Chinese ethnicity and the religious culture in which she was raised, giving the work a distinctive cultural grounding.
 
 ## Techniques and Tools
 
+Digital illustration. Animated GIFs and artistic product design sit alongside static pattern work as key output formats. The practice includes both character-focused illustration and decorative compositional approaches suited to pattern repeat contexts.
+
 ## Markets and Clients
+
+Editorial illustration and character-driven work for children's and stationery contexts. Collaborative project work documented with 826DC, a US children's literacy nonprofit — card illustration, box art design, and game booklet production for their story-starter card deck programme.
 
 ## Portfolio and Presence
 
+- Website: https://ivywxt.com
+- Instagram: https://instagram.com/ivywxtart
+
 ## Career Path
+
+Educated in the United States: BA in Studio Art from Denison University (2021), followed by a Master's in Illustration at MICA (2024). Instagram bio references locations including ZJ (Zhejiang), SH (Shanghai), FL, OH (Ohio), and MD (Maryland), suggesting time split between China and the US.
 
 ## Pattern Focus
 
+Character-based surface patterns and decorative illustration compositions. Selected patterns suggest energetic all-over designs with strong figurative subjects and an expressive, unconventional colour approach. Animation is an active dimension of the practice.
+
 ## Connections
+
+- [[Illustration]]
+- [[Character-Based Pattern Design]]
+- [[Stationery]]
+- [[Kidswear]]

@@ -19,7 +19,7 @@ bio: ''
 website: 'https://painttopaper.com'
 website_about: ''
 accepted: 19/11/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/paint.to.paper.designs
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Paint to Paper Designs | Paper Goods
 website_meta_description: 'Hand painted designs to brighten up your home, by Paint to Paper Designs.'
 website_about_raw: >-
@@ -141,7 +144,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   My story so far...
 
@@ -205,45 +208,174 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/503085924_18305912128211099_7486759390616821892_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFCijFpog-ay77Jq-TEsZisxGq9FnUcOvRTyQy79lrdTWvHNI7I1ykS4y_nDYA2oaU&_nc_ohc=VKLJqXfA18AQ7kNvwG3F-j4&_nc_gid=KgUdwMRCNUeJA22E2Oj8Nw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5hTjYmut7z0_V-x7UCfgFhD3me-YpAAd1sYjsHEEalRA&oe=6A13D898&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/503085924_18305912128211099_7486759390616821892_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFCijFpog-ay77Jq-TEsZisxGq9FnUcOvRTyQy79lrdTWvHNI7I1ykS4y_nDYA2oaU&_nc_ohc=VKLJqXfA18AQ7kNvwG3F-j4&_nc_gid=KgUdwMRCNUeJA22E2Oj8Nw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5hTjYmut7z0_V-x7UCfgFhD3me-YpAAd1sYjsHEEalRA&oe=6A13D898&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/paint.to.paper.designs/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6810
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/paint.to.paper.designs/profile/503085924_18305912128211099_7486759390616821892_n.jpg
+instagram_profile_image_bytes: 209152
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/paint.to.paper.designs/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/paint.to.paper.designs/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/paint.to.paper.designs/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/paint.to.paper.designs/profile/503085924_18305912128211099_7486759390616821892_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/paint.to.paper.designs/profile/503085924_18305912128211099_7486759390616821892_n.jpg
+profile_image_local: >-
+  ../../assets/designers/paint.to.paper.designs/profile/503085924_18305912128211099_7486759390616821892_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/paint.to.paper.designs/profile/503085924_18305912128211099_7486759390616821892_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1696436325_3206262746180494769_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1697452053_3214783287590077696_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722344161_3423593421924272990_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722344161_3423593421924293874_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694055741022_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694257036925_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694265411898_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500775569585_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500784002998_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173262288623_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337667902_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337774401_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173346020400_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842031365776_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842031494995_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842039927669_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842048120091_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746606851_3627123619305917075_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093690017583_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093698471653_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723525782_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723593824_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723712169_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932412194731884_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932415399179708_6270899098.jpg
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694265411898_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500775569585_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337667902_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842039927669_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746606851_3627123619305917075_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932415399179708_6270899098.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1696436325_3206262746180494769_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1697452053_3214783287590077696_6270899098.jpg
+  - >-
+    ../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932412194731884_6270899098.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # paint.to.paper.designs
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/paint.to.paper.designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/paint.to.paper.designs/profile/503085924_18305912128211099_7486759390616821892_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1696436325_3206262746180494769_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1696436325_3206262746180494769_6270899098.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1697452053_3214783287590077696_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1697452053_3214783287590077696_6270899098.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722344161_3423593421924272990_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722344161_3423593421924272990_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722344161_3423593421924293874_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722344161_3423593421924293874_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694055741022_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694055741022_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694257036925_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694257036925_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694265411898_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1722530041_3425152694265411898_6270899098.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500775569585_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500775569585_6270899098.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500784002998_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1732622038_3509810500784002998_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173262288623_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173262288623_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337667902_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337667902_6270899098.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337774401_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173337774401_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173346020400_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1743699164_3602732173346020400_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842031365776_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842031365776_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842031494995_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842031494995_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842039927669_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842039927669_6270899098.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842048120091_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746533206_3626505842048120091_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746606851_3627123619305917075_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746606851_3627123619305917075_6270899098.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093690017583_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093690017583_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093698471653_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093698471653_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723525782_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723525782_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723593824_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723593824_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723712169_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1746958098_3630070093723712169_6270899098.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932412194731884_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932412194731884_6270899098.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932415399179708_6270899098.jpg)<br><!-- image:../../assets/designers/paint.to.paper.designs/instagram/paint.to.paper.designs_1771618749_3836932415399179708_6270899098.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Beth Scrivens is a UK-based illustrator and print designer operating under the Paint to Paper Designs brand. Holding a BA in Textile Design from Nottingham Trent University and with over eight years of combined in-house and freelance experience, she brings a hand-painted craft approach to surface pattern design. Paint to Paper Designs was founded in 2017.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a painterly, hand-crafted aesthetic — naturalistic motifs rendered in watercolour and collage, with a warm contemporary palette. The work reads as modern craft: expressive enough to feel handmade, refined enough for commercial repeat application.
 
 ## Techniques and Tools
 
+Works primarily in watercolour and collage, complemented by drawing and Photoshop for digital completion and repeat construction. Eight years across in-house and freelance roles has produced a practice fluent in working to brief and to self-directed collections.
+
 ## Markets and Clients
+
+Stationery is the primary documented market category. Selected placement images suggest consumer product applications across print-on-paper and surface-applied formats. Open to freelance commissions and client briefs.
 
 ## Portfolio and Presence
 
+- Instagram: @paint.to.paper.designs
+- Website: Paint to Paper Designs
+
 ## Career Path
+
+Studied Textile Design at Nottingham Trent University. Gained in-house and freelance experience before founding Paint to Paper Designs in 2017 as an independent practice.
 
 ## Pattern Focus
 
+Hand-painted repeat patterns and illustrations with natural and botanical subject matter. Watercolour-led process adapted for digital surface applications via Photoshop, suited to stationery and print markets.
+
 ## Connections
+
+- [[Stationery]] market
+- [[Watercolour]]
+- [[Nottingham Trent University]]
+- [[Surface Pattern Design]]

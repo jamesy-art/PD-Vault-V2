@@ -19,7 +19,7 @@ bio: ''
 website: 'https://StokeLaneTextiles.com'
 website_about: ''
 accepted: 16/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/stokelanetextiles
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: StokeLane Textiles - Stoke Lane Textiles
 website_meta_description: >-
   A beautiful collection of textile designs, sustainably printed onto natural
@@ -236,7 +239,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -256,45 +259,117 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/402429946_1743902266088795_4581278816756200010_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzjfdrB7IQLTn99AUGoOpp0ioCJycSEtCIDfo_CnzBzV3LuER0n7I4JNOIHaO0Bes&_nc_ohc=y3xKU5aElCYQ7kNvwGXaPv6&_nc_gid=wA7qh0J9ooi24Gmzy_Xr5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5uSPldkLGDI68RLJRwiU3ES4Ydt35dGvq3ZIQ8nZqrww&oe=6A13E5FB&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/402429946_1743902266088795_4581278816756200010_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEzjfdrB7IQLTn99AUGoOpp0ioCJycSEtCIDfo_CnzBzV3LuER0n7I4JNOIHaO0Bes&_nc_ohc=y3xKU5aElCYQ7kNvwGXaPv6&_nc_gid=wA7qh0J9ooi24Gmzy_Xr5A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5uSPldkLGDI68RLJRwiU3ES4Ydt35dGvq3ZIQ8nZqrww&oe=6A13E5FB&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3420
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/stokelanetextiles/profile/402429946_1743902266088795_4581278816756200010_n.jpg
+instagram_profile_image_bytes: 96299
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/stokelanetextiles/profile/402429946_1743902266088795_4581278816756200010_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/stokelanetextiles/profile/402429946_1743902266088795_4581278816756200010_n.jpg
+profile_image_local: >-
+  ../../assets/designers/stokelanetextiles/profile/402429946_1743902266088795_4581278816756200010_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/stokelanetextiles/profile/402429946_1743902266088795_4581278816756200010_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1609898217_2480328475309028680_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1614234205_2516701379354849668_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910473_2857918651577641284_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910516_2857919011734040825_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910741_2857920894942897669_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1655009447_2858748905036578118_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1742064002_3589015438359405254_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1744105610_3606141691193232516_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1746358751_3625042402987516166_45050404092.jpg
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1609898217_2480328475309028680_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910473_2857918651577641284_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910516_2857919011734040825_45050404092.jpg
+  - >-
+    ../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1655009447_2858748905036578118_45050404092.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # stokelanetextiles
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/stokelanetextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/stokelanetextiles/profile/402429946_1743902266088795_4581278816756200010_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1609898217_2480328475309028680_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1609898217_2480328475309028680_45050404092.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1614234205_2516701379354849668_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1614234205_2516701379354849668_45050404092.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910473_2857918651577641284_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910473_2857918651577641284_45050404092.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910516_2857919011734040825_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910516_2857919011734040825_45050404092.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910741_2857920894942897669_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1654910741_2857920894942897669_45050404092.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1655009447_2858748905036578118_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1655009447_2858748905036578118_45050404092.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1742064002_3589015438359405254_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1742064002_3589015438359405254_45050404092.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1744105610_3606141691193232516_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1744105610_3606141691193232516_45050404092.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1746358751_3625042402987516166_45050404092.jpg)<br><!-- image:../../assets/designers/stokelanetextiles/instagram/stokelanetextiles_1746358751_3625042402987516166_45050404092.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Stoke Lane Textiles is an Australian textile design studio based in Carcoar, NSW, designing and printing linen fabrics and eco wallpapers. Penny McIntyre operates the studio through a small family-owned, bespoke local print facility using reactive dyes steamed into the fabric for colour intensity and longevity. All products are sustainably produced on natural linens, free of toxic dyes or plastics. Custom scale adjustments and colour matching are available on all designs.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a range of classic and traditional textile print types suited to residential interiors. The studio's named design library spans checks, stripes, florals, paisleys, shibori stripes, geographic tiles, and conversational motifs — each offered in multiple colourways across warm, neutral, and saturated palettes. The aesthetic is domestic, enduring, and quality-material-led.
 
 ## Techniques and Tools
 
+Reactive dye printing on premium natural linens, including Libeco 445 (heavy upholstery), Libeco P533, and medium-weight slub linen for domestic textiles. Eco wallpaper printed in-house using non-toxic eco solvent inks, no PVC. Fabric is pre-shrunk and wash-fast. Custom scale adjustment and colour-match service offered. Fabric swatches and wallpaper samples available on request.
+
 ## Markets and Clients
+
+Home décor: upholstery, curtains, domestic textiles, and wallpaper. Suitable for residential and commercial interior applications. Custom meterage available via showroom contact. Print-to-order production model.
 
 ## Portfolio and Presence
 
+- Website: StokeLaneTextiles.com
+- Instagram: @stokelanetextiles (1,527 followers, 178 posts)
+- Studio/showroom: 1/7 Belubula Street, Carcoar NSW 2791
+
 ## Career Path
+
+Australian-based studio run by Penny McIntyre from Carcoar, a regional NSW town. The studio's emphasis on local printing and sustainable linen production positions it as a producer-designer hybrid, combining original pattern design with in-house textile manufacturing.
 
 ## Pattern Focus
 
+Classic textile prints for home furnishings: checks, paisleys, florals, stripes, geometric tiles, shibori, and conversational motifs. Extensive named-design library (MILLI, LUCINDA, JENNIFER, PIMLICO PAISLEY, FRENCH FLORAL, GEO TILE, and many others) with broad colourway options across each design. Focus on linen substrates for upholstery and domestic textile applications.
+
 ## Connections
+
+- [[Home Decor market]]
+- [[Linen textiles]]
+- [[Wallpaper market]]
+- [[Australian designers]]

@@ -22,7 +22,7 @@ bio: ''
 website: 'https://carolehillman.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/c.hillmanillustration
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Carole Hillman | Illustration
 website_meta_description: >-
   Carole Hillman est illustratrice et créatrice de motifs basée à Lyon. Après
@@ -216,7 +219,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -239,45 +242,265 @@ instagram_profile_pic_url: >-
   https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/459756097_895418755776897_7302564253214867394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFIEYoYE-p13BfgaVKd-ZslC2vTvbNN-4LjewBEzD3s0KwALDdinbw4CZs6IIo3qi8&_nc_ohc=wdIfg8_q2bMQ7kNvwGWGw9K&_nc_gid=rCw1gB0Ukiduu_MS2_GI6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZHrfREzUIQWehGnsrwQ_G8g-3-kWKJJFolQXCifBosg&oe=6A13F904&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/459756097_895418755776897_7302564253214867394_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFIEYoYE-p13BfgaVKd-ZslC2vTvbNN-4LjewBEzD3s0KwALDdinbw4CZs6IIo3qi8&_nc_ohc=wdIfg8_q2bMQ7kNvwGWGw9K&_nc_gid=rCw1gB0Ukiduu_MS2_GI6w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4ZHrfREzUIQWehGnsrwQ_G8g-3-kWKJJFolQXCifBosg&oe=6A13F904&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5566
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/c.hillmanillustration/profile/459756097_895418755776897_7302564253214867394_n.jpg
+instagram_profile_image_bytes: 173703
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/c.hillmanillustration/profile/459756097_895418755776897_7302564253214867394_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/c.hillmanillustration/profile/459756097_895418755776897_7302564253214867394_n.jpg
+profile_image_local: >-
+  ../../assets/designers/c.hillmanillustration/profile/459756097_895418755776897_7302564253214867394_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/c.hillmanillustration/profile/459756097_895418755776897_7302564253214867394_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1748066400_3638946902972142919_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1748066400_3638946902980448556_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749016800_3647339830887122236_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294284175778_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294284310317_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493915877_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493918173_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493934603_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294494095304_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569483867190_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569643242207_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569676917218_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569685186975_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1751436000_3667633789068866769_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079590406753_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598735441_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598771503_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623823266_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623895975_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238951_3674369096342312850_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754197200_3690511512719933949_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754197200_3690511512728292181_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910601905097_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910618823656_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137951554877_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137959769007_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1755418318_3701039558233294519_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1755418318_3701039558241579138_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760167232_3740876339810183137_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760245200_3741530552265401629_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1764748920_3779310327356470225_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1764748920_3779310327364889505_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1765707323_3787349990746934129_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386626792700_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386643532568_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386744233566_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770277609_3825686578996232776_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770277609_3825686581345055341_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770789600_3829573112711374043_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770789600_3829573112728167752_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1772176607_3841617594281631504_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1773996353_3856882096426196830_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1774887763_3864359889334457567_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778070244_3891057040462503968_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699626033116836_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699635159896194_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699647885442055_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699653128320882_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098520002828777_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098526202148082_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098533508412087_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1779123484_3899891343462253132_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1779123484_3899891347581244702_9402767058.jpg
+instagram_image_count: 53
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569643242207_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569685186975_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079590406753_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598735441_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623823266_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238951_3674369096342312850_5587920170.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910618823656_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137951554877_9402767058.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749016800_3647339830887122236_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294494095304_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1751436000_3667633789068866769_9402767058.jpg
+  - >-
+    ../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760167232_3740876339810183137_9402767058.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # c.hillmanillustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/c.hillmanillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/c.hillmanillustration/profile/459756097_895418755776897_7302564253214867394_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1748066400_3638946902972142919_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1748066400_3638946902972142919_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1748066400_3638946902980448556_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1748066400_3638946902980448556_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749016800_3647339830887122236_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749016800_3647339830887122236_9402767058.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294284175778_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294284175778_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294284310317_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294284310317_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493915877_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493915877_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493918173_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493918173_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493934603_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294493934603_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294494095304_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1749880800_3654167294494095304_9402767058.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569483867190_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569483867190_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569643242207_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569643242207_9402767058.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569676917218_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569676917218_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569685186975_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1750663060_3661149569685186975_9402767058.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1751436000_3667633789068866769_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1751436000_3667633789068866769_9402767058.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079590406753_5587920170.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079590406753_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598735441_5587920170.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598735441_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598771503_5587920170.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079598771503_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623823266_5587920170.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623823266_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623895975_5587920170.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238949_3674369079623895975_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238951_3674369096342312850_5587920170.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1752238951_3674369096342312850_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754197200_3690511512719933949_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754197200_3690511512719933949_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754197200_3690511512728292181_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754197200_3690511512728292181_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910601905097_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910601905097_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910618823656_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754370000_3691978910618823656_9402767058.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137951554877_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137951554877_9402767058.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137959769007_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1754715600_3694876137959769007_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1755418318_3701039558233294519_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1755418318_3701039558233294519_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1755418318_3701039558241579138_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1755418318_3701039558241579138_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760167232_3740876339810183137_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760167232_3740876339810183137_9402767058.jpg --> | [ ] | [x] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760245200_3741530552265401629_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1760245200_3741530552265401629_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1764748920_3779310327356470225_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1764748920_3779310327356470225_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1764748920_3779310327364889505_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1764748920_3779310327364889505_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1765707323_3787349990746934129_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1765707323_3787349990746934129_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386626792700_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386626792700_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386643532568_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386643532568_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386744233566_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1769925600_3822468386744233566_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770277609_3825686578996232776_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770277609_3825686578996232776_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770277609_3825686581345055341_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770277609_3825686581345055341_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770789600_3829573112711374043_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770789600_3829573112711374043_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770789600_3829573112728167752_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1770789600_3829573112728167752_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1772176607_3841617594281631504_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1772176607_3841617594281631504_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1773996353_3856882096426196830_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1773996353_3856882096426196830_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1774887763_3864359889334457567_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1774887763_3864359889334457567_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778070244_3891057040462503968_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778070244_3891057040462503968_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699626033116836_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699626033116836_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699635159896194_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699635159896194_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699647885442055_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699647885442055_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699653128320882_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778504489_3894699653128320882_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098520002828777_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098520002828777_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098526202148082_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098526202148082_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098533508412087_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1778671303_3896098533508412087_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1779123484_3899891343462253132_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1779123484_3899891343462253132_9402767058.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1779123484_3899891347581244702_9402767058.jpg)<br><!-- image:../../assets/designers/c.hillmanillustration/instagram/c.hillmanillustration_1779123484_3899891347581244702_9402767058.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Carole Hillman is a French illustrator and pattern designer based in Lyon. After studying fashion and spending fifteen years in England, she returned to Lyon with her family, where she draws inspiration from daily life, childhood, and her Polish folk roots. Her work spans illustration, greetings cards, pattern collections, and custom portrait commissions.
+
 ## Style and Aesthetic
+
+Hillman's visual language is warm, colourful, and folk-inflected, combining botanical and figurative motifs with mixed-pattern compositions. Her palette tends toward saturated, joyful tones. Selected Instagram images suggest an organic, decorative quality with all-over surface patterns suited to textile and stationery applications. A pronounced interest in texture, layering, and pattern-mixing runs throughout the work.
 
 ## Techniques and Tools
 
+Works in illustration and pattern design, with skills in colour theory and illustration fundamentals. The website indicates a mix of handmade origins and pattern development for textile, stationery, and printed surfaces. Custom folk-portrait commissions are offered as a distinct service alongside pattern work.
+
 ## Markets and Clients
+
+Home decor and stationery are her primary product categories. Commissions are open for personal portrait projects and brand collaborations. Her collections are designed for textile, stationery, and printed materials licensing. Selected placements suggest greetings cards and decorative household goods contexts.
 
 ## Portfolio and Presence
 
+- Website: carolehillman.com
+- Instagram: @c.hillmanillustration (4,857 followers, 1,762 posts)
+- Email: carole@carolehillman.com
+
 ## Career Path
+
+Trained in fashion design, Hillman spent fifteen years in England developing her creative practice before relocating to Lyon. Her Polish heritage and lived experience of motherhood became the central influences shaping her current creative direction. She works from Lyon, available for commissions and brand collaborations.
 
 ## Pattern Focus
 
+Selected patterns (8 images) suggest folk-style florals and decorative all-over compositions with illustrative character. Colour-mixing and textural layering are defining stylistic traits. Suited to textile printing, stationery, and home decor. The website describes her universe as "colorful, soft and joyful" — folk creations inspired by life, motherhood, and nature.
+
 ## Connections
+
+- [[Folk Art]]
+- [[Stationery]]
+- [[Home Decor]]
+- [[Botanical Pattern]]

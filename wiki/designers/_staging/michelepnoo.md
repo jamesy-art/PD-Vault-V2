@@ -22,12 +22,12 @@ skills:
 country: United Kingdom
 can_use: 'Yes'
 instagram_handle: michelepnoo
-instagram: 'https://instagram.com/@michelepnoo'
+instagram: 'https://instagram.com/michelepnoo'
 bio: ''
 website: 'https://michelepayne.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/michelepnoo
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: michele payne
 website_meta_description: ''
 website_about_raw: >-
@@ -251,7 +254,7 @@ categories:
   - Womenswear
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -274,45 +277,194 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/123496809_1808231589332987_974834018180957705_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTUuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFwdsJkH6ANICSe7meuboWot9azXr2_13uVy_RXlh3oiQ8hYnQi1VF1O4wYQoTP3Pk&_nc_ohc=woxLDFzIIM0Q7kNvwEPSxtI&_nc_gid=1inQWGZ_7pstBOD25N0oiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4hlMEweULYp9sFdTFV7CaqHR5h5RYVQB-ow1u4Ps831Q&oe=6A13F5CF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/123496809_1808231589332987_974834018180957705_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTUuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFwdsJkH6ANICSe7meuboWot9azXr2_13uVy_RXlh3oiQ8hYnQi1VF1O4wYQoTP3Pk&_nc_ohc=woxLDFzIIM0Q7kNvwEPSxtI&_nc_gid=1inQWGZ_7pstBOD25N0oiQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4hlMEweULYp9sFdTFV7CaqHR5h5RYVQB-ow1u4Ps831Q&oe=6A13F5CF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3930
+instagram_profile_image_local: >-
+  ../../assets/designers/michelepnoo/profile/123496809_1808231589332987_974834018180957705_n.jpg
+instagram_profile_image_bytes: 23071
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/michelepnoo/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/michelepnoo/profile/123496809_1808231589332987_974834018180957705_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/michelepnoo/profile/123496809_1808231589332987_974834018180957705_n.jpg
+profile_image_local: >-
+  ../../assets/designers/michelepnoo/profile/123496809_1808231589332987_974834018180957705_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/michelepnoo/profile/123496809_1808231589332987_974834018180957705_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1639071594_2725052500694137754_1411110999.jpg
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525913984387731_1411110999.jpg
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525914177383455_1411110999.jpg
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403656811117305_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403657012522368_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403657029299493_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1643660817_2763549693700571172_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1644527354_2770818736308552337_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482187639822_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482422542709_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482422689944_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1657535350_2879937710526082858_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616049584410_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616233979685_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616234005303_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1680868595_3075671156576591178_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1730015756_3487947423629184854_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972471470862_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972479684907_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1739543161_3567869094791775709_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1741431881_3583712826023989280_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581836234_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581844113_1411110999.webp
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403656811117305_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1643660817_2763549693700571172_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1644527354_2770818736308552337_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482187639822_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1657535350_2879937710526082858_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616234005303_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972471470862_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1741431881_3583712826023989280_1411110999.webp
+selected_placements:
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525914177383455_1411110999.jpg
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1680868595_3075671156576591178_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1739543161_3567869094791775709_1411110999.webp
+  - >-
+    ../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581844113_1411110999.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # michelepnoo
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/michelepnoo/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/michelepnoo/profile/123496809_1808231589332987_974834018180957705_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1639071594_2725052500694137754_1411110999.jpg)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1639071594_2725052500694137754_1411110999.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525913984387731_1411110999.jpg)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525913984387731_1411110999.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525914177383455_1411110999.jpg)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1639128029_2725525914177383455_1411110999.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403656811117305_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403656811117305_1411110999.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403657012522368_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403657012522368_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403657029299493_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1642093687_2750403657029299493_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1643660817_2763549693700571172_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1643660817_2763549693700571172_1411110999.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1644527354_2770818736308552337_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1644527354_2770818736308552337_1411110999.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482187639822_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482187639822_1411110999.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482422542709_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482422542709_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482422689944_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1654705294_2856197482422689944_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1657535350_2879937710526082858_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1657535350_2879937710526082858_1411110999.webp --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616049584410_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616049584410_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616233979685_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616233979685_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616234005303_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1662402296_2920764616234005303_1411110999.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1680868595_3075671156576591178_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1680868595_3075671156576591178_1411110999.webp --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1730015756_3487947423629184854_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1730015756_3487947423629184854_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972471470862_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972471470862_1411110999.webp --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972479684907_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1738935775_3562773972479684907_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1739543161_3567869094791775709_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1739543161_3567869094791775709_1411110999.webp --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1741431881_3583712826023989280_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1741431881_3583712826023989280_1411110999.webp --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581836234_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581836234_1411110999.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581844113_1411110999.webp)<br><!-- image:../../assets/designers/michelepnoo/instagram/michelepnoo_1761744585_3754108133581844113_1411110999.webp --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Michele Payne (she/her) is a freelance surface designer and illustrator based in Worthing, South Coast UK, with nearly 30 years of experience in the textile design industry. She specialises in patterns and placement designs for the baby and children's market, graduating from Brighton University with a Fashion/Textiles degree in 1994. Alongside design work, she maintains a parallel fine art practice at michelepayneart.com (@michelepaints).
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a warm, character-driven children's print aesthetic — cute characters, nature-inspired patterns, and playful placement designs for babies and young children. The work spans both all-over pattern repeats and individually composed placement prints, consistent with her stated specialism in both formats.
 
 ## Techniques and Tools
 
+Illustration, painting, colour theory, trend awareness, market adaptation, and technical production skills. She also provides concept boards tailored to client brands, garment and product mock-ups, and detailed technical specifications for production — a full-service offering for the children's market.
+
 ## Markets and Clients
+
+Named clients:
+- **Lilly + Sid** — longest collaboration, since 2010; includes an exclusive collection for the Natural History Museum
+- **Vital Baby** — sippy cups and baby feeding ranges
+- **SmileyWorld**
+- **Turtledove London**
+- **Pigeon Organics**
+- **Lakeland**
+- **Hibou Home**
+- **Mothercare**
+- **Lucy + Yak**
+- **Tesco**
+- **Mamas + Papas**
+- **John Lewis**
+- **Menudos Cuadros**
+
+Market focus: baby and children's across clothing/fashion, homeware, and gifting.
 
 ## Portfolio and Presence
 
+- Website: michelepayne.com
+- Instagram: @michelepnoo (3,366 followers)
+- Fine art: michelepayneart.com / @michelepaints
+
 ## Career Path
+
+Graduated Fashion/Textiles from Brighton University, 1994. Nearly 30 years of freelance practice in the children's textile design sector. The Lilly + Sid collaboration has been ongoing since 2010. Based in Worthing, South Coast UK.
 
 ## Pattern Focus
 
+Selected Instagram pattern images suggest cute character-led designs, nature-inspired repeats, and placement illustration suited to baby and children's product ranges. Selected placement images show work applied to childrenswear and nursery product contexts. Eight pattern images and four placement images selected.
+
 ## Connections
+
+- [[Lilly + Sid]] — longest documented client relationship (since 2010); Natural History Museum exclusive collection
+- [[Vital Baby]] — named client
+- [[Mothercare]] — named client
+- [[John Lewis]] — named client
+- [[Mamas + Papas]] — named client
+- [[Kidswear]] — primary market specialism
+- [[Baby Market]] — core market
+- [[Placement Design]] — documented format alongside repeat patterns

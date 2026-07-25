@@ -22,7 +22,7 @@ bio: ''
 website: 'https://jenniferlemondesigns.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jenniferlemondesigns
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Hand Painted Art Jewellery Textiles| Jennifer Lemon Designs | Scotland
 website_meta_description: >-
   Jennifer Lemon Designs. Art | Jewellery | Textiles handmade in Glasgow.
@@ -58,7 +61,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -75,45 +78,143 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/130845528_2471558829806895_8318840970705929932_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE6nmTxsNdADCoZpfmXD2iq70T5cjVwQe9kepU1g-bEsN4YKRDTRkmqvYYK03dbHXg&_nc_ohc=4WRfs3T3RXAQ7kNvwHuKnQz&_nc_gid=K0yxoiEHIQQp4Q7sR_PfKQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6t2ixvRSQ_lMBv_O-hdbYLzmVNiCpFqnihuOlv7i8tZw&oe=6A140491&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/130845528_2471558829806895_8318840970705929932_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE6nmTxsNdADCoZpfmXD2iq70T5cjVwQe9kepU1g-bEsN4YKRDTRkmqvYYK03dbHXg&_nc_ohc=4WRfs3T3RXAQ7kNvwHuKnQz&_nc_gid=K0yxoiEHIQQp4Q7sR_PfKQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6t2ixvRSQ_lMBv_O-hdbYLzmVNiCpFqnihuOlv7i8tZw&oe=6A140491&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jenniferlemondesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4940
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jenniferlemondesigns/profile/130845528_2471558829806895_8318840970705929932_n.jpg
+instagram_profile_image_bytes: 192119
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jenniferlemondesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jenniferlemondesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jenniferlemondesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jenniferlemondesigns/profile/130845528_2471558829806895_8318840970705929932_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jenniferlemondesigns/profile/130845528_2471558829806895_8318840970705929932_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jenniferlemondesigns/profile/130845528_2471558829806895_8318840970705929932_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jenniferlemondesigns/profile/130845528_2471558829806895_8318840970705929932_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1610221138_2483037332204539964_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1616531519_2535972645139747413_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542978105464_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542994809746_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911526417532_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911543109982_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1625040463_2607350847753831419_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1628928044_2639962238800782406_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1641840672_2748281209727023614_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1645635146_2780111564234725259_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042250417068_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042275492591_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042300853973_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042351109856_24457.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542978105464_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911526417532_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1625040463_2607350847753831419_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1641840672_2748281209727023614_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1645635146_2780111564234725259_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042250417068_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042300853973_24457.jpg
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042351109856_24457.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1616531519_2535972645139747413_24457.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # jenniferlemondesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jenniferlemondesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jenniferlemondesigns/profile/130845528_2471558829806895_8318840970705929932_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1610221138_2483037332204539964_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1610221138_2483037332204539964_24457.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1616531519_2535972645139747413_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1616531519_2535972645139747413_24457.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542978105464_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542978105464_24457.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542994809746_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1618766919_2554724542994809746_24457.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911526417532_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911526417532_24457.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911543109982_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1620978891_2573279911543109982_24457.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1625040463_2607350847753831419_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1625040463_2607350847753831419_24457.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1628928044_2639962238800782406_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1628928044_2639962238800782406_24457.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1641840672_2748281209727023614_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1641840672_2748281209727023614_24457.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1645635146_2780111564234725259_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1645635146_2780111564234725259_24457.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042250417068_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042250417068_24457.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042275492591_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042275492591_24457.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042300853973_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042300853973_24457.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042351109856_24457.jpg)<br><!-- image:../../assets/designers/jenniferlemondesigns/instagram/jenniferlemondesigns_1698950127_3227350042351109856_24457.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jennifer Lemon (Jenni) is a Glasgow-based designer and maker working in art, jewellery, and textiles under the Jennifer Lemon Designs label. Originally from Bangor, Northern Ireland and based in Glasgow since 2009, her practice centres on a monochrome geometric aesthetic — producing hand-painted wooden jewellery, hand-printed art prints, and digitally designed textiles including scarves, tote bags, and lampshades, all made in her home studio.
+
 ## Style and Aesthetic
+
+Jennifer's visual signature is a confident monochrome graphic vocabulary of geometric shapes and repeat patterns. Named collections include Dashes, Graffiti, Cubist, Hexagon, and 3 Shapes. Selected Instagram images confirm bold black-and-white pattern work with strong geometric repeat structures. References lean architectural and abstract, with a clean commercially legible aesthetic applied consistently across product formats.
 
 ## Techniques and Tools
 
+Work begins in the sketchbook, developing pen and pencil markings translated onto 3D objects and flat surfaces. Techniques include hand-painting, block printing, and digital textile design. Jewellery is made from wood and hand-painted with a brush. Textiles are digitally designed and produced as scarves, tote bags, and lampshades.
+
 ## Markets and Clients
+
+Gifts, accessories, and homewares. Sold direct-to-consumer via website and at craft markets (Tea Green Events). Exhibited venues include Kelvingrove Art Gallery, the Burrell Collection, National Galleries Scotland, and V&A Dundee. Stockists include House of Jenny (St Monans) and Indiezeb. Free UK shipping; worldwide shipping available.
 
 ## Portfolio and Presence
 
+- Website: https://jenniferlemondesigns.com
+- Instagram: @jenniferlemondesigns (3,080 followers)
+- Stockists: @houseofjennystmonans, @indiezeb
+
 ## Career Path
+
+Jennifer Lemon has built her Glasgow label from a home studio since 2009, with a background in textiles design. She has participated in Tea Green Events craft markets for several years across major Scottish museum venues, building direct sales and stockist relationships.
 
 ## Pattern Focus
 
+Monochrome geometric repeat patterns applied across jewellery, print, and textile formats. Named collections confirm a strong repeat-based graphic language with architectural and abstract geometric influences. The work is consistent in palette (black and white) and structurally confident.
+
 ## Connections
+
+- [[Geometric Pattern]]
+- [[Monochrome]]
+- [[Home Decor]]
+- [[Glasgow]]
+- [[Jewellery]]

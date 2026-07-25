@@ -20,7 +20,7 @@ bio: ''
 website: 'https://naomiboyne.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/naomiboyneillustration
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: HOME | Naomi Boyne Illustration
 website_meta_description: ''
 website_about_raw: >-
@@ -185,7 +188,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -206,45 +209,154 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/550196397_18540199798047347_5684748622261994387_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHqYE-pvGCjhxa6ul450bbRv1ZRimanN4bKcbSCBIiomVrHHAE0Mj3gPGHfo89_R00&_nc_ohc=YJsSFAYnhlEQ7kNvwHc-59b&_nc_gid=oI-xFtrydxgzKDBjcVtTUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5dHsOflPzrr710-9X761d-i6w3qBlLLNXp2bTuiKwX8Q&oe=6A1400D6&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/550196397_18540199798047347_5684748622261994387_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHqYE-pvGCjhxa6ul450bbRv1ZRimanN4bKcbSCBIiomVrHHAE0Mj3gPGHfo89_R00&_nc_ohc=YJsSFAYnhlEQ7kNvwHc-59b&_nc_gid=oI-xFtrydxgzKDBjcVtTUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5dHsOflPzrr710-9X761d-i6w3qBlLLNXp2bTuiKwX8Q&oe=6A1400D6&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/naomiboyneillustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6944
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/naomiboyneillustration/profile/550196397_18540199798047347_5684748622261994387_n.jpg
+instagram_profile_image_bytes: 185158
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/naomiboyneillustration/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/naomiboyneillustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/naomiboyneillustration/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/naomiboyneillustration/profile/550196397_18540199798047347_5684748622261994387_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/naomiboyneillustration/profile/550196397_18540199798047347_5684748622261994387_n.jpg
+profile_image_local: >-
+  ../../assets/designers/naomiboyneillustration/profile/550196397_18540199798047347_5684748622261994387_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/naomiboyneillustration/profile/550196397_18540199798047347_5684748622261994387_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1632365351_2668796461285589657_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635525141_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635582308_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020761291879_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028533460051_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028550381551_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972142985281801_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972143052528194_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403101234_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403159269_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543136965213_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543153854525_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894570965955_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894579449102_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1755489673_3701638127174981412_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1773625765_3853773610616592800_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972701934633924_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972702077240607_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972702093978267_1689199346.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1632365351_2668796461285589657_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635582308_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028550381551_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972143052528194_1689199346.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403159269_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543153854525_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894579449102_1689199346.jpg
+  - >-
+    ../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1755489673_3701638127174981412_1689199346.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # naomiboyneillustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/naomiboyneillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/naomiboyneillustration/profile/550196397_18540199798047347_5684748622261994387_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1632365351_2668796461285589657_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1632365351_2668796461285589657_1689199346.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635525141_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635525141_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635582308_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020635582308_1689199346.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020761291879_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1653037620_2842208020761291879_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028533460051_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028533460051_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028550381551_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1669187738_2977685028550381551_1689199346.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972142985281801_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972142985281801_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972143052528194_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1703673449_3266972143052528194_1689199346.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403101234_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403101234_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403159269_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1709216251_3313468536403159269_1689199346.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543136965213_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543136965213_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543153854525_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1744806186_3612018543153854525_1689199346.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894570965955_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894570965955_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894579449102_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1749092398_3647973894579449102_1689199346.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1755489673_3701638127174981412_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1755489673_3701638127174981412_1689199346.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1773625765_3853773610616592800_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1773625765_3853773610616592800_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972701934633924_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972701934633924_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972702077240607_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972702077240607_1689199346.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972702093978267_1689199346.jpg)<br><!-- image:../../assets/designers/naomiboyneillustration/instagram/naomiboyneillustration_1776987229_3881972702093978267_1689199346.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Naomi Boyne is a Perth-based illustrator working across editorial, surface pattern, and commercial illustration. She graduated from Billy Blue College of Design in 2018 with a Diploma of Graphic Design specialising in editorial illustration. She works on staff as an illustrator at Seven West Media (The West Australian, The Nightly, Sunday Times) and maintains a freelance practice alongside. She is part of the original team on The Best Australian Yarn competition — the world's richest short story prize — since 2022.
+
 ## Style and Aesthetic
+
+European folk art references combined with a modern flat illustration style. Simplified forms with visible pencil texture — physical pencils and digital pencil brushes give her work a tactile, hand-made quality that distinguishes it from clean vector illustration. Selected Instagram images suggest stylised character-driven and decorative folk-inflected motifs suited to stationery, editorial, and surface design applications.
 
 ## Techniques and Tools
 
+Pencil and digital pencil brushes are her signature tools, emphasising handcrafted texture over clean digital line. Trained in graphic design with an editorial illustration specialism at Billy Blue College of Design, 2018.
+
 ## Markets and Clients
+
+Staff illustrator at Seven West Media (The West Australian, The Nightly, Sunday Times). Part of the original illustrator team on The Best Australian Yarn competition since its inception in 2022. Freelance clients internationally. Selected placement images suggest product application contexts — greeting cards and wall poster prints are documented products sold via her website. Practice spans editorial, greeting card, print, and surface design markets.
 
 ## Portfolio and Presence
 
+- Website: https://naomiboyne.com
+- Instagram: https://instagram.com/naomiboyneillustration (verified)
+
 ## Career Path
+
+Graduated Billy Blue College of Design, 2018 (Diploma of Graphic Design, editorial illustration focus). Joined Seven West Media as a staff illustrator. From 2022, part of the original illustrator team on The Best Australian Yarn. Runs a product line of greeting cards and prints (sold via website). Builds freelance surface design and illustration work alongside her staff role.
 
 ## Pattern Focus
 
+Selected images suggest folk-inspired illustrated compositions — character and motif-based designs with a textured, pencil-drawn quality. Pattern work leans toward character illustration and decorative motif arrangements rather than strict geometric or structured repeat construction. Placement images suggest printed stationery and wall art application contexts.
+
 ## Connections
+
+- [[Seven West Media]] — staff employer (The West Australian, The Nightly, Sunday Times)
+- [[The Best Australian Yarn]] — editorial illustration, original team member since 2022
+- [[Billy Blue College of Design]] — education
+- [[Stationery Market]] — greeting card and print products

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://storigraphic.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/storigraphic
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Storigraphic, Sustainable Stationery, Gift Wrap, Homeware, Accessories'
 website_meta_description: >-
   Independent design studio, sustainable brand + store based in Cambridgeshire,
@@ -105,7 +108,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -128,45 +131,130 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/369419328_1271502590204577_2556004105739006788_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGNX3UCJ0FvPaDcGOu_WtM7-b2t1bsAZNeprMERhjNW_c5GwOISylDe0CNS4iphQ6k&_nc_ohc=8mUX5bpho14Q7kNvwG0exzg&_nc_gid=Ef7fuoPf7MsAN_jR5xSYFQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af67yNjB6woaWL_tkDg964wpfTFSdioWSf2IxhO6xlXsTw&oe=6A13E2DD&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/369419328_1271502590204577_2556004105739006788_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGNX3UCJ0FvPaDcGOu_WtM7-b2t1bsAZNeprMERhjNW_c5GwOISylDe0CNS4iphQ6k&_nc_ohc=8mUX5bpho14Q7kNvwG0exzg&_nc_gid=Ef7fuoPf7MsAN_jR5xSYFQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af67yNjB6woaWL_tkDg964wpfTFSdioWSf2IxhO6xlXsTw&oe=6A13E2DD&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/storigraphic/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2931
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/storigraphic/profile/369419328_1271502590204577_2556004105739006788_n.jpg
+instagram_profile_image_bytes: 36095
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/storigraphic/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/storigraphic/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/storigraphic/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/storigraphic/profile/369419328_1271502590204577_2556004105739006788_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/storigraphic/profile/369419328_1271502590204577_2556004105739006788_n.jpg
+profile_image_local: >-
+  ../../assets/designers/storigraphic/profile/369419328_1271502590204577_2556004105739006788_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/storigraphic/profile/369419328_1271502590204577_2556004105739006788_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_18_501378619_1346443286656264_7113792445845111558_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_21_652724076_18076172390135382_4632452711395737383_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_24_656861430_18079499282382173_5012680039179674104_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_30_498688297_679349125022076_6975180051999177719_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_42_656180508_18086808133987999_8710184382685711165_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_48_502404519_1753524468876885_7866893428349585744_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_53_654262905_18074121182186144_6190353139412239136_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_56_656910232_18132035305544363_2352828386919790925_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_62_620949145_18083275379181089_7749247110274569827_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_8_503497799_604708185373041_4295203061335142268_n.jpeg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_18_501378619_1346443286656264_7113792445845111558_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_24_656861430_18079499282382173_5012680039179674104_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_48_502404519_1753524468876885_7866893428349585744_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_56_656910232_18132035305544363_2352828386919790925_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_62_620949145_18083275379181089_7749247110274569827_n.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_30_498688297_679349125022076_6975180051999177719_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_53_654262905_18074121182186144_6190353139412239136_n.jpeg
+  - >-
+    ../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_8_503497799_604708185373041_4295203061335142268_n.jpeg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # storigraphic
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/storigraphic/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/storigraphic/profile/369419328_1271502590204577_2556004105739006788_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_18_501378619_1346443286656264_7113792445845111558_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_18_501378619_1346443286656264_7113792445845111558_n.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_21_652724076_18076172390135382_4632452711395737383_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_21_652724076_18076172390135382_4632452711395737383_n.jpeg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_24_656861430_18079499282382173_5012680039179674104_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_24_656861430_18079499282382173_5012680039179674104_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_30_498688297_679349125022076_6975180051999177719_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_30_498688297_679349125022076_6975180051999177719_n.jpeg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_42_656180508_18086808133987999_8710184382685711165_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_42_656180508_18086808133987999_8710184382685711165_n.jpeg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_48_502404519_1753524468876885_7866893428349585744_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_48_502404519_1753524468876885_7866893428349585744_n.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_53_654262905_18074121182186144_6190353139412239136_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_53_654262905_18074121182186144_6190353139412239136_n.jpeg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_56_656910232_18132035305544363_2352828386919790925_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_56_656910232_18132035305544363_2352828386919790925_n.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_62_620949145_18083275379181089_7749247110274569827_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_62_620949145_18083275379181089_7749247110274569827_n.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_8_503497799_604708185373041_4295203061335142268_n.jpeg)<br><!-- image:../../assets/designers/storigraphic/instagram/storigraphic_imageye___-_imgi_8_503497799_604708185373041_4295203061335142268_n.jpeg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Storigraphic is an independent, award-winning design studio, sustainable brand, and product store based in Cambridgeshire, UK. Co-founder and Creative Director Roz Nazerian leads the studio, which produces paperware, homeware, and accessories across the Storigraphic and Storihome ranges. All products are sustainably manufactured in the UK in small batches. The studio donates 5% of sales profit to Crisis UK and plants a native tree with every order. Verified on Instagram; 8,038 followers.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a graphic, modernist sensibility — bold geometric structures, mid-century-influenced compositions, and restrained colour palettes. The Geo Series, Imprint Series, and Re-Editions Collection demonstrate a systematic, edition-based approach to pattern design with strong visual coherence across product categories. The aesthetic is clean, collectible, and commercially refined.
 
 ## Techniques and Tools
 
+All collections designed and developed in-house. Products manufactured in small batches in the UK to avoid overproduction. A sister design studio handles identity, branding, campaigns, motion, and web UI/UX work — expanding the commercial reach of the Storigraphic creative platform.
+
 ## Markets and Clients
+
+Stationery, gifting, home décor (paperware, wallpaper, homeware). Bespoke design services available across customisation, commercial commissions, licensing, retail advisory, and product development. Serves brands, retailers, publishers, interior designers, architects, hoteliers, and commercial companies. Documented collaboration with Hornsea® (British design heritage brand). Products shown at Midcentury Modern® design events.
 
 ## Portfolio and Presence
 
+- Website: storigraphic.com
+- Instagram: @storigraphic (8,038 followers; Instagram-verified)
+- Press: the Observer, House Beautiful, Good Housekeeping, Metro
+- Showroom: Cambridgeshire studio
+
 ## Career Path
+
+Established design studio with a seasoned team, a Cambridgeshire studio and showroom, and an active press profile. Positioned in the Midcentury Modern® design exhibition circuit. The Storigraphic x Hornsea® 'Originals/Moderns' collection is a significant documented collaboration.
 
 ## Pattern Focus
 
+Geometric and modernist surface patterns applied to paperware, stationery, homeware, and wallpaper. Named design series (Geo Series, Imprint Series, Re-Editions Collection) indicate a disciplined, edition-based design approach. Selected Instagram patterns confirm structured geometric repeats with strong graphic character across product applications.
+
 ## Connections
+
+- [[Stationery market]]
+- [[Home Decor market]]
+- [[Gifting market]]
+- [[Licensing]]
+- [[Wallpaper market]]

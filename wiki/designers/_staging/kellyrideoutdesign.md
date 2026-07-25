@@ -24,12 +24,12 @@ skills:
 country: United Kingdom
 can_use: 'Yes'
 instagram_handle: kellyrideoutdesign
-instagram: 'https://instagram.com/@kellyrideoutdesign'
+instagram: 'https://instagram.com/kellyrideoutdesign'
 bio: ''
 website: 'https://kellyrideout.co.uk'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/kellyrideoutdesign
 profile_url: ''
 instagram_images:
@@ -46,9 +46,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Kelly Rideout | Floral Botanical Surface Pattern Designer
 website_meta_description: >-
   Kelly Rideout I am a Floral Botanical Surface Pattern Designer and Illustrator
@@ -315,7 +318,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -332,45 +335,239 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/648147533_18569405935027709_9051935374365616496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEOwbQW0ZUSgyG7u8Mplw1ra-uod9jMMK_NHGfCbdUXauUHiPjw2IuLj_CiutPEviY&_nc_ohc=u330bLKuOkwQ7kNvwE9kdxP&_nc_gid=kvy7BOSwNMk-XNnZtC_pbg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7oatEeiwWHL1PsAF-3mVYjgjqrwpBIokd0Oig5jzxSzg&oe=6A13F1AE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/648147533_18569405935027709_9051935374365616496_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEOwbQW0ZUSgyG7u8Mplw1ra-uod9jMMK_NHGfCbdUXauUHiPjw2IuLj_CiutPEviY&_nc_ohc=u330bLKuOkwQ7kNvwE9kdxP&_nc_gid=kvy7BOSwNMk-XNnZtC_pbg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7oatEeiwWHL1PsAF-3mVYjgjqrwpBIokd0Oig5jzxSzg&oe=6A13F1AE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7373
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/kellyrideoutdesign/profile/648147533_18569405935027709_9051935374365616496_n.jpg
+instagram_profile_image_bytes: 215281
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/kellyrideoutdesign/profile/648147533_18569405935027709_9051935374365616496_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/kellyrideoutdesign/profile/648147533_18569405935027709_9051935374365616496_n.jpg
+profile_image_local: >-
+  ../../assets/designers/kellyrideoutdesign/profile/648147533_18569405935027709_9051935374365616496_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/kellyrideoutdesign/profile/648147533_18569405935027709_9051935374365616496_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948538695_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948571637_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981760256226_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981785204987_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1745389500_3616896650574163572_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1746600240_3627053070164519565_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052731556_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052820674_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061157009_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061213229_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635212116801_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220478665_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220665391_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245651763_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245833686_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635312844510_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092688366772_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092705121234_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879913853811_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879913857698_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879922224287_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653776215525_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784611204_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784620383_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784632559_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147654103379487_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730378835752202_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730378844158582_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379473257054_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379699785133_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807204219411395_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807204957600529_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807206492728710_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807209470650865_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807210217235034_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1777311239_3884686545336672922_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746075676291064_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746076901058705_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746078310301776_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746079979674819_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746080491358368_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746080927610066_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746081539958667_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778573100_3894842593565475265_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778573100_3894842593691365180_1497051708.jpg
+instagram_image_count: 45
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948571637_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981785204987_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1745389500_3616896650574163572_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052820674_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220665391_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245833686_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784620383_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379473257054_1497051708.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1746600240_3627053070164519565_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061213229_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635212116801_1497051708.jpg
+  - >-
+    ../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092688366772_1497051708.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # kellyrideoutdesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kellyrideoutdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/kellyrideoutdesign/profile/648147533_18569405935027709_9051935374365616496_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948538695_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948538695_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948571637_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1732983496_3512842636948571637_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981760256226_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981760256226_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981785204987_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1735894390_3537260981785204987_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1745389500_3616896650574163572_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1745389500_3616896650574163572_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1746600240_3627053070164519565_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1746600240_3627053070164519565_1497051708.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052731556_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052731556_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052820674_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635052820674_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061157009_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061157009_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061213229_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635061213229_1497051708.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635212116801_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635212116801_1497051708.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220478665_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220478665_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220665391_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635220665391_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245651763_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245651763_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245833686_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635245833686_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635312844510_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1753886130_3688186635312844510_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092688366772_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092688366772_1497051708.jpg --> | [ ] | [x] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092705121234_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1754392824_3692437092705121234_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879913853811_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879913853811_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879913857698_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879913857698_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879922224287_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1762153204_3757535879922224287_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653776215525_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653776215525_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784611204_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784611204_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784620383_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784620383_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784632559_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147653784632559_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147654103379487_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764491110_3777147654103379487_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730378835752202_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730378835752202_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730378844158582_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730378844158582_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379473257054_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379473257054_1497051708.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379699785133_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1764918204_3780730379699785133_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807204219411395_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807204219411395_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807204957600529_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807204957600529_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807206492728710_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807206492728710_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807209470650865_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807209470650865_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807210217235034_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1772199976_3841807210217235034_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1777311239_3884686545336672922_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1777311239_3884686545336672922_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746075676291064_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746075676291064_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746076901058705_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746076901058705_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746078310301776_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746078310301776_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746079979674819_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746079979674819_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746080491358368_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746080491358368_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746080927610066_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746080927610066_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746081539958667_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778510715_3894746081539958667_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778573100_3894842593565475265_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778573100_3894842593565475265_1497051708.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778573100_3894842593691365180_1497051708.jpg)<br><!-- image:../../assets/designers/kellyrideoutdesign/instagram/kellyrideoutdesign_1778573100_3894842593691365180_1497051708.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kelly Rideout is a botanical surface pattern designer and illustrator based on the UK South Coast. She creates hand-drawn, production-ready floral collections for art licensing, targeting fabric, wallpaper, kitchenware, home decor, and garden products. She actively seeks licensing partnerships and agent representation, and sells direct-to-consumer through her product line The Curious Peony.
+
 ## Style and Aesthetic
+
+Kelly's signature is floral maximalism with a heartfelt, artisan quality—seasonal British botanicals rendered with textured, imperfect hand-drawn detail. Selected Instagram patterns confirm rich layered compositions: peony-heavy full-colour arrangements and allover botanical repeats. Her palette draws from direct nature observation, from coral sunset peonies to autumn leaf tones.
 
 ## Techniques and Tools
 
+Hand-drawn and painted; designs are digitised into production-ready seamless repeats at 300dpi. Kelly delivers both allover repeat patterns and placement designs. Her website references a full Pattern Library available for licensing review by art directors and product developers.
+
 ## Markets and Clients
+
+Target markets: fabric, wallpaper, kitchenware, home decor, and garden products. Selected placement images suggest product applications including tote bags and ceramic mugs. She currently seeks art licensing deals and agent partnerships. Her direct product line (The Curious Peony) includes tote bags, mugs, and tea towels sold to UK customers.
 
 ## Portfolio and Presence
 
+- Website: https://kellyrideout.co.uk
+- Instagram: @kellyrideoutdesign
+
 ## Career Path
+
+UK South Coast–based designer inspired by the slow-living, seasonal rhythms of coastal and garden environments. Draws directly from nature observation—seasonal plant life, garden florals, shifting weather and colour. Has developed both a licensable Pattern Library and a direct consumer product line alongside her licensing practice.
 
 ## Pattern Focus
 
+Floral botanical repeats with a maximalist, seasonal British character. Peony-led compositions appear frequently in selected patterns. Work spans dense all-over florals and coordinating textural designs suited to fabric and wallpaper. Placement designs suggest kitchenware and home textile applications.
+
 ## Connections
+
+- [[Botanical Pattern]] — core specialisation
+- [[Flower Pattern]] — primary motif
+- [[Art Licensing]] — primary business model

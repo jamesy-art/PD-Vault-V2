@@ -26,7 +26,7 @@ bio: ''
 website: 'https://brookepalmerdesign.wixsite.com/palmer'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/brookepalmerdesigns
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Brooke Palmer Designs | pattern
 website_meta_description: Brooke Palmer Designs primarily focuses on toddler apparel and patterns
 website_about_raw: >-
@@ -160,7 +163,7 @@ categories:
   - Womenswear
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -181,45 +184,198 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/483048746_1158665612277027_3275110274695595616_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHXGsrOoFWbEXsDK0-6pK5ChEn_A_Enkww4ZTpZ-Syjv4Ui5udPaE87HE835gkTHzA&_nc_ohc=4mtrIegGdhcQ7kNvwEJScnS&_nc_gid=yxlH4BPhk0Z6rtv46XczLA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5CE9WK0GqKAsI8rxx2loLd83D8NOsjUvLvJ7hz15KltQ&oe=6A13E35F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/483048746_1158665612277027_3275110274695595616_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHXGsrOoFWbEXsDK0-6pK5ChEn_A_Enkww4ZTpZ-Syjv4Ui5udPaE87HE835gkTHzA&_nc_ohc=4mtrIegGdhcQ7kNvwEJScnS&_nc_gid=yxlH4BPhk0Z6rtv46XczLA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5CE9WK0GqKAsI8rxx2loLd83D8NOsjUvLvJ7hz15KltQ&oe=6A13E35F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/brookepalmerdesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2552
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/brookepalmerdesigns/profile/483048746_1158665612277027_3275110274695595616_n.jpg
+instagram_profile_image_bytes: 53755
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/brookepalmerdesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/brookepalmerdesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/brookepalmerdesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/brookepalmerdesigns/profile/483048746_1158665612277027_3275110274695595616_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/brookepalmerdesigns/profile/483048746_1158665612277027_3275110274695595616_n.jpg
+profile_image_local: >-
+  ../../assets/designers/brookepalmerdesigns/profile/483048746_1158665612277027_3275110274695595616_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/brookepalmerdesigns/profile/483048746_1158665612277027_3275110274695595616_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197156394_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197184266_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197318708_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197330950_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575804784226_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871854511_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871900937_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871984870_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575913770634_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243727032_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243769398_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243789130_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975369670323_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1720588061_3408862191224932938_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727734943_3468814580598945492_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727742368_3468876864553273082_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1730237207_3489805089311596478_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299138785165_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299138789741_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299188945673_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934745376736_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934770672277_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1741637583_3585438376578762769_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1749776641_3653713741377557009_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1771024271_3831951785280568414_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437276791713447_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437280029708842_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437282797946686_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437285650080043_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645351898197962_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645351898218663_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645353609513005_66374518919.jpg
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871984870_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727734943_3468814580598945492_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727742368_3468876864553273082_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1730237207_3489805089311596478_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299188945673_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934745376736_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1741637583_3585438376578762769_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1749776641_3653713741377557009_66374518919.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1771024271_3831951785280568414_66374518919.jpg
+  - >-
+    ../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437276791713447_66374518919.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # brookepalmerdesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/brookepalmerdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/brookepalmerdesigns/profile/483048746_1158665612277027_3275110274695595616_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197156394_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197156394_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197184266_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197184266_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197318708_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197318708_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197330950_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718492803_3391285895197330950_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575804784226_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575804784226_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871854511_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871854511_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871900937_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871900937_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871984870_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575871984870_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575913770634_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1718500156_3391347575913770634_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243727032_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243727032_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243769398_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243769398_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243789130_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975243789130_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975369670323_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1719516821_3399875975369670323_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1720588061_3408862191224932938_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1720588061_3408862191224932938_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727734943_3468814580598945492_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727734943_3468814580598945492_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727742368_3468876864553273082_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1727742368_3468876864553273082_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1730237207_3489805089311596478_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1730237207_3489805089311596478_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299138785165_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299138785165_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299138789741_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299138789741_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299188945673_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1733875738_3520327299188945673_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934745376736_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934745376736_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934770672277_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1740696015_3577539934770672277_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1741637583_3585438376578762769_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1741637583_3585438376578762769_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1749776641_3653713741377557009_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1749776641_3653713741377557009_66374518919.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1771024271_3831951785280568414_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1771024271_3831951785280568414_66374518919.jpg --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437276791713447_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437276791713447_66374518919.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437280029708842_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437280029708842_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437282797946686_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437282797946686_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437285650080043_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1774300807_3859437285650080043_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645351898197962_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645351898197962_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645351898218663_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645351898218663_66374518919.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645353609513005_66374518919.jpg)<br><!-- image:../../assets/designers/brookepalmerdesigns/instagram/brookepalmerdesigns_1775279276_3867645353609513005_66374518919.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Brooke Palmer is a US-based surface designer and illustrator focused on the children's and family apparel market. She holds a BFA in Graphic Design from Brigham Young University-Idaho with an emphasis in surface pattern. Her work is bright, whimsical, and character-driven, primarily targeting babies, toddlers, and young families. She is open to licensing and collaboration.
+
 ## Style and Aesthetic
+
+Eight selected pattern images and two placement images suggest vibrant, illustrative pattern work designed for children's apparel. The website and Instagram describe the output as "fun, colorful, bright, and whimsical," with a focus on motifs that work across age groups. Selected placements suggest garment application in a children's or toddler context.
 
 ## Techniques and Tools
 
+Documented tool: Procreate. The website also notes proficiency with "multiple forms of traditional mediums," indicating a mixed digital-traditional approach. Skills listed include illustration, graphic design, pattern design, communication, licensing basics, client collaboration, and Procreate.
+
 ## Markets and Clients
+
+Primary market: babies and toddler apparel. Secondary: young families and adults. Open to licensing and collaboration. The website focuses on pattern collections geared toward children, toddlers, and young families. No specific client credits are documented.
 
 ## Portfolio and Presence
 
+- Website: brookepalmerdesign.wixsite.com/palmer
+- Instagram: @Brookepalmerdesigns (96 followers, 88 posts)
+- Email: brookepalmerdesign@gmail.com
+
 ## Career Path
+
+Brooke Palmer is based in the United States. She holds a BFA in Graphic Design from Brigham Young University-Idaho with an emphasis in surface pattern. She describes pattern collection design for children as her primary creative practice. No prior industry roles are documented.
 
 ## Pattern Focus
 
+Eight selected patterns and two placement images confirm an active pattern practice with garment application evidence. Collections are designed for children, toddlers, and young families — with bright, high-chroma, illustrative character motifs implied by the consistent positioning. Procreate is the primary digital tool.
+
 ## Connections
+
+- [[Kidswear]] — primary documented market
+- [[Womenswear]] — secondary documented market
+- [[Licensing]] — stated commercial offer
+- [[United States]] — based

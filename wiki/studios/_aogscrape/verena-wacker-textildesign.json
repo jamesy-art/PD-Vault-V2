@@ -1,0 +1,57 @@
+{
+  "slug": "verena-wacker-textildesign",
+  "name": "Verena Wacker Textildesign",
+  "website": "https://verenawackertextildesign.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/verena-wacker-textildesign.md",
+  "scraped_at": "2026-06-05T23:25:20.350Z",
+  "status": "scraped",
+  "website_title": "Verena Wacker Textildesign",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://verenawackertextildesign.thepatterncloud.com/home.php",
+      "text": "Verena Wacker Textildesign HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN NEW IN Log in Womens Dots Blurred Autumn/Winter Floral Home Tropical Animal Skin JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://verenawackertextildesign.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_474/homePage/pink2.jpg",
+        "https://images.v2.thepatterncloud.com//studio_474/homePage/womens.jpg",
+        "https://images.v2.thepatterncloud.com//studio_474/homePage/kuhesdflwtva.jpg",
+        "https://images.v2.thepatterncloud.com//studio_474/homePage/animal.jpg",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/facebook.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/instagram.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/pinterest.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/twitter.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/facebookB.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/instagramB.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/pinterestB.png",
+        "https://verenawackertextildesign.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://verenawackertextildesign.thepatterncloud.com/about.php",
+      "text": "Verena Wacker Textildesign",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://verenawackertextildesign.thepatterncloud.com/home.php\nVerena Wacker Textildesign HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN NEW IN Log in Womens Dots Blurred Autumn/Winter Floral Home Tropical Animal Skin JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://verenawackertextildesign.thepatterncloud.com/about.php\nVerena Wacker Textildesign",
+  "website_about_clean": "SOURCE: https://verenawackertextildesign.thepatterncloud.com/home.php\nVerena Wacker Textildesign HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN NEW IN Log in Womens Dots Blurred Autumn/Winter Floral Home Tropical Animal Skin JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://verenawackertextildesign.thepatterncloud.com/about.php\nVerena Wacker Textildesign",
+  "website_images": [
+    "https://verenawackertextildesign.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_474/homePage/pink2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_474/homePage/womens.jpg",
+    "https://images.v2.thepatterncloud.com//studio_474/homePage/kuhesdflwtva.jpg",
+    "https://images.v2.thepatterncloud.com//studio_474/homePage/animal.jpg",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/facebook.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/instagram.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/pinterest.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/twitter.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/facebookB.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/instagramB.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/pinterestB.png",
+    "https://verenawackertextildesign.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

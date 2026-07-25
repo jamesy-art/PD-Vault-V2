@@ -24,7 +24,7 @@ bio: ''
 website: 'https://cinnamonclouds.co.za'
 website_about: ''
 accepted: 26/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/cinnamonclouds.za
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Textile Design, Surface Design, Graphic Design'
 website_meta_description: Create Explore Inspire
 website_about_raw: >-
@@ -238,7 +241,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -255,45 +258,122 @@ instagram_profile_pic_url: >-
   https://scontent-mia5-1.cdninstagram.com/v/t51.82787-19/548893207_17988681263847664_5360967127341785792_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGix_xdByNGhPQpnhRWSEzqRN8hn_cQPGW7OTMK821DtseN91Dk6CwDVQeoZdfx_SA&_nc_ohc=PEmyvyobg5gQ7kNvwF-FEKT&_nc_gid=KaC7v-0bymE4cyV4KjnlXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af611qfBDLK87bOe2rxBNmafO3mHd3rZJB1zc-jCyKDppw&oe=6A13F481&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia5-1.cdninstagram.com/v/t51.82787-19/548893207_17988681263847664_5360967127341785792_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGix_xdByNGhPQpnhRWSEzqRN8hn_cQPGW7OTMK821DtseN91Dk6CwDVQeoZdfx_SA&_nc_ohc=PEmyvyobg5gQ7kNvwF-FEKT&_nc_gid=KaC7v-0bymE4cyV4KjnlXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af611qfBDLK87bOe2rxBNmafO3mHd3rZJB1zc-jCyKDppw&oe=6A13F481&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/cinnamonclouds.za/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3295
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/cinnamonclouds.za/profile/548893207_17988681263847664_5360967127341785792_n.jpg
+instagram_profile_image_bytes: 64529
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/cinnamonclouds.za/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/cinnamonclouds.za/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/cinnamonclouds.za/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/cinnamonclouds.za/profile/548893207_17988681263847664_5360967127341785792_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/cinnamonclouds.za/profile/548893207_17988681263847664_5360967127341785792_n.jpg
+profile_image_local: >-
+  ../../assets/designers/cinnamonclouds.za/profile/548893207_17988681263847664_5360967127341785792_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/cinnamonclouds.za/profile/548893207_17988681263847664_5360967127341785792_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_229_5-1.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_237_1-4.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_243_2-1.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_307_6-1.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_311_1-5.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_324_3-2.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_329_4-2.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_337_5-2.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_229_5-1.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_237_1-4.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_243_2-1.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_307_6-1.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_311_1-5.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_324_3-2.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_329_4-2.jpeg
+  - >-
+    ../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_337_5-2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # cinnamonclouds.za
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/cinnamonclouds.za/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/cinnamonclouds.za/profile/548893207_17988681263847664_5360967127341785792_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_229_5-1.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_229_5-1.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_237_1-4.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_237_1-4.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_243_2-1.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_243_2-1.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_307_6-1.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_307_6-1.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_311_1-5.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_311_1-5.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_324_3-2.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_324_3-2.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_329_4-2.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_329_4-2.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_337_5-2.jpeg)<br><!-- image:../../assets/designers/cinnamonclouds.za/instagram/cinnamonclouds.za_imageye___-_imgi_337_5-2.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Zaaheda Dhalech is a South African surface pattern designer working under the studio name Cinnamon Clouds. Her practice produces nature-inspired surface patterns characterised by muted tones, organic textures, and biophilic design influence. Designs are available for licensing and collaboration, with work distributed through [[Spoonflower]] (wallpaper and fabric) and a direct licensing enquiry process on her website.
+
 ## Style and Aesthetic
+
+Cinnamon Clouds' aesthetic is defined by earthy elegance and quiet nostalgia — warm, muted palettes drawing on biophilic design principles and a vintage-influenced sensibility. The studio describes its work as creating patterns that "soothe, uplift, and inspire." Selected Instagram pattern images (all eight confirmed as patterns) suggest a consistent all-over repeat practice with organic, nature-referenced compositions designed for home interior products.
 
 ## Techniques and Tools
 
+Surface pattern design and graphic design services both offered as separate studio services. Digital production for print-on-demand and licensing output. [[Spoonflower]] as primary POD platform for wallpaper and fabric. Website structured to handle both general enquiries and formal licensing requests from art directors and manufacturers.
+
 ## Markets and Clients
+
+Home décor, textiles, packaging, and stationery. Spoonflower wallpaper and fabric shop active. Open to licensing and collaboration with art directors, manufacturers, and brands. No specific client relationships documented.
 
 ## Portfolio and Presence
 
+- Website: cinnamonclouds.co.za
+- Instagram: @cinnamonclouds.za
+- Spoonflower: Cinnamon Clouds shop
+
 ## Career Path
+
+Operating as Cinnamon Clouds from South Africa. Practice maintains separate pattern design and graphic design service arms. Consistent content strategy around nature-inspired home decor patterns and active licensing availability positioning.
 
 ## Pattern Focus
 
+Nature-inspired all-over repeat patterns with an earthy, muted palette. Biophilic motifs — botanical, organic, natural textures — designed for home interior applications. All eight selected Instagram images confirmed as pattern work, indicating an active and commercially focused portfolio with consistent aesthetic direction.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Home decor market]]
+- [[Botanical Pattern]]
+- [[South Africa]]

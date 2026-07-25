@@ -25,7 +25,7 @@ bio: ''
 website: 'https://jennifergeldard.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jennifer_geldard
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Jennifer Scott Geldard - Artist
 website_meta_description: ''
 website_about_raw: >-
@@ -251,7 +254,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -270,45 +273,125 @@ instagram_profile_pic_url: >-
   https://scontent-lax7-1.cdninstagram.com/v/t51.2885-19/450506402_1005676354385797_7297246353214565486_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHxuiZ1-rwVj19zoG9vo9sTlpFULZKV57E9b6hqIqvCy1LB6A-h3mOR47zVk_mhgos&_nc_ohc=gyeLYFEk9X8Q7kNvwHwt4Yn&_nc_gid=_fWTD3GWXpYS-atTqD-jFw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7C7IccbQuWbMKz1gusG5RLMZ5nEZJZwogXbY2AytmRjA&oe=6A13F38C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax7-1.cdninstagram.com/v/t51.2885-19/450506402_1005676354385797_7297246353214565486_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHxuiZ1-rwVj19zoG9vo9sTlpFULZKV57E9b6hqIqvCy1LB6A-h3mOR47zVk_mhgos&_nc_ohc=gyeLYFEk9X8Q7kNvwHwt4Yn&_nc_gid=_fWTD3GWXpYS-atTqD-jFw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7C7IccbQuWbMKz1gusG5RLMZ5nEZJZwogXbY2AytmRjA&oe=6A13F38C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jennifer_geldard/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5360
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jennifer_geldard/profile/450506402_1005676354385797_7297246353214565486_n.jpg
+instagram_profile_image_bytes: 215611
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jennifer_geldard/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jennifer_geldard/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jennifer_geldard/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jennifer_geldard/profile/450506402_1005676354385797_7297246353214565486_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jennifer_geldard/profile/450506402_1005676354385797_7297246353214565486_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jennifer_geldard/profile/450506402_1005676354385797_7297246353214565486_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jennifer_geldard/profile/450506402_1005676354385797_7297246353214565486_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_103_WatercolorPlaidShow.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_109_NeautralFloralSHOW.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_134_Painterly2SHOWSQU.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_145_BountySHOW.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_218_BirdsofIndiaSheetWeb.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_264_Autumn_Floral_show.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_265_Autumn_Floral_show.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_266_Autumn_Floral_show.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_290_DoodleBugShow.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_85_LushVictorianSHOW.jpeg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_109_NeautralFloralSHOW.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_134_Painterly2SHOWSQU.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_145_BountySHOW.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_264_Autumn_Floral_show.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_290_DoodleBugShow.jpeg
+  - >-
+    ../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_85_LushVictorianSHOW.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jennifer_geldard
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jennifer_geldard/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jennifer_geldard/profile/450506402_1005676354385797_7297246353214565486_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_103_WatercolorPlaidShow.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_103_WatercolorPlaidShow.jpeg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_109_NeautralFloralSHOW.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_109_NeautralFloralSHOW.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_134_Painterly2SHOWSQU.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_134_Painterly2SHOWSQU.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_145_BountySHOW.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_145_BountySHOW.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_218_BirdsofIndiaSheetWeb.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_218_BirdsofIndiaSheetWeb.jpeg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_264_Autumn_Floral_show.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_264_Autumn_Floral_show.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_265_Autumn_Floral_show.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_265_Autumn_Floral_show.jpeg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_266_Autumn_Floral_show.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_266_Autumn_Floral_show.jpeg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_290_DoodleBugShow.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_290_DoodleBugShow.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_85_LushVictorianSHOW.jpeg)<br><!-- image:../../assets/designers/jennifer_geldard/instagram/jennifer_geldard_imageye___-_imgi_85_LushVictorianSHOW.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jennifer Scott Geldard is an artist, illustrator, and surface pattern designer based in Central Massachusetts. Her illustration work is whimsical and nature-oriented, with a particular affinity for birds and botanicals. She is also an internationally exhibited glass bead artist with over 25 years of lampworking practice. Licensing enquiries are explicitly welcomed across both illustration and pattern work.
+
 ## Style and Aesthetic
+
+Selected Instagram images — named Lush Victorian, Neutral Floral, Painterly, Bounty, Autumn Floral, and DoodleBug — suggest range across at least five aesthetic registers: dense layered Victorian floral, loose painterly botanical, neutral-toned floral, autumn seasonal, and character/doodle work. Watercolour and ink techniques lend a hand-made, warm quality to the work. The visual language is approachable and decorative, with evident breadth across formal and expressive styles.
 
 ## Techniques and Tools
 
+Primary media: watercolour, ink, and pencil. Pattern work draws on a long multi-media art practice. Jennifer also works in flame-worked glass (lampworking), acid etching, and surface treatment — technical disciplines that inform a sensitivity to texture in her flat work. Her process is experimentally driven and self-described as curiosity-led.
+
 ## Markets and Clients
+
+Illustration work stated to cover fabric, stationery, and clothing applications. Licensing and commissions are an active part of her practice. No specific client names documented.
 
 ## Portfolio and Presence
 
+- Website: https://jennifergeldard.com
+- Instagram: @Jennifer_geldard (2,287 followers)
+- Licensing enquiries: jen@jennifergeldard.com
+
 ## Career Path
+
+Jennifer Geldard has made glass beads since 1995 and has taught lampworking across the US and internationally since 2004. Her work is held in the Corning Museum of Glass and has been featured in Glass Art Magazine and Bead and Button Magazine. She is a Master Class Instructor (Bead & Button, Milwaukee 2012). Her illustration and surface pattern practice runs alongside this long-established glass art career.
 
 ## Pattern Focus
 
+Selected patterns span five named styles: Lush Victorian (dense, layered floral), Neutral Floral, Painterly (loose, expressive), Autumn Floral, and DoodleBug (character-led). Birds are documented as a recurring motif across her broader illustration work, with "Birds of India Sheet" visible in the full review set confirming avian subject matter as a pattern category.
+
 ## Connections
+
+- [[Illustration]]
+- [[Floral Patterns]]
+- [[Licensing]]
+- [[Watercolour]]
+- [[Birds]]

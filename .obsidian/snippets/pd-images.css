@@ -1,5 +1,5 @@
 img[alt*="pd-profile"] {
-  border-radius: 18px;
+  border-radius: 2px;
   object-fit: cover;
   margin: 12px 0 20px;
 }

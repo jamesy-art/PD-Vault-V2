@@ -20,7 +20,7 @@ bio: ''
 website: 'https://daviddelander.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/daviddelander
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: David Delander - Graphism & others curiosities
 website_meta_description: ''
 website_about_raw: "David Delander - Graphism & others curiosities &#9776; Work About Contact Work About Contact Let's keep in touch © 2025 David Delander | Built with \U0001F90D by laureannehurlet David Delander’s design work is playful, polished, and always a little unexpected. From high-end fashion prints to kidswear graphics, from album covers to product packaging, his style adapts but never loses its spark. His strength lies in weaving story and structure together whether he's deep in Pantone palettes, building moodboards, or finessing the tiniest details of a technical file. He’s worked with brands like C&A, Okaidi, Bellerose, and Lilliputiens, bringing fresh energy to everything from menswear to toys. He also freelances for music bands, blending visuals and sound into striking cover art. Along the way, he's picked up a few extras like welding for sculpture and web design just for the fun of it. He once lived in San Francisco for seven months, learning English and sharpening his eye in a new landscape. He’s currently based in Belgium, creating with curiosity, empathy, and a serious love for color and when he's not designing, he’s likely behind a drum kit, keeping the rhythm going in more ways than one. Hello, I’m David. David Delander’s design work is playful, polished, and always a little unexpected. From high-end fashion prints to kidswear graphics, from album covers to product packaging, his style adapts but never loses its spark. His strength lies in weaving story and structure together whether he's deep in Pantone palettes, building moodboards, or finessing the tiniest details of a technical file. He’s worked with brands like C&A, Okaidi, Bellerose, and Lilliputiens, bringing fresh energy to everything from menswear to toys. He also freelances for music bands, blending visuals and sound into striking cover art. Along the way, he's picked up a few extras like welding for sculpture and web design just for the fun of it. He once lived in San Francisco for seven months, learning English and sharpening his eye in a new landscape. He’s currently based in Belgium, creating with curiosity, empathy, and a serious love for color and when he's not designing, he’s likely behind a drum kit, keeping the rhythm going in more ways than one. Contact delander.d@gmail.com Clients Bellerose C&A Okaidi Liliputiens Foam & many more... Publications IdN Magazine PAGE Magazine San Francisco Chronicle Links & Other Things Linkedin Behance Instagram Contact delander.d@gmail.com Clients Bellerose C&A Okaidi Liliputiens Foam & many more... Bellerose C&A Okaidi Liliputiens Foam & many more... Publications IdN Magazine PAGE Magazine San Francisco Chronicle IdN Magazine PAGE Magazine San Francisco Chronicle Links & Other Things Linkedin Behance Instagram Linkedin Behance Instagram David Delander’s design work is playful, polished, and always a little unexpected. From high-end fashion prints to kidswear graphics, from album covers to product packaging, his style adapts but never loses its spark. His strength lies in weaving story and structure together whether he's deep in Pantone palettes, building moodboards, or finessing the tiniest details of a technical file. He’s worked with brands like C&A, Okaidi, Bellerose, and Lilliputiens, bringing fresh energy to everything from menswear to toys. He also freelances for music bands, blending visuals and sound into striking cover art. Along the way, he's picked up a few extras like welding for sculpture and web design just for the fun of it. He once lived in San Francisco for seven months, learning English and sharpening his eye in a new landscape. About - David Delander &#9776; Work About Contact Work About Contact Hello, I’m David. David Delander’s design work is playful, polished, and always a little unexpected. From high-end fashion prints to kidswear graphics, from album covers to product packaging, his style adapts but never loses its spark. His strength lies in weaving story and structure together whether he's deep in Pantone palettes, building moodboards, or finessing the tiniest details of a technical file. He’s worked with brands like C&A, Okaidi, Bellerose, and Lilliputiens, bringing fresh energy to everything from menswear to toys. He also freelances for music bands, blending visuals and sound into striking cover art. Along the way, he's picked up a few extras like welding for sculpture and web design just for the fun of it. He once lived in San Francisco for seven months, learning English and sharpening his eye in a new landscape. Contact delander.d@gmail.com Clients Bellerose C&A Okaidi Liliputiens Foam & many more... Publications IdN Magazine PAGE Magazine San Francisco Chronicle Links & Other Things Linkedin Behance Instagram Let's keep in touch © 2025 David Delander | Built with \U0001F90D by laureannehurlet Contact - David Delander &#9776; Work About Contact Work About Contact Let's talk! Let's keep in touch © 2025 David Delander | Built with \U0001F90D by laureannehurlet"
@@ -59,7 +62,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -76,45 +79,167 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/527211552_18515279641057652_374662592956549653_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFmIhdFKSXaO6dpzLaLQPWDsswoR3dZxLL8giY-oc9Umd8g8G6yKnx8__QXVnKDNjs&_nc_ohc=72XYxKLM6q8Q7kNvwFrVw0T&_nc_gid=ZmgagtDpKlF20VFuG6pf4w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6L2DnQfc2PjPiZbLB_UjTRbNvfIJu2yOJAGrkt0manBA&oe=6A1400A9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/527211552_18515279641057652_374662592956549653_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFmIhdFKSXaO6dpzLaLQPWDsswoR3dZxLL8giY-oc9Umd8g8G6yKnx8__QXVnKDNjs&_nc_ohc=72XYxKLM6q8Q7kNvwFrVw0T&_nc_gid=ZmgagtDpKlF20VFuG6pf4w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6L2DnQfc2PjPiZbLB_UjTRbNvfIJu2yOJAGrkt0manBA&oe=6A1400A9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/daviddelander/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6383
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/daviddelander/profile/527211552_18515279641057652_374662592956549653_n.jpg
+instagram_profile_image_bytes: 91399
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/daviddelander/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/daviddelander/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/daviddelander/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/daviddelander/profile/527211552_18515279641057652_374662592956549653_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/daviddelander/profile/527211552_18515279641057652_374662592956549653_n.jpg
+profile_image_local: >-
+  ../../assets/designers/daviddelander/profile/527211552_18515279641057652_374662592956549653_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/daviddelander/profile/527211552_18515279641057652_374662592956549653_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746612404_3627170199116221130_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035572383748_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035580940749_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956726069087_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956742714734_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055094599135_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055279038730_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695093345872_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695177126613_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695185622060_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746894750_3629538694005057778_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1748417842_3642315312393911282_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1748417842_3642315312469626467_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1748671526_3644443368209038118_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914632691_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914689091_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927186065805237_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749323079_3649908992109750531_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394692091_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394731690_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1760625244_3744718422224294027_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1761376346_3751019121874949922_1145651.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035572383748_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956726069087_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055279038730_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914632691_1145651.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1746612404_3627170199116221130_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1748671526_3644443368209038118_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749323079_3649908992109750531_1145651.jpg
+  - >-
+    ../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394692091_1145651.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # daviddelander
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/daviddelander/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/daviddelander/profile/527211552_18515279641057652_374662592956549653_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746612404_3627170199116221130_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746612404_3627170199116221130_1145651.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035572383748_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035572383748_1145651.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035580940749_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746615245_3627194035580940749_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956726069087_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956726069087_1145651.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956742714734_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746635501_3627363956742714734_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055094599135_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055094599135_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055279038730_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746639447_3627397055279038730_1145651.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695093345872_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695093345872_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695177126613_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695177126613_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695185622060_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746641669_3627415695185622060_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1746894750_3629538694005057778_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1746894750_3629538694005057778_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1748417842_3642315312393911282_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1748417842_3642315312393911282_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1748417842_3642315312469626467_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1748417842_3642315312469626467_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1748671526_3644443368209038118_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1748671526_3644443368209038118_1145651.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914632691_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914632691_1145651.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914689091_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927185914689091_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927186065805237_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1749206039_3648927186065805237_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1749323079_3649908992109750531_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1749323079_3649908992109750531_1145651.jpg --> | [ ] | [x] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394692091_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394692091_1145651.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394731690_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1749539812_3651727081394731690_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1760625244_3744718422224294027_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1760625244_3744718422224294027_1145651.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/daviddelander/instagram/daviddelander_1761376346_3751019121874949922_1145651.jpg)<br><!-- image:../../assets/designers/daviddelander/instagram/daviddelander_1761376346_3751019121874949922_1145651.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+David Delander is a Belgium-based graphic and surface pattern designer working across fashion print, kidswear graphics, album cover art, and product packaging. His practice spans high-end fashion through to licensed children's product design, with documented clients across major European retail and fashion brands.
+
 ## Style and Aesthetic
+
+Playful, polished, and consistently surprising. Design work adapts across market contexts without losing its visual energy. Selected Instagram patterns suggest graphic, structured surface prints; selected placements indicate garment applications across fashion and kidswear categories. Described as having a "serious love for color" and a strong ability to build moodboards and manage Pantone palette work.
 
 ## Techniques and Tools
 
+Works from brief and moodboard through to Pantone palette development and technical file production. Broader creative practice extends to welding (sculpture) and web design. The multi-disciplinary background informs a cross-sector adaptability evident in the documented client range.
+
 ## Markets and Clients
+
+Fashion (menswear and womenswear), kidswear, toys, and product packaging. Named clients: Bellerose, C&A, Okaidi, Lilliputiens, Foam. Also freelances for music bands producing album cover and visual art. Published in IdN Magazine, PAGE Magazine, and San Francisco Chronicle. Open to freelance projects.
 
 ## Portfolio and Presence
 
+- Website: https://daviddelander.com
+- Instagram: https://instagram.com/daviddelander (731 followers, 157 posts)
+- Behance, LinkedIn
+- Music projects: @bandofaltair, @brokenpromisesbxl
+
 ## Career Path
+
+Spent seven months in San Francisco developing his English and sharpening his visual eye in a new creative environment. Based in Belgium. Brings a drummer's sensibility to design work — rhythm, timing, and structure. Has extended his practice into welding for sculpture and web design, reflecting genuine creative curiosity beyond the commercial brief.
 
 ## Pattern Focus
 
+Selected Instagram images suggest graphic surface prints and fashion placement designs across kidswear and fashion categories. Work spans both repeat structures and placement graphics, with applications in apparel and packaged product design.
+
 ## Connections
+
+- [[C&A]] — named client
+- [[Okaidi]] — named client
+- [[Bellerose]] — named client
+- [[Lilliputiens]] — named client
+- [[Kidswear]] — key market
+- [[Belgium]] — based

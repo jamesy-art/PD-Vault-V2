@@ -24,7 +24,7 @@ bio: ''
 website: 'https://heywawa.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/heywawa___
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Elena Wa l Visual Art
 website_meta_description: >-
   I'm an enthusiastic illustrator dedicated to crafting captivating visuals that
@@ -66,7 +69,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -83,45 +86,149 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/462001620_1536916716934076_2275161788142405732_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHknSjHJ5ziJhhWPHrx0nc6LPJB30mGLmzpNyaKi-JgOedHmXIdiE_YMJjGWjI_hnk&_nc_ohc=VN_orY9w-sQQ7kNvwGlDlGQ&_nc_gid=9DQp1rHXgve092Xfsjw-rw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5xXvvlfTK1GlkIK6e31OZZHtID8PLb3triE7lwqfvUxQ&oe=6A13F9DB&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/462001620_1536916716934076_2275161788142405732_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHknSjHJ5ziJhhWPHrx0nc6LPJB30mGLmzpNyaKi-JgOedHmXIdiE_YMJjGWjI_hnk&_nc_ohc=VN_orY9w-sQQ7kNvwGlDlGQ&_nc_gid=9DQp1rHXgve092Xfsjw-rw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5xXvvlfTK1GlkIK6e31OZZHtID8PLb3triE7lwqfvUxQ&oe=6A13F9DB&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/heywawa___/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2213
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/heywawa___/profile/462001620_1536916716934076_2275161788142405732_n.jpg
+instagram_profile_image_bytes: 56727
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/heywawa___/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/heywawa___/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/heywawa___/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/heywawa___/profile/462001620_1536916716934076_2275161788142405732_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/heywawa___/profile/462001620_1536916716934076_2275161788142405732_n.jpg
+profile_image_local: >-
+  ../../assets/designers/heywawa___/profile/462001620_1536916716934076_2275161788142405732_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/heywawa___/profile/462001620_1536916716934076_2275161788142405732_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1612460298_2501820768666483146_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1614356483_2517727121469345349_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1652885843_2840934819671474847_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384655814037_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857132778_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857146052_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1746979405_3630248832672197291_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705370965172_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371009922_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371018694_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705379552354_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705572361653_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127842631613_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127918138656_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937041965_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937259529_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1766320829_3792496451113460375_3922327298.webp
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1614356483_2517727121469345349_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857146052_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371009922_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1766320829_3792496451113460375_3922327298.webp
+selected_placements:
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1652885843_2840934819671474847_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1746979405_3630248832672197291_3922327298.webp
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127842631613_3922327298.jpg
+  - >-
+    ../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937041965_3922327298.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # heywawa___
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/heywawa___/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/heywawa___/profile/462001620_1536916716934076_2275161788142405732_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1612460298_2501820768666483146_3922327298.jpg)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1612460298_2501820768666483146_3922327298.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1614356483_2517727121469345349_3922327298.jpg)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1614356483_2517727121469345349_3922327298.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1652885843_2840934819671474847_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1652885843_2840934819671474847_3922327298.webp --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384655814037_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384655814037_3922327298.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857132778_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857132778_3922327298.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857146052_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1689364072_3146936384857146052_3922327298.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1746979405_3630248832672197291_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1746979405_3630248832672197291_3922327298.webp --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705370965172_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705370965172_3922327298.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371009922_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371009922_3922327298.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371018694_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705371018694_3922327298.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705379552354_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705379552354_3922327298.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705572361653_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1754326855_3691883705572361653_3922327298.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127842631613_3922327298.jpg)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127842631613_3922327298.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127918138656_3922327298.jpg)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1755246843_3699601127918138656_3922327298.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937041965_3922327298.jpg)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937041965_3922327298.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937259529_3922327298.jpg)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1755505859_3701773905937259529_3922327298.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/heywawa___/instagram/heywawa_____1766320829_3792496451113460375_3922327298.webp)<br><!-- image:../../assets/designers/heywawa___/instagram/heywawa_____1766320829_3792496451113460375_3922327298.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elena Wa is a Granada-based visual artist and textile surface designer with 16 years of experience in the fashion industry. She now works independently, spanning surface pattern design, editorial illustration, animation, and commercial advertising illustration. Her practice covers both traditional and digital techniques.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest an expressive, illustrative aesthetic applied to surface pattern and textile contexts. Her website portfolio documents a broad range — botanical and decorative motifs (plumaria, botanical prints), anchoas (anchovy) pattern, oil paintings, and embroidery designs — alongside motion and editorial work. The visual register shifts between fine art sensibility and commercially applicable pattern. Color use appears confident and varied.
 
 ## Techniques and Tools
 
+Elena has a solid background in traditional and digital illustration, including oil painting (documented as "Atlanta Series," "Richi aka Sinesio," "Tkachen"), embroidery design, pattern construction, and motion graphics. She states she can use "whatever tool or software it takes to bring a concept to life," suggesting broad digital fluency.
+
 ## Markets and Clients
+
+Sixteen years in the textile surface design industry position her firmly in the fashion market. Selected placements suggest textile applications. She is open to commissions and spans editorial, textile, and commercial advertising contexts. Portfolio categories include Pattern, Textile, Editorial, and Motion.
 
 ## Portfolio and Presence
 
+- Website: https://heywawa.com
+- Instagram: @heywawa___
+- Contact: hola@heywawa.com
+
 ## Career Path
+
+Elena worked for 16 years as a textile surface designer in the fashion industry before transitioning to independent practice. She now operates across surface pattern design, editorial illustration, animation, and commercial advertising from Granada, Spain.
 
 ## Pattern Focus
 
+Selected patterns suggest botanical and organic motifs alongside illustrative figurative work. Named portfolio pieces include wrapping paper, plumaria (botanical print), and a dracula pattern. Textile applications appear in the "Jineta" and "Podenco" portfolio entries. Pattern work sits within a broader fine art and illustration practice.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Womenswear]]
+- [[Editorial Illustration]]
+- [[Botanical Pattern]]

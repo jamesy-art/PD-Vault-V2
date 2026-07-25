@@ -21,12 +21,12 @@ skills:
 country: United States
 can_use: 'Yes'
 instagram_handle: ckf_design_studio
-instagram: 'https://instagram.com/@ckf_design_studio'
+instagram: 'https://instagram.com/ckf_design_studio'
 bio: ''
 website: 'https://ckfdesignstudio.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ckf_design_studio
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Charlotte Kirkholt Ferri | Discover Unique Surface Designs - Collaborate Now
 website_meta_description: >-
   Explore vibrant, hand-drawn surface patterns and wall art by Charlotte
@@ -273,7 +276,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -292,45 +295,131 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/464749363_449574854366035_2558916810556145333_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTEuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHTIgyKydlzh3vVu4ps20Bnh2b7e6QbijFLhtyie7Tm8srFq7uvHiB7-6MyDfuX4p1-vqwJ-ymHCrKSr9mcT1LV&_nc_ohc=lwoYzHuGISMQ7kNvwHTz3Vx&_nc_gid=mTEhXbVmTtEkGSAY2iqX9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7XrDO9ou-wizifUeCR-u5lkJdGn_OS4UMMaJpdOu7F2g&oe=6A13E7D2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/464749363_449574854366035_2558916810556145333_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTEuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHTIgyKydlzh3vVu4ps20Bnh2b7e6QbijFLhtyie7Tm8srFq7uvHiB7-6MyDfuX4p1-vqwJ-ymHCrKSr9mcT1LV&_nc_ohc=lwoYzHuGISMQ7kNvwHTz3Vx&_nc_gid=mTEhXbVmTtEkGSAY2iqX9g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7XrDO9ou-wizifUeCR-u5lkJdGn_OS4UMMaJpdOu7F2g&oe=6A13E7D2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ckf_design_studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5381
+instagram_profile_image_local: >-
+  ../../assets/designers/ckf_design_studio/profile/464749363_449574854366035_2558916810556145333_n.jpg
+instagram_profile_image_bytes: 19136
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ckf_design_studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ckf_design_studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ckf_design_studio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ckf_design_studio/profile/464749363_449574854366035_2558916810556145333_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ckf_design_studio/profile/464749363_449574854366035_2558916810556145333_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ckf_design_studio/profile/464749363_449574854366035_2558916810556145333_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ckf_design_studio/profile/464749363_449574854366035_2558916810556145333_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_121_Sand+Dollars+fabric+in+Sea+Foam+turqouise+.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_145_Geo-conix+purple%2C+yellow+gray+800x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_151_Abstarct+basket+red+800x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_163_Between+the+Reeds+and+Pipes+_Sunrise+800x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_168_Old+World+Wallpaper+v2+gray+800+x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_187_IMG_0319.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_193_Fun_quatix+in+cream+1600x1600.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_19_Square+Flare+Blush.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_35_Crusteaceans+blue%2C+green%2C+turquiose+1600x1600.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_43_Square+Flare+Blush.jpeg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_121_Sand+Dollars+fabric+in+Sea+Foam+turqouise+.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_145_Geo-conix+purple%2C+yellow+gray+800x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_151_Abstarct+basket+red+800x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_163_Between+the+Reeds+and+Pipes+_Sunrise+800x800.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_187_IMG_0319.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_193_Fun_quatix+in+cream+1600x1600.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_19_Square+Flare+Blush.jpeg
+  - >-
+    ../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_35_Crusteaceans+blue%2C+green%2C+turquiose+1600x1600.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ckf_design_studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ckf_design_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ckf_design_studio/profile/464749363_449574854366035_2558916810556145333_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_121_Sand+Dollars+fabric+in+Sea+Foam+turqouise+.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_121_Sand+Dollars+fabric+in+Sea+Foam+turqouise+.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_145_Geo-conix+purple%2C+yellow+gray+800x800.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_145_Geo-conix+purple%2C+yellow+gray+800x800.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_151_Abstarct+basket+red+800x800.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_151_Abstarct+basket+red+800x800.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_163_Between+the+Reeds+and+Pipes+_Sunrise+800x800.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_163_Between+the+Reeds+and+Pipes+_Sunrise+800x800.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_168_Old+World+Wallpaper+v2+gray+800+x800.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_168_Old+World+Wallpaper+v2+gray+800+x800.jpeg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_187_IMG_0319.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_187_IMG_0319.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_193_Fun_quatix+in+cream+1600x1600.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_193_Fun_quatix+in+cream+1600x1600.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_19_Square+Flare+Blush.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_19_Square+Flare+Blush.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_35_Crusteaceans+blue%2C+green%2C+turquiose+1600x1600.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_35_Crusteaceans+blue%2C+green%2C+turquiose+1600x1600.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_43_Square+Flare+Blush.jpeg)<br><!-- image:../../assets/designers/ckf_design_studio/instagram/ckf_design_studio_imageye___-_imgi_43_Square+Flare+Blush.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Charlotte Kirkholt Ferri is a Danish artist and textile designer based in South Florida, working under the name CKF Design Studio. Her practice combines Scandinavian modernist sensibility with subtropical environmental influence, producing hand-made surface patterns and wall art available for licensing, buy-out, and print-on-demand through [[Spoonflower]] and Patterned.com. All designs are handmade; no AI-generated artwork.
+
 ## Style and Aesthetic
+
+Ferri describes her work as exploring "color, form, and rhythm" through organic shapes, bold palettes, and a sense of playful elegance — Scandinavian modernism filtered through tropical and coastal surroundings. Selected Instagram pattern images include Sand Dollars, Geo-conix (geometric), Abstract Basket Red, Between the Reeds and Pipes (Sunrise), Square Flare Blush, and Crustaceans — confirming a range from decorative marine all-overs and bold geometric compositions to organic botanical structures. Colour is used as a primary mood and atmosphere tool throughout.
 
 ## Techniques and Tools
 
+Gouache, watercolour, collage as starting media; designs developed by hand from photographs, sketches, paintings, or collages. Digital finishing for repeat and production readiness. No AI tools used at any stage.
+
 ## Markets and Clients
+
+Fabric, wallpaper, and home decor via [[Spoonflower]] POD. Licensing and buy-out terms offered directly, with representation on Patterned.com. Custom commissions available. Open to collaboration, licensing, studio placement, and agent representation.
 
 ## Portfolio and Presence
 
+- Website: ckfdesignstudio.com
+- Instagram: @ckf_design_studio
+- Spoonflower: available
+- Patterned.com: represented
+
 ## Career Path
+
+Danish origin; based in South Florida. Independent practice producing themed seasonal collections and licensing-ready pattern libraries. Named collections: Summer Beach (cabana stripes, marine animals), Tropical Retro (Scandinavian eye), Sea Shore (coastal motifs), Preppy Mix-and-Match (maximalist), Mid-Centro Flare (50s Scandinavian geometric/organic).
 
 ## Pattern Focus
 
+Named collections span marine coastal, tropical retro, maximalist preppy, and mid-century Scandinavian registers. Selected patterns confirm: sand dollars, crustaceans, reeds, geometric conical forms, abstract basket weave, square flare — all with a consistent cross-cultural Scandinavian-subtropical palette. Organic shapes and bold colour are the consistent throughlines.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Patterned.com]]
+- [[Home decor market]]
+- [[Scandinavian design]]
+- [[Geometric pattern]]
+- [[Tropical Pattern 5]]

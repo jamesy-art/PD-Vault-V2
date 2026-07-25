@@ -28,7 +28,7 @@ bio: ''
 website: 'https://mdonnestudio.com'
 website_about: ''
 accepted: 30/01/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/melissadonnestudio
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Melissa Donne Studio | Explore Bold Patterns
 website_meta_description: >-
   Discover vibrant surface pattern design and joyful illustrations by Melissa
@@ -279,7 +282,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -296,45 +299,214 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/358068404_229041796734627_4201639055234719860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE-Svwi6ac8aiVIq-QCJRgG9vFyZhRJS2UuRahSs72x6TJ33gGNlhPaf9-Hp-JDx40tzLHs6zCdeblmz6EsWSdc&_nc_ohc=IvnyDZkJookQ7kNvwE2blY_&_nc_gid=oQPPvTXdel3SkCo0APWdcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5LYFKPzfok2SUQ2Anmoe39EBhGfjSjtZWp1oY-x4jGQg&oe=6A13DEEA&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/358068404_229041796734627_4201639055234719860_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE-Svwi6ac8aiVIq-QCJRgG9vFyZhRJS2UuRahSs72x6TJ33gGNlhPaf9-Hp-JDx40tzLHs6zCdeblmz6EsWSdc&_nc_ohc=IvnyDZkJookQ7kNvwE2blY_&_nc_gid=oQPPvTXdel3SkCo0APWdcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5LYFKPzfok2SUQ2Anmoe39EBhGfjSjtZWp1oY-x4jGQg&oe=6A13DEEA&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8117
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/melissadonnestudio/profile/358068404_229041796734627_4201639055234719860_n.jpg
+instagram_profile_image_bytes: 260170
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/melissadonnestudio/profile/358068404_229041796734627_4201639055234719860_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/melissadonnestudio/profile/358068404_229041796734627_4201639055234719860_n.jpg
+profile_image_local: >-
+  ../../assets/designers/melissadonnestudio/profile/358068404_229041796734627_4201639055234719860_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/melissadonnestudio/profile/358068404_229041796734627_4201639055234719860_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858456224501654_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858458086770884_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858459093407652_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656320279141_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656488045666_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769967240_3823083968535222629_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156671697712482_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156673392220615_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156676722517997_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260689629055638_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260694418940060_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317764746855772_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317767305411650_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771281594562_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771994613649_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317775224223098_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317781264016042_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664226_3837317773731044326_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664226_3837317778638433940_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376552684223995_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376557205712271_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376559067975174_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376567087459997_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736310711139966_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736312724364659_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736315140332385_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772958362_3848172673922814460_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1773088510_3849266179189787156_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774027666_3857144519070376903_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774164231_3858290388897397701_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774422874_3860461236865504541_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777106841_3882974375817282959_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777454433_3885890254859184579_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777626025_3887330402599748171_7959643312.jpg
+instagram_image_count: 34
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858456224501654_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656320279141_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156671697712482_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260689629055638_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317764746855772_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317767305411650_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771994613649_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376567087459997_7959643312.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769967240_3823083968535222629_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772958362_3848172673922814460_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774027666_3857144519070376903_7959643312.jpg
+  - >-
+    ../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774164231_3858290388897397701_7959643312.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
+# Melissa Donne
 
-# melissadonnestudio
+UK-based (South Coast) illustrator and surface pattern designer with 72,000+ Instagram followers; licensed work with Godiva, Paperchase, Casetify, and Barnardo's, with products placed at Anthropologie, Target, and TJX.
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/melissadonnestudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/melissadonnestudio/profile/358068404_229041796734627_4201639055234719860_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858456224501654_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858456224501654_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858458086770884_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858458086770884_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858459093407652_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769582697_3819858459093407652_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656320279141_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656320279141_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656488045666_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769929210_3822765656488045666_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769967240_3823083968535222629_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1769967240_3823083968535222629_7959643312.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156671697712482_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156671697712482_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156673392220615_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156673392220615_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156676722517997_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1770333636_3826156676722517997_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260689629055638_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260689629055638_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260694418940060_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771061400_3832260694418940060_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317764746855772_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317764746855772_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317767305411650_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317767305411650_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771281594562_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771281594562_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771994613649_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317771994613649_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317775224223098_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317775224223098_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317781264016042_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664225_3837317781264016042_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664226_3837317773731044326_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664226_3837317773731044326_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664226_3837317778638433940_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1771664226_3837317778638433940_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376552684223995_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376552684223995_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376557205712271_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376557205712271_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376559067975174_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376559067975174_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376567087459997_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772267360_3842376567087459997_7959643312.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736310711139966_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736310711139966_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736312724364659_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736312724364659_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736315140332385_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772786983_3846736315140332385_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772958362_3848172673922814460_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1772958362_3848172673922814460_7959643312.jpg --> | [ ] | [x] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1773088510_3849266179189787156_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1773088510_3849266179189787156_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774027666_3857144519070376903_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774027666_3857144519070376903_7959643312.jpg --> | [ ] | [x] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774164231_3858290388897397701_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774164231_3858290388897397701_7959643312.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774422874_3860461236865504541_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1774422874_3860461236865504541_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777106841_3882974375817282959_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777106841_3882974375817282959_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777454433_3885890254859184579_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777454433_3885890254859184579_7959643312.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777626025_3887330402599748171_7959643312.jpg)<br><!-- image:../../assets/designers/melissadonnestudio/instagram/melissadonnestudio_1777626025_3887330402599748171_7959643312.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Melissa Donne is a UK-based (South Coast) illustrator and surface pattern designer with 72,000+ Instagram followers. Licensed work includes Paperchase, Otto Studio, Casetify, Godiva, Orange Circle Studio, Miquelrius, Chronicle Books, Tesco, and Barnardo's. Products have been placed at Anthropologie, Trader Joe's, Target, and TJX. She is a self-taught digital illustrator who returned to creative practice in her late 30s after a period in academia.
+
 ## Style and Aesthetic
+
+Bold, vibrant, joyful compositions taking traditional subjects — botanical illustration, food art — and giving them abstract interpretations with unexpected colour palettes and intricate texture detail. Selected patterns confirm rich, full-composition repeat work with strong colour presence. Selected placements suggest stationery and packaging product applications. Instagram bio summarises the positioning precisely: "joyful illustration & surface design, underpinned by a love of colour."
 
 ## Techniques and Tools
 
+Procreate on iPad. Entirely self-taught digital illustrator. Produces professional, high-resolution seamless repeats for licensing, with custom work available. Also undertakes packaging illustration, book cover design, and editorial.
+
 ## Markets and Clients
+
+Stationery, craft kits, tech accessories (Casetify), fashion accessories, kidswear, toys and games, home decor, textiles, packaging, and book cover design. Known licensed clients: Godiva, Paperchase, Otto Studio, Casetify, Orange Circle Studio, Miquelrius, Tesco, Chronicle Books, Barnardo's. Retail placement: Anthropologie, Trader Joe's, Target, TJX.
 
 ## Portfolio and Presence
 
+- Website: https://mdonnestudio.com
+- Instagram: https://instagram.com/melissadonnestudio (72,240 followers, 1,016 posts, verified)
+
 ## Career Path
+
+Holds a BA (hons) in Fashion Design and a Masters Degree in Film Theory. After years working in academia, returned to creative practice in her late 30s. Purchased an iPad and Procreate as her entry point. Built an independent licensing practice and has collaborated with Barnardo's (documented on website). The breadth of her client and placement list indicates an established commercial licensing operation.
 
 ## Pattern Focus
 
+Bold botanical and abstract food-art illustration patterns; traditional subjects rendered with colour surprise and intricate detail. Eight selected patterns span rich illustrative repeat work. Four selected placements confirm product mock-up context — stationery and packaging applications visible.
+
 ## Connections
+
+- [[Paperchase]] — licensed stationery client
+- [[Casetify]] — tech accessories licensing
+- [[Godiva]] — confectionery licensing client
+- [[Barnardo's]] — artist collaboration
+- [[raw/companies/anthropologie]] — retail placement
+- [[Procreate]] — primary creative tool
+- [[Stationery]] — core market
+- [[Botanical Pattern]] — primary aesthetic category
+- [[Licensing]] — primary commercial model

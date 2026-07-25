@@ -27,7 +27,7 @@ bio: ''
 website: 'https://joannaplucknett.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/joanna_plucknett
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Joanna Plucknett
 website_meta_description: ''
 website_about_raw: >-
@@ -254,7 +257,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -275,45 +278,127 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/38301831_884878345034212_2486625277988306944_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGGk7m0h06RkuBleOkxk9EF4C8urSmJ1-9cJ_L-PihS9FvD2-k5m-pJnLTxtaWrJSw&_nc_ohc=ly4bS0wx3rcQ7kNvwHzZEcK&_nc_gid=LCMt2woFqLzXuZeVF_Bjxg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5lrVllH0AVNMYhHW_fCsXp5fPXEpS7kbDsd8DXHv8mhQ&oe=6A14046F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/38301831_884878345034212_2486625277988306944_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGGk7m0h06RkuBleOkxk9EF4C8urSmJ1-9cJ_L-PihS9FvD2-k5m-pJnLTxtaWrJSw&_nc_ohc=ly4bS0wx3rcQ7kNvwHzZEcK&_nc_gid=LCMt2woFqLzXuZeVF_Bjxg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5lrVllH0AVNMYhHW_fCsXp5fPXEpS7kbDsd8DXHv8mhQ&oe=6A14046F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/joanna_plucknett/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4941
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/joanna_plucknett/profile/38301831_884878345034212_2486625277988306944_n.jpg
+instagram_profile_image_bytes: 122565
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/joanna_plucknett/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/joanna_plucknett/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/joanna_plucknett/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/joanna_plucknett/profile/38301831_884878345034212_2486625277988306944_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/joanna_plucknett/profile/38301831_884878345034212_2486625277988306944_n.jpg
+profile_image_local: >-
+  ../../assets/designers/joanna_plucknett/profile/38301831_884878345034212_2486625277988306944_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/joanna_plucknett/profile/38301831_884878345034212_2486625277988306944_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1710762722_3326441274665996018_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1716539878_3374903568525439623_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1720703187_3409827937538072627_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1738854056_3562088460064651800_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1739952932_3571306503013567363_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1750843265_3662661234343933571_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1761151830_3749135746637253373_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1774687423_3862674515109147025_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1777297526_3884574946735213084_8406573019.jpg
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1710762722_3326441274665996018_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1716539878_3374903568525439623_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1720703187_3409827937538072627_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1738854056_3562088460064651800_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1739952932_3571306503013567363_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1750843265_3662661234343933571_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1774687423_3862674515109147025_8406573019.jpg
+  - >-
+    ../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1777297526_3884574946735213084_8406573019.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # joanna_plucknett
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/joanna_plucknett/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/joanna_plucknett/profile/38301831_884878345034212_2486625277988306944_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1710762722_3326441274665996018_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1710762722_3326441274665996018_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1716539878_3374903568525439623_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1716539878_3374903568525439623_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1720703187_3409827937538072627_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1720703187_3409827937538072627_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1738854056_3562088460064651800_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1738854056_3562088460064651800_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1739952932_3571306503013567363_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1739952932_3571306503013567363_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1750843265_3662661234343933571_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1750843265_3662661234343933571_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1761151830_3749135746637253373_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1761151830_3749135746637253373_8406573019.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1774687423_3862674515109147025_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1774687423_3862674515109147025_8406573019.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1777297526_3884574946735213084_8406573019.jpg)<br><!-- image:../../assets/designers/joanna_plucknett/instagram/joanna_plucknett_1777297526_3884574946735213084_8406573019.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Joanna Plucknett is a UK-based floral pattern artist and illustrator working from a studio in Hampshire. She creates hand-painted watercolor botanical designs for licensing, with confirmed placements across fabric, home décor, and packaging. Both ready-to-license designs and custom commissions are available.
+
 ## Style and Aesthetic
+
+Organic, hand-painted watercolor florals characterised by layered botanical detail and a naturalistic palette. Selected patterns suggest richly composed garden florals — multi-element watercolor arrangements with a cottage-garden sensibility. Work described as capturing the "vibrant colours, endless variety, and surprising complexity" of flowers. Distinctly original and handmade in character.
 
 ## Techniques and Tools
 
+Watercolor as primary medium. Describes the medium as preferred for its "light and irregular flow." Offers both ready-to-license artwork and custom pattern development for brands and businesses.
+
 ## Markets and Clients
+
+Fabric, gifting, stationery, home décor, and product packaging. Confirmed licensing clients include Felicity Fabrics (Cottage Garden Collection, Fresh Morning Medley), Jardin de Clémence (Aurelia print), Clothworks (Stephanie), Cloud9 Fabrics (Heath and Hedgerow), and Sophie Brand (Sefora print). Custom and bespoke commissions available.
 
 ## Portfolio and Presence
 
+- Website: joannaplucknett.com
+- Instagram: @Joanna_Plucknett (771 followers, 477 posts)
+
 ## Career Path
+
+Non-linear path — worked as a merchant navy officer before transitioning to floral art and pattern design. Now building a professional licensing and commission practice from a Hampshire studio. All work is original and hand-painted.
 
 ## Pattern Focus
 
+Selected images suggest hand-painted watercolor florals across a range of scales and compositions — from dense all-over botanical arrangements to lighter, airier designs. Confirmed fabric placements (Felicity Fabrics, Cloud9 Fabrics, Clothworks) indicate active positioning in the textile licensing market.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Watercolor]]
+- [[Home Décor]] market
+- [[Stationery]] market
+- [[Felicity Fabrics]] — licensing client
+- [[Cloud9 Fabrics]] — licensing client
+- [[Clothworks]] — licensing client

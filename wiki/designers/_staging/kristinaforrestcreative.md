@@ -22,7 +22,7 @@ bio: ''
 website: 'https://kristinaforrest.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/kristinaforrestcreative
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Kristina Forrest Creative - Artist and Surface Pattern Designer
 website_meta_description: >-
   Kristina Forrest is an Australian surface pattern designer and artist
@@ -276,7 +279,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -293,45 +296,212 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/514587761_18277065946286001_6265939896013498677_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFXgR7473kaijAPJ2tlKbFcLmz9KrPMlpPEW6nLN8q-MJLaJ55Sb3s69X8Zqzcp5fU&_nc_ohc=xM0rLhoKPFEQ7kNvwEk-jhm&_nc_gid=0X3rNvTYszJOJMT1pSqhRg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4oFgnx-PdW1tUTAEoP0NzNYreCMBkXxW-MKWgdc_nBdg&oe=6A13EC02&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/514587761_18277065946286001_6265939896013498677_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFXgR7473kaijAPJ2tlKbFcLmz9KrPMlpPEW6nLN8q-MJLaJ55Sb3s69X8Zqzcp5fU&_nc_ohc=xM0rLhoKPFEQ7kNvwEk-jhm&_nc_gid=0X3rNvTYszJOJMT1pSqhRg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4oFgnx-PdW1tUTAEoP0NzNYreCMBkXxW-MKWgdc_nBdg&oe=6A13EC02&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/kristinaforrestcreative/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8088
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/kristinaforrestcreative/profile/514587761_18277065946286001_6265939896013498677_n.jpg
+instagram_profile_image_bytes: 136254
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/kristinaforrestcreative/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/kristinaforrestcreative/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/kristinaforrestcreative/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/kristinaforrestcreative/profile/514587761_18277065946286001_6265939896013498677_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/kristinaforrestcreative/profile/514587761_18277065946286001_6265939896013498677_n.jpg
+profile_image_local: >-
+  ../../assets/designers/kristinaforrestcreative/profile/514587761_18277065946286001_6265939896013498677_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/kristinaforrestcreative/profile/514587761_18277065946286001_6265939896013498677_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599481565633_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599490060626_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599632651031_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749232108024_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749282403051_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749391435807_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661455765_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661544613_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446904796859_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545599669105_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545616312935_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545725304784_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545733755151_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545767255240_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1733736075_3519155723336334518_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420232396755_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420282852867_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420299563506_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420299669195_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420316511056_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585445019045_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585445144141_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585579316525_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746525649_3626442413468932447_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690240591816865_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242117345193_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242978008560_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690243937831138_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690244986664785_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1752278548_3674701265474795233_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1753952311_3688741804020057287_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737329284429_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737337645172_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737664840001_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1769897117_3822494375130397902_8620294000.jpg
+instagram_image_count: 35
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599481565633_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661455765_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690240591816865_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242117345193_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242978008560_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690243937831138_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690244986664785_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737329284429_8620294000.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1733736075_3519155723336334518_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585579316525_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746525649_3626442413468932447_8620294000.jpg
+  - >-
+    ../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1752278548_3674701265474795233_8620294000.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # kristinaforrestcreative
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kristinaforrestcreative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/kristinaforrestcreative/profile/514587761_18277065946286001_6265939896013498677_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599481565633_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599481565633_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599490060626_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599490060626_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599632651031_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1723026655_3429318599632651031_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749232108024_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749232108024_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749282403051_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749282403051_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749391435807_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1728506247_3475284749391435807_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661455765_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661455765_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661544613_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446661544613_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446904796859_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732703570_3510494446904796859_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545599669105_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545599669105_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545616312935_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545616312935_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545725304784_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545725304784_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545733755151_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545733755151_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545767255240_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1732879654_3511971545767255240_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1733736075_3519155723336334518_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1733736075_3519155723336334518_8620294000.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420232396755_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420232396755_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420282852867_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420282852867_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420299563506_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420299563506_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420299669195_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420299669195_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420316511056_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1734736443_3527547420316511056_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585445019045_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585445019045_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585445144141_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585445144141_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585579316525_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746316930_3624691585579316525_8620294000.jpg --> | [ ] | [x] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746525649_3626442413468932447_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1746525649_3626442413468932447_8620294000.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690240591816865_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690240591816865_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242117345193_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242117345193_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242978008560_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690242978008560_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690243937831138_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690243937831138_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690244986664785_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1747389659_3633690244986664785_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1752278548_3674701265474795233_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1752278548_3674701265474795233_8620294000.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1753952311_3688741804020057287_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1753952311_3688741804020057287_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737329284429_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737329284429_8620294000.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737337645172_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737337645172_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737664840001_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1756379166_3709099737664840001_8620294000.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1769897117_3822494375130397902_8620294000.jpg)<br><!-- image:../../assets/designers/kristinaforrestcreative/instagram/kristinaforrestcreative_1769897117_3822494375130397902_8620294000.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kristina Forrest is an Australian artist and surface pattern designer based in Nundah, Brisbane. She specialises in bold, playful pattern designs for Australian and international brands, operating a multi-faceted practice covering original acrylic paintings, fine art prints, tea towels, greeting cards, a licensed pattern library, and surface pattern design education. With over 7,000 Instagram followers, she is among the more established independent Australian SPD practitioners.
+
 ## Style and Aesthetic
+
+Selected Instagram images confirm a high-energy, maximalist aesthetic — bold colour, confident motif work, and a signature "dopamine décor" visual language. Patterns are characterised by vivid palettes, flat graphic clarity, and an upbeat, modern approach. Florals (protea), abstract shapes, and playful objects are recurring motifs. The work is positioned as joyful and colour-forward.
 
 ## Techniques and Tools
 
+Works in acrylic paint on canvas for original art, with pattern designs produced for licensing and physical product application. Product range spans fine art prints (A4/A5, from A$25), tea towels, greeting cards, notebooks, and original canvases (up to A$1,350). Selected placement images suggest products displayed in domestic and retail settings.
+
 ## Markets and Clients
+
+Targets Australian and international brands seeking bold, playful surface pattern designs. Product line spans independently sold art, licensed patterns, and physical goods. Operates a Fabric Design education programme with an active waitlist. Pattern library available for licensing directly from website.
 
 ## Portfolio and Presence
 
+- Website: https://kristinaforrest.com
+- Instagram: @kristinaforrestcreative (7,283 followers)
+
 ## Career Path
+
+Forrest has built an independent practice in Brisbane combining original art sales, product development, pattern licensing, and design education. Her multi-channel approach — direct art sales, pattern licensing, and educational content — reflects a mature independent business model within the Australian SPD community.
 
 ## Pattern Focus
 
+Eight pattern images selected from Instagram, confirming active pattern production across bold floral and abstract directions. Work is documented suitable for home and lifestyle product applications. Pattern library on website represents a growing licensing catalogue.
+
 ## Connections
+
+- [[Australia]]
+- [[Surface Pattern Design]]
+- [[Art Licensing]]
+- [[Pattern Education]]
+- [[Home and Lifestyle]]
+- [[Brisbane]]

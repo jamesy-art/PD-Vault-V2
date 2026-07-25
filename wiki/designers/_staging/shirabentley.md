@@ -19,12 +19,12 @@ skills:
 country: Australia
 can_use: 'Yes'
 instagram_handle: shirabentley
-instagram: 'https://instagram.com/@shirabentley'
+instagram: 'https://instagram.com/shirabentley'
 bio: ''
 website: 'https://shirabentley.com/illustration'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/shirabentley
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Illustration | Discover Unique Illustrations - View Portfolio — Shira Bentley
 website_meta_description: >-
   Explore Shira Bentley’s illustration portfolio, showcasing unique artworks
@@ -267,7 +270,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -284,45 +287,205 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/404056658_1156506688658981_8881414963253819779_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTcuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1fGUaCNG89o_MJJ0br8cAI0dMOZXmpODo4qCULrZtK0vKP68QaiZ2cvRbIgcSmK0&_nc_ohc=7K6eRfqrgKcQ7kNvwFgn4aU&_nc_gid=Dv3QnPbValDXqggGEIsVmQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5R46d0gdVdgYrbKTAG45C4E5KnWoxpJ1g_t8zB7hNc3Q&oe=6A13E2DC&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/404056658_1156506688658981_8881414963253819779_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTcuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1fGUaCNG89o_MJJ0br8cAI0dMOZXmpODo4qCULrZtK0vKP68QaiZ2cvRbIgcSmK0&_nc_ohc=7K6eRfqrgKcQ7kNvwFgn4aU&_nc_gid=Dv3QnPbValDXqggGEIsVmQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5R46d0gdVdgYrbKTAG45C4E5KnWoxpJ1g_t8zB7hNc3Q&oe=6A13E2DC&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/shirabentley/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3469
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/shirabentley/profile/404056658_1156506688658981_8881414963253819779_n.jpg
+instagram_profile_image_bytes: 127356
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/shirabentley/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/shirabentley/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/shirabentley/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/shirabentley/profile/404056658_1156506688658981_8881414963253819779_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/shirabentley/profile/404056658_1156506688658981_8881414963253819779_n.jpg
+profile_image_local: >-
+  ../../assets/designers/shirabentley/profile/404056658_1156506688658981_8881414963253819779_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/shirabentley/profile/404056658_1156506688658981_8881414963253819779_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941175883118_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941176027287_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941310232143_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709015482839_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709023890742_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230676591803_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230684843058_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398834527_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398931042_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767532953282_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854443670788_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854451946140_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175486394067_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175520033920_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175604030602_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175612403219_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175662709211_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175847136799_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315521689_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315537952_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315561919_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599600792321_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366356272_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366508973_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498207833012_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498216221906_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498367315580_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089054691264_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089063074166_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089071417291_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636215957215_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636350217846_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636358635614_1447609460.jpg
+instagram_image_count: 33
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709023890742_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230684843058_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398834527_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854451946140_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175662709211_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599600792321_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089063074166_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636358635614_1447609460.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941176027287_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175612403219_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366356272_1447609460.jpg
+  - >-
+    ../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498207833012_1447609460.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # shirabentley
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/shirabentley/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/shirabentley/profile/404056658_1156506688658981_8881414963253819779_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941175883118_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941175883118_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941176027287_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941176027287_1447609460.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941310232143_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1707441989_3298584941310232143_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709015482839_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709015482839_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709023890742_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1708648121_3308702709023890742_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230676591803_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230676591803_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230684843058_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1709175565_3313127230684843058_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398834527_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398834527_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398931042_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767398931042_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767532953282_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1709335369_3314467767532953282_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854443670788_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854443670788_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854451946140_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1715045862_3362370854451946140_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175486394067_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175486394067_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175520033920_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175520033920_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175604030602_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175604030602_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175612403219_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175612403219_1447609460.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175662709211_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175662709211_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175847136799_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1720570893_3408718175847136799_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315521689_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315521689_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315537952_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315537952_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315561919_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599315561919_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599600792321_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1721784494_3418898599600792321_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366356272_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366356272_1447609460.jpg --> | [ ] | [x] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366508973_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1730261803_3490011418366508973_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498207833012_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498207833012_1447609460.jpg --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498216221906_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498216221906_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498367315580_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1745276103_3615960498367315580_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089054691264_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089054691264_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089063074166_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089063074166_1447609460.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089071417291_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1746775111_3628535089071417291_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636215957215_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636215957215_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636350217846_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636350217846_1447609460.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636358635614_1447609460.jpg)<br><!-- image:../../assets/designers/shirabentley/instagram/shirabentley_1747019556_3630585636358635614_1447609460.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Shira Bentley is a Sydney-based illustrator and graphic designer with over a decade of professional experience creating vibrant visual stories for major brands and institutions. Documented clients include Google, Greenpeace, Pfizer, Transport for London, the Australian Government, The London Journal, and National Science Week. Pattern and print work is one strand of a broader illustration and branding practice.
+
 ## Style and Aesthetic
+
+The stated visual signature is "colour, humour and snippets of daily life." Selected Instagram pattern images — 8 chosen from 33 reviewed — suggest a vibrant, character-rich illustrative style with fine art foundations. Selected placements indicate editorial and product design applications alongside the pattern work. The overall aesthetic is commercially confident and internationally deployable.
 
 ## Techniques and Tools
 
+Combines fine art with digital art skills. Began career as a print artist exhibiting and publishing nationally. Now works digitally for commercial briefs. Over 10 years of professional experience producing illustrations for advertising, government, publishing, and events clients.
+
 ## Markets and Clients
+
+Advertising and campaign illustration (Google, Greenpeace, Pfizer), government communication (Australian Government), transport (Transport for London, Transport for NSW), publishing (The London Journal), events (National Science Week), and product design (custom puzzles, Micronovo). Open for illustration commissions and brand collaboration.
 
 ## Portfolio and Presence
 
+- Website: https://shirabentley.com/illustration
+- Instagram: https://instagram.com/shirabentley (6,467 followers — established profile)
+- Email: info@shirabentley.com
+
 ## Career Path
+
+Began as a print artist exhibiting and publishing nationally. Transitioned into illustration through a love of collaborative storytelling. Over a decade of professional practice working with national and international clients across advertising, government, publishing, and events. Based in Sydney.
 
 ## Pattern Focus
 
+Selected Instagram patterns suggest vibrant, character-led and decorative surface designs drawn from a broader commercial illustrative practice. Pattern work sits alongside advertising, editorial, and product illustration. Selected placement images indicate product mockup contexts where the illustrative style is applied to commercial surfaces.
+
 ## Connections
+
+- [[Australia]]
+- [[Advertising illustration]]
+- [[Editorial illustration]]
+- [[Illustration]]

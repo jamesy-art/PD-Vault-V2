@@ -19,7 +19,7 @@ bio: ''
 website: 'https://carmenplaza.mx'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/carmenplaza.mx
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Carmen Plaza Estudio
 website_meta_description: 'Estudio de diseño textil, Guía de proveedores de moda'
 website_about_raw: >-
@@ -252,7 +255,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -269,45 +272,198 @@ instagram_profile_pic_url: >-
   https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/330091335_675643774246369_7523694611932525466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFyTvr9mndIIsE4U8BHi8VXuhX2AqEYqWBbCWjgxq4hQY0sK7W4sQ1lJR-eytWZ8j0&_nc_ohc=TshLLrz96DkQ7kNvwHrePKj&_nc_gid=_xZf6aYhCV4zxv0xTvXVSQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5MsPqkOPiPo6l4Op3MbfaUaKuGPi2p_iu3G4YhNYfvtg&oe=6A13E0B1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/330091335_675643774246369_7523694611932525466_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFyTvr9mndIIsE4U8BHi8VXuhX2AqEYqWBbCWjgxq4hQY0sK7W4sQ1lJR-eytWZ8j0&_nc_ohc=TshLLrz96DkQ7kNvwHrePKj&_nc_gid=_xZf6aYhCV4zxv0xTvXVSQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5MsPqkOPiPo6l4Op3MbfaUaKuGPi2p_iu3G4YhNYfvtg&oe=6A13E0B1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/carmenplaza.mx/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4955
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/carmenplaza.mx/profile/330091335_675643774246369_7523694611932525466_n.jpg
+instagram_profile_image_bytes: 112708
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/carmenplaza.mx/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/carmenplaza.mx/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/carmenplaza.mx/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/carmenplaza.mx/profile/330091335_675643774246369_7523694611932525466_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/carmenplaza.mx/profile/330091335_675643774246369_7523694611932525466_n.jpg
+profile_image_local: >-
+  ../../assets/designers/carmenplaza.mx/profile/330091335_675643774246369_7523694611932525466_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/carmenplaza.mx/profile/330091335_675643774246369_7523694611932525466_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614615790460_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614674631554_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721015900456_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024277617_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024288570_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721108296667_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721217102391_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721301133661_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872112595682_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120856728_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120943823_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120998042_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756501200_3710123814051825983_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1758747600_3728967702074744557_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1760389200_3742738835978714249_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471508368549_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516724360_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516731726_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576618165_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576664078_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576669069_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477585035057_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860071597912_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860079952574_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959224860838_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959266819709_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317479565877_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317487941147_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317487987754_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317496331895_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772496000_3845022515874309600_2053164178.jpg
+instagram_image_count: 31
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614615790460_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872112595682_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1758747600_3728967702074744557_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1760389200_3742738835978714249_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516724360_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860079952574_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959224860838_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772496000_3845022515874309600_2053164178.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024288570_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756501200_3710123814051825983_2053164178.jpg
+  - >-
+    ../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317496331895_2053164178.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # carmenplaza.mx
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/carmenplaza.mx/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/carmenplaza.mx/profile/330091335_675643774246369_7523694611932525466_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614615790460_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614615790460_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614674631554_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1749682800_3647687614674631554_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721015900456_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721015900456_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024277617_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024277617_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024288570_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721024288570_2053164178.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721108296667_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721108296667_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721217102391_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721217102391_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721301133661_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1750731028_3661719721301133661_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872112595682_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872112595682_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120856728_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120856728_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120943823_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120943823_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120998042_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756328400_3703508872120998042_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756501200_3710123814051825983_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1756501200_3710123814051825983_2053164178.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1758747600_3728967702074744557_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1758747600_3728967702074744557_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1760389200_3742738835978714249_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1760389200_3742738835978714249_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471508368549_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471508368549_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516724360_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516724360_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516731726_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1764374400_3776018471516731726_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576618165_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576618165_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576664078_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576664078_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576669069_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477576669069_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477585035057_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1768608000_3810805477585035057_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860071597912_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860071597912_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860079952574_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1769472000_3816552860079952574_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959224860838_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959224860838_2053164178.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959266819709_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1771632000_3835433959266819709_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317479565877_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317479565877_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317487941147_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317487941147_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317487987754_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317487987754_2053164178.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317496331895_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772064000_3835433317496331895_2053164178.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772496000_3845022515874309600_2053164178.jpg)<br><!-- image:../../assets/designers/carmenplaza.mx/instagram/carmenplaza.mx_1772496000_3845022515874309600_2053164178.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Carmen Plaza Estudio is a Mexico-based textile design studio founded in 2023 by Carmen Plaza, described as the first studio in Mexico specialising in textile and surface design. Operating from Guadalajara, the studio serves Latin American fashion and lifestyle brands with custom print design, wallpaper collections, and brand illustration. It also publishes a curated guide to Mexican fashion suppliers.
+
 ## Style and Aesthetic
+
+The studio frames its work as "tropicalising global trends for Latin American brands," applying a narrative-driven approach to each design brief. Selected Instagram patterns suggest tropical and illustrative print work adapted for brand identity contexts. Their aesthetic philosophy centres on storytelling and emotional resonance — treating each print as brand communication rather than decorative surface.
 
 ## Techniques and Tools
 
+Services span custom print design (one-to-one commissioned work), brand illustration (editorial-style and iconographic), wallpaper design, and verbal/visual identity development including production guidelines for cross-touchpoint consistency. Carmen holds formal training in fashion design (CIIND, Guadalajara) and a Master's in textile and surface design (IED Madrid).
+
 ## Markets and Clients
+
+Documented clients include Benito Santos México, SGxEleazar, Agustina Saquer, Guacarí, Muun Sleepwear, and BMW jürgen motors — 50+ Latin American brands documented over 7 years. Work has appeared in Vogue, L'Officiel, Grazia, and Cosmopolitan. Operates in fashion, interiors/wallpaper, and brand identity markets. Open to freelance commissions.
 
 ## Portfolio and Presence
 
+- Website: carmenplaza.mx
+- Instagram: @carmenplaza.mx (14,346 followers, 607 posts)
+- Email: carmen.plaza.montelongo@gmail.com
+
 ## Career Path
+
+Studied fashion design at CIIND in Guadalajara, then completed a Master's in textile and surface design at IED Madrid. Following her studies, she spent five months living between India and Nepal before returning to Mexico to work with Benito Santos as an accessories designer. After several years of freelance work, she founded Carmen Plaza Estudio in 2023.
 
 ## Pattern Focus
 
+Selected patterns (8 images) suggest tropical and illustrative compositions adapted for luxury fashion and lifestyle brands. Selected placements (3 images) indicate fashion garment contexts. The studio's approach treats pattern as brand storytelling infrastructure — distinct from decorative or catalogue-based print work.
+
 ## Connections
+
+- [[Benito Santos]]
+- [[Fashion]]
+- [[Latin America]]
+- [[Wallpaper]]
+- [[IED Madrid]]

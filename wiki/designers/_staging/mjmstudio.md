@@ -27,7 +27,7 @@ bio: ''
 website: 'https://JacquelineMaldonado.com'
 website_about: ''
 accepted: 26/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mjmstudio
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Jacqueline Maldonado surface pattern designer watercolor artist
 website_meta_description: >-
   Surface pattern designer portfolio website, art licensing, custom pattern
@@ -278,7 +281,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   ABOUT ME
 
@@ -361,45 +364,243 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/171075055_1460810837590942_5557396943405828911_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZ2y7N9S4qGsdr9WCfadw4v-yEPbDMBQTvsGUEMb8136UzsdzBmX9RBcYStXJQTrQ&_nc_ohc=1CoYfmrwMY0Q7kNvwERH4HY&_nc_gid=WigM2vNhSloX0Bkhtzc2-g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7U9O-18szEUssir6Q8cSQcREVCiaoqBjGhTnBIBXuXcw&oe=6A13DE6B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/171075055_1460810837590942_5557396943405828911_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGZ2y7N9S4qGsdr9WCfadw4v-yEPbDMBQTvsGUEMb8136UzsdzBmX9RBcYStXJQTrQ&_nc_ohc=1CoYfmrwMY0Q7kNvwERH4HY&_nc_gid=WigM2vNhSloX0Bkhtzc2-g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7U9O-18szEUssir6Q8cSQcREVCiaoqBjGhTnBIBXuXcw&oe=6A13DE6B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mjmstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4998
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mjmstudio/profile/171075055_1460810837590942_5557396943405828911_n.jpg
+instagram_profile_image_bytes: 135871
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mjmstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mjmstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mjmstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mjmstudio/profile/171075055_1460810837590942_5557396943405828911_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mjmstudio/profile/171075055_1460810837590942_5557396943405828911_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mjmstudio/profile/171075055_1460810837590942_5557396943405828911_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mjmstudio/profile/171075055_1460810837590942_5557396943405828911_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1680005449_3068430563203938892_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270109186306_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270201567740_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270293743839_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1698944367_3227301725979351487_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535498528051_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535506864322_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535666248731_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1699725174_3233851608383295836_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1701121203_3245562348718454907_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1701369947_3247648963443907101_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1701369947_3247648963628427238_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1701808014_3251323735683908219_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1703074249_3261945684806438185_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1705948786_3286059048012452512_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1705948786_3286059048012584285_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650116995876_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650117017351_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650125359484_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650251283512_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1710787966_3326653031226548708_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1711200771_3330115891076703884_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1711200771_3330115891185786938_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1711561399_3333141061957491107_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395749012602_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395757564058_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395883298698_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395891629617_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395916935034_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395925268167_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1715189726_3363577677251531605_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1715189727_3363577677343655620_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303625857500_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303810532462_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303810571477_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689304850628697_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1726584378_3459162942346229993_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895385003832_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895494089493_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895494132697_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1761847210_3754969020224319031_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585591412725_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585650138471_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585666937078_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585700480391_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585742382514_351694005.jpg
+instagram_image_count: 46
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270109186306_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270201567740_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535498528051_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1699725174_3233851608383295836_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1701121203_3245562348718454907_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1701808014_3251323735683908219_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1703074249_3261945684806438185_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650116995876_351694005.jpg
+  - >-
+    ../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650125359484_351694005.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 9
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # mjmstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mjmstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mjmstudio/profile/171075055_1460810837590942_5557396943405828911_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1680005449_3068430563203938892_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1680005449_3068430563203938892_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270109186306_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270109186306_351694005.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270201567740_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270201567740_351694005.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270293743839_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1698627693_3224645270293743839_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1698944367_3227301725979351487_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1698944367_3227301725979351487_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535498528051_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535498528051_351694005.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535506864322_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535506864322_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535666248731_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1699299469_3230280535666248731_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1699725174_3233851608383295836_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1699725174_3233851608383295836_351694005.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1701121203_3245562348718454907_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1701121203_3245562348718454907_351694005.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1701369947_3247648963443907101_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1701369947_3247648963443907101_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1701369947_3247648963628427238_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1701369947_3247648963628427238_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1701808014_3251323735683908219_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1701808014_3251323735683908219_351694005.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1703074249_3261945684806438185_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1703074249_3261945684806438185_351694005.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1705948786_3286059048012452512_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1705948786_3286059048012452512_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1705948786_3286059048012584285_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1705948786_3286059048012584285_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650116995876_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650116995876_351694005.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650117017351_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650117017351_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650125359484_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650125359484_351694005.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650251283512_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1707936792_3302735650251283512_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1710787966_3326653031226548708_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1710787966_3326653031226548708_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1711200771_3330115891076703884_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1711200771_3330115891076703884_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1711200771_3330115891185786938_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1711200771_3330115891185786938_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1711561399_3333141061957491107_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1711561399_3333141061957491107_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395749012602_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395749012602_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395757564058_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395757564058_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395883298698_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395883298698_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395891629617_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395891629617_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395916935034_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395916935034_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395925268167_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1712410567_3340264395925268167_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1715189726_3363577677251531605_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1715189726_3363577677251531605_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1715189727_3363577677343655620_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1715189727_3363577677343655620_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303625857500_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303625857500_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303810532462_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303810532462_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303810571477_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689303810571477_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689304850628697_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1726170288_3455689304850628697_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1726584378_3459162942346229993_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1726584378_3459162942346229993_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895385003832_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895385003832_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895494089493_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895494089493_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895494132697_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1727379498_3465832895494132697_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1761847210_3754969020224319031_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1761847210_3754969020224319031_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585591412725_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585591412725_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585650138471_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585650138471_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585666937078_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585666937078_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585700480391_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585700480391_351694005.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585742382514_351694005.jpg)<br><!-- image:../../assets/designers/mjmstudio/instagram/mjmstudio_1762446305_3759994585742382514_351694005.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jacqueline Maldonado is a New York-born surface pattern designer and watercolor artist, based on Long Island, working as MJM Studio since 2012. She works primarily in watercolor, producing both licensable surface pattern designs and original fine art. Her licensed work appears on home décor products carried by Anthropologie, Urban Outfitters, Bloomingdales, Target, Kohl's, Bed Bath & Beyond, Macy's, and many others. In 2023, her print "Beta" was selected for the Starbucks Spring campaign by The Integer Group, used across online advertising, print, and point-of-purchase displays worldwide.
+
 ## Style and Aesthetic
+
+Maldonado's pattern work is rooted in watercolor — gestural, luminous with colour, and emotionally expressive. Her abstracts communicate movement and feeling through colour relationships drawn from music, memory, nature, and longing. Named portfolio prints include Garden Divination, Energy Blue, Wonderland, Lush Forest, Biome, and Organic Dashes — a range spanning botanical to abstract. Selected Instagram images (9 patterns) suggest a saturated, painterly visual language suited to home décor and lifestyle products.
 
 ## Techniques and Tools
 
+Watercolor is the primary medium across both fine art and surface pattern output. She works in a variety of media and explores multiple styles, with watercolor as her best-known discipline. Print files are prepared for home décor production and retail licensing.
+
 ## Markets and Clients
+
+Home décor retail licensing — documented placement with Anthropologie, Urban Outfitters, Bloomingdales, Target, Kohl's, Bed Bath & Beyond, Macy's, Amazon, Joss & Main, One King's Lane, PacSun, Zulily, and Wayfair. Campaign: Starbucks Spring 2023 (The Integer Group). Collaboration: JM x TJX (reusable bags, gift wrap, tableware). Charity: Popsockets x Days For Girls, Int'l. Commissions and art licensing available.
 
 ## Portfolio and Presence
 
+- Website: JacquelineMaldonado.com
+- Instagram: @mjmstudio (4,035 followers)
+- Publications: *Print and Pattern: Nature* (Bowie Style); *The Watercolor Ideas Book* (Joanna Goss)
+- Media: HGTV's Flipping The Block; HGTV magazine; InStyle magazine; Good Housekeeping; Better Homes and Gardens
+- Featured: Design Milk (Jaime Derringer); Jungalo (Justina Blakeney)
+- Solo show: "The Audacity of Self-Love," Westhampton Beach Performing Arts Center, 2022
+
 ## Career Path
+
+New York native; spent her early adult career in various facets of the fashion industry while pursuing higher education in visual art. Committed to art full-time in 2012. Best known for watercolor; surface pattern design has run alongside fine art practice throughout the studio's history.
 
 ## Pattern Focus
 
+Selected Instagram images (9 patterns, 0 placements) suggest watercolor-based surface patterns — botanical and abstract compositions with luminous, expressive colour. Named prints — Garden Divination, Energy Blue, Wonderland, Lush Forest, Biome, Organic Dashes — indicate a catalogue suited to home décor and lifestyle product applications.
+
 ## Connections
+
+- [[raw/companies/anthropologie]] — retail placement (home décor)
+- [[Target]] — retail placement
+- [[Starbucks]] — Spring 2023 campaign
+- [[The Integer Group]] — campaign client
+- [[HGTV]] — media feature
+- [[Print and Pattern]] — book publication context

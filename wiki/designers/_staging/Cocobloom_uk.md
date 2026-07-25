@@ -25,7 +25,7 @@ bio: ''
 website: 'https://cocobloom.co.uk'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/cocobloom_uk
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: The 'Handcrafted' Textile Print Collection
 website_meta_description: >-
   A London based Textile Print House. CocoBloom's ethos encompasses a blend of
@@ -295,7 +298,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -317,45 +320,106 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/145511362_1815983811887450_2867072596040394851_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzEuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGIKIc1cEQDKVjLkbDXqhNI5SnzLGYK0q5Ms1eYusSkEhX-QxDeQCAbAMPdKoHrVJA&_nc_ohc=dXVBbPZjcb4Q7kNvwEKs-ZY&_nc_gid=WfarpEX26QV0BNx4NaeQdg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6n0ZNV4TsjY6GOU9jp_loY68DJZaVcwMDbVlIa0_r8WQ&oe=6A13EDA5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/145511362_1815983811887450_2867072596040394851_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzEuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGIKIc1cEQDKVjLkbDXqhNI5SnzLGYK0q5Ms1eYusSkEhX-QxDeQCAbAMPdKoHrVJA&_nc_ohc=dXVBbPZjcb4Q7kNvwEKs-ZY&_nc_gid=WfarpEX26QV0BNx4NaeQdg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6n0ZNV4TsjY6GOU9jp_loY68DJZaVcwMDbVlIa0_r8WQ&oe=6A13EDA5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/cocobloom_uk/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3192
+instagram_profile_image_local: >-
+  ../../assets/designers/Cocobloom_uk/profile/145511362_1815983811887450_2867072596040394851_n.jpg
+instagram_profile_image_bytes: 19936
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/cocobloom_uk/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/cocobloom_uk/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/cocobloom_uk/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/Cocobloom_uk/profile/145511362_1815983811887450_2867072596040394851_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/Cocobloom_uk/profile/145511362_1815983811887450_2867072596040394851_n.jpg
+profile_image_local: >-
+  ../../assets/designers/Cocobloom_uk/profile/145511362_1815983811887450_2867072596040394851_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/Cocobloom_uk/profile/145511362_1815983811887450_2867072596040394851_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_27_618569657_1343340540879380_2672480078973941588_n.jpeg
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_28_625038331_1405435463841660_8228218071572201669_n.jpeg
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_43_644306327_1244439067637156_7901956866817237414_n.jpeg
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_45_619272087_2103253810435308_2173891263808396143_n.jpeg
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_27_618569657_1343340540879380_2672480078973941588_n.jpeg
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_28_625038331_1405435463841660_8228218071572201669_n.jpeg
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_43_644306327_1244439067637156_7901956866817237414_n.jpeg
+  - >-
+    ../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_45_619272087_2103253810435308_2173891263808396143_n.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
-# cocobloom_uk
+# Cocobloom_uk
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/cocobloom_uk/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/Cocobloom_uk/profile/145511362_1815983811887450_2867072596040394851_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_27_618569657_1343340540879380_2672480078973941588_n.jpeg)<br><!-- image:../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_27_618569657_1343340540879380_2672480078973941588_n.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_28_625038331_1405435463841660_8228218071572201669_n.jpeg)<br><!-- image:../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_28_625038331_1405435463841660_8228218071572201669_n.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_43_644306327_1244439067637156_7901956866817237414_n.jpeg)<br><!-- image:../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_43_644306327_1244439067637156_7901956866817237414_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_45_619272087_2103253810435308_2173891263808396143_n.jpeg)<br><!-- image:../../assets/designers/Cocobloom_uk/instagram/Cocobloom_uk_imageye___-_imgi_45_619272087_2103253810435308_2173891263808396143_n.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+CocoBloom is a London-based textile print house with thirty years of industry experience, led by designer Lisa Berridge. The studio produces original hand-crafted print collections for high-end fashion and interiors, supplying UK brands including ME+EM, [[The White Company]], [[Jigsaw]], [[Hobbs]], [[Jaeger]], [[John Lewis]], Trent, and Sun & Star. Collections are released seasonally and supplied direct to trade clients.
+
 ## Style and Aesthetic
+
+CocoBloom's signature is hand-painted, botanically inspired print with a strong vintage archive influence. Botanical gardens and life drawing are primary creative references; recent collections combine bold colour with scientific draughtsmanship, taking botanical art to a contemporary commercial level. Selected Instagram pattern images suggest richly layered, painterly compositions with a confident use of colour — positioned at the elevated end of the UK womenswear and interiors print market.
 
 ## Techniques and Tools
 
+Hand screen printing, devore, mixed-media hand printing. Collections begin as hand-drawn sketches through to finished paintings; silkscreens prepared and hand-printed with inks using squeegee technique. The studio does its own devores and mixes techniques to create one-off pieces. Analogue method is complemented by digital mastery for production delivery.
+
 ## Markets and Clients
+
+High-end UK womenswear and interiors. Documented clients: ME+EM (Head of Design: Tracey Stainer), [[The White Company]] (Charlotte Madden-Abraham), [[Jigsaw]] (in-house designer, multiple years), [[Hobbs]] (Stephanie Teigh), [[Jaeger]] (Rebecca French), [[John Lewis]] (Peter Ruis, CEO), Trent (Shailina Parti), Sun & Star (Louisa Randall). New collections previewed each season.
 
 ## Portfolio and Presence
 
+- Website: cocobloom.co.uk
+- Instagram: @Cocobloom_uk
+
 ## Career Path
+
+Lisa Berridge developed her practice at Spike Print Studio, Bristol, following a background in Graphic Design in publishing. CocoBloom was established as an independent print studio supplying seasonal print collections to UK trade clients. Thirty years of continuous practice with sustained relationships across premium fashion retail.
 
 ## Pattern Focus
 
+Botanicals, large-scale painterly florals, vintage-inspired motifs. Hand-painted quality is the central commercial proposition; the studio's vintage archive is consistently cited by clients as a differentiating source of creative reference. All-over compositions with an artisan surface quality targeted at fashion and interiors buyers.
+
 ## Connections
+
+- [[ME+EM]]
+- [[The White Company]]
+- [[Jigsaw]]
+- [[John Lewis]]
+- [[Hobbs]]
+- [[Jaeger]]
+- [[Botanical Pattern]]
+- [[Flower Pattern]]
+- [[UK womenswear market]]

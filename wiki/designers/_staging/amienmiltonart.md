@@ -22,7 +22,7 @@ bio: ''
 website: 'https://spoonflower.com/profiles/unikbuti_by_amie'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/amienmiltonart
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'unikbuti_by_amie''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: >-
   Designs by unikbuti_by_amie for sale on Spoonflower custom fabric and
@@ -226,7 +229,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -246,45 +249,180 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/466374416_927012109321782_1860091769170516477_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF6pkLHDazBc3ERQTdm8oU48tswnoWVE0DdZQ_lZYCAgZpe5VOuSnUDfE68TCz3GAM&_nc_ohc=yi-KoLTlTkkQ7kNvwFECEt7&_nc_gid=I4nVhIGbJV06hI0nS2mv0g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6N0kgFDtADupT4PlNsVQ6MxpliuILBHXd2EZkmQfwGjg&oe=6A13D426&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/466374416_927012109321782_1860091769170516477_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF6pkLHDazBc3ERQTdm8oU48tswnoWVE0DdZQ_lZYCAgZpe5VOuSnUDfE68TCz3GAM&_nc_ohc=yi-KoLTlTkkQ7kNvwFECEt7&_nc_gid=I4nVhIGbJV06hI0nS2mv0g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6N0kgFDtADupT4PlNsVQ6MxpliuILBHXd2EZkmQfwGjg&oe=6A13D426&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/amienmiltonart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3496
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/amienmiltonart/profile/466374416_927012109321782_1860091769170516477_n.jpg
+instagram_profile_image_bytes: 106405
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/amienmiltonart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/amienmiltonart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/amienmiltonart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/amienmiltonart/profile/466374416_927012109321782_1860091769170516477_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/amienmiltonart/profile/466374416_927012109321782_1860091769170516477_n.jpg
+profile_image_local: >-
+  ../../assets/designers/amienmiltonart/profile/466374416_927012109321782_1860091769170516477_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/amienmiltonart/profile/466374416_927012109321782_1860091769170516477_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623523020_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623659784_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623736776_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176632013345_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176959104302_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1704913547_3277374833500916898_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604396194753_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604412958711_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1734009387_3521448432912880642_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1745512427_3617942925652109624_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1747144862_3631636780687752671_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1748783615_3645383642263574941_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1751398885_3667322113651566088_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741526250221245_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741527139391858_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741528431239465_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359121937971_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359742699646_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193360162150272_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1773057809_3849006607808458103_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220725470614348_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220728624740193_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1775466726_3869215085034322863_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901956897637143561_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901957013500639358_2298525649.jpg
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623736776_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604396194753_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1745512427_3617942925652109624_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1747144862_3631636780687752671_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741527139391858_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359742699646_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1773057809_3849006607808458103_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220725470614348_2298525649.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1704913547_3277374833500916898_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1748783615_3645383642263574941_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1775466726_3869215085034322863_2298525649.jpg
+  - >-
+    ../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901956897637143561_2298525649.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # amienmiltonart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/amienmiltonart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/amienmiltonart/profile/466374416_927012109321782_1860091769170516477_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623523020_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623523020_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623659784_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623659784_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623736776_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176623736776_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176632013345_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176632013345_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176959104302_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1694771500_3192297176959104302_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1704913547_3277374833500916898_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1704913547_3277374833500916898_2298525649.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604396194753_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604396194753_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604412958711_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1729620479_3484631604412958711_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1734009387_3521448432912880642_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1734009387_3521448432912880642_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1745512427_3617942925652109624_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1745512427_3617942925652109624_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1747144862_3631636780687752671_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1747144862_3631636780687752671_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1748783615_3645383642263574941_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1748783615_3645383642263574941_2298525649.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1751398885_3667322113651566088_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1751398885_3667322113651566088_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741526250221245_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741526250221245_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741527139391858_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741527139391858_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741528431239465_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1770045770_3823741528431239465_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359121937971_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359121937971_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359742699646_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193359742699646_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193360162150272_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1772126252_3841193360162150272_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1773057809_3849006607808458103_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1773057809_3849006607808458103_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220725470614348_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220725470614348_2298525649.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220728624740193_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1774513702_3861220728624740193_2298525649.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1775466726_3869215085034322863_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1775466726_3869215085034322863_2298525649.jpg --> | [ ] | [x] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901956897637143561_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901956897637143561_2298525649.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901957013500639358_2298525649.jpg)<br><!-- image:../../assets/designers/amienmiltonart/instagram/amienmiltonart_1779369572_3901957013500639358_2298525649.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Germany-based artist, surface pattern designer, and illustrator with an extensive self-published pattern library on Spoonflower. Under the handle unikbuti_by_amie, Amíe N. Milton maintains a catalogue of over 1,500 fabric and 1,500 wallpaper designs available on the platform. Open to licensing and collaborations.
+
 ## Style and Aesthetic
+
+Wide-ranging aesthetic spanning vintage florals, retro botanicals, English country garden motifs, grandmillennial gingham, seasonal holiday prints, and geometric patterns. Selected Instagram patterns suggest lush, layered floral and botanical compositions. Spoonflower bestseller data points to strong commercial demand for vintage-inspired and grandmillennial florals.
 
 ## Techniques and Tools
 
+High-volume digital design practice spanning diverse motif categories and repeat structures. Open to experimenting with techniques and styles, as stated on the Spoonflower profile. Catalogue demonstrates consistent output across seasonal, floral, and lifestyle print directions.
+
 ## Markets and Clients
+
+Home decor and fabric via Spoonflower (fabric, wallpaper). Open to commercial licensing and brand collaborations. Selected placement images suggest product and furnishing applications consistent with the Spoonflower home market.
 
 ## Portfolio and Presence
 
+- Spoonflower: spoonflower.com/profiles/unikbuti_by_amie (1,591 fabric, 1,578 wallpaper designs)
+- Instagram: @amienmiltonart (413 followers, 292 posts)
+
 ## Career Path
+
+Independent artist and pattern designer working through self-publishing on Spoonflower. Prolific catalogue built over time across florals, vintage, seasonal, and novelty categories. Maintains a separate personal account (@amienmilton7). Open to external licensing and collaborations beyond the Spoonflower platform.
 
 ## Pattern Focus
 
+Florals, botanicals, vintage and retro prints, English country garden and grandmillennial aesthetics, seasonal motifs (Halloween, Christmas), dog and pet prints, geometric patterns, and block print-inspired designs. Spoonflower bestsellers include retro nouveau florals, Mediterranean hues, collage wildflowers, and pastel vintage florals.
+
 ## Connections
+
+- [[Spoonflower]] — primary distribution platform
+- [[Home Decor]] — primary market
+- [[Floral Patterns]] — dominant motif type
+- [[Licensing]] — open to commercial licensing beyond Spoonflower

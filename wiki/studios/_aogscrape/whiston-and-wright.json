@@ -1,0 +1,67 @@
+{
+  "slug": "whiston-and-wright",
+  "name": "Whiston & Wright",
+  "website": "https://whistonandwright.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/whiston-and-wright.md",
+  "scraped_at": "2026-06-05T23:25:22.812Z",
+  "status": "scraped",
+  "website_title": "WHISTON & WRIGHT LTD",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://whistonandwright.com/home.php",
+      "text": "WHISTON & WRIGHT LTD HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://whistonandwright.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff01.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_medium_image_aff01.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff02.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_small_image_aff01.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_small_image_b_aff_3_3.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff03.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_small_image_aff02.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff04.png",
+        "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_medium_image_aff02.png",
+        "https://whistonandwright.com/img/social/facebook.png",
+        "https://whistonandwright.com/img/social/instagram.png",
+        "https://whistonandwright.com/img/social/pinterest.png",
+        "https://whistonandwright.com/img/social/twitter.png",
+        "https://whistonandwright.com/img/social/facebookB.png",
+        "https://whistonandwright.com/img/social/instagramB.png",
+        "https://whistonandwright.com/img/social/pinterestB.png",
+        "https://whistonandwright.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://whistonandwright.com/about.php",
+      "text": "WHISTON & WRIGHT LTD",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://whistonandwright.com/home.php\nWHISTON & WRIGHT LTD HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://whistonandwright.com/about.php\nWHISTON & WRIGHT LTD",
+  "website_about_clean": "SOURCE: https://whistonandwright.com/home.php\nWHISTON & WRIGHT LTD HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://whistonandwright.com/about.php\nWHISTON & WRIGHT LTD",
+  "website_images": [
+    "https://whistonandwright.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff01.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_medium_image_aff01.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff02.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_small_image_aff01.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_small_image_b_aff_3_3.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff03.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_small_image_aff02.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_large_image_aff04.png",
+    "https://images.v2.thepatterncloud.com//studio_166/homePage/ww_medium_image_aff02.png",
+    "https://whistonandwright.com/img/social/facebook.png",
+    "https://whistonandwright.com/img/social/instagram.png",
+    "https://whistonandwright.com/img/social/pinterest.png",
+    "https://whistonandwright.com/img/social/twitter.png",
+    "https://whistonandwright.com/img/social/facebookB.png",
+    "https://whistonandwright.com/img/social/instagramB.png",
+    "https://whistonandwright.com/img/social/pinterestB.png",
+    "https://whistonandwright.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

@@ -23,7 +23,7 @@ bio: ''
 website: 'https://michaelzindell.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/michael_zindell_designs
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MICHAEL ZINDELL | Explore Unique Designs
 website_meta_description: >-
   Discover Michael Zindell's innovative surface pattern designs in fabrics, home
@@ -254,7 +257,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -273,45 +276,130 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/671703485_18579905857037241_4232566083190997295_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIzLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFWgx1kqpSiEUgSwrdVagZnmgR0k0QLwh_qjTGC14i8wJV3k7QXljuRsOuehA1eOZg&_nc_ohc=cP7uQK-_zYQQ7kNvwFgyQUj&_nc_gid=WSTEwU3Vq2FpxSdpNLrBew&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6YAThzyKgNiYizfczcdBlGxqukiV1qbGlK0BIgJJPR3A&oe=6A13DB51&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/671703485_18579905857037241_4232566083190997295_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIzLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFWgx1kqpSiEUgSwrdVagZnmgR0k0QLwh_qjTGC14i8wJV3k7QXljuRsOuehA1eOZg&_nc_ohc=cP7uQK-_zYQQ7kNvwFgyQUj&_nc_gid=WSTEwU3Vq2FpxSdpNLrBew&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6YAThzyKgNiYizfczcdBlGxqukiV1qbGlK0BIgJJPR3A&oe=6A13DB51&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/michael_zindell_designs/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3932
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/michael_zindell_designs/profile/671703485_18579905857037241_4232566083190997295_n.jpg
+instagram_profile_image_bytes: 121588
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/michael_zindell_designs/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/michael_zindell_designs/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/michael_zindell_designs/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/michael_zindell_designs/profile/671703485_18579905857037241_4232566083190997295_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/michael_zindell_designs/profile/671703485_18579905857037241_4232566083190997295_n.jpg
+profile_image_local: >-
+  ../../assets/designers/michael_zindell_designs/profile/671703485_18579905857037241_4232566083190997295_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/michael_zindell_designs/profile/671703485_18579905857037241_4232566083190997295_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1701963937_3252631710768146253_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1711371289_3331546304315667537_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1712786978_3343421959357575872_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1716834187_3377372409890804414_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1728136231_3472180829499669756_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736688882_3543925669228879413_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736861620_3545374694590718961_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1765931445_3789229553856959328_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1766353925_3792774079251146679_1708453240.jpg
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1701963937_3252631710768146253_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1711371289_3331546304315667537_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1716834187_3377372409890804414_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1728136231_3472180829499669756_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736688882_3543925669228879413_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736861620_3545374694590718961_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1765931445_3789229553856959328_1708453240.jpg
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1766353925_3792774079251146679_1708453240.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1712786978_3343421959357575872_1708453240.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
+# Michael Zindell
 
-# michael_zindell_designs
+US-based surface pattern designer and licensed artist specialising in whimsical illustration for novelty, giftware, home decor, and housewares.
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/michael_zindell_designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/michael_zindell_designs/profile/671703485_18579905857037241_4232566083190997295_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1701963937_3252631710768146253_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1701963937_3252631710768146253_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1711371289_3331546304315667537_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1711371289_3331546304315667537_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1712786978_3343421959357575872_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1712786978_3343421959357575872_1708453240.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1716834187_3377372409890804414_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1716834187_3377372409890804414_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1728136231_3472180829499669756_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1728136231_3472180829499669756_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736688882_3543925669228879413_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736688882_3543925669228879413_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736861620_3545374694590718961_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1736861620_3545374694590718961_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1765931445_3789229553856959328_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1765931445_3789229553856959328_1708453240.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1766353925_3792774079251146679_1708453240.jpg)<br><!-- image:../../assets/designers/michael_zindell_designs/instagram/michael_zindell_designs_1766353925_3792774079251146679_1708453240.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Michael Zindell is a US-based surface pattern designer and licensed artist with a background as a design director. He specialises in whimsical, character-driven illustration for novelty, giftware, home decor, and housewares, supplying artwork to manufacturers and retailers via licensing, outright purchase, and freelance. Featured in Spoonflower, Uppercase Magazine (edition 41, p.94), and Print and Pattern blog; named Spoonflower "Ones to Watch" 2019.
+
 ## Style and Aesthetic
+
+Playful, expressive work built on familiar subjects reimagined with personality and charm. Bows, gestures, character expressions, and small details that invite a second look. Selected patterns suggest illustrative, motif-forward repeat work with a warmth suited to gifting and novelty product categories. Strong alignment with retail buyers, retailers, and licensing partners.
 
 ## Techniques and Tools
 
+Digital illustration with design director-level understanding of product and retail requirements. Work is presented in both pattern format and product mock-up context. Brings trend awareness to surface design practice.
+
 ## Markets and Clients
+
+Novelty, giftware, home decor, housewares. Artwork delivered for retail products via licensing, outright purchase, and freelance. Active on Spoonflower as a platform for community and product distribution. Selected placement image suggests product presentation context.
 
 ## Portfolio and Presence
 
+- Website: https://michaelzindell.com
+- Instagram: https://instagram.com/michael_zindell_designs (2,788 followers, 790 posts)
+
 ## Career Path
+
+Professional background as a design director and trend hunter before publicly launching as a surface pattern designer. After years working behind the scenes in the industry, began putting work out independently. Gained early recognition through Spoonflower's "Ones to Watch" 2019. Has since been featured in Uppercase Magazine, Print and Pattern blog, and participated in industry conversations on retail and design trends (Elizabeth Silver IG live).
 
 ## Pattern Focus
 
+Whimsical, character-forward illustration patterns suited to novelty and gifting contexts. Selected pattern images span illustrative motif repeats. Eight selected patterns indicate a commercially focused, varied portfolio.
+
 ## Connections
+
+- [[Spoonflower]] — platform partner; featured designer and "Ones to Watch" 2019
+- [[Uppercase Magazine]] — featured in edition 41, p.94
+- [[Novelty Print]] — primary pattern category
+- [[Giftware]] — core target market
+- [[Home Decor]] — listed specialty
+- [[Licensing]] — primary commercial model

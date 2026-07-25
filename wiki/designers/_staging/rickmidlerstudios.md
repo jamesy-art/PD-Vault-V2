@@ -19,7 +19,7 @@ bio: ''
 website: 'https://rickmidler.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/rickmidlerstudios
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Rick Midler Studios
 website_meta_description: ''
 website_about_raw: >-
@@ -241,7 +244,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -258,45 +261,227 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/122045755_351392746091373_1557722327140952570_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTQuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEDrXnI_mMmhWHLR6gNGpYmEVcM5pP_-1LqX6eRiHuw-tkyoXUxa1KjPSphUHKy1FY&_nc_ohc=CzR9axDzALkQ7kNvwGnRN6E&_nc_gid=fEgKR0AfoGiu-tuztEhR4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ksZ6kx-zzF3SsckXPAEiIGzBt9jz7IWI2FLNDYvuVfA&oe=6A13E936&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/122045755_351392746091373_1557722327140952570_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTQuYzIifQ&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEDrXnI_mMmhWHLR6gNGpYmEVcM5pP_-1LqX6eRiHuw-tkyoXUxa1KjPSphUHKy1FY&_nc_ohc=CzR9axDzALkQ7kNvwGnRN6E&_nc_gid=fEgKR0AfoGiu-tuztEhR4A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ksZ6kx-zzF3SsckXPAEiIGzBt9jz7IWI2FLNDYvuVfA&oe=6A13E936&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4635
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/rickmidlerstudios/profile/122045755_351392746091373_1557722327140952570_n.jpg
+instagram_profile_image_bytes: 56092
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/rickmidlerstudios/profile/122045755_351392746091373_1557722327140952570_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/rickmidlerstudios/profile/122045755_351392746091373_1557722327140952570_n.jpg
+profile_image_local: >-
+  ../../assets/designers/rickmidlerstudios/profile/122045755_351392746091373_1557722327140952570_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/rickmidlerstudios/profile/122045755_351392746091373_1557722327140952570_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306962062190_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306987425428_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306995748076_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307004135259_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307163567084_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307180299861_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307188658686_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307213815232_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1634130179_2683600906603402217_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1716920002_3378092276281820953_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1738345457_3557822025295072526_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1739999434_3571696586935702276_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1739999434_3571696586935750955_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863544880436_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863779787173_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982535258_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545234_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545382_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982583915_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982596649_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784990928350_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784990979299_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785007727083_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785016088866_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785016098209_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336795720962_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336795736469_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804136436_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804155461_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812505466_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812531607_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812540011_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336829302015_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209726134_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209729762_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209734110_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931218089296_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931218115393_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931243254440_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931260021432_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931419450984_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931436170418_2273418.jpg
+instagram_image_count: 42
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307163567084_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1634130179_2683600906603402217_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1716920002_3378092276281820953_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1738345457_3557822025295072526_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863544880436_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982535258_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545234_2273418.jpg
+  - >-
+    ../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804136436_2273418.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # rickmidlerstudios
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rickmidlerstudios/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/rickmidlerstudios/profile/122045755_351392746091373_1557722327140952570_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306962062190_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306962062190_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306987425428_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306987425428_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306995748076_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551306995748076_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307004135259_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307004135259_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307163567084_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307163567084_2273418.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307180299861_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307180299861_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307188658686_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307188658686_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307213815232_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1633289801_2676551307213815232_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1634130179_2683600906603402217_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1634130179_2683600906603402217_2273418.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1716920002_3378092276281820953_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1716920002_3378092276281820953_2273418.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1738345457_3557822025295072526_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1738345457_3557822025295072526_2273418.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1739999434_3571696586935702276_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1739999434_3571696586935702276_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1739999434_3571696586935750955_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1739999434_3571696586935750955_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863544880436_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863544880436_2273418.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863779787173_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1749477082_3651200863779787173_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982535258_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982535258_2273418.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545234_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545234_2273418.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545382_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982545382_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982583915_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982583915_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982596649_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784982596649_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784990928350_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784990928350_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784990979299_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898784990979299_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785007727083_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785007727083_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785016088866_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785016088866_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785016098209_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1757785722_3720898785016098209_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336795720962_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336795720962_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336795736469_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336795736469_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804136436_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804136436_2273418.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804155461_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336804155461_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812505466_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812505466_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812531607_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812531607_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812540011_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336812540011_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336829302015_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1758039703_3723029336829302015_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209726134_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209726134_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209729762_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209729762_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209734110_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931209734110_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931218089296_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931218089296_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931218115393_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931218115393_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931243254440_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931243254440_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931260021432_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931260021432_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931419450984_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931419450984_2273418.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931436170418_2273418.jpg)<br><!-- image:../../assets/designers/rickmidlerstudios/instagram/rickmidlerstudios_1760570230_3744256931436170418_2273418.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rick Midler is a Brooklyn, New York-based collage artist and surface designer. His signature "On The Record" series uses vintage vinyl records as substrate, combining digital composition with analog paper cutting to create music-inspired, one-of-a-kind works. He also produces abstract landscape series and personal reflective work. His practice is primarily fine art with surface design as a component of his commercial offer.
+
 ## Style and Aesthetic
+
+Graphic and layered, spanning bold decorative collage through to nuanced, research-driven compositions. The "On The Record" series is shaped by listening to source music during production — each piece built the way "a musician builds a music track. Repeated shapes and colors become layers of sound." Selected pattern images suggest strong graphic rhythm, bold colour, and layered material composition. Abstract landscape work constitutes a separate strand.
 
 ## Techniques and Tools
 
+Analog paper cutting on vintage vinyl record substrates, combined with digital composition. Process is described as exploratory and meditative — driven by listening and research. Custom pieces and commissions offered; no two originals are identical. Also produces prints, merchandise, and apparel.
+
 ## Markets and Clients
+
+Direct collector sales, art fair exhibitor, and commission work. No textile or pattern licensing clients documented. Documented exhibition record: The Affordable Art Fair Austin (AZArt Gallery Booth F5, May 2026); The Other Art Fair Brooklyn at Zero Space (May 2025, November 2025); Art on Paper at Pier 36 NYC (Featured Solo Artist, September 2024 and 2025); Geography as Destiny at Solas Studio, curated by Adrienne Moumin (June 2025); London Collage Project Residency at Indra Studio, Hackney Wick (led by Les Jones of Contemporary Collage Magazine and Cecil Touchon, May 2025). Animation commission: "For the Robin on My Porch" for the National Audubon Society.
 
 ## Portfolio and Presence
 
+- Website: rickmidler.com
+- Instagram: @rickmidlerstudios (2,076 followers, 1,157 posts)
+- Studio: Ditmas Park, New York 11218
+
 ## Career Path
+
+Based in Ditmas Park, Brooklyn. Active exhibiting career across New York and international venues. London Collage Project Residency (2025) connects his practice to the international collage community. Sells originals, prints, and custom commissions direct from studio and at art fairs.
 
 ## Pattern Focus
 
+Collage-based surface work rather than conventional repeat pattern design. Selected images suggest strong compositional rhythm using layered paper, vinyl, and mixed-media surfaces. Pattern language is compositional and graphic rather than repeat-structured. Practice sits at the intersection of fine art and surface design.
+
 ## Connections
+
+- [[Collage Pattern]] (primary technique)
+- [[AZArt Gallery]] (exhibition partner)
+- [[The Other Art Fair]] (recurring exhibition)
+- [[Art on Paper NYC]] (recurring exhibition)
+- [[National Audubon Society]] (animation commission)
+- [[Contemporary Collage Magazine]] (London Collage Project connection)
+- [[Brooklyn]]

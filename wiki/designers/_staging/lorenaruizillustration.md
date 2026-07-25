@@ -26,7 +26,7 @@ bio: ''
 website: 'https://lorenaruizillustration.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/lorenaruizillustration
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Lorena Ruiz
 website_meta_description: >-
   Ilustradora. Me especializo en ilustrar plantas y temas relacionados con la
@@ -270,7 +273,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -287,45 +290,195 @@ instagram_profile_pic_url: >-
   https://scontent-msp1-1.cdninstagram.com/v/t51.82787-19/639508287_18343441018211975_5690989317376329804_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjkuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE703izoSgJ83Dp3WwtB52RIA9Qtzk8uF1OF0WYwKTuS6PVF4BWx9rLyxaIxX_0g6U&_nc_ohc=vN_CqDIuqwgQ7kNvwEZCsyg&_nc_gid=8xb0Z6yUntQ_eAAf36kaJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5jU0NL9dvwiHeS959P-VWxat067cOZcMyQoiZ7oDDwuA&oe=6A13FF75&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-msp1-1.cdninstagram.com/v/t51.82787-19/639508287_18343441018211975_5690989317376329804_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjkuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE703izoSgJ83Dp3WwtB52RIA9Qtzk8uF1OF0WYwKTuS6PVF4BWx9rLyxaIxX_0g6U&_nc_ohc=vN_CqDIuqwgQ7kNvwEZCsyg&_nc_gid=8xb0Z6yUntQ_eAAf36kaJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5jU0NL9dvwiHeS959P-VWxat067cOZcMyQoiZ7oDDwuA&oe=6A13FF75&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/lorenaruizillustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5509
+instagram_profile_image_local: >-
+  ../../assets/designers/lorenaruizillustration/profile/639508287_18343441018211975_5690989317376329804_n.jpg
+instagram_profile_image_bytes: 25759
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/lorenaruizillustration/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/lorenaruizillustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/lorenaruizillustration/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/lorenaruizillustration/profile/639508287_18343441018211975_5690989317376329804_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/lorenaruizillustration/profile/639508287_18343441018211975_5690989317376329804_n.jpg
+profile_image_local: >-
+  ../../assets/designers/lorenaruizillustration/profile/639508287_18343441018211975_5690989317376329804_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/lorenaruizillustration/profile/639508287_18343441018211975_5690989317376329804_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093269072195_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093277340049_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093520732492_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1756755573_3712257267246019311_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232228879476_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232237256417_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232312750691_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232321120625_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232438574525_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232446996186_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1768927548_3814363197864767147_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1768927548_3814363197864784550_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040389517388_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040397966962_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040406342686_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040414730142_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448266537_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448275749_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040683119475_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383568901093_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383610820255_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383619196625_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383627604112_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254641348_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254655566_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162388866544_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162430784126_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992720786408_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992729189578_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992796269668_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207716557272_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207783687464_6375267974.jpg
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040414730142_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448266537_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207716557272_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207783687464_6375267974.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093520732492_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254641348_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162388866544_6375267974.jpg
+  - >-
+    ../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992720786408_6375267974.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # lorenaruizillustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/lorenaruizillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/lorenaruizillustration/profile/639508287_18343441018211975_5690989317376329804_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093269072195_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093269072195_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093277340049_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093277340049_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093520732492_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1728933415_3478868093520732492_6375267974.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1756755573_3712257267246019311_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1756755573_3712257267246019311_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232228879476_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232228879476_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232237256417_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232237256417_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232312750691_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232312750691_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232321120625_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232321120625_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232438574525_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232438574525_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232446996186_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1759252288_3733201232446996186_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1768927548_3814363197864767147_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1768927548_3814363197864767147_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1768927548_3814363197864784550_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1768927548_3814363197864784550_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040389517388_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040389517388_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040397966962_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040397966962_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040406342686_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040406342686_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040414730142_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040414730142_6375267974.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448266537_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448266537_6375267974.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448275749_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040448275749_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040683119475_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1773417786_3852030040683119475_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383568901093_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383568901093_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383610820255_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383610820255_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383619196625_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383619196625_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383627604112_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776280757_3876046383627604112_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254641348_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254641348_6375267974.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254655566_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162254655566_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162388866544_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162388866544_6375267974.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162430784126_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1776954978_3881702162430784126_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992720786408_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992720786408_6375267974.jpg --> | [ ] | [x] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992729189578_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992729189578_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992796269668_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1777985046_3890342992796269668_6375267974.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207716557272_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207716557272_6375267974.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207783687464_6375267974.jpg)<br><!-- image:../../assets/designers/lorenaruizillustration/instagram/lorenaruizillustration_1778875803_3897815207783687464_6375267974.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Lorena Ruiz is an illustrator and graphic designer based in Buenos Aires, Argentina. Her practice spans editorial illustration, textile prints, and children's book authorship. Since 2015 she has focused on illustration and pattern design, working with international media and licensing clients. She has 10+ years of experience in illustration and a prior 15-year career in audiovisual design and motion graphics.
+
 ## Style and Aesthetic
+
+Nature-led and botanically grounded, with vibrant, saturated palettes. Subjects draw from flora, fauna, seeds, and ecological themes. Ruiz's mixed technique — cutting paper shapes and hand-drawn textures, then combining digitally — produces layered, energetic imagery. Selected Instagram patterns suggest detailed botanical or ecological compositions with strong colour and a handmade quality. Placement images indicate work applied to textile and printed formats.
 
 ## Techniques and Tools
 
+Paper-cutting combined with hand-drawn textures, assembled digitally. Monotype and risograph printing are cited as personal favourites. More recently: watercolour and ink. Background in typography, motion graphics, and visual identity design. Teaches independent illustration workshops.
+
 ## Markets and Clients
+
+Editorial illustration: Jacobin Magazine, National Geographic. Textile prints for clothing. Children's book publishing: Periplo Ediciones. Prior TV branding clients: Fox International Channels, MTV, National Geographic Channels, Nickelodeon, Dmax. Also collaborated with Disney and Marvel (specifics unverified). University teaching at FADU (Universidad de Buenos Aires) — Typography Longinotti and Illustration Roldán subjects.
 
 ## Portfolio and Presence
 
+- Website: https://lorenaruizillustration.com
+- Instagram: @lorenaruizillustration (2,054 followers)
+
 ## Career Path
+
+Fifteen years in audiovisual design and animation — visual identities and branding for television networks including Fox International Channels, MTV, National Geographic, Nickelodeon, and Dmax. Also taught at the Faculty of Architecture, Design and Urbanism, Universidad de Buenos Aires. From 2015, shifted focus to illustration, textile prints, and editorial work. Author-illustrator of *¡A viajar, semillas!* (Periplo Ediciones), selected by the New York Public Library as one of the Best Spanish-Language Children's Books of 2022. In 2026, published *Soy el agua* with the same publisher.
 
 ## Pattern Focus
 
+Botanical and ecological surface prints with an illustrative, textural hand — flora, seeds, animals. Selected Instagram patterns suggest detailed, layered compositions with vibrant colour. Work spans clothing textile prints, editorial illustration, and children's book contexts. Open to commissions.
+
 ## Connections
+
+- [[Editorial Illustration]]
+- [[Botanical Pattern]]
+- [[Children's Book Illustration]]
+- [[Textile Print]]
+- [[National Geographic]]
+- [[Licensing]]

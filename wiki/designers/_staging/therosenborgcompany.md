@@ -27,7 +27,7 @@ bio: ''
 website: 'https://therosenborgcompany.com'
 website_about: ''
 accepted: 20/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/therosenborgcompany
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: therosenborgcompany.com |
 website_meta_description: ''
 website_about_raw: >-
@@ -278,7 +281,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -295,45 +298,164 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/696044166_17903783262428323_5926965853047229507_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NjIuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFSHJ8ls9SifMblHL0oM6ug-eY2V-EmIVut9rkU-zG4tM9LHjoqBXibpxEtyKDg-Yg&_nc_ohc=-Jhx5yPR8vIQ7kNvwFgypQr&_nc_gid=melrbeTUBJt95j-GlfXKnQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7F8cSpCV3oRSxSjMEBQlW36jqVgpLB1fGnLfGrZrVY_Q&oe=6A13F961&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/696044166_17903783262428323_5926965853047229507_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NjIuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFSHJ8ls9SifMblHL0oM6ug-eY2V-EmIVut9rkU-zG4tM9LHjoqBXibpxEtyKDg-Yg&_nc_ohc=-Jhx5yPR8vIQ7kNvwFgypQr&_nc_gid=melrbeTUBJt95j-GlfXKnQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7F8cSpCV3oRSxSjMEBQlW36jqVgpLB1fGnLfGrZrVY_Q&oe=6A13F961&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/therosenborgcompany/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4282
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/therosenborgcompany/profile/696044166_17903783262428323_5926965853047229507_n.jpg
+instagram_profile_image_bytes: 108359
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/therosenborgcompany/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/therosenborgcompany/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/therosenborgcompany/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/therosenborgcompany/profile/696044166_17903783262428323_5926965853047229507_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/therosenborgcompany/profile/696044166_17903783262428323_5926965853047229507_n.jpg
+profile_image_local: >-
+  ../../assets/designers/therosenborgcompany/profile/696044166_17903783262428323_5926965853047229507_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/therosenborgcompany/profile/696044166_17903783262428323_5926965853047229507_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104729026_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104863974_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688113163093_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688113195079_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688121608429_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688121636255_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917516096941_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917524384941_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917532868910_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917616644961_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917641879475_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845484331_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845525160_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645853949405_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747858151_3637620283045681750_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1748637159_3644155075383993098_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433941357874_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433949740534_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562464380_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562477682_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562491358_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793596041721_72860500322.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104863974_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917516096941_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917532868910_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845484331_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747858151_3637620283045681750_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1748637159_3644155075383993098_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433949740534_72860500322.jpg
+  - >-
+    ../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562464380_72860500322.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # therosenborgcompany
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/therosenborgcompany/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/therosenborgcompany/profile/696044166_17903783262428323_5926965853047229507_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104729026_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104729026_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104863974_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688104863974_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688113163093_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688113163093_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688113195079_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688113195079_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688121608429_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688121608429_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688121636255_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1743882450_3604269688121636255_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917516096941_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917516096941_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917524384941_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917524384941_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917532868910_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917532868910_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917616644961_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917616644961_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917641879475_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1744572103_3610054917641879475_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845484331_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845484331_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845525160_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645845525160_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645853949405_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747148780_3631669645853949405_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747858151_3637620283045681750_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1747858151_3637620283045681750_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1748637159_3644155075383993098_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1748637159_3644155075383993098_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433941357874_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433941357874_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433949740534_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1752008083_3672432433949740534_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562464380_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562464380_72860500322.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562477682_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562477682_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562491358_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793562491358_72860500322.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793596041721_72860500322.jpg)<br><!-- image:../../assets/designers/therosenborgcompany/instagram/therosenborgcompany_1762460277_3760111793596041721_72860500322.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rosalie Sterenborg is a surface pattern designer based in the Netherlands, working under the name The Rosenborg Company. She specialises in hand-crafted botanical and nature-inspired patterns for home décor, wallpaper, textiles, and paper goods, and is available for licensing and custom design commissions.
+
 ## Style and Aesthetic
+
+Selected images suggest delicate, hand-drawn botanical and floral patterns with soft watercolour textures — blooming florals, leafy silhouettes, and seasonal motifs. The aesthetic blends vintage influence with a contemporary, restrained sensibility. Palette tends toward naturalistic, muted tones with a nostalgic, domestic warmth suited to home products and stationery.
 
 ## Techniques and Tools
 
+Hand drawing and painting using sketching and watercolour techniques, developed with care before digital finishing. Describes a handcrafted process rooted in physical mark-making. Output is surface-pattern-ready for textiles, wallpaper, and paper products.
+
 ## Markets and Clients
+
+Home décor, wallpaper, stationery, and paper goods. Active licensing practice, with services including custom pattern design, licensing, and collaboration and product development. No specific client history documented beyond self-described brand positioning.
 
 ## Portfolio and Presence
 
+- Website: https://therosenborgcompany.com
+- Instagram: https://instagram.com/therosenborgcompany
+
 ## Career Path
+
+Operating independently as The Rosenborg Company with a portfolio of surface patterns available for art licensing. Positioned at the licensing-ready end of the freelance designer market, offering services from standalone print licensing to full collection development.
 
 ## Pattern Focus
 
+Botanical florals and leafy patterns with hand-drawn, watercolour character. Seasonal and nature-driven imagery with a timeless, heritage-inflected sensibility suited to home décor, wallpaper, and stationery applications.
+
 ## Connections
+
+- [[Home Decor]]
+- [[Stationery]]
+- [[Wallpaper]]
+- [[Botanical]]
+- [[Licensing]]

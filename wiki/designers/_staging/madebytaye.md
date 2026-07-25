@@ -22,7 +22,7 @@ bio: ''
 website: 'https://madebytayenicole.com'
 website_about: ''
 accepted: 26/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/madebytaye
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - enriched
 website_title: Made by Taye Nicole
 website_meta_description: >-
   Colorful, whimsical and playful illustrator based in Grand Rapids, Michigan
@@ -172,7 +175,7 @@ open_to:
   - Freelance
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -189,45 +192,164 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/461274997_1999787530457995_930826643195520526_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGXtQx8zwCzC7y9hximGNyVxgz4p42zrPQsqlzu0TuXStKVgBrK8Ein0u6bcPLCuLk&_nc_ohc=ywWSfkFShbYQ7kNvwEx5BL5&_nc_gid=BUu-Y7NfFRm6WZw5dFiz7g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af68Vr2a_qEAj1NHNti1jkmw7j4M69OWQpXpPNkJ5GLZXA&oe=6A13E1D6&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/461274997_1999787530457995_930826643195520526_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGXtQx8zwCzC7y9hximGNyVxgz4p42zrPQsqlzu0TuXStKVgBrK8Ein0u6bcPLCuLk&_nc_ohc=ywWSfkFShbYQ7kNvwEx5BL5&_nc_gid=BUu-Y7NfFRm6WZw5dFiz7g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af68Vr2a_qEAj1NHNti1jkmw7j4M69OWQpXpPNkJ5GLZXA&oe=6A13E1D6&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/madebytaye/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5139
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/madebytaye/profile/461274997_1999787530457995_930826643195520526_n.jpg
+instagram_profile_image_bytes: 148109
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/madebytaye/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/madebytaye/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/madebytaye/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/madebytaye/profile/461274997_1999787530457995_930826643195520526_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/madebytaye/profile/461274997_1999787530457995_930826643195520526_n.jpg
+profile_image_local: >-
+  ../../assets/designers/madebytaye/profile/461274997_1999787530457995_930826643195520526_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/madebytaye/profile/461274997_1999787530457995_930826643195520526_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1712097272_3337636292119273293_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273097354578_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273164614985_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1714228806_3355516888749330387_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1722298498_3423210378270283605_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1722511800_3423550229158864483_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1729783437_3485998597965117785_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1729783437_3485998597973652566_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1732212000_3506371125132910807_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1733509863_3517258124501740385_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1743084318_3597574469335011951_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030241784427_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030325708082_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030476551043_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401963499044_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401971735796_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1759410000_3734524500546353779_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1759859780_3738297245721567833_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1761688532_3753637926560524776_39461353858.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1712097272_3337636292119273293_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1714228806_3355516888749330387_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1722298498_3423210378270283605_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1722511800_3423550229158864483_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1733509863_3517258124501740385_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030325708082_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401971735796_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1761688532_3753637926560524776_39461353858.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273097354578_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1743084318_3597574469335011951_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401963499044_39461353858.jpg
+  - >-
+    ../../assets/designers/madebytaye/instagram/madebytaye_1759859780_3738297245721567833_39461353858.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # madebytaye
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/madebytaye/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/madebytaye/profile/461274997_1999787530457995_930826643195520526_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1712097272_3337636292119273293_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1712097272_3337636292119273293_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273097354578_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273097354578_39461353858.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273164614985_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1713291866_3347657273164614985_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1714228806_3355516888749330387_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1714228806_3355516888749330387_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1722298498_3423210378270283605_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1722298498_3423210378270283605_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1722511800_3423550229158864483_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1722511800_3423550229158864483_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1729783437_3485998597965117785_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1729783437_3485998597965117785_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1729783437_3485998597973652566_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1729783437_3485998597973652566_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1732212000_3506371125132910807_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1732212000_3506371125132910807_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1733509863_3517258124501740385_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1733509863_3517258124501740385_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1743084318_3597574469335011951_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1743084318_3597574469335011951_39461353858.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030241784427_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030241784427_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030325708082_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030325708082_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030476551043_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1744806600_3611668030476551043_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401963499044_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401963499044_39461353858.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401971735796_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1750698088_3661443401971735796_39461353858.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1759410000_3734524500546353779_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1759410000_3734524500546353779_39461353858.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1759859780_3738297245721567833_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1759859780_3738297245721567833_39461353858.jpg --> | [ ] | [x] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/madebytaye/instagram/madebytaye_1761688532_3753637926560524776_39461353858.jpg)<br><!-- image:../../assets/designers/madebytaye/instagram/madebytaye_1761688532_3753637926560524776_39461353858.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Taye Nicole is an illustrator and surface designer based in Grand Rapids, Michigan, working across surface design, illustration, and product design. A 2025 SCAD graduate with a BFA in Illustration for Surface Design, she creates cozy, colorful, and playful work using both traditional and digital media. Open to freelance and licensing opportunities.
+
 ## Style and Aesthetic
+
+Playful, character-driven, and joy-forward. Selected Instagram pattern images suggest bold color palettes, whimsical motifs, and an illustrative sensibility that crosses comfortably between surface design, stationery, and product concept work. Instagram bio frames the practice as "all about play and whimsy."
 
 ## Techniques and Tools
 
+Versatile across traditional and digital media. SCAD BFA in Illustration for Surface Design with a minor in Drawing. Work spans seamless repeat patterns, editorial illustration, and applied product design — notebooks, party goods, fabric collections, and holiday concepts.
+
 ## Markets and Clients
+
+Fabric design, stationery, party goods, and licensed product concepts. Portfolio collections include Out and About Savannah Collection, Coastal Paradise (fabric), Hauntingly Beautiful Notebooks, and holiday/party goods concepts. Selected placement images suggest retail-ready product mockup contexts. Featured by Pattern Observer (Instagram) and profiled by Voyage Savannah (2024).
 
 ## Portfolio and Presence
 
+- Website: https://madebytayenicole.com
+- Instagram: @madebytaye
+- Press: Pattern Observer Instagram Feature; Voyage Savannah Interview 2024
+
 ## Career Path
+
+Grew up in Littleton, Colorado; now based in Grand Rapids, Michigan. SCAD Class of 2025 (BFA Illustration for Surface Design, minor in Drawing). Pursuing freelance illustration and licensing work following graduation.
 
 ## Pattern Focus
 
+Colorful, character-led surface patterns with illustrative motifs — animals, figures, seasonal scenes, and whimsical objects. Selected patterns suggest all-over repeat work with accessible, bold palettes suited to fabric, stationery, and everyday product design.
+
 ## Connections
+
+- [[Illustration Market]]
+- [[Stationery Market]]
+- [[Pattern Observer]]
+- [[SCAD]]
+- [[Licensing Market]]

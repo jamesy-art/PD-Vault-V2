@@ -21,7 +21,7 @@ bio: ''
 website: 'https://joliodesign.com'
 website_about: ''
 accepted: 30/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/joliodesign
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: HOME | jolio
 website_meta_description: ''
 website_about_raw: >-
@@ -122,7 +125,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   I'm Jodi, a passionate designer with expertise in branding, packaging, and
   surface design. My work has appeared on the shelves of leading retailers
@@ -154,45 +157,129 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/590787058_18062642570560293_8052658161143005810_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDIuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHVXNPqdGj0ENu4hZ-5wPuNZyO00stX7JUVpndxEQb0SeMNL_rTt6eyBhpzNFRuLiw&_nc_ohc=EjXblluqOAAQ7kNvwH-Utwk&_nc_gid=ikhbj35wfzP2bP4UMF9J8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7qLAtSqEUmfZenKz5BXgG3-jNvDoU7MVQEiTQti5yGVw&oe=6A13F509&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/590787058_18062642570560293_8052658161143005810_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDIuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHVXNPqdGj0ENu4hZ-5wPuNZyO00stX7JUVpndxEQb0SeMNL_rTt6eyBhpzNFRuLiw&_nc_ohc=EjXblluqOAAQ7kNvwH-Utwk&_nc_gid=ikhbj35wfzP2bP4UMF9J8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7qLAtSqEUmfZenKz5BXgG3-jNvDoU7MVQEiTQti5yGVw&oe=6A13F509&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/joliodesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3566
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/joliodesign/profile/590787058_18062642570560293_8052658161143005810_n.jpg
+instagram_profile_image_bytes: 31928
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/joliodesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/joliodesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/joliodesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/joliodesign/profile/590787058_18062642570560293_8052658161143005810_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/joliodesign/profile/590787058_18062642570560293_8052658161143005810_n.jpg
+profile_image_local: >-
+  ../../assets/designers/joliodesign/profile/590787058_18062642570560293_8052658161143005810_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/joliodesign/profile/590787058_18062642570560293_8052658161143005810_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643312519_2760627963234118446_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643336638_2760830282150130389_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643336890_2760832395936553575_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643597290_2763016791934571040_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1644276201_2768711912855636928_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1695325955_3196948283128040125_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1705703273_3283999540361261716_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613264967838104_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613280948144951_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613287055062745_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613293942097659_46933384292.jpg
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643312519_2760627963234118446_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643336638_2760830282150130389_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643336890_2760832395936553575_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1643597290_2763016791934571040_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1644276201_2768711912855636928_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1695325955_3196948283128040125_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1705703273_3283999540361261716_46933384292.jpg
+  - >-
+    ../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613264967838104_46933384292.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # joliodesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/joliodesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/joliodesign/profile/590787058_18062642570560293_8052658161143005810_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1643312519_2760627963234118446_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1643312519_2760627963234118446_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1643336638_2760830282150130389_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1643336638_2760830282150130389_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1643336890_2760832395936553575_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1643336890_2760832395936553575_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1643597290_2763016791934571040_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1643597290_2763016791934571040_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1644276201_2768711912855636928_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1644276201_2768711912855636928_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1695325955_3196948283128040125_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1695325955_3196948283128040125_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1705703273_3283999540361261716_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1705703273_3283999540361261716_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613264967838104_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613264967838104_46933384292.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613280948144951_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613280948144951_46933384292.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613287055062745_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613287055062745_46933384292.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613293942097659_46933384292.jpg)<br><!-- image:../../assets/designers/joliodesign/instagram/joliodesign_1775513958_3869613293942097659_46933384292.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jolio is a US-based surface design and branding studio led by Jodi Broglio. The studio specialises in playful, commercially energetic design for children's, home décor, and stationery markets. Work has reached the shelves of mass-market and specialty retailers, with confirmed design programs for major toy and entertainment brands.
+
 ## Style and Aesthetic
+
+Bold, character-driven, and commercially playful. Selected Instagram images suggest high-energy graphic pattern work suited to children's product categories — saturated palettes, graphic motifs, and illustrative pattern structures appropriate for toy packaging, stationery, and home décor. Tone is "design happy things" — fun, fresh, and imagination-forward.
 
 ## Techniques and Tools
 
+Graphic design and surface design studio workflow. Output spans branding, packaging, surface pattern, and product design. Experienced across both mass-market and specialty retail pipelines.
+
 ## Markets and Clients
+
+Children's, home décor, stationery, and toy licensing. Confirmed clients include Spin Master, Disney, Warner Bros, FAO Schwarz, and Mattel. Studio works with top toy and home décor brands on surface design programs, packaging, and product branding.
 
 ## Portfolio and Presence
 
+- Website: joliodesign.com
+- Instagram: @joliodesign
+
 ## Career Path
+
+Founded and led by Jodi Broglio, with expertise in branding, packaging, and surface design built through sustained commercial work with major entertainment and consumer goods brands. Now operating as a dedicated surface design and branding studio serving the kids and home markets.
 
 ## Pattern Focus
 
+Selected images suggest pattern work oriented toward children's products: playful graphic arrangements, character-based repeats, and illustrative motifs in high-contrast, commercially energetic palettes. Output is positioned across kidswear, home décor, and stationery categories consistent with the studio's entertainment brand client base.
+
 ## Connections
+
+- [[Kidswear]] market
+- [[Home Décor]] market
+- [[Stationery]] market

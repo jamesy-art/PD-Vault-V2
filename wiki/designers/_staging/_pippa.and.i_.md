@@ -309,6 +309,6 @@ Selected pattern images show a core repertoire of hand-drawn botanical branches,
 
 - [[Wallpaper Market]]
 - [[Home Decor Market]]
-- [[Floral Pattern]]
+- [[Flower Pattern]]
 - [[Botanical Pattern]]
 - [[Decor Imprime]]

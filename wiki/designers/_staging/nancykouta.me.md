@@ -23,7 +23,7 @@ bio: ''
 website: 'https://nancykouta.me'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/nancykouta.me
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Nancy Kouta
 website_meta_description: 'Graphic Design, Illustration, Visual Art'
 website_about_raw: >-
@@ -240,7 +243,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -260,45 +263,150 @@ instagram_profile_pic_url: >-
   https://instagram.foma1-2.fna.fbcdn.net/v/t51.82787-19/631866718_18557129209052137_1993718354156256019_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.foma1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHHcMitGx4LM8IPLhkgURRgp8-mLBxL3Vd2kVOSdHdMJMoovudfIvoZcNlF7s-zO8U&_nc_ohc=GrHZOZeIjSoQ7kNvwH-Y6Gb&_nc_gid=weI0JxrBRyOVOlanut_X4g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5-QyFT9uzmWu-QUr8hZt5vFSRITHEN6ghdfV5dE0kiCA&oe=6A13D80A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.foma1-2.fna.fbcdn.net/v/t51.82787-19/631866718_18557129209052137_1993718354156256019_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.foma1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHHcMitGx4LM8IPLhkgURRgp8-mLBxL3Vd2kVOSdHdMJMoovudfIvoZcNlF7s-zO8U&_nc_ohc=GrHZOZeIjSoQ7kNvwH-Y6Gb&_nc_gid=weI0JxrBRyOVOlanut_X4g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5-QyFT9uzmWu-QUr8hZt5vFSRITHEN6ghdfV5dE0kiCA&oe=6A13D80A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/nancykouta.me/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5424
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/nancykouta.me/profile/631866718_18557129209052137_1993718354156256019_n.jpg
+instagram_profile_image_bytes: 159031
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/nancykouta.me/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/nancykouta.me/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/nancykouta.me/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/nancykouta.me/profile/631866718_18557129209052137_1993718354156256019_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/nancykouta.me/profile/631866718_18557129209052137_1993718354156256019_n.jpg
+profile_image_local: >-
+  ../../assets/designers/nancykouta.me/profile/631866718_18557129209052137_1993718354156256019_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/nancykouta.me/profile/631866718_18557129209052137_1993718354156256019_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1674150023_3019311694035709450_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482659595441_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482902762002_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1743451389_3600653687666059063_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509339002954_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509540337587_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292468644804978_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292472671316080_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292481059889518_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292485346494904_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1772983234_3848384726306655987_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1773762379_3854920672833456810_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1775140873_3866484321238651199_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476354230332351_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476423780268943_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476506617778366_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093820_3874476568307584252_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1777316404_3884734002938794279_215732136.webp
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1674150023_3019311694035709450_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509540337587_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292468644804978_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1775140873_3866484321238651199_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476423780268943_215732136.webp
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093820_3874476568307584252_215732136.webp
+selected_placements:
+  - >-
+    ../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482659595441_215732136.webp
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # nancykouta.me
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/nancykouta.me/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/nancykouta.me/profile/631866718_18557129209052137_1993718354156256019_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1674150023_3019311694035709450_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1674150023_3019311694035709450_215732136.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482659595441_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482659595441_215732136.webp --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482902762002_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1682266363_3087396482902762002_215732136.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1743451389_3600653687666059063_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1743451389_3600653687666059063_215732136.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509339002954_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509339002954_215732136.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509540337587_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1757251393_3716416509540337587_215732136.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292468644804978_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292468644804978_215732136.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292472671316080_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292472671316080_215732136.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292481059889518_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292481059889518_215732136.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292485346494904_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1770230711_3825292485346494904_215732136.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1772983234_3848384726306655987_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1772983234_3848384726306655987_215732136.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1773762379_3854920672833456810_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1773762379_3854920672833456810_215732136.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1775140873_3866484321238651199_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1775140873_3866484321238651199_215732136.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476354230332351_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476354230332351_215732136.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476423780268943_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476423780268943_215732136.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476506617778366_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093819_3874476506617778366_215732136.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093820_3874476568307584252_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1776093820_3874476568307584252_215732136.webp --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/nancykouta.me/instagram/nancykouta.me_1777316404_3884734002938794279_215732136.webp)<br><!-- image:../../assets/designers/nancykouta.me/instagram/nancykouta.me_1777316404_3884734002938794279_215732136.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Nancy Kouta is a Beirut-based surreal abstract graphic designer and illustrator represented by Agency Rush. Her practice spans textile design, editorial illustration, visual identity, greeting cards, and surface pattern, with a client list that includes international brands and publications. She has received recognition from Fresh 19 (Silver, Graphic Design) and twice been shortlisted for the Bridgeman Studio Award (2018, 2019).
+
 ## Style and Aesthetic
+
+Surreal abstraction — intricate layering, vivid colour palettes, and compositions that blend dreamlike imagery with decorative pattern. Selected Instagram images suggest dense illustrative surface patterns with a strong graphic sensibility, drawing on organic forms, symbolic motifs, and rich tonal contrast. The visual language is immediately distinctive, combining fine art references with commercially confident execution.
 
 ## Techniques and Tools
 
+Digital illustration with a highly detailed, layered approach. Typography listed as a skill. Practice spans print, product, textile, and digital outputs — confirmed by the range of documented client work across publishing, brand licensing, wrapped goods, and greeting cards.
+
 ## Markets and Clients
+
+Documented clients include Lush (2025 Knot Wrap), Pet Barn (greeting cards and calendar, 2024 and 2025), McDonald x Mastercard (campaign), Virago Modern Classics (Penguin imprint, book covers), Transform Magazin.de, Fern Artistry (visual identity, textiles, calendar, Valentine's Day card), Agency Rush (reading poster), Seanos (visual identity), ThymeScape (visual identity), and Ramadan Kit 2025. Represented for freelance inquiries by Agency Rush. Published in DesignIdeas, JaamZin, PeopleofPrint, Etapes, and GirlsClub.asia.
 
 ## Portfolio and Presence
 
+- Website: https://nancykouta.me
+- Instagram: https://instagram.com/nancykouta.me
+
 ## Career Path
+
+Based in Beirut, Lebanon. Awards and press recognition date from 2018, establishing a professional commercial practice with international reach. Represented by Agency Rush for freelance commissions. Work has appeared in design publications across the UK, France, South Korea, and Australia.
 
 ## Pattern Focus
 
+Selected images suggest bold abstract and botanical surface patterns — dense, layered compositions with a surrealist graphic edge. Textile design for Fern Artistry is documented as a named project, confirming direct commercial surface pattern work. The Lush Knot Wrap placement confirms pattern output applied to a commercial wrapped goods product.
+
 ## Connections
+
+- [[Agency Rush]] — representation agency
+- [[Lush]] — product client (Knot Wrap 2025)
+- [[Virago Modern Classics]] — editorial/publishing client
+- [[Pet Barn]] — client (greeting cards and calendar)
+- [[Fern Artistry]] — multi-project client (textile design, visual identity, calendar)

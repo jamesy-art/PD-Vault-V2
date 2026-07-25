@@ -24,7 +24,7 @@ bio: ''
 website: 'https://studio8design.net'
 website_about: ''
 accepted: 11/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/studio8design.illustration
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Kid-Friendly and Playful Illustration for Kids’ Products
 website_meta_description: >-
   Stephanie is a freelance and licensing illustrator specializing in surface
@@ -266,7 +269,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -284,48 +287,218 @@ instagram_profile_pic_url: >-
 instagram_profile_pic_best_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/277955188_1195016247910090_8795483030558176858_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gE6U-fCHhYNr0IOC6rD8AWVpGGT9OtX05Ey-SFQQnXGA2gnMurNkMGDVBKKgg2-w9c&_nc_ohc=3qui-5uXJDsQ7kNvwFzrY5L&_nc_gid=cvqtxNzb33Y_1osdZ7upPw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af75Pen4FzN_T4k_moAa2yUg-O2MswuYukvieE5W1_jNhg&oe=6A13D52A&_nc_sid=8b3546
 instagram_profile_image_local: >-
-  ../../assets/designers/studio8design.illustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4146
-instagram_profile_image_quality: thumbnail
+  ../../assets/designers/studio8design.illustration/profile/277955188_1195016247910090_8795483030558176858_n.jpg
+instagram_profile_image_bytes: 121365
+instagram_profile_image_quality: large
 instagram_profile_imported: true
 profile_image: >-
-  ../../assets/designers/studio8design.illustration/profile/instagram-profile.jpg
-profile_images: &ref_0
+  ../../assets/designers/studio8design.illustration/profile/277955188_1195016247910090_8795483030558176858_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/studio8design.illustration/profile/instagram-profile.jpg
+    ../../assets/designers/studio8design.illustration/profile/277955188_1195016247910090_8795483030558176858_n.jpg
 profile_image_local: >-
-  ../../assets/designers/studio8design.illustration/profile/instagram-profile.jpg
+  ../../assets/designers/studio8design.illustration/profile/277955188_1195016247910090_8795483030558176858_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/studio8design.illustration/profile/277955188_1195016247910090_8795483030558176858_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374473084590_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374481675543_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374490033563_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374557102588_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443277942873_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443319855280_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443361791957_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443370258833_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887300928198_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887301031347_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309366532_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309410655_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309486967_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238275174705_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325526082_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325629222_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238333993806_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238342284263_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238342372762_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238401148653_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790816128201_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790832807457_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790841204925_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790941882267_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790958838733_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616410298622_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616603219349_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616620013374_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616620036493_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997705843_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997750603_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910279056486693_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441743354696_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441743403358_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441886005618_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441894341988_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049442464760102_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850050993070572_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850051571932387_33278809989.jpg
+instagram_image_count: 39
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443277942873_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443319855280_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443361791957_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887301031347_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238275174705_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325629222_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790941882267_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997750603_33278809989.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049442464760102_33278809989.jpg
+  - >-
+    ../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850051571932387_33278809989.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # studio8design.illustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/studio8design.illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/studio8design.illustration/profile/277955188_1195016247910090_8795483030558176858_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374473084590_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374473084590_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374481675543_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374481675543_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374490033563_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374490033563_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374557102588_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1736354346_3541119374557102588_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443277942873_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443277942873_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443319855280_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443319855280_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443361791957_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443361791957_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443370258833_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1739549521_3567922443370258833_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887300928198_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887300928198_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887301031347_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887301031347_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309366532_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309366532_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309410655_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309410655_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309486967_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741193231_3581710887309486967_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238275174705_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238275174705_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325526082_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325526082_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325629222_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238325629222_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238333993806_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238333993806_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238342284263_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238342284263_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238342372762_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238342372762_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238401148653_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1741867521_3587367238401148653_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790816128201_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790816128201_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790832807457_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790832807457_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790841204925_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790841204925_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790941882267_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790941882267_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790958838733_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1744891927_3612737790958838733_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616410298622_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616410298622_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616603219349_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616603219349_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616620013374_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616620013374_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616620036493_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756306434_3708489616620036493_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997705843_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997705843_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997750603_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910278997750603_33278809989.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910279056486693_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1756833418_3712910279056486693_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441743354696_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441743354696_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441743403358_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441743403358_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441886005618_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441886005618_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441894341988_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049441894341988_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049442464760102_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1766148332_3791049442464760102_33278809989.jpg --> | [ ] | [x] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850050993070572_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850050993070572_33278809989.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850051571932387_33278809989.jpg)<br><!-- image:../../assets/designers/studio8design.illustration/instagram/studio8design.illustration_1771250562_3833850051571932387_33278809989.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Stephanie Beischer is a freelance illustrator and licensing pattern designer based in Chicago, specialising in animal illustration, children's illustration, and food illustration. Trading as Studio 8 Design®, LLC, she targets the children's, toy, pet, gift, greetings, home décor, and textile markets. All designs are produced without AI — a point the studio explicitly distinguishes.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a playful, character-led aesthetic: cute critters, whimsical florals, and cheerful geometric compositions calibrated for children's and gifting product categories. Colour choices are warm and saturated. Food illustration and dreamy floral motifs feature alongside character-based work. The visual tone is consistently bright and child-market-appropriate.
 
 ## Techniques and Tools
 
+Illustration-led surface pattern design. Designs are offered in multiple colorways and adapted across licensing categories. Website documentation includes puzzle work and poster illustration, indicating flexibility across product types. No AI is used in any stage of production.
+
 ## Markets and Clients
+
+Children's products, toys, pet accessories, gift and greetings, home décor, and textiles. Available for wallpaper, textile, gift wrap, greeting cards, puzzles, and stationery applications. Works on both licensing and direct purchase arrangements; also accepts custom freelance illustration commissions.
 
 ## Portfolio and Presence
 
+- Website: studio8design.net
+- Instagram: @studio8design.illustration (3,116 followers)
+- Member of @illustratorsforhire
+
 ## Career Path
+
+Based in Chicago; operates Studio 8 Design®, LLC. Documented projects include puzzle work for Bookworm Puzzle, a ChocZero 2025 Advent Calendar illustration, and a "Take Your Child to the Library Day" poster. Offers both licensing portfolio access and custom freelance commissions.
 
 ## Pattern Focus
 
+Animal illustration and character-based surface patterns; food and floral motifs; geometric compositions. All designed for children's and gift product categories. Selected Instagram images confirm cute critter all-overs and floral repeats. Designs typically offered across multiple colourways.
+
 ## Connections
+
+- [[Children's market]]
+- [[Gift and Greetings market]]
+- [[Home Decor market]]
+- [[Licensing]]

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://ulrikajarl.com'
 website_about: ''
 accepted: 20/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ulrikajarldesign
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Illustration & Surface Pattern Design | ulrikajarl.com | Brighton
 website_meta_description: >-
   Ulrika Jarl is an Illustrator and Surface Pattern Designer. Her designs are
@@ -67,7 +70,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -84,45 +87,157 @@ instagram_profile_pic_url: >-
   https://instagram.fsan1-1.fna.fbcdn.net/v/t51.2885-19/494484919_18501493612044723_4434912792113631896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsan1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gH8bwQ7_0I6v4YMMJCJqgxc7Bp9Hf3ApV6sXwIre-0CQ7nSzwYhVFX2B0CYF2KHxUc&_nc_ohc=6jZQG0YZ4bUQ7kNvwFziPVT&_nc_gid=7N1UlRZpqf7E78OCmv3THA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aYuILaR7DRs1QaZWJa2SVd2wXdvVsal2MBKV9jKb6qQ&oe=6A13FB2A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fsan1-1.fna.fbcdn.net/v/t51.2885-19/494484919_18501493612044723_4434912792113631896_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsan1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gH8bwQ7_0I6v4YMMJCJqgxc7Bp9Hf3ApV6sXwIre-0CQ7nSzwYhVFX2B0CYF2KHxUc&_nc_ohc=6jZQG0YZ4bUQ7kNvwFziPVT&_nc_gid=7N1UlRZpqf7E78OCmv3THA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aYuILaR7DRs1QaZWJa2SVd2wXdvVsal2MBKV9jKb6qQ&oe=6A13FB2A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4253
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ulrikajarldesign/profile/494484919_18501493612044723_4434912792113631896_n.jpg
+instagram_profile_image_bytes: 207576
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ulrikajarldesign/profile/494484919_18501493612044723_4434912792113631896_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ulrikajarldesign/profile/494484919_18501493612044723_4434912792113631896_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ulrikajarldesign/profile/494484919_18501493612044723_4434912792113631896_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ulrikajarldesign/profile/494484919_18501493612044723_4434912792113631896_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1774977975_3865114939627447612_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775471029_3869246347555921905_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775813509_3872124956046051044_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775938880_3873176545796048577_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206986713499225_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206992107423609_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777476487_3886075600213694809_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777575715_3886903307570790337_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663834056131444_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663837663237354_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778013912_3890583014501795955_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778057455_3890948464897169109_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778359224_3893480331315803089_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778447882_3894224591099004112_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778669710_3896082748312468712_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778955213_3898479262829881441_1418668722.jpg
+instagram_image_count: 16
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775471029_3869246347555921905_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775813509_3872124956046051044_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206986713499225_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777575715_3886903307570790337_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663834056131444_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778359224_3893480331315803089_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778669710_3896082748312468712_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778955213_3898479262829881441_1418668722.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775938880_3873176545796048577_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778013912_3890583014501795955_1418668722.jpg
+  - >-
+    ../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778057455_3890948464897169109_1418668722.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # ulrikajarldesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ulrikajarldesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ulrikajarldesign/profile/494484919_18501493612044723_4434912792113631896_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1774977975_3865114939627447612_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1774977975_3865114939627447612_1418668722.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775471029_3869246347555921905_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775471029_3869246347555921905_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775813509_3872124956046051044_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775813509_3872124956046051044_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775938880_3873176545796048577_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1775938880_3873176545796048577_1418668722.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206986713499225_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206986713499225_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206992107423609_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1776777193_3880206992107423609_1418668722.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777476487_3886075600213694809_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777476487_3886075600213694809_1418668722.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777575715_3886903307570790337_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777575715_3886903307570790337_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663834056131444_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663834056131444_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663837663237354_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1777666345_3887663837663237354_1418668722.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778013912_3890583014501795955_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778013912_3890583014501795955_1418668722.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778057455_3890948464897169109_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778057455_3890948464897169109_1418668722.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778359224_3893480331315803089_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778359224_3893480331315803089_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778447882_3894224591099004112_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778447882_3894224591099004112_1418668722.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778669710_3896082748312468712_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778669710_3896082748312468712_1418668722.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778955213_3898479262829881441_1418668722.jpg)<br><!-- image:../../assets/designers/ulrikajarldesign/instagram/ulrikajarldesign_1778955213_3898479262829881441_1418668722.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ulrika Jarl is a Swedish-born illustrator and surface pattern designer based in Brighton, UK. Her practice spans surface pattern licensing, giclée print sales, homeware products, and public art commissions. Licensed clients include Liberty of London and Habitat; wallpaper designs are available through wallpassion.com. She sells lampshades, mugs, and prints directly through her website.
+
 ## Style and Aesthetic
+
+Jarl's work is consistently described as strong, bold, and vibrant, taking inspiration from the natural environment. Selected Instagram images confirm this — confident colour, clear botanical and zoological forms, and detailed motifs rendered with a distinctly Scandi graphic sensibility. Her visual language scales effectively from small illustration to large-scale public murals. The style sits at the intersection of naturalistic subject matter and bold graphic clarity.
 
 ## Techniques and Tools
 
+Works in ink and digital media. Participates in The 100 Day Project, documented using Daler Rowney inks — Prussian blue, sap green, orange — as quick expressive linework feeding into more resolved pattern work. Designs scale across materials and mediums, from wallpaper and fabric to ceramics and giclée print. Selected placements suggest application across home textiles and interior decorative objects.
+
 ## Markets and Clients
+
+Licensed to Liberty of London and Habitat. Additional clients include Summer Gray Amsterdam, TJX Companies, Sofitel Hotel, and Brighton Gin. Wallpaper available through wallpassion.com (top-selling designs: Annie, Meadow Saxifrage, Summer Meadow). Works across both commercial licensing and direct-to-consumer homeware. Available for public art commissions worldwide.
 
 ## Portfolio and Presence
 
+- Website: ulrikajarl.com (Brighton)
+- Instagram: @ulrikajarldesign (4,162 followers)
+- Shop: lampshades (Jungle Dove, Scandi Black & White Floral), giclée prints, mugs (Ogräs, Aftonfika, Morgondopp), Underwater Love Wallpaper
+- Wallpaper via wallpassion.com
+
 ## Career Path
+
+Swedish-born, Jarl lives and works in Brighton, UK. Her practice spans illustration, surface pattern licensing, and public mural work — described as ranging from "small illustrations to large murals in public spaces." Work has been replicated and sold globally. She takes on commissions and is open to collaborations.
 
 ## Pattern Focus
 
+Botanical and zoological motifs form the core of her pattern vocabulary — fish, birds, florals, botanical leaf forms, and underwater life appear across selected images and product titles. Collections include Jungle Dove, Fantastical Botanical, and Underwater Love. Scandi influence is evident in graphic clarity and colour relationships. Work translates across wallpaper, textiles, and decorative homeware at scale.
+
 ## Connections
+
+- [[Liberty of London]]
+- [[Habitat]]
+- [[TJX Companies]]
+- [[Surface Pattern Design]]
+- [[Wallpaper]]
+- [[Home Decor]]
+- [[Public Art]]
+- [[Brighton]]

@@ -1,0 +1,71 @@
+{
+  "slug": "sam-morray",
+  "name": "Sam Morray",
+  "website": "https://sammorraydesign.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/sam-morray.md",
+  "scraped_at": "2026-06-05T23:24:32.464Z",
+  "status": "scraped",
+  "website_title": "Sam Morray Design",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://sammorraydesign.com/",
+      "text": "Sam Morray Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://images.v2.thepatterncloud.com//studio_101/sammorraydesign.jpg",
+        "https://sammorraydesign.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_101/rhvbklxuoyzq.png",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/newdesigns.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/followour.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/paintingphoto.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/jungle.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/floral2.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/address.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/graffitti.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/lfespbumzotq.jpg",
+        "https://images.v2.thepatterncloud.com//studio_101/homePage/bottomleft.jpg",
+        "https://sammorraydesign.com/img/social/facebook.png",
+        "https://sammorraydesign.com/img/social/instagram.png",
+        "https://sammorraydesign.com/img/social/pinterest.png",
+        "https://sammorraydesign.com/img/social/twitter.png",
+        "https://sammorraydesign.com/img/social/facebookB.png",
+        "https://sammorraydesign.com/img/social/instagramB.png",
+        "https://sammorraydesign.com/img/social/pinterestB.png",
+        "https://sammorraydesign.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://sammorraydesign.com/about.php",
+      "text": "Sam Morray Design",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://sammorraydesign.com/\nSam Morray Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://sammorraydesign.com/about.php\nSam Morray Design",
+  "website_about_clean": "SOURCE: https://sammorraydesign.com/\nSam Morray Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://sammorraydesign.com/about.php\nSam Morray Design",
+  "website_images": [
+    "https://images.v2.thepatterncloud.com//studio_101/sammorraydesign.jpg",
+    "https://sammorraydesign.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_101/rhvbklxuoyzq.png",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/newdesigns.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/followour.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/paintingphoto.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/jungle.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/floral2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/address.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/graffitti.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/lfespbumzotq.jpg",
+    "https://images.v2.thepatterncloud.com//studio_101/homePage/bottomleft.jpg",
+    "https://sammorraydesign.com/img/social/facebook.png",
+    "https://sammorraydesign.com/img/social/instagram.png",
+    "https://sammorraydesign.com/img/social/pinterest.png",
+    "https://sammorraydesign.com/img/social/twitter.png",
+    "https://sammorraydesign.com/img/social/facebookB.png",
+    "https://sammorraydesign.com/img/social/instagramB.png",
+    "https://sammorraydesign.com/img/social/pinterestB.png",
+    "https://sammorraydesign.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

@@ -21,7 +21,7 @@ bio: ''
 website: 'https://emilytragedy.com'
 website_about: ''
 accepted: 25/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tragicallyindecisive
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Emily Tragedy | Narrative Illustrator
 website_meta_description: >-
   Emily Tragedy is a narrative illustrator, surface designer, and tattoo artist
@@ -73,7 +76,7 @@ open_to:
   - Freelance
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -93,45 +96,125 @@ instagram_profile_pic_url: >-
   https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/515591874_18061065275256843_6893302658461087550_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGaqpHL-Iew_pXnizt9_hzlhB9rJNlnQtCKSdRwyQWATZZkR0eIRWDtyydX1SXbTf8&_nc_ohc=NCJD-hZ_utcQ7kNvwG6KDrg&_nc_gid=J59i1Z40Lgu2UWbVx5aJhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5B6kyN3fdOctiZ8b9pwKKX7Zb0_wnx7SwujTP_GcrnMA&oe=6A13DB58&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/515591874_18061065275256843_6893302658461087550_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGaqpHL-Iew_pXnizt9_hzlhB9rJNlnQtCKSdRwyQWATZZkR0eIRWDtyydX1SXbTf8&_nc_ohc=NCJD-hZ_utcQ7kNvwG6KDrg&_nc_gid=J59i1Z40Lgu2UWbVx5aJhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5B6kyN3fdOctiZ8b9pwKKX7Zb0_wnx7SwujTP_GcrnMA&oe=6A13DB58&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4382
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/tragicallyindecisive/profile/515591874_18061065275256843_6893302658461087550_n.jpg
+instagram_profile_image_bytes: 121751
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tragicallyindecisive/profile/515591874_18061065275256843_6893302658461087550_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tragicallyindecisive/profile/515591874_18061065275256843_6893302658461087550_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tragicallyindecisive/profile/515591874_18061065275256843_6893302658461087550_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tragicallyindecisive/profile/515591874_18061065275256843_6893302658461087550_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_14_d82781_df413da8ef774f8b8ec0153accde531a~mv2.png
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_15_IMG_3634_JPG.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_26_502980263_1379629559912070_1693175681363254355_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_27_499661060_1498604934437346_2147130736194895435_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_28_491470817_1800372247194181_6258873214036248251_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_36_625660544_18300287287275530_5295096678550953252_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_37_626531546_18117557017611783_1422587086313605196_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_7_IMG_3634_JPG.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_14_d82781_df413da8ef774f8b8ec0153accde531a~mv2.png
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_26_502980263_1379629559912070_1693175681363254355_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_27_499661060_1498604934437346_2147130736194895435_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_28_491470817_1800372247194181_6258873214036248251_n.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_15_IMG_3634_JPG.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_36_625660544_18300287287275530_5295096678550953252_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_37_626531546_18117557017611783_1422587086313605196_n.jpeg
+  - >-
+    ../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_7_IMG_3634_JPG.jpeg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # tragicallyindecisive
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tragicallyindecisive/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tragicallyindecisive/profile/515591874_18061065275256843_6893302658461087550_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_14_d82781_df413da8ef774f8b8ec0153accde531a~mv2.png)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_14_d82781_df413da8ef774f8b8ec0153accde531a~mv2.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_15_IMG_3634_JPG.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_15_IMG_3634_JPG.jpeg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_26_502980263_1379629559912070_1693175681363254355_n.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_26_502980263_1379629559912070_1693175681363254355_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_27_499661060_1498604934437346_2147130736194895435_n.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_27_499661060_1498604934437346_2147130736194895435_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_28_491470817_1800372247194181_6258873214036248251_n.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_28_491470817_1800372247194181_6258873214036248251_n.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_36_625660544_18300287287275530_5295096678550953252_n.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_36_625660544_18300287287275530_5295096678550953252_n.jpeg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_37_626531546_18117557017611783_1422587086313605196_n.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_37_626531546_18117557017611783_1422587086313605196_n.jpeg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_7_IMG_3634_JPG.jpeg)<br><!-- image:../../assets/designers/tragicallyindecisive/instagram/tragicallyindecisive_imageye___-_imgi_7_IMG_3634_JPG.jpeg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Emily Tragedy is a Canadian narrative illustrator, surface designer, and tattoo artist based in Ontario. Her practice spans digital illustration, linocut printmaking, greeting card design, sticker production, and surface design, all filtered through a spooky, whimsical, and mythological aesthetic. She sells at art markets in Ontario, wholesales greeting cards, and produces work through Etsy. A choose-your-own-adventure book is in progress.
+
 ## Style and Aesthetic
+
+Work sits at the intersection of the darkly playful and the folkloric. Subjects include cryptids, vampires, Gothic characters, mythological references, and Krampus, rendered with warmth and humour rather than horror. The visual language is character-driven — narrative scenes, illustrated figures, and story fragments — applied to surface designs and print formats. Selected placement images suggest greeting card and print formats with illustrated character compositions.
 
 ## Techniques and Tools
 
+Procreate (digital); linocut printmaking (traditional). Uses both media for finished work. Education: Honours Bachelor of Illustration (Sheridan College), Visual Creative Arts (Sheridan College), Interior Decorating (Fanshawe College). Sticker production via @stickwithpapaya (third-party manufacturer).
+
 ## Markets and Clients
+
+Art markets: Homer Watson House & Gallery (Ontario), Merry Minis Market. Wholesale greeting cards available via millietragedy@gmail.com. Sticker sales through @stickwithpapaya. No commercial licensing clients documented. Open to freelance commissions.
 
 ## Portfolio and Presence
 
+- Website: emilytragedy.com
+- Instagram: @tragicallyindecisive (628 followers)
+- Etsy shop (stickers, greeting cards, linocut prints)
+- Email: millietragedy@gmail.com (wholesale inquiries)
+
 ## Career Path
+
+Ontario-based freelance illustrator. Studied illustration and creative arts at Sheridan College and Fanshawe College. Built a practice combining digital illustration, printmaking, tattoo art, and surface design. Active at Ontario art markets. Currently developing a choose-your-own-adventure book. Instagram documents an active creative output including linocut printing and Cryptid Collection skateboard designs (Mothman, Jersey Devil).
 
 ## Pattern Focus
 
+Selected patterns suggest dark folkloric and character-based imagery with surface design application — bold silhouettes, illustrated figures, and decorative elements drawn from mythology and cryptid iconography. The Cryptid Collection skateboard series (Mothman of Point Pleasant, Jersey Devil) represents one documented surface design collection. Work applies naturally to greeting cards, stickers, and smaller-format printed goods.
+
 ## Connections
+
+- [[Sheridan College]]
+- [[Surface Pattern Design]]
+- [[Illustration]]
+- [[Linocut Printmaking]]
+- [[Ontario]]
+- [[Cryptid Collection]]

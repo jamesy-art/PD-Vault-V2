@@ -28,7 +28,7 @@ bio: ''
 website: 'https://karismithdesigns.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/karismithdesigns
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Kari Smith Designs
 website_meta_description: >-
   Kari Smith Designs Illustration portfolio and contact information for
@@ -273,7 +276,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -298,40 +301,172 @@ instagram_profile_image_bytes: 4310
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/karismithdesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/karismithdesigns/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/karismithdesigns/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/karismithdesigns/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961425405227_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961542603366_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961551029395_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092025932577610_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092026024601786_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1698772285_3225858193972466314_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680137723036_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146150777_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146282438_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146298286_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680154675872_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680137872456_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680146189526_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680146315282_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680364258294_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804070017_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804138748_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001812294501_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001812448701_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001971682315_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264292999846_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301331225_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301367711_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301409239_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301549923_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036259560885_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036259724753_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036335133626_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036343692741_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036360220518_1243029748.jpg
+instagram_image_count: 30
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961425405227_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092025932577610_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1698772285_3225858193972466314_1243029748.jpg
+  - >-
+    ../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804138748_1243029748.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # karismithdesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/karismithdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/karismithdesigns/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961425405227_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961425405227_1243029748.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961542603366_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961542603366_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961551029395_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1643404310_2761397961551029395_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092025932577610_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092025932577610_1243029748.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092026024601786_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1686283184_3121092026024601786_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1698772285_3225858193972466314_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1698772285_3225858193972466314_1243029748.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680137723036_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680137723036_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146150777_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146150777_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146282438_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146282438_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146298286_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680146298286_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680154675872_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186522_3237721680154675872_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680137872456_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680137872456_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680146189526_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680146189526_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680146315282_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680146315282_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680364258294_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700186523_3237721680364258294_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804070017_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804070017_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804138748_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001804138748_1243029748.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001812294501_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001812294501_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001812448701_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001812448701_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001971682315_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952123_3244144001971682315_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264292999846_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264292999846_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301331225_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301331225_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301367711_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301367711_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301409239_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301409239_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301549923_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1700952512_3244147264301549923_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036259560885_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036259560885_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036259724753_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036259724753_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036335133626_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036335133626_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036343692741_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036343692741_1243029748.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036360220518_1243029748.jpg)<br><!-- image:../../assets/designers/karismithdesigns/instagram/karismithdesigns_1701749637_3250834036360220518_1243029748.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kari Smith is a freelance surface pattern designer and illustrator based in the United States, with over twenty years of professional experience. She trained at the College for Creative Studies in Detroit and built a commercial career spanning in-house graphic design and freelance licensing, including a formative period at American Greetings where she discovered surface pattern through wrapping paper development. Her work spans florals, children's illustration, holiday themes, abstract watercolours, and character-based motifs.
+
 ## Style and Aesthetic
+
+Loose watercolour with a lively, expressive quality—wet-on-wet bleeds and swirling colour movement are characteristic. Subject matter ranges from colourful florals and whimsical children's art to bugs, fruit and vegetables, holiday themes, and abstract watercolour compositions. Selected Instagram patterns suggest bright, densely illustrated surface designs with cross-market commercial appeal.
 
 ## Techniques and Tools
 
+Primary medium: watercolour (loose, wet-on-wet style). Also works with photography combined with illustration. Fully fluent in the digital production pipeline from concept to print-ready file output—she describes genuinely enjoying the technical finishing process. Trend-aware; actively tracks colour, fashion, and home decor cycles.
+
 ## Markets and Clients
+
+Documented clients: American Greetings (wrapping paper patterns), Target, Poetry Factory, Pickles n Roses, Minky Couture. Work also available via Society6, Spoonflower, and Etsy. Active across womenswear, kidswear, home decor, and stationery markets. Open to custom illustration projects and licensing inquiries.
 
 ## Portfolio and Presence
 
+- Website: https://karismithdesigns.com
+- Instagram: @karismithdesigns
+- Society6, Spoonflower, Etsy — listed
+
 ## Career Path
+
+Trained at the College for Creative Studies, Detroit, then held various graphic design positions before joining American Greetings in Cleveland. There she developed wrapping paper patterns and rediscovered a passion for painting and illustration. She has since built an independent freelance and licensing practice spanning more than twenty years, working with diverse clients across multiple product categories.
 
 ## Pattern Focus
 
+Colourful surface patterns across florals, children's whimsical motifs, seasonal and holiday themes, bugs and critters, fruit and vegetables, and abstract watercolour. Selected patterns suggest vibrant all-over designs with broad commercial versatility across multiple market categories.
+
 ## Connections
+
+- [[American Greetings]] — career-defining client, wrapping paper pattern design
+- [[Spoonflower]] — pattern licensing and print-on-demand platform
+- [[Society6]] — print-on-demand platform
+- [[Flower Pattern]] — primary pattern type
+- [[Children's Market]] — key design category
+- [[Art Licensing]] — business model

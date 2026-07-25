@@ -23,7 +23,7 @@ bio: ''
 website: 'https://martincampi.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/martincampi.prints
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Martin Campi Studio
 website_meta_description: ''
 website_about_raw: >-
@@ -150,7 +153,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -167,45 +170,139 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/628506463_18080766686592310_933837677195812625_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFx6q9f-TpSU9IapobeMNdE9r8PAgfYvLIkpnpD5eqp0ZbCkeLW3Flz64iP18SD1fI&_nc_ohc=MvzZUxAhCswQ7kNvwFaSE30&_nc_gid=NvUpJRSnOZstrYBsFXyt-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5DSSe1bqPBxV7yP9LuyBi-OG4JhGTcjaCxmwqMhUDP_A&oe=6A13CF0F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/628506463_18080766686592310_933837677195812625_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFx6q9f-TpSU9IapobeMNdE9r8PAgfYvLIkpnpD5eqp0ZbCkeLW3Flz64iP18SD1fI&_nc_ohc=MvzZUxAhCswQ7kNvwFaSE30&_nc_gid=NvUpJRSnOZstrYBsFXyt-Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5DSSe1bqPBxV7yP9LuyBi-OG4JhGTcjaCxmwqMhUDP_A&oe=6A13CF0F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6476
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/martincampi.prints/profile/628506463_18080766686592310_933837677195812625_n.jpg
+instagram_profile_image_bytes: 72664
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/martincampi.prints/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/martincampi.prints/profile/628506463_18080766686592310_933837677195812625_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/martincampi.prints/profile/628506463_18080766686592310_933837677195812625_n.jpg
+profile_image_local: >-
+  ../../assets/designers/martincampi.prints/profile/628506463_18080766686592310_933837677195812625_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/martincampi.prints/profile/628506463_18080766686592310_933837677195812625_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642428000_2753208077942711409_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252867104971_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252992985564_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1652800843_2840221787776251329_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654266600_2852517450299932924_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654526262_2854695651008627881_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011028134789_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036529144_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036691907_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011053435461_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463060763104_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463144573711_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908782252893_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908832598457_47778600309.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642428000_2753208077942711409_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252992985564_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1652800843_2840221787776251329_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654266600_2852517450299932924_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654526262_2854695651008627881_47778600309.webp
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036529144_47778600309.jpg
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463144573711_47778600309.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908782252893_47778600309.jpg
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # martincampi.prints
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/martincampi.prints/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/martincampi.prints/profile/628506463_18080766686592310_933837677195812625_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642428000_2753208077942711409_47778600309.webp)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642428000_2753208077942711409_47778600309.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252867104971_47778600309.webp)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252867104971_47778600309.webp --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252992985564_47778600309.webp)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1642683844_2755354252992985564_47778600309.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1652800843_2840221787776251329_47778600309.webp)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1652800843_2840221787776251329_47778600309.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654266600_2852517450299932924_47778600309.webp)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654266600_2852517450299932924_47778600309.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654526262_2854695651008627881_47778600309.webp)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1654526262_2854695651008627881_47778600309.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011028134789_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011028134789_47778600309.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036529144_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036529144_47778600309.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036691907_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011036691907_47778600309.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011053435461_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1675870013_3033740011053435461_47778600309.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463060763104_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463060763104_47778600309.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463144573711_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1695133334_3195332463144573711_47778600309.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908782252893_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908782252893_47778600309.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908832598457_47778600309.jpg)<br><!-- image:../../assets/designers/martincampi.prints/instagram/martincampi.prints_1750267326_3657829908832598457_47778600309.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Martín Campi is a graphic and textile designer and illustrator based in Argentina, with 18 years of experience in the textile industry collaborating with studios and international clothing brands. His studio, MC Studio, focuses on exclusive print and pattern design primarily for swim and beachwear brands, with additional capability across activewear, sportswear, womenswear, and menswear.
+
 ## Style and Aesthetic
+
+Campi's design sensibility is shaped by British heritage style and Californian surf aesthetics — two influences he cites as defining his print language. Selected Instagram images suggest bold, graphic print work with strong illustration references appropriate for seasonal resort and swim collections.
 
 ## Techniques and Tools
 
+Designs delivered in 300 dpi layered PSD or AI format, separated by colour. Works at Rapport scale. Colour indexing available. Vector and image-based illustration capability. Trend consulting and collection planning services offered.
+
 ## Markets and Clients
+
+Primary market: swim and beachwear brands. Additional markets: activewear, sportswear, womenswear, and menswear. 18 years of collaboration with international clothing brands (specific brands unverified). Open to direct collaboration. Selected placements confirm beachwear product application.
 
 ## Portfolio and Presence
 
+- Website: https://martincampi.com
+- Instagram: https://instagram.com/martincampi.prints (1,738 followers)
+
 ## Career Path
+
+Born in Argentina. Fascinated by fashion from British heritage and Californian surf culture from an early age. Spent 18 years in textile studios collaborating with international clothing brands before establishing MC Studio as an independent print design practice.
 
 ## Pattern Focus
 
+Selected Instagram images suggest bold graphic prints with strong illustration roots suited to swim and beachwear. Multiple colour variants are standard. Collections are produced as exclusive, production-ready designs with layered file delivery.
+
 ## Connections
+
+- [[Swimwear Market]]
+- [[Activewear Market]]
+- [[Graphic Print]]
+- [[Textile Design]]

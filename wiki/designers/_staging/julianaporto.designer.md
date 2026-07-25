@@ -1,40 +1,40 @@
 ---
-applied: '9/25/2025 15:20:18'
+applied: 9/25/2025 15:20:18
 email: trammas.juporto@gmail.com
 name: Juliana Porto
 slug: julianaporto.designer
 type: pattern designer
-experience: ''
+experience: ""
 open to:
-  - ''
-  - ''
+  - ""
+  - ""
 pricing: []
 skills:
   - Pattern design
   - Colour theory
 country: Brazil
-can_use: 'Yes'
+can_use: Yes
 instagram_handle: julianaporto.designer
-instagram: 'https://instagram.com/julianaporto.designer'
-bio: ''
-website: 'https://julianaportodesigner.myportfolio.com'
-website_about: ''
-accepted: ''
-level: level_3
+instagram: https://instagram.com/julianaporto.designer
+bio: ""
+website: https://julianaportodesigner.myportfolio.com
+website_about: ""
+accepted: ""
+level: level_2
 asset_folder: wiki/assets/designers/julianaporto.designer
-profile_url: ''
+profile_url: ""
 instagram_images:
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
+  - ""
 website_images:
-  - ''
-  - ''
-  - ''
-  - ''
+  - ""
+  - ""
+  - ""
+  - ""
 tags:
   - pattern_designer
   - level_3
@@ -42,165 +42,10 @@ tags:
   - has_profile_image
 website_title: Juliana Porto
 website_meta_description: Designer de estampas / Print designer
-website_about_raw: >-
-  Designer de estampas / Print designer Juliana Porto Designer de estampas /
-  Print Pattern Designer Estampas / Prints Sobre mim / About me Contato /
-  Contact Designer de estampas / Print Pattern Designer designer de
-  estampas,print designer,textile designer,surface
-  designer,moda,fashion,print,estampa,estampas SOBRE MIM / ABOUT ME [PT]
-  Olá!Seja bem-vindo!Meu nome é Juliana Porto de Souza. Sou brasileira, formada
-  em Desenho de Moda pela Faculdade Santa Marcelina e pós-graduada em Gestão do
-  Design na Indústria da Moda pelo SENAI-SP.Trabalhei em confecções de
-  vestuário, em tecelagem e estamparia e lecionei design de moda em cursos
-  livres.Tenho grande afinidade por moda, design, cultura, arte e história do
-  Brasil e do mundo. E o design de estamparia me permite criar envolvendo todas
-  essas áreas.Atualmente trabalho como designer freelancer desenvolvendo
-  estampas através de técnicas manuais e digitais, além do uso de Inteligência
-  Artificial.Conheça o meu trabalho como designer de estampas e entre em contato
-  comigo para que possamos desenvolver juntos lindas estampas exclusivas.
-  [EN]Hello!Welcome!My name is Juliana Porto de Souza. I am Brazilian, graduated
-  in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a
-  postgraduate degree in Design Management in the Fashion Industry from SENAI-SP
-  (institute of industrial education in São Paulo, Brazil).I have worked in
-  clothing manufacturing, weaving and printing, and have taught fashion design
-  in independent courses.I have a great affinity for fashion, design, culture,
-  art and history of Brazil and of the world. And designing print patterns for
-  fabrics allows me to create involving all of these areas.I currently work as a
-  freelance designer developing print patterns using manual and digital
-  techniques, in addition to the use of Artificial Intelligence.Get to know my
-  work as a print pattern designer and get in touch with me so that we can
-  develop beautiful, exclusive prints together. ↑Back to Top [PT] Olá!Seja
-  bem-vindo!Meu nome é Juliana Porto de Souza. Sou brasileira, formada em
-  Desenho de Moda pela Faculdade Santa Marcelina e pós-graduada em Gestão do
-  Design na Indústria da Moda pelo SENAI-SP.Trabalhei em confecções de
-  vestuário, em tecelagem e estamparia e lecionei design de moda em cursos
-  livres.Tenho grande afinidade por moda, design, cultura, arte e história do
-  Brasil e do mundo. E o design de estamparia me permite criar envolvendo todas
-  essas áreas.Atualmente trabalho como designer freelancer desenvolvendo
-  estampas através de técnicas manuais e digitais, além do uso de Inteligência
-  Artificial.Conheça o meu trabalho como designer de estampas e entre em contato
-  comigo para que possamos desenvolver juntos lindas estampas exclusivas.
-  [EN]Hello!Welcome!My name is Juliana Porto de Souza. I am Brazilian, graduated
-  in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a
-  postgraduate degree in Design Management in the Fashion Industry from SENAI-SP
-  (institute of industrial education in São Paulo, Brazil).I have worked in
-  clothing manufacturing, weaving and printing, and have taught fashion design
-  in independent courses.I have a great affinity for fashion, design, culture,
-  art and history of Brazil and of the world. And designing print patterns for
-  fabrics allows me to create involving all of these areas.I currently work as a
-  freelance designer developing print patterns using manual and digital
-  techniques, in addition to the use of Artificial Intelligence.Get to know my
-  work as a print pattern designer and get in touch with me so that we can
-  develop beautiful, exclusive prints together. Meu nome é Juliana Porto de
-  Souza. Sou brasileira, formada em Desenho de Moda pela Faculdade Santa
-  Marcelina e pós-graduada em Gestão do Design na Indústria da Moda pelo
-  SENAI-SP. Trabalhei em confecções de vestuário, em tecelagem e estamparia e
-  lecionei design de moda em cursos livres. Tenho grande afinidade por moda,
-  design, cultura, arte e história do Brasil e do mundo. E o design de
-  estamparia me permite criar envolvendo todas essas áreas. Atualmente trabalho
-  como designer freelancer desenvolvendo estampas através de técnicas manuais e
-  digitais, além do uso de Inteligência Artificial. Conheça o meu trabalho como
-  designer de estampas e entre em contato comigo para que possamos desenvolver
-  juntos lindas estampas exclusivas. My name is Juliana Porto de Souza. I am
-  Brazilian, graduated in Fashion Design from Santa Marcelina College (São
-  Paulo, Brazil) and have a postgraduate degree in Design Management in the
-  Fashion Industry from SENAI-SP (institute of industrial education in São
-  Paulo, Brazil). I have worked in clothing manufacturing, weaving and printing,
-  and have taught fashion design in independent courses. I have a great affinity
-  for fashion, design, culture, art and history of Brazil and of the world. And
-  designing print patterns for fabrics allows me to create involving all of
-  these areas. I currently work as a freelance designer developing print
-  patterns using manual and digital techniques, in addition to the use of
-  Artificial Intelligence. Get to know my work as a print pattern designer and
-  get in touch with me so that we can develop beautiful, exclusive prints
-  together. HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM /
-  ABOUT ME CONTATO / CONTACT JULIANA PORTO SOBRE MIM / ABOUT ME Juliana Porto -
-  SOBRE MIM / ABOUT ME HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE
-  SOBRE MIM / ABOUT ME CONTATO / CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE /
-  COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO
-  SOBRE MIM / ABOUT ME [PT] Olá! Sou brasileira, formada em Desenho de Moda pela
-  Faculdade Santa Marcelina e pós-graduada em Gestão do Design na Indústria da
-  Moda pelo SENAI-SP. Tenho grande afinidade por moda, design, cultura, arte e
-  história do Brasil e do mundo. E o design de estamparia me permite criar
-  envolvendo todas essas áreas. I am Brazilian, graduated in Fashion Design from
-  Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in
-  Design Management in the Fashion Industry from SENAI-SP (institute of
-  industrial education in São Paulo, Brazil). I have a great affinity for
-  fashion, design, culture, art and history of Brazil and of the world. And
-  designing print patterns for fabrics allows me to create involving all of
-  these areas. CONTATO / CONTACT Thank you! ↑Back to Top HOME WORK COLEÇÃO SOFT
-  FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT
-  JULIANA PORTO CONTATO / CONTACT Juliana Porto - CONTATO / CONTACT HOME WORK
-  COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO /
-  CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM /
-  ABOUT ME CONTATO / CONTACT JULIANA PORTO CONTATO / CONTACT Name * Email
-  Address * Message * Submit Thank you! Folhagem Tropical / Tropical Foliage
-  Efeito gráfico / Graphic Effect Flores do Campo / Wildflowers Folhagem
-  colorida / Colorful Foliage Folhagem colorida 2 / Colorful Foliage 2 Mosaico
-  Bologna / Bologna Mosaic Flor de laranjeira / Orange Blossom Bananeira mista /
-  Mixed banana leaf Folhagem verde mista / Mixed green foliage Palmeiras soft /
-  Soft palm Folhagem verde e rose / Green and soft pink foliage Coqueiro Diverso
-  1 / Diverse Coconut tree 1 Coqueiro Diverso 2 / Diverse Coconut tree 2
-  Borboletas no jardim / Butterflies in the garden
-  https://cdn.myportfolio.com/b6a1dee1-a01b-414e-bba7-ce87265f1f3d/5584452a-298b-4f29-8d95-f832f49a7915_car_4x3.png?h=87dbed55c8aa52f8fceb368ab77f8dab
-  HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME
-  CONTATO / CONTACT JULIANA PORTO JULIANA PORTO Designer de Estampas / Print
-  Pattern Designer
-website_about_clean: >-
-  Designer de estampas / Print designer Juliana Porto Designer de estampas /
-  Print Pattern Designer Estampas / Prints Sobre mim / About me Contato /
-  Contact Designer de estampas / Print Pattern Designer designer de
-  estampas,print designer,textile designer,surface
-  designer,moda,fashion,print,estampa,estampas SOBRE MIM / ABOUT ME [PT]
-  Olá!Seja bem-vindo!Meu nome é Juliana Porto de Souza. E o design de estamparia
-  me permite criar envolvendo todas essas áreas.Atualmente trabalho como
-  designer freelancer desenvolvendo estampas através de técnicas manuais e
-  digitais, além do uso de Inteligência Artificial.Conheça o meu trabalho como
-  designer de estampas e entre em contato comigo para que possamos desenvolver
-  juntos lindas estampas exclusivas. Hello!Welcome!My name is Juliana Porto de
-  Souza. I am Brazilian, graduated in Fashion Design from Santa Marcelina
-  College (São Paulo, Brazil) and have a postgraduate degree in Design
-  Management in the Fashion Industry from SENAI-SP (institute of industrial
-  education in São Paulo, Brazil).I have worked in clothing manufacturing,
-  weaving and printing, and have taught fashion design in independent courses.I
-  have a great affinity for fashion, design, culture, art and history of Brazil
-  and of the world. And designing print patterns for fabrics allows me to create
-  involving all of these areas.I currently work as a freelance designer
-  developing print patterns using manual and digital techniques, in addition to
-  the use of Artificial Intelligence.Get to know my work as a print pattern
-  designer and get in touch with me so that we can develop beautiful, exclusive
-  prints together. Atualmente trabalho como designer freelancer desenvolvendo
-  estampas através de técnicas manuais e digitais, além do uso de Inteligência
-  Artificial. Conheça o meu trabalho como designer de estampas e entre em
-  contato comigo para que possamos desenvolver juntos lindas estampas
-  exclusivas. I am Brazilian, graduated in Fashion Design from Santa Marcelina
-  College (São Paulo, Brazil) and have a postgraduate degree in Design
-  Management in the Fashion Industry from SENAI-SP (institute of industrial
-  education in São Paulo, Brazil). I currently work as a freelance designer
-  developing print patterns using manual and digital techniques, in addition to
-  the use of Artificial Intelligence. Get to know my work as a print pattern
-  designer and get in touch with me so that we can develop beautiful, exclusive
-  prints together. Folhagem Tropical / Tropical Foliage Efeito gráfico / Graphic
-  Effect Flores do Campo / Wildflowers Folhagem colorida / Colorful Foliage
-  Folhagem colorida 2 / Colorful Foliage 2 Mosaico Bologna / Bologna Mosaic Flor
-  de laranjeira / Orange Blossom Bananeira mista / Mixed banana leaf Folhagem
-  verde mista / Mixed green foliage Palmeiras soft / Soft palm Folhagem verde e
-  rose / Green and soft pink foliage Coqueiro Diverso 1 / Diverse Coconut tree 1
-  Coqueiro Diverso 2 / Diverse Coconut tree 2 Borboletas no jardim / Butterflies
-  in the garden HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE
-  MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO JULIANA PORTO Designer de
-  Estampas / Print Pattern Designer
-website_project_text: >-
-  I have worked in clothing manufacturing, weaving and printing, and have taught
-  fashion design in independent courses. And designing print patterns for
-  fabrics allows me to create involving all of these areas. HOME WORK COLEÇÃO
-  SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT
-  JULIANA PORTO SOBRE MIM / ABOUT ME Juliana Porto - SOBRE MIM / ABOUT ME HOME
-  WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME
-  CONTATO / CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE
-  SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO SOBRE MIM / ABOUT ME [PT]
-  Olá!
-website_social_text: ''
+website_about_raw: Designer de estampas / Print designer Juliana Porto Designer de estampas / Print Pattern Designer Estampas / Prints Sobre mim / About me Contato / Contact Designer de estampas / Print Pattern Designer designer de estampas,print designer,textile designer,surface designer,moda,fashion,print,estampa,estampas SOBRE MIM / ABOUT ME [PT] Olá!Seja bem-vindo!Meu nome é Juliana Porto de Souza. Sou brasileira, formada em Desenho de Moda pela Faculdade Santa Marcelina e pós-graduada em Gestão do Design na Indústria da Moda pelo SENAI-SP.Trabalhei em confecções de vestuário, em tecelagem e estamparia e lecionei design de moda em cursos livres.Tenho grande afinidade por moda, design, cultura, arte e história do Brasil e do mundo. E o design de estamparia me permite criar envolvendo todas essas áreas.Atualmente trabalho como designer freelancer desenvolvendo estampas através de técnicas manuais e digitais, além do uso de Inteligência Artificial.Conheça o meu trabalho como designer de estampas e entre em contato comigo para que possamos desenvolver juntos lindas estampas exclusivas. [EN]Hello!Welcome!My name is Juliana Porto de Souza. I am Brazilian, graduated in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP (institute of industrial education in São Paulo, Brazil).I have worked in clothing manufacturing, weaving and printing, and have taught fashion design in independent courses.I have a great affinity for fashion, design, culture, art and history of Brazil and of the world. And designing print patterns for fabrics allows me to create involving all of these areas.I currently work as a freelance designer developing print patterns using manual and digital techniques, in addition to the use of Artificial Intelligence.Get to know my work as a print pattern designer and get in touch with me so that we can develop beautiful, exclusive prints together. ↑Back to Top [PT] Olá!Seja bem-vindo!Meu nome é Juliana Porto de Souza. Sou brasileira, formada em Desenho de Moda pela Faculdade Santa Marcelina e pós-graduada em Gestão do Design na Indústria da Moda pelo SENAI-SP.Trabalhei em confecções de vestuário, em tecelagem e estamparia e lecionei design de moda em cursos livres.Tenho grande afinidade por moda, design, cultura, arte e história do Brasil e do mundo. E o design de estamparia me permite criar envolvendo todas essas áreas.Atualmente trabalho como designer freelancer desenvolvendo estampas através de técnicas manuais e digitais, além do uso de Inteligência Artificial.Conheça o meu trabalho como designer de estampas e entre em contato comigo para que possamos desenvolver juntos lindas estampas exclusivas. [EN]Hello!Welcome!My name is Juliana Porto de Souza. I am Brazilian, graduated in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP (institute of industrial education in São Paulo, Brazil).I have worked in clothing manufacturing, weaving and printing, and have taught fashion design in independent courses.I have a great affinity for fashion, design, culture, art and history of Brazil and of the world. And designing print patterns for fabrics allows me to create involving all of these areas.I currently work as a freelance designer developing print patterns using manual and digital techniques, in addition to the use of Artificial Intelligence.Get to know my work as a print pattern designer and get in touch with me so that we can develop beautiful, exclusive prints together. Meu nome é Juliana Porto de Souza. Sou brasileira, formada em Desenho de Moda pela Faculdade Santa Marcelina e pós-graduada em Gestão do Design na Indústria da Moda pelo SENAI-SP. Trabalhei em confecções de vestuário, em tecelagem e estamparia e lecionei design de moda em cursos livres. Tenho grande afinidade por moda, design, cultura, arte e história do Brasil e do mundo. E o design de estamparia me permite criar envolvendo todas essas áreas. Atualmente trabalho como designer freelancer desenvolvendo estampas através de técnicas manuais e digitais, além do uso de Inteligência Artificial. Conheça o meu trabalho como designer de estampas e entre em contato comigo para que possamos desenvolver juntos lindas estampas exclusivas. My name is Juliana Porto de Souza. I am Brazilian, graduated in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP (institute of industrial education in São Paulo, Brazil). I have worked in clothing manufacturing, weaving and printing, and have taught fashion design in independent courses. I have a great affinity for fashion, design, culture, art and history of Brazil and of the world. And designing print patterns for fabrics allows me to create involving all of these areas. I currently work as a freelance designer developing print patterns using manual and digital techniques, in addition to the use of Artificial Intelligence. Get to know my work as a print pattern designer and get in touch with me so that we can develop beautiful, exclusive prints together. HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO SOBRE MIM / ABOUT ME Juliana Porto - SOBRE MIM / ABOUT ME HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO SOBRE MIM / ABOUT ME [PT] Olá! Sou brasileira, formada em Desenho de Moda pela Faculdade Santa Marcelina e pós-graduada em Gestão do Design na Indústria da Moda pelo SENAI-SP. Tenho grande afinidade por moda, design, cultura, arte e história do Brasil e do mundo. E o design de estamparia me permite criar envolvendo todas essas áreas. I am Brazilian, graduated in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP (institute of industrial education in São Paulo, Brazil). I have a great affinity for fashion, design, culture, art and history of Brazil and of the world. And designing print patterns for fabrics allows me to create involving all of these areas. CONTATO / CONTACT Thank you! ↑Back to Top HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO CONTATO / CONTACT Juliana Porto - CONTATO / CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO CONTATO / CONTACT Name * Email Address * Message * Submit Thank you! Folhagem Tropical / Tropical Foliage Efeito gráfico / Graphic Effect Flores do Campo / Wildflowers Folhagem colorida / Colorful Foliage Folhagem colorida 2 / Colorful Foliage 2 Mosaico Bologna / Bologna Mosaic Flor de laranjeira / Orange Blossom Bananeira mista / Mixed banana leaf Folhagem verde mista / Mixed green foliage Palmeiras soft / Soft palm Folhagem verde e rose / Green and soft pink foliage Coqueiro Diverso 1 / Diverse Coconut tree 1 Coqueiro Diverso 2 / Diverse Coconut tree 2 Borboletas no jardim / Butterflies in the garden https://cdn.myportfolio.com/b6a1dee1-a01b-414e-bba7-ce87265f1f3d/5584452a-298b-4f29-8d95-f832f49a7915_car_4x3.png?h=87dbed55c8aa52f8fceb368ab77f8dab HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO JULIANA PORTO Designer de Estampas / Print Pattern Designer
+website_about_clean: Designer de estampas / Print designer Juliana Porto Designer de estampas / Print Pattern Designer Estampas / Prints Sobre mim / About me Contato / Contact Designer de estampas / Print Pattern Designer designer de estampas,print designer,textile designer,surface designer,moda,fashion,print,estampa,estampas SOBRE MIM / ABOUT ME [PT] Olá!Seja bem-vindo!Meu nome é Juliana Porto de Souza. E o design de estamparia me permite criar envolvendo todas essas áreas.Atualmente trabalho como designer freelancer desenvolvendo estampas através de técnicas manuais e digitais, além do uso de Inteligência Artificial.Conheça o meu trabalho como designer de estampas e entre em contato comigo para que possamos desenvolver juntos lindas estampas exclusivas. Hello!Welcome!My name is Juliana Porto de Souza. I am Brazilian, graduated in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP (institute of industrial education in São Paulo, Brazil).I have worked in clothing manufacturing, weaving and printing, and have taught fashion design in independent courses.I have a great affinity for fashion, design, culture, art and history of Brazil and of the world. And designing print patterns for fabrics allows me to create involving all of these areas.I currently work as a freelance designer developing print patterns using manual and digital techniques, in addition to the use of Artificial Intelligence.Get to know my work as a print pattern designer and get in touch with me so that we can develop beautiful, exclusive prints together. Atualmente trabalho como designer freelancer desenvolvendo estampas através de técnicas manuais e digitais, além do uso de Inteligência Artificial. Conheça o meu trabalho como designer de estampas e entre em contato comigo para que possamos desenvolver juntos lindas estampas exclusivas. I am Brazilian, graduated in Fashion Design from Santa Marcelina College (São Paulo, Brazil) and have a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP (institute of industrial education in São Paulo, Brazil). I currently work as a freelance designer developing print patterns using manual and digital techniques, in addition to the use of Artificial Intelligence. Get to know my work as a print pattern designer and get in touch with me so that we can develop beautiful, exclusive prints together. Folhagem Tropical / Tropical Foliage Efeito gráfico / Graphic Effect Flores do Campo / Wildflowers Folhagem colorida / Colorful Foliage Folhagem colorida 2 / Colorful Foliage 2 Mosaico Bologna / Bologna Mosaic Flor de laranjeira / Orange Blossom Bananeira mista / Mixed banana leaf Folhagem verde mista / Mixed green foliage Palmeiras soft / Soft palm Folhagem verde e rose / Green and soft pink foliage Coqueiro Diverso 1 / Diverse Coconut tree 1 Coqueiro Diverso 2 / Diverse Coconut tree 2 Borboletas no jardim / Butterflies in the garden HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO JULIANA PORTO Designer de Estampas / Print Pattern Designer
+website_project_text: I have worked in clothing manufacturing, weaving and printing, and have taught fashion design in independent courses. And designing print patterns for fabrics allows me to create involving all of these areas. HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO SOBRE MIM / ABOUT ME Juliana Porto - SOBRE MIM / ABOUT ME HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT HOME WORK COLEÇÃO SOFT FOLIAGE / COLLECTION SOFT FOLIAGE SOBRE MIM / ABOUT ME CONTATO / CONTACT JULIANA PORTO SOBRE MIM / ABOUT ME [PT] Olá!
+website_social_text: ""
 scrape_quality: excellent
 scrape_quality_score: 85
 usable_for_claude: true
@@ -213,10 +58,10 @@ categories:
   - Womenswear
 source_status: scraped
 enrichment_status: needs_claude
-manual_about_raw: ''
+manual_about_raw: ""
 manual_reviewed: false
-manual_quality: ''
-manual_review_note: ''
+manual_quality: ""
+manual_review_note: ""
 instagram_full_name: Juliana Porto designer
 instagram_biography: |-
   Designer de estampa. Profissional graduada em Design de Moda.
@@ -229,20 +74,19 @@ instagram_follows_count: 309
 instagram_private: false
 instagram_verified: false
 instagram_business_account: true
-instagram_profile_pic_url: >-
-  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/516702205_17844136056530643_5154174062475908806_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGtF2EHWOPrE4C5l0r5De_ztMEMMqLgaQczOz8En_4lv0GXTS7pyB4vwHJfHvKpW8c&_nc_ohc=uDNEcKWCTGIQ7kNvwFoCQgv&_nc_gid=xX_BgroWrc3y9ji81-SwNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ZCAFChwPrAGZjfmbzqlFehTZCYggIINfgf9bm5Ri0TQ&oe=6A13FA7F&_nc_sid=8b3546
-instagram_profile_pic_best_url: >-
-  https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/516702205_17844136056530643_5154174062475908806_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGtF2EHWOPrE4C5l0r5De_ztMEMMqLgaQczOz8En_4lv0GXTS7pyB4vwHJfHvKpW8c&_nc_ohc=uDNEcKWCTGIQ7kNvwFoCQgv&_nc_gid=xX_BgroWrc3y9ji81-SwNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ZCAFChwPrAGZjfmbzqlFehTZCYggIINfgf9bm5Ri0TQ&oe=6A13FA7F&_nc_sid=8b3546
+instagram_profile_pic_url: https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/516702205_17844136056530643_5154174062475908806_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGtF2EHWOPrE4C5l0r5De_ztMEMMqLgaQczOz8En_4lv0GXTS7pyB4vwHJfHvKpW8c&_nc_ohc=uDNEcKWCTGIQ7kNvwFoCQgv&_nc_gid=xX_BgroWrc3y9ji81-SwNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ZCAFChwPrAGZjfmbzqlFehTZCYggIINfgf9bm5Ri0TQ&oe=6A13FA7F&_nc_sid=8b3546
+instagram_profile_pic_best_url: https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/516702205_17844136056530643_5154174062475908806_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGtF2EHWOPrE4C5l0r5De_ztMEMMqLgaQczOz8En_4lv0GXTS7pyB4vwHJfHvKpW8c&_nc_ohc=uDNEcKWCTGIQ7kNvwFoCQgv&_nc_gid=xX_BgroWrc3y9ji81-SwNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ZCAFChwPrAGZjfmbzqlFehTZCYggIINfgf9bm5Ri0TQ&oe=6A13FA7F&_nc_sid=8b3546
 instagram_profile_image_local: ../../assets/designers/julianaporto.designer/profile/instagram-profile.jpg
 instagram_profile_image_bytes: 3750
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/julianaporto.designer/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/julianaporto.designer/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/julianaporto.designer/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/julianaporto.designer/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
@@ -262,16 +106,37 @@ profile_image_synced: true
 
 ## Overview
 
+Juliana Porto de Souza is a Brazilian print pattern designer based in São Paulo. She holds a degree in Fashion Design from Santa Marcelina College and a postgraduate degree in Design Management in the Fashion Industry from SENAI-SP. She has worked in clothing manufacturing, weaving, and textile printing, and has taught fashion design in independent courses. She currently works as a freelance designer developing print patterns using manual techniques, digital tools, and artificial intelligence.
+
 ## Style and Aesthetic
+
+Juliana's portfolio references a tropical and botanically rich vocabulary: Tropical Foliage, Wildflowers, Colorful Foliage, Orange Blossom, Mixed Banana Leaf, Soft Palm, Butterflies in the Garden, and a Bologna Mosaic. This suggests a strong connection to Brazilian natural themes alongside broader decorative motif work with accessible global appeal.
 
 ## Techniques and Tools
 
+Juliana works across manual and digital techniques, and explicitly includes artificial intelligence as part of her current design workflow. Her background spans hands-on weaving, textile printing, and garment manufacturing — giving her technical production literacy alongside her creative practice.
+
 ## Markets and Clients
+
+- Womenswear (stated category)
+- Available for freelance commissions
+- Separate licensing catalogue available on request for brand partners
 
 ## Portfolio and Presence
 
+- Website: https://julianaportodesigner.myportfolio.com
+- Instagram: https://instagram.com/julianaporto.designer (189 followers, 38 posts)
+
 ## Career Path
+
+Juliana Porto studied Fashion Design at Santa Marcelina College in São Paulo and completed a postgraduate specialisation in Design Management at SENAI-SP. She has worked in clothing manufacturing, weaving, and textile printing, and taught fashion design in independent courses. She transitioned to freelance print pattern design, combining industry production knowledge with digital and AI-assisted creative tools.
 
 ## Pattern Focus
 
+Tropical and botanical motifs — foliage, florals, palm, banana leaf, butterflies — rooted in Brazilian natural themes. Portfolio also includes geometric exploration (Bologna Mosaic, Graphic Effect), suggesting versatility across fashion print and home decor applications.
+
 ## Connections
+
+- [[Womenswear]] — primary market
+- [[Botanical]] — primary motif category
+- [[Brazil]] — location and cultural influence

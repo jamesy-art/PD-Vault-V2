@@ -28,7 +28,7 @@ bio: ''
 website: 'https://wanderingmoda.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/wanderingmoda
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Surface Pattern Design & Art Licensing | WanderingModa
 website_meta_description: >-
   Surface pattern design and art licensing for lifestyle and retail products.
@@ -258,7 +261,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -278,45 +281,246 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/376802968_317126640872994_269575093538235516_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDMuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE04M4El-cYMndX3mF-m7yhElVak_ecDj9EYlw2KITdTChzWR2rHlH_YqTdLgELNak&_nc_ohc=4qTQqN2FLxIQ7kNvwEvzWhl&_nc_gid=YJgT3u-sMQh20BIYNlHQCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7MLARNqEk5HYg5IoNLbfiN0RCFD_iphwYiL-cOhobF1A&oe=6A13F692&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/376802968_317126640872994_269575093538235516_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDMuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gE04M4El-cYMndX3mF-m7yhElVak_ecDj9EYlw2KITdTChzWR2rHlH_YqTdLgELNak&_nc_ohc=4qTQqN2FLxIQ7kNvwEvzWhl&_nc_gid=YJgT3u-sMQh20BIYNlHQCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7MLARNqEk5HYg5IoNLbfiN0RCFD_iphwYiL-cOhobF1A&oe=6A13F692&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/wanderingmoda/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5763
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/wanderingmoda/profile/376802968_317126640872994_269575093538235516_n.jpg
+instagram_profile_image_bytes: 104240
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/wanderingmoda/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/wanderingmoda/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/wanderingmoda/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/wanderingmoda/profile/376802968_317126640872994_269575093538235516_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/wanderingmoda/profile/376802968_317126640872994_269575093538235516_n.jpg
+profile_image_local: >-
+  ../../assets/designers/wanderingmoda/profile/376802968_317126640872994_269575093538235516_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/wanderingmoda/profile/376802968_317126640872994_269575093538235516_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554566672014_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554583513359_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554650551325_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554659014226_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983364_2883695928562270947_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983369_2883695966830355078_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983373_2883695999738798226_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192224_2885447974023168954_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192228_2885448002368223357_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192231_2885448032273807663_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192234_2885448059620438594_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192238_2885448088116772304_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828844983538040_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845000167614_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845167970144_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845168011464_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845184849085_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845193291935_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465188590337615_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465190335050277_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465191291299083_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465204092389751_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443323602844_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443482937219_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508137746_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508208709_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443516488176_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443516671611_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354085978305_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354279038422_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354530691693_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660356233528177_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755320877634_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755538936153_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755589205750_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755597842847_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755606118197_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1707643845_3299965268308683638_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1707643845_3299965268333937957_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536284748_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536361041_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536481909_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524687378558_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206327710015612_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328053944668_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328095875707_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328465009088_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328649568526_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328968304451_45967120505.jpg
+instagram_image_count: 49
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192228_2885448002368223357_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845000167614_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845167970144_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845193291935_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465190335050277_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508208709_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536284748_45967120505.jpg
+  - >-
+    ../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328649568526_45967120505.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # wanderingmoda
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/wanderingmoda/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/wanderingmoda/profile/376802968_317126640872994_269575093538235516_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554566672014_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554566672014_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554583513359_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554583513359_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554650551325_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554650551325_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554659014226_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1613512413_2510646554659014226_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983364_2883695928562270947_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983364_2883695928562270947_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983369_2883695966830355078_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983369_2883695966830355078_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983373_2883695999738798226_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1657983373_2883695999738798226_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192224_2885447974023168954_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192224_2885447974023168954_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192228_2885448002368223357_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192228_2885448002368223357_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192231_2885448032273807663_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192231_2885448032273807663_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192234_2885448059620438594_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192234_2885448059620438594_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192238_2885448088116772304_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1658192238_2885448088116772304_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828844983538040_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828844983538040_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845000167614_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845000167614_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845167970144_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845167970144_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845168011464_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845168011464_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845184849085_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845184849085_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845193291935_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1665747813_2948828845193291935_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465188590337615_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465188590337615_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465190335050277_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465190335050277_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465191291299083_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465191291299083_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465204092389751_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1679413537_3063465204092389751_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443323602844_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443323602844_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443482937219_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443482937219_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508137746_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508137746_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508208709_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443508208709_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443516488176_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443516488176_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443516671611_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1685274723_3112632443516671611_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354085978305_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354085978305_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354279038422_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354279038422_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354530691693_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660354530691693_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660356233528177_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1696006892_3202660356233528177_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755320877634_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755320877634_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755538936153_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755538936153_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755589205750_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755589205750_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755597842847_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755597842847_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755606118197_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1706445019_3290221755606118197_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1707643845_3299965268308683638_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1707643845_3299965268308683638_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1707643845_3299965268333937957_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1707643845_3299965268333937957_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536284748_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536284748_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536361041_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536361041_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536481909_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524536481909_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524687378558_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1725795401_3452544524687378558_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206327710015612_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206327710015612_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328053944668_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328053944668_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328095875707_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328095875707_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328465009088_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328465009088_45967120505.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328649568526_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328649568526_45967120505.jpg --> | [x] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328968304451_45967120505.jpg)<br><!-- image:../../assets/designers/wanderingmoda/instagram/wanderingmoda_1778803220_3897206328968304451_45967120505.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Miriam Rowe is a Barcelona-based surface pattern designer operating as WanderingModa. She partners with brands to license existing patterns or develop custom artwork for specific products and collections. Her Instagram bio distinguishes her as "no AI, just human-made surface design," with travel, history, and handmade craft as the creative foundation. Documented licensees include Amigo Games and PBS Fabrics.
+
 ## Style and Aesthetic
+
+Travel, historical craft traditions, and direct observation of decorative processes define WanderingModa's aesthetic. Selected Instagram patterns suggest a broad range: botanical wildflowers, Japanese-inspired florals, damask compositions, holiday toile, and folk-derived motifs — united by handmade detail and narrative richness. Her Christmas cat toile is described as a best-selling design.
 
 ## Techniques and Tools
 
+Multiple traditional methods inform her output: Roman stone mosaic study (with the Cassio family), classical Eastern ink painting, Florentine paper marbling and bookbinding observation, and stone name-seal carving at National Taiwan University. Hand-drawing, watercolour, and gouache are documented media.
+
 ## Markets and Clients
+
+Tabletop games, fabric collections, subscription boxes, lifestyle products, home textiles, wallpaper, stationery, and gift wrap are documented licensing categories. Confirmed licensees: Amigo Games (tabletop games) and PBS Fabrics (Kudzu fabric collection).
 
 ## Portfolio and Presence
 
+- Website: https://wanderingmoda.com
+- Instagram: https://instagram.com/WanderingModa (2,464 followers)
+
 ## Career Path
+
+Studio based in Barcelona. Rowe has studied traditional artistic processes directly with practitioners across multiple countries — Roman stone mosaic, Eastern brush painting, Florentine paper marbling, and seal carving. This active craft research forms the foundation of her Barcelona studio practice.
 
 ## Pattern Focus
 
+Broad range: botanical wildflowers, Japanese art nouveau (koi, lotus, fan motifs), European damask (Eixample-inspired), Florentine marbling, holiday and seasonal toile, mooncake motifs, succulents, mushroom forest, and folk-derived compositions. Japanese influence appears across multiple named portfolio pieces. All designs hand-drawn.
+
 ## Connections
+
+- [[Amigo Games]] — documented licensee
+- [[PBS Fabrics]] — documented licensee
+- [[Licensing]] — primary commercial model
+- [[Home Decor]] — stated market
+- [[Stationery]] — stated market
+- [[Barcelona]] — studio location

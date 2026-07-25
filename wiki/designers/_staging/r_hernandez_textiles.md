@@ -19,7 +19,7 @@ bio: ''
 website: 'https://reneehernandezdesigns.au'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/r_hernandez_textiles
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Renee Hernandez Designs
 website_meta_description: ''
 website_about_raw: >-
@@ -127,7 +130,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -146,45 +149,120 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/466371092_578388554658573_4445448435383819881_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEf57ChUgUsqaTyjMHZayCGM446YEo9p9S0TnGsXSOGHBx1OR7SxsN9UfLChR7mPUjiMJPZe-BQfcXxtPbEtUUU&_nc_ohc=e-kSF7lGRcYQ7kNvwE8OS2q&_nc_gid=unH3WR0eRj81idcTlqGGqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aXZcssIuQ1vh_mWNsc0zUmunuLIR_kr5ZakmIKDvBkA&oe=6A13FECF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/466371092_578388554658573_4445448435383819881_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEf57ChUgUsqaTyjMHZayCGM446YEo9p9S0TnGsXSOGHBx1OR7SxsN9UfLChR7mPUjiMJPZe-BQfcXxtPbEtUUU&_nc_ohc=e-kSF7lGRcYQ7kNvwE8OS2q&_nc_gid=unH3WR0eRj81idcTlqGGqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6aXZcssIuQ1vh_mWNsc0zUmunuLIR_kr5ZakmIKDvBkA&oe=6A13FECF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/r_hernandez_textiles/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7884
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/r_hernandez_textiles/profile/466371092_578388554658573_4445448435383819881_n.jpg
+instagram_profile_image_bytes: 346763
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/r_hernandez_textiles/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/r_hernandez_textiles/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/r_hernandez_textiles/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/r_hernandez_textiles/profile/466371092_578388554658573_4445448435383819881_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/r_hernandez_textiles/profile/466371092_578388554658573_4445448435383819881_n.jpg
+profile_image_local: >-
+  ../../assets/designers/r_hernandez_textiles/profile/466371092_578388554658573_4445448435383819881_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/r_hernandez_textiles/profile/466371092_578388554658573_4445448435383819881_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_11_Floral+Texture+64x64cm+30%+Scale+copy.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_30_Scarf+135x135cm+placement+print.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_36_Marble+Inlay+40%+A4.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_48_Stippled+Landscape+50%+Scale+copy.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_54_Hero+Palm+Design+Scale+50%.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_6_Colour+Harmony_12.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_7_Stippled+Landscape+50%+Scale+copy.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_8_Hero+Palm+Design+Scale+50%.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_11_Floral+Texture+64x64cm+30%+Scale+copy.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_36_Marble+Inlay+40%+A4.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_48_Stippled+Landscape+50%+Scale+copy.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_54_Hero+Palm+Design+Scale+50%.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_6_Colour+Harmony_12.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_7_Stippled+Landscape+50%+Scale+copy.jpeg
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_8_Hero+Palm+Design+Scale+50%.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_30_Scarf+135x135cm+placement+print.jpeg
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # r_hernandez_textiles
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/r_hernandez_textiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/r_hernandez_textiles/profile/466371092_578388554658573_4445448435383819881_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_11_Floral+Texture+64x64cm+30%+Scale+copy.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_11_Floral+Texture+64x64cm+30%+Scale+copy.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_30_Scarf+135x135cm+placement+print.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_30_Scarf+135x135cm+placement+print.jpeg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_36_Marble+Inlay+40%+A4.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_36_Marble+Inlay+40%+A4.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_48_Stippled+Landscape+50%+Scale+copy.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_48_Stippled+Landscape+50%+Scale+copy.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_54_Hero+Palm+Design+Scale+50%.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_54_Hero+Palm+Design+Scale+50%.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_6_Colour+Harmony_12.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_6_Colour+Harmony_12.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_7_Stippled+Landscape+50%+Scale+copy.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_7_Stippled+Landscape+50%+Scale+copy.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_8_Hero+Palm+Design+Scale+50%.jpeg)<br><!-- image:../../assets/designers/r_hernandez_textiles/instagram/r_hernandez_textiles_imageye___-_imgi_8_Hero+Palm+Design+Scale+50%.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Renee Hernandez is an Australian-based textile and surface designer with a dual academic background in textile design and biological science. Her practice spans hand-printing, digital pattern development, and 3D woven construction, united by a focus on nature and sustainable design. She is an early-career designer building a multi-technique portfolio through named collections.
+
 ## Style and Aesthetic
+
+Hernandez works across botanical, tropical, and abstract surface treatments. Selected pattern images suggest dense floral textures, bold palm motifs, stippled landscape-derived compositions, and a marble inlay design. Collection titles — Colour Harmony, Coastal Serenity, Tapestry of Texture — reflect an interest in atmospheric palettes and mixed surface effects. Her Instagram bio describes the work as "bold botanicals, layered texture, and a touch of joyful storytelling."
 
 ## Techniques and Tools
 
+Works across hand-printing, digital pattern development, and 3D printed object construction. Her dual degree in textiles and genetics informs an analytical approach to pattern structure and material; website collections demonstrate output across 2D surface design and dimensional textile making.
+
 ## Markets and Clients
+
+Collection naming suggests a home textiles orientation — Trousseau Home Collection, Coastal Serenity Collection — with a fashion accessories dimension evident in a selected 135×135cm scarf placement. Currently independent.
 
 ## Portfolio and Presence
 
+- Website: reneehernandezdesigns.au
+- Instagram: @r_hernandez_textiles
+
 ## Career Path
+
+Holds a Bachelor of Design (Textiles) and a Bachelor of Biological Science (Hons Genetics). Her practice is self-described as early-career and grounded in an ethos of playful, curious, and sustainably-minded design across print, weave, and 3D textile outputs.
 
 ## Pattern Focus
 
+Selected images suggest botanical all-overs (floral texture, palm design), abstract treatments (marble inlay), and landscape-derived surface work (stippled landscape). Scarf placement image indicates familiarity with garment-scale composition. Works in both tile repeat and placement formats.
+
 ## Connections
+
+- [[Surface Pattern Design]] (core discipline)
+- [[Home Textiles]] (primary market orientation)
+- [[Botanical]] (dominant motif category)

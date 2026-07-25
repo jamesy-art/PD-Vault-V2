@@ -21,7 +21,7 @@ bio: ''
 website: 'https://spoonflower.com/profiles/moon_up_studio'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/moonup.studio
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'moon_up_studio''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by moon_up_studio for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -242,7 +245,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -259,45 +262,176 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/516845268_18377683498123922_2631926706922446710_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGNUqJYxScHLydelL5e8Fzd-JS1JQ09B9g6uNtm3iRj8jLfeJX-2wWKwS7NSBrthzg&_nc_ohc=8ULRHqyjmbUQ7kNvwG3UNAt&_nc_gid=Tkx4EHzmzqK1Ndrb8V8H-w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7qZLWasc3i3aoA95WPD6wZg4XED4qjXe0zFSptaijtsw&oe=6A13D1D2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/516845268_18377683498123922_2631926706922446710_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGNUqJYxScHLydelL5e8Fzd-JS1JQ09B9g6uNtm3iRj8jLfeJX-2wWKwS7NSBrthzg&_nc_ohc=8ULRHqyjmbUQ7kNvwG3UNAt&_nc_gid=Tkx4EHzmzqK1Ndrb8V8H-w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7qZLWasc3i3aoA95WPD6wZg4XED4qjXe0zFSptaijtsw&oe=6A13D1D2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/moonup.studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3133
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/moonup.studio/profile/516845268_18377683498123922_2631926706922446710_n.jpg
+instagram_profile_image_bytes: 43148
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/moonup.studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/moonup.studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/moonup.studio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/moonup.studio/profile/516845268_18377683498123922_2631926706922446710_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/moonup.studio/profile/516845268_18377683498123922_2631926706922446710_n.jpg
+profile_image_local: >-
+  ../../assets/designers/moonup.studio/profile/516845268_18377683498123922_2631926706922446710_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/moonup.studio/profile/516845268_18377683498123922_2631926706922446710_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1744731107_3611388741203440467_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1746564294_3626766626608640716_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622833170627_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622841375974_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1751819773_3670852777552561012_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1751820171_3670856114968517817_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504233749_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504317424_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596629934111_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596713933965_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474525697_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474576913_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474642135_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474730958_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270499870073_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270575358373_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888574_3688207136749482068_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888650_3688207772622584187_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888650_3688207772622667523_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850316517469490_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850321391249855_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850326659387440_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780244486_3909296541976977706_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780626104_3912497605412661253_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780682228_3912968161702629945_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780682228_3912968164537816146_3667515921.jpg
+instagram_image_count: 26
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1744731107_3611388741203440467_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1746564294_3626766626608640716_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622841375974_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504317424_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474730958_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1753888574_3688207136749482068_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850316517469490_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780244486_3909296541976977706_3667515921.jpg
+  - >-
+    ../../assets/designers/moonup.studio/instagram/moonup.studio_1780626104_3912497605412661253_3667515921.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 9
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # moonup.studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/moonup.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/moonup.studio/profile/516845268_18377683498123922_2631926706922446710_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1744731107_3611388741203440467_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1744731107_3611388741203440467_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1746564294_3626766626608640716_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1746564294_3626766626608640716_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622833170627_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622833170627_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622841375974_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1748792077_3645454622841375974_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1751819773_3670852777552561012_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1751819773_3670852777552561012_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1751820171_3670856114968517817_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1751820171_3670856114968517817_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504233749_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504233749_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504317424_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596504317424_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596629934111_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596629934111_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596713933965_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1752876422_3679716596713933965_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474525697_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474525697_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474576913_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474576913_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474642135_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474642135_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474730958_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270474730958_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270499870073_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270499870073_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270575358373_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888470_3688206270575358373_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888574_3688207136749482068_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888574_3688207136749482068_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888650_3688207772622584187_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888650_3688207772622584187_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1753888650_3688207772622667523_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1753888650_3688207772622667523_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850316517469490_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850316517469490_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850321391249855_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850321391249855_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850326659387440_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780191293_3908850326659387440_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780244486_3909296541976977706_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780244486_3909296541976977706_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780626104_3912497605412661253_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780626104_3912497605412661253_3667515921.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780682228_3912968161702629945_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780682228_3912968161702629945_3667515921.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/moonup.studio/instagram/moonup.studio_1780682228_3912968164537816146_3667515921.jpg)<br><!-- image:../../assets/designers/moonup.studio/instagram/moonup.studio_1780682228_3912968164537816146_3667515921.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Tish Nation is a surface pattern designer based in Illinois, USA, operating under the name Moon Up Studio. She sells designs on Spoonflower, with a published catalogue of 276 fabric designs and 190 wallpaper designs across 22 named collections. She accepts custom requests and has been featured in 79 Spoonflower curations.
+
 ## Style and Aesthetic
+
+Moon Up Studio's work covers a wide thematic range: boho and cottage-core florals, gothic and dark academia Halloween imagery, French country patterns, retro tiki bar motifs, plaid and gingham coordinates, toile, zodiac illustration, and seasonal holiday prints. The range is characterful and clearly commercially targeted at print-on-demand home fabric and wallpaper buyers. Selected Instagram pattern images (9 selected) confirm a colourful, varied output with seasonal release patterns.
 
 ## Techniques and Tools
 
+Painting is listed as a primary skill, alongside pattern design and colour theory. Specific digital software tools are not documented from available sources.
+
 ## Markets and Clients
+
+Home decor (fabric and wallpaper) via Spoonflower's print-on-demand marketplace. No commercial licensing clients documented. Designs have been featured in 79 Spoonflower curations, indicating marketplace visibility.
 
 ## Portfolio and Presence
 
+- Spoonflower: spoonflower.com/profiles/moon_up_studio (276 fabrics, 190 wallpapers)
+- Instagram: @moonup.studio (463 followers)
+
 ## Career Path
+
+Active as a surface pattern designer with 1+ years experience stated at time of application. No further career history documented from available sources.
 
 ## Pattern Focus
 
+A large, thematically diverse catalogue across 22 named Spoonflower collections. Strongest collection areas: Gothic Skulls with Moon and Crows (26 designs), Halloween Bat Party (30 designs), Tribal Stripes (18 designs), Earth Tone Pueblo (12 designs), Gingham (12 designs), French Country Floral Spring (7 designs), Retro Tiki Bar (7 designs). Selected Instagram images confirm an active seasonal release cadence.
+
 ## Connections
+
+- [[Spoonflower]] — primary distribution platform
+- [[Home Decor]] — primary market
+- [[Print on Demand]] — business model

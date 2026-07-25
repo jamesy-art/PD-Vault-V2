@@ -20,7 +20,7 @@ bio: ''
 website: 'https://melindamouzannar.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/melindamouzannar
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Melinda Mouzannar - Animator & Illustrator
 website_meta_description: >-
   Melinda Mouzannar is a Lebanese multi-disciplinary artist, working as an
@@ -223,7 +226,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -240,45 +243,123 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/642611955_18565218370001235_8353565422726460176_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEkRTdkr0MoSiaocEtSW9SjQPkCt-0wJ_WUn-EsrQ3Srr0-svQc3qhXIgc5yUOrn_g&_nc_ohc=_3y2fjUKVXIQ7kNvwFrAu5y&_nc_gid=kmDPQwo7dYRZUTb-TyWoPA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af403JHAathtreprg0PzOxRL6uJrjJgu2IoSpHn3nxv5vQ&oe=6A13E0B0&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-2.cdninstagram.com/v/t51.82787-19/642611955_18565218370001235_8353565422726460176_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEkRTdkr0MoSiaocEtSW9SjQPkCt-0wJ_WUn-EsrQ3Srr0-svQc3qhXIgc5yUOrn_g&_nc_ohc=_3y2fjUKVXIQ7kNvwFrAu5y&_nc_gid=kmDPQwo7dYRZUTb-TyWoPA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af403JHAathtreprg0PzOxRL6uJrjJgu2IoSpHn3nxv5vQ&oe=6A13E0B0&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/melindamouzannar/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3993
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/melindamouzannar/profile/642611955_18565218370001235_8353565422726460176_n.jpg
+instagram_profile_image_bytes: 172264
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/melindamouzannar/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/melindamouzannar/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/melindamouzannar/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/melindamouzannar/profile/642611955_18565218370001235_8353565422726460176_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/melindamouzannar/profile/642611955_18565218370001235_8353565422726460176_n.jpg
+profile_image_local: >-
+  ../../assets/designers/melindamouzannar/profile/642611955_18565218370001235_8353565422726460176_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/melindamouzannar/profile/642611955_18565218370001235_8353565422726460176_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_171_pattern+me.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_207_sun+shine4.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_213_celine+al+jamil-commission-just+flowers.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_255_nounous.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_26_MelindaMouzannar-print+social-t1-01.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_351_pattern.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_495_valentines3.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_78_mimi-still3.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_171_pattern+me.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_207_sun+shine4.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_213_celine+al+jamil-commission-just+flowers.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_351_pattern.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_78_mimi-still3.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_255_nounous.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_26_MelindaMouzannar-print+social-t1-01.jpeg
+  - >-
+    ../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_495_valentines3.jpeg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 3
+trash_image_count: 0
 ---
+# Melinda Mouzannar
 
-# melindamouzannar
+Lebanese multidisciplinary visual artist based in Berlin; primary practice in frame-by-frame animation and motion design, with illustration and surface pattern as a connected creative stream.
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/melindamouzannar/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/melindamouzannar/profile/642611955_18565218370001235_8353565422726460176_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_171_pattern+me.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_171_pattern+me.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_207_sun+shine4.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_207_sun+shine4.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_213_celine+al+jamil-commission-just+flowers.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_213_celine+al+jamil-commission-just+flowers.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_255_nounous.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_255_nounous.jpeg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_26_MelindaMouzannar-print+social-t1-01.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_26_MelindaMouzannar-print+social-t1-01.jpeg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_351_pattern.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_351_pattern.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_495_valentines3.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_495_valentines3.jpeg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_78_mimi-still3.jpeg)<br><!-- image:../../assets/designers/melindamouzannar/instagram/melindamouzannar_imageye___-_imgi_78_mimi-still3.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Melinda Mouzannar is a Lebanese multidisciplinary visual artist based in Berlin. Her primary practice spans frame-by-frame animation, motion design, illustration, and 3D art, with surface pattern and decorative illustration as a connected stream. Selected Instagram images include standalone pattern work, floral commissions, and print-ready compositions. BA in Animation from L'Académie Libanaise des Beaux-Arts, Beirut.
+
 ## Style and Aesthetic
+
+Dreamscapes and surrealism are recurring themes in the broader practice; selected pattern images (pattern+me, sun+shine, celine+al+jamil-commission-just+flowers) suggest colour-forward, floral, and decorative work. Some practice engages political subject matter drawn from the Lebanese experience; pattern work appears to occupy the personal and commercial illustration end of the creative spectrum.
 
 ## Techniques and Tools
 
+Frame-by-frame animation, motion design, digital illustration, 3D, and video editing. Pattern work is produced digitally; animation background informs an acute sensitivity to composition and sequential visual logic.
+
 ## Markets and Clients
+
+Selected placements (nounous, print social, valentines) suggest printed product and social-media-format applications. A named commission for Celine Al Jamil (floral illustration) is visible in selected patterns, indicating capacity for client-facing decorative illustration and pattern work alongside personal creative projects.
 
 ## Portfolio and Presence
 
+- Website: https://melindamouzannar.com
+- Instagram: https://instagram.com/melindamouzannar (2,485 followers, 726 posts)
+
 ## Career Path
+
+BA in Animation from L'Académie Libanaise des Beaux-Arts, Beirut. Based in Berlin. Entered professional practice specialising in animation and motion design. Illustration and surface pattern developed alongside animation work. Lebanese origin is a documented creative reference in some pieces; dreamscapes and surrealism anchor the personal aesthetic. Featured in an interview with Love & Lobby (unverified URL not recorded).
 
 ## Pattern Focus
 
+Floral and decorative illustration patterns alongside surrealist compositions. Five selected patterns include personal and commissioned work. Three selected placements suggest print-on-product and social applications. Pattern work straddles personal artistic direction and direct client commissions.
+
 ## Connections
+
+- [[Flower Pattern]] — dominant pattern subject
+- [[Illustration]] — primary practice
+- [[Animation]] — core professional discipline
+- [[Motion Design]] — connected professional skill

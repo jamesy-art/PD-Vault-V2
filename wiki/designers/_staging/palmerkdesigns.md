@@ -19,7 +19,7 @@ bio: ''
 website: 'https://palmerKdesigns.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/palmerkdesigns
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: PALMER K designs - Art to Be lived in
 website_meta_description: >-
   An E-commerce store featuring original fine art by Karen Palmer and "Art to Be
@@ -273,7 +276,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -299,40 +302,101 @@ instagram_profile_image_bytes: 3898
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_35_TRAIL_P14_-_swatch_6x8_angled.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_37_TRAIL_P4-swatch6x8_d9001d89-1cb1-417d-a453-ba25cd3b9189.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_39_RC_P6-swatch6x8_8e12ddd6-cdbe-4b30-9f82-03390470910d.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_41_TRAIL_P17-swatch6x8_angled_5860768d-cf8c-4723-9333-c57aa0535a3e.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_43_BMW_P7swatch6x8.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_47_RC_P1_-_swatch_6x8_5f5bf79f-4fc7-432b-ba5f-ce649c9ef9f8.png
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_35_TRAIL_P14_-_swatch_6x8_angled.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_37_TRAIL_P4-swatch6x8_d9001d89-1cb1-417d-a453-ba25cd3b9189.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_39_RC_P6-swatch6x8_8e12ddd6-cdbe-4b30-9f82-03390470910d.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_41_TRAIL_P17-swatch6x8_angled_5860768d-cf8c-4723-9333-c57aa0535a3e.png
+  - >-
+    ../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_43_BMW_P7swatch6x8.png
+selected_placements: []
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # palmerkdesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/palmerkdesigns/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_35_TRAIL_P14_-_swatch_6x8_angled.png)<br><!-- image:../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_35_TRAIL_P14_-_swatch_6x8_angled.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_37_TRAIL_P4-swatch6x8_d9001d89-1cb1-417d-a453-ba25cd3b9189.png)<br><!-- image:../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_37_TRAIL_P4-swatch6x8_d9001d89-1cb1-417d-a453-ba25cd3b9189.png --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_39_RC_P6-swatch6x8_8e12ddd6-cdbe-4b30-9f82-03390470910d.png)<br><!-- image:../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_39_RC_P6-swatch6x8_8e12ddd6-cdbe-4b30-9f82-03390470910d.png --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_41_TRAIL_P17-swatch6x8_angled_5860768d-cf8c-4723-9333-c57aa0535a3e.png)<br><!-- image:../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_41_TRAIL_P17-swatch6x8_angled_5860768d-cf8c-4723-9333-c57aa0535a3e.png --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_43_BMW_P7swatch6x8.png)<br><!-- image:../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_43_BMW_P7swatch6x8.png --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_47_RC_P1_-_swatch_6x8_5f5bf79f-4fc7-432b-ba5f-ce649c9ef9f8.png)<br><!-- image:../../assets/designers/palmerkdesigns/instagram/palmerkdesigns_imageye___-_imgi_47_RC_P1_-_swatch_6x8_5f5bf79f-4fc7-432b-ba5f-ce649c9ef9f8.png --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Karen Palmer is a Richmond, Virginia-based surface pattern designer and fine artist working across custom fabric, wallpaper, home décor, and original art. Under the Palmer K Designs brand, she serves both retail customers and interior design trade clients, combining sustainable production with a dual retail-and-trade model tailored to the residential interiors market.
+
 ## Style and Aesthetic
+
+Selected pattern swatches from the TRAIL, RC, BMW, and ABJ series suggest a geometric and abstract vocabulary with a considered palette suited to residential interiors. Work spans structured repeat compositions and more art-influenced surface designs reflecting a fine art background.
 
 ## Techniques and Tools
 
+Works in digital surface pattern design alongside original fine art. Produces custom fabric and wallpaper to order and maintains a dedicated trade programme for interior designers. The parallel art practice informs a surface approach with fine art sensibility.
+
 ## Markets and Clients
+
+Residential interiors and home décor. Trade programme for interior design professionals. Fine art sold through Crossroads Art Center, Richmond VA. Featured in Richmond Magazine's RHome section; included in the 2025 St. Jude's Dream Home project.
 
 ## Portfolio and Presence
 
+- Instagram: @palmerkdesigns
+- Gallery: Crossroads Art Center, Richmond VA
+- Products: Market Tote (Lattice Quartet, $75), Sherpa Throw Blanket (Plaid Reprise, $95), Luxury Silk Scarf (Dragonfly Wings, $95)
+
 ## Career Path
+
+Based in Richmond, Virginia. Established Palmer K Designs as a parallel practice — surface pattern design for fabric and wallpaper alongside original fine art. Active in the Richmond creative community through gallery participation and editorial features.
 
 ## Pattern Focus
 
+Abstract and geometric repeat patterns calibrated for residential fabric and wallpaper. Product range extends designs into consumer goods — scarves, throw blankets, and tote bags — at accessible retail price points.
+
 ## Connections
+
+- [[Home Décor]] market
+- [[Interior Design]]
+- [[Wallpaper]] market
+- [[Fine Art]]
+- [[Licensing]]

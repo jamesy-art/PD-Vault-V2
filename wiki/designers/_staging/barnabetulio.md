@@ -20,7 +20,7 @@ bio: ''
 website: 'https://tuliobarnabe.com'
 website_about: ''
 accepted: 18/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/barnabetulio
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Tulio Barnabe
 website_meta_description: 'print design, textile print design'
 website_about_raw: >-
@@ -211,7 +214,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -228,45 +231,123 @@ instagram_profile_pic_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/689526713_18588114073004587_1988607065374367331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGsrppitnEAJWFGIC8bBmoEhNNXGqPN_tfPj7yMet0MC3FSOC-S7a1pnTelGOibrQo&_nc_ohc=H5H1cxghIvsQ7kNvwGYrkfv&_nc_gid=F4VZGPJ_R2n32nAqO8l52Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42tXQfyEhe7UOD4M1VUTFM5Pn0VF7Osg8yX9xPAXxafQ&oe=6A13ED49&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/689526713_18588114073004587_1988607065374367331_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGsrppitnEAJWFGIC8bBmoEhNNXGqPN_tfPj7yMet0MC3FSOC-S7a1pnTelGOibrQo&_nc_ohc=H5H1cxghIvsQ7kNvwGYrkfv&_nc_gid=F4VZGPJ_R2n32nAqO8l52Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af42tXQfyEhe7UOD4M1VUTFM5Pn0VF7Osg8yX9xPAXxafQ&oe=6A13ED49&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4412
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/barnabetulio/profile/689526713_18588114073004587_1988607065374367331_n.jpg
+instagram_profile_image_bytes: 146857
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/barnabetulio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/barnabetulio/profile/689526713_18588114073004587_1988607065374367331_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/barnabetulio/profile/689526713_18588114073004587_1988607065374367331_n.jpg
+profile_image_local: >-
+  ../../assets/designers/barnabetulio/profile/689526713_18588114073004587_1988607065374367331_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/barnabetulio/profile/689526713_18588114073004587_1988607065374367331_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_1_b02d3f72-3e69-414e-9743-8b2eaf0a1916_rwc_145x0x886x1181x886.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_24_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1280.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_2_e9f49559-00b6-40e6-9151-d7f204d383be_rwc_315x747x847x1128x847.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_45_88966e73-b06c-40da-9efd-4c31060e6fd9_rwc_1354x525x1133x1509x2560.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_51_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_53_506c883f-0518-4967-92fb-f9d122bc40a5_rwc_181x0x1109x1477x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_59_59bfe62f-938e-4f31-a8bb-738cfa875b7e_rwc_217x0x1330x1772x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_5_3bd5da86-2841-4f3e-b965-acb613226105_rwc_116x0x709x944x709.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_64_115cb3fb-0fa3-4564-b9e9-4894d4363ffc_rwc_217x0x1330x1772x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_6_f3033aff-8caf-4582-b81e-33b1d71d05a6_rwc_35x0x1126x1500x1126.png
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_24_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1280.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_45_88966e73-b06c-40da-9efd-4c31060e6fd9_rwc_1354x525x1133x1509x2560.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_53_506c883f-0518-4967-92fb-f9d122bc40a5_rwc_181x0x1109x1477x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_59_59bfe62f-938e-4f31-a8bb-738cfa875b7e_rwc_217x0x1330x1772x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_5_3bd5da86-2841-4f3e-b965-acb613226105_rwc_116x0x709x944x709.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_64_115cb3fb-0fa3-4564-b9e9-4894d4363ffc_rwc_217x0x1330x1772x1366.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_6_f3033aff-8caf-4582-b81e-33b1d71d05a6_rwc_35x0x1126x1500x1126.png
+selected_placements:
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_1_b02d3f72-3e69-414e-9743-8b2eaf0a1916_rwc_145x0x886x1181x886.png
+  - >-
+    ../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_2_e9f49559-00b6-40e6-9151-d7f204d383be_rwc_315x747x847x1128x847.png
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # barnabetulio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/barnabetulio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/barnabetulio/profile/689526713_18588114073004587_1988607065374367331_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_1_b02d3f72-3e69-414e-9743-8b2eaf0a1916_rwc_145x0x886x1181x886.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_1_b02d3f72-3e69-414e-9743-8b2eaf0a1916_rwc_145x0x886x1181x886.png --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_24_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1280.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_24_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1280.png --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_2_e9f49559-00b6-40e6-9151-d7f204d383be_rwc_315x747x847x1128x847.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_2_e9f49559-00b6-40e6-9151-d7f204d383be_rwc_315x747x847x1128x847.png --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_45_88966e73-b06c-40da-9efd-4c31060e6fd9_rwc_1354x525x1133x1509x2560.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_45_88966e73-b06c-40da-9efd-4c31060e6fd9_rwc_1354x525x1133x1509x2560.png --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_51_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1366.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_51_d9f98a27-4df2-431d-ad02-663fcb05e9cf_rwc_217x0x1330x1772x1366.png --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_53_506c883f-0518-4967-92fb-f9d122bc40a5_rwc_181x0x1109x1477x1366.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_53_506c883f-0518-4967-92fb-f9d122bc40a5_rwc_181x0x1109x1477x1366.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_59_59bfe62f-938e-4f31-a8bb-738cfa875b7e_rwc_217x0x1330x1772x1366.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_59_59bfe62f-938e-4f31-a8bb-738cfa875b7e_rwc_217x0x1330x1772x1366.png --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_5_3bd5da86-2841-4f3e-b965-acb613226105_rwc_116x0x709x944x709.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_5_3bd5da86-2841-4f3e-b965-acb613226105_rwc_116x0x709x944x709.png --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_64_115cb3fb-0fa3-4564-b9e9-4894d4363ffc_rwc_217x0x1330x1772x1366.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_64_115cb3fb-0fa3-4564-b9e9-4894d4363ffc_rwc_217x0x1330x1772x1366.png --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_6_f3033aff-8caf-4582-b81e-33b1d71d05a6_rwc_35x0x1126x1500x1126.png)<br><!-- image:../../assets/designers/barnabetulio/instagram/barnabetulio_imageye___-_imgi_6_f3033aff-8caf-4582-b81e-33b1d71d05a6_rwc_35x0x1126x1500x1126.png --> | [x] | [ ] | [ ] |
+
 ## Website Images
 
-
 ## Overview
+Túlio Barnabé is a Brazilian print designer with more than ten years of experience in the Brazilian womenswear, beachwear, and resort market. He currently leads a Brazilian R&D team with outsourced production in Asia, involved at every stage from concept to final approval. His work centres on what he describes as "brasilidade contemporânea" — technically refined collections with a distinct Brazilian identity.
 
 ## Style and Aesthetic
+Barnabé's collections combine hand-drawn artistry with contemporary print finishing. Named works span tropical and botanical motifs (Coleção Arara Bordada, Coleção Lagartos do Cerrado, Máxi Lírios), liberty-referencing florals, and resort-ready engineered prints. Corredor dos Sonhos, a documented collection, describes layered portals, artisanal florals, and contemporary graphics in guava pink, saffron, azulejo blue, and aqua green — suited to resort, beach, and urban contexts. Selected patterns suggest naturalistic hand-drawn motifs digitally prepared for production.
 
 ## Techniques and Tools
+Hand-drawn motif development with digital finishing. Trend research conducted via WGSN and Première Vision trade shows. Full-process fluency from sketch through colourway construction and production liaison.
 
 ## Markets and Clients
+National Brazilian womenswear, beachwear, and resort brands. No specific client names documented.
 
 ## Portfolio and Presence
+- Website: tuliobarnabe.com
+- Instagram: @barnabetulio (private, 1,528 followers)
 
 ## Career Path
+Graduated in Product Design; postgraduate qualification in Fine Arts. Studied in Brazil and at Nottingham Trent University (NTU) via the Ciência sem Fronteiras scholarship programme. Has worked in Brazilian fashion print for over ten years.
 
 ## Pattern Focus
+Tropical florals, botanical compositions, liberty prints, paisley, and engineered panel prints (cangas, lenços). Collections draw on Brazilian natural and cultural material — fauna, landscape, and artisanal references — translated into production-ready artwork.
 
 ## Connections
+- [[Tropical Pattern 5]]
+- [[Beachwear]]
+- [[Resort Fashion]]
+- [[Botanical Pattern]]
+- [[WGSN]]
+- [[Première Vision]]

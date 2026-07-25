@@ -1,0 +1,38 @@
+{
+  "slug": "mary-jones-design",
+  "name": "Mary Jones Design",
+  "website": "https://maryjonesdesign.thepatterncloud.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/mary-jones-design.md",
+  "scraped_at": "2026-06-05T23:23:48.448Z",
+  "status": "scraped",
+  "website_title": "Mary Jones Design",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://maryjonesdesign.thepatterncloud.com/",
+      "text": "Mary Jones Design SIGN UP LOG IN LOG IN CUSTOMER LOG IN Email Password Remember me Forgot password? PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY",
+      "images": [
+        "https://maryjonesdesign.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://maryjonesdesign.thepatterncloud.com/img/required.png",
+        "https://maryjonesdesign.thepatterncloud.com/img/social/facebookB.png",
+        "https://maryjonesdesign.thepatterncloud.com/img/social/instagramB.png",
+        "https://maryjonesdesign.thepatterncloud.com/img/social/pinterestB.png",
+        "https://maryjonesdesign.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    }
+  ],
+  "website_about_raw": "SOURCE: https://maryjonesdesign.thepatterncloud.com/\nMary Jones Design SIGN UP LOG IN LOG IN CUSTOMER LOG IN Email Password Remember me Forgot password? PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY",
+  "website_about_clean": "SOURCE: https://maryjonesdesign.thepatterncloud.com/\nMary Jones Design SIGN UP LOG IN LOG IN CUSTOMER LOG IN Email Password Remember me Forgot password? PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY",
+  "website_images": [
+    "https://maryjonesdesign.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://maryjonesdesign.thepatterncloud.com/img/required.png",
+    "https://maryjonesdesign.thepatterncloud.com/img/social/facebookB.png",
+    "https://maryjonesdesign.thepatterncloud.com/img/social/instagramB.png",
+    "https://maryjonesdesign.thepatterncloud.com/img/social/pinterestB.png",
+    "https://maryjonesdesign.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "partial",
+  "scrape_quality_score": 55,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

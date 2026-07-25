@@ -26,7 +26,7 @@ bio: ''
 website: 'https://archanabhurke.com'
 website_about: ''
 accepted: 26/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/archanabhurke
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Designer
 website_meta_description: >-
   Discover the portfolio of Archana Bhurke, a surface pattern designer and
@@ -256,7 +259,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -278,45 +281,236 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/475428535_950922260391863_5472769981033009749_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF1OiAKCwfeAeRKxQ4FQcAPRY-zQ-6kmaUZFVFuL8Uq2paXXPUDhZa7vtVlHiTbml8&_nc_ohc=hZlszV1wJ1AQ7kNvwFOmI4o&_nc_gid=HSx8R4u49nY8soSS7bZeGg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Wqdk40q3CI20368CHdsiId4nHY2MyVXqvuL6C5oHCCg&oe=6A13EFB7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/475428535_950922260391863_5472769981033009749_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF1OiAKCwfeAeRKxQ4FQcAPRY-zQ-6kmaUZFVFuL8Uq2paXXPUDhZa7vtVlHiTbml8&_nc_ohc=hZlszV1wJ1AQ7kNvwFOmI4o&_nc_gid=HSx8R4u49nY8soSS7bZeGg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Wqdk40q3CI20368CHdsiId4nHY2MyVXqvuL6C5oHCCg&oe=6A13EFB7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6585
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/archanabhurke/profile/475428535_950922260391863_5472769981033009749_n.jpg
+instagram_profile_image_bytes: 234574
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/archanabhurke/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/archanabhurke/profile/475428535_950922260391863_5472769981033009749_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/archanabhurke/profile/475428535_950922260391863_5472769981033009749_n.jpg
+profile_image_local: >-
+  ../../assets/designers/archanabhurke/profile/475428535_950922260391863_5472769981033009749_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/archanabhurke/profile/475428535_950922260391863_5472769981033009749_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137638180667467_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639195646079_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639388629481_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137644119762792_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622529391015693_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622535623744418_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622539021104613_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622549087484147_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776640884_3879065050347200025_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776640884_3879065055153853048_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065040750594885_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065042864529068_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879066104845505928_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486574012677667_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486583315686358_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486590555011758_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777604483_3887149525966473254_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777604483_3887149541091158065_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777604484_3887149556333252436_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777604484_3887149575048238684_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124483415143526_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124484665031962_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124491082311220_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961244541338296_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961249733859769_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309779143781921_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309791743420072_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309811926357916_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309830960130522_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309851537418983_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274639822117976_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274655458661768_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274660172884784_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274669291287518_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779048910_3899266880527816740_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779048910_3899266897288325660_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937303660334942_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937317165906841_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937329337943568_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937344823220398_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449032816261000_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449045743187751_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449059307556272_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779397370_3902189814582047359_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779397370_3902189818147067959_1561217028.webp
+instagram_image_count: 45
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639195646079_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622529391015693_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065040750594885_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486590555011758_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124483415143526_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961244541338296_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309779143781921_1561217028.webp
+  - >-
+    ../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937317165906841_1561217028.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # archanabhurke
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/archanabhurke/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/archanabhurke/profile/475428535_950922260391863_5472769981033009749_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137638180667467_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137638180667467_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639195646079_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639195646079_1561217028.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639388629481_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137639388629481_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137644119762792_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1775338116_3868137644119762792_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622529391015693_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622529391015693_1561217028.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622535623744418_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622535623744418_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622539021104613_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622539021104613_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622549087484147_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776111104_3874622549087484147_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776640884_3879065050347200025_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776640884_3879065050347200025_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776640884_3879065055153853048_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776640884_3879065055153853048_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065040750594885_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065040750594885_1561217028.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065042864529068_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879065042864529068_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879066104845505928_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1776640885_3879066104845505928_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486574012677667_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486574012677667_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486583315686358_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486583315686358_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486590555011758_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777406313_3885486590555011758_1561217028.webp --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777604483_3887149525966473254_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777604483_3887149525966473254_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777604483_3887149541091158065_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777604483_3887149541091158065_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777604484_3887149556333252436_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777604484_3887149556333252436_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1777604484_3887149575048238684_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1777604484_3887149575048238684_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124483415143526_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124483415143526_1561217028.webp --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124484665031962_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124484665031962_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124491082311220_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778197576_3892124491082311220_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961244541338296_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961244541338296_1561217028.webp --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961249733859769_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778535684_3894961249733859769_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309779143781921_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309779143781921_1561217028.webp --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309791743420072_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309791743420072_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309811926357916_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309811926357916_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309830960130522_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309830960130522_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309851537418983_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778696480_3896309851537418983_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274639822117976_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274639822117976_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274655458661768_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274655458661768_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274660172884784_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274660172884784_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274669291287518_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1778811471_3897274669291287518_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779048910_3899266880527816740_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779048910_3899266880527816740_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779048910_3899266897288325660_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779048910_3899266897288325660_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937303660334942_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937303660334942_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937317165906841_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937317165906841_1561217028.webp --> | [x] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937329337943568_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937329337943568_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937344823220398_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779248078_3900937344823220398_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449032816261000_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449032816261000_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449045743187751_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449045743187751_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449059307556272_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779309065_3901449059307556272_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779397370_3902189814582047359_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779397370_3902189814582047359_1561217028.webp --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/archanabhurke/instagram/archanabhurke_1779397370_3902189818147067959_1561217028.webp)<br><!-- image:../../assets/designers/archanabhurke/instagram/archanabhurke_1779397370_3902189818147067959_1561217028.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Archana Bhurke is a surface pattern designer and visual artist based in Auckland, New Zealand, originally from Mumbai. With nearly a decade of industry experience, she operates as a multidisciplinary designer across surface pattern, illustration, graphic design, branding, and motion design — primarily for interiors, lifestyle products, and brand identity. She is a licensed designer actively open to art licensing and collaborations.
+
 ## Style and Aesthetic
+
+Selected pattern images suggest hand-drawn florals, watercolour botanical motifs, and modern heritage-inspired compositions. Her self-described style — "fun, bold, and vibrant" — reflects a hybrid aesthetic drawing on Mumbai's visual culture and Auckland's contemporary design environment. The work balances decorative detail with commercial legibility.
 
 ## Techniques and Tools
 
+Documented skills: illustration, painting, graphic design, pattern design, colour theory, market adaptation, communication, client collaboration, and motion design. Works across print, digital, and spatial design disciplines. Patterns available on fabric and wallpaper through Spoonflower.
+
 ## Markets and Clients
+
+Documented clients and collaborations: Aspiring Walls, Spoonflower, Patternbank, Signature Homes, Beautiful Things NZ, Audio Foundation, and Auckland Museum. Has worked across architecture, interior design, home décor, retail, and graphic design. Open for commissions; targets both small businesses and creative directors.
 
 ## Portfolio and Presence
 
+- Website: https://archanabhurke.com
+- Instagram: @archanabhurke (1,496 followers, 893 posts)
+- Spoonflower: available for fabric and wallpaper
+
 ## Career Path
+
+Born and raised in Mumbai; relocated to Auckland. Nearly a decade in the design industry across architecture, interior design, home décor, retail, and graphic design. Established multidisciplinary practice bridging surface pattern, illustration, and branding.
 
 ## Pattern Focus
 
+Selected patterns suggest hand-drawn florals, watercolour botanical compositions, and heritage-inspired motifs. The client base — spanning Auckland Museum to Patternbank — indicates both cultural/institutional and commercial surface design work. Wallpaper is a stated focus per Instagram bio.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Patternbank]]
+- [[New Zealand]]
+- [[India]] (Mumbai origin)
+- [[Botanical]] motif type
+- [[Wallpaper]] market
+- [[Licensing]]

@@ -22,12 +22,12 @@ skills:
 country: Italy
 can_use: 'Yes'
 instagram_handle: prisca_priano
-instagram: 'https://instagram.com/@prisca_priano'
+instagram: 'https://instagram.com/prisca_priano'
 bio: ''
 website: 'https://priscapriano.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/prisca_priano
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home - Prisca Priano
 website_meta_description: >-
   I’m an illustrator and surface pattern designer based in Italy, working with
@@ -68,7 +71,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -91,45 +94,207 @@ instagram_profile_pic_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/475765400_2865562523625635_2135364268140065390_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH6Q8AhB4rnd6SJXi2sj1TWKkPrFjkYh5V6sEzTs--mzEN_aZcocD_HKtLVNyhCpEg&_nc_ohc=dZEMigWlQR8Q7kNvwFFo9eG&_nc_gid=fGSz0ryr8qvLTg-X448JSg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af78FYLRohTCXd0TlaNgPQjmGbIX_RChKfQJHf2ZeacwoQ&oe=6A13D0FF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/475765400_2865562523625635_2135364268140065390_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH6Q8AhB4rnd6SJXi2sj1TWKkPrFjkYh5V6sEzTs--mzEN_aZcocD_HKtLVNyhCpEg&_nc_ohc=dZEMigWlQR8Q7kNvwFFo9eG&_nc_gid=fGSz0ryr8qvLTg-X448JSg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af78FYLRohTCXd0TlaNgPQjmGbIX_RChKfQJHf2ZeacwoQ&oe=6A13D0FF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/prisca_priano/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3454
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/prisca_priano/profile/475765400_2865562523625635_2135364268140065390_n.jpg
+instagram_profile_image_bytes: 84357
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/prisca_priano/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/prisca_priano/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/prisca_priano/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/prisca_priano/profile/475765400_2865562523625635_2135364268140065390_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/prisca_priano/profile/475765400_2865562523625635_2135364268140065390_n.jpg
+profile_image_local: >-
+  ../../assets/designers/prisca_priano/profile/475765400_2865562523625635_2135364268140065390_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/prisca_priano/profile/475765400_2865562523625635_2135364268140065390_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772799336999_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772824594250_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772824652754_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773009116206_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773059516489_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1714985986_3361868573843872865_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1736166002_3539539427929129148_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656106614537_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656223851532_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951606723547_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951606837719_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951816442273_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231076703_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231119980_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231126754_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231156023_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231233733_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181247950900_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181248029699_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943067900248_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943067920808_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068001460_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068004442_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943411884607_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943411954700_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859449268920_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859457888708_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859466244483_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859608859387_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146375027733_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146383356970_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146391626496_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1759143290_3732286895817574393_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1759143290_3732286895825966354_48193329653.jpg
+instagram_image_count: 34
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772799336999_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773009116206_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656106614537_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951816442273_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231076703_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068001460_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859466244483_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146391626496_48193329653.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773059516489_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1714985986_3361868573843872865_48193329653.jpg
+  - >-
+    ../../assets/designers/prisca_priano/instagram/prisca_priano_1736166002_3539539427929129148_48193329653.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # prisca_priano
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/prisca_priano/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/prisca_priano/profile/475765400_2865562523625635_2135364268140065390_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772799336999_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772799336999_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772824594250_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772824594250_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772824652754_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594772824652754_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773009116206_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773009116206_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773059516489_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1713522834_3349594773059516489_48193329653.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1714985986_3361868573843872865_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1714985986_3361868573843872865_48193329653.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1736166002_3539539427929129148_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1736166002_3539539427929129148_48193329653.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656106614537_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656106614537_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656223851532_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1737981706_3554770656223851532_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951606723547_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951606723547_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951606837719_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951606837719_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951816442273_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1740402405_3575076951816442273_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231076703_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231076703_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231119980_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231119980_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231126754_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231126754_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231156023_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231156023_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231233733_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181231233733_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181247950900_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181247950900_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181248029699_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1745838018_3620674181248029699_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943067900248_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943067900248_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943067920808_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943067920808_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068001460_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068001460_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068004442_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943068004442_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943411884607_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943411884607_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943411954700_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1746645037_3627443943411954700_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859449268920_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859449268920_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859457888708_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859457888708_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859466244483_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859466244483_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859608859387_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1751300626_3666497859608859387_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146375027733_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146375027733_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146383356970_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146383356970_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146391626496_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1755192009_3699141146391626496_48193329653.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1759143290_3732286895817574393_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1759143290_3732286895817574393_48193329653.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/prisca_priano/instagram/prisca_priano_1759143290_3732286895825966354_48193329653.jpg)<br><!-- image:../../assets/designers/prisca_priano/instagram/prisca_priano_1759143290_3732286895825966354_48193329653.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Prisca Priano is an Italian illustrator and surface pattern designer specialising in playful children's themes, based in a small hill town outside Rome. She trained in education sciences before moving into illustration and pattern design, building a practice that spans licensing-ready surface patterns for kids' fashion and decor, children's book illustration, and editorial spot art. Her collections are available for worldwide licensing, and she makes designs available on print-on-demand platforms in addition to direct trade licensing.
+
 ## Style and Aesthetic
+
+Priano's work is characterised as "playful, whimsical, and story-driven." She produces both soft, dreamy designs and bold graphic prints — all character-led, with narrative as the structural foundation. Selected Instagram pattern images suggest vibrant colour, strong motif work, and compositions suited to children's apparel and nursery products. Her stated design philosophy is that "a good pattern isn't just cute — it's a little world to explore."
 
 ## Techniques and Tools
 
+Works digitally; the design process begins with a hand sketch. Spoonflower is referenced in her social content, indicating POD publishing alongside direct licensing. Website built on Elementor (WordPress), with licensing portfolio, illustration portfolio, and blog sections.
+
 ## Markets and Clients
+
+Primary focus on children's fashion, nursery walls, gifts, and handmade/home sewing projects. Also serves editorial clients needing spot art for children's features, activity pages, and books. Story-driven collections are positioned as ready-to-license. Patterns are described as "licensed worldwide" per her Instagram bio. Open to commissions.
 
 ## Portfolio and Presence
 
+- Website: priscapriano.com
+- Instagram: @prisca_priano (1,460 followers, 244 posts)
+- Pinterest: active
+
 ## Career Path
+
+Born in Rome; now based in a small Italian hill town. Degree in education sciences; led creative activities for children in schools and museums in Rome. Founded Pollice di Panda, a brand producing playful activity books and printables for kids. Published illustration work: travel activity book for White Star Kids and a rhyming alphabet book for Giunti (major Italian publisher). Transitioned to surface pattern design as an extension of her illustration practice.
 
 ## Pattern Focus
 
+Specialises in children's thematics: animals, botanicals, seasonal designs, and narrative-driven character prints. Selected placement images suggest experience with fabric shown in garment and product contexts. Works in all-over repeats and vignette compositions. Range covers kidswear, nursery, and gifting applications.
+
 ## Connections
+
+- [[Spoonflower]] (POD platform)
+- [[Kidswear]] (primary market)
+- [[Art Licensing]] (core business model)
+- [[Surface Pattern Design]] (core discipline)
+- [[Illustration]] (parallel practice; children's books)

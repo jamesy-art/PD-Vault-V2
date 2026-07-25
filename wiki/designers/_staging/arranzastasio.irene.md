@@ -18,7 +18,7 @@ bio: ''
 website: 'https://arranzastasio.com/es/estampados'
 website_about: ''
 accepted: 04/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/arranzastasio.irene
 profile_url: ''
 instagram_images:
@@ -35,8 +35,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Estampados - Irene Arranz Astasio
 website_meta_description: >-
   Estampados Solicita tu diseño de estampados a medida o consulta el catálogo de
@@ -85,7 +88,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Hi, I'm Irene!
 
@@ -154,44 +157,139 @@ instagram_verified: false
 instagram_business_account: false
 instagram_profile_pic_url: ''
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: ../../assets/designers/arranzastasio.irene/profile/foto-perfil-scaled.jpg
+instagram_profile_image_bytes: 467316
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: ../../assets/designers/arranzastasio.irene/profile/foto-perfil-scaled.jpg
+profile_images:
+  - ../../assets/designers/arranzastasio.irene/profile/foto-perfil-scaled.jpg
+profile_image_local: ../../assets/designers/arranzastasio.irene/profile/foto-perfil-scaled.jpg
 images:
-  profile: null
+  profile:
+    - ../../assets/designers/arranzastasio.irene/profile/foto-perfil-scaled.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_30_AA2023-011_BLUEBERRIES.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_35_AA24-212-BD.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_36_AA2022-152-ORANGE.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_37_AA2023-081-BAUHAUS.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_38_patron.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_39_AA24-242-BD.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_40_AA24-286-BD.png
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_41_AA24-302-BD.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_42_AA2023-025_SEAML_END_LOW.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_43_Recurso-2.png
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_44_AA2022-082-FINAL-PREV.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_45_AA2022-105-GINKOS-NEON-INV.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_58_Cometas-copia.png.webp
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_59_pat-limones.png.webp
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_61_banner-abstracto.png.webp
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_63_pat-geom.png.webp
+instagram_image_count: 16
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_30_AA2023-011_BLUEBERRIES.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_39_AA24-242-BD.jpeg
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_40_AA24-286-BD.png
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_58_Cometas-copia.png.webp
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_59_pat-limones.png.webp
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_61_banner-abstracto.png.webp
+  - >-
+    ../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_63_pat-geom.png.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # arranzastasio.irene
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/arranzastasio.irene/profile/foto-perfil-scaled.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_30_AA2023-011_BLUEBERRIES.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_30_AA2023-011_BLUEBERRIES.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_35_AA24-212-BD.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_35_AA24-212-BD.jpeg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_36_AA2022-152-ORANGE.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_36_AA2022-152-ORANGE.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_37_AA2023-081-BAUHAUS.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_37_AA2023-081-BAUHAUS.jpeg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_38_patron.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_38_patron.jpeg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_39_AA24-242-BD.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_39_AA24-242-BD.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_40_AA24-286-BD.png)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_40_AA24-286-BD.png --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_41_AA24-302-BD.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_41_AA24-302-BD.jpeg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_42_AA2023-025_SEAML_END_LOW.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_42_AA2023-025_SEAML_END_LOW.jpeg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_43_Recurso-2.png)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_43_Recurso-2.png --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_44_AA2022-082-FINAL-PREV.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_44_AA2022-082-FINAL-PREV.jpeg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_45_AA2022-105-GINKOS-NEON-INV.jpeg)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_45_AA2022-105-GINKOS-NEON-INV.jpeg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_58_Cometas-copia.png.webp)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_58_Cometas-copia.png.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_59_pat-limones.png.webp)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_59_pat-limones.png.webp --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_61_banner-abstracto.png.webp)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_61_banner-abstracto.png.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_63_pat-geom.png.webp)<br><!-- image:../../assets/designers/arranzastasio.irene/instagram/arranzastasio.irene_imageye___-_imgi_63_pat-geom.png.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Irene Arranz Astasio is a Spanish illustrator and surface pattern designer offering a password-protected pattern catalog and a bespoke commission service. Trained in architecture, she moved into illustration and surface design after an Erasmus exchange in Germany. Her practice spans custom client commissions (packaging, interiors, advertising, large-scale applications) and direct-to-consumer garment sales featuring her own patterns.
+
 ## Style and Aesthetic
+
+The named catalog series reveals a broad aesthetic range: tropical and botanical motifs (TROPICAL, BOTÁNICO, GINKOS, BLUEBERRIES, CITRUS, COMETAS), geometric and Bauhaus-derived structures (GEOMETRIC, BAUHAUS, TRIANGLES), and graphic compositions (ABSTRACTO, FIREWORKS, NEON, MOSTERA). Selected pattern images confirm this breadth — organic botanical forms alongside structured geometric work. Colour is vibrant and expressive, with Mediterranean warmth and a European graphic sensibility.
 
 ## Techniques and Tools
 
+Architectural training provides a foundation in drawing and spatial problem-solving. Pattern output appears digitally executed. No specific software documented. Custom commissions are developed as exclusive pieces; the catalog channel offers password-protected access for buyers.
+
 ## Markets and Clients
+
+Serves B2B (custom pattern design for brands — packaging, walls, advertising, any scale) and B2C (direct garment sales: shirts and sweatshirts printed with her patterns). Commission inquiries accepted without scale restriction.
 
 ## Portfolio and Presence
 
+- Website: https://arranzastasio.com/es/estampados
+- Instagram: @arranzastasio.irene
+
 ## Career Path
+
+Studied architecture in Spain; completed Erasmus exchange in Germany without German language skills — a formative experience she cites as central to her creative worldview. Years of drawing, travelling, and researching led her to illustration and surface pattern design. Founded practice combining bespoke commissions with a consumer garment line.
 
 ## Pattern Focus
 
+Selected patterns confirm strength across botanical and tropical motifs alongside geometric and Bauhaus-influenced structures. Named catalog collections — BLUEBERRIES, COMETAS (kites), CITRUS, GINKOS, ABSTRACTO, GEOMETRIC — indicate organised thematic catalog management with clear market positioning.
+
 ## Connections
+
+- [[Spain]]
+- [[Botanical]] motif type
+- [[Geometric]] pattern type
+- [[Bauhaus]] influence
+- [[Custom Pattern Design]]

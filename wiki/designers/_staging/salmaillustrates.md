@@ -27,7 +27,7 @@ bio: ''
 website: 'https://salmakoshek.com'
 website_about: ''
 accepted: 25/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/salmaillustrates
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Salma Koshek
 website_meta_description: ''
 website_about_raw: >-
@@ -264,7 +267,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -281,45 +284,190 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/526191309_18063629141241743_2714317666310404553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF9HyTEm3ffjibxPJOPAsOsIPOjRNU-V3A6_yWpZKPlPAX6jWxlIvSv9oHPBbKOZYE&_nc_ohc=PT30SEIkjP4Q7kNvwFym9i2&_nc_gid=r63HjEjCRb3Ntjf9N34jgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xk0FyhtjADqCglgqBQ2EJwf8KeOGb_X3ZoOb4Qm-Fuw&oe=6A13DD4A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/526191309_18063629141241743_2714317666310404553_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF9HyTEm3ffjibxPJOPAsOsIPOjRNU-V3A6_yWpZKPlPAX6jWxlIvSv9oHPBbKOZYE&_nc_ohc=PT30SEIkjP4Q7kNvwFym9i2&_nc_gid=r63HjEjCRb3Ntjf9N34jgg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Xk0FyhtjADqCglgqBQ2EJwf8KeOGb_X3ZoOb4Qm-Fuw&oe=6A13DD4A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3088
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/salmaillustrates/profile/526191309_18063629141241743_2714317666310404553_n.jpg
+instagram_profile_image_bytes: 40036
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/salmaillustrates/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/salmaillustrates/profile/526191309_18063629141241743_2714317666310404553_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/salmaillustrates/profile/526191309_18063629141241743_2714317666310404553_n.jpg
+profile_image_local: >-
+  ../../assets/designers/salmaillustrates/profile/526191309_18063629141241743_2714317666310404553_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/salmaillustrates/profile/526191309_18063629141241743_2714317666310404553_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819011584514_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819120667421_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303095024509_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303405191820_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208869227960_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208885941669_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019425289868_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019442102658_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940923773910_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940932246151_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940940438473_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940957416334_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352333589722_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352383920858_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352467829959_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030312336_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030371429_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785038733941_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688397118674_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688573317479_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856324218725_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856458424734_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856500369066_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856517141028_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133007146537_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133007147011_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133124592664_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515146793_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515207411_37342689742.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819011584514_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303095024509_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208869227960_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352333589722_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030312336_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688397118674_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688573317479_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515207411_37342689742.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019425289868_37342689742.jpg
+  - >-
+    ../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940923773910_37342689742.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # salmaillustrates
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/salmaillustrates/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/salmaillustrates/profile/526191309_18063629141241743_2714317666310404553_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819011584514_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819011584514_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819120667421_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1738526154_3559337819120667421_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303095024509_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303095024509_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303405191820_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1739730345_3569439303405191820_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208869227960_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208869227960_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208885941669_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1753458833_3684602208885941669_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019425289868_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019425289868_37342689742.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019442102658_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1754068327_3689715019442102658_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940923773910_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940923773910_37342689742.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940932246151_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940932246151_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940940438473_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940940438473_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940957416334_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1755190673_3699129940957416334_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352333589722_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352333589722_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352383920858_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352383920858_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352467829959_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756236903_3707906352467829959_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030312336_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030312336_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030371429_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785030371429_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785038733941_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1756999894_3714306785038733941_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688397118674_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688397118674_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688573317479_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758216294_3724510688573317479_37342689742.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856324218725_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856324218725_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856458424734_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856458424734_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856500369066_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856500369066_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856517141028_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758303814_3725244856517141028_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133007146537_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133007146537_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133007147011_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133007147011_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133124592664_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758654918_3728190133124592664_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515146793_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515146793_37342689742.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515207411_37342689742.jpg)<br><!-- image:../../assets/designers/salmaillustrates/instagram/salmaillustrates_1758823520_3729604468515207411_37342689742.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Salma Koshek is a surface pattern designer, graphic designer, and illustrator based in Canada. Her practice focuses on bold, playful patterns intended to bring joy to everyday objects, with a licensing portfolio available for commercial use. She has documented experience across socks, candles, stationery, textiles, and apparel, and positions her work around nature-inspired motifs — particularly foliage, florals, and cats — deployed with unexpected colour palettes.
+
 ## Style and Aesthetic
+
+Bold and playful, with nature as the primary subject. Foliage, florals, and cats are recurring themes. Colour palettes are described as joyful and unexpected. Selected Instagram images suggest clean graphic botanical and character-driven repeat patterns. Licensing portfolio titles — Pink Bloom, Fiery Red, Autumn Cats, Lily Cats, Botanical Symphony — indicate a warm, seasonal range from spring florals through autumn themes.
 
 ## Techniques and Tools
 
+Works across digital and hand-painted media, or a mix of both. States interest in experimenting with new styles and techniques. Licensing portfolio accessible directly via her website with enquiries by email.
+
 ## Markets and Clients
+
+Experience designing across socks, candle labels, greeting cards, home décor, accessories, textiles, and apparel. Licensing-focused; portfolio available for direct enquiry. Open to pattern licensing, collaborations, and commissions.
 
 ## Portfolio and Presence
 
+- Website: salmakoshek.com (full licensing portfolio)
+- Instagram: @salmaillustrates (543 followers)
+
 ## Career Path
+
+Canada-based. Prior employment included socks, candle labels, and greeting cards, followed by a role with home décor, accessories, and textiles. Now operates independently as a surface pattern designer with a licensing portfolio.
 
 ## Pattern Focus
 
+Botanical and floral repeat patterns with a cats motif as a signature secondary theme. Selected images suggest clean all-over compositions suited to stationery, apparel, and soft goods. Licensing portfolio organised by seasonal colourways: spring/summer florals, autumn cats, and botanical series.
+
 ## Connections
+
+- [[Canada]] (location)
+- [[Licensing]] (commercial model)
+- [[Stationery]] (market)
+- [[Home Decor]] (market)
+- [[Womenswear]] (market)
+- [[Surface Pattern Design]] (core discipline)

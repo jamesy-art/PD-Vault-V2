@@ -20,7 +20,7 @@ bio: ''
 website: 'https://maribustudio.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/maribustudio_
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: maribustudio
 website_meta_description: ''
 website_about_raw: >-
@@ -81,7 +84,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   I'm María Busto
 
@@ -130,45 +133,101 @@ instagram_profile_pic_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/656735730_17895663039484629_8317494643262702218_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH56T5WIh4Z5B9iknELq4Nt0sN3pY-slQNwqj2ZzSopFXa1tlJxOoLMxbiAjrHMurk&_nc_ohc=FhVx0jgVkdUQ7kNvwFpzbAW&_nc_gid=FHS0eIS4oQcwQ2bWTo86NA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4XAt6mGYtCaIt92kyu8Pc1zZ0NLun54sHp-AEC-GC_QA&oe=6A13D549&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/656735730_17895663039484629_8317494643262702218_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH56T5WIh4Z5B9iknELq4Nt0sN3pY-slQNwqj2ZzSopFXa1tlJxOoLMxbiAjrHMurk&_nc_ohc=FhVx0jgVkdUQ7kNvwFpzbAW&_nc_gid=FHS0eIS4oQcwQ2bWTo86NA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4XAt6mGYtCaIt92kyu8Pc1zZ0NLun54sHp-AEC-GC_QA&oe=6A13D549&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4471
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/maribustudio_/profile/656735730_17895663039484629_8317494643262702218_n.jpg
+instagram_profile_image_bytes: 91855
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/maribustudio_/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/maribustudio_/profile/656735730_17895663039484629_8317494643262702218_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/maribustudio_/profile/656735730_17895663039484629_8317494643262702218_n.jpg
+profile_image_local: >-
+  ../../assets/designers/maribustudio_/profile/656735730_17895663039484629_8317494643262702218_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/maribustudio_/profile/656735730_17895663039484629_8317494643262702218_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_15_282d3dd2-2d86-4d5b-bc8c-ef291b1f8111_rwc_0x0x1916x1080x1920.jpeg
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_19_ed14a216-749d-48a6-8a60-c644d937a2d0_rwc_594x507x711x400x1280.jpeg
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_25_acf99639-386e-4100-bcbe-013cc5819375_carw_16x9x5120.jpeg
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_31_223cd82d-7022-4a8f-bbb7-325d519ae0ad_rwc_1308x421x1384x780x1280.jpeg
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_15_282d3dd2-2d86-4d5b-bc8c-ef291b1f8111_rwc_0x0x1916x1080x1920.jpeg
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_19_ed14a216-749d-48a6-8a60-c644d937a2d0_rwc_594x507x711x400x1280.jpeg
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_25_acf99639-386e-4100-bcbe-013cc5819375_carw_16x9x5120.jpeg
+  - >-
+    ../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_31_223cd82d-7022-4a8f-bbb7-325d519ae0ad_rwc_1308x421x1384x780x1280.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # maribustudio_
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/maribustudio_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/maribustudio_/profile/656735730_17895663039484629_8317494643262702218_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_15_282d3dd2-2d86-4d5b-bc8c-ef291b1f8111_rwc_0x0x1916x1080x1920.jpeg)<br><!-- image:../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_15_282d3dd2-2d86-4d5b-bc8c-ef291b1f8111_rwc_0x0x1916x1080x1920.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_19_ed14a216-749d-48a6-8a60-c644d937a2d0_rwc_594x507x711x400x1280.jpeg)<br><!-- image:../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_19_ed14a216-749d-48a6-8a60-c644d937a2d0_rwc_594x507x711x400x1280.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_25_acf99639-386e-4100-bcbe-013cc5819375_carw_16x9x5120.jpeg)<br><!-- image:../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_25_acf99639-386e-4100-bcbe-013cc5819375_carw_16x9x5120.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_31_223cd82d-7022-4a8f-bbb7-325d519ae0ad_rwc_1308x421x1384x780x1280.jpeg)<br><!-- image:../../assets/designers/maribustudio_/instagram/maribustudio__imageye___-_imgi_31_223cd82d-7022-4a8f-bbb7-325d519ae0ad_rwc_1308x421x1384x780x1280.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+María Busto is an Argentine textile designer and creative director specialising in graphic design and textile print design. With over five years' experience in the fashion industry — including in-house graphic design work for an established brand and running her own studio — she develops trend-aligned print proposals for fashion clients.
+
 ## Style and Aesthetic
+
+Selected Instagram pattern images suggest fashion-oriented textile prints with a trend-conscious sensibility. Busto describes her practice as balancing global trend awareness with individual brand identity, with strong focus on both aesthetics and commercial performance. Colour-balanced, production-viable compositions throughout.
 
 ## Techniques and Tools
 
+Combines manual and digital techniques throughout the design process. Incorporates AI tools to optimise workflows and produce realistic product presentations. Research and experimentation are part of her standard development practice.
+
 ## Markets and Clients
+
+Womenswear and fashion print design are her documented primary market. Website references DHARKA FASHION BRAND as a project. Custom design for brands; open to collaborations.
 
 ## Portfolio and Presence
 
+- Website: https://maribustudio.com
+- Instagram: @maribustudio_
+
 ## Career Path
+
+Built expertise through both in-house employment at an established fashion brand and running her own design business, developing a comprehensive understanding of the design-to-production process. Over five years in the industry, focused on print design, trend research, and brand communication.
 
 ## Pattern Focus
 
+Textile print design for fashion, informed by global trend research and brand identity requirements. Selected patterns suggest fashion-aligned repeat prints. Her practice bridges aesthetic sensitivity, trend awareness, and commercial production.
+
 ## Connections
+
+- [[Textile Print Design]]
+- [[Fashion]]
+- [[Womenswear]]
+- [[Argentina]]

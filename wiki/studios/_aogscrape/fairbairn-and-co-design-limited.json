@@ -1,0 +1,95 @@
+{
+  "slug": "fairbairn-and-co-design-limited",
+  "name": "Fairbairn and co design Limited",
+  "website": "https://fairbairnandco.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/fairbairn-and-co-design-limited.md",
+  "scraped_at": "2026-06-05T23:22:05.287Z",
+  "status": "scraped",
+  "website_title": "FAIRBAIRN AND CO Design Ltd",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://fairbairnandco.thepatterncloud.com/home.php",
+      "text": "FAIRBAIRN AND CO Design Ltd HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://fairbairnandco.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE3.jpg",
+        "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE4.jpg",
+        "https://images.v2.thepatterncloud.com//studio_423/homePage/bndzsryglfvu.jpg",
+        "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE2.jpg",
+        "https://images.v2.thepatterncloud.com//studio_423/homePage/fpmesgcjyrub.jpg",
+        "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE1.jpg",
+        "https://fairbairnandco.thepatterncloud.com/img/social/facebook.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/instagram.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/pinterest.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/twitter.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/facebookB.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/instagramB.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/pinterestB.png",
+        "https://fairbairnandco.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://fairbairnandco.thepatterncloud.com/about.php",
+      "text": "FAIRBAIRN AND CO Design Ltd",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://fairbairnandco.thepatterncloud.com/home.php\nFAIRBAIRN AND CO Design Ltd HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://fairbairnandco.thepatterncloud.com/about.php\nFAIRBAIRN AND CO Design Ltd",
+  "website_about_clean": "SOURCE: https://fairbairnandco.thepatterncloud.com/home.php\nFAIRBAIRN AND CO Design Ltd HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://fairbairnandco.thepatterncloud.com/about.php\nFAIRBAIRN AND CO Design Ltd",
+  "website_images": [
+    "https://fairbairnandco.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE3.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE4.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/bndzsryglfvu.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/fpmesgcjyrub.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE1.jpg",
+    "https://fairbairnandco.thepatterncloud.com/img/social/facebook.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/instagram.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/pinterest.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/twitter.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/facebookB.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/instagramB.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/pinterestB.png",
+    "https://fairbairnandco.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE3.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE4.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/bndzsryglfvu.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/fpmesgcjyrub.jpg",
+    "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE1.jpg"
+  ],
+  "website_images_local": [
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE3.jpg",
+      "local_path": "../../assets/studios/fairbairn-and-co-design-limited/website/website-01.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE4.jpg",
+      "local_path": "../../assets/studios/fairbairn-and-co-design-limited/website/website-02.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_423/homePage/bndzsryglfvu.jpg",
+      "local_path": "../../assets/studios/fairbairn-and-co-design-limited/website/website-03.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE2.jpg",
+      "local_path": "../../assets/studios/fairbairn-and-co-design-limited/website/website-04.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_423/homePage/fpmesgcjyrub.jpg",
+      "local_path": "../../assets/studios/fairbairn-and-co-design-limited/website/website-05.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_423/homePage/%E5%9B%BE1.jpg",
+      "local_path": "../../assets/studios/fairbairn-and-co-design-limited/website/website-06.jpg"
+    }
+  ]
+}

@@ -20,7 +20,7 @@ bio: ''
 website: 'https://bento.me/estampasdamarcela'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/estampasdamarcela
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Link in bio tool: Everything you are, in one simple link | Linktree'
 website_meta_description: >-
   Join 70M+ creators and sell, share & curate everything you do online. One bio
@@ -243,7 +246,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -260,45 +263,103 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/670536289_17944746915173511_5724261146693796453_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHosHpCce-ayZdXFagOlNuTMQchnNNR6SboLe9sBnzjGBCKv9eiwCAv-F4AVeJhM4Q&_nc_ohc=SCOqj9gYBP0Q7kNvwF9UF5S&_nc_gid=LkhNRxCe_-SppQl5MrLJlg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4YYPeMV03AxSNblLITnLQNQTlrUVhGS2gwuGtaiJr_xw&oe=6A13F8A1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/670536289_17944746915173511_5724261146693796453_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHosHpCce-ayZdXFagOlNuTMQchnNNR6SboLe9sBnzjGBCKv9eiwCAv-F4AVeJhM4Q&_nc_ohc=SCOqj9gYBP0Q7kNvwF9UF5S&_nc_gid=LkhNRxCe_-SppQl5MrLJlg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4YYPeMV03AxSNblLITnLQNQTlrUVhGS2gwuGtaiJr_xw&oe=6A13F8A1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/estampasdamarcela/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8039
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/estampasdamarcela/profile/670536289_17944746915173511_5724261146693796453_n.jpg
+instagram_profile_image_bytes: 231682
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/estampasdamarcela/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/estampasdamarcela/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/estampasdamarcela/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/estampasdamarcela/profile/670536289_17944746915173511_5724261146693796453_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/estampasdamarcela/profile/670536289_17944746915173511_5724261146693796453_n.jpg
+profile_image_local: >-
+  ../../assets/designers/estampasdamarcela/profile/670536289_17944746915173511_5724261146693796453_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/estampasdamarcela/profile/670536289_17944746915173511_5724261146693796453_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_45_485930556_17898447516173511_8239172363939786907_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_46_466161567_17881732266173511_129423430889088544_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_47_655330439_18172248946394449_3887126763099247705_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_51_618080707_17928730242187529_2583528806069814106_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_53_623467511_17996858258905368_7141487683005366778_n.jpeg
+instagram_image_count: 5
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_45_485930556_17898447516173511_8239172363939786907_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_47_655330439_18172248946394449_3887126763099247705_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_51_618080707_17928730242187529_2583528806069814106_n.jpeg
+  - >-
+    ../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_53_623467511_17996858258905368_7141487683005366778_n.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # estampasdamarcela
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/estampasdamarcela/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/estampasdamarcela/profile/670536289_17944746915173511_5724261146693796453_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_45_485930556_17898447516173511_8239172363939786907_n.jpeg)<br><!-- image:../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_45_485930556_17898447516173511_8239172363939786907_n.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_46_466161567_17881732266173511_129423430889088544_n.jpeg)<br><!-- image:../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_46_466161567_17881732266173511_129423430889088544_n.jpeg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_47_655330439_18172248946394449_3887126763099247705_n.jpeg)<br><!-- image:../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_47_655330439_18172248946394449_3887126763099247705_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_51_618080707_17928730242187529_2583528806069814106_n.jpeg)<br><!-- image:../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_51_618080707_17928730242187529_2583528806069814106_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_53_623467511_17996858258905368_7141487683005366778_n.jpeg)<br><!-- image:../../assets/designers/estampasdamarcela/instagram/estampasdamarcela_imageye___-_imgi_53_623467511_17996858258905368_7141487683005366778_n.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marcela Abdalla is a Brazilian surface pattern designer with over 10 years of experience in textile design, operating under the handle Estampasdamarcela. Her Instagram biography describes her work as creating original prints ("estampas autorais") with a distinctly Brazilian character ("bossa brasileira"), targeting brands seeking cultural identity in their textile design. She is based in Brazil and open to freelance work.
+
 ## Style and Aesthetic
+
+Selected Instagram images (4 approved patterns) suggest bold, colourful surface patterns with a distinctly Brazilian visual character. The work is positioned as identity-driven repeat design rather than trend-reactive — with a personality rooted in Brazilian aesthetic traditions. The "bossa brasileira" framing implies warmth, rhythm, and originality as core values.
 
 ## Techniques and Tools
 
+No specific tools documented. Over a decade of textile experience suggests professional production capability and market-ready output. Website presence is a Bento.me link-in-bio, indicating a lean digital footprint centred on Instagram and direct contact.
+
 ## Markets and Clients
+
+Targets brands seeking textile identity and cultural distinctiveness. Open to freelance development work. No specific clients or licensees documented beyond direct inquiry.
 
 ## Portfolio and Presence
 
+- Bio link: https://bento.me/estampasdamarcela
+- Instagram: @estampasdamarcela (480 followers, 94 posts)
+
 ## Career Path
+
+No detailed career history documented. Instagram bio states 10+ years of textile experience, establishing Marcela as a practitioner with a sustained professional track record in the sector.
 
 ## Pattern Focus
 
+Four selected Instagram images confirmed as surface patterns. The work carries a Brazilian aesthetic inflection. Without image access, specific motif types or repeat structures cannot be confirmed beyond the general positioning as original, culturally-grounded textile design.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Textile Design]]
+- [[Brazil]]

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://oliviaboutrou.com'
 website_about: ''
 accepted: 16/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/oliviaboutrou_illustration
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Olivia Boutrou
 website_meta_description: ''
 website_about_raw: >-
@@ -303,7 +306,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -321,48 +324,143 @@ instagram_profile_pic_url: >-
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/448243373_475790038274169_7861992607657611824_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFyycXuSR0FYbtP8BMKiysDuEDecYzC1qT4HkL-Bmk8zP5DFvT12bJ4rdkVCErHPmA&_nc_ohc=vXLr2EGHF5oQ7kNvwFoM9zw&_nc_gid=_bxhrUDiCthfqTQhy6ulwg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5XYGimCpPpIFWP77OHnozWwIaKnGGQ9VrnfReLv5qDRQ&oe=6A13F9F2&_nc_sid=8b3546
 instagram_profile_image_local: >-
-  ../../assets/designers/oliviaboutrou_illustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8713
-instagram_profile_image_quality: thumbnail
+  ../../assets/designers/oliviaboutrou_illustration/profile/448243373_475790038274169_7861992607657611824_n.jpg
+instagram_profile_image_bytes: 149231
+instagram_profile_image_quality: large
 instagram_profile_imported: true
 profile_image: >-
-  ../../assets/designers/oliviaboutrou_illustration/profile/instagram-profile.jpg
-profile_images: &ref_0
+  ../../assets/designers/oliviaboutrou_illustration/profile/448243373_475790038274169_7861992607657611824_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/oliviaboutrou_illustration/profile/instagram-profile.jpg
+    ../../assets/designers/oliviaboutrou_illustration/profile/448243373_475790038274169_7861992607657611824_n.jpg
 profile_image_local: >-
-  ../../assets/designers/oliviaboutrou_illustration/profile/instagram-profile.jpg
+  ../../assets/designers/oliviaboutrou_illustration/profile/448243373_475790038274169_7861992607657611824_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/oliviaboutrou_illustration/profile/448243373_475790038274169_7861992607657611824_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1556374229_2031336721715845891_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057652828945_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669472931_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669632754_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057677830038_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666363882_2953996809337484344_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364086_2953998521762616601_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364249_2953999886983616660_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1694361712_3188859629730002383_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695915793_3201896206559211102_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695916493_3201902074373640451_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410784864_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410957574_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1734343200_3524249151963917364_6021096100.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669472931_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669632754_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666363882_2953996809337484344_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364086_2953998521762616601_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1734343200_3524249151963917364_6021096100.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695915793_3201896206559211102_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695916493_3201902074373640451_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410784864_6021096100.jpg
+  - >-
+    ../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410957574_6021096100.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # oliviaboutrou_illustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/oliviaboutrou_illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/oliviaboutrou_illustration/profile/448243373_475790038274169_7861992607657611824_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1556374229_2031336721715845891_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1556374229_2031336721715845891_6021096100.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057652828945_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057652828945_6021096100.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669472931_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669472931_6021096100.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669632754_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057669632754_6021096100.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057677830038_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1562524753_2082931057677830038_6021096100.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666363882_2953996809337484344_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666363882_2953996809337484344_6021096100.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364086_2953998521762616601_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364086_2953998521762616601_6021096100.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364249_2953999886983616660_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1666364249_2953999886983616660_6021096100.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1694361712_3188859629730002383_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1694361712_3188859629730002383_6021096100.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695915793_3201896206559211102_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695915793_3201896206559211102_6021096100.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695916493_3201902074373640451_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1695916493_3201902074373640451_6021096100.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410784864_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410784864_6021096100.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410957574_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1724847137_3444589911410957574_6021096100.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1734343200_3524249151963917364_6021096100.jpg)<br><!-- image:../../assets/designers/oliviaboutrou_illustration/instagram/oliviaboutrou_illustration_1734343200_3524249151963917364_6021096100.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Olivia Boutrou is a French illustrator based in London, represented by Agence Virginie for commercial projects in France. Her practice spans editorial illustration, packaging, publishing, mural commissions, and wallpaper design. Clients include major retail, publishing, and cultural organisations across the UK and France.
+
 ## Style and Aesthetic
+
+Selected images suggest a character-rich, narrative illustration style — abundant, colourful compositions featuring animals, botanical settings, and human figures. The work draws on cultural storytelling and celebrates diversity, nature, and everyday life. Palette is vibrant and contemporary, with a warmth suited to children's publishing, cultural branding, and premium packaging.
 
 ## Techniques and Tools
 
+Works in digital illustration with strong character composition and bespoke vector design. Capable of modular illustration systems (demonstrated in the Being Human festival campaign) adaptable across multiple formats from a single master piece. Also produces wallpaper for commercial licensing via Pattern and Picture.
+
 ## Markets and Clients
+
+Publishing, packaging, cultural institutions, editorial, and licensing. Named clients include Tesco (core teas range, art direction by Coley Porter Bell), Macmillan/Neon Squid (children's non-fiction), Gallimard (Rosa Bonheur children's book), Quarto Publishing (book cover), Hachette/Marabout (54-card recipe set), Figaro magazine (Bordeaux Millesimal series and Champagne article), Bayard Publishing (culture/religion department), Club Landoy (workplace caregiver campaign booklet), Les Jouets Libres (world map poster kit, children aged 5+), Handel & Hendrix House (museum activity book), Bromley Borough Council (12 cultural heritage projection illustrations), Hothorpe Hotel (restaurant illustration series), Nuttree (organic snack packaging). Wallpaper available through Pattern and Picture.
 
 ## Portfolio and Presence
 
+- Instagram: @oliviaboutrou_illustration
+- Website: oliviaboutrou.com
+- Agent (France, commercial): @agencevirginie
+- Wallpaper: Pattern and Picture
+
 ## Career Path
+
+French illustrator based in London. Highly Commended at the AOI World Illustration Awards in 2019 (Biggin Hill Memorial Museum mural) and 2023 (Being Human festival campaign).
 
 ## Pattern Focus
 
+Illustrative surface pattern for wallpaper, packaging, and publishing. Sri Lankan folk tale-inspired wallpaper (four colourways) and La Fontaine fables wallpaper (two colourways) demonstrate dedicated licensed pattern output available via Pattern and Picture.
+
 ## Connections
+
+- [[Stationery]] market
+- [[Home Décor]] market
+- [[Publishing]]
+- [[Licensing]]
+- [[Pattern and Picture]]

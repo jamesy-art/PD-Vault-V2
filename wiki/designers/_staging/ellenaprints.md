@@ -22,7 +22,7 @@ bio: ''
 website: 'https://nodestudio.gr/eleni-piperidou'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ellenaprints
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Eleni Piperidou • Node Studio
 website_meta_description: >-
   Eleni Piperidou Eleni Piperidou completed her graphic design studies in 2002
@@ -281,7 +284,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -298,45 +301,192 @@ instagram_profile_pic_url: >-
   https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/258887585_383049213600994_2295446029863027969_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEpKEK6eLCMiBu5UteUV7av-N3LGzdNw9MQJeRB-ajUD4rSAa0tJDdw_UDr4l4LJFE&_nc_ohc=d44gb3QEiqcQ7kNvwEAq5UH&_nc_gid=94jtfS__FZA1I9hE6c6gxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4FOfpkhRGFyo0Iuh2PZTXlclTh00nkM059mhRKVg6eAg&oe=6A13F73C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/258887585_383049213600994_2295446029863027969_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gEpKEK6eLCMiBu5UteUV7av-N3LGzdNw9MQJeRB-ajUD4rSAa0tJDdw_UDr4l4LJFE&_nc_ohc=d44gb3QEiqcQ7kNvwEAq5UH&_nc_gid=94jtfS__FZA1I9hE6c6gxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4FOfpkhRGFyo0Iuh2PZTXlclTh00nkM059mhRKVg6eAg&oe=6A13F73C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2476
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ellenaprints/profile/258887585_383049213600994_2295446029863027969_n.jpg
+instagram_profile_image_bytes: 35580
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ellenaprints/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ellenaprints/profile/258887585_383049213600994_2295446029863027969_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ellenaprints/profile/258887585_383049213600994_2295446029863027969_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ellenaprints/profile/258887585_383049213600994_2295446029863027969_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ellenaprints/profile/258887585_383049213600994_2295446029863027969_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935171310929_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935179523350_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935187895394_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1642769416_2756072078748156058_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742374976772_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742391832033_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742593178969_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742735715294_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643385042_2761236324062616599_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643730639_2764135408557200164_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643730639_2764135408573909004_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643730640_2764135408632646670_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1644152437_2767673702457338094_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1645794604_2781449199410501615_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952852261969_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952869256608_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952885860673_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1675522808_3030827440863416429_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1675684806_3032186378850552897_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1675857608_3033635949506084795_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1677402008_3046591311414604968_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1677759850_3049593108047226655_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1685379609_3113512279830903100_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1685469610_3114267257428083339_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883312570952328_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883312864571221_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313384538000_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313686581255_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1715769012_3368437069792315487_50642725563.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742593178969_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1644152437_2767673702457338094_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1645794604_2781449199410501615_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1675857608_3033635949506084795_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1677759850_3049593108047226655_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1685469610_3114267257428083339_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313384538000_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1715769012_3368437069792315487_50642725563.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1643385042_2761236324062616599_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952852261969_50642725563.jpg
+  - >-
+    ../../assets/designers/ellenaprints/instagram/ellenaprints_1685379609_3113512279830903100_50642725563.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # ellenaprints
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ellenaprints/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ellenaprints/profile/258887585_383049213600994_2295446029863027969_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935171310929_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935171310929_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935179523350_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935179523350_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935187895394_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1642234506_2751584935187895394_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1642769416_2756072078748156058_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1642769416_2756072078748156058_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742374976772_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742374976772_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742391832033_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742391832033_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742593178969_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742593178969_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742735715294_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643125811_2759061742735715294_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643385042_2761236324062616599_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643385042_2761236324062616599_50642725563.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643730639_2764135408557200164_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643730639_2764135408557200164_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643730639_2764135408573909004_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643730639_2764135408573909004_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1643730640_2764135408632646670_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1643730640_2764135408632646670_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1644152437_2767673702457338094_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1644152437_2767673702457338094_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1645794604_2781449199410501615_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1645794604_2781449199410501615_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952852261969_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952852261969_50642725563.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952869256608_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952869256608_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952885860673_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1646133010_2784287952885860673_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1675522808_3030827440863416429_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1675522808_3030827440863416429_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1675684806_3032186378850552897_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1675684806_3032186378850552897_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1675857608_3033635949506084795_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1675857608_3033635949506084795_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1677402008_3046591311414604968_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1677402008_3046591311414604968_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1677759850_3049593108047226655_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1677759850_3049593108047226655_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1685379609_3113512279830903100_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1685379609_3113512279830903100_50642725563.jpg --> | [ ] | [x] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1685469610_3114267257428083339_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1685469610_3114267257428083339_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883312570952328_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883312570952328_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883312864571221_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883312864571221_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313384538000_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313384538000_50642725563.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313686581255_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1698775280_3225883313686581255_50642725563.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/ellenaprints/instagram/ellenaprints_1715769012_3368437069792315487_50642725563.jpg)<br><!-- image:../../assets/designers/ellenaprints/instagram/ellenaprints_1715769012_3368437069792315487_50642725563.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Eleni Piperidou is a Greek textile print designer with over two decades of professional experience in the fashion industry across Greece and Germany. She completed graphic design studies in 2002 and served as lead graphic designer at PrismaPrint from 2002 to 2017. She is currently based in Thessaloniki, affiliated with Node Studio, and accepts commissions for pattern and print design.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest handcrafted, painterly surface patterns — bold florals, botanical motifs, and decorative all-over print compositions. Eleni's Instagram bio describes "prints handmade with love and passion," signalling a hand-drawn or painted approach rather than purely digital production. Her work appears oriented toward womenswear-scale prints and decorative home textiles.
 
 ## Techniques and Tools
 
+Eleni is skilled across graphic design, pattern design, and the full production pipeline: design to pre-press for offset, screen, and digital printing. Her decade-and-a-half at PrismaPrint covered inception-to-fabrication delivery. She also has extensive experience in branding, identity, logo, and brochure design through Node Studio.
+
 ## Markets and Clients
+
+Primary markets are fashion (womenswear) and home decor. Her career at PrismaPrint placed her at the centre of fashion print production in the Greek and German markets. She has since provided design services to a range of clients through Node Studio's interdisciplinary network, spanning visual identity, pattern print, and web.
 
 ## Portfolio and Presence
 
+- Website: https://nodestudio.gr/eleni-piperidou
+- Instagram: @ellenaprints
+
 ## Career Path
+
+Eleni completed graphic design studies in 2002 and moved directly into print and pattern design for the fashion industry. She served as lead graphic designer at PrismaPrint (2002–2017), building expertise across both the Greek and German fashion print markets, covering full production from design to digital, offset, and screen print. She subsequently joined the multidisciplinary Node Studio in Thessaloniki.
 
 ## Pattern Focus
 
+Selected Instagram images suggest rich botanical and floral surface patterns with a handmade aesthetic. Compositions appear to include all-over repeat structures with dense floral motifs. Selected placements indicate application at garment scale in womenswear contexts — consistent with her professional background.
+
 ## Connections
+
+- [[PrismaPrint]]
+- [[Node Studio]]
+- [[Textile Print Design]]
+- [[Womenswear]]
+- [[Floral Surface Pattern]]
+- [[Fashion Print]]

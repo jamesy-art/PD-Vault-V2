@@ -15,12 +15,12 @@ skills:
 country: Australia
 can_use: 'Yes'
 instagram_handle: sukimcmaster
-instagram: 'https://instagram.com/@sukimcmaster'
+instagram: 'https://instagram.com/sukimcmaster'
 bio: ''
 website: 'https://sukimcmaster.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/sukimcmaster
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Melbourne Gifts | Designer Homewares Melbourne
 website_meta_description: >-
   Looking for ideas for a baby shower in Melbourne? We stock soft toys, baby
@@ -104,7 +107,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -123,45 +126,169 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/11252568_1484284465210221_898421552_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHthHlfMjHgYWzODZCoBBuYKFUaIUO-ef6XD-Lh_uhMyXcMdHjNS7AwnSDP0IN6Jvs&_nc_ohc=rGiVeJqo_WoQ7kNvwFCeb_6&_nc_gid=_w06L40O56mGmPn6XMjTYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6pJtqRpT12_adXUm_QAUbi0YeBGIaG9emiirtRJ10VvA&oe=6A13F829&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/11252568_1484284465210221_898421552_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHthHlfMjHgYWzODZCoBBuYKFUaIUO-ef6XD-Lh_uhMyXcMdHjNS7AwnSDP0IN6Jvs&_nc_ohc=rGiVeJqo_WoQ7kNvwFCeb_6&_nc_gid=_w06L40O56mGmPn6XMjTYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6pJtqRpT12_adXUm_QAUbi0YeBGIaG9emiirtRJ10VvA&oe=6A13F829&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/sukimcmaster/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3937
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/sukimcmaster/profile/11252568_1484284465210221_898421552_a.jpg
+instagram_profile_image_bytes: 76174
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/sukimcmaster/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/sukimcmaster/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/sukimcmaster/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/sukimcmaster/profile/11252568_1484284465210221_898421552_a.jpg
+profile_images:
+  - >-
+    ../../assets/designers/sukimcmaster/profile/11252568_1484284465210221_898421552_a.jpg
+profile_image_local: >-
+  ../../assets/designers/sukimcmaster/profile/11252568_1484284465210221_898421552_a.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/sukimcmaster/profile/11252568_1484284465210221_898421552_a.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1754560233_3693841426141787136_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1756114243_3706877374363075009_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1757410238_3717748962855455054_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287682704699540_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287683703016607_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287693827969978_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1763454608_3768452782320755016_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1765440846_3785114615140234959_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768205945_3808309948569443925_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768465388_3810486306686547902_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769502367_3819185125721009634_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909909831595399_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910183890121_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910855024354_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910863375089_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909911383485916_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909913698705050_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1775036061_3865605115512179107_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358838801549185_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358839430688664_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1777366867_3885157330258438296_18437486.jpg
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1756114243_3706877374363075009_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287693827969978_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1763454608_3768452782320755016_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1765440846_3785114615140234959_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768465388_3810486306686547902_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1775036061_3865605115512179107_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358838801549185_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1777366867_3885157330258438296_18437486.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1754560233_3693841426141787136_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1757410238_3717748962855455054_18437486.jpg
+  - >-
+    ../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768205945_3808309948569443925_18437486.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # sukimcmaster
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sukimcmaster/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/sukimcmaster/profile/11252568_1484284465210221_898421552_a.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1754560233_3693841426141787136_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1754560233_3693841426141787136_18437486.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1756114243_3706877374363075009_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1756114243_3706877374363075009_18437486.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1757410238_3717748962855455054_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1757410238_3717748962855455054_18437486.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287682704699540_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287682704699540_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287683703016607_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287683703016607_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287693827969978_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1759739437_3737287693827969978_18437486.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1763454608_3768452782320755016_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1763454608_3768452782320755016_18437486.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1765440846_3785114615140234959_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1765440846_3785114615140234959_18437486.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768205945_3808309948569443925_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768205945_3808309948569443925_18437486.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768465388_3810486306686547902_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1768465388_3810486306686547902_18437486.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769502367_3819185125721009634_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769502367_3819185125721009634_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909909831595399_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909909831595399_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910183890121_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910183890121_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910855024354_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910855024354_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910863375089_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909910863375089_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909911383485916_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909911383485916_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909913698705050_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1769588769_3819909913698705050_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1775036061_3865605115512179107_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1775036061_3865605115512179107_18437486.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358838801549185_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358838801549185_18437486.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358839430688664_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1776675633_3879358839430688664_18437486.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/sukimcmaster/instagram/sukimcmaster_1777366867_3885157330258438296_18437486.jpg)<br><!-- image:../../assets/designers/sukimcmaster/instagram/sukimcmaster_1777366867_3885157330258438296_18437486.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Suki McMaster is a Melbourne-based Australian illustrator and designer operating under her own name as both a product brand and creative practice. She has grown from a South Melbourne Market stall to over 40 stockists worldwide, with an e-commerce store and a product range spanning baby, children's, home, and stationery categories.
+
 ## Style and Aesthetic
+
+McMaster's work is characterised by joyful, hand-drawn illustration with strong appeal to the gift, children's, and home markets. Her signature subjects include Australian native wildlife — koalas, platypuses, quokkas, black cockatoos, Major Mitchell cockatoos — rendered with warmth and commercial clarity. Selected Instagram patterns suggest bold outlines, lively colour, and character-led illustration adapted across product categories. She also works with Japanese cultural motifs, including a Lucky Cat and Koala crossover series.
 
 ## Techniques and Tools
 
+McMaster is a hand-drawn illustrator whose designs are adapted for product application across a wide format range. She operates her own Shopify e-commerce store, attends trade fairs, and manages a wholesale network — indicating familiarity with product development, factory sampling, and buyer relationships alongside her illustration practice.
+
 ## Markets and Clients
+
+McMaster's products span baby and children (bamboo swaddles, onesies, melamine dinner sets, bibs), home decor (art prints, ceramic mugs, tote bags, insulated water bottles), stationery (calendars, greeting cards, sticker sheets), and gifts. Her wholesale network includes international stockists — a Tokyo retailer has been documented. She has attended trade fairs to develop buyer relationships. Selected placement images suggest application to apparel, homeware, and children's product contexts.
 
 ## Portfolio and Presence
 
+- Website: sukimcmaster.com
+- Instagram: @sukimcmaster (14,812 followers, business account)
+- South Melbourne Market (stall)
+
 ## Career Path
+
+McMaster frames her creative practice as growing from a personal healing journey. She grew up in Hong Kong before building her illustration business in Melbourne, initially through the South Melbourne Market before expanding to a multi-category product range with international distribution.
 
 ## Pattern Focus
 
+Selected patterns suggest illustrated Australian wildlife and botanical motifs — characters and nature subjects designed for placement on product surfaces. Selected placement images indicate application to apparel, homeware, and children's products including swaddles and onesies.
+
 ## Connections
+
+- [[Australian Illustration]]
+- [[Kidswear]]
+- [[Home Decor]]
+- [[Gifting]]
+- [[Surface Pattern Design]]
+- [[Stationery]]

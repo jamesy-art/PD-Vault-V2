@@ -15,12 +15,12 @@ skills:
 country: United Kingdom
 can_use: 'Yes'
 instagram_handle: mnnkshi
-instagram: 'https://instagram.com/@mnnkshi'
+instagram: 'https://instagram.com/mnnkshi'
 bio: ''
 website: 'https://meenakshiarwork.wixstudio.com/portfolio/blank-3'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mnnkshi
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Selected Projects New | Portfolio
 website_meta_description: ''
 website_about_raw: >-
@@ -156,7 +159,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -173,45 +176,124 @@ instagram_profile_pic_url: >-
   https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/690044801_18439549627139117_2982719009596297575_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFCY0Q3ra5Hbl_YGAaGWbnpDguoe9yrRgQYpev_nGZdqyjIdhIoKJdjLwsUYJ7epDw&_nc_ohc=qyGCjxpzkBkQ7kNvwHXhVx4&_nc_gid=ZtnvyKAuTUb9F1N3dhUwhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63f2A9_DpDhOQ_LHJ-1w25EkXwr7rUeexxWWcpn_gdVQ&oe=6A13F2A5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/690044801_18439549627139117_2982719009596297575_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFCY0Q3ra5Hbl_YGAaGWbnpDguoe9yrRgQYpev_nGZdqyjIdhIoKJdjLwsUYJ7epDw&_nc_ohc=qyGCjxpzkBkQ7kNvwHXhVx4&_nc_gid=ZtnvyKAuTUb9F1N3dhUwhg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63f2A9_DpDhOQ_LHJ-1w25EkXwr7rUeexxWWcpn_gdVQ&oe=6A13F2A5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mnnkshi/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3185
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mnnkshi/profile/690044801_18439549627139117_2982719009596297575_n.jpg
+instagram_profile_image_bytes: 98357
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mnnkshi/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mnnkshi/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mnnkshi/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mnnkshi/profile/690044801_18439549627139117_2982719009596297575_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mnnkshi/profile/690044801_18439549627139117_2982719009596297575_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mnnkshi/profile/690044801_18439549627139117_2982719009596297575_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mnnkshi/profile/690044801_18439549627139117_2982719009596297575_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_116_605735_af6f9db2c5e041e0b97ad723be9275ed~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_126_605735_10ee9ea6a1e7475eb2f939395fe37578~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_128_605735_9a7c959419fe4bd9a06bb8924a429e02~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_134_605735_dfe7a849d0cc43f1a64d266953b4e3ad~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_138_605735_ee4c662107f54c8f95e725531cf5b036~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_139_605735_1cd4a4f6f22544cbb728d4ad3d26db28~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_142_605735_5ea10200fc7f481786dfe4bd738f3cd3~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_159_605735_124a63def1c54bbca178bda140136cb3~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_160_605735_2b566f6a87b14bfba7066b1b6c3b4c06~mv2.png
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_116_605735_af6f9db2c5e041e0b97ad723be9275ed~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_126_605735_10ee9ea6a1e7475eb2f939395fe37578~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_128_605735_9a7c959419fe4bd9a06bb8924a429e02~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_134_605735_dfe7a849d0cc43f1a64d266953b4e3ad~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_138_605735_ee4c662107f54c8f95e725531cf5b036~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_139_605735_1cd4a4f6f22544cbb728d4ad3d26db28~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_142_605735_5ea10200fc7f481786dfe4bd738f3cd3~mv2.png
+  - >-
+    ../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_160_605735_2b566f6a87b14bfba7066b1b6c3b4c06~mv2.png
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # mnnkshi
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mnnkshi/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mnnkshi/profile/690044801_18439549627139117_2982719009596297575_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_116_605735_af6f9db2c5e041e0b97ad723be9275ed~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_116_605735_af6f9db2c5e041e0b97ad723be9275ed~mv2.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_126_605735_10ee9ea6a1e7475eb2f939395fe37578~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_126_605735_10ee9ea6a1e7475eb2f939395fe37578~mv2.png --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_128_605735_9a7c959419fe4bd9a06bb8924a429e02~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_128_605735_9a7c959419fe4bd9a06bb8924a429e02~mv2.png --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_134_605735_dfe7a849d0cc43f1a64d266953b4e3ad~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_134_605735_dfe7a849d0cc43f1a64d266953b4e3ad~mv2.png --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_138_605735_ee4c662107f54c8f95e725531cf5b036~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_138_605735_ee4c662107f54c8f95e725531cf5b036~mv2.png --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_139_605735_1cd4a4f6f22544cbb728d4ad3d26db28~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_139_605735_1cd4a4f6f22544cbb728d4ad3d26db28~mv2.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_142_605735_5ea10200fc7f481786dfe4bd738f3cd3~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_142_605735_5ea10200fc7f481786dfe4bd738f3cd3~mv2.png --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_159_605735_124a63def1c54bbca178bda140136cb3~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_159_605735_124a63def1c54bbca178bda140136cb3~mv2.png --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_160_605735_2b566f6a87b14bfba7066b1b6c3b4c06~mv2.png)<br><!-- image:../../assets/designers/mnnkshi/instagram/mnnkshi_imageye___-_imgi_160_605735_2b566f6a87b14bfba7066b1b6c3b4c06~mv2.png --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Meenakshi Rajagopal is a UK-based textile and print designer, based in Oxford and graduating from the University of the Arts London (UAL) in 2025. Her practice spans print design, weave design, and surface embellishment across a portfolio of over twenty named collections. Her website presents work ranging from botanical and tropical themes to cultural heritage and abstract motifs.
+
 ## Style and Aesthetic
+
+Rajagopal describes her practice as rooted in cultural versatility and a deep interplay of colour, exploring prints through a contemporary lens. Named collections document a wide aesthetic range: botanical (Foliage, The Bloom That Stayed, Berry Sweet Summerhouse), tropical (Tropical Vacation), cultural reference (Egyptian Art and Hieroglyphs, Pueblo Terracotta, Artisanry, Mudra, Tides of Thread), abstract and retro (Blocking, The Marble Effect, Nostalgia Blocks, Retro Quaint), and decorative narrative (Ochiba, Day Dream Dairies, Echo Summer). Selected Instagram images are consistent with this range — culturally referential, colour-rich, and contemporary in handling.
 
 ## Techniques and Tools
 
+Print design, weave design, and surface embellishment are the three primary disciplines documented on her portfolio. Her practice includes sketchbook development as a foundation for project work. UAL study provides a formal textile education framework across all three areas.
+
 ## Markets and Clients
+
+No commercial clients documented. UAL student context positions this as a portfolio-stage practice preparing for industry entry. Her disciplines — print, weave, and surface embellishment — are applicable to fashion textiles, interior fabrics, and surface decoration markets.
 
 ## Portfolio and Presence
 
+- Website: meenakshiarwork.wixstudio.com/portfolio
+- Instagram: @mnnkshi (963 followers) / also @meeenakshi._
+
 ## Career Path
+
+Textile and print design student at the University of the Arts London (UAL), graduating 2025. Based in Oxford.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 0 placements) suggest pattern work engaging cultural reference, colour depth, and varied motif types — consistent with the named collection breadth documented on the website. Portfolio spans Egyptian, Aztec-adjacent, floral, abstract, and retro territory.
+
 ## Connections
+
+- [[University of the Arts London]] — study institution
+- [[Print Design]] — primary documented discipline
+- [[Weave Design]] — documented practice area
+- [[Surface Embellishment]] — documented practice area

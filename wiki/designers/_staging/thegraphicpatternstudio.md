@@ -25,7 +25,7 @@ bio: ''
 website: 'https://thegraphicpatternstudio.com'
 website_about: ''
 accepted: 26/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/thegraphicpatternstudio
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: THE GRAPHIC PATTERN STUDIO | LEIGH BAGLEY
 website_meta_description: >-
   THE GRAPHIC PATTERN STUDIO is a textile design studio specialising in graphic
@@ -266,7 +269,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -285,45 +288,127 @@ instagram_profile_pic_url: >-
   https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/401505552_1083624372794599_7325242971364130223_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTYuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFyy2DpCRZYcu8VkLR54bnAS-Zwy4UKO2Ga-XbHKddE7RQiY1C4o-S2nVGn9pWfVmI&_nc_ohc=xvlAf9x619QQ7kNvwEv-Ph5&_nc_gid=gAYPW7uLPqNcgeWwRaSPfg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5tZ9PkJ7R_sM-HI9oxyg9UqTfrgV0UQQ21REogaFU9JQ&oe=6A13D997&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fsac1-2.fna.fbcdn.net/v/t51.2885-19/401505552_1083624372794599_7325242971364130223_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTYuYzIifQ&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gFyy2DpCRZYcu8VkLR54bnAS-Zwy4UKO2Ga-XbHKddE7RQiY1C4o-S2nVGn9pWfVmI&_nc_ohc=xvlAf9x619QQ7kNvwEv-Ph5&_nc_gid=gAYPW7uLPqNcgeWwRaSPfg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5tZ9PkJ7R_sM-HI9oxyg9UqTfrgV0UQQ21REogaFU9JQ&oe=6A13D997&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/thegraphicpatternstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5938
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/thegraphicpatternstudio/profile/401505552_1083624372794599_7325242971364130223_n.jpg
+instagram_profile_image_bytes: 68457
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/thegraphicpatternstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/thegraphicpatternstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/thegraphicpatternstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/thegraphicpatternstudio/profile/401505552_1083624372794599_7325242971364130223_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/profile/401505552_1083624372794599_7325242971364130223_n.jpg
+profile_image_local: >-
+  ../../assets/designers/thegraphicpatternstudio/profile/401505552_1083624372794599_7325242971364130223_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/thegraphicpatternstudio/profile/401505552_1083624372794599_7325242971364130223_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1651058431_2825605382052831521_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1654854169_2857446334928729377_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665504648_2946789033657410113_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665739113_2948755865511422670_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665817717_2949415245231920931_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1668073162_2968335284076978606_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1670107462_2985400228492392204_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1676715798_3040834972797135862_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1685533544_3114803589515419174_52233222075.jpg
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1651058431_2825605382052831521_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665504648_2946789033657410113_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665739113_2948755865511422670_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665817717_2949415245231920931_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1668073162_2968335284076978606_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1685533544_3114803589515419174_52233222075.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1654854169_2857446334928729377_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1670107462_2985400228492392204_52233222075.jpg
+  - >-
+    ../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1676715798_3040834972797135862_52233222075.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # thegraphicpatternstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/thegraphicpatternstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/thegraphicpatternstudio/profile/401505552_1083624372794599_7325242971364130223_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1651058431_2825605382052831521_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1651058431_2825605382052831521_52233222075.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1654854169_2857446334928729377_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1654854169_2857446334928729377_52233222075.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665504648_2946789033657410113_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665504648_2946789033657410113_52233222075.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665739113_2948755865511422670_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665739113_2948755865511422670_52233222075.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665817717_2949415245231920931_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1665817717_2949415245231920931_52233222075.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1668073162_2968335284076978606_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1668073162_2968335284076978606_52233222075.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1670107462_2985400228492392204_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1670107462_2985400228492392204_52233222075.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1676715798_3040834972797135862_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1676715798_3040834972797135862_52233222075.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1685533544_3114803589515419174_52233222075.jpg)<br><!-- image:../../assets/designers/thegraphicpatternstudio/instagram/thegraphicpatternstudio_1685533544_3114803589515419174_52233222075.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+The Graphic Pattern Studio is a textile design agency based in East Lothian, Scotland, founded by Leigh Bagley. The studio specialises in bold geometric and graphic prints for interiors, offering commissions, collaborations, licensing projects, and colour consultancy. Work is available as wallcoverings, textiles, and poster prints.
+
 ## Style and Aesthetic
+
+Selected images suggest strong, structured geometric and graphic pattern work — bold repeats with contemporary colour palettes, architectural references, and mid-century abstraction. The aesthetic is clean and interior-facing, suited to both residential and commercial environments. Selected placements suggest designs applied to wallcoverings and spatial settings.
 
 ## Techniques and Tools
 
+Pattern design for interior application — wallpaper, textiles, and print. Services span commissions, licensing, and colour consultancy, indicating a full design-to-delivery capability. Accessible print editions (from £30) suggest digital production.
+
 ## Markets and Clients
+
+Interiors — residential and commercial including hospitality, retail, and office environments. Notable collaboration with Newmor Wallcoverings, a commercial designer wallpaper brand, producing a collection influenced by architectural forms and mid-century design. Also sells affordable poster prints directly to consumers.
 
 ## Portfolio and Presence
 
+- Website: https://thegraphicpatternstudio.com
+- Instagram: https://instagram.com/thegraphicpatternstudio
+
 ## Career Path
+
+Leigh Bagley established The Graphic Pattern Studio in East Lothian, developing a public-facing brand with a licensed product range (Leigh Bagley × Newmor Wallcoverings) alongside bespoke commission and colour consultancy services.
 
 ## Pattern Focus
 
+Bold geometric and abstract prints with architectural influence and mid-century design sensibility. Selected patterns show strong structural compositions in contemporary colour palettes — named series include Dome, Orbit, Brunnian, Rannoch, and Tay, suggesting pattern families referencing landscape and geometry.
+
 ## Connections
+
+- [[Newmor Wallcoverings]] — wallcoverings collaboration
+- [[Home Decor]]
+- [[Wallpaper]]
+- [[Interiors]]
+- [[Licensing]]

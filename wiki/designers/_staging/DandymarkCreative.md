@@ -23,12 +23,12 @@ skills:
 country: United States
 can_use: 'Yes'
 instagram_handle: dandymarkcreative
-instagram: 'https://instagram.com/@dandymarkcreative'
+instagram: 'https://instagram.com/dandymarkcreative'
 bio: ''
 website: 'https://dandymark.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/dandymarkcreative
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Dandymark Creative - Patterns, Illustration, and Lettering Design | Design and
   Illustration for Products
@@ -271,7 +274,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -292,45 +295,136 @@ instagram_profile_pic_url: >-
   https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/499888001_18026062853676493_7980367617254636631_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjYuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEHaN8jLKBiSxLJJmfO2wwxFfi521U6BnCbqxh_nm12O4bVhQZxqx3bPbWtONMhtwo&_nc_ohc=LIof9ur-RvcQ7kNvwGLC6VD&_nc_gid=FCLVu0IbbCXlutKQ2wpUtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4isRlD5jhcI-LI9apIXAtjyxhCrgNscX24powNXb73IQ&oe=6A13D134&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia5-1.cdninstagram.com/v/t51.2885-19/499888001_18026062853676493_7980367617254636631_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjYuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent-mia5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEHaN8jLKBiSxLJJmfO2wwxFfi521U6BnCbqxh_nm12O4bVhQZxqx3bPbWtONMhtwo&_nc_ohc=LIof9ur-RvcQ7kNvwGLC6VD&_nc_gid=FCLVu0IbbCXlutKQ2wpUtA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4isRlD5jhcI-LI9apIXAtjyxhCrgNscX24powNXb73IQ&oe=6A13D134&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4754
+instagram_profile_image_local: >-
+  ../../assets/designers/dandymarkcreative/profile/499888001_18026062853676493_7980367617254636631_n.jpg
+instagram_profile_image_bytes: 25090
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/dandymarkcreative/profile/499888001_18026062853676493_7980367617254636631_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/dandymarkcreative/profile/499888001_18026062853676493_7980367617254636631_n.jpg
+profile_image_local: >-
+  ../../assets/designers/dandymarkcreative/profile/499888001_18026062853676493_7980367617254636631_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/dandymarkcreative/profile/499888001_18026062853676493_7980367617254636631_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319357748833112_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358033927647_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358034035642_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148436281654993_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148438174700491_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755699934242_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755758665214_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755817340899_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281086318_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281128627_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1777491431_3886202257499623690_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1778853888_3897631349620990673_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1779588030_3903789657289010294_50248364492.jpg
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319357748833112_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358033927647_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358034035642_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148438174700491_50248364492.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281086318_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1777491431_3886202257499623690_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1778853888_3897631349620990673_50248364492.jpg
+  - >-
+    ../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1779588030_3903789657289010294_50248364492.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # dandymarkcreative
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/dandymarkcreative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/dandymarkcreative/profile/499888001_18026062853676493_7980367617254636631_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319357748833112_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319357748833112_50248364492.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358033927647_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358033927647_50248364492.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358034035642_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1666402333_2954319358034035642_50248364492.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148436281654993_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148436281654993_50248364492.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148438174700491_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1713708075_3351148438174700491_50248364492.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755699934242_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755699934242_50248364492.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755758665214_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755758665214_50248364492.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755817340899_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1717770975_3385230755817340899_50248364492.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281086318_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281086318_50248364492.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281128627_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1748624554_3644049338281128627_50248364492.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1777491431_3886202257499623690_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1777491431_3886202257499623690_50248364492.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1778853888_3897631349620990673_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1778853888_3897631349620990673_50248364492.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1779588030_3903789657289010294_50248364492.jpg)<br><!-- image:../../assets/designers/dandymarkcreative/instagram/dandymarkcreative_1779588030_3903789657289010294_50248364492.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jennifer Healy is a surface pattern designer and digital illustrator based in Durham, North Carolina, working under the brand Dandymark Creative. With over 15 years of experience in graphic design, she has developed a licensing-focused practice around cohesive pattern collections, illustration, hand lettering, and seasonal and greetings design.
+
 ## Style and Aesthetic
+
+Dandymark Creative blends modern graphic shapes with vintage charm — a "folk meets graphic" aesthetic built on bold, high-contrast colour palettes and a handmade character. Selected Instagram patterns suggest strong graphic patterning with folk art influences, delivered with confident, clean colour work. Her Instagram bio confirms the positioning: art goods, surface design, stickers, prints, and licensing.
 
 ## Techniques and Tools
 
+Digital illustration. 15+ years of graphic design experience underpins the commercial practice. Her portfolio spans patterns, illustrations, hand lettering, greetings, and seasonal designs.
+
 ## Markets and Clients
+
+Brand licensing across patterns, illustrations, lettering, and greetings. Stickers and printed goods available for retail. Selected placement images suggest product applications including stationery, printed goods, and branded merchandise. Her website presents cohesive collections ready for brand collaboration.
 
 ## Portfolio and Presence
 
+- Website: https://dandymark.com
+- Instagram: https://instagram.com/dandymarkcreative
+
 ## Career Path
+
+Jennifer brings 15+ years of graphic design experience — building visual identities and creative solutions for various clients — before establishing Dandymark Creative as a licensing-focused surface design practice. Based in Durham, NC.
 
 ## Pattern Focus
 
+Bold graphic patterns with folk influences, abstract pattern collections, floral and fruit motifs. The licensing portfolio covers patterns, illustrations, lettering, greetings, and seasonal collections, offering brands cohesive ready-to-license sets.
+
 ## Connections
+
+- [[Stationery Market]]
+- [[Gifting Market]]
+- [[Folk Patterns]]
+- [[Licensing]]

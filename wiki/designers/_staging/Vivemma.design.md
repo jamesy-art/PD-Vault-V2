@@ -26,7 +26,7 @@ bio: ''
 website: 'https://Vivemmadesign.com'
 website_about: ''
 accepted: 16/06/25
-level: level_3
+level: level_4
 asset_folder: wiki/assets/designers/vivemma.design
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Beautiful Floral Illustrations and Surface Patterns
 website_meta_description: >-
   Illustrations and patterns for textiles, stationery and homewares. Inspired by
@@ -270,7 +273,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -290,32 +293,138 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/324773087_558319416224378_2967743689682750045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGk9kHZBQV-oxmBdMdjbcIk2pLKtl6tBL-ztf8E4JkiS9gW_bAvL3uHpGTLGHieXsY&_nc_ohc=O0xQLwVc67MQ7kNvwEOZ3mK&_nc_gid=ddUoIwe0cS_1Yq1kmB5Uag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4PZ_eqIFOOx0Pm2eD_BFnaBZzbup80_VcSHkxnYv6Jmw&oe=6A13D8B4&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/324773087_558319416224378_2967743689682750045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGk9kHZBQV-oxmBdMdjbcIk2pLKtl6tBL-ztf8E4JkiS9gW_bAvL3uHpGTLGHieXsY&_nc_ohc=O0xQLwVc67MQ7kNvwEOZ3mK&_nc_gid=ddUoIwe0cS_1Yq1kmB5Uag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4PZ_eqIFOOx0Pm2eD_BFnaBZzbup80_VcSHkxnYv6Jmw&oe=6A13D8B4&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7810
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/vivemma.design/profile/324773087_558319416224378_2967743689682750045_n.jpg
+instagram_profile_image_bytes: 252553
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/vivemma.design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/vivemma.design/profile/324773087_558319416224378_2967743689682750045_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/vivemma.design/profile/324773087_558319416224378_2967743689682750045_n.jpg
+profile_image_local: >-
+  ../../assets/designers/vivemma.design/profile/324773087_558319416224378_2967743689682750045_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/vivemma.design/profile/324773087_558319416224378_2967743689682750045_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514812088_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514946427_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660640610057_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660649095367_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1670922309_2992235660640704755_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1676449962_3038604976411463652_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421054439968_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421063002703_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421239083524_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1680080497_3069060110442324392_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1682330903_3087937891876205765_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1682722293_3091221107953169166_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1684749292_3108224808819413790_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1690798124_3158966083830726820_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528334309_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528439003_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528454966_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1746612921_3627174534508807869_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1747733978_3636578649022376938_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153375377117_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153568132752_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1749190682_3648798364780124927_45378676771.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514812088_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1676449962_3038604976411463652_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421054439968_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1682330903_3087937891876205765_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1682722293_3091221107953169166_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528334309_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1746612921_3627174534508807869_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153568132752_45378676771.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1680080497_3069060110442324392_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1684749292_3108224808819413790_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1747733978_3636578649022376938_45378676771.jpg
+  - >-
+    ../../assets/designers/vivemma.design/instagram/vivemma.design_1749190682_3648798364780124927_45378676771.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # vivemma.design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vivemma.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/vivemma.design/profile/324773087_558319416224378_2967743689682750045_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514812088_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514812088_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514946427_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660514946427_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660640610057_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660640610057_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660649095367_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1670922308_2992235660649095367_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1670922309_2992235660640704755_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1670922309_2992235660640704755_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1676449962_3038604976411463652_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1676449962_3038604976411463652_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421054439968_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421054439968_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421063002703_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421063002703_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421239083524_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1678438306_3055284421239083524_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1680080497_3069060110442324392_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1680080497_3069060110442324392_45378676771.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1682330903_3087937891876205765_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1682330903_3087937891876205765_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1682722293_3091221107953169166_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1682722293_3091221107953169166_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1684749292_3108224808819413790_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1684749292_3108224808819413790_45378676771.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1690798124_3158966083830726820_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1690798124_3158966083830726820_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528334309_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528334309_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528439003_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528439003_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528454966_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1712825691_3343746713528454966_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1746612921_3627174534508807869_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1746612921_3627174534508807869_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1747733978_3636578649022376938_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1747733978_3636578649022376938_45378676771.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153375377117_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153375377117_45378676771.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153568132752_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1748848288_3645926153568132752_45378676771.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/vivemma.design/instagram/vivemma.design_1749190682_3648798364780124927_45378676771.jpg)<br><!-- image:../../assets/designers/vivemma.design/instagram/vivemma.design_1749190682_3648798364780124927_45378676771.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 

@@ -26,7 +26,7 @@ bio: ''
 website: 'https://luovaflow.com'
 website_about: ''
 accepted: 08/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/luovaflow
 profile_url: ''
 instagram_images:
@@ -43,8 +43,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - enriched
 website_title: Luova Flow
 website_meta_description: ''
 website_about_raw: >-
@@ -281,7 +284,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -299,44 +302,187 @@ instagram_business_account: true
 instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/436401911_3715795708705690_2595170721238715121_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjguYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFniQkKmbaTE_2NaYe2_JMk1qMg0_jIr5tmhh8xLDx3qVtQS3EfWrXgbyO35WGavwg&_nc_ohc=i8DyAzdqBv0Q7kNvwHhJ2Nm&_nc_gid=hEdQcmFUbaxPsPUZ3i3VLQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af58wcqBcDoW83yjvVHtbK32d_FjKEDgJpXfi2ljaXmD1Q&oe=6A1405D2&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/luovaflow/profile/436401911_3715795708705690_2595170721238715121_n.jpg
+instagram_profile_image_bytes: 12066
+instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/luovaflow/profile/436401911_3715795708705690_2595170721238715121_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/luovaflow/profile/436401911_3715795708705690_2595170721238715121_n.jpg
+profile_image_local: >-
+  ../../assets/designers/luovaflow/profile/436401911_3715795708705690_2595170721238715121_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/luovaflow/profile/436401911_3715795708705690_2595170721238715121_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190886707804_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190903381375_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1681563000_3081496249475796729_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289568880113_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289686407017_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905614184_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905778954_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1689505350_3148121515165705309_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1689505350_3148121515274660294_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1689505351_3148121515291568941_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185230915862130_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231033415011_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231067024366_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1707924141_3302629531733849296_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861410252_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861457053_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861528687_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189101020719422_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1739281518_3565674276301582102_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1739281518_3565674276301633946_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554015369_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554096126_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114562279423_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114562406068_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114570829971_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114629577407_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114688274587_212169059.jpg
+instagram_image_count: 27
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190886707804_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1681563000_3081496249475796729_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289568880113_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905614184_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1689505351_3148121515291568941_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231067024366_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1707924141_3302629531733849296_212169059.jpg
+  - >-
+    ../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554015369_212169059.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # luovaflow
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/luovaflow/profile/436401911_3715795708705690_2595170721238715121_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190886707804_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190886707804_212169059.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190903381375_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1679581615_3064875190903381375_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1681563000_3081496249475796729_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1681563000_3081496249475796729_212169059.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289568880113_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289568880113_212169059.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289686407017_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1683288678_3095972289686407017_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905614184_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905614184_212169059.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905778954_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1685645934_3115746381905778954_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1689505350_3148121515165705309_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1689505350_3148121515165705309_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1689505350_3148121515274660294_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1689505350_3148121515274660294_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1689505351_3148121515291568941_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1689505351_3148121515291568941_212169059.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185230915862130_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185230915862130_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231033415011_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231033415011_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231067024366_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1700480201_3240185231067024366_212169059.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1707924141_3302629531733849296_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1707924141_3302629531733849296_212169059.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861410252_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861410252_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861457053_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861457053_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861528687_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189100861528687_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189101020719422_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1714666567_3359189101020719422_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1739281518_3565674276301582102_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1739281518_3565674276301582102_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1739281518_3565674276301633946_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1739281518_3565674276301633946_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554015369_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554015369_212169059.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554096126_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114554096126_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114562279423_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114562279423_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114562406068_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114562406068_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114570829971_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114570829971_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114629577407_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114629577407_212169059.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114688274587_212169059.jpg)<br><!-- image:../../assets/designers/luovaflow/instagram/luovaflow_1741624439_3585328114688274587_212169059.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Luova Flow is a Finnish design brand founded in 2020 by surface designer and illustrator Jenna Nelson. Based in Finland, the brand specialises in maximalist, nature-inspired patterns available for licensing across interior, apparel, and accessories markets. Luova Flow is represented by Patterns From Agency (PFA), a Finnish licensing agency with international design fair presence. Named collaborators include Vallila Interior, Williams-Sonoma Inc., Annala Oy, Young Finnish Design Oy, and Yiume.
+
 ## Style and Aesthetic
+
+Maximalist, ornamental, and richly illustrative. Patterns are characterised by abundant natural motifs — botanicals, birds, animals, and seasonal flora — rendered with delicacy and layered detail. Visual influences draw from Nordic and Californian nature, producing a warmly colourful aesthetic distinct from mainstream Nordic minimalism. Instagram bio: "Whimsical worlds of maximalist patterns by Jenna Nelson." Selected pattern images suggest lush all-over compositions with high-density repeat structures.
 
 ## Techniques and Tools
 
+Illustration-based pattern design with detailed, hand-feeling compositions and strong linework. Luova Flow operates a custom design and illustration service alongside its licensing library, specialising in fabric, wallpaper, and interior decor.
+
 ## Markets and Clients
+
+Interior, fashion, and accessories. Documented placements:
+- Finavia VIP + meetings lounge: "Deer and Fox" and "Winter Birdies" woven fabrics (Annala x Young Finnish Design, upholstered by interior designer Sisse Collander)
+- Yiume: "Wonders of the Sea" and "Luminocean" for Aloha shirt collection
+- Spoonflower: "Dark Academia" in Fall 2023 lookbook
+- Annala Oy: "Winter Birdies" and "Fox and Deer" woven fabric collection (Young Finnish Design)
 
 ## Portfolio and Presence
 
+- Website: https://luovaflow.com
+- Instagram: @luovaflow
+- Licensing representation: Patterns From Agency (PFA), Finland
+
 ## Career Path
+
+Jenna Nelson is a Finnish surface designer and illustrator who worked for Vallila Interior in Helsinki and Williams-Sonoma Inc. in California before founding Luova Flow in 2020. The brand emerged from a decade-long desire to introduce maximalist, nature-rich pattern design into Nordic design culture. The brand joined Patterns From Agency's portfolio, gaining access to international design fair representation and licensing reach.
 
 ## Pattern Focus
 
+Lush botanical and animal illustrations rendered as maximalist all-over repeat patterns. Named collections: "Deer and Fox," "Winter Birdies," "Dark Academia," "Wonders of the Sea," "Luminocean." Selected pattern images suggest dense, abundant compositions with birds, flora, and fauna in warm natural palettes.
+
 ## Connections
+
+- [[Patterns From Agency]]
+- [[Vallila Interior]]
+- [[Williams-Sonoma]]
+- [[Annala Oy]]
+- [[Spoonflower]]
+- [[Home Decor Market]]
+- [[Fashion Market]]
+- [[Licensing Market]]

@@ -18,7 +18,7 @@ bio: ''
 website: 'https://Deyastudio.com'
 website_about: ''
 accepted: 04/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/deya.studio
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: ''
 website_meta_description: ''
 website_about_raw: >-
@@ -109,7 +112,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: "\nHome\nGallery\nBy Collection\nBy Theme\nShop\n \nMore\nConnect\nStories\n\n\nWhat We Do\nAt DeyaStudio, we believe design has the power to tell stories, evoke emotions, and create meaningful connections. From hand-drawn and painted motifs, to patterns finished off digitally, we bring artistry and storytelling to every project.\n\nOur Services\n\nSurface Pattern Design\nWe create custom patterns for textiles, wallpaper, packaging, and more - infused with creativity and purpose.\n\n\nArt Licensing\nLooking for unique artwork to feature on your products? We offer a selection of ready-to-license designs as well as custom licensing opportunities tailored to your brand.\n\n\nCustom Collaborations\nHave a vision? Let’s bring it to life! We work closely with brands and businesses to develop exclusive, one-of-a-kind designs.\n\n\nColor/Scale Changes\nSee a pattern you like, but would like it in a different color or scale? We can make custom adjustments to our existing selection of patterns, tailored to your project. Just ask!\n\n\nMeet the Artist\nHi there! I’m Jinny, the creative enthusiast behind DeyaStudio.\n\nGrowing up in New York City, I was surrounded by creativity from an early age. One of my earliest memories making art was covering my grandparents’ garden door with chalk doodles. From sketching family portraits as gifts to painting murals at school, I found joy and purpose in creating.\n\nThat passion led me to pursue degrees in communication, studio art, and graphic design. For over 15 years, I’ve collaborated with businesses of all sizes to craft distinctive branding and compelling advertising campaigns.\n\nToday, my focus has shifted to surface pattern design, a natural blend of everything I love - playing with new mediums and techniques, storytelling through design, and finding inspiration in the everyday. It’s a return to the simple joy of pencil on paper, where every pattern begins.\n\nAt DeyaStudio, we believe design has the power to tell stories, evoke emotions, and create meaningful connections. Our studio name, “De Ya” (德 雅), is a tribute to my grandfather, blending Chinese characters from both of our names. It honors the values I grew up with: diligence and humility, along with the unwavering support of my family.\n\n\n17th & 18th Century old Teapots from Asia\n\n\nOne of hundreds of cherry blossom photos I took in Japan :)\n\n\nIntricate embroidery of a Japanese Silk Robe, The Met Museum in New York\n\n\nPickled goods from the markets of Tokyo\n\n\nGetaway to Stilts Resort in Calatagan, Philippines\n\n\nVibrant scenes from the Souk in Oman\n\nInspirations\nDuring the past 7 years, I’ve had the incredible opportunity to live abroad in both the Middle East and Asia. Today, I have the privilege of calling Hawai‘i home. From savoring new cuisines to learning new cultural traditions, I never take these experiences for granted. It has shaped my perspective as an artist and designer, enriching my creativity in countless ways.\n\nMuch of my inspiration comes from travel and the natural beauty that surrounds us. You’ll also see heritage motifs and elements from Asian cultures woven into my design work. Blue and white porcelain is a personal favorite - a timeless aesthetic that often appears in my patterns.\n\nOur work is infused with intention, artistry, and a deep appreciation for the world's beauty. Deyastudio is excited to collaborate with like-minded creatives, brands, and partners who share our passion for quality and purposeful design.\n\nink drawings of a peony flower\n\nLet's Chat\nHow can we work together?\n\nGet in touch using our online form or send a direct message to: deyastudio@gmail.com\n\nWe look forward to connecting with you!\n\nName\nEmail\n\nI am interested in…\nMessage\nYou may receive marketing and promotional materials. Contact the merchant for their privacy practices.\nThis form is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\nExplore our Instagram\n@deya.studio\nIt’s beginning to look a lot like Christmas \n✨ \nAnd we’re celebrating the season early with the launch of our holiday gift shop! It’s packed full of gift wrap, ribbons, custom gifts like stockings and pillows - all featuring patterns from our HEIRLOOM HOLIDAY collection\n\U0001F381\nAdd a little vintage Christmas magic to your gifts! Shop the link in our bio ✨\n\nhttps://www.zazzle.com/store/deyastudio/products\n\n#vintagechristmas #surfacepattern #giftwrap #customchristmasgifts #patternrelease #handdrawn #warmandnostalgic #seasonofmagic #deyastudio\n“Jolly Songbirds” sings with warmth and simplicity ✨\n\nHand-painted silhouettes of cheerful birds perched among blooms bring cozy vintage charm to your holiday season. \n\nAvailable in five soothing colorways and perfect for gift wrap, sewn Christmas projects, and timeless home decor.\nBows and ribbons galore! “Cheerful Bows” brings a hand-painted twist to this timeless motif, blending vintage charm with a playful spirit.\n\nAvailable in five colorways and perfectly cheerful for holiday projects, textiles and stationary \U0001F380\n“Winter Meadow” is a hand-painted floral pattern celebrating the quiet beauty of winter gardens. Layers of crimson, cream, and sage dance across a textured backdrop. \n\nAdd some vintage charm to your holiday textiles and decor✨\n\nAvailable in 5 colorways on Spoonflower (link in Stories).\n\nhttps://www.spoonflower.com/collections/1421909-heirloom-holiday-by-deyastudio\nIntroducing ✨HOLIDAY HEIRLOOM ✨\n\nA hand drawn Christmas collection filled with graceful songbirds, vintage inspired florals, candy cane stripes, and whimsical wreaths. \n\nSee the whole collection (link in stories)\n\n#deyastudio #Cottagecore #farmhousechristmas #whimsical #handdrawn #vintage Christmas #vintagefloral #holidayheirloomcollection #moodboard\nA celebration of warmth, old world charm, and the simple magic of the season. ✨ \n\nOur first holiday collection is launching and we can’t wait to show you!\U0001F384\n\n#vintagechristmas #surfacepattern #patternrelease #handdrawn #warmandnostalgic #seasonofmagic #deyastudio\nAnother look at the entire \"Faded Treasures\" Collection\n\nYour next quilt project is calling, or maybe you need some fresh walls at home? \U0001F609\n\nEach pattern is now available to shop as fabric, wallpaper, and home decor through our partner Spoonflower (linked in Stories). Printed and hand made in the USA.\n\nhttps://www.spoonflower.com/en/collections/1412734-faded-treasures-by-deyastudio?productType=FABRIC\n\nFirst & last mockup by @creatsyofficial\nIf walls could hold memories, they’d look like this. ✨\n\nSoft, time-worn patterns from Faded Treasures were made to bring warmth, nostalgia, and a quiet kind of beauty into your home.\n\nIt was such a JOY creating this collection \U0001F495\n\n#FadedTreasuresCollection #WallpaperInspiration #CottagecoreDecor #SlowLivingHome #VintageHomeStyle #PatternDesignCommunity #SurfacePatternDesign #HomeWithHeart #WarmInteriorDesign #deyastudio\nDeyaStudio  logo\nHome\nGallery\nShop\nConnect\nStories\nSign up for our Newsletter\n\nPlease respect the hard work and creativity of others. All designs, images & content of this website are copyrighted.\n© DeyaStudio / All Rights Reserved\n\nPowered by Square"
 manual_reviewed: true
 manual_quality: good
@@ -128,45 +131,108 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/494842577_719993843689720_6649983432771648089_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF1IKaoDuVw2FobZA4N-7Bm_afKFlHOmGDSw9MBvl_qOEJWft7fA4F4JUYEvu81bX0&_nc_ohc=GEt56z_UAwQQ7kNvwGI2b2K&_nc_gid=ADOZfwk37UiN0jOK2WBcOA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af73YQEVbbWB0BcOiF7PAkq8flOAFmRyo3LG5LPzRxpZ1g&oe=6A13D2F9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/494842577_719993843689720_6649983432771648089_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF1IKaoDuVw2FobZA4N-7Bm_afKFlHOmGDSw9MBvl_qOEJWft7fA4F4JUYEvu81bX0&_nc_ohc=GEt56z_UAwQQ7kNvwGI2b2K&_nc_gid=ADOZfwk37UiN0jOK2WBcOA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af73YQEVbbWB0BcOiF7PAkq8flOAFmRyo3LG5LPzRxpZ1g&oe=6A13D2F9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/deya.studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8154
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/deya.studio/profile/494842577_719993843689720_6649983432771648089_n.jpg
+instagram_profile_image_bytes: 176376
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/deya.studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/deya.studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/deya.studio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/deya.studio/profile/494842577_719993843689720_6649983432771648089_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/deya.studio/profile/494842577_719993843689720_6649983432771648089_n.jpg
+profile_image_local: >-
+  ../../assets/designers/deya.studio/profile/494842577_719993843689720_6649983432771648089_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/deya.studio/profile/494842577_719993843689720_6649983432771648089_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_110_2025-08-30_22-38-29_1756629504.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_12_584054303_18074921936334834_5369910969201643302_n.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_13_583127663_18074660180334834_7040107130644915911_n.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_14_582343164_18074565296334834_1582807355860919338_n.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_43_Screenshot%202025-04-07%20at%2012.27.05 PM_1744066437.png
+instagram_image_count: 5
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_110_2025-08-30_22-38-29_1756629504.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_12_584054303_18074921936334834_5369910969201643302_n.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_13_583127663_18074660180334834_7040107130644915911_n.jpeg
+  - >-
+    ../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_14_582343164_18074565296334834_1582807355860919338_n.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # deya.studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/deya.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/deya.studio/profile/494842577_719993843689720_6649983432771648089_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_110_2025-08-30_22-38-29_1756629504.jpeg)<br><!-- image:../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_110_2025-08-30_22-38-29_1756629504.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_12_584054303_18074921936334834_5369910969201643302_n.jpeg)<br><!-- image:../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_12_584054303_18074921936334834_5369910969201643302_n.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_13_583127663_18074660180334834_7040107130644915911_n.jpeg)<br><!-- image:../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_13_583127663_18074660180334834_7040107130644915911_n.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_14_582343164_18074565296334834_1582807355860919338_n.jpeg)<br><!-- image:../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_14_582343164_18074565296334834_1582807355860919338_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_43_Screenshot%202025-04-07%20at%2012.27.05 PM_1744066437.png)<br><!-- image:../../assets/designers/deya.studio/instagram/deya.studio_imageye___-_imgi_43_Screenshot%202025-04-07%20at%2012.27.05 PM_1744066437.png --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jinny F is the Hawaii-based designer behind DeyaStudio, a surface pattern and art licensing studio. The studio name "De Ya" (德 雅) is a tribute to her grandfather, combining Chinese characters from both their names and honouring values of diligence and humility. Raised in New York City, Jinny spent 7 years living abroad across the Middle East and Asia before settling in Hawaii. She holds degrees in communication, studio art, and graphic design, and brings over 15 years of branding and advertising experience to her current surface pattern practice.
+
 ## Style and Aesthetic
+
+Heritage motifs from Asian cultures, blue and white porcelain aesthetics, and travel-informed nature imagery are central to DeyaStudio's visual language. Selected Instagram patterns suggest a hand-painted quality with botanical and figurative compositions. Two documented collections frame the aesthetic: Heirloom Holiday (graceful songbirds, vintage florals, candy cane stripes, whimsical wreaths — warm and nostalgic) and Faded Treasures (time-worn, cottage-adjacent botanical patterns with a soft vintage palette). Blue and white porcelain is a stated personal favourite.
 
 ## Techniques and Tools
 
+Hand-drawn and hand-painted motifs finished digitally. Practice spans surface pattern design, art licensing, custom collaborations, and colour/scale adjustments to existing designs. The studio works with clients to develop custom patterns or adapt existing designs to specific project requirements.
+
 ## Markets and Clients
+
+Home décor (fabric, wallpaper), gifting (gift wrap, ribbons, stockings, pillows), and stationery. Designs available via Spoonflower (fabric, wallpaper, home décor) and Zazzle (custom gift products). The studio offers both ready-to-license designs and custom licensing for brands and businesses.
 
 ## Portfolio and Presence
 
+- Website: Deyastudio.com
+- Instagram: @deya.studio (124 posts, 122 followers)
+- Spoonflower: Heirloom Holiday and Faded Treasures collections
+- Zazzle: @deyastudio
+
 ## Career Path
+
+Grew up in New York City, with early art-making in her grandparents' home. Pursued degrees in communication, studio art, and graphic design. Worked for 15+ years in branding and advertising with businesses across a range of scales. Lived abroad for 7 years across the Middle East and Asia, experiences that shaped her multicultural design perspective. Relocated to Hawaii and pivoted to surface pattern design as an integration of her design background, storytelling interest, and cultural influences accumulated through travel.
 
 ## Pattern Focus
 
+Two documented collections: Heirloom Holiday (hand-drawn Christmas patterns — Jolly Songbirds, Cheerful Bows, Winter Meadow — available in five colourways on Spoonflower) and Faded Treasures (time-worn botanical and cottage-style patterns, also on Spoonflower). Selected Instagram images confirm botanical and heritage-motif compositions consistent with a blue-and-white porcelain and vintage floral aesthetic.
+
 ## Connections
+
+- [[Spoonflower]] — print-on-demand platform (Heirloom Holiday and Faded Treasures collections)
+- [[Zazzle]] — licensed gift product platform
+- [[Heritage Pattern]] — central design influence
+- [[Botanical Pattern]] — motif category
+- [[Hand-painted Pattern]] — primary technique
+- [[Hawaii]] — current base

@@ -17,12 +17,12 @@ skills:
 country: United States
 can_use: 'Yes'
 instagram_handle: italiangirlingeorgia
-instagram: 'https://instagram.com/@italiangirlingeorgia'
+instagram: 'https://instagram.com/italiangirlingeorgia'
 bio: ''
 website: 'https://SuzanneMRogers.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/italiangirlingeorgia
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Suzanne M Rogers Interiors. A boutique design agency in Macon, Georgia, with
   an acute eye for detail and color.
@@ -64,7 +67,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -81,45 +84,302 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/326809765_3484981348382423_7300941735338464930_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHcgSOpqv0frSbk3pgEpieqhBFEO7-XuBQBInyCZ8-rI56aYLImDIOnJnrqXf4Ozp0&_nc_ohc=Rw7Wm9lP4doQ7kNvwFz5RA3&_nc_gid=oQmPVCwyyVq02ySxMq39NQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6FqgaJ3t4UfzKRIchgwVGzas467AKbI94IaZw0hYjSVg&oe=6A13EFA4&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/326809765_3484981348382423_7300941735338464930_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHcgSOpqv0frSbk3pgEpieqhBFEO7-XuBQBInyCZ8-rI56aYLImDIOnJnrqXf4Ozp0&_nc_ohc=Rw7Wm9lP4doQ7kNvwFz5RA3&_nc_gid=oQmPVCwyyVq02ySxMq39NQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6FqgaJ3t4UfzKRIchgwVGzas467AKbI94IaZw0hYjSVg&oe=6A13EFA4&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4289
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/italiangirlingeorgia/profile/326809765_3484981348382423_7300941735338464930_n.jpg
+instagram_profile_image_bytes: 104855
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/italiangirlingeorgia/profile/326809765_3484981348382423_7300941735338464930_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/italiangirlingeorgia/profile/326809765_3484981348382423_7300941735338464930_n.jpg
+profile_image_local: >-
+  ../../assets/designers/italiangirlingeorgia/profile/326809765_3484981348382423_7300941735338464930_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/italiangirlingeorgia/profile/326809765_3484981348382423_7300941735338464930_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286201217949_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286209404588_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286217879624_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286217892689_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360368165_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360564545_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427540683_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427680189_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286452736823_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286461233588_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693964017_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693967926_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671710716004_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671710754698_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671718980176_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671719033275_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727373372_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727374188_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727407866_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671735965961_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719469688_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719561944_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932727909015_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932728047166_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932736246000_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932945995133_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932946037640_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954376973_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954499066_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932971288235_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312403294741_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312411569329_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312419844790_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312419936666_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312420014481_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312587788464_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312587853689_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312629696268_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312638044549_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607754793335_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607771552201_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607771596485_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779970210_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779979474_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779989105_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607805135132_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607821927012_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607830290631_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607947762622_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886163096410521_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886163792680159_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886164455366595_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886165210370580_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886166393166815_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886166552514878_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886167752101253_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886167978574349_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886169295602145_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867713835854026_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867714121014399_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867714850833421_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867715698083674_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867716050451816_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867716343991150_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867717619116110_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718357267753_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718365664171_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718818688676_2301564016.jpg
+instagram_image_count: 68
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286201217949_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360564545_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427680189_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286461233588_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693967926_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727374188_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719469688_2301564016.jpg
+  - >-
+    ../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954376973_2301564016.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # italiangirlingeorgia
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/italiangirlingeorgia/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/italiangirlingeorgia/profile/326809765_3484981348382423_7300941735338464930_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286201217949_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286201217949_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286209404588_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286209404588_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286217879624_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286217879624_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286217892689_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286217892689_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360368165_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360368165_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360564545_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286360564545_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427540683_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427540683_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427680189_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286427680189_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286452736823_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286452736823_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286461233588_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1742590770_3593434286461233588_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693964017_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693964017_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693967926_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671693967926_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671710716004_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671710716004_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671710754698_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671710754698_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671718980176_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671718980176_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671719033275_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671719033275_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727373372_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727373372_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727374188_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727374188_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727407866_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671727407866_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671735965961_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1744390280_3608529671735965961_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719469688_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719469688_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719561944_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932719561944_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932727909015_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932727909015_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932728047166_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932728047166_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932736246000_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932736246000_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932945995133_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932945995133_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932946037640_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932946037640_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954376973_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954376973_2301564016.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954499066_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932954499066_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932971288235_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1749138178_3648357932971288235_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312403294741_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312403294741_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312411569329_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312411569329_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312419844790_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312419844790_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312419936666_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312419936666_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312420014481_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312420014481_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312587788464_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312587788464_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312587853689_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312587853689_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312629696268_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312629696268_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312638044549_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1754182088_3690669312638044549_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607754793335_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607754793335_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607771552201_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607771552201_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607771596485_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607771596485_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779970210_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779970210_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779979474_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779979474_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779989105_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607779989105_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607805135132_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607805135132_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607821927012_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607821927012_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607830290631_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607830290631_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607947762622_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1758577489_3727540607947762622_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886163096410521_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886163096410521_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886163792680159_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886163792680159_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886164455366595_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886164455366595_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886165210370580_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886165210370580_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886166393166815_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886166393166815_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886166552514878_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886166552514878_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886167752101253_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886167752101253_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886167978574349_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886167978574349_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886169295602145_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1769705381_3820886169295602145_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867713835854026_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867713835854026_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867714121014399_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867714121014399_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867714850833421_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867714850833421_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867715698083674_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867715698083674_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867716050451816_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867716050451816_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867716343991150_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867716343991150_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867717619116110_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867717619116110_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718357267753_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718357267753_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 67<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718365664171_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718365664171_2301564016.jpg --> | [ ] | [ ] | [ ] |
+| 68<br>![pd-review\|180](../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718818688676_2301564016.jpg)<br><!-- image:../../assets/designers/italiangirlingeorgia/instagram/italiangirlingeorgia_1777332550_3884867718818688676_2301564016.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Suzanne MacCrone Rogers is a self-taught artist and surface designer based in Macon, Georgia, operating under the @italiangirlingeorgia handle. She also runs SMR Interiors, a full-service boutique interior design firm serving Georgia and the Southeast. Her surface design practice spans painting, photography, and fabric, wallpaper, and surface pattern design.
+
 ## Style and Aesthetic
+
+Rogers' artwork centres on vibrant, expressive florals — documented series include alcohol ink florals and original paintings ("Gypsy Garden Girls", "A Little Bit of Heaven", "Raindrops on Roses", "Flowerworks"). Selected Instagram patterns suggest floral compositions spanning bold saturated palettes through to more neutral arrangements. Her interior design background informs a sensitivity to scale, colourway, and spatial application.
 
 ## Techniques and Tools
 
+Original painting using oils and alcohol inks. Photography. Surface design for fabric and wallpaper. Self-taught artist whose work is sold as original pieces and shown at exhibitions.
+
 ## Markets and Clients
+
+Interior design (residential and commercial, Georgia and Southeast) is the primary professional practice via SMR Interiors. Fabric, wallpaper, and surface pattern design form an adjacent creative output. Original art sold through shows and galleries; documented exhibition at Christ Church Spring Art Show during Cherry Blossom Festival in Macon.
 
 ## Portfolio and Presence
 
+- Website: https://SuzanneMRogers.com
+- Instagram: https://instagram.com/italiangirlingeorgia
+- Art Instagram: @suzannemaccronerogers
+
 ## Career Path
+
+Originally from California, now based in Macon, Georgia. Built a career as an interior designer — SMR Interiors operating since 2012. Developed a parallel practice as a self-taught painter and surface designer. Active in the Macon arts community with work shown at local group exhibitions.
 
 ## Pattern Focus
 
+Floral and nature-inspired surface design, with selected patterns suggesting botanical compositions drawn directly from her painting practice. The work sits at the intersection of fine art and decorative surface design rather than production pattern licensing.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Alcohol Ink]]
+- [[Interior Design Textiles]]
+- [[Wallpaper Design]]

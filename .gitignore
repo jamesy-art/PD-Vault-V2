@@ -12,7 +12,17 @@ cat >> .gitignore <<'EOF'
 EOF
 
 # designer assets
+wiki/assets/
 wiki/assets/designers/
+wiki/assets/studios/
+xmls/
+scripts/
+raw/
+json/
+csv/
+htmls/
+data/
+txt/
 
 # optional large local folders
 DESIGNERS/

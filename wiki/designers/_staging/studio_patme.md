@@ -18,7 +18,7 @@ bio: ''
 website: 'https://studiopatme.com'
 website_about: ''
 accepted: 24/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/studio_patme
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Patme - Estampados exclusivos y personalizados, y accesorios'
 website_meta_description: >-
   Hago estampados personalizados, productos y rapports diseñados con el corazón
@@ -69,7 +72,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -86,45 +89,161 @@ instagram_profile_pic_url: >-
   https://instagram.fmem1-2.fna.fbcdn.net/v/t51.82787-19/571957730_18048857639664251_6078337826281307175_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHpLL3RXyDrw4SXS8yeOcZWcFoGXXFWv_bAEuTqBqPsRGvkEZySg6JGVqZkVNTDEyw&_nc_ohc=KsumcOi_4LsQ7kNvwF6cUn7&_nc_gid=_uPc_SSBvYoww3dc8RFe3Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wj9wNLJK9gWpx3bLyZaeQrcpinEePn4Zek0-vHOzxbw&oe=6A13FAC2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fmem1-2.fna.fbcdn.net/v/t51.82787-19/571957730_18048857639664251_6078337826281307175_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gHpLL3RXyDrw4SXS8yeOcZWcFoGXXFWv_bAEuTqBqPsRGvkEZySg6JGVqZkVNTDEyw&_nc_ohc=KsumcOi_4LsQ7kNvwF6cUn7&_nc_gid=_uPc_SSBvYoww3dc8RFe3Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wj9wNLJK9gWpx3bLyZaeQrcpinEePn4Zek0-vHOzxbw&oe=6A13FAC2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/studio_patme/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6177
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/studio_patme/profile/708528341_18073641401664251_3522254667826218931_n.jpg
+instagram_profile_image_bytes: 146805
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/studio_patme/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/studio_patme/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/studio_patme/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/studio_patme/profile/708528341_18073641401664251_3522254667826218931_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/studio_patme/profile/708528341_18073641401664251_3522254667826218931_n.jpg
+profile_image_local: >-
+  ../../assets/designers/studio_patme/profile/708528341_18073641401664251_3522254667826218931_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/studio_patme/profile/708528341_18073641401664251_3522254667826218931_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1731348464_3499126994743484380_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1742722058_3594535610907984163_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1745489542_3617750952895359391_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1745829891_3620606004320424033_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679891538_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679956740_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679983327_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383688526394_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696728159_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696731328_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696741800_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383705294789_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746467160_3625951807171861251_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474047048_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474117540_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746978039_3630237369621862385_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1753697540_3686604632310180515_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359093992268751_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000678919_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000682461_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000700133_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1764755000_3779361326477732969_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1764755000_3779361326486079079_49970872250.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1731348464_3499126994743484380_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1742722058_3594535610907984163_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1745829891_3620606004320424033_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696741800_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474047048_49970872250.jpg
+  - >-
+    ../../assets/designers/studio_patme/instagram/studio_patme_1746978039_3630237369621862385_49970872250.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # studio_patme
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/studio_patme/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/studio_patme/profile/708528341_18073641401664251_3522254667826218931_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1731348464_3499126994743484380_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1731348464_3499126994743484380_49970872250.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1742722058_3594535610907984163_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1742722058_3594535610907984163_49970872250.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1745489542_3617750952895359391_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1745489542_3617750952895359391_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1745829891_3620606004320424033_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1745829891_3620606004320424033_49970872250.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679891538_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679891538_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679956740_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679956740_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679983327_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383679983327_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383688526394_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383688526394_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696728159_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696728159_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696731328_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696731328_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696741800_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383696741800_49970872250.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383705294789_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746259200_3623945383705294789_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746467160_3625951807171861251_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746467160_3625951807171861251_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474047048_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474047048_49970872250.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474117540_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746616555_3627205018474117540_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1746978039_3630237369621862385_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1746978039_3630237369621862385_49970872250.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1753697540_3686604632310180515_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1753697540_3686604632310180515_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359093992268751_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359093992268751_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000678919_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000678919_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000682461_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000682461_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000700133_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1764754734_3779359094000700133_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1764755000_3779361326477732969_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1764755000_3779361326477732969_49970872250.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/studio_patme/instagram/studio_patme_1764755000_3779361326486079079_49970872250.jpg)<br><!-- image:../../assets/designers/studio_patme/instagram/studio_patme_1764755000_3779361326486079079_49970872250.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Raquel Saez Fliquete is a surface pattern designer and accessories maker based in Valencia, Spain, operating as Studio Patme. With over 10 years of experience designing surface patterns, she creates custom designs from scratch for brands that value distinction, alongside a line of limited-edition handmade accessories. Her work integrates pattern design and physical product-making, with sustainable and reusable packaging noted by clients.
+
 ## Style and Aesthetic
+
+Based on selected Instagram images and client testimonials, Raquel's patterns are characterised as carefully considered and personally expressive — described by clients as "timeless" and originating from deep personal creative investment. The work spans custom pattern design adapted to brand colour systems, suggesting both a distinctive sensibility and practical versatility for client briefs.
 
 ## Techniques and Tools
 
+Custom pattern creation from scratch. Documented capability in adapting colour palettes and repeats to client briefs (evidenced in customer reviews, including a nursing bra manufacturer case). Handmade accessories and sustainable packaging practices are part of the studio's offer. Instagram bio cites 10+ years designing patterns and hand-production in Valencia.
+
 ## Markets and Clients
+
+Textile brands requiring custom pattern licensing and purchase. B2C handmade accessories line sold direct. Client review evidence: nursing bra manufacturer whose design was colour-matched to an existing collection. Predominantly Spanish-market client base, with Italian-language reviews indicating European reach.
 
 ## Portfolio and Presence
 
+- Website: studiopatme.com
+- Instagram: @studio_patme (2,425 followers, 541 posts)
+
 ## Career Path
+
+Based in Valencia. Over 10 years in pattern design. Runs Studio Patme as both a B2B custom pattern service and a direct consumer accessories brand. Creates limited-edition handmade products alongside client pattern work.
 
 ## Pattern Focus
 
+Custom surface patterns and repeats designed for textile applications. Client evidence confirms capability in pattern adaptation — scale, colour, repeat — to fit specific brand requirements. Work has a distinctive, artisanal character aligned with brands seeking non-generic design.
+
 ## Connections
+
+- [[Fashion market]]
+- [[Licensing]]
+- [[Custom pattern design]]

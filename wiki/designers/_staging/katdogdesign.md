@@ -29,7 +29,7 @@ bio: ''
 website: 'https://katdogdesign.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/katdogdesign
 profile_url: ''
 instagram_images:
@@ -46,9 +46,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Katdog Design | Building Bold Illustrative Brands | Katdog Design | Designer &
   Illustrator
@@ -290,7 +293,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -307,45 +310,112 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/445955559_323591013956570_1761800817379400700_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF4G-j8305YfMZrndPejQp-RQNqfP1ZScF0DHnN-ip2HiyFlyCgRAmXC9Wnq1aWstQ&_nc_ohc=-fZBimX4sw4Q7kNvwHbL__3&_nc_gid=OMcCJLGTOxpgU_fr2hNs0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af53rdb_kY-LvzgE-Z-WyOoy4DZenTk_onMKY89dOKh9Ig&oe=6A13FDE9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/445955559_323591013956570_1761800817379400700_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF4G-j8305YfMZrndPejQp-RQNqfP1ZScF0DHnN-ip2HiyFlyCgRAmXC9Wnq1aWstQ&_nc_ohc=-fZBimX4sw4Q7kNvwHbL__3&_nc_gid=OMcCJLGTOxpgU_fr2hNs0Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af53rdb_kY-LvzgE-Z-WyOoy4DZenTk_onMKY89dOKh9Ig&oe=6A13FDE9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/katdogdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4996
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/katdogdesign/profile/445955559_323591013956570_1761800817379400700_n.jpg
+instagram_profile_image_bytes: 182658
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/katdogdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/katdogdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/katdogdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/katdogdesign/profile/445955559_323591013956570_1761800817379400700_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/katdogdesign/profile/445955559_323591013956570_1761800817379400700_n.jpg
+profile_image_local: >-
+  ../../assets/designers/katdogdesign/profile/445955559_323591013956570_1761800817379400700_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/katdogdesign/profile/445955559_323591013956570_1761800817379400700_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018143097721_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151285693_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151356979_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018159738880_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226756547_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226881346_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018243568552_5587920170.jpg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018143097721_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151285693_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151356979_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018159738880_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226756547_5587920170.jpg
+  - >-
+    ../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226881346_5587920170.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # katdogdesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/katdogdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/katdogdesign/profile/445955559_323591013956570_1761800817379400700_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018143097721_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018143097721_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151285693_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151285693_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151356979_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018151356979_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018159738880_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018159738880_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226756547_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226756547_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226881346_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018226881346_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018243568552_5587920170.jpg)<br><!-- image:../../assets/designers/katdogdesign/instagram/katdogdesign_1750163865_3656962018243568552_5587920170.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kat Manor is a graphic designer and illustrator based in St. Paul, Minnesota, operating as Katdog Design. She holds a BFA in Graphic Design and brings over ten years of industry experience across brand identity, illustration, packaging, surface pattern design, and web design. Her Instagram presence has since migrated to @katdogmanor.
+
 ## Style and Aesthetic
+
+Bold, illustrative brand work with hand-drawn character—vibrant colour palettes combined with playful, nature-inflected motifs. Selected Instagram patterns suggest textured repeat designs using organic and nature-themed subject matter in earthy and saturated tones. Her stated aesthetic strengths are hand-drawn artistry, illustrative graphics, and bold colour palettes.
 
 ## Techniques and Tools
 
+BFA in Graphic Design. Full-service capability across logos, illustration, seamless repeat patterns, colour palette, typography, lettering, and photography direction. Also offers dieline preparation and packaging design. Works collaboratively with design studios, ad agencies, and independent creatives as well as direct with brand clients.
+
 ## Markets and Clients
+
+Cross-industry experience: cannabis, healthcare, food and beverage, and arts sectors. Named project clients include Meadowsong Studios (nature-forward art studio rebrand, Fall Creek, Wisconsin), Herb Garden Co., Salmon Run, Simpls, Wayforth, Fern City Greenhouse, and Grady Communications. Works with brands across Minnesota and the Midwest and internationally.
 
 ## Portfolio and Presence
 
+- Website: https://katdogdesign.com
+- Instagram: @katdogmanor (current), @katdogdesign (legacy)
+
 ## Career Path
+
+Twin Cities–based designer with a BFA in Graphic Design and a decade-plus career spanning branding, packaging, illustration, and surface design. Established Katdog Design as an independent studio. Her Instagram presence has recently migrated to @katdogmanor.
 
 ## Pattern Focus
 
+Brand patterns and illustrative repeats with bold character. Selected Instagram patterns suggest organic, nature-themed repeats in layered, illustrated styles. Seamless repeat construction is listed as a core service offering.
+
 ## Connections
+
+- [[Illustration]] — primary creative discipline
+- [[Brand Identity]] — primary commercial service

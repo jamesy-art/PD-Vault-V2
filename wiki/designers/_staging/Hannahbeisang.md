@@ -22,7 +22,7 @@ bio: ''
 website: 'https://Hannahbeisang.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/hannahbeisang
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home — Hannah Beisang
 website_meta_description: ''
 website_about_raw: >-
@@ -247,7 +250,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -268,45 +271,225 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/310329976_459617872812718_5839353244714874960_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGRcvYFhiSH_gBudNfY2nohWwFBQxSUaMkf6yjs-N0z7J_QO8fuVr0fzzOaFtBYOSk&_nc_ohc=Sh9-JuP34xEQ7kNvwGBokv1&_nc_gid=YYg6rHpc0WV-9Kqm4CS00g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4BIaddp1O6U-B2ADZ0dyv0JRZIyIS_vlhyIJxJIvgWqw&oe=6A13D94A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/310329976_459617872812718_5839353244714874960_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGRcvYFhiSH_gBudNfY2nohWwFBQxSUaMkf6yjs-N0z7J_QO8fuVr0fzzOaFtBYOSk&_nc_ohc=Sh9-JuP34xEQ7kNvwGBokv1&_nc_gid=YYg6rHpc0WV-9Kqm4CS00g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4BIaddp1O6U-B2ADZ0dyv0JRZIyIS_vlhyIJxJIvgWqw&oe=6A13D94A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/hannahbeisang/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8161
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/hannahbeisang/profile/310329976_459617872812718_5839353244714874960_n.jpg
+instagram_profile_image_bytes: 371293
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/hannahbeisang/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/hannahbeisang/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/hannahbeisang/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/hannahbeisang/profile/310329976_459617872812718_5839353244714874960_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/hannahbeisang/profile/310329976_459617872812718_5839353244714874960_n.jpg
+profile_image_local: >-
+  ../../assets/designers/hannahbeisang/profile/310329976_459617872812718_5839353244714874960_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/hannahbeisang/profile/310329976_459617872812718_5839353244714874960_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1727883841_3470063630722966054_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1733255919_3515127884677064251_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1734109344_3522286935697440114_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1736343965_3541032290866405286_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470294084290_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470294216266_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470327596031_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278417208643_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278484234799_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278492753179_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509397585_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509470263_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509550846_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123554623203_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123562848739_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123646720341_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524662_3584491123781134876_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741627896_3585357119599640504_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741627896_3585357119607856801_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744031920_3605523532991573712_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744726523_3611350281474034263_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1751287536_3666388054160995426_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1752252705_3674484476102398664_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1752252705_3674484476119101528_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408005994_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408016392_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408214652_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690416508921_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475228180_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475247503_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475287911_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690483719268_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690542269273_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690592701024_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690609348418_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690718592983_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1754577710_3693988031775330833_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1756744631_3712165482645616054_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1762184523_3757798603390603718_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1763042437_3764995308171186838_4668095284.jpg
+instagram_image_count: 40
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1727883841_3470063630722966054_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1733255919_3515127884677064251_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1734109344_3522286935697440114_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470327596031_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123554623203_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123562848739_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123646720341_21523441056.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744031920_3605523532991573712_4668095284.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690483719268_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690592701024_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1762184523_3757798603390603718_4668095284.jpg
+  - >-
+    ../../assets/designers/hannahbeisang/instagram/hannahbeisang_1763042437_3764995308171186838_4668095284.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # hannahbeisang
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/hannahbeisang/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/hannahbeisang/profile/310329976_459617872812718_5839353244714874960_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1727883841_3470063630722966054_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1727883841_3470063630722966054_4668095284.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1733255919_3515127884677064251_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1733255919_3515127884677064251_4668095284.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1734109344_3522286935697440114_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1734109344_3522286935697440114_4668095284.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1736343965_3541032290866405286_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1736343965_3541032290866405286_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470294084290_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470294084290_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470294216266_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470294216266_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470327596031_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1739809520_3570103470327596031_4668095284.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278417208643_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278417208643_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278484234799_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278484234799_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278492753179_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278492753179_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509397585_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509397585_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509470263_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509470263_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509550846_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741268380_3582341278509550846_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123554623203_21523441056.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123554623203_21523441056.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123562848739_21523441056.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123562848739_21523441056.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123646720341_21523441056.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524661_3584491123646720341_21523441056.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524662_3584491123781134876_21523441056.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741524662_3584491123781134876_21523441056.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741627896_3585357119599640504_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741627896_3585357119599640504_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741627896_3585357119607856801_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1741627896_3585357119607856801_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744031920_3605523532991573712_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744031920_3605523532991573712_4668095284.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744726523_3611350281474034263_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1744726523_3611350281474034263_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1751287536_3666388054160995426_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1751287536_3666388054160995426_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1752252705_3674484476102398664_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1752252705_3674484476102398664_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1752252705_3674484476119101528_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1752252705_3674484476119101528_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408005994_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408005994_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408016392_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408016392_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408214652_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690408214652_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690416508921_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690416508921_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475228180_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475228180_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475247503_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475247503_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475287911_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690475287911_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690483719268_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690483719268_4668095284.jpg --> | [ ] | [x] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690542269273_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690542269273_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690592701024_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690592701024_4668095284.jpg --> | [ ] | [x] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690609348418_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690609348418_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690718592983_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1753276738_3683074690718592983_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1754577710_3693988031775330833_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1754577710_3693988031775330833_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1756744631_3712165482645616054_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1756744631_3712165482645616054_4668095284.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1762184523_3757798603390603718_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1762184523_3757798603390603718_4668095284.jpg --> | [ ] | [x] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/hannahbeisang/instagram/hannahbeisang_1763042437_3764995308171186838_4668095284.jpg)<br><!-- image:../../assets/designers/hannahbeisang/instagram/hannahbeisang_1763042437_3764995308171186838_4668095284.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Hannah Beisang is an illustrator and surface designer based in Minnesota, US, represented by Jewel Branding. She works across surface pattern, children's book design, and storyboard art, with storytelling and the natural world at the centre of her practice. Clients include Target and Giggle Genius.
+
 ## Style and Aesthetic
+
+Beisang's visual language is rooted in nature and narrative—shaped by childhood landscapes spanning North Dakota, Nigeria, and the lakes and forests of Minnesota. Selected Instagram images suggest bold, colourful surface patterns with a spirited, illustrative quality suited to children's and lifestyle markets. Website content categories include Florals, Spot Graphics, and Holidays.
 
 ## Techniques and Tools
 
+Drawing and painting practice with a storytelling foundation. Background as a Children's Book Designer and Storyboard Artist. Available on Spoonflower, Etsy, and Society6, indicating fluency with both custom client work and print-on-demand production.
+
 ## Markets and Clients
+
+Children's products, books, stationery, and lifestyle are the primary markets. Documented clients include Target, SwoopFriends School of Minnesota, and Giggle Genius. Member of Illustrators For Hire since 2020. Represented by Jewel Branding for surface design.
 
 ## Portfolio and Presence
 
+- Website: https://hannahbeisang.com
+- Instagram: @Hannahbeisang (1,340 followers, 1,687 posts)
+- Spoonflower: active
+- Etsy: active
+- Society6: active
+
 ## Career Path
+
+Grew up in North Dakota, spent formative time in Nigeria, and now raises her family around Minnesota's lakes and forests. Built a career across children's book design and storyboard work before moving into surface pattern. Member of Illustrators For Hire since 2020. Now represented by Jewel Branding.
 
 ## Pattern Focus
 
+Selected Instagram images suggest colourful surface patterns including florals, spot graphic characters, and holiday designs. Work reflects a broad, story-rooted illustration sensibility suited to children's apparel, stationery, and lifestyle products.
+
 ## Connections
+
+[[Children's Print Market]] · [[Target]] · [[Jewel Branding]] · [[Spoonflower]] · [[Etsy]] · [[Society6]] · [[Minnesota]] · [[Illustration]]

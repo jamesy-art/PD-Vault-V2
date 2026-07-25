@@ -25,7 +25,7 @@ bio: ''
 website: 'https://tawnmoore.com/links'
 website_about: ''
 accepted: 19/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tawnmoore
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Links • Tawn Moore
 website_meta_description: >-
   Welcome!I’m Tawn, a Canadian illustrator and surface designer making cheerful,
@@ -281,7 +284,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -298,45 +301,247 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/476495048_1024726282818615_6825019760495929907_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG-VilJhLnNwqJo-W523FhrmDMYMHYVJB7wF0E3_6BYnGUtQfhM3Eiwy09dqLjmsBI&_nc_ohc=mNdAkJBGgaAQ7kNvwFTpOD7&_nc_gid=Jj9HoPl8ng6wfrDN-MpDJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Bg5pFwKDYac9_gZuikggHL0ScKNIjz1868v4MKY0kmg&oe=6A13D8CD&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/476495048_1024726282818615_6825019760495929907_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG-VilJhLnNwqJo-W523FhrmDMYMHYVJB7wF0E3_6BYnGUtQfhM3Eiwy09dqLjmsBI&_nc_ohc=mNdAkJBGgaAQ7kNvwFTpOD7&_nc_gid=Jj9HoPl8ng6wfrDN-MpDJA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Bg5pFwKDYac9_gZuikggHL0ScKNIjz1868v4MKY0kmg&oe=6A13D8CD&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tawnmoore/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6640
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/tawnmoore/profile/476495048_1024726282818615_6825019760495929907_n.jpg
+instagram_profile_image_bytes: 200112
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tawnmoore/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tawnmoore/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tawnmoore/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tawnmoore/profile/476495048_1024726282818615_6825019760495929907_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tawnmoore/profile/476495048_1024726282818615_6825019760495929907_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tawnmoore/profile/476495048_1024726282818615_6825019760495929907_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tawnmoore/profile/476495048_1024726282818615_6825019760495929907_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317831606516_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317856671012_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898076526582_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898772844915_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881994979346513_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881995482869617_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176144177508_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176362259914_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709214677_3313455329890041495_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949333257143_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949450542630_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949618396074_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949668656358_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949928709077_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277300753701_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277342823576_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1713451878_3348999546242368216_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1713451878_3348999546242370284_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1714152394_3354875899558943223_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1714152394_3354875899609285150_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1716916611_3378063832071568196_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1716916611_3378063832138697793_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452770795677910_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771022029596_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771089207681_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771408044357_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771978560940_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636981880880650_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982425878764_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982996462763_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105116664399532_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105117830473158_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105118099001793_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848489973044030_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848490342279512_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848492087054137_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595139130348_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595315253368_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595684390742_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1762873918_3763581667534315851_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382335383732_6113762906.webp
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382452815867_6113762906.webp
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382461178070_6113762906.webp
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221761239575502_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221762246192458_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221762346908408_6113762906.jpg
+instagram_image_count: 46
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317831606516_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317856671012_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898772844915_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881994979346513_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176362259914_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709214677_3313455329890041495_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949333257143_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277342823576_6113762906.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982996462763_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595139130348_6113762906.jpg
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382335383732_6113762906.webp
+  - >-
+    ../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382452815867_6113762906.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # tawnmoore
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tawnmoore/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tawnmoore/profile/476495048_1024726282818615_6825019760495929907_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317831606516_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317831606516_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317856671012_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1702061046_3253446317856671012_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898076526582_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898076526582_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898772844915_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1702987252_3261215898772844915_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881994979346513_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881994979346513_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881995482869617_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1705331634_3280881995482869617_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176144177508_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176144177508_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176362259914_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709048720_3312063176362259914_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709214677_3313455329890041495_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709214677_3313455329890041495_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949333257143_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949333257143_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949450542630_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949450542630_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949618396074_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949618396074_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949668656358_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949668656358_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949928709077_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1709301059_3314179949928709077_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277300753701_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277300753701_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277342823576_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1712929948_3344621277342823576_6113762906.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1713451878_3348999546242368216_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1713451878_3348999546242368216_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1713451878_3348999546242370284_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1713451878_3348999546242370284_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1714152394_3354875899558943223_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1714152394_3354875899558943223_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1714152394_3354875899609285150_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1714152394_3354875899609285150_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1716916611_3378063832071568196_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1716916611_3378063832071568196_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1716916611_3378063832138697793_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1716916611_3378063832138697793_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452770795677910_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452770795677910_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771022029596_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771022029596_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771089207681_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771089207681_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771408044357_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771408044357_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771978560940_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1725188417_3447452771978560940_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636981880880650_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636981880880650_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982425878764_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982425878764_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982996462763_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1746072003_3622636982996462763_6113762906.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105116664399532_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105116664399532_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105117830473158_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105117830473158_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105118099001793_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1748750413_3645105118099001793_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848489973044030_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848489973044030_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848490342279512_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848490342279512_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848492087054137_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1751342426_3666848492087054137_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595139130348_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595139130348_6113762906.jpg --> | [ ] | [x] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595315253368_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595315253368_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595684390742_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1756699227_3711784595684390742_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1762873918_3763581667534315851_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1762873918_3763581667534315851_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382335383732_6113762906.webp)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382335383732_6113762906.webp --> | [ ] | [x] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382452815867_6113762906.webp)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382452815867_6113762906.webp --> | [ ] | [x] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382461178070_6113762906.webp)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1774959037_3864587382461178070_6113762906.webp --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221761239575502_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221761239575502_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221762246192458_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221762246192458_6113762906.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221762346908408_6113762906.jpg)<br><!-- image:../../assets/designers/tawnmoore/instagram/tawnmoore_1776182455_3875221762346908408_6113762906.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Canadian illustrator and surface designer creating cheerful, feel-good art licensed across greeting cards, stationery, puzzles, and lifestyle products. Over 200 illustrations in licensing portfolio. Open to licensing, commissions, and agency partnerships. 671 posts; 1,045 followers.
+
 ## Style and Aesthetic
+
+Colourful, playful, and joyful — positioned as feel-good art with humour and human connection. Selected Instagram patterns suggest character-led illustrations and cheerful surface designs with warmth suited to the greeting card and lifestyle product market.
 
 ## Techniques and Tools
 
+Illustration-led digital practice. Produces licensing-ready designs formatted for greeting cards, stationery, puzzles, giftware, bolt fabric, wall art, and home decor.
+
 ## Markets and Clients
+
+Greeting cards, stationery, puzzles, giftware, bolt fabric, wall art, and home decor. Documented partners: Jiggy Puzzles, Sellers Publishing, Design House Greetings, Felt App. Selected placement images suggest work applied to puzzle and product contexts. Open to agency inquiries.
 
 ## Portfolio and Presence
 
+- Website: https://tawnmoore.com
+- Instagram: @tawnmoore (1,045 followers, 671 posts)
+- Licensing portfolio available on request (private gallery)
+
 ## Career Path
+
+Canadian creative building a licensing-focused illustration practice. Documented licensing partnerships suggest an established track record in the greeting card and puzzle market. Also runs Studio Picks and Studio Sessions, indicating an educational or community dimension alongside client work.
 
 ## Pattern Focus
 
+Selected patterns suggest bright, character-driven illustrations with repeat potential. Placement images indicate work applied to puzzle and greeting card products. Range covers greeting cards, stationery, bolt fabric, wall art, and home decor.
+
 ## Connections
+
+- [[Jiggy Puzzles]] — documented licensee
+- [[Sellers Publishing]] — documented licensee
+- [[Design House Greetings]] — documented licensee
+- [[Felt App]] — documented licensee
+- [[Greeting Cards]] — primary market
+- [[Stationery]] — primary market
+- [[Art Licensing]] — core business model

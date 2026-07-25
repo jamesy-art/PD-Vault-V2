@@ -25,7 +25,7 @@ bio: ''
 website: 'https://Ar8yedz-art.co.uk'
 website_about: ''
 accepted: 19/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/yemiedwards_surfacedesign
 profile_url: ''
 instagram_images:
@@ -42,8 +42,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Ar8yedz Illustrator – Surface Pattern Designer – Illustrator – Surface Pattern
   Designer
@@ -262,7 +265,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -290,31 +293,80 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_3_Cosmo-Wall-100.jpeg
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_4_ar8yedz-illustrator-pumpkin-halloween-2.jpeg
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_7_21st-Pattern.jpeg
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_9_27.jpeg
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_3_Cosmo-Wall-100.jpeg
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_4_ar8yedz-illustrator-pumpkin-halloween-2.jpeg
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_7_21st-Pattern.jpeg
+  - >-
+    ../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_9_27.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # yemiedwards_surfacedesign
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_3_Cosmo-Wall-100.jpeg)<br><!-- image:../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_3_Cosmo-Wall-100.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_4_ar8yedz-illustrator-pumpkin-halloween-2.jpeg)<br><!-- image:../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_4_ar8yedz-illustrator-pumpkin-halloween-2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_7_21st-Pattern.jpeg)<br><!-- image:../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_7_21st-Pattern.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_9_27.jpeg)<br><!-- image:../../assets/designers/yemiedwards_surfacedesign/instagram/yemiedwards_surfacedesign_imageye___-_imgi_9_27.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Yemi Edwards is a UK-based illustrator and surface pattern designer working as Ar8yedz (pronounced "Arty Edzzz"), based in Lincolnshire. She transitioned from a 22-year career as a professional photographer into illustration and surface pattern design from late 2020, initially creating work for her daughter. She has over 20 years of combined creative industry experience.
+
 ## Style and Aesthetic
+
+Whimsical animals, intricate florals, and ornamental patterns characterise Ar8yedz's portfolio. Selected Instagram images suggest bold, decorative flat patterns across floral, festive, and abstract registers. Her work blends multiple visual styles — from bold repeat patterns to character-driven illustration — reflecting her mixed-media practice.
 
 ## Techniques and Tools
 
+By late 2023, documented media included watercolour, gouache, coloured pencils, inks, and digital. She began with Winsor & Newton Promarkers and manga-influenced mark-making, expanding her range progressively. Formal background is in Graphic Design and Photography (mid-1990s).
+
 ## Markets and Clients
+
+Licensing is her stated commercial route. No specific client relationships are documented in available sources.
 
 ## Portfolio and Presence
 
+- Website: https://Ar8yedz-art.co.uk
+- Instagram: https://instagram.com/Yemiedwards_surfacedesign
+- LinkedIn and Pinterest linked from website
+
 ## Career Path
+
+Studied Graphic Design and Photography in the mid-1990s, then worked as a professional photographer for 22 years. From late 2020, she began illustrating — her first piece created for her autistic daughter. She expanded across multiple traditional and digital media through 2021–2023 and built a surface pattern practice alongside her Ar8yedz brand. The name is a phonetic rendering of "Arty Edzzz" derived from her surname Edwards.
 
 ## Pattern Focus
 
+Animals, florals, and festive patterns are evident in selected work. Documented image titles reference botanical/cosmic wall patterns, pumpkin/halloween character illustration, and abstract ornamental motifs. Work spans character illustration and decorative repeat design.
+
 ## Connections
+
+- [[United Kingdom]] — based in Lincolnshire
+- [[Licensing]] — stated commercial model

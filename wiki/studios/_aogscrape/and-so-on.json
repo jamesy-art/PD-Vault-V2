@@ -1,0 +1,36 @@
+{
+  "slug": "and-so-on",
+  "name": "& So On",
+  "website": "https://www.andso-on.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/and-so-on.md",
+  "scraped_at": "2026-06-05T23:21:30.555Z",
+  "status": "scraped",
+  "website_title": "Print Design Studio | & So On Print Studio",
+  "website_meta_description": "Print design studio providing textiles and fashion with the latest on trend designs",
+  "pages": [
+    {
+      "url": "https://www.andso-on.com/",
+      "text": "--> Print Design Studio | & So On Print Studio top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. ​ 28.jpg OUR CLIENTS​ & SO ON prints can be found in some of the worlds leading fashion brands: bottom of page",
+      "images": []
+    },
+    {
+      "url": "https://www.andso-on.com/about",
+      "text": "--> ABOUT | & So On top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. ABOUT US & So On is a UK based print design studio with an exciting, on trend collection of beautiful prints for fashion and textiles. We are a small team of talented designers with a range of backgrounds and experience, offering a versatile range of skills creating the & So On look. We also offer design services and help with many over burdened design teams with extra design admin, e.g. with colour separation or repeat work. Please get in touch for more information if you are looking to outsource any design work and our talented and professional team would be happy to help. We have sales representatives around the world as well as an impressive online collection, so please get in touch to discuss your preferred method to view our prints. You can find out more at: studio@andso-on.com We are always on the look out for fresh, talented new freelancers so if you are looking for freelance work please email us some examples of your work and we may have a freelance position for you. For any enquiries or for log in details, please email us at studio@andso-on.com and we will aim to get back to you within 24 hours. bottom of page",
+      "images": []
+    },
+    {
+      "url": "https://www.andso-on.com/gallery",
+      "text": "--> GALLERY | & So On top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. bottom of page",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://www.andso-on.com/\n--> Print Design Studio | & So On Print Studio top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. ​ 28.jpg OUR CLIENTS​ & SO ON prints can be found in some of the worlds leading fashion brands: bottom of page\n\nSOURCE: https://www.andso-on.com/about\n--> ABOUT | & So On top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. ABOUT US & So On is a UK based print design studio with an exciting, on trend collection of beautiful prints for fashion and textiles. We are a small team of talented designers with a range of backgrounds and experience, offering a versatile range of skills creating the & So On look. We also offer design services and help with many over burdened design teams with extra design admin, e.g. with colour separation or repeat work. Please get in touch for more information if you are looking to outsource any design work and our talented and professional team would be happy to help. We have sales representatives around the world as well as an impressive online collection, so please get in touch to discuss your preferred method to view our prints. You can find out more at: studio@andso-on.com We are always on the look out for fresh, talented new freelancers so if you are looking for freelance work please email us some examples of your work and we may have a freelance position for you. For any enquiries or for log in details, please email us at studio@andso-on.com and we will aim to get back to you within 24 hours. bottom of page\n\nSOURCE: https://www.andso-on.com/gallery\n--> GALLERY | & So On top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. bottom of page",
+  "website_about_clean": "SOURCE: https://www.andso-on.com/\n--> Print Design Studio | & So On Print Studio top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. ​ 28.jpg OUR CLIENTS​ & SO ON prints can be found in some of the worlds leading fashion brands: bottom of page\n\nSOURCE: https://www.andso-on.com/about\n--> ABOUT | & So On top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. ABOUT US & So On is a UK based print design studio with an exciting, on trend collection of beautiful prints for fashion and textiles. We are a small team of talented designers with a range of backgrounds and experience, offering a versatile range of skills creating the & So On look. We also offer design services and help with many over burdened design teams with extra design admin, e.g. with colour separation or repeat work. Please get in touch for more information if you are looking to outsource any design work and our talented and professional team would be happy to help. We have sales representatives around the world as well as an impressive online collection, so please get in touch to discuss your preferred method to view our prints. You can find out more at: studio@andso-on.com We are always on the look out for fresh, talented new freelancers so if you are looking for freelance work please email us some examples of your work and we may have a freelance position for you. For any enquiries or for log in details, please email us at studio@andso-on.com and we will aim to get back to you within 24 hours. bottom of page\n\nSOURCE: https://www.andso-on.com/gallery\n--> GALLERY | & So On top of page ABOUT SHOP PRINTS GALLERY GET IN TOUCH More Use tab to navigate through the menu items. bottom of page",
+  "website_images": [],
+  "scrape_quality": "partial",
+  "scrape_quality_score": 70,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [],
+  "website_images_local": []
+}

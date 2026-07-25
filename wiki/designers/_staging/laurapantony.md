@@ -27,7 +27,7 @@ bio: ''
 website: 'https://laurapantony.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/laurapantony
 profile_url: ''
 instagram_images:
@@ -44,8 +44,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Laura Pantony | kids print design studio & Spoonflower seller
 website_meta_description: >-
   Creating cute kids and baby print designs in a scandinavian cute simple modern
@@ -72,7 +75,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -91,44 +94,184 @@ instagram_business_account: true
 instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/639817700_18562488685019873_7781924581477174240_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHD69tctwLNjfnd4sU2UvZgyLitQGjGjirwEVrM3YBY9X6c5RrQxD1EPyDQkF-wtHc&_nc_ohc=xnm6m7_8crsQ7kNvwGIs5AW&_nc_gid=3z0rgX5qX2j89Jihqkv-wg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5tYO1Lbzq5mUvnCw53A0rZwboB33vNsnMpmw2MMbSpMA&oe=6A13FB0D&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/laurapantony/profile/639817700_18562488685019873_7781924581477174240_n.jpg
+instagram_profile_image_bytes: 32900
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/laurapantony/profile/639817700_18562488685019873_7781924581477174240_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/laurapantony/profile/639817700_18562488685019873_7781924581477174240_n.jpg
+profile_image_local: >-
+  ../../assets/designers/laurapantony/profile/639817700_18562488685019873_7781924581477174240_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/laurapantony/profile/639817700_18562488685019873_7781924581477174240_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1728064247_3471576874999244022_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1729269062_3481683578692616649_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1730375626_3490966109183047168_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1734519523_3525727654895147402_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989049892951_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989561498703_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692990677186068_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1745338666_3616485183110934183_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032150659661_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032226251356_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032578112840_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032586696084_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882033123863846_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882033248352488_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882034106361206_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981381674429516_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981381900764952_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981390641659842_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639990787127501_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639991223558618_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639991533801961_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992297278334_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992834172015_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726219520441491_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726219822431133_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726221525285269_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726223504969688_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1764795765_3779703167052361698_298067872.jpg
+instagram_image_count: 28
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1729269062_3481683578692616649_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1734519523_3525727654895147402_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989049892951_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1745338666_3616485183110934183_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992834172015_298067872.jpg
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726223504969688_298067872.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/laurapantony/instagram/laurapantony_1730375626_3490966109183047168_298067872.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # laurapantony
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/laurapantony/profile/639817700_18562488685019873_7781924581477174240_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1728064247_3471576874999244022_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1728064247_3471576874999244022_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1729269062_3481683578692616649_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1729269062_3481683578692616649_298067872.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1730375626_3490966109183047168_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1730375626_3490966109183047168_298067872.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1734519523_3525727654895147402_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1734519523_3525727654895147402_298067872.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989049892951_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989049892951_298067872.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989561498703_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692989561498703_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692990677186068_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1743098474_3597692990677186068_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1745338666_3616485183110934183_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1745338666_3616485183110934183_298067872.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032150659661_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032150659661_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032226251356_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032226251356_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032578112840_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032578112840_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032586696084_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882032586696084_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882033123863846_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882033123863846_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882033248352488_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882033248352488_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882034106361206_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1748366219_3641882034106361206_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981381674429516_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981381674429516_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981381900764952_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981381900764952_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981390641659842_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1753980899_3688981390641659842_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639990787127501_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639990787127501_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639991223558618_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639991223558618_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639991533801961_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639991533801961_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992297278334_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992297278334_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992834172015_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1755728342_3703639992834172015_298067872.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726219520441491_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726219520441491_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726219822431133_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726219822431133_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726221525285269_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726221525285269_298067872.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726223504969688_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1759314900_3733726223504969688_298067872.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/laurapantony/instagram/laurapantony_1764795765_3779703167052361698_298067872.jpg)<br><!-- image:../../assets/designers/laurapantony/instagram/laurapantony_1764795765_3779703167052361698_298067872.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Laura Pantony is a freelance kids print designer and illustrator based in Northamptonshire, UK. With over nine years of commercial experience, she creates print designs for baby and toddler brands globally and sells fabric and wallpaper directly via Spoonflower and Etsy. She moved to full-time freelance in 2021. Clients have described her prints as demonstrating "a great understanding of the children's market" and performing well commercially.
+
 ## Style and Aesthetic
+
+Soft, minimal, and Scandinavian-cute. The aesthetic is characterised by clean simple shapes, restricted palettes, and modest scale — designed specifically for baby and toddler contexts where subtlety and sweetness are commercially favoured. Selected Instagram images suggest character-based all-over prints (animals, flora, festive motifs) alongside coordinating ditsy prints, with consistent use of clean white backgrounds and pastel tones. The work reads as trend-aware without being trend-led.
 
 ## Techniques and Tools
 
+Illustration background with BA Illustration (First Class Honours, 2011). Pantony combines hand-drawn elements with digital output. Prior in-house experience as a greeting card designer and print designer informs her commercial understanding of print repeat, co-ordinate design, and colour variants. Not specifically documented: software stack.
+
 ## Markets and Clients
+
+Primary market: baby and toddler kidswear and nursery products. Designs sold via Spoonflower (cotton, linen, jersey, velvet fabrics; peel-and-stick wallpaper) and Etsy. Art licensing available: non-exclusive, with resize and recolour options. Brand clients not named publicly; client testimonial references performing prints for the children's market.
 
 ## Portfolio and Presence
 
+- Website: https://laurapantony.com
+- Instagram: @laurapantony (1,630 followers, 562 posts)
+- Spoonflower seller
+- Etsy seller
+- Contact: hello@laurapantony.com
+
 ## Career Path
+
+Born and raised in Essex; relocated to Northamptonshire approximately 13 years ago. BA Illustration (First Class, 2011) — started in fine art and illustration, specialised in illustration in second year. Worked in-house as a greeting card designer, then as a print designer. Went freelance in 2021 following becoming a parent. Children's print collections span year-round, seasonal, and themed categories.
 
 ## Pattern Focus
 
+Selected Instagram patterns include character-based all-over prints featuring animals (giraffes, rhinos, elephants, zebras, koalas, dogs), botanical motifs (mushrooms, florals, sunflowers), and festive/seasonal collections. Selected placement images suggest children's apparel and nursery textile applications. Coordinating ditsy prints and tonal co-ordinates are a consistent feature. Mediterranean-themed and other trend-responsive collections also documented.
+
 ## Connections
+
+- [[Children's Apparel]]
+- [[Kidswear]]
+- [[Spoonflower]]
+- [[Art Licensing]]
+- [[Nursery Products]]
+- [[Print on Demand]]

@@ -15,12 +15,12 @@ skills:
 country: South Africa
 can_use: 'Yes'
 instagram_handle: beauportions
-instagram: 'https://instagram.com/@beauportions'
+instagram: 'https://instagram.com/beauportions'
 bio: ''
 website: 'https://spoonflower.com/profiles/beautiful-portions'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/beauportions
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'beautiful-portions''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: >-
   Designs by beautiful-portions for sale on Spoonflower custom fabric and
@@ -235,7 +238,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Nthabi M'
 
@@ -262,45 +265,127 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/521604508_17853260211496612_1620796430021579251_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFa4o_1ncVbYLTbJV9YT1I0OI_BNz7ajox3a6ffZfPwZ0K6mkajcD3fdiTUPGTDcp8&_nc_ohc=Vmugu9LBnW4Q7kNvwGYOIY6&_nc_gid=MRR7CR1EHzOZ5KlfLJqdOg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7DlFsg_URc9K0SzvgfrtDa3igOTjh2LHmLtXg1bHjoyA&oe=6A13D96A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/521604508_17853260211496612_1620796430021579251_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFa4o_1ncVbYLTbJV9YT1I0OI_BNz7ajox3a6ffZfPwZ0K6mkajcD3fdiTUPGTDcp8&_nc_ohc=Vmugu9LBnW4Q7kNvwGYOIY6&_nc_gid=MRR7CR1EHzOZ5KlfLJqdOg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7DlFsg_URc9K0SzvgfrtDa3igOTjh2LHmLtXg1bHjoyA&oe=6A13D96A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/beauportions/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5094
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/beauportions/profile/521604508_17853260211496612_1620796430021579251_n.jpg
+instagram_profile_image_bytes: 105783
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/beauportions/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/beauportions/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/beauportions/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/beauportions/profile/521604508_17853260211496612_1620796430021579251_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/beauportions/profile/521604508_17853260211496612_1620796430021579251_n.jpg
+profile_image_local: >-
+  ../../assets/designers/beauportions/profile/521604508_17853260211496612_1620796430021579251_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/beauportions/profile/521604508_17853260211496612_1620796430021579251_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_100_Vintage_Retro_Daisies_01.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_101_Berry_Vines_Stripes.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_102_Retro_Geomatric_Interlocking_chain.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_104_Geomatric_Modern_Folk_Cross_At_64_Degree_-_Orange.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_105_Afro-Boho_Living_Lands__3.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_108_Abstract_Wavy_Chevron_12.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_110_Horizontal_Branches_and_Tiny_dots_-_Boternical_Echoes_Collection.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_98_Secret_notes_of_Africa.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_100_Vintage_Retro_Daisies_01.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_101_Berry_Vines_Stripes.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_102_Retro_Geomatric_Interlocking_chain.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_104_Geomatric_Modern_Folk_Cross_At_64_Degree_-_Orange.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_105_Afro-Boho_Living_Lands__3.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_108_Abstract_Wavy_Chevron_12.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_110_Horizontal_Branches_and_Tiny_dots_-_Boternical_Echoes_Collection.jpeg
+  - >-
+    ../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_98_Secret_notes_of_Africa.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # beauportions
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/beauportions/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/beauportions/profile/521604508_17853260211496612_1620796430021579251_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_100_Vintage_Retro_Daisies_01.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_100_Vintage_Retro_Daisies_01.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_101_Berry_Vines_Stripes.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_101_Berry_Vines_Stripes.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_102_Retro_Geomatric_Interlocking_chain.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_102_Retro_Geomatric_Interlocking_chain.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_104_Geomatric_Modern_Folk_Cross_At_64_Degree_-_Orange.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_104_Geomatric_Modern_Folk_Cross_At_64_Degree_-_Orange.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_105_Afro-Boho_Living_Lands__3.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_105_Afro-Boho_Living_Lands__3.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_108_Abstract_Wavy_Chevron_12.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_108_Abstract_Wavy_Chevron_12.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_110_Horizontal_Branches_and_Tiny_dots_-_Boternical_Echoes_Collection.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_110_Horizontal_Branches_and_Tiny_dots_-_Boternical_Echoes_Collection.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_98_Secret_notes_of_Africa.jpeg)<br><!-- image:../../assets/designers/beauportions/instagram/beauportions_imageye___-_imgi_98_Secret_notes_of_Africa.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Beautiful Portions is a surface design operation run by Nthabiseng Machedi, based in Pretoria, Gauteng, South Africa. She describes herself as a surface designer blending editorial and design expertise into vibrant, one-of-a-kind creations. The operation functions as a design studio offering licensing to both individuals and corporate clients, with an extensive Spoonflower catalog spanning over 1,100 designs across fabric and wallpaper.
+
 ## Style and Aesthetic
+
+Broad and eclectic — spanning African-inspired motifs, abstract geometry, botanical designs, retro patterns, ikat, block print, boho, and mid-century modern. The Spoonflower bestseller list is anchored by "African Food Lover's Ma..." (275 favourites) and "Maxi Afro-Boho Zebras" (63 favourites). Selected pattern images (8) include vintage retro daisies, berry vine stripes, retro geometric interlocking chains, modern folk cross designs, afro-boho compositions, abstract wavy chevrons, horizontal botanical branches, and African-themed pattern work.
 
 ## Techniques and Tools
 
+Painting and colour theory are listed as core skills. Workflow outputs to Spoonflower-compatible repeat prints across fabric and wallpaper categories. No specific software is documented.
+
 ## Markets and Clients
+
+Primary distribution through [[Spoonflower]] (573 fabrics, 534 wallpapers). Home decor is the primary documented category. Licensing available to individuals and corporate clients. No placement images were selected — all 8 selected images are patterns.
 
 ## Portfolio and Presence
 
+- Spoonflower: spoonflower.com/profiles/beautiful-portions
+- Instagram: @beauportions (25 followers, 53 posts)
+- Pinterest: @beauportions
+- LinkedIn: beautiful-portions
+- Blog: beautifulportions.blogspot.com
+- Contact: kegroupko@outlook.com
+
 ## Career Path
+
+Nthabiseng Machedi describes a background in editorial editing and design. No formal art training is documented. She operates from Pretoria, South Africa, with a Spoonflower catalog volume that indicates sustained multi-year output.
 
 ## Pattern Focus
 
+Documented pattern work: African food and cultural motifs, afro-boho zebra designs, vintage retro daisies, berry vine stripes, retro geometric interlocking chains, modern folk crosses, abstract wavy chevrons, botanical branches (Botanical Echoes collection), and African-themed surface designs. The catalog breadth is built for Spoonflower's keyword-driven discovery model, covering seasonal, nursery, fashion, and home decor categories.
+
 ## Connections
+
+- [[Spoonflower]] — primary distribution platform
+- [[South Africa]] — based
+- [[Home Decor]] — primary target market
+- [[African Design]] — documented aesthetic influence
+- [[Geometric Pattern]] — core pattern family
+- [[Floral and Botanical Patterns]] — documented motif category

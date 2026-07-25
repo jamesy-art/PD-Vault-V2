@@ -25,7 +25,7 @@ bio: ''
 website: 'https://merooseth.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/merooseth
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Meroo Seth
 website_meta_description: ''
 website_about_raw: >-
@@ -260,7 +263,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -277,45 +280,169 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/462159397_462549769438264_6255247857123243742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFzMc---xtWKxedfOB_KwrWiZ49Er3HQVmP6orfHQAG2JmZjqTFwYjL3L8BCvJLd8w&_nc_ohc=OiDl1dDG7UAQ7kNvwF6Cnci&_nc_gid=z-t-LJ8hNybTL2hZgC8Bgw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5a_DJHz4wB-lmIuSWOTB0d-hRJC6l_ExzLPr_LzdF9ug&oe=6A13FBA5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/462159397_462549769438264_6255247857123243742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFzMc---xtWKxedfOB_KwrWiZ49Er3HQVmP6orfHQAG2JmZjqTFwYjL3L8BCvJLd8w&_nc_ohc=OiDl1dDG7UAQ7kNvwF6Cnci&_nc_gid=z-t-LJ8hNybTL2hZgC8Bgw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5a_DJHz4wB-lmIuSWOTB0d-hRJC6l_ExzLPr_LzdF9ug&oe=6A13FBA5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/merooseth/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8139
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/merooseth/profile/462159397_462549769438264_6255247857123243742_n.jpg
+instagram_profile_image_bytes: 228480
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/merooseth/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/merooseth/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/merooseth/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/merooseth/profile/462159397_462549769438264_6255247857123243742_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/merooseth/profile/462159397_462549769438264_6255247857123243742_n.jpg
+profile_image_local: >-
+  ../../assets/designers/merooseth/profile/462159397_462549769438264_6255247857123243742_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/merooseth/profile/462159397_462549769438264_6255247857123243742_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1615916558_2530813982644916399_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1616445227_2535248778062389153_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1620472188_2569029372747350139_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1646784828_2789755797719607788_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975019413828_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975019515392_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975044630194_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1681835859_3083785161120453643_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187422533731_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187430718579_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187430782789_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121339133555_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347360746_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347368027_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347380326_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347551308_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498386882_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498409734_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569654826_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569774342_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271695489814_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492351885657_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492360207703_1510781534.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1615916558_2530813982644916399_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1620472188_2569029372747350139_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498386882_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492351885657_1510781534.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1646784828_2789755797719607788_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1681835859_3083785161120453643_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569774342_1510781534.jpg
+  - >-
+    ../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492360207703_1510781534.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
+# Meroo Seth
 
-# merooseth
+India-based graphic designer, brand specialist, and illustrator whose client work includes Apple, YouTube, Spotify, Google, and Oxfam, with pattern and surface design as a personal creative practice.
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/merooseth/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/merooseth/profile/462159397_462549769438264_6255247857123243742_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1615916558_2530813982644916399_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1615916558_2530813982644916399_1510781534.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1616445227_2535248778062389153_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1616445227_2535248778062389153_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1620472188_2569029372747350139_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1620472188_2569029372747350139_1510781534.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1646784828_2789755797719607788_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1646784828_2789755797719607788_1510781534.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975019413828_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975019413828_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975019515392_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975019515392_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975044630194_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1654429026_2853879975044630194_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1681835859_3083785161120453643_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1681835859_3083785161120453643_1510781534.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187422533731_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187422533731_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187430718579_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187430718579_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187430782789_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1682010900_3085243187430782789_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121339133555_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121339133555_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347360746_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347360746_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347368027_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347368027_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347380326_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347380326_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347551308_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121347551308_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498386882_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498386882_1510781534.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498409734_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1690994824_3160616121498409734_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569654826_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569654826_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569774342_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271569774342_1510781534.jpg --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271695489814_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1717672092_3384401271695489814_1510781534.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492351885657_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492351885657_1510781534.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492360207703_1510781534.jpg)<br><!-- image:../../assets/designers/merooseth/instagram/merooseth_1750408539_3659014492360207703_1510781534.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Meroo Seth is an India-based graphic designer, brand specialist, and illustrator with 11,906 Instagram followers. Primary client work is in brand identity and packaging for global tech and non-profit clients including Apple, YouTube, Spotify, Google, Facebook, Snapchat, Malala Fund, and Oxfam. Surface pattern and decorative illustration appear as a personal and exploratory stream, with an active "Play" section on the website and documented work with Fabriclore (Indian textile platform).
+
 ## Style and Aesthetic
+
+Selected patterns suggest graphic, illustrative surface designs informed by Indian decorative traditions and cultural reference. Strong typographic sensibility carries through from core brand practice. Selected placements show work applied to textiles, packaging, and stationery contexts. High visual confidence and a systematic approach to creative output.
 
 ## Techniques and Tools
 
+Graphic design, illustration, typography, 3D, motion graphics, and art direction. Design practice described as merging curiosity and experimentation with systematic, structured delivery. Surface pattern work likely draws on digital illustration tools informed by professional motion and identity design background.
+
 ## Markets and Clients
+
+Primary: brand identity and packaging for global tech and NGO clients. SPD-adjacent: Fabriclore (Indian textile platform), stationery, and decorative product contexts. Seasonal cultural work visible in website project list (Diwali x Apple, The Indian Pantry) indicates culturally-specific surface design output.
 
 ## Portfolio and Presence
 
+- Website: https://merooseth.com
+- Instagram: https://instagram.com/merooseth (11,906 followers, 561 posts)
+
 ## Career Path
+
+Graphic designer and visual artist from India. Worked across multiple design studios collaborating with global brands on identity, packaging, and campaigns. Currently freelancing alongside studios. Dedicates time to personal projects exploring illustration and surface design, including work with Fabriclore. Based in India with documented international reach.
 
 ## Pattern Focus
 
+Selected patterns (4 approved) suggest graphic, illustrative surface designs with Indian decorative and cultural influences. Four selected placements show applied product and textile context. Pattern work is a meaningful but secondary strand of a broader creative practice.
+
 ## Connections
+
+- [[Fabriclore]] — Indian textile platform collaboration
+- [[Stationery]] — active product category
+- [[Illustration]] — core creative skill
+- [[Indian Design]] — cultural and aesthetic reference
+- [[Packaging]] — core client deliverable

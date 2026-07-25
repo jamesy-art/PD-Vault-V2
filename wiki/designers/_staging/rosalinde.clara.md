@@ -28,7 +28,7 @@ bio: ''
 website: 'https://rosalindeclara.com'
 website_about: ''
 accepted: 18/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/rosalinde.clara
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Rosalinde Clara | Surface Pattern Designer and Illustrator
 website_meta_description: >-
   Rosalinde Clara is a surface pattern designer and illustrator creating joyful,
@@ -75,7 +78,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -96,45 +99,277 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/475973270_608412911928788_398008737698895356_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEXnVm0JcFhP1PK3mWlHWJ2_KN3RhPWAx-SRGveMfpM4tRSDpPJHfp4KnXpQrq9mks&_nc_ohc=raksI8BolXQQ7kNvwFLqKHo&_nc_gid=7zx04J7oA8ARcQfLF3m6wA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4VXUWgB3rNVfh0HcSR699wcTAHyoOfDFu7nVMBi8HQuw&oe=6A13FE67&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/475973270_608412911928788_398008737698895356_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEXnVm0JcFhP1PK3mWlHWJ2_KN3RhPWAx-SRGveMfpM4tRSDpPJHfp4KnXpQrq9mks&_nc_ohc=raksI8BolXQQ7kNvwFLqKHo&_nc_gid=7zx04J7oA8ARcQfLF3m6wA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4VXUWgB3rNVfh0HcSR699wcTAHyoOfDFu7nVMBi8HQuw&oe=6A13FE67&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5412
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/rosalinde.clara/profile/475973270_608412911928788_398008737698895356_n.jpg
+instagram_profile_image_bytes: 165057
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/rosalinde.clara/profile/475973270_608412911928788_398008737698895356_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/rosalinde.clara/profile/475973270_608412911928788_398008737698895356_n.jpg
+profile_image_local: >-
+  ../../assets/designers/rosalinde.clara/profile/475973270_608412911928788_398008737698895356_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/rosalinde.clara/profile/475973270_608412911928788_398008737698895356_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280965816971472_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280969759967318_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1762527659_3760676942564871685_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1762527659_3760676943319348902_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495446332_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495483799_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129562545355_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129562599394_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129780648705_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1766432773_3793435509910525150_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1766432773_3793435510011143272_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770044480_3823732142686617126_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770044480_3823732143919755321_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671956123716_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671981322201_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661672811809084_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684890012360919_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684899273430404_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038697005208366_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038720929478208_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773261225_3850715621735079373_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1775588420_3870237146716535223_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777071699_3882680555954880711_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777071699_3882680581238146379_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287569930711910_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287590608593616_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287591648803972_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601048398213_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601794986166_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602004744728_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602474474641_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717603153940064_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717604118669755_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717605980897972_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490677814074188_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490678980101242_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490679407917874_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490680951390752_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490681446305469_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289232912805904_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289238382179887_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289239313298391_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289248834507024_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289250939863041_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289251300678519_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289251552298058_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289252080909676_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289252961561197_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810350735755340_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810350777717129_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810351029350418_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810364996287114_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810396151801857_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852080744916254_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852081130812440_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852081390863830_44371790862.jpg
+instagram_image_count: 56
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280965816971472_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661672811809084_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773261225_3850715621735079373_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601794986166_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602004744728_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602474474641_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810351029350418_44371790862.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495483799_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671981322201_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684890012360919_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038697005208366_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287591648803972_44371790862.jpg
+  - >-
+    ../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601048398213_44371790862.jpg
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 6
+trash_image_count: 0
 ---
-
 # rosalinde.clara
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rosalinde.clara/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/rosalinde.clara/profile/475973270_608412911928788_398008737698895356_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280965816971472_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280965816971472_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280969759967318_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1750797939_3662280969759967318_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1762527659_3760676942564871685_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1762527659_3760676942564871685_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1762527659_3760676943319348902_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1762527659_3760676943319348902_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495446332_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495446332_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495483799_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129495483799_44371790862.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129562545355_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129562545355_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129562599394_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129562599394_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129780648705_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1765301313_3783944129780648705_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1766432773_3793435509910525150_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1766432773_3793435509910525150_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1766432773_3793435510011143272_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1766432773_3793435510011143272_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770044480_3823732142686617126_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770044480_3823732142686617126_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770044480_3823732143919755321_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770044480_3823732143919755321_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671956123716_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671956123716_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671981322201_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661671981322201_44371790862.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661672811809084_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1770393707_3826661672811809084_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684890012360919_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684890012360919_44371790862.jpg --> | [ ] | [x] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684899273430404_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1771707872_3837684899273430404_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038697005208366_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038697005208366_44371790862.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038720929478208_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773180513_3850038720929478208_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773261225_3850715621735079373_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1773261225_3850715621735079373_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1775588420_3870237146716535223_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1775588420_3870237146716535223_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777071699_3882680555954880711_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777071699_3882680555954880711_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777071699_3882680581238146379_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777071699_3882680581238146379_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287569930711910_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287569930711910_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287590608593616_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287590608593616_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287591648803972_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777859566_3889287591648803972_44371790862.jpg --> | [ ] | [x] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601048398213_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601048398213_44371790862.jpg --> | [ ] | [x] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601794986166_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717601794986166_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602004744728_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602004744728_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602474474641_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717602474474641_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717603153940064_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717603153940064_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717604118669755_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717604118669755_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717605980897972_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1777910522_3889717605980897972_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490677814074188_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490677814074188_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490678980101242_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490678980101242_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490679407917874_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490679407917874_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490680951390752_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490680951390752_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490681446305469_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1778002679_3890490681446305469_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289232912805904_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289232912805904_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289238382179887_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289238382179887_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289239313298391_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289239313298391_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289248834507024_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289248834507024_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289250939863041_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289250939863041_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289251300678519_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289251300678519_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289251552298058_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289251552298058_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289252080909676_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289252080909676_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289252961561197_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779051588_3899289252961561197_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810350735755340_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810350735755340_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810350777717129_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810350777717129_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810351029350418_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810351029350418_44371790862.jpg --> | [x] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810364996287114_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810364996287114_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810396151801857_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1779829053_3905810396151801857_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852080744916254_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852080744916254_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852081130812440_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852081130812440_44371790862.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852081390863830_44371790862.jpg)<br><!-- image:../../assets/designers/rosalinde.clara/instagram/rosalinde.clara_1780072321_3907852081390863830_44371790862.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rosalinde Clara is a surface pattern designer and illustrator based in the Canadian prairies. She creates floral and nature-inspired repeat patterns positioned across art print retail and art licensing, targeting stationery, fabric, home goods, giftware, and packaging. She operates a hybrid practice: direct-to-consumer art prints and greeting cards alongside licensable design portfolios for brand clients.
+
 ## Style and Aesthetic
+
+Joyful, vibrant florals with a warm and accessible palette. Selected Instagram images suggest structured floral repeats including harlequin-based layouts, all-over botanical compositions, and nature-motif arrangements in saturated colour. A signature "Flourish & Thrive" collection centres on harlequin-structured florals with strong colour contrast. Stated favourite colour combination: dark green and bubble gum pink. Dream collaboration targets — Anthropologie and Cloud9 Fabrics — signal her aesthetic position within the premium lifestyle print market.
 
 ## Techniques and Tools
 
+Digital repeat pattern construction producing licensing-ready artwork. Art prints produced as giclée on matte museum-quality paper, printed to order. Greeting cards printed on premium smooth cardstock. Work output includes repeat patterns, single illustrations, and collection-based design series.
+
 ## Markets and Clients
+
+Stationery, fabric, home goods, giftware, and packaging. Actively seeks licensing clients; designs positioned for cross-category application. Member of Illustrators for Hire. No specific commercial licensing clients documented. Seasonal and occasion-based collections (Valentine's Day, Easter) indicate trend-responsive production.
 
 ## Portfolio and Presence
 
+- Website: rosalindeclara.com
+- Instagram: @rosalinde.clara (541 followers, 520 posts)
+
 ## Career Path
+
+Based in the Canadian prairies. Entered surface pattern design through an interest in beeswax wrap fabric — browsing Cloud9 Fabrics led to discovering the SPD discipline. Now operates a hybrid retail and licensing practice from a home studio.
 
 ## Pattern Focus
 
+Floral repeat patterns are the core output: harlequin-structured florals, all-over botanical repeats, and illustrated floral compositions. Selected Instagram images suggest coordinated multi-pattern collections with consistent colour stories. Bug illustration work (bugsinbloom2026 challenge) and zodiac illustration series indicate broader illustrative range alongside pattern work. Wallpaper and fabric are stated licensing targets.
+
 ## Connections
+
+- [[Cloud9 Fabrics]] (dream licensing target, cited as formative discovery)
+- [[raw/companies/anthropologie]] (dream collaboration)
+- [[Illustrators for Hire]] (member)
+- [[Flower Pattern]] (primary motif)
+- [[Harlequin Pattern]] (documented collection)
+- [[Art Licensing]]

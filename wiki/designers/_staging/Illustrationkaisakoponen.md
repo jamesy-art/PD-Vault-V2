@@ -18,7 +18,7 @@ bio: ''
 website: 'https://illustrationkaisakoponen.com'
 website_about: ''
 accepted: 17/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/illustrationkaisakoponen
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Etusivu | KaisaKoponen
 website_meta_description: ''
 website_about_raw: >-
@@ -108,7 +111,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Hi! I'm Kaisa. My journey into the world of patterns and illustrations began
   in 2014 while I was on maternity leave. Since I was a child, I have enjoyed
@@ -166,46 +169,133 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/17494093_424039261273835_8619464167197245440_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjYuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFdPZfPziOn7_kMZODTnkpcG_TCzwbMkpt0B2dRQKdi5p9C05aOKyAMqdJelBlPrgs&_nc_ohc=dIJLuqoixkQQ7kNvwG_sdMD&_nc_gid=OmS9Si_fnLz8TKI7D8db_Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6H4cDllaFAKoMEPEB3OS6uFGmPF_B2yzGsFqCcSTVWdQ&oe=6A13F08E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/17494093_424039261273835_8619464167197245440_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjYuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFdPZfPziOn7_kMZODTnkpcG_TCzwbMkpt0B2dRQKdi5p9C05aOKyAMqdJelBlPrgs&_nc_ohc=dIJLuqoixkQQ7kNvwG_sdMD&_nc_gid=OmS9Si_fnLz8TKI7D8db_Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6H4cDllaFAKoMEPEB3OS6uFGmPF_B2yzGsFqCcSTVWdQ&oe=6A13F08E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/illustrationkaisakoponen/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8197
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/illustrationkaisakoponen/profile/17494093_424039261273835_8619464167197245440_a.jpg
+instagram_profile_image_bytes: 84316
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/illustrationkaisakoponen/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_image: >-
+  ../../assets/designers/illustrationkaisakoponen/profile/17494093_424039261273835_8619464167197245440_a.jpg
+profile_images:
   - >-
-    ../../assets/designers/illustrationkaisakoponen/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/illustrationkaisakoponen/profile/instagram-profile.jpg
+    ../../assets/designers/illustrationkaisakoponen/profile/17494093_424039261273835_8619464167197245440_a.jpg
+profile_image_local: >-
+  ../../assets/designers/illustrationkaisakoponen/profile/17494093_424039261273835_8619464167197245440_a.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/illustrationkaisakoponen/profile/17494093_424039261273835_8619464167197245440_a.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1695998643_3202591197213617203_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1705598321_3283119135994140309_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1712254253_3338953143629387401_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1718375060_3390316556624150611_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1719586839_3400463485924365935_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1721410145_3415758330528260424_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1733857256_3520172262344142341_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1742749219_3594763685583950153_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1744216693_3607073519687757257_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248393148833_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248577609095_3957043076.jpg
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1695998643_3202591197213617203_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1705598321_3283119135994140309_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1712254253_3338953143629387401_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1719586839_3400463485924365935_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1733857256_3520172262344142341_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1744216693_3607073519687757257_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248393148833_3957043076.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1718375060_3390316556624150611_3957043076.jpg
+  - >-
+    ../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1721410145_3415758330528260424_3957043076.jpg
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # illustrationkaisakoponen
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/illustrationkaisakoponen/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/illustrationkaisakoponen/profile/17494093_424039261273835_8619464167197245440_a.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1695998643_3202591197213617203_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1695998643_3202591197213617203_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1705598321_3283119135994140309_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1705598321_3283119135994140309_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1712254253_3338953143629387401_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1712254253_3338953143629387401_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1718375060_3390316556624150611_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1718375060_3390316556624150611_3957043076.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1719586839_3400463485924365935_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1719586839_3400463485924365935_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1721410145_3415758330528260424_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1721410145_3415758330528260424_3957043076.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1733857256_3520172262344142341_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1733857256_3520172262344142341_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1742749219_3594763685583950153_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1742749219_3594763685583950153_3957043076.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1744216693_3607073519687757257_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1744216693_3607073519687757257_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248393148833_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248393148833_3957043076.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248577609095_3957043076.jpg)<br><!-- image:../../assets/designers/illustrationkaisakoponen/instagram/illustrationkaisakoponen_1748797635_3645501248577609095_3957043076.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kaisa Koponen is a Finnish surface pattern designer and illustrator who began her creative practice in 2014 during maternity leave. Self-taught through online study of painting, illustration, pattern design, and Photoshop, she has developed a distinctive cheerful and colorful style. Her work is available for licensing and collaboration.
+
 ## Style and Aesthetic
+
+Selected Instagram images (7 patterns, 2 placements) confirm a joyful, high-saturation aesthetic with a strong floral and nature-based vocabulary. Patterns suggest dense all-over compositions with organic motifs and confident use of bright, warm color palettes. The work reads as cozy, domestic, and celebratory — consistent with her self-description as a "lover of all cozy and comforting things."
 
 ## Techniques and Tools
 
+Self-taught through online tutorials, with proficiency in Photoshop for pattern construction. Her background in drawing and painting informs a hand-drawn quality to motifs. Selected patterns suggest digital seamless repeats built with an illustrative sensibility.
+
 ## Markets and Clients
+
+Her website targets fabric and clothing shops, clothing manufacturers, and card printers as potential clients. Available for licensing and collaboration. The aesthetic suits home textiles, stationery, children's, and lifestyle product markets. Selected placement images suggest fabric or product mockup presentation contexts.
 
 ## Portfolio and Presence
 
+- Website: https://illustrationkaisakoponen.com
+- Instagram: @Illustrationkaisakoponen
+
 ## Career Path
+
+Kaisa began illustrating and designing patterns in 2014 during maternity leave, motivated by a desire for personal creative time. Describing herself as having overcome a long-standing fear of the blank page, she committed to a self-directed learning path and developed her colorful style through hundreds of hours of online tutorials.
 
 ## Pattern Focus
 
+Selected patterns suggest dense florals and botanical all-over compositions in bright, joyful colorways. The work appears oriented to seamless repeat structures with a hand-crafted illustrative quality. A portfolio section ("Kuosipankki" — pattern bank) indicates a licensable library of ready-made designs.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Home Textiles]]
+- [[Stationery]]
+- [[Licensing]]
+- [[Finland]]

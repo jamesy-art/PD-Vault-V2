@@ -26,7 +26,7 @@ bio: ''
 website: 'https://annahdesign.com'
 website_about: ''
 accepted: 02/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/annah.design
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Anna H Design - Botanical artist and surface pattern designer
 website_meta_description: >-
   Art and surface pattern design honoring the beauty of nature to create
@@ -282,7 +285,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -302,45 +305,219 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/513959615_18076313713928616_3412868632015327592_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEFJh1RAXbvegk4hbBiCgD-9UzR9hu13fvQh65xDvoeOSJnHqz-MOxsSc6F1fm-pBQ&_nc_ohc=RbbAGmkBRqMQ7kNvwET5HXn&_nc_gid=JEM4s54i3DDZ68zxTenIkg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ArQWl1i0qEgIGAE8tsmHZQpxXdHaEwsmOKm_fR5hc_A&oe=6A13CF55&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/513959615_18076313713928616_3412868632015327592_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEFJh1RAXbvegk4hbBiCgD-9UzR9hu13fvQh65xDvoeOSJnHqz-MOxsSc6F1fm-pBQ&_nc_ohc=RbbAGmkBRqMQ7kNvwET5HXn&_nc_gid=JEM4s54i3DDZ68zxTenIkg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ArQWl1i0qEgIGAE8tsmHZQpxXdHaEwsmOKm_fR5hc_A&oe=6A13CF55&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/annah.design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5644
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/annah.design/profile/513959615_18076313713928616_3412868632015327592_n.jpg
+instagram_profile_image_bytes: 136297
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/annah.design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/annah.design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/annah.design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/annah.design/profile/513959615_18076313713928616_3412868632015327592_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/annah.design/profile/513959615_18076313713928616_3412868632015327592_n.jpg
+profile_image_local: >-
+  ../../assets/designers/annah.design/profile/513959615_18076313713928616_3412868632015327592_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/annah.design/profile/513959615_18076313713928616_3412868632015327592_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1606750218_2453921148732497110_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1613231781_2508292442684828923_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1629209926_2642326832565216618_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1632234573_2667699410294716031_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1632839677_2672775394123555418_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1633530380_2678569431715718878_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1634049279_2682922267094124185_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1636558037_2703967256209063632_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364532922749_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364558201174_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1638977867_2724266262738933311_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562365122_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562559089_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126713449364_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1751291123_3666418144503369284_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1751291123_3666418144511704399_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820383611663_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820392041248_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820442365479_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559702662_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559803905_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820568018539_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820576497167_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584803721_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584899263_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820585042330_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601767979_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601787179_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736984145907325_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736985597170804_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736985966264975_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736986276647421_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736991066508943_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261732344716552_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261732873177191_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261742033546151_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261750640220912_27865208615.jpg
+instagram_image_count: 37
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364558201174_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562559089_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820383611663_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820392041248_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559702662_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584803721_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820585042330_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601787179_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736986276647421_27865208615.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1613231781_2508292442684828923_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1629209926_2642326832565216618_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1632234573_2667699410294716031_27865208615.jpg
+  - >-
+    ../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261742033546151_27865208615.jpg
+trash_images: []
+selected_pattern_count: 9
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # annah.design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/annah.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/annah.design/profile/513959615_18076313713928616_3412868632015327592_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1606750218_2453921148732497110_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1606750218_2453921148732497110_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1613231781_2508292442684828923_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1613231781_2508292442684828923_27865208615.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1629209926_2642326832565216618_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1629209926_2642326832565216618_27865208615.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1632234573_2667699410294716031_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1632234573_2667699410294716031_27865208615.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1632839677_2672775394123555418_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1632839677_2672775394123555418_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1633530380_2678569431715718878_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1633530380_2678569431715718878_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1634049279_2682922267094124185_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1634049279_2682922267094124185_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1636558037_2703967256209063632_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1636558037_2703967256209063632_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364532922749_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364532922749_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364558201174_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1638544434_2720630364558201174_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1638977867_2724266262738933311_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1638977867_2724266262738933311_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562365122_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562365122_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562559089_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126562559089_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126713449364_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1680530156_3072832126713449364_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1751291123_3666418144503369284_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1751291123_3666418144503369284_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1751291123_3666418144511704399_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1751291123_3666418144511704399_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820383611663_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820383611663_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820392041248_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820392041248_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820442365479_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820442365479_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559702662_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559702662_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559803905_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820559803905_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820568018539_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820568018539_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820576497167_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820576497167_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584803721_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584803721_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584899263_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820584899263_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820585042330_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820585042330_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601767979_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601767979_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601787179_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1752669502_3677980820601787179_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736984145907325_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736984145907325_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736985597170804_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736985597170804_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736985966264975_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736985966264975_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736986276647421_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736986276647421_27865208615.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736991066508943_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1770045403_3823736991066508943_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261732344716552_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261732344716552_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261732873177191_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261732873177191_27865208615.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261742033546151_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261742033546151_27865208615.jpg --> | [ ] | [x] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261750640220912_27865208615.jpg)<br><!-- image:../../assets/designers/annah.design/instagram/annah.design_1774875932_3864261750640220912_27865208615.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Anna-Maija Houtsonen is a Finnish botanical artist and surface pattern designer operating as Anna H Design. With nearly 100,000 Instagram followers and an established licensed wallpaper practice, she is among the more prominent independent pattern designers active in the international licensing market. Her work is shaped by art history, botanical tradition, and Finland's four seasons.
+
 ## Style and Aesthetic
+
+Selected pattern images suggest intricate, densely layered botanical compositions — refined, ornamental, and rooted in art historical and botanical illustration traditions. Palette tends toward earthy, natural tones shaped by Finnish seasonal shifts, with travel-sourced colour accents. The work reads as timeless and premium rather than trend-driven.
 
 ## Techniques and Tools
 
+Background in art history, design, and ceramics. References ornamental and historical pattern traditions in her work. Has published "Blooms and Little Garden Friends" — a coloring book of 30 original hand-drawn illustrations — confirming a drawing-led practice.
+
 ## Markets and Clients
+
+Primary market: wallpaper licensing. Also designs for textiles and home products. Open for licensing and collaborations. Has published a consumer-facing coloring book ("Blooms and Little Garden Friends"), available separately. No specific licensing clients documented in available sources, though the Instagram bio identifies her explicitly as a "licensed wallpaper pattern designer."
 
 ## Portfolio and Presence
 
+- Website: https://annahdesign.com
+- Instagram: @annah.design (99,951 followers, 280 posts)
+
 ## Career Path
+
+Studied art history, design, and ceramics. Founded Anna H Design as a studio specialising in elegant, timeless patterns for wallpapers, textiles, and home products. Built one of the larger independent Instagram presences in Finnish surface pattern design, with nearly 100k followers. Published "Blooms and Little Garden Friends" coloring book (available through her website and retail).
 
 ## Pattern Focus
 
+Selected patterns confirm a strong botanical orientation — intricate, richly layered compositions drawing from botanical illustration traditions and art historical ornament. Work is well-suited to premium wallpaper, high-quality print textiles, and home products. The pattern vocabulary is consistently botanical, refined, and detail-forward.
+
 ## Connections
+
+- [[Finland]]
+- [[Botanical]] motif type
+- [[Wallpaper]] market
+- [[Licensing]]
+- [[Art History]] influence

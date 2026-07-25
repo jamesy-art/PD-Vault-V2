@@ -22,7 +22,7 @@ bio: ''
 website: 'https://spoonflower.com/profiles/mysooni'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mysooni_designer
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'mysooni''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by mysooni for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -247,7 +250,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -264,45 +267,237 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/447753084_835157395311765_3865104431910463566_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEDcxSK6oJdetgM7IiXkK7bG17BcXikZ7CbwCmqhp4-K-UhAwEqNKAn5qqaKROIeiI&_nc_ohc=yFmc2JWPRdMQ7kNvwHYIcVh&_nc_gid=yDJZ8ipk1v0eHY_GFQAmDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af68FpibR_tT8JwNjquAViHNQYH0e8Z6461-kRSY9_Im4Q&oe=6A13D387&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/447753084_835157395311765_3865104431910463566_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEDcxSK6oJdetgM7IiXkK7bG17BcXikZ7CbwCmqhp4-K-UhAwEqNKAn5qqaKROIeiI&_nc_ohc=yFmc2JWPRdMQ7kNvwHYIcVh&_nc_gid=yDJZ8ipk1v0eHY_GFQAmDw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af68FpibR_tT8JwNjquAViHNQYH0e8Z6461-kRSY9_Im4Q&oe=6A13D387&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mysooni_designer/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4296
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mysooni_designer/profile/447753084_835157395311765_3865104431910463566_n.jpg
+instagram_profile_image_bytes: 73533
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mysooni_designer/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mysooni_designer/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mysooni_designer/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mysooni_designer/profile/447753084_835157395311765_3865104431910463566_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mysooni_designer/profile/447753084_835157395311765_3865104431910463566_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mysooni_designer/profile/447753084_835157395311765_3865104431910463566_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mysooni_designer/profile/447753084_835157395311765_3865104431910463566_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393648944622_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393699231279_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753348021389_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753356527809_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753524322787_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753532537588_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753557692233_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753566027527_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1735317045_3532417858072652145_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076702872801_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076719662326_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135332675176_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135601071420_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348642775_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348662139_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170365392105_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170650617252_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170650623830_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726760068_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726761207_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664735153591_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1768853979_3813746057646367310_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998106068197505_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998123533247183_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998125403936072_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998130101567405_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998131066238581_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998131863176251_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443138974071007_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443142254051470_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443143671709324_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555322619622137_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555367465096110_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555373530044413_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555380635202668_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555388847637960_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555395298485206_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657334727044743_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657363684478935_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657397951942428_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657418252379738_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859922914598841893_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859922924010864056_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859923741916881597_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184919984628962_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184924690661943_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184924992648364_40037672738.jpg
+instagram_image_count: 47
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393648944622_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753356527809_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753566027527_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076719662326_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135601071420_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348662139_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726760068_40037672738.jpg
+  - >-
+    ../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998106068197505_40037672738.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # mysooni_designer
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mysooni_designer/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mysooni_designer/profile/447753084_835157395311765_3865104431910463566_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393648944622_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393648944622_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393699231279_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1713776467_3351722393699231279_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753348021389_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753348021389_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753356527809_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753356527809_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753524322787_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753524322787_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753532537588_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753532537588_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753557692233_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753557692233_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753566027527_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1714662711_3359156753566027527_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1735317045_3532417858072652145_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1735317045_3532417858072652145_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076702872801_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076702872801_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076719662326_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757093747_3715094076719662326_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135332675176_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135332675176_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135601071420_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1757331219_3717086135601071420_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348642775_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348642775_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348662139_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170348662139_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170365392105_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170365392105_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170650617252_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170650617252_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170650623830_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1766539306_3794329170650623830_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726760068_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726760068_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726761207_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664726761207_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664735153591_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1767328411_3800948664735153591_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1768853979_3813746057646367310_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1768853979_3813746057646367310_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998106068197505_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998106068197505_40037672738.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998123533247183_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998123533247183_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998125403936072_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998125403936072_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998130101567405_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998130101567405_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998131066238581_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998131066238581_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998131863176251_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1769241740_3816998131863176251_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443138974071007_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443138974071007_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443142254051470_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443142254051470_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443143671709324_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1770486809_3827443143671709324_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555322619622137_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555322619622137_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555367465096110_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555367465096110_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555373530044413_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555373530044413_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555380635202668_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555380635202668_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555388847637960_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555388847637960_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555395298485206_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773599676_3853555395298485206_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657334727044743_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657334727044743_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657363684478935_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657363684478935_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657397951942428_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657397951942428_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657418252379738_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1773850263_3855657418252379738_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859922914598841893_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859922914598841893_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859922924010864056_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859922924010864056_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859923741916881597_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1774358834_3859923741916881597_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184919984628962_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184919984628962_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184924690661943_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184924690661943_40037672738.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184924992648364_40037672738.jpg)<br><!-- image:../../assets/designers/mysooni_designer/instagram/mysooni_designer_1775701231_3871184924992648364_40037672738.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Misoon Obied is a Riyadh-based interior designer and surface pattern artist operating as Mysooni. She maintains an extensive catalog on Spoonflower, with over 1,100 fabric designs and nearly 1,100 wallpaper designs across 28 thematic collections. Her practice spans nature-inspired florals, coastal and Mediterranean themes, retro vase compositions, woodland character scenes, and festive holiday collections. Designs are available for custom resizing, recolouring, and licensing on request.
+
 ## Style and Aesthetic
+
+Eclectic and nature-inspired — the catalog spans maximalist garden florals, coastal and nautical motifs, Mediterranean tile patterns, Moroccan geometric designs, surrealist jungle compositions, retro art nouveau botanicals, and woodland character scenes. Selected Instagram images suggest richly detailed all-over repeat work with confident colour relationships and varied thematic range, from moody midnight palettes to bright sunwashed tones. Interior design background informs application-aware design decisions at scale and colorway level.
 
 ## Techniques and Tools
 
+Surface pattern work produced for Spoonflower's on-demand fabric and wallpaper platform. Prolific output (1,100+ designs) indicates a systematic, volume-oriented design practice. Open to custom resizing, recolouring, and licensing inquiries via email.
+
 ## Markets and Clients
+
+Primary distribution through Spoonflower (fabric, wallpaper, home decor products). Best-sellers include Craft Maximalist Garden, Midnight Wildflower, Mediterranean Tomato, Sunwashed Boho Coast, and Vintage Delft Tiles. No additional brand licensing documented beyond the Spoonflower platform. Open to custom licensing and commission work via email contact.
 
 ## Portfolio and Presence
 
+- Spoonflower: https://spoonflower.com/profiles/mysooni
+- Instagram: https://instagram.com/mysooni_designer
+
 ## Career Path
+
+Interior designer by background, with surface pattern practice developed alongside or from that professional foundation. Based in Riyadh, Saudi Arabia. Has built a substantial Spoonflower catalog organised into 28 thematic collections, featured in 34 collections.
 
 ## Pattern Focus
 
+Selected images suggest richly detailed all-over surface patterns — floral, botanical, and decorative motifs consistent with collection naming (Craft Maximalist Garden, Midnight Wildflower, Vintage Plum Petal Blooms). Broad stylistic range across a prolific catalog: maximalist botanicals, retro vases, surrealist jungle compositions, and Mediterranean tile references.
+
 ## Connections
+
+- [[Spoonflower]] — primary sales and distribution platform
+- [[Home Decor Market]] — core market
+- [[Botanical Pattern]] — key motif category

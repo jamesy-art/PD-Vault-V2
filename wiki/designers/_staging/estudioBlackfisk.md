@@ -21,7 +21,7 @@ bio: ''
 website: 'https://vaneguarino.myportfolio.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/estudioblackfisk
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Vane Guarino
 website_meta_description: 'Diseñadora gráfica, creador de contenido digital, ilustrador.'
 website_about_raw: >-
@@ -183,7 +186,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Hi, I'm Vane Guarino!
 
@@ -307,45 +310,104 @@ instagram_profile_pic_url: >-
   https://instagram.flas1-2.fna.fbcdn.net/v/t51.2885-19/480560877_629285419834327_8165045868770961585_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODQuYzIifQ&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gGlLjvJTS01ZyU7TH1A0idCrsrYkJBbohqcw3dCnZlvChujungAzfFJlQKQ6_lBLmU&_nc_ohc=wdoG0ahPIeAQ7kNvwFWh5X1&_nc_gid=3sGz_udoPzfUeLmxGbDx2Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7zas9J_-CZl1qFHpfluzu0EeQ_4SruwTU8AjWM3Bel_A&oe=6A13F4AE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.flas1-2.fna.fbcdn.net/v/t51.2885-19/480560877_629285419834327_8165045868770961585_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zODQuYzIifQ&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gGlLjvJTS01ZyU7TH1A0idCrsrYkJBbohqcw3dCnZlvChujungAzfFJlQKQ6_lBLmU&_nc_ohc=wdoG0ahPIeAQ7kNvwFWh5X1&_nc_gid=3sGz_udoPzfUeLmxGbDx2Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7zas9J_-CZl1qFHpfluzu0EeQ_4SruwTU8AjWM3Bel_A&oe=6A13F4AE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/estudioblackfisk/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4822
+instagram_profile_image_local: >-
+  ../../assets/designers/estudioblackfisk/profile/480560877_629285419834327_8165045868770961585_n.jpg
+instagram_profile_image_bytes: 20435
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/estudioblackfisk/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/estudioblackfisk/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/estudioblackfisk/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/estudioblackfisk/profile/480560877_629285419834327_8165045868770961585_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/estudioblackfisk/profile/480560877_629285419834327_8165045868770961585_n.jpg
+profile_image_local: >-
+  ../../assets/designers/estudioblackfisk/profile/480560877_629285419834327_8165045868770961585_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/estudioblackfisk/profile/480560877_629285419834327_8165045868770961585_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_31_491426107_1330365891408579_7497073582120026428_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_43_642095901_1310986204185751_2805047605034986424_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_48_497144100_1118253723677487_6032746086599648893_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_52_640398823_1999382124121984_171320129435542259_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_56_640395414_1468815561510387_6744092979344120343_n.jpeg
+instagram_image_count: 5
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_31_491426107_1330365891408579_7497073582120026428_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_43_642095901_1310986204185751_2805047605034986424_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_52_640398823_1999382124121984_171320129435542259_n.jpeg
+  - >-
+    ../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_56_640395414_1468815561510387_6744092979344120343_n.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # estudioblackfisk
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/estudioblackfisk/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/estudioblackfisk/profile/480560877_629285419834327_8165045868770961585_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_31_491426107_1330365891408579_7497073582120026428_n.jpeg)<br><!-- image:../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_31_491426107_1330365891408579_7497073582120026428_n.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_43_642095901_1310986204185751_2805047605034986424_n.jpeg)<br><!-- image:../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_43_642095901_1310986204185751_2805047605034986424_n.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_48_497144100_1118253723677487_6032746086599648893_n.jpeg)<br><!-- image:../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_48_497144100_1118253723677487_6032746086599648893_n.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_52_640398823_1999382124121984_171320129435542259_n.jpeg)<br><!-- image:../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_52_640398823_1999382124121984_171320129435542259_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_56_640395414_1468815561510387_6744092979344120343_n.jpeg)<br><!-- image:../../assets/designers/estudioblackfisk/instagram/estudioblackfisk_imageye___-_imgi_56_640395414_1468815561510387_6744092979344120343_n.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Vanesa Guarino is a Buenos Aires-trained graphic designer and illustrator now based in Ciutadella de Menorca, Balearic Islands, Spain. She founded Estudio Blackfisk in 2019 as a studio merging illustration, branding, and textile design. She is an Official Canva Creator (2021–present), producing design templates and downloadable business content. Her practice spans watercolour illustration, brand identity, and decorative surface design.
+
 ## Style and Aesthetic
+
+Selected Instagram images (4 approved patterns) suggest warm, illustrative surface patterns with a hand-crafted quality consistent with her dual background in branding and watercolour illustration. Her work reflects personal creative influences drawn from living and working across Argentina, Italy, and Spain, resulting in designs with personality and visual warmth.
 
 ## Techniques and Tools
 
+Works in watercolour illustration and digital design. Graduate of FADU | UBA (Faculty of Architecture, Design, and Urbanism, University of Buenos Aires). Prior commercial roles included campaign design, photo retouching, social media graphics, and textile pattern creation. Canva Creator work indicates strong digital template production capability.
+
 ## Markets and Clients
+
+Previous in-house experience includes Musimundo (retail advertising), Arredo Online Store (home furnishings), and Fravega SA (consumer electronics retail) in Argentina. A documented collaboration with Fundació Menorca — Lligal produced an illustrated collection. Estudio Blackfisk maintains a small product shop featuring hand-drawn illustrated items. Canva Creator work targets business design consumers.
 
 ## Portfolio and Presence
 
+- Portfolio: https://vaneguarino.myportfolio.com
+- Instagram: @estudioBlackfisk (1,204 followers, 691 posts)
+
 ## Career Path
+
+Began career in Argentina with in-house graphic design roles from 2009 (Fravega, Arredo, Musimundo). Transitioned to independent practice and founded Estudio Blackfisk in 2019 after living and working in Italy and Spain. Now based in Menorca. Canva Official Creator since 2021.
 
 ## Pattern Focus
 
+Four selected Instagram images confirm surface pattern and illustrative design work. The pattern practice extends naturally from her illustration and branding background, with a decorative aesthetic suited to textile and paper applications.
+
 ## Connections
+
+- [[Canva]]
+- [[Watercolour Illustration]]
+- [[Surface Pattern Design]]
+- [[Branding]]

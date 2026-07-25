@@ -20,7 +20,7 @@ bio: ''
 website: 'https://cargocollective.com/anulee'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/susannahleecutler
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Susannah Lee Cutler
 website_meta_description: ''
 website_about_raw: >-
@@ -230,7 +233,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   SUSANNAH LEE CUTLER
 
@@ -657,45 +660,145 @@ instagram_profile_pic_url: >-
   https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/241802656_242297637858198_845250691299382051_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTUuYzIifQ&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFO5eKvV5PhSmjQTP6tNLyXSIHGATOuiAJ0TspsWhmnnob7qXkMsyZipfwyPW1IAkw&_nc_ohc=lqqyIcMtH_0Q7kNvwG0-g96&_nc_gid=IaqatZq_R49bXZ2oYQfhqA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gO1tDkbFISfZth9xT_e85Vy4K7-gTEorIkh1OepN8lA&oe=6A13E4B9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/241802656_242297637858198_845250691299382051_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MTUuYzIifQ&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2gFO5eKvV5PhSmjQTP6tNLyXSIHGATOuiAJ0TspsWhmnnob7qXkMsyZipfwyPW1IAkw&_nc_ohc=lqqyIcMtH_0Q7kNvwG0-g96&_nc_gid=IaqatZq_R49bXZ2oYQfhqA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gO1tDkbFISfZth9xT_e85Vy4K7-gTEorIkh1OepN8lA&oe=6A13E4B9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2622
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/susannahleecutler/profile/241802656_242297637858198_845250691299382051_n.jpg
+instagram_profile_image_bytes: 77677
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/susannahleecutler/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/susannahleecutler/profile/241802656_242297637858198_845250691299382051_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/susannahleecutler/profile/241802656_242297637858198_845250691299382051_n.jpg
+profile_image_local: >-
+  ../../assets/designers/susannahleecutler/profile/241802656_242297637858198_845250691299382051_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/susannahleecutler/profile/241802656_242297637858198_845250691299382051_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_1639076173_2725090910199508178_4065395108.jpg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_1690035988_3152572824782885779_4065395108.jpg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_14_prt_275x276_1563896642_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_15_prt_275x275_1512346245_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_1_prt_275x367_1750090029_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_21_prt_275x324_1512512151_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_23_prt_275x361_1525100355_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_2_prt_275x277_1540653005_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_31_prt_275x439_1512399590_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_32_prt_275x324_1512512230_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_3_prt_275x275_1512346758_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_4_prt_275x345_1512749567_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_9_prt_275x311_1512344769_2x.jpeg
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_1639076173_2725090910199508178_4065395108.jpg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_15_prt_275x275_1512346245_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_21_prt_275x324_1512512151_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_2_prt_275x277_1540653005_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_31_prt_275x439_1512399590_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_3_prt_275x275_1512346758_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_4_prt_275x345_1512749567_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_9_prt_275x311_1512344769_2x.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_1690035988_3152572824782885779_4065395108.jpg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_1_prt_275x367_1750090029_2x.jpeg
+  - >-
+    ../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_23_prt_275x361_1525100355_2x.jpeg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # susannahleecutler
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/susannahleecutler/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/susannahleecutler/profile/241802656_242297637858198_845250691299382051_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_1639076173_2725090910199508178_4065395108.jpg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_1639076173_2725090910199508178_4065395108.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_1690035988_3152572824782885779_4065395108.jpg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_1690035988_3152572824782885779_4065395108.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_14_prt_275x276_1563896642_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_14_prt_275x276_1563896642_2x.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_15_prt_275x275_1512346245_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_15_prt_275x275_1512346245_2x.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_1_prt_275x367_1750090029_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_1_prt_275x367_1750090029_2x.jpeg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_21_prt_275x324_1512512151_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_21_prt_275x324_1512512151_2x.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_23_prt_275x361_1525100355_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_23_prt_275x361_1525100355_2x.jpeg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_2_prt_275x277_1540653005_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_2_prt_275x277_1540653005_2x.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_31_prt_275x439_1512399590_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_31_prt_275x439_1512399590_2x.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_32_prt_275x324_1512512230_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_32_prt_275x324_1512512230_2x.jpeg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_3_prt_275x275_1512346758_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_3_prt_275x275_1512346758_2x.jpeg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_4_prt_275x345_1512749567_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_4_prt_275x345_1512749567_2x.jpeg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_9_prt_275x311_1512344769_2x.jpeg)<br><!-- image:../../assets/designers/susannahleecutler/instagram/susannahleecutler_imageye___-_imgi_9_prt_275x311_1512344769_2x.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Susannah Lee Cutler is a New York-based textile designer, painter, and musician working across hand-painted motifs, surface pattern, and garment construction. She holds a BFA in Textile/Surface Design from the Fashion Institute of Technology (Dean's List, GPA 3.91) and has worked with studios and clients ranging from The Rug Company to luxury wallpaper label Voutsa.
+
 ## Style and Aesthetic
+
+Cutler's textile work draws from the natural world — flowers, animals, and human figures rendered in watercolour with muted, considered palettes. Selected pattern images suggest loose botanical compositions, figurative motifs overlaid on geometric grids, and work with a handmade painterly quality. Her aesthetic is craft-rooted rather than production-led.
 
 ## Techniques and Tools
 
+Cutler works in watercolour, embroidery, weaving, and sewing alongside Adobe Illustrator, Photoshop, Wacom, Kaledo Knit, and Pointcarré. She is skilled at both the handcraft end — embroidery, hand-painted motifs — and the technical side of textile production, including tech-packs for factory use.
+
 ## Markets and Clients
+
+Documented client and employer relationships include The Rug Company (bespoke luxury rugs, 2018 internship), Voutsa (hand-painted motifs for luxury wallpaper, repeat pattern production, 2019–2020), Azzure Home (baby blankets, picture frames, product photography, tech-packs, 2018–2019), and Tweefontein Herb Farm (label design, hand-painted signage, 2022–present). Her DIY dressmaking line received press in Vogue (October 2018) and was stocked by Café Forgot, Brooklyn. Selected placement images suggest garment and wearable application contexts.
 
 ## Portfolio and Presence
 
+- Website: cargocollective.com/anulee
+- Instagram: @susannahleecutler (140 followers)
+
 ## Career Path
+
+Cutler studied fiber arts at Maryland Institute College of Art before transferring to FIT, where she completed a BFA in Textile/Surface Design. Her thesis collection — watercolour-painted dresses with floral and figurative motifs — was shown publicly and led to a Vogue feature and a consignment arrangement with Café Forgot. She has since worked across wallpaper, rug design, home decor, and herbal product branding, while continuing to perform and record as folk musician Yours Are the Only Ears.
 
 ## Pattern Focus
 
+Selected patterns suggest botanical florals painted in watercolour, figurative motifs in muted colour ranges, and textile-scale repeat work. Her approach prioritises handmade character over digital precision. No repeat pattern structures are confirmed from available evidence.
+
 ## Connections
+
+- [[The Rug Company]]
+- [[Voutsa]]
+- [[Surface Pattern Design]]
+- [[Watercolour]]
+- [[Textile Design]]
+- [[Fashion Institute of Technology]]
+- [[Home Decor]]

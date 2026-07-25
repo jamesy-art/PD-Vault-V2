@@ -26,7 +26,7 @@ bio: ''
 website: 'https://Uta-k.de'
 website_about: ''
 accepted: 08/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mira_paradies
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home - uta K.
 website_meta_description: ''
 website_about_raw: >-
@@ -180,7 +183,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -199,45 +202,148 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/471307974_1692030574988844_6709218790155841456_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG3QsLciXAuK0pmkA4nrJbAL2p4JuD6D1R0ztwYW2nDDnusx9o2ChEhztLhkSutP-c&_nc_ohc=pjLTeyAEcqUQ7kNvwFoESOV&_nc_gid=nh8ONSygQaJlPgHwMl12qw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6TS2i9U6oDEvGHbUs8IlLrvDA5Gz-GfBEz4jPZ5IlvIQ&oe=6A13D2F2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/471307974_1692030574988844_6709218790155841456_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG3QsLciXAuK0pmkA4nrJbAL2p4JuD6D1R0ztwYW2nDDnusx9o2ChEhztLhkSutP-c&_nc_ohc=pjLTeyAEcqUQ7kNvwFoESOV&_nc_gid=nh8ONSygQaJlPgHwMl12qw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6TS2i9U6oDEvGHbUs8IlLrvDA5Gz-GfBEz4jPZ5IlvIQ&oe=6A13D2F2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mira_paradies/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5998
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mira_paradies/profile/471307974_1692030574988844_6709218790155841456_n.jpg
+instagram_profile_image_bytes: 30661
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mira_paradies/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mira_paradies/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mira_paradies/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mira_paradies/profile/471307974_1692030574988844_6709218790155841456_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mira_paradies/profile/471307974_1692030574988844_6709218790155841456_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mira_paradies/profile/471307974_1692030574988844_6709218790155841456_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mira_paradies/profile/471307974_1692030574988844_6709218790155841456_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1750267060_3657827679004688826_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1751391265_3667258195118383219_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1751903231_3671552878174678309_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1756313706_3708550621772671203_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1758733690_3728850915009813042_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1762195183_3757888029105622360_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1765197479_3783073106354152400_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1766140947_3790987496646654688_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1767444372_3801921417643190783_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1770913712_3831021456473984726_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1775668033_3870904434075109123_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1779472034_3902814225397115493_71401252699.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1750267060_3657827679004688826_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1751391265_3667258195118383219_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1751903231_3671552878174678309_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1756313706_3708550621772671203_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1765197479_3783073106354152400_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1767444372_3801921417643190783_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1770913712_3831021456473984726_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1775668033_3870904434075109123_71401252699.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1758733690_3728850915009813042_71401252699.jpg
+  - >-
+    ../../assets/designers/mira_paradies/instagram/mira_paradies_1779472034_3902814225397115493_71401252699.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mira_paradies
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mira_paradies/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mira_paradies/profile/471307974_1692030574988844_6709218790155841456_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1750267060_3657827679004688826_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1750267060_3657827679004688826_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1751391265_3667258195118383219_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1751391265_3667258195118383219_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1751903231_3671552878174678309_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1751903231_3671552878174678309_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1756313706_3708550621772671203_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1756313706_3708550621772671203_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1758733690_3728850915009813042_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1758733690_3728850915009813042_71401252699.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1762195183_3757888029105622360_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1762195183_3757888029105622360_71401252699.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1765197479_3783073106354152400_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1765197479_3783073106354152400_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1766140947_3790987496646654688_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1766140947_3790987496646654688_71401252699.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1767444372_3801921417643190783_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1767444372_3801921417643190783_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1770913712_3831021456473984726_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1770913712_3831021456473984726_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1775668033_3870904434075109123_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1775668033_3870904434075109123_71401252699.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mira_paradies/instagram/mira_paradies_1779472034_3902814225397115493_71401252699.jpg)<br><!-- image:../../assets/designers/mira_paradies/instagram/mira_paradies_1779472034_3902814225397115493_71401252699.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Uta Krogmann is a German illustrator and surface pattern designer working as Mira Paradies. Her practice spans jigsaw puzzles, fabric collections, wallpaper, and illustrated books, with a documented licensing roster across the puzzle, POD, and publishing industries. She describes herself as a designer of "colourful and playful things" — lettering, books, patterns, detailed sceneries, people, portraits, and editorials.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest colourful, layered, scene-based illustration with a warm and whimsical quality. Pattern subjects include florals, botanicals, cats, frogs, sea life, fungi, and densely illustrated interiors and market scenes. Her aesthetic is dreamy, magical, and detail-rich — equally suited to puzzle art and licensed surface pattern.
 
 ## Techniques and Tools
 
+Illustration, hand lettering, graphic design, colour theory, and pattern design. Her work spans repeating surface patterns and detailed scenic compositions adapted for puzzle, fabric, and wall art formats.
+
 ## Markets and Clients
+
+Named clients and documented licensed products:
+
+- **eeBoo** (USA): multiple jigsaw puzzles including *Cozy Living*, *Love of Sharks*, *Marketplace in France*, *Venice Open Market*, *Swedish Kitchen*, *Charcuterie*, *Miami*, *Small World*, *Giant Clock* (25pc), and others
+- **pieces&peace**: puzzles including *Greenhouse Fountains*, *Salle de Musique avec Vue*, *Magic Moonlight Reading Room*, *Paisley Dreams*
+- **RoseArt**: *Colorful Water and Sealife Memory Tiles* puzzle
+- **Paintbrush Studios (PBS)**: *City Life* fabric collection
+- **Happywall**: wallpapers including *Magical Little Forest World*, *Winged Jungle Fantasy*, *Lotus Flower Chakra Damask*, *Once Upon a Time in Wonderland*
+- **Running Press**: illustrated books (*Junior Astrologer's Handbook*, *Junior Witch's Handbook*)
 
 ## Portfolio and Presence
 
+- Website: uta-k.de
+- Instagram: @Mira_paradies (1,184 followers; current account, original hacked)
+- Spoonflower: documented shop
+
 ## Career Path
+
+Based in Germany with a long-standing practice spanning multiple client sectors. The current Instagram account (@Mira_paradies) is a replacement following a hacked original. Her client base spans US puzzle publishers, European wallpaper platforms, fabric print-on-demand, and children's book publishers.
 
 ## Pattern Focus
 
+Selected images suggest repeating florals, botanical abundance, and characterful animal-based patterns. Client work spans large-format printed products (puzzles, wallpaper) and bolt fabric — requiring both seamless repeat and scenic/placement illustration skills.
+
 ## Connections
+
+- [[eeBoo]] — major puzzle client; multiple documented collaborations
+- [[Paintbrush Studios]] — fabric collection licensing
+- [[Happywall]] — wallpaper licensing
+- [[Running Press]] — illustrated books
+- [[Spoonflower]] — POD platform
+- [[Wallpaper]] — licensed design market
+- [[Fabric Design]] — bolt fabric via PBS

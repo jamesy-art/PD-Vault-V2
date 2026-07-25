@@ -30,7 +30,7 @@ bio: ''
 website: 'https://amreace.uk'
 website_about: ''
 accepted: 11/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/amreacedesign
 profile_url: ''
 instagram_images:
@@ -47,9 +47,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: amreace ☆ | Explore Unique Designs Today
 website_meta_description: >-
   Freelance hand and digital print designer showcasing textiles and graphic
@@ -299,7 +302,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -319,45 +322,146 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/616634855_18446387596102078_1560110745781861395_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFv4A1N2r6nqD3wKj87ycvdyXp9J4jWAfAEyma33A8lVV0weV7Rwo-WFsYAroZMMwI&_nc_ohc=EYhZ3_82UrgQ7kNvwFTd6GK&_nc_gid=3Iu9stAipYTlly-_L3iJRw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56nv8hSaYQ2XhtApGJQxQR_-nWhWJVu_372_d9CIAC9A&oe=6A13EB77&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/616634855_18446387596102078_1560110745781861395_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFv4A1N2r6nqD3wKj87ycvdyXp9J4jWAfAEyma33A8lVV0weV7Rwo-WFsYAroZMMwI&_nc_ohc=EYhZ3_82UrgQ7kNvwFTd6GK&_nc_gid=3Iu9stAipYTlly-_L3iJRw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56nv8hSaYQ2XhtApGJQxQR_-nWhWJVu_372_d9CIAC9A&oe=6A13EB77&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/amreacedesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5792
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/amreacedesign/profile/616634855_18446387596102078_1560110745781861395_n.jpg
+instagram_profile_image_bytes: 183503
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/amreacedesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/amreacedesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/amreacedesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/amreacedesign/profile/616634855_18446387596102078_1560110745781861395_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/amreacedesign/profile/616634855_18446387596102078_1560110745781861395_n.jpg
+profile_image_local: >-
+  ../../assets/designers/amreacedesign/profile/616634855_18446387596102078_1560110745781861395_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/amreacedesign/profile/616634855_18446387596102078_1560110745781861395_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1760965954_3747576503195202954_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742109403330_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742176491613_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1763748000_3770914353839876383_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1765623600_3785451118730724002_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769536800_3819474231562623558_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769709600_3820924004492685417_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059579874_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059585566_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1770055200_3823823012215171284_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1771873207_3839071433985393070_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830349379738_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830835942086_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1774116061_3857887469820392863_3087870077.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1760965954_3747576503195202954_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1765623600_3785451118730724002_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769536800_3819474231562623558_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059579874_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1770055200_3823823012215171284_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1771873207_3839071433985393070_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830349379738_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1774116061_3857887469820392863_3087870077.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742109403330_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1763748000_3770914353839876383_3087870077.jpg
+  - >-
+    ../../assets/designers/amreacedesign/instagram/amreacedesign_1769709600_3820924004492685417_3087870077.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # amreacedesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/amreacedesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/amreacedesign/profile/616634855_18446387596102078_1560110745781861395_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1760965954_3747576503195202954_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1760965954_3747576503195202954_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742109403330_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742109403330_3087870077.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742176491613_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1761327544_3750609742176491613_3087870077.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1763748000_3770914353839876383_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1763748000_3770914353839876383_3087870077.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1765623600_3785451118730724002_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1765623600_3785451118730724002_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1769536800_3819474231562623558_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1769536800_3819474231562623558_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1769709600_3820924004492685417_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1769709600_3820924004492685417_3087870077.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059579874_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059579874_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059585566_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1769882400_3820931198059585566_3087870077.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1770055200_3823823012215171284_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1770055200_3823823012215171284_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1771873207_3839071433985393070_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1771873207_3839071433985393070_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830349379738_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830349379738_3087870077.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830835942086_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1772474487_3844116830835942086_3087870077.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/amreacedesign/instagram/amreacedesign_1774116061_3857887469820392863_3087870077.jpg)<br><!-- image:../../assets/designers/amreacedesign/instagram/amreacedesign_1774116061_3857887469820392863_3087870077.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+UK-based freelance print designer with over five years of experience in textile and graphic design. Amreace Paige creates expressive surface patterns for fashion and textiles, combining analogue mark-making with digital print production. Available for custom commissions, exclusive and non-exclusive licensing, and broader creative projects including murals and illustration.
+
 ## Style and Aesthetic
+
+Expressive, illustration-led print work with varied colour palettes. Process-driven aesthetic that blends organic analogue texture — ink, gouache, watercolour — with clean digital repeat construction. Selected Instagram patterns suggest bold, distinctive motifs with a hand-crafted quality.
 
 ## Techniques and Tools
 
+Process begins with hand drawing using ink, gouache, and watercolour, developed into digital prints. Delivers production-ready files for fashion, textiles, interiors, and digital platforms. Also undertakes murals and large-scale illustration alongside print commissions.
+
 ## Markets and Clients
+
+Fashion, textiles, interiors, and digital platforms. Works with brands and studios seeking custom print commissions or pre-made design licensing. Selected placement images suggest textile and surface applications.
 
 ## Portfolio and Presence
 
+- Website: amreace.uk
+- Instagram: @amreacedesign (725 followers, 199 posts)
+
 ## Career Path
+
+BA in Textile Design from Leeds Arts University; MA in Visual Communication from Solent University. Five years of professional practice across textiles, graphics, and illustration, including work with a leading print design studio. Work cited in Vogue and Harper's Bazaar (unverified).
 
 ## Pattern Focus
 
+Expressive repeat prints for fashion and textiles. Selected Instagram patterns suggest varied motifs with bold graphic treatment across a range of colour approaches. Offers both bespoke custom design from brief and licensing of existing collections on exclusive or non-exclusive terms.
+
 ## Connections
+
+- [[United Kingdom]] — based
+- [[Surface Pattern Design]] — core discipline
+- [[Womenswear]] — primary fashion market
+- [[Home Decor]] — secondary market
+- [[Licensing]] — both exclusive and non-exclusive offered

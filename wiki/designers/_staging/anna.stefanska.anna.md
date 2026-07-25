@@ -22,7 +22,7 @@ bio: ''
 website: 'https://annastefanska.com/work'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/anna.stefanska.anna
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Anna Stefańska
 website_meta_description: ''
 website_about_raw: >-
@@ -177,7 +180,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -196,45 +199,199 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/24327172_375640109565059_4340890769956012032_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHDEr9YkF5HKiKccm2H_Z-PxkPEp2RdZRQ5_U2ZEmtIQMcFdQYR1KHetQCLnVHHgXLDdewtREGMwtHd4aY8MVd6&_nc_ohc=wQJM45HpzVcQ7kNvwEiwxb3&_nc_gid=WL55IMloHfIqKQ2pt3HO2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6k7M0tqcrlf9i3N51VAoVecQgOBzeQyAVskAdKqtPoCQ&oe=6A14038D&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/24327172_375640109565059_4340890769956012032_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHDEr9YkF5HKiKccm2H_Z-PxkPEp2RdZRQ5_U2ZEmtIQMcFdQYR1KHetQCLnVHHgXLDdewtREGMwtHd4aY8MVd6&_nc_ohc=wQJM45HpzVcQ7kNvwEiwxb3&_nc_gid=WL55IMloHfIqKQ2pt3HO2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6k7M0tqcrlf9i3N51VAoVecQgOBzeQyAVskAdKqtPoCQ&oe=6A14038D&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/anna.stefanska.anna/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2860
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/anna.stefanska.anna/profile/24327172_375640109565059_4340890769956012032_n.jpg
+instagram_profile_image_bytes: 71692
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/anna.stefanska.anna/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/anna.stefanska.anna/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/anna.stefanska.anna/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/anna.stefanska.anna/profile/24327172_375640109565059_4340890769956012032_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/anna.stefanska.anna/profile/24327172_375640109565059_4340890769956012032_n.jpg
+profile_image_local: >-
+  ../../assets/designers/anna.stefanska.anna/profile/24327172_375640109565059_4340890769956012032_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/anna.stefanska.anna/profile/24327172_375640109565059_4340890769956012032_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1691784861_3167243439349755204_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085071260358_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085079557843_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449013260010_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449373900881_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512443433_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512447455_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028520981855_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1731689700_3501952186273335333_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1731689700_3501952186273364418_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584352406981_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584369230301_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584469798530_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1734023400_3521519104957256620_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1734023400_3521519105024390152_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1740077842_3572354322815229539_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411682826206_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691197343_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691263805_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691374586_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691404727_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411716446592_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784412035324000_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599522720583_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531097584_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531106737_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599816353267_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599824732510_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599841482835_5587920170.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449013260010_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584369230301_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599522720583_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531097584_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531106737_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599816353267_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599824732510_5587920170.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599841482835_5587920170.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1691784861_3167243439349755204_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085079557843_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512443433_3961106522.jpg
+  - >-
+    ../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1740077842_3572354322815229539_3961106522.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # anna.stefanska.anna
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/anna.stefanska.anna/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/anna.stefanska.anna/profile/24327172_375640109565059_4340890769956012032_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1691784861_3167243439349755204_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1691784861_3167243439349755204_3961106522.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085071260358_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085071260358_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085079557843_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1694279870_3188173085079557843_3961106522.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449013260010_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449013260010_3961106522.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449373900881_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1703243021_3263361449373900881_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512443433_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512443433_3961106522.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512447455_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028512447455_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028520981855_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1712162400_3338134028520981855_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1731689700_3501952186273335333_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1731689700_3501952186273335333_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1731689700_3501952186273364418_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1731689700_3501952186273364418_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584352406981_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584352406981_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584369230301_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584369230301_3961106522.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584469798530_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1732089301_3505341584469798530_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1734023400_3521519104957256620_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1734023400_3521519104957256620_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1734023400_3521519105024390152_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1734023400_3521519105024390152_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1740077842_3572354322815229539_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1740077842_3572354322815229539_3961106522.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411682826206_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411682826206_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691197343_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691197343_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691263805_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691263805_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691374586_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691374586_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691404727_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411691404727_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411716446592_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784411716446592_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784412035324000_3961106522.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1745856600_3620784412035324000_3961106522.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599522720583_5587920170.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599522720583_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531097584_5587920170.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531097584_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531106737_5587920170.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599531106737_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599816353267_5587920170.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599816353267_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599824732510_5587920170.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599824732510_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599841482835_5587920170.jpg)<br><!-- image:../../assets/designers/anna.stefanska.anna/instagram/anna.stefanska.anna_1756117485_3706904599841482835_5587920170.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Anna Stefańska-Gozdecka is a Warsaw-based visual artist and pattern designer with a fine arts background and an active commercial practice. She works across pattern design, printmaking, illustration, graphic arts, and ceramics, describing her practice through the joy of multiplied objects — patterns that end up "on papers, fabrics, and out of moulds straight to our homes." She is a member of the @spotlightkids_art collective and the Mothers Creators artistic group, both based in Poland.
+
 ## Style and Aesthetic
+
+Stefańska-Gozdecka's visual language draws on botanical motifs, seasonal flora, and playful illustrative themes. Her work for the Yellow Meadow brand reflects a nature-forward, autumnal character. Selected Instagram images suggest surface patterns built around florals and natural forms with a hand-rendered quality. She has expressed an interest in natural materials and sustainable application across her practice.
 
 ## Techniques and Tools
 
+Trained in both graphic arts and printmaking, she works across repeat pattern construction, screenprinting, illustration, and graphic design. Completed the PATA International Textile Printing Course in Łódź (2016). Her website organises work into distinct sections: Patterns, Graphic Art, Illustration, Art Books/Zines, and Graphic Design — indicating a versatile, multi-discipline studio practice.
+
 ## Markets and Clients
+
+Known collaborations include:
+- **Petite Amélie Design Lab** — competition distinction (2023), children's lifestyle brand
+- **Yellow Meadow** — repeat pattern prints for an apparel brand (2023)
+- **Pan Tu Nie Stał** — pattern and illustration work for a Polish food/lifestyle brand (calendar, food-themed illustrations)
+- **Żywiec Foundation** — commissioned patterns
+
+Involvement with @spotlightkids_art indicates an ongoing presence in the children's illustration and design space.
 
 ## Portfolio and Presence
 
+- Website: annastefanska.com/work
+- Instagram: @anna.stefanska.anna (1,500+ followers)
+
 ## Career Path
+
+Studied at the Faculty of Graphic Arts, Academy of Fine Arts, Warsaw (2010–2016), with an Erasmus+ exchange at Burg Giebichenstein Kunsthochschule, Halle, Germany (2014). Completed a second degree at the Faculty of Design, Academy of Fine Arts, Warsaw (2018–2020). Rector's scholarship for best students (2013–2016). Exhibited at the International Print Triennial, Kraków (2015) and A Well Design Book for Kids, Katowice (2016). Member of Mothers Creators artistic group since 2023.
 
 ## Pattern Focus
 
+Selected patterns suggest all-over floral and botanical repeat work alongside placement illustration for product contexts. Her Petite Amélie submission was a 30×30cm repeat pattern with fruit and caterpillar motifs, designed for children's applications. Yellow Meadow work shows seasonal pattern collections applied to apparel.
+
 ## Connections
+
+- [[Petite Amélie]] — children's lifestyle brand, design competition
+- [[Yellow Meadow]] — apparel brand collaboration
+- [[Surface Pattern Design]] — primary discipline
+- [[Printmaking]] — foundational technique
+- [[Children's Market]] — key client sector

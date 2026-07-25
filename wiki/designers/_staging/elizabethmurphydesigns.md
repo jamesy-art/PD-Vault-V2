@@ -23,7 +23,7 @@ bio: ''
 website: 'https://lizmurphy.wixsite.com/surfacepatterndesign'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/elizabethmurphydesigns
 profile_url: ''
 instagram_images:
@@ -40,8 +40,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Freelance Surface Designer | Elizabeth Murphy Surface Pattern Design
 website_meta_description: >-
   Fresh and vibrant surface pattern designs for home, fashion, and stationery
@@ -164,7 +167,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -192,31 +195,106 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_152_d3ad09_17411a5bbb8b4239916b66794e01d852~mv2_d_2549_3694_s_4_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_180_d3ad09_c918ce8c329540beb76c8aa7f461eb7f~mv2_d_4650_3771_s_4_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_185_d3ad09_e60327c5d13d4fb78d3493a5180fc6f6~mv2_d_1667_1667_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_186_d3ad09_cecd3f306225456ab20d594d18041f48~mv2_d_1667_1667_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_195_d3ad09_8d4c358e82a14a83bf84b915aecf5198~mv2_d_2083_2083_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_209_d3ad09_380b1aaecf7d47cb873ed2d477c526d1~mv2_d_2088_2088_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_210_d3ad09_b08f517d685c4ebdb465e1d1cab7893c~mv2_d_2088_2088_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_211_d3ad09_3438b811a64c4dff8b72155b4a53d1e2~mv2_d_2083_2083_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_212_d3ad09_c68d649d0b934cb48b549049cc6dd0f6~mv2_d_2083_2083_s_2.jpeg
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_152_d3ad09_17411a5bbb8b4239916b66794e01d852~mv2_d_2549_3694_s_4_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_180_d3ad09_c918ce8c329540beb76c8aa7f461eb7f~mv2_d_4650_3771_s_4_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_185_d3ad09_e60327c5d13d4fb78d3493a5180fc6f6~mv2_d_1667_1667_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_186_d3ad09_cecd3f306225456ab20d594d18041f48~mv2_d_1667_1667_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_195_d3ad09_8d4c358e82a14a83bf84b915aecf5198~mv2_d_2083_2083_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_209_d3ad09_380b1aaecf7d47cb873ed2d477c526d1~mv2_d_2088_2088_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_210_d3ad09_b08f517d685c4ebdb465e1d1cab7893c~mv2_d_2088_2088_s_2.jpeg
+  - >-
+    ../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_211_d3ad09_3438b811a64c4dff8b72155b4a53d1e2~mv2_d_2083_2083_s_2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # elizabethmurphydesigns
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_152_d3ad09_17411a5bbb8b4239916b66794e01d852~mv2_d_2549_3694_s_4_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_152_d3ad09_17411a5bbb8b4239916b66794e01d852~mv2_d_2549_3694_s_4_2.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_180_d3ad09_c918ce8c329540beb76c8aa7f461eb7f~mv2_d_4650_3771_s_4_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_180_d3ad09_c918ce8c329540beb76c8aa7f461eb7f~mv2_d_4650_3771_s_4_2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_185_d3ad09_e60327c5d13d4fb78d3493a5180fc6f6~mv2_d_1667_1667_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_185_d3ad09_e60327c5d13d4fb78d3493a5180fc6f6~mv2_d_1667_1667_s_2.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_186_d3ad09_cecd3f306225456ab20d594d18041f48~mv2_d_1667_1667_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_186_d3ad09_cecd3f306225456ab20d594d18041f48~mv2_d_1667_1667_s_2.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_195_d3ad09_8d4c358e82a14a83bf84b915aecf5198~mv2_d_2083_2083_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_195_d3ad09_8d4c358e82a14a83bf84b915aecf5198~mv2_d_2083_2083_s_2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_209_d3ad09_380b1aaecf7d47cb873ed2d477c526d1~mv2_d_2088_2088_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_209_d3ad09_380b1aaecf7d47cb873ed2d477c526d1~mv2_d_2088_2088_s_2.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_210_d3ad09_b08f517d685c4ebdb465e1d1cab7893c~mv2_d_2088_2088_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_210_d3ad09_b08f517d685c4ebdb465e1d1cab7893c~mv2_d_2088_2088_s_2.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_211_d3ad09_3438b811a64c4dff8b72155b4a53d1e2~mv2_d_2083_2083_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_211_d3ad09_3438b811a64c4dff8b72155b4a53d1e2~mv2_d_2083_2083_s_2.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_212_d3ad09_c68d649d0b934cb48b549049cc6dd0f6~mv2_d_2083_2083_s_2.jpeg)<br><!-- image:../../assets/designers/elizabethmurphydesigns/instagram/elizabethmurphydesigns_imageye___-_imgi_212_d3ad09_c68d649d0b934cb48b549049cc6dd0f6~mv2_d_2083_2083_s_2.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elizabeth Murphy is a surface pattern designer based in Bulgaria producing fresh, vibrant print collections for fashion, home, and stationery. All work is offered for licensing and direct collaboration. The portfolio spans geometric and abstract print families alongside illustrative motifs, with documented application in swimwear and childrenswear.
+
 ## Style and Aesthetic
+
+Murphy's stated aesthetic is fresh and vibrant. Named pattern ranges include geometric and abstract designs (Cubism, Infinity, Logic, Terrazzo, Arrows, X-treme) alongside more illustrative entries (I Heart Clouds, Raindrops, Rainbows). Selected Instagram patterns suggest a colourful, commercially versatile vocabulary across multiple repeat structures and motif types.
 
 ## Techniques and Tools
 
+Surface pattern design developed for licensing, with portfolio output evidencing swimwear, childrenswear, and stationery applications. Work is available for licensing and direct client collaboration across all documented categories.
+
 ## Markets and Clients
+
+Fashion (womenswear, swimwear), childrenswear, home, and stationery — all explicitly stated. Seasonal portfolio includes a swimwear range (S/S 19: Cubism, Infinity, Terrazzo, Arrows, Logic, I Heart Clouds) and a baby collection (Raindrops, Rainbows, Geometric). Work offered for licensing and direct collaboration.
 
 ## Portfolio and Presence
 
+- Website: lizmurphy.wixsite.com/surfacepatterndesign
+- Instagram: @elizabethmurphydesigns
+
 ## Career Path
+
+Elizabeth Murphy established a freelance surface pattern design practice with portfolio documentation from at least 2019. Seasonal and category collections are documented across swimwear, childrenswear, and general print ranges, with an explicit focus on licensing and collaboration.
 
 ## Pattern Focus
 
+Documented patterns include geometric and abstract designs (Cubism, Infinity, Terrazzo, Logic, Arrows, X-treme), illustrative repeat motifs (I Heart Clouds), and childrenswear prints (Raindrops, Rainbows). Selected Instagram patterns suggest a broader portfolio spanning flat geometric repeats, tossed-motif arrangements, and decorative prints across multiple product applications.
+
 ## Connections
+
+- [[Geometric Pattern]] — core pattern type (Cubism, Infinity, Terrazzo, Logic)
+- [[Abstract Pattern]] — X-treme, Arrows, decorative print range
+- [[Womenswear]] — swimwear range S/S 19
+- [[Kidswear]] — documented baby collection
+- [[Stationery]] — stated market
+- [[Licensing]] — primary commercial model

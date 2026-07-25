@@ -25,7 +25,7 @@ bio: ''
 website: 'https://diannestarkcreative.com.au'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/dianne_stark_creative
 profile_url: ''
 instagram_images:
@@ -42,8 +42,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Di Stark Creative | Explore Unique Designs — Get Started Today
 website_meta_description: >-
   Discover whimsical hand-drawn illustrations and surface patterns inspired by
@@ -273,7 +276,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -301,31 +304,114 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_27_Tree-pattern-portfolio.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_33_Eucalyptus-repeat-off-white.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_39_Mushroom-pattern-grey.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_3_Eucalyptus-repeat-off-white.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_45_Palm-pattern-flamingo-pink.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_4_Mushroom-pattern-grey.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_57_Fairy-Garden-repeat-white.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_5_Palm-pattern-flamingo-pink.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_63_Mulberry-pattern-cream.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_69_Little-bird-repeat-lilac.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_75_Swan-pattern-peach.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_7_Fairy-Garden-repeat-white.jpeg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_27_Tree-pattern-portfolio.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_33_Eucalyptus-repeat-off-white.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_45_Palm-pattern-flamingo-pink.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_4_Mushroom-pattern-grey.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_57_Fairy-Garden-repeat-white.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_63_Mulberry-pattern-cream.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_69_Little-bird-repeat-lilac.jpeg
+  - >-
+    ../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_75_Swan-pattern-peach.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # dianne_stark_creative
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_27_Tree-pattern-portfolio.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_27_Tree-pattern-portfolio.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_33_Eucalyptus-repeat-off-white.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_33_Eucalyptus-repeat-off-white.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_39_Mushroom-pattern-grey.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_39_Mushroom-pattern-grey.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_3_Eucalyptus-repeat-off-white.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_3_Eucalyptus-repeat-off-white.jpeg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_45_Palm-pattern-flamingo-pink.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_45_Palm-pattern-flamingo-pink.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_4_Mushroom-pattern-grey.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_4_Mushroom-pattern-grey.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_57_Fairy-Garden-repeat-white.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_57_Fairy-Garden-repeat-white.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_5_Palm-pattern-flamingo-pink.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_5_Palm-pattern-flamingo-pink.jpeg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_63_Mulberry-pattern-cream.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_63_Mulberry-pattern-cream.jpeg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_69_Little-bird-repeat-lilac.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_69_Little-bird-repeat-lilac.jpeg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_75_Swan-pattern-peach.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_75_Swan-pattern-peach.jpeg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_7_Fairy-Garden-repeat-white.jpeg)<br><!-- image:../../assets/designers/dianne_stark_creative/instagram/dianne_stark_creative_imageye___-_imgi_7_Fairy-Garden-repeat-white.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Dianne Stark is an Australian illustrator and surface pattern designer working under the brand Di Stark Creative. Her practice centres on whimsical, pencil-drawn patterns inspired by childhood daydreams, ancestral tales, and adventurous journeys. Stark offers two routes to market: a free print library (available to brands via registration on her website) and a custom pattern commission service. Her background in retail buying and merchandise planning at leading Australian retailers gives her work a commercially grounded perspective.
+
 ## Style and Aesthetic
+
+Stark's defining characteristic is hand-drawn pencil illustration — a medium that gives her patterns a distinctive textural softness. Selected patterns confirm a nature and folklore vocabulary: Tree, Eucalyptus, Palm, Mushroom, Fairy Garden, Mulberry, Little Bird, Swan. Colourways — off-white, flamingo pink, grey, cream, lilac, peach — are delicate and product-ready, suggesting deliberate colourway development across collections. The overall aesthetic is described as "timeless" and "whimsical."
 
 ## Techniques and Tools
 
+Works primarily in pencil for initial illustration. Has a background in multimedia and graphic design. Custom commissions include moodboards, sketches, two rounds of minor revisions, and delivery of final digital repeat files. Process is collaborative and client-led.
+
 ## Markets and Clients
+
+Open to commissions and collaborative product launches. The free print library offers brands and makers access to ready-to-use designs via registration. Custom pattern service targets product brands and makers wanting one-of-a-kind hand-drawn prints. No specific commercial clients are documented.
 
 ## Portfolio and Presence
 
+- Website: diannestarkcreative.com.au
+- Instagram: @dianne_stark_creative
+
 ## Career Path
+
+Stark began her career in the world of retail buying, spending many years as a merchandise planner at leading Australian retailers. She maintained a passion for art and creativity throughout, drawing on a background in multimedia and graphic design. The commercial retail experience — developing what she describes as "a keen eye for commercial aesthetics" — later directly informed her surface pattern practice. She transitioned into full-time illustration and pattern design, building a studio around both a print library and custom commission work.
 
 ## Pattern Focus
 
+Selected patterns span botanicals (Eucalyptus, Mulberry, Fairy Garden), fauna (Little Bird, Swan), and textural nature subjects (Mushroom, Tree, Palm). Soft, named colourways — flamingo pink, lilac, peach, cream — suggest collection-ready thinking suited to children's and lifestyle product categories. The pencil-based technique gives each design a hand-crafted quality that distinguishes the work from digitally produced alternatives.
+
 ## Connections
+
+- [[Botanical Pattern]] — dominant motif category
+- [[Illustration]] — primary technique
+- [[Australia]] — base and cultural context
+- [[Hand-drawn Pattern]] — defining practice characteristic
+- [[Licensing]] — print library and commission model

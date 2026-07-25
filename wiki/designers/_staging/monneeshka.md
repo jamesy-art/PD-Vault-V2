@@ -22,7 +22,7 @@ bio: ''
 website: 'https://monneeshka.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/monneeshka
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Monneeshka Art Studio - Unique Artworks for Sale
 website_meta_description: >-
   Discover original artworks and prints at Monneeshka Art Studio. Embrace bold
@@ -214,7 +217,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -231,45 +234,138 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/92951395_220202075982377_6389010237893902336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEJ3C27w22-uXVhwGr95l23dzm2aK7mU0sLE_fb-gLxprzAL8AIIplgGtVcavjbyNk&_nc_ohc=tGAxIeWl6KIQ7kNvwEVFxNS&_nc_gid=YrETNW96M1M_dICa8I2m9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wob6pOCIKbTkkfvb15G2f2ND1A7iLm-gLP0GCVza8uw&oe=6A13DAF0&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/92951395_220202075982377_6389010237893902336_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEJ3C27w22-uXVhwGr95l23dzm2aK7mU0sLE_fb-gLxprzAL8AIIplgGtVcavjbyNk&_nc_ohc=tGAxIeWl6KIQ7kNvwEVFxNS&_nc_gid=YrETNW96M1M_dICa8I2m9A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Wob6pOCIKbTkkfvb15G2f2ND1A7iLm-gLP0GCVza8uw&oe=6A13DAF0&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/monneeshka/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3294
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/monneeshka/profile/92951395_220202075982377_6389010237893902336_n.jpg
+instagram_profile_image_bytes: 250500
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/monneeshka/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/monneeshka/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/monneeshka/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/monneeshka/profile/92951395_220202075982377_6389010237893902336_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/monneeshka/profile/92951395_220202075982377_6389010237893902336_n.jpg
+profile_image_local: >-
+  ../../assets/designers/monneeshka/profile/92951395_220202075982377_6389010237893902336_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/monneeshka/profile/92951395_220202075982377_6389010237893902336_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1602762472_2420469513689350155_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1618647648_2553724021998829887_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1621068007_2574027468425721533_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1623488425_2594331406694543631_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1670342674_2987373336628192692_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1685783220_3116898021106822972_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1705428086_3281691099641159676_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1739304084_3565863568160140384_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1741287605_3582502546183356765_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1743102741_3597729015780101616_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1749749335_3653484684437029913_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1750176002_3657063824524238122_214074111.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1602762472_2420469513689350155_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1618647648_2553724021998829887_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1621068007_2574027468425721533_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1623488425_2594331406694543631_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1670342674_2987373336628192692_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1685783220_3116898021106822972_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1743102741_3597729015780101616_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1749749335_3653484684437029913_214074111.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1705428086_3281691099641159676_214074111.jpg
+  - >-
+    ../../assets/designers/monneeshka/instagram/monneeshka_1750176002_3657063824524238122_214074111.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # monneeshka
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/monneeshka/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/monneeshka/profile/92951395_220202075982377_6389010237893902336_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1602762472_2420469513689350155_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1602762472_2420469513689350155_214074111.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1618647648_2553724021998829887_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1618647648_2553724021998829887_214074111.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1621068007_2574027468425721533_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1621068007_2574027468425721533_214074111.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1623488425_2594331406694543631_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1623488425_2594331406694543631_214074111.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1670342674_2987373336628192692_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1670342674_2987373336628192692_214074111.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1685783220_3116898021106822972_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1685783220_3116898021106822972_214074111.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1705428086_3281691099641159676_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1705428086_3281691099641159676_214074111.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1739304084_3565863568160140384_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1739304084_3565863568160140384_214074111.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1741287605_3582502546183356765_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1741287605_3582502546183356765_214074111.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1743102741_3597729015780101616_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1743102741_3597729015780101616_214074111.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1749749335_3653484684437029913_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1749749335_3653484684437029913_214074111.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/monneeshka/instagram/monneeshka_1750176002_3657063824524238122_214074111.jpg)<br><!-- image:../../assets/designers/monneeshka/instagram/monneeshka_1750176002_3657063824524238122_214074111.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Monika Koch is a Polish-born, London-based self-taught artist working under the name Monneeshka. Based in London since 2003, her practice centres on bold, naive-style portraits of women — her defining and consistent subject. She sells original artworks and high-quality giclee prints via her website and Etsy shop, with over 1,500 artworks sold worldwide claimed on the website. Custom commissions are available. She has over 19,000 Instagram followers.
+
 ## Style and Aesthetic
+
+Koch's visual signature is direct and confident: strong brushlines, blocked colour, and an expressive rawness she describes as sometimes exaggerated or distorted, always instinctive. Female beauty is her central subject and ongoing source of inspiration. Selected Instagram images (8 selected) are consistent with this figurative aesthetic — portrait-scale compositions with flat colour areas and emphatic linework. Inspiration drawn from photography, everyday objects, and the people around her.
 
 ## Techniques and Tools
 
+Mixed media: ink, gouache, acrylics, and gold leaf. These materials allow Koch to build texture and warmth into her work. She describes her style as continually evolving through exploration and experimentation.
+
 ## Markets and Clients
+
+Fine art and print sales — originals and giclee prints sold direct to collector via monneeshka.com and Etsy. Custom commissions available. Not documented as working in commercial surface pattern licensing; this is primarily a fine art and figurative illustration practice.
 
 ## Portfolio and Presence
 
+- Website: monneeshka.com
+- Instagram: @monneeshka (19,811 followers)
+- Etsy: listed in Instagram bio
+
 ## Career Path
+
+Self-taught. Born in Poland, relocated to London in 2003. Built a dedicated practice around figurative, portrait-focused artwork over two decades. No formal art education documented.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 2 placements) document bold, figurative portrait compositions. Koch's practice is not repeat-pattern oriented in the conventional surface design sense — selected images represent striking visual artwork rather than commercial repeating patterns. The placement images suggest her work applied in interior or decorative product contexts.
+
 ## Connections
+
+- [[Fine Art]] — primary practice category
+- [[Illustration]] — adjacent discipline
+- [[Giclee Printing]] — documented print output
+- [[Etsy]] — documented sales channel

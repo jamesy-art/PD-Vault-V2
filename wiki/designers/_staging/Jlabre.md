@@ -28,7 +28,7 @@ bio: ''
 website: 'https://jenniferlabre.com'
 website_about: ''
 accepted: 19/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jlabre
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Jennifer Labre Designs | Explore Creative Artworks - Join Us Today
 website_meta_description: >-
   Discover vibrant, heartfelt designs by Jennifer Labre. Explore her creative
@@ -232,7 +235,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -251,45 +254,165 @@ instagram_profile_pic_url: >-
   https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/640436698_18569557069020595_769052573876005612_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHiu26ZmbSVBTJbEfqQSBkyECn0XIhdb3mUlkDttUyCYN1jmg_CgrBN-RQa0k6lwpOGIArNjjemBCwGpN2hetwi&_nc_ohc=yvLszf5QOnoQ7kNvwH-9Y3-&_nc_gid=cqjyl23zAKGHI3PlWGpHVA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6_g6CdGM26ShZv8poDvYwuH0L4OiznpWHwJtwp5naw5Q&oe=6A13F587&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/640436698_18569557069020595_769052573876005612_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHiu26ZmbSVBTJbEfqQSBkyECn0XIhdb3mUlkDttUyCYN1jmg_CgrBN-RQa0k6lwpOGIArNjjemBCwGpN2hetwi&_nc_ohc=yvLszf5QOnoQ7kNvwH-9Y3-&_nc_gid=cqjyl23zAKGHI3PlWGpHVA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6_g6CdGM26ShZv8poDvYwuH0L4OiznpWHwJtwp5naw5Q&oe=6A13F587&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jlabre/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5467
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jlabre/profile/640436698_18569557069020595_769052573876005612_n.jpg
+instagram_profile_image_bytes: 257441
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jlabre/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jlabre/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jlabre/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jlabre/profile/640436698_18569557069020595_769052573876005612_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jlabre/profile/640436698_18569557069020595_769052573876005612_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jlabre/profile/640436698_18569557069020595_769052573876005612_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jlabre/profile/640436698_18569557069020595_769052573876005612_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769435755_3818626347162730410_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769523417_3819361099506997920_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876579883421708_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580126662498_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580579649804_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580898451128_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932230735084515_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932231313918854_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932231523635166_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932232026968588_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932233025200430_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932233058757753_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932234249956749_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932234853923582_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1771176743_3833229131505426029_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1771271337_3834023564148882334_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1771699436_3837614743196084747_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1771773253_3838233712224311765_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1776172442_3875137273562388990_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1776261330_3875882432411418578_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1778944026_3898385362447120327_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1779035658_3899155628987114661_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1779195732_3900498316680328469_6804594.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769523417_3819361099506997920_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876579883421708_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932230735084515_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1771271337_3834023564148882334_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1776261330_3875882432411418578_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1778944026_3898385362447120327_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1779035658_3899155628987114661_6804594.jpg
+  - >-
+    ../../assets/designers/jlabre/instagram/jlabre_1779195732_3900498316680328469_6804594.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jlabre
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jlabre/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jlabre/profile/640436698_18569557069020595_769052573876005612_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1769435755_3818626347162730410_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1769435755_3818626347162730410_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1769523417_3819361099506997920_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1769523417_3819361099506997920_6804594.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876579883421708_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876579883421708_6804594.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580126662498_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580126662498_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580579649804_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580579649804_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580898451128_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1769704179_3820876580898451128_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932230735084515_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932230735084515_6804594.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932231313918854_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932231313918854_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932231523635166_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932231523635166_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932232026968588_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932232026968588_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932233025200430_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932233025200430_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932233058757753_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932233058757753_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932234249956749_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932234249956749_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932234853923582_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1770902967_3830932234853923582_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1771176743_3833229131505426029_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1771176743_3833229131505426029_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1771271337_3834023564148882334_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1771271337_3834023564148882334_6804594.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1771699436_3837614743196084747_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1771699436_3837614743196084747_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1771773253_3838233712224311765_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1771773253_3838233712224311765_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1776172442_3875137273562388990_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1776172442_3875137273562388990_6804594.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1776261330_3875882432411418578_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1776261330_3875882432411418578_6804594.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1778944026_3898385362447120327_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1778944026_3898385362447120327_6804594.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1779035658_3899155628987114661_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1779035658_3899155628987114661_6804594.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/jlabre/instagram/jlabre_1779195732_3900498316680328469_6804594.jpg)<br><!-- image:../../assets/designers/jlabre/instagram/jlabre_1779195732_3900498316680328469_6804594.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jennifer Labre is a surface pattern designer and illustrator based in Oro Valley, Arizona, operating as Jennifer Labre Designs. She creates whimsical, nature-inspired work for licensing across fabric, wallpaper, stationery, and home goods. Originally from Wisconsin, she designs primarily digitally and is open to licensing collaborations and custom commissions.
+
 ## Style and Aesthetic
+
+Whimsical, colorful, and nature-led. Work described as "playful, inspired by the beauty of nature and the joy that color brings to everyday life." Selected Instagram images suggest vibrant repeat patterns with botanical motifs, illustrated character elements, and warm, inviting palettes suited to the home and stationery sectors. A clear storytelling quality runs through the work — rooted in her background in creative writing and character-drawing.
 
 ## Techniques and Tools
 
+Primarily digital: Adobe tools and Procreate. Also works in watercolor and gouache as additional media. Practice evolved from creative writing, scrapbooking, and digital scrapbook design before converging on surface pattern design.
+
 ## Markets and Clients
+
+Fabric, wallpaper, stationery, and home goods. Available for licensing and custom commissions. No confirmed commercial clients documented; design output positioned for gift, home décor, and fabric licensing markets.
 
 ## Portfolio and Presence
 
+- Website: jenniferlabre.com
+- Instagram: @Jlabre (2,783 followers, 1,027 posts)
+
 ## Career Path
+
+Originally from Wisconsin, now based in Oro Valley, Arizona. Creative practice evolved from a childhood love of storytelling through scrapbooking and digital scrapbook design into surface pattern design. Designs primarily digitally, with ongoing exploration of watercolor and gouache.
 
 ## Pattern Focus
 
+Selected images suggest botanical and nature-themed repeat patterns in a playful illustrative style — floral motifs, character elements, and colour-rich all-over compositions suited to stationery, fabric, and home goods. Palette trends toward warm, cheerful hues consistent with her stated goal of creating designs that "make people happy."
+
 ## Connections
+
+- [[Home Décor]] market
+- [[Stationery]] market
+- [[Procreate]]

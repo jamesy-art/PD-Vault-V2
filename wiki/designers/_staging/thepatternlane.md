@@ -27,7 +27,7 @@ bio: ''
 website: 'https://thepatternlane.com'
 website_about: ''
 accepted: 16/11/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/thepatternlane
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: The Pattern Lane | Print Design Studio for Fashion & Home
 website_meta_description: >-
   Discover bold, original textile prints for fashion, home, and lifestyle. Shop
@@ -310,7 +313,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -327,45 +330,113 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/47583708_527880404375948_7027021002580164608_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGwGU91O8gxJ1LoAH70f6OYN9iSZ4Q6JR4ak_yZJOK6HPDMPL5xQUoZoxt66QGabgjRtKUAl4rk7X7NVINc5wN8&_nc_ohc=H_dTWhbl7ugQ7kNvwFUUf_n&_nc_gid=2AtqcCw_sCqKID08RhWNZQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Q4sTFUcKrgDL6I4MmT90sfXpDcJzzOxo1rLVvsh0nKQ&oe=6A13CE97&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/47583708_527880404375948_7027021002580164608_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGwGU91O8gxJ1LoAH70f6OYN9iSZ4Q6JR4ak_yZJOK6HPDMPL5xQUoZoxt66QGabgjRtKUAl4rk7X7NVINc5wN8&_nc_ohc=H_dTWhbl7ugQ7kNvwFUUf_n&_nc_gid=2AtqcCw_sCqKID08RhWNZQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Q4sTFUcKrgDL6I4MmT90sfXpDcJzzOxo1rLVvsh0nKQ&oe=6A13CE97&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4491
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/thepatternlane/profile/47583708_527880404375948_7027021002580164608_n.jpg
+instagram_profile_image_bytes: 61886
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/thepatternlane/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/thepatternlane/profile/47583708_527880404375948_7027021002580164608_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/thepatternlane/profile/47583708_527880404375948_7027021002580164608_n.jpg
+profile_image_local: >-
+  ../../assets/designers/thepatternlane/profile/47583708_527880404375948_7027021002580164608_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/thepatternlane/profile/47583708_527880404375948_7027021002580164608_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1729939135_3487304685390382941_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1739126673_3564375335343413080_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1744533406_3609730305725648991_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1745829051_3620598958822052689_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1747569417_3635198204187682153_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1750016311_3655724240693142959_10096004203.jpg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1729939135_3487304685390382941_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1739126673_3564375335343413080_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1744533406_3609730305725648991_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1745829051_3620598958822052689_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1747569417_3635198204187682153_10096004203.jpg
+  - >-
+    ../../assets/designers/thepatternlane/instagram/thepatternlane_1750016311_3655724240693142959_10096004203.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # thepatternlane
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/thepatternlane/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/thepatternlane/profile/47583708_527880404375948_7027021002580164608_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/thepatternlane/instagram/thepatternlane_1729939135_3487304685390382941_10096004203.jpg)<br><!-- image:../../assets/designers/thepatternlane/instagram/thepatternlane_1729939135_3487304685390382941_10096004203.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/thepatternlane/instagram/thepatternlane_1739126673_3564375335343413080_10096004203.jpg)<br><!-- image:../../assets/designers/thepatternlane/instagram/thepatternlane_1739126673_3564375335343413080_10096004203.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/thepatternlane/instagram/thepatternlane_1744533406_3609730305725648991_10096004203.jpg)<br><!-- image:../../assets/designers/thepatternlane/instagram/thepatternlane_1744533406_3609730305725648991_10096004203.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/thepatternlane/instagram/thepatternlane_1745829051_3620598958822052689_10096004203.jpg)<br><!-- image:../../assets/designers/thepatternlane/instagram/thepatternlane_1745829051_3620598958822052689_10096004203.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/thepatternlane/instagram/thepatternlane_1747569417_3635198204187682153_10096004203.jpg)<br><!-- image:../../assets/designers/thepatternlane/instagram/thepatternlane_1747569417_3635198204187682153_10096004203.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/thepatternlane/instagram/thepatternlane_1750016311_3655724240693142959_10096004203.jpg)<br><!-- image:../../assets/designers/thepatternlane/instagram/thepatternlane_1750016311_3655724240693142959_10096004203.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+The Pattern Lane is a New Delhi-based print design studio founded by Savvy Tagra, offering a portfolio of over 4,000 original prints for fashion, home, and lifestyle markets. The studio operates as a licensing and custom design service, exhibiting at international textile trade shows including Première Vision Paris.
+
 ## Style and Aesthetic
+
+Selected images suggest bold, commercially positioned print work spanning paisley, floral, geometric, and ikat styles. Designs are trend-led, colourful, and suited to resort and womenswear markets. The range demonstrates breadth across ethnic-inspired, tropical, and abstract print categories — each with strong narrative character.
 
 ## Techniques and Tools
 
+Commercially oriented studio workflow producing print-ready designs for licensing, custom briefs, and capsule collections. Large catalogue scale (4,000+ prints) indicates digital production processes with a broad range of motif and structure types.
+
 ## Markets and Clients
+
+Fashion, accessories, and home textile. Serves brands seeking licensing, custom surface pattern design, or ready-to-use print collections. Active trade show presence at Première Vision Paris (Booth N° 5M92) and Paris Prints.
 
 ## Portfolio and Presence
 
+- Website: https://thepatternlane.com
+- Instagram: https://instagram.com/thepatternlane
+
 ## Career Path
+
+Established studio operating from New Delhi with international trade show presence. Has built a commercially scaled catalogue covering diverse print categories across fashion and home markets, with a clear international market positioning.
 
 ## Pattern Focus
 
+Paisleys, ethnic and tribal motifs, ikat, geometrics, resort florals, tropical prints, animal skins, ditsy florals, and abstract expressionist patterns. Broad commercial range suited to global fashion, accessories, and lifestyle markets.
+
 ## Connections
+
+- [[Womenswear]]
+- [[Home Decor]]
+- [[Première Vision]]
+- [[Licensing]]
+- [[Ikat Pattern]]
+- [[Paisley]]

@@ -15,12 +15,12 @@ skills:
 country: Turkey
 can_use: 'Yes'
 instagram_handle: tugceasik.art
-instagram: 'https://instagram.com/@tugceasik.art'
+instagram: 'https://instagram.com/tugceasik.art'
 bio: ''
 website: 'https://tugceasik.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tugceasik.art
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Tuğçe Aşık Yalçın
 website_meta_description: ''
 website_about_raw: >-
@@ -188,7 +191,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -205,45 +208,132 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/465391334_2514008492133698_3833549939851807236_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF4-uWQg-YJB0d85GyTzJRU38zHdSK6qO1RB0S5unTB5J8T0VdOAwojBdNOVupaf8w&_nc_ohc=DkjSyS5jtagQ7kNvwHeQ8D5&_nc_gid=9KKD_sMS_UPpaKq0vyZ51Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5k_TyyMcjHowBDWUSpg_LGfFYaa6zYNyHkDP_sqDu7NA&oe=6A13ED1B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/465391334_2514008492133698_3833549939851807236_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gF4-uWQg-YJB0d85GyTzJRU38zHdSK6qO1RB0S5unTB5J8T0VdOAwojBdNOVupaf8w&_nc_ohc=DkjSyS5jtagQ7kNvwHeQ8D5&_nc_gid=9KKD_sMS_UPpaKq0vyZ51Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5k_TyyMcjHowBDWUSpg_LGfFYaa6zYNyHkDP_sqDu7NA&oe=6A13ED1B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tugceasik.art/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4471
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/tugceasik.art/profile/465391334_2514008492133698_3833549939851807236_n.jpg
+instagram_profile_image_bytes: 104511
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tugceasik.art/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tugceasik.art/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tugceasik.art/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tugceasik.art/profile/465391334_2514008492133698_3833549939851807236_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tugceasik.art/profile/465391334_2514008492133698_3833549939851807236_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tugceasik.art/profile/465391334_2514008492133698_3833549939851807236_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tugceasik.art/profile/465391334_2514008492133698_3833549939851807236_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1721309571_3414914650287922735_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723324744_3431819149732563301_44948882018.webp
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341738122312_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341981252573_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1728422459_3474581881447555655_44948882018.webp
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755437468629_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755504406118_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133740761_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133822867_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133865525_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108538888824_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108547100991_44948882018.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1721309571_3414914650287922735_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723324744_3431819149732563301_44948882018.webp
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341738122312_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755437468629_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133740761_44948882018.jpg
+  - >-
+    ../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108547100991_44948882018.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # tugceasik.art
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tugceasik.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tugceasik.art/profile/465391334_2514008492133698_3833549939851807236_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1721309571_3414914650287922735_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1721309571_3414914650287922735_44948882018.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723324744_3431819149732563301_44948882018.webp)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723324744_3431819149732563301_44948882018.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341738122312_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341738122312_44948882018.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341981252573_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1723472229_3433056341981252573_44948882018.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1728422459_3474581881447555655_44948882018.webp)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1728422459_3474581881447555655_44948882018.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755437468629_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755437468629_44948882018.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755504406118_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1730567257_3492573755504406118_44948882018.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133740761_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133740761_44948882018.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133822867_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133822867_44948882018.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133865525_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1741968533_3588214589133865525_44948882018.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108538888824_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108538888824_44948882018.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108547100991_44948882018.jpg)<br><!-- image:../../assets/designers/tugceasik.art/instagram/tugceasik.art_1745580517_3618514108547100991_44948882018.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Tugce Asik Yalcin is an Istanbul-born illustrator and surface designer who studied textile in Izmir and fashion at NABA Milan. She works under the handle @tugceasik.art, creating character-driven patterns and illustrated narratives she describes as "Illustrated Universes." Her collections — LUNA – story hunter and DESERT DIVA — frame pattern as identity rather than decoration. Art scarves are sold via Shopier and Etsy; she is open to collaborations.
+
 ## Style and Aesthetic
+
+Yalcin's visual language is figurative and surrealist — cats, eyes, flowers, and female figures recur as recurring motifs, rendered with illustrative detail and emotional framing. The work sits between illustration and surface design: characters and scenes become the repeat unit rather than abstracted forms. Selected patterns suggest a warm palette with high-contrast figurative elements. The declared aesthetic aim is "calm, timeless, and just the right amount of weird."
 
 ## Techniques and Tools
 
+Digital illustration, with a background in textile (Izmir) and fashion (NABA Milan). Work is produced digitally and applied to scarves, suggesting vector or raster-based workflows. No specific software identified in available sources.
+
 ## Markets and Clients
+
+Primary sales channel is art scarves via Shopier and Etsy. No licensed commercial clients documented. Open to collaborations via Instagram DM. The womenswear category tag aligns with the scarf product focus.
 
 ## Portfolio and Presence
 
+- Website: tugceasik.com
+- Instagram: @tugceasik.art (749 followers)
+- Shop: Shopier and Etsy (art scarves)
+- Collections: LUNA – story hunter, DESERT DIVA
+
 ## Career Path
+
+Born in Istanbul; textile studies in Izmir; MA Fashion at NABA (Nuova Accademia di Belle Arti), Milan. Now working independently as an illustrator and surface designer. Practice centres on building a brand with a defined visual identity and character universe.
 
 ## Pattern Focus
 
+Character-based patterns where illustration subjects — cats, eyes, florals, female figures — function as surface design motifs. Selected patterns suggest tightly composed figurative scenes rather than conventional all-over repeats. Narrative identity is the defining feature of the work: each collection carries a thematic title (LUNA, DESERT DIVA) and positioning.
+
 ## Connections
+
+- [[NABA Milan]]
+- [[Surface Pattern Design]]
+- [[Illustration]]
+- [[Art Scarves]]
+- [[Etsy]]

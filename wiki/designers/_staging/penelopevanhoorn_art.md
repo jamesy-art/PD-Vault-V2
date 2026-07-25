@@ -20,7 +20,7 @@ bio: ''
 website: 'https://penelopevanhoornart.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/penelopevanhoorn_art
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Penelope van Hoorn Contemporary Abstract Art
 website_meta_description: >-
   Original, Contemporary Abstract Art and Limited Edition Prints by UK-based
@@ -224,7 +227,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -243,45 +246,205 @@ instagram_profile_pic_url: >-
   https://scontent-lax7-1.cdninstagram.com/v/t51.2885-19/480916965_1431802561563353_4551801201013509243_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEOy7lIL5CS4Z_S6jy_8-_UZrHwirGjcECYnUkkIQMK206B7pjNw3CjtIgMhtEknGQ&_nc_ohc=i6io9FnU3kUQ7kNvwGvDmcf&_nc_gid=sssWlbZu03dWpdb3O4YePg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Ep0VW0fb-Q_g7ToRCW3wSYQlHngzLT6bY40de3yLjNQ&oe=6A13EC23&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax7-1.cdninstagram.com/v/t51.2885-19/480916965_1431802561563353_4551801201013509243_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEOy7lIL5CS4Z_S6jy_8-_UZrHwirGjcECYnUkkIQMK206B7pjNw3CjtIgMhtEknGQ&_nc_ohc=i6io9FnU3kUQ7kNvwGvDmcf&_nc_gid=sssWlbZu03dWpdb3O4YePg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Ep0VW0fb-Q_g7ToRCW3wSYQlHngzLT6bY40de3yLjNQ&oe=6A13EC23&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/penelopevanhoorn_art/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5314
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/penelopevanhoorn_art/profile/480916965_1431802561563353_4551801201013509243_n.jpg
+instagram_profile_image_bytes: 205302
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/penelopevanhoorn_art/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/penelopevanhoorn_art/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/penelopevanhoorn_art/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/penelopevanhoorn_art/profile/480916965_1431802561563353_4551801201013509243_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/profile/480916965_1431802561563353_4551801201013509243_n.jpg
+profile_image_local: >-
+  ../../assets/designers/penelopevanhoorn_art/profile/480916965_1431802561563353_4551801201013509243_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/penelopevanhoorn_art/profile/480916965_1431802561563353_4551801201013509243_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1674809726_3024845683253710440_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1675069472_3027024587162796091_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797549739560_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797558068140_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756740156881_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756748367748_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1743179063_3598369249174021582_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581261892572_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581270273311_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581572221800_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652595249906_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612023048_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612064885_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612174011_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1750149144_3656838523515974229_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481173359349_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181779234_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181790461_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481374736023_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619846709079_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619846731046_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619913830575_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530350_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530789_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057658001645_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147058354233096_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348365142069_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348373552885_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348373585514_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348398725040_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295574937451_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295574959201_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295709174834_57553875088.jpg
+instagram_image_count: 33
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1674809726_3024845683253710440_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1675069472_3027024587162796091_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797549739560_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756748367748_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581270273311_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612064885_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1750149144_3656838523515974229_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181779234_57553875088.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756740156881_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581261892572_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612023048_57553875088.jpg
+  - >-
+    ../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530789_57553875088.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # penelopevanhoorn_art
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/penelopevanhoorn_art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/penelopevanhoorn_art/profile/480916965_1431802561563353_4551801201013509243_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1674809726_3024845683253710440_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1674809726_3024845683253710440_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1675069472_3027024587162796091_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1675069472_3027024587162796091_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797549739560_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797549739560_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797558068140_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1700213001_3237943797558068140_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756740156881_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756740156881_57553875088.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756748367748_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1720797341_3410617756748367748_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1743179063_3598369249174021582_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1743179063_3598369249174021582_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581261892572_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581261892572_57553875088.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581270273311_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581270273311_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581572221800_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1745422025_3617184581572221800_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652595249906_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652595249906_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612023048_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612023048_57553875088.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612064885_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612064885_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612174011_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1746188788_3623616652612174011_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1750149144_3656838523515974229_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1750149144_3656838523515974229_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481173359349_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481173359349_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181779234_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181779234_57553875088.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181790461_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481181790461_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481374736023_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1756117232_3706902481374736023_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619846709079_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619846709079_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619846731046_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619846731046_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619913830575_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1762525940_3760662619913830575_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530350_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530350_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530789_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057582530789_57553875088.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057658001645_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147057658001645_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147058354233096_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1767709689_3804147058354233096_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348365142069_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348365142069_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348373552885_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348373552885_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348373585514_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348373585514_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348398725040_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1770200125_3825038348398725040_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295574937451_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295574937451_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295574959201_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295574959201_57553875088.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295709174834_57553875088.jpg)<br><!-- image:../../assets/designers/penelopevanhoorn_art/instagram/penelopevanhoorn_art_1778512464_3894767295709174834_57553875088.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Penelope van Hoorn is a UK-based abstract painter and visual artist who moved to full-time art practice in 2023 after a long career as a graphic designer. She holds an MA in Design Studies from Central St Martins, London. Her work has been exhibited at the Saatchi Art 'Other Art Fair' in both 2024 and 2025, and a piece was acquired by Agnes Gund, former Chairman of the Board at MOMA (2024, unverified).
+
 ## Style and Aesthetic
+
+Van Hoorn works across two genres: pure abstraction and patterns and gestures. Her stated visual language explores what lies beneath surfaces — using paint's forms, colours, and textures to express connection and emergence. She uses flat or gaussian backgrounds as grounds through which active mark-making breaks. Selected Instagram images suggest bold, layered compositions with strong surface presence suited to luxury interior contexts.
 
 ## Techniques and Tools
 
+Acrylic on canvas. Layered technique building grounds over multiple passes; each layer either revealing or concealing. Works include large-format canvases (100×150cm, 80×100cm). Select framed prints available directly from the artist. Graphic design background from Central St Martins informs compositional rigour.
+
 ## Markets and Clients
+
+Fine art and luxury interior markets. Limited edition prints for contemporary interior design spaces. Available for gallery, commission, and pricing enquiries. Selected placement images suggest wall art and high-end interior application contexts.
 
 ## Portfolio and Presence
 
+- Instagram: @penelopevanhoorn_art
+- Website: penelopevanhoornart.com
+
 ## Career Path
+
+Long career as a professional graphic designer; holds an MA in Design Studies from Central St Martins, London. Transitioned to full-time artist practice in 2023. Exhibited at Saatchi Art 'Other Art Fair', London (2024, 2025). Work acquired by Agnes Gund, former Chairman of the Board at MOMA (2024, unverified). Instagram following of 2,887 across 93 posts.
 
 ## Pattern Focus
 
+Abstract patterns and gestural mark-making on canvas. Selected images suggest layered, expressive surface work with strong visual depth — positioned for interior art markets rather than conventional repeat surface pattern design. Her website frames work explicitly for "luxury, contemporary environments."
+
 ## Connections
+
+- [[Abstract Pattern]]
+- [[Surface Pattern Design]]
+- [[Fine Art Prints]]
+- [[Central Saint Martins]]
+- [[Interior Design]]

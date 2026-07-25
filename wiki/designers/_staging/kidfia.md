@@ -13,12 +13,12 @@ skills: []
 country: United States
 can_use: 'Yes'
 instagram_handle: kidfia
-instagram: 'https://instagram.com/@kidfia'
+instagram: 'https://instagram.com/kidfia'
 bio: ''
 website: 'https://sofiapoejoart.com/surface-design'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/kidfia
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: surface design — Sofia Poejo Art
 website_meta_description: ''
 website_about_raw: >-
@@ -280,7 +283,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Sofia Poejo is an illustrator and designer born and raised in NYC. She strives
   to positively connect children with their world through thoughtful, diverse
@@ -498,45 +501,183 @@ instagram_profile_pic_url: >-
   https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/545319437_18075997748099445_6677295892747710082_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH9CcA0Qprc_zy4aecGsZf2YROgz-41Mfb-Ku049dql2FM5oujiY0QqOzTfqvFfipI&_nc_ohc=D6pfOzHjwNoQ7kNvwHt9spM&_nc_gid=UjFdMVaXnGrueNXDsmRlsQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Y__qTyvPvWfWgmK5x8JJEgcizj_HXMCajnFIXYVo1Bw&oe=6A13F4E8&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fsac1-2.fna.fbcdn.net/v/t51.82787-19/545319437_18075997748099445_6677295892747710082_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fsac1-2.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gH9CcA0Qprc_zy4aecGsZf2YROgz-41Mfb-Ku049dql2FM5oujiY0QqOzTfqvFfipI&_nc_ohc=D6pfOzHjwNoQ7kNvwHt9spM&_nc_gid=UjFdMVaXnGrueNXDsmRlsQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Y__qTyvPvWfWgmK5x8JJEgcizj_HXMCajnFIXYVo1Bw&oe=6A13F4E8&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/kidfia/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8507
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/kidfia/profile/545319437_18075997748099445_6677295892747710082_n.jpg
+instagram_profile_image_bytes: 211431
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/kidfia/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/kidfia/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/kidfia/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/kidfia/profile/545319437_18075997748099445_6677295892747710082_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/kidfia/profile/545319437_18075997748099445_6677295892747710082_n.jpg
+profile_image_local: >-
+  ../../assets/designers/kidfia/profile/545319437_18075997748099445_6677295892747710082_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/kidfia/profile/545319437_18075997748099445_6677295892747710082_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182537875849_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182538029165_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182546367731_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1723729795_3435222167271743002_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1726063200_3454791296227776561_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096377429_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096465878_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298129988391_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257241480_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257325972_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219450231479_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1738598700_3559946421270178963_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1739476024_3567305908700412084_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1740155400_3573005044032479517_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291378457286_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291378536337_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386801211_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386821515_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386973680_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291445727947_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172835713064_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844211500_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844242682_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844247400_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852523768_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852588028_32982371444.jpg
+instagram_image_count: 26
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182537875849_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1726063200_3454791296227776561_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096465878_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257325972_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386801211_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852523768_32982371444.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219450231479_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1739476024_3567305908700412084_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1740155400_3573005044032479517_32982371444.jpg
+  - >-
+    ../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852588028_32982371444.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # kidfia
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kidfia/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/kidfia/profile/545319437_18075997748099445_6677295892747710082_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182537875849_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182537875849_32982371444.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182538029165_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182538029165_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182546367731_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1716392700_3371126182546367731_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1723729795_3435222167271743002_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1723729795_3435222167271743002_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1726063200_3454791296227776561_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1726063200_3454791296227776561_32982371444.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096377429_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096377429_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096465878_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298096465878_32982371444.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298129988391_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1728232608_3472989298129988391_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257241480_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257241480_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257325972_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219257325972_32982371444.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219450231479_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1731344796_3499096219450231479_32982371444.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1738598700_3559946421270178963_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1738598700_3559946421270178963_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1739476024_3567305908700412084_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1739476024_3567305908700412084_32982371444.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1740155400_3573005044032479517_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1740155400_3573005044032479517_32982371444.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291378457286_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291378457286_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291378536337_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291378536337_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386801211_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386801211_32982371444.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386821515_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386821515_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386973680_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291386973680_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291445727947_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755101547_3698382291445727947_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172835713064_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172835713064_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844211500_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844211500_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844242682_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844242682_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844247400_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172844247400_32982371444.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852523768_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852523768_32982371444.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852588028_32982371444.jpg)<br><!-- image:../../assets/designers/kidfia/instagram/kidfia_1755788416_3704144172852588028_32982371444.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sofia "Fia" Poejo is a New York-based illustrator and designer, born and raised in NYC, completing her BFA in Illustration at Ringling College of Art and Design (graduating 2026). She is represented for literary work by Analía Cabello at Andrea Brown Literary. Commercial clients include Scholastic (working across Netflix, Dreamworks, Disney, Pokémon, and Warner Brothers properties), Little Moony (apparel design intern), SRQ Magazine, New York Restoration Project, and Mote Aquarium.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a joyful, detailed illustrative aesthetic with a warm, character-driven approach. The work reflects Poejo's stated goal of "positively connecting children with their world through thoughtful, diverse storytelling." Gouache and paper-cut techniques produce a layered, tactile visual quality. Motifs span flora and fauna, cultural imagery, and character-based narratives. Selected placements confirm apparel and product mockup applications.
 
 ## Techniques and Tools
 
+Highly proficient in Adobe Illustrator, Photoshop, InDesign, Procreate, and Google Suite. Strong traditional media skills: gouache, watercolour, acrylic, paper-cut, colour pencil, graphite. Working knowledge of Adobe Animate, Storyboard Pro, NedGraphics, Kaledo, and Wacom Tablet. Textile skills include hand sewing and embroidery.
+
 ## Markets and Clients
+
+Primary focus is children's illustration, publishing, and apparel design. Documented clients include Scholastic, Little Moony (infant + kids apparel), SRQ Magazine, New York Restoration Project, and Mote Aquarium. Apparel internship at Little Moony involved trend research, print development, tech packs, and manufacturer communication.
 
 ## Portfolio and Presence
 
+- Website: https://sofiapoejoart.com/surface-design
+- Instagram: @kidfia (861 followers)
+- Represented by: Analía Cabello, Andrea Brown Literary (literary inquiries)
+- Contact: sofiapoejoart@gmail.com
+
 ## Career Path
+
+Poejo has built a strong pre-graduation commercial record while studying at Ringling. Internships at Scholastic (Design for Trade Publishing, 2024) and Little Moony (Apparel Design, 2025) provided direct industry experience in publishing and children's apparel. Recognised by American Illustration Awards (Chosen Artwork, 2025) and Illest of Illustration juried shows. Serves as Artist Alley Club President and Student Ambassador at Ringling.
 
 ## Pattern Focus
 
+Surface design portfolio includes work from the Little Moony internship covering infant and kids collections and apparel prints. Six selected Instagram pattern images suggest character-based print sensibility with cultural and nature themes. Selected placements include apparel and product mockup contexts.
+
 ## Connections
+
+- [[Little Moony]]
+- [[Scholastic]]
+- [[Children's Illustration]]
+- [[Surface Pattern Design]]
+- [[Ringling College of Art and Design]]
+- [[Apparel Design]]

@@ -20,7 +20,7 @@ bio: ''
 website: 'https://Bethmorganstudio.co.uk'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/bethmorganstudio
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Beth Morgan Studio | Artist & Textile Designer
 website_meta_description: >-
   Explore the portfolio of Beth Morgan, an artist and textile designer
@@ -258,8 +261,41 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  Textile Designer & Illustrator
+
+  Woman with long dark hair and septum piercing smiling and wearing a brown
+  sweater.
+
+  I am a Textile Designer & Illustrator specialising in luxury interiors and
+  fashion, combining exceptional craftsmanship with rich narrative and refined
+  detail. My work bridges traditional artistry - such as painting and hand
+  illustration - with advanced textile techniques including Devoré, flocking,
+  digital print, and 3D fabrication. This fusion of heritage and innovation
+  allows me to create textiles that are both timeless and contemporary.
+
+
+  My designs are narrative-driven, drawing inspiration from English heritage,
+  literature, music, and history. This historical foundation is seamlessly
+  integrated into my designs, which act as a bridge between the past and
+  present, capturing the essence of heritage in a modern luxury context. My love
+  of literature and music also informs my creative process, as both art forms
+  share the ability to transport, transform, and evoke deep emotional responses.
+  Just as a novel or a piece of music can tell a story, build tension, or create
+  atmosphere, my designs aim to do the same through composition and texture. I
+  see textiles as a medium for storytelling, where every motif, texture, and
+  material choice contributes to a larger narrative. 
+
+
+  Colour also plays a central role in my work, with a refined, sophisticated
+  palette that enhances the narrative of each design. My deep understanding of
+  colour theory allows me to create textiles that are both visually striking and
+  elegantly composed, evoking an emotional connection through design.
+
+
+  Through intricate detailing, sophisticated colour palettes, and a deep
+  understanding of symbolism, my work creates a sense of connection.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -277,45 +313,134 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/491413346_18049037681370243_5019072597682448054_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBJl3Tf6Is6W-mM9QVr147FufF3RGgV-i_zgV1lFgPTeFTiLBqZRIvcnVseV44_Eg&_nc_ohc=VXuS-g_bJ-sQ7kNvwGS6Rre&_nc_gid=D2lRqSjVR_1CwLf3YMKk_w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63qgitrE7QJGa87eATwEj8fqLci9Jofx8gZd-dkRuzqA&oe=6A13E25F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/491413346_18049037681370243_5019072597682448054_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGBJl3Tf6Is6W-mM9QVr147FufF3RGgV-i_zgV1lFgPTeFTiLBqZRIvcnVseV44_Eg&_nc_ohc=VXuS-g_bJ-sQ7kNvwGS6Rre&_nc_gid=D2lRqSjVR_1CwLf3YMKk_w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af63qgitrE7QJGa87eATwEj8fqLci9Jofx8gZd-dkRuzqA&oe=6A13E25F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3610
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/bethmorganstudio/profile/491413346_18049037681370243_5019072597682448054_n.jpg
+instagram_profile_image_bytes: 131314
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/bethmorganstudio/profile/491413346_18049037681370243_5019072597682448054_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/bethmorganstudio/profile/491413346_18049037681370243_5019072597682448054_n.jpg
+profile_image_local: >-
+  ../../assets/designers/bethmorganstudio/profile/491413346_18049037681370243_5019072597682448054_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/bethmorganstudio/profile/491413346_18049037681370243_5019072597682448054_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740341452_3574565646102114373_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740773465_3578189627568603271_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1746732524_3628177841234295963_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1747165614_3631810865746183596_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_14_20250514_142354.jpeg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_15_20250514_142517.jpeg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_22_Screenshot+2025-05-01+165039.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_23_Screenshot+2025-05-03+181004.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_5_Screenshot+2025-05-01+165417.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_6_Screenshot+2025-05-01+165039.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_7_Screenshot+2025-05-03+181004.png
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740773465_3578189627568603271_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1746732524_3628177841234295963_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1747165614_3631810865746183596_41050562242.jpg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_14_20250514_142354.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_15_20250514_142517.jpeg
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_22_Screenshot+2025-05-01+165039.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_23_Screenshot+2025-05-03+181004.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_5_Screenshot+2025-05-01+165417.png
+  - >-
+    ../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_7_Screenshot+2025-05-03+181004.png
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 5
+trash_image_count: 0
 ---
-
 # bethmorganstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/bethmorganstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/bethmorganstudio/profile/491413346_18049037681370243_5019072597682448054_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740341452_3574565646102114373_41050562242.jpg)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740341452_3574565646102114373_41050562242.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740773465_3578189627568603271_41050562242.jpg)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1740773465_3578189627568603271_41050562242.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1746732524_3628177841234295963_41050562242.jpg)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1746732524_3628177841234295963_41050562242.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1747165614_3631810865746183596_41050562242.jpg)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_1747165614_3631810865746183596_41050562242.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_14_20250514_142354.jpeg)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_14_20250514_142354.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_15_20250514_142517.jpeg)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_15_20250514_142517.jpeg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_22_Screenshot+2025-05-01+165039.png)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_22_Screenshot+2025-05-01+165039.png --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_23_Screenshot+2025-05-03+181004.png)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_23_Screenshot+2025-05-03+181004.png --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_5_Screenshot+2025-05-01+165417.png)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_5_Screenshot+2025-05-01+165417.png --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_6_Screenshot+2025-05-01+165039.png)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_6_Screenshot+2025-05-01+165039.png --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_7_Screenshot+2025-05-03+181004.png)<br><!-- image:../../assets/designers/bethmorganstudio/instagram/bethmorganstudio_imageye___-_imgi_7_Screenshot+2025-05-03+181004.png --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Beth Morgan is a UK-based textile designer and illustrator, graduated with First Class Honours in Textile Design in 2025. Her practice bridges hand illustration with advanced textile production — combining drawn motifs with digital printing, laser engraving, and experimental fabrication. Her debut collection, the Thornleigh Collection, is positioned for the luxury interiors market.
+
 ## Style and Aesthetic
+
+Narrative-led, heritage-inflected, and botanically rich. The Thornleigh Collection draws on English heritage, Victorian symbolism, and floriography, combining botanical motifs (yarrow, fern, meadow florals) with architectural framing such as window-like structures and castle battlements. Selected pattern images suggest intricate surface compositions with a refined, sophisticated palette. The overall positioning is contemporary-heritage — history filtered through a modern luxury lens.
 
 ## Techniques and Tools
 
+Hand drawing is the primary documented method, developed into digitally printed wallpapers and laser-engraved wood panels. Advanced textile techniques include Devoré, flocking, digital print, and 3D fabrication. Colour theory is applied with a sophisticated palette described as enhancing narrative. Selected placement images suggest printed and laser-applied surface outputs.
+
 ## Markets and Clients
+
+Positioned for luxury interiors — wallpaper and soft furnishings are explicitly stated targets. Laser-engraved room dividers are in active prototype development as part of the Thornleigh Collection. No licensing clients are documented at this stage; this is a debut practice.
 
 ## Portfolio and Presence
 
+- Website: bethmorganstudio.co.uk
+- Instagram: @Bethmorganstudio (203 followers, 30 posts)
+
 ## Career Path
+
+Beth Morgan graduated in 2025 with First Class Honours in Textile Design. The Thornleigh Collection is her professional debut — a cohesive interiors collection developed through her degree. She is positioned as a luxury textile designer from the outset, with a practice that integrates traditional hand craftsmanship with contemporary fabrication methods.
 
 ## Pattern Focus
 
+The Thornleigh Collection comprises five named designs: Feronia (yarrow within architectural window-like framework), Underglade (fern-laced woodland layers), Eirlin (Victorian card-pattern meadow florals), Castellan (castle battlement silhouette motifs), and Tessara (clean rhythmic geometry). All selected pattern images (4) are from this collection. Ideal for wallpaper and soft furnishings. Laser-engraved wood panels represent a parallel surface application under development.
+
 ## Connections
+
+- [[Home and Interior]] — primary target market
+- [[Wallpaper]] — documented application
+- [[Floral and Botanical Patterns]] — core motif family
+- [[Victorian Design]] — historical influence
+- [[Luxury Interiors]] — market positioning
+- [[Laser Engraving]] — documented fabrication method

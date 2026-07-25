@@ -27,7 +27,7 @@ bio: ''
 website: 'https://dannycrofts.com'
 website_about: ''
 accepted: 07/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/verymuchhello
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'DANNY CROFTS - Graphic Designer, Illustrator, Photographer'
 website_meta_description: >-
   DANNY CROFTS - Freelance Graphic Design, Print Design, Branding & Logo Design,
@@ -265,7 +268,7 @@ categories:
   - Womenswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -288,45 +291,190 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/53658993_2216127828704619_8665907242001760256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHqlrcy3thrIVozx5ZKBN6hengHk37uSLFkbddExyEHf-DQtF-9Ifi1TUAFgJ7MheQ&_nc_ohc=yX0PMzcgYwYQ7kNvwGjHGHJ&_nc_gid=9NssQpaF2QaPs6CztM0Syw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6zwfB1qwqO26Hv0snifQX6cPfDHhq4ywNCMlw4JV15yA&oe=6A13F5C6&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/53658993_2216127828704619_8665907242001760256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHqlrcy3thrIVozx5ZKBN6hengHk37uSLFkbddExyEHf-DQtF-9Ifi1TUAFgJ7MheQ&_nc_ohc=yX0PMzcgYwYQ7kNvwGjHGHJ&_nc_gid=9NssQpaF2QaPs6CztM0Syw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6zwfB1qwqO26Hv0snifQX6cPfDHhq4ywNCMlw4JV15yA&oe=6A13F5C6&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/verymuchhello/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5406
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/verymuchhello/profile/53658993_2216127828704619_8665907242001760256_n.jpg
+instagram_profile_image_bytes: 67568
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/verymuchhello/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/verymuchhello/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/verymuchhello/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/verymuchhello/profile/53658993_2216127828704619_8665907242001760256_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/verymuchhello/profile/53658993_2216127828704619_8665907242001760256_n.jpg
+profile_image_local: >-
+  ../../assets/designers/verymuchhello/profile/53658993_2216127828704619_8665907242001760256_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/verymuchhello/profile/53658993_2216127828704619_8665907242001760256_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1704818384_3276576550813711608_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424871809061_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880173016_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880210508_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880218333_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880252986_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880350212_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888648762_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888778123_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424905448693_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194425199156704_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741601183800_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741953482522_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815067947119_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815076274566_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815076300830_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815395172896_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437097952_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437110854_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585212338523_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585413664971_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290586697086738_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290587032637872_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290588098035309_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976002349749870_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976003658413357_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976006678289982_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976009966584080_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1776430411_3877300465221919200_3249709726.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424871809061_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888648762_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741601183800_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741953482522_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437110854_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1776430411_3877300465221919200_3249709726.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585212338523_3249709726.jpg
+  - >-
+    ../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976002349749870_3249709726.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # verymuchhello
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/verymuchhello/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/verymuchhello/profile/53658993_2216127828704619_8665907242001760256_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1704818384_3276576550813711608_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1704818384_3276576550813711608_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424871809061_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424871809061_3249709726.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880173016_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880173016_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880210508_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880210508_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880218333_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880218333_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880252986_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880252986_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880350212_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424880350212_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888648762_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888648762_3249709726.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888778123_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424888778123_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424905448693_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194424905448693_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194425199156704_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706084133_3287194425199156704_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741601183800_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741601183800_3249709726.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741953482522_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1706600824_3291528741953482522_3249709726.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815067947119_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815067947119_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815076274566_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815076274566_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815076300830_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815076300830_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815395172896_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815395172896_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437097952_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437097952_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437110854_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1713586259_3350126815437110854_3249709726.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585212338523_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585212338523_3249709726.jpg --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585413664971_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290585413664971_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290586697086738_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290586697086738_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290587032637872_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290587032637872_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290588098035309_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772733771_3846290588098035309_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976002349749870_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976002349749870_3249709726.jpg --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976003658413357_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976003658413357_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976006678289982_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976006678289982_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976009966584080_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1772815320_3846976009966584080_3249709726.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/verymuchhello/instagram/verymuchhello_1776430411_3877300465221919200_3249709726.jpg)<br><!-- image:../../assets/designers/verymuchhello/instagram/verymuchhello_1776430411_3877300465221919200_3249709726.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Danny Crofts is an Edinburgh-based freelance graphic and print designer, illustrator, and art director working primarily within fashion, sportswear, and music. His apparel design practice spans repeat pattern creation, full range design, creative direction, and brand artwork for global clients. He also operates the creative projects @quiet__ones and @t0pzz.
+
 ## Style and Aesthetic
+
+Selected Instagram patterns suggest bold, graphic illustration influenced by streetwear, sub-culture aesthetics, and music. Work draws on typography, printmaking traditions, and graphic design sensibility — consistent with campaigns for G-Star RAW, Adidas, and Scotch & Soda. The visual language connects urban sub-culture references with fashion-forward application. Selected placements indicate apparel and product application contexts.
 
 ## Techniques and Tools
 
+Works digitally across graphic design, print design, and illustration. Services include apparel graphic design, full range design, merchandise design, concept creation, trend research, branding, logo design, and packaging. Documented work with Montana Spray Paints and published a book with Publikat (illustrated, designed, and wrote). Also works in mural painting.
+
 ## Markets and Clients
+
+Primary markets: fashion, sportswear, and music. Documented clients include Adidas Originals, Adidas Specialist Sports, The North Face, G-Star RAW (including G-Star RAW x Pharrell Williams and G-Star RAW x Jaden Smith campaigns), Scotch & Soda, K1X (Alpha Industries Polar Jacket repeat pattern), Thebe Magugu, Spotify, Warner Music, and Coca-Cola. Music clients include Black Sherif (EMPIRE Records) and Moonchild Sanelly (TRANSGRESSIVE Records). Work on the Adidas x Rich Mnisi collaborative collection also documented.
 
 ## Portfolio and Presence
 
+- Website: https://dannycrofts.com
+- Instagram: @verymuchhello
+
 ## Career Path
+
+Edinburgh-based freelance creative. Runner-up at Graphic Design Festival Scotland. Work published in GQ, DAZED, The Source, The Fader, HypeBeast, Highsnobiety, and British Vogue. Work sold at the Stedelijk Museum and MOMA SF; exhibited at Montana Gallery, Barcelona. Co-authored and illustrated a book published by Publikat. Active across the related projects @quiet__ones and @t0pzz.
 
 ## Pattern Focus
 
+Selected Instagram patterns suggest graphic, print-focused work — bold typography-integrated illustration and structured all-over prints suited to apparel graphics. The K1X & Alpha Industries Polar Jacket repeat confirms commercial repeat pattern construction for outerwear. Pattern work is embedded in a broader apparel graphic design practice targeting [[Fashion]] and [[Sportswear]] markets.
+
 ## Connections
+
+- Adidas Originals (client)
+- Adidas x Rich Mnisi (collaborative project)
+- G-Star RAW (client — multiple campaigns including Pharrell Williams, Jaden Smith)
+- K1X (client — Alpha Industries collab)
+- The North Face (client)
+- Thebe Magugu (client)
+- Scotch & Soda (client)
+- Black Sherif / EMPIRE Records (client)
+- [[Fashion]] market
+- [[Sportswear]] market

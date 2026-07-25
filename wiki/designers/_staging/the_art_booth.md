@@ -20,7 +20,7 @@ bio: ''
 website: 'https://theartbooth.co.uk'
 website_about: ''
 accepted: 05/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/the_art_booth
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Artist | The Art Booth
 website_meta_description: >-
   The Art Booth is a place to view work by Dawn, who has a real passion for
@@ -154,7 +157,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -178,45 +181,167 @@ instagram_profile_pic_url: >-
   https://instagram.fric1-2.fna.fbcdn.net/v/t51.2885-19/315914657_5792820724114708_574572131945256454_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFWu_3OQ32zf25WhVj02OCP-m48u9zjh47Eutd1eD8kHWYTr8QMsdqd9nnOy7L5F2A&_nc_ohc=x0cnXwPJvA0Q7kNvwHTKWKy&_nc_gid=jU_8L0aHazHARU2LH6lGag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6tcLWbu_KdpWG9a_5Qn2f_sITTaPMnYQ99ARs_3ADzVA&oe=6A13F4B1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fric1-2.fna.fbcdn.net/v/t51.2885-19/315914657_5792820724114708_574572131945256454_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fric1-2.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gFWu_3OQ32zf25WhVj02OCP-m48u9zjh47Eutd1eD8kHWYTr8QMsdqd9nnOy7L5F2A&_nc_ohc=x0cnXwPJvA0Q7kNvwHTKWKy&_nc_gid=jU_8L0aHazHARU2LH6lGag&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6tcLWbu_KdpWG9a_5Qn2f_sITTaPMnYQ99ARs_3ADzVA&oe=6A13F4B1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6471
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/the_art_booth/profile/315914657_5792820724114708_574572131945256454_n.jpg
+instagram_profile_image_bytes: 112026
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/the_art_booth/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/the_art_booth/profile/315914657_5792820724114708_574572131945256454_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/the_art_booth/profile/315914657_5792820724114708_574572131945256454_n.jpg
+profile_image_local: >-
+  ../../assets/designers/the_art_booth/profile/315914657_5792820724114708_574572131945256454_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/the_art_booth/profile/315914657_5792820724114708_574572131945256454_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1769198868_3816639191379877489_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821625750997592_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821629324544699_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634474404112161_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634479428859799_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634480922056605_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634483572826051_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634486433333919_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368849120453914_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368854321386151_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368876811227099_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368930867445963_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368952853997140_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764105179848_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764180709520_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037125419915337_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037128825648151_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037132097147358_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153004786029098_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153015540105288_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153020942467982_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153026017415820_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153033558863925_1572721541.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1769198868_3816639191379877489_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821625750997592_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634474404112161_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368849120453914_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368854321386151_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368876811227099_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368930867445963_1572721541.jpg
+  - >-
+    ../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764105179848_1572721541.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # the_art_booth
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/the_art_booth/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/the_art_booth/profile/315914657_5792820724114708_574572131945256454_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1769198868_3816639191379877489_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1769198868_3816639191379877489_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821625750997592_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821625750997592_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821629324544699_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774466862_3860821629324544699_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634474404112161_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634474404112161_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634479428859799_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634479428859799_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634480922056605_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634480922056605_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634483572826051_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634483572826051_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634486433333919_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1774683374_3862634486433333919_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368849120453914_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368849120453914_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368854321386151_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368854321386151_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368876811227099_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368876811227099_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368930867445963_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368930867445963_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368952853997140_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1776677194_3879368952853997140_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764105179848_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764105179848_1572721541.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764180709520_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1778515738_3894794764180709520_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037125419915337_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037125419915337_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037128825648151_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037128825648151_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037132097147358_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1778783702_3897037132097147358_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153004786029098_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153004786029098_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153015540105288_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153015540105288_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153020942467982_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153020942467982_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153026017415820_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153026017415820_1572721541.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153033558863925_1572721541.jpg)<br><!-- image:../../assets/designers/the_art_booth/instagram/the_art_booth_1779035750_3899153033558863925_1572721541.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Dawn Booth is a UK-based artist and surface designer based in Nottingham, working under The Art Booth brand. She is a Whistlefish Artist (galleries in Devon and Cornwall), appeared as a Wild Card on Landscape Artist of the Year 2017, and is featured in *In Her Studio* magazine. Her work is defined by vibrant colour and an impressionistic, whimsical style.
+
 ## Style and Aesthetic
+
+Selected images suggest colourful, expressive work in an impressionistic vein — floral and botanical subjects painted with gestural energy and a rich, joyful palette. Work is original and individually crafted rather than digitally constructed repeat design, though selected images indicate surface and stationery suitability. Strong colour confidence is the consistent signature across subjects.
 
 ## Techniques and Tools
 
+Primarily acrylic painting, with openness to mixed media, texture, and colour experimentation. Work originates as original fine art; surface design output is adapted from original paintings rather than digitally built patterns.
+
 ## Markets and Clients
+
+Stationery and art licensing. Commercially active via Whistlefish galleries, exhibition sales, and direct online shop. Work has been purchased internationally. Partner relationships with Atlas Project UK; featured in Euphoric Art Collections and Global Art Times. Featured in *In Her Studio* magazine.
 
 ## Portfolio and Presence
 
+- Website: https://theartbooth.co.uk
+- Instagram: https://instagram.com/the_art_booth
+
 ## Career Path
+
+Has been painting seriously since 2013 following a life-changing decision to pursue art full-time. Wild Card on Landscape Artist of the Year 2017. Exhibited in Florence, Paris, Austria, and London. Ran "True Colours" Exhibition in Woodstock, Cotswolds 2020–2023. Represented by Whistlefish galleries.
 
 ## Pattern Focus
 
+Floral and botanical painting with expressive colour — trees, flowers, and natural subjects rendered with impressionistic energy. Selected images suggest surface potential in colourful all-over and scattered floral compositions suited to stationery and home licensing.
+
 ## Connections
+
+- [[Whistlefish]] — gallery representation
+- [[Stationery]]
+- [[Fine Art Painting]]
+- [[Botanical]]
+- [[Floral]]

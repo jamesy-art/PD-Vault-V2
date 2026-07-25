@@ -22,7 +22,7 @@ bio: ''
 website: 'https://liazawackidesign.com/en'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/liazawackidesign
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Lia Zawacki Design
 website_meta_description: Lia Zawacki Design Textildesign und Illustration.
 website_about_raw: >-
@@ -279,7 +282,7 @@ categories:
   - Womenswear
   - Menswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -304,40 +307,156 @@ instagram_profile_image_bytes: 8458
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/liazawackidesign/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1659030389_2892479007682036033_2010105002.webp
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1720092141_3404702108257696693_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429866230_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429903866_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483828994602_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483829141161_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207484038827720_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1754992996_3697471704792098329_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1755789725_3704155147525468589_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756398599_3709262752914366043_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539277600489_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539294386722_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539738996895_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1757493833_3718450245719082508_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175090989944_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175091001652_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175091032439_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175158113517_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175191659089_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1769941498_3822866968987042131_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1769941498_3822866980102004681_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1774867742_3864192397244903632_2010105002.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1659030389_2892479007682036033_2010105002.webp
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1720092141_3404702108257696693_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429866230_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483829141161_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1755789725_3704155147525468589_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539277600489_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1757493833_3718450245719082508_2010105002.jpg
+  - >-
+    ../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175158113517_2010105002.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # liazawackidesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/liazawackidesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/liazawackidesign/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1659030389_2892479007682036033_2010105002.webp)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1659030389_2892479007682036033_2010105002.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1720092141_3404702108257696693_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1720092141_3404702108257696693_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429866230_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429866230_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429903866_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1744983239_3613503776429903866_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483828994602_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483828994602_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483829141161_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207483829141161_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207484038827720_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1753292569_3683207484038827720_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1754992996_3697471704792098329_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1754992996_3697471704792098329_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1755789725_3704155147525468589_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1755789725_3704155147525468589_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756398599_3709262752914366043_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756398599_3709262752914366043_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539277600489_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539277600489_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539294386722_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539294386722_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539738996895_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1756990805_3714230539738996895_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1757493833_3718450245719082508_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1757493833_3718450245719082508_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175090989944_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175090989944_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175091001652_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175091001652_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175091032439_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175091032439_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175158113517_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175158113517_2010105002.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175191659089_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1762774558_3762748175191659089_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1769941498_3822866968987042131_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1769941498_3822866968987042131_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1769941498_3822866980102004681_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1769941498_3822866980102004681_2010105002.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/liazawackidesign/instagram/liazawackidesign_1774867742_3864192397244903632_2010105002.jpg)<br><!-- image:../../assets/designers/liazawackidesign/instagram/liazawackidesign_1774867742_3864192397244903632_2010105002.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Lia Zawacki Design is a freelance textile design studio based in Germany, founded by Lia Zawacki in 2024. The studio develops original print design and illustration for fashion, swimwear, and home textiles, with a focus on hand-drawn and hand-painted work. Services include ready-to-use print licensing from a growing collection, bespoke commissioned prints, and creative direction for collection development.
+
 ## Style and Aesthetic
+
+Selected Instagram images and website documentation suggest a detail-rich, hand-crafted aesthetic. The collection spans tropical botanical prints, floral repeats in delicate pastel and bold warm tones (including 70s-inspired pastoral variants), opulent paisley in blue and gold, watercolour shells, and animal motifs (elephant and lion in earthy tones). Website collection notes also reference patchwork designs in blue and white. Colour ranges from soft pastels to rich oranges and deep blues.
 
 ## Techniques and Tools
 
+Hand-painted and hand-drawn illustration, including watercolour. Digital finishing for repeating, scaling, and colour adjustment. Services include colorway development, motif scaling, and embroidery design. Stated approach: "meticulous attention to detail."
+
 ## Markets and Clients
+
+Fashion, swimwear, and home textiles. Studio offers ready-to-use exclusive print licensing, bespoke commissioned print design, and creative direction. Clients are brands seeking original print identities. No named clients documented.
 
 ## Portfolio and Presence
 
+- Website: https://liazawackidesign.com/en
+- Instagram: @liazawackidesign (1,235 followers)
+- Contact: info@liazawackidesign.com
+
 ## Career Path
+
+Lia Zawacki Design founded in 2024. Freelance textile designer and illustrator based in Germany. No further career history documented beyond the current studio.
 
 ## Pattern Focus
 
+Specialises in hand-crafted repeat prints. Documented types: botanical and tropical all-overs, 70s-inspired florals (pastel and detail-rich), opulent paisley, watercolour shell prints, and figurative animal motifs. Suitable for fashion, swimwear, and home textiles. Customisation, colorway development, and repeat scaling offered as standard services.
+
 ## Connections
+
+- [[Fashion]]
+- [[Swimwear]]
+- [[Home Textiles]]
+- [[Flower Pattern]]
+- [[Paisley]]
+- [[Illustration]]

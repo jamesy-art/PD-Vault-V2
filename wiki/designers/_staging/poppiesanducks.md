@@ -26,7 +26,7 @@ bio: ''
 website: 'https://poppiesandducks.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/poppiesanducks
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Poppies and Ducks | Textile and Surface Pattern Design
 website_meta_description: >-
   Hello, I'm Benedetta, a graphic designer and illustrator and I've always loved
@@ -285,7 +288,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -302,45 +305,196 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/498015313_18041415980553888_7033364161327021493_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH9VemyefeL7E1Pqm9Plll-pPiWzKjt6TN9DXQtIlpH6GerC1Mvs3HFna7z49t36ic&_nc_ohc=8V6r0eRaOLcQ7kNvwGjyHey&_nc_gid=Da3G3cJnb0YDmfiOlUC72w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Kkfwr8LgNM5B9tm3b7rgQnIPReZjYo9z36x_6eb6-iQ&oe=6A13F311&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/498015313_18041415980553888_7033364161327021493_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH9VemyefeL7E1Pqm9Plll-pPiWzKjt6TN9DXQtIlpH6GerC1Mvs3HFna7z49t36ic&_nc_ohc=8V6r0eRaOLcQ7kNvwGjyHey&_nc_gid=Da3G3cJnb0YDmfiOlUC72w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Kkfwr8LgNM5B9tm3b7rgQnIPReZjYo9z36x_6eb6-iQ&oe=6A13F311&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/poppiesanducks/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7009
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/poppiesanducks/profile/498015313_18041415980553888_7033364161327021493_n.jpg
+instagram_profile_image_bytes: 160375
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/poppiesanducks/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/poppiesanducks/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/poppiesanducks/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/poppiesanducks/profile/498015313_18041415980553888_7033364161327021493_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/poppiesanducks/profile/498015313_18041415980553888_7033364161327021493_n.jpg
+profile_image_local: >-
+  ../../assets/designers/poppiesanducks/profile/498015313_18041415980553888_7033364161327021493_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/poppiesanducks/profile/498015313_18041415980553888_7033364161327021493_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1616756939_2537863612937142019_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1618580105_2553157433477821474_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1621356586_2576448244122888256_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1624639480_2603987158509050159_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271890087021_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271898501841_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271915330376_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271923824798_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654434504_2853925935314063319_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654886700_2857719222772675075_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1656323480_2869771811840312613_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1664209117_2935921332273618731_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1673252874_3011785858713471875_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1677081927_3043906287956049811_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488141355848_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488351148412_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1701265028_3246768841051188810_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1701265028_3246768841319647985_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731750359355759_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731752523603902_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731757523234860_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731760803170778_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743394680466_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743394725922_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743478590394_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743747030455_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743747038372_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638367437179_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638367493477_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638577185745_46689273887.jpg
+instagram_image_count: 30
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1618580105_2553157433477821474_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1621356586_2576448244122888256_46689273887.jpg
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271898501841_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654434504_2853925935314063319_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654886700_2857719222772675075_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1656323480_2869771811840312613_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488351148412_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731750359355759_46689273887.webp
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638577185745_46689273887.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271915330376_46689273887.webp
+trash_images: []
+selected_pattern_count: 9
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # poppiesanducks
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/poppiesanducks/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/poppiesanducks/profile/498015313_18041415980553888_7033364161327021493_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1616756939_2537863612937142019_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1616756939_2537863612937142019_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1618580105_2553157433477821474_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1618580105_2553157433477821474_46689273887.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1621356586_2576448244122888256_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1621356586_2576448244122888256_46689273887.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1624639480_2603987158509050159_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1624639480_2603987158509050159_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271890087021_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271890087021_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271898501841_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271898501841_46689273887.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271915330376_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271915330376_46689273887.webp --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271923824798_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1638955695_2724080271923824798_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654434504_2853925935314063319_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654434504_2853925935314063319_46689273887.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654886700_2857719222772675075_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1654886700_2857719222772675075_46689273887.webp --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1656323480_2869771811840312613_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1656323480_2869771811840312613_46689273887.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1664209117_2935921332273618731_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1664209117_2935921332273618731_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1673252874_3011785858713471875_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1673252874_3011785858713471875_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1677081927_3043906287956049811_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1677081927_3043906287956049811_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488141355848_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488141355848_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488351148412_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1691170463_3162089488351148412_46689273887.webp --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1701265028_3246768841051188810_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1701265028_3246768841051188810_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1701265028_3246768841319647985_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1701265028_3246768841319647985_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731750359355759_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731750359355759_46689273887.webp --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731752523603902_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731752523603902_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731757523234860_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731757523234860_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731760803170778_46689273887.webp)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1769806850_3821731760803170778_46689273887.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743394680466_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743394680466_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743394725922_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743394725922_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743478590394_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743478590394_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743747030455_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743747030455_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743747038372_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1776688138_3879463743747038372_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638367437179_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638367437179_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638367493477_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638367493477_46689273887.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638577185745_46689273887.jpg)<br><!-- image:../../assets/designers/poppiesanducks/instagram/poppiesanducks_1778945592_3898400638577185745_46689273887.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Benedetta Conforzi is an Italian textile and surface pattern designer working under the brand Poppies and Ducks. Based in Italy, she brings a background in set design, graphic design, and cultural institution work — including roles at the Children's Museum of Rome and the Rome Opera — to a surface pattern practice with a consistent seasonal collection cadence. Her designs are available through Spoonflower, Little Cocalico, and Hawthorne Supply Co.
+
 ## Style and Aesthetic
+
+Conforzi's work is warm, illustrative, and story-led. Collections reference the Italian countryside, Mediterranean florals, farm animals, llamas, and conservation themes. Dated collections include Mediterranean Blooming (2025), Cuddles and Petals (2025), Cozy Farm (2024), Sweet Country Life (2023), Olà pequena lhama! (2023), Romantic May (2022), and Save our species (2022). Selected pattern images suggest soft, balanced seamless repeats with naturalistic colour and motif work suited to fabric and wallpaper. One selected placement image contextualises print in a home fabric application.
 
 ## Techniques and Tools
 
+Works digitally; described as a vector/vectorial designer in her own metadata. Creates seamless patterns across multiple repeat scales for fabric, wallpaper, quilting, and home decor contexts. Surface pattern formats include all-over repeats and co-ordinated collection sets.
+
 ## Markets and Clients
+
+Distributed through Spoonflower, Little Cocalico, and Hawthorne Supply Co (where the Mediterranean Blooming collection is listed). Target categories include children's apparel, nursery, quilting and patchwork, home decor, and sustainable fashion. Cuddles and Petals collection specifically designed for children's fabric and gender-neutral nursery projects. Licensing enquiries accepted via email.
 
 ## Portfolio and Presence
 
+- Website: poppiesandducks.com
+- Instagram: @poppiesanducks (1,380 followers, 122 posts)
+- Spoonflower: active
+- Little Cocalico: active
+- Hawthorne Supply Co: Mediterranean Blooming collection listed
+
 ## Career Path
+
+Trained as a Set Designer and Graphic Designer. Worked at the Children's Museum of Rome in visual communication and exhibition graphics, and as a stage design assistant at the Rome Opera. Transitioned to surface pattern design from this combined background in visual communication, colour, and drawing. Her son's birth catalysed the decision to build Poppies and Ducks as a full professional practice.
 
 ## Pattern Focus
 
+Specialises in children's illustration-driven surface design and nature-inspired botanical prints. Collections are date-stamped and thematically coherent, suggesting a seasonal development cadence. Strong in fabric and wallpaper repeat formats, with documented distribution across multiple trade platforms.
+
 ## Connections
+
+- [[Spoonflower]] (distribution platform)
+- [[Hawthorne Supply Co]] (retail partner; Mediterranean Blooming)
+- [[Kidswear]] (primary market)
+- [[Home Textiles]] (secondary market)
+- [[Mediterranean]] (key collection thematic)
+- [[Art Licensing]] (business model)

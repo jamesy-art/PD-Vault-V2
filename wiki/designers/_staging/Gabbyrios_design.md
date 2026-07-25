@@ -29,7 +29,7 @@ bio: ''
 website: 'https://Gabbyriosdesign.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/gabbyrios_design
 profile_url: ''
 instagram_images:
@@ -46,9 +46,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Gabby Rios Design | Discover Unique Patterns Today
 website_meta_description: >-
   Explore Gabby Rios' nature-inspired surface and packaging designs. Perfect for
@@ -277,7 +280,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -296,45 +299,160 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/441498041_984233173054799_6575889157023528203_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGYv1WokRppgbkY16mRm-FUS8LfPBsYoqcvUWFXItIi3GfvbX_YJSLeZs9VvPdGpSQ&_nc_ohc=GVHOc7vJWHoQ7kNvwGb4Z48&_nc_gid=XJajflXLNce6B2egoc819g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vbFbDAe7Fxc6XnPZBu_1YM1XB89XP4Q5LYX8ipCTYXA&oe=6A13FD84&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/441498041_984233173054799_6575889157023528203_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGYv1WokRppgbkY16mRm-FUS8LfPBsYoqcvUWFXItIi3GfvbX_YJSLeZs9VvPdGpSQ&_nc_ohc=GVHOc7vJWHoQ7kNvwGb4Z48&_nc_gid=XJajflXLNce6B2egoc819g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7vbFbDAe7Fxc6XnPZBu_1YM1XB89XP4Q5LYX8ipCTYXA&oe=6A13FD84&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2966
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/gabbyrios_design/profile/441498041_984233173054799_6575889157023528203_n.jpg
+instagram_profile_image_bytes: 50364
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/gabbyrios_design/profile/441498041_984233173054799_6575889157023528203_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/gabbyrios_design/profile/441498041_984233173054799_6575889157023528203_n.jpg
+profile_image_local: >-
+  ../../assets/designers/gabbyrios_design/profile/441498041_984233173054799_6575889157023528203_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/gabbyrios_design/profile/441498041_984233173054799_6575889157023528203_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743611408_3601995997774344857_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743784205_3603445516580838727_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743870607_3604170296790908011_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1744043408_3605619857933829610_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1749313806_3649831169374588342_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391492794901_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391568440506_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627025391_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627132897_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391635460752_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391769605729_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678364372149_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678381031046_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414683129_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414701376_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983423119632_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1760468714_3743405353557221084_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1760468714_3743405353607533063_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573072366077_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573357619944_5329995988.jpg
+instagram_image_count: 20
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743784205_3603445516580838727_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1744043408_3605619857933829610_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1749313806_3649831169374588342_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391492794901_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627025391_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678381031046_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414701376_5329995988.jpg
+  - >-
+    ../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573072366077_5329995988.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # gabbyrios_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/gabbyrios_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/gabbyrios_design/profile/441498041_984233173054799_6575889157023528203_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743611408_3601995997774344857_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743611408_3601995997774344857_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743784205_3603445516580838727_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743784205_3603445516580838727_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743870607_3604170296790908011_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1743870607_3604170296790908011_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1744043408_3605619857933829610_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1744043408_3605619857933829610_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1749313806_3649831169374588342_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1749313806_3649831169374588342_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391492794901_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391492794901_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391568440506_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391568440506_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627025391_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627025391_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627132897_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391627132897_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391635460752_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391635460752_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391769605729_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1751059291_3664473391769605729_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678364372149_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678364372149_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678381031046_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1753977568_3688953678381031046_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414683129_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414683129_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414701376_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983414701376_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983423119632_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1757001468_3714319983423119632_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1760468714_3743405353557221084_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1760468714_3743405353557221084_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1760468714_3743405353607533063_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1760468714_3743405353607533063_5329995988.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573072366077_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573072366077_5329995988.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573357619944_5329995988.jpg)<br><!-- image:../../assets/designers/gabbyrios_design/instagram/gabbyrios_design_1763417263_3768139573357619944_5329995988.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Gabby Rios is a Los Angeles-based graphic and surface pattern designer with a BFA in Graphic Design from Otis College of Art and Design (2017) and over 10 years of professional design experience. Born and raised in San Diego, she pivoted toward surface pattern design after her formal graphic design career, developing a nature-inspired practice that blends traditional painting with digital vector production. Her patterns are available for licensing (exclusive and non-exclusive), via Etsy (300+ sales), and as custom pattern design commissions.
+
 ## Style and Aesthetic
+
+Nature-inspired organic compositions built from India ink painting and mark-making. Selected pattern images suggest botanical motifs — her named collection "Rustic Blooms" indicates a floral direction — with an organic, flowing quality distinctive to the ink-first process. The aesthetic bridges hand-painted warmth with clean graphic design sensibility developed through a formal BFA background.
 
 ## Techniques and Tools
 
+A two-stage process: traditional painting or drawing with India ink → import into Adobe Illustrator for vector conversion. Also creates on iPad using Procreate for drawings that retain a hand-drawn, organic feel. The India ink origin produces distinctive organic shapes that differentiate the work from purely digital vector patterns.
+
 ## Markets and Clients
+
+Print, packaging, web, and digital applications are the stated scope. Etsy shop (300+ sales, 100+ five-star reviews) provides a direct consumer channel. Licensing offered exclusively and non-exclusively. Custom pattern design commissions accepted. Open to new partnerships and collaborations.
 
 ## Portfolio and Presence
 
+- Website: [gabbyriosdesign.com](https://gabbyriosdesign.com)
+- Instagram: [@gabbyrios_design](https://instagram.com/Gabbyrios_design) — 2,238 followers, 338 posts
+- Etsy: active (300+ sales)
+
 ## Career Path
+
+Born and raised in San Diego; moved to Los Angeles in 2013. BFA in Graphic Design, Otis College of Art and Design, 2017. Worked across print, packaging, web, and digital design for 10+ years before discovering surface pattern design and shifting creative focus. Now operates a nature-inspired pattern practice alongside graphic design skills.
 
 ## Pattern Focus
 
+Nature-inspired botanical and organic repeat patterns derived from India ink painting. Latest declared collection: Rustic Blooms. Selected patterns suggest floral and plant-based repeat compositions with a distinctive painted origin — organic forms that read as intentionally hand-crafted rather than digitally constructed.
+
 ## Connections
+
+- [[Botanical Patterns]]
+- [[Floral Patterns]]
+- [[Surface Pattern Design]]
+- [[Licensing]]
+- [[Graphic Design]]
+- [[Nature Illustration]]

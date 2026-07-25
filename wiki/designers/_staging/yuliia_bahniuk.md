@@ -25,7 +25,7 @@ bio: ''
 website: 'https://yuliiabahniuk.com'
 website_about: ''
 accepted: 26/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/yuliia_bahniuk
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Bird & Nature Illustration | Yuliia Bahniuk – Folk Art & Patterns
 website_meta_description: >-
   Yuliia Bahniuk (Юлія Багнюк) is a Ukrainian illustrator, artist and surface
@@ -244,7 +247,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -261,45 +264,157 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/317406636_2346539185501932_6515047501015491607_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFJC7ZUX1-vcnCnucqDdsFvx3S-vzbjZE8Zeb3ZzGvJvYAgoYIghgapITp869el1kI&_nc_ohc=nrTp_KH6HFIQ7kNvwGPt4JW&_nc_gid=jA1qRoKbiejzvUBzWuQEwg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af79Ur6lM8nggcYB1VLf_bM28q71sh9laKoYf2YhEerGWw&oe=6A13F128&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/317406636_2346539185501932_6515047501015491607_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFJC7ZUX1-vcnCnucqDdsFvx3S-vzbjZE8Zeb3ZzGvJvYAgoYIghgapITp869el1kI&_nc_ohc=nrTp_KH6HFIQ7kNvwGPt4JW&_nc_gid=jA1qRoKbiejzvUBzWuQEwg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af79Ur6lM8nggcYB1VLf_bM28q71sh9laKoYf2YhEerGWw&oe=6A13F128&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5451
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/yuliia_bahniuk/profile/317406636_2346539185501932_6515047501015491607_n.jpg
+instagram_profile_image_bytes: 122245
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/yuliia_bahniuk/profile/317406636_2346539185501932_6515047501015491607_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/yuliia_bahniuk/profile/317406636_2346539185501932_6515047501015491607_n.jpg
+profile_image_local: >-
+  ../../assets/designers/yuliia_bahniuk/profile/317406636_2346539185501932_6515047501015491607_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/yuliia_bahniuk/profile/317406636_2346539185501932_6515047501015491607_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1736598837_3543170313926389198_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1737638188_3551889018773995045_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741009226_3580167341176685521_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741612621_3585228978665483669_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1742307667_3591059453560694741_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1748001314_3638821222424865798_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195020893579_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195146688360_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195264155668_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195264157746_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759376638_3734244358737403227_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759490296_3735197789392609233_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759578623_3735938726070730528_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759674245_3736740865755602984_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759816288_3737932405153126391_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1765207295_3783155450683111189_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1766385987_3793043041528112910_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1779883777_3906266587462652123_813196644.jpg
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1736598837_3543170313926389198_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1737638188_3551889018773995045_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741612621_3585228978665483669_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1742307667_3591059453560694741_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1748001314_3638821222424865798_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1766385987_3793043041528112910_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1779883777_3906266587462652123_813196644.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759376638_3734244358737403227_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759578623_3735938726070730528_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759674245_3736740865755602984_813196644.jpg
+  - >-
+    ../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759816288_3737932405153126391_813196644.jpg
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # yuliia_bahniuk
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/yuliia_bahniuk/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/yuliia_bahniuk/profile/317406636_2346539185501932_6515047501015491607_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1736598837_3543170313926389198_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1736598837_3543170313926389198_813196644.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1737638188_3551889018773995045_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1737638188_3551889018773995045_813196644.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741009226_3580167341176685521_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741009226_3580167341176685521_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741612621_3585228978665483669_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1741612621_3585228978665483669_813196644.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1742307667_3591059453560694741_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1742307667_3591059453560694741_813196644.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1748001314_3638821222424865798_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1748001314_3638821222424865798_813196644.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195020893579_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195020893579_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195146688360_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195146688360_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195264155668_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195264155668_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195264157746_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1756731245_3712053195264157746_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759376638_3734244358737403227_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759376638_3734244358737403227_813196644.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759490296_3735197789392609233_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759490296_3735197789392609233_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759578623_3735938726070730528_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759578623_3735938726070730528_813196644.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759674245_3736740865755602984_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759674245_3736740865755602984_813196644.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759816288_3737932405153126391_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1759816288_3737932405153126391_813196644.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1765207295_3783155450683111189_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1765207295_3783155450683111189_813196644.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1766385987_3793043041528112910_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1766385987_3793043041528112910_813196644.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1779883777_3906266587462652123_813196644.jpg)<br><!-- image:../../assets/designers/yuliia_bahniuk/instagram/yuliia_bahniuk_1779883777_3906266587462652123_813196644.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Yuliia Bahniuk is a Ukrainian illustrator, surface pattern designer, and coloring book artist currently based in India. She specialises in bird illustration and folk art rooted in Ukrainian decorative traditions, working across publishing, surface pattern licensing, and print-on-demand applications. Licensing and collaborations are open.
+
 ## Style and Aesthetic
+
+Vibrant, intricate illustrations with rich colour and strong storytelling detail characterise her work. Selected Instagram images suggest complex all-over patterns featuring birds, folk motifs, and dense organic forms. Ukrainian decorative folk art informs both the compositional density and the colour vocabulary — bright, layered, and ornate. POSCA markers deliver bold, traditional mark-making in a contemporary application.
 
 ## Techniques and Tools
 
+POSCA markers are her primary physical medium. Her bird illustration practice is species-specific, referencing named birds: Common Kingfisher, Eurasian Hoopoe, Great Grey Owl, Blue Tit, Golden Oriole, Bullfinch, Jay, Raven, Woodpecker, and Fieldfare, among others. Digital production supports surface pattern output.
+
 ## Markets and Clients
+
+Publishing (coloring books, picture books, wildlife magazines, greeting cards) and surface pattern licensing (apparel, home décor, stationery) are documented markets. Selected placement images suggest work on notebooks, greeting cards, and fabric applications.
 
 ## Portfolio and Presence
 
+- Website: https://yuliiabahniuk.com
+- Instagram: https://instagram.com/yuliia_bahniuk (5,720 followers)
+
 ## Career Path
+
+Ukrainian by origin, now based in India. An avid birdwatcher — field observation directly informs her illustration practice. Describes herself as an eco enthusiast alongside her creative practice. Coloring book production is a documented commercial revenue stream alongside surface pattern licensing.
 
 ## Pattern Focus
 
+Bird species illustration is the primary design territory — highly detailed, with specific ornithological reference. Ukrainian folk art motifs appear across collections as structural and decorative framing devices. Documented series include fruit doves and a black collection spanning animals, birds, tropical, ocean, and underwater life.
+
 ## Connections
+
+- [[Coloring Books]] — documented publishing market
+- [[Home Decor]] — stated market
+- [[Stationery]] — stated market
+- [[India]] — current base

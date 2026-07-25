@@ -205,7 +205,7 @@ Surface pattern design sits alongside illustration and collage as one of three c
 
 - [[Wall Art]] — core commercial market throughout her career in Spain and as a freelancer
 - [[Kids Wall Art]] — listed service area; indicates décor market targeting
-- [[Collage]] — central technique connecting her pattern practice to her fine art and editorial work
+- [[Collage Pattern]] — central technique connecting her pattern practice to her fine art and editorial work
 - [[Illustration]] — parallel discipline to surface pattern design; both listed as active services
 - [[South Africa]] — home base and primary geographic identity
 - [[Spain]] — long-term base; formative commercial career context

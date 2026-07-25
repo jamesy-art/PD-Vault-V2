@@ -23,7 +23,7 @@ bio: ''
 website: 'https://opeachyday.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/opeachyday
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Opeachyday | Explore Vibrant Design Ideas Today
 website_meta_description: >-
   Discover vibrant illustrations and design collections by Radhika at O!Peachy
@@ -259,7 +262,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -276,45 +279,160 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/309392806_145735928157850_2697538636298897677_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGHT_c2d7WksfUlY3N7WPdbiZCDVe3D9hdFXMp1rAseG9dbeYL5Ke71M3FcIHHSiIE&_nc_ohc=GUcZMHsJU88Q7kNvwHdA-yf&_nc_gid=8DHE7FYsgnB7BATn8tcKNw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pDjNdzOQ1SGIBb2ETbqrhinkEenuR5j4bw1gkwuLs_A&oe=6A13D4B6&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/309392806_145735928157850_2697538636298897677_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGHT_c2d7WksfUlY3N7WPdbiZCDVe3D9hdFXMp1rAseG9dbeYL5Ke71M3FcIHHSiIE&_nc_ohc=GUcZMHsJU88Q7kNvwHdA-yf&_nc_gid=8DHE7FYsgnB7BATn8tcKNw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4pDjNdzOQ1SGIBb2ETbqrhinkEenuR5j4bw1gkwuLs_A&oe=6A13D4B6&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/opeachyday/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4364
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/opeachyday/profile/309392806_145735928157850_2697538636298897677_n.jpg
+instagram_profile_image_bytes: 120587
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/opeachyday/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/opeachyday/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/opeachyday/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/opeachyday/profile/309392806_145735928157850_2697538636298897677_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/opeachyday/profile/309392806_145735928157850_2697538636298897677_n.jpg
+profile_image_local: >-
+  ../../assets/designers/opeachyday/profile/309392806_145735928157850_2697538636298897677_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/opeachyday/profile/309392806_145735928157850_2697538636298897677_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1669126320_2977169814942574238_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1669978754_2984320552323828477_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1673612061_3014798941933466890_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159408743648_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159601685710_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159609965552_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1691476315_3164655159677088835_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713842252721_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850686296_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850709507_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850717586_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713858891467_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713884288445_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084631851673_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084833138958_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084875127804_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1739297397_3565807472992611784_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902625664723_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902625670095_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902634076041_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902952872744_55529655249.jpg
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1669126320_2977169814942574238_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1669978754_2984320552323828477_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1673612061_3014798941933466890_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159408743648_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713842252721_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1739297397_3565807472992611784_55529655249.jpg
+  - >-
+    ../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902634076041_55529655249.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # opeachyday
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/opeachyday/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/opeachyday/profile/309392806_145735928157850_2697538636298897677_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1669126320_2977169814942574238_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1669126320_2977169814942574238_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1669978754_2984320552323828477_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1669978754_2984320552323828477_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1673612061_3014798941933466890_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1673612061_3014798941933466890_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159408743648_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159408743648_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159601685710_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159601685710_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159609965552_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1691476314_3164655159609965552_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1691476315_3164655159677088835_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1691476315_3164655159677088835_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713842252721_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713842252721_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850686296_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850686296_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850709507_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850709507_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850717586_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713850717586_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713858891467_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713858891467_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713884288445_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1698687947_3225150713884288445_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084631851673_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084631851673_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084833138958_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084833138958_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084875127804_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1739144286_3564523084875127804_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1739297397_3565807472992611784_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1739297397_3565807472992611784_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902625664723_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902625664723_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902625670095_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902625670095_55529655249.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902634076041_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902634076041_55529655249.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902952872744_55529655249.jpg)<br><!-- image:../../assets/designers/opeachyday/instagram/opeachyday_1762444077_3759975902952872744_55529655249.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Radhika Modi is a London-based licensed artist and illustrator working under the O!Peachy Day! brand. After a career in science and technology, she transitioned to full-time illustration at age 40, developing a practice centred on vibrant, joy-filled imagery. She creates on-trend collections for licensing across tableware, stationery, and textiles, and maintains a Spoonflower shop.
+
 ## Style and Aesthetic
+
+Her work celebrates small everyday moments through bright, optimistic colour and illustrative warmth. She follows commercial trends actively — citing examples such as romantic bows, après-ski alpine charm, and moody dark botanicals — and interprets them into cohesive licensed collections positioned for multiple product categories.
 
 ## Techniques and Tools
 
+Digital illustration with strong colour sensibility and trend awareness. Designs cohesive collections calibrated to commercial cycles. Works to licensing briefs across tableware, stationery, and textile product formats.
+
 ## Markets and Clients
+
+Tableware, stationery, and textiles are primary markets. Available for licensing and commissions. Spoonflower shop for print-on-demand fabric and wallpaper.
 
 ## Portfolio and Presence
 
+- Instagram: @opeachyday
+- Website: O!Peachy Day!
+- Spoonflower: available
+
 ## Career Path
+
+Background in science and technology. Became a full-time artist at age 40, based in London. Built the O!Peachy Day! brand as a licensed illustration practice targeting tableware, stationery, and textiles markets.
 
 ## Pattern Focus
 
+Vibrant, trend-aware illustrative patterns for licensing — florals, seasonal themes, and mood-driven collections. Style is joyful and commercially positioned, designed to travel across multiple product categories simultaneously.
+
 ## Connections
+
+- [[Stationery]] market
+- [[Tableware]] market
+- [[Spoonflower]]
+- [[Art Licensing]]
+- [[Surface Pattern Design]]

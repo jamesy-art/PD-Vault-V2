@@ -28,7 +28,7 @@ bio: ''
 website: 'https://denstudios.com.au'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/den____studios
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Your Site Title
 website_meta_description: ''
 website_about_raw: >-
@@ -291,7 +294,7 @@ categories:
   - Menswear
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -309,47 +312,130 @@ instagram_verified: false
 instagram_business_account: false
 instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/491903798_18099419032527015_3935441081862582377_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDYuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFlivFa5-0FySGrVAjIYz9-9M4Fn9AwJj_4DY8SLU-teLEWUGzFwcsECfC0Tvn6EzE&_nc_ohc=i_4S9iDgPhcQ7kNvwEMQ4Lu&_nc_gid=vUAf6fe7IKMz9Bf4-Wki7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6SQnmr_O1h9kAArBH5NkC_BdsWVxrbrPrhKdRIcf7Xkw&oe=6A13DDEF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/den____studios/profile/instagram-profile.jpg
+instagram_profile_image_local: >-
+  ../../assets/designers/den____studios/profile/491903798_18099419032527015_3935441081862582377_n.jpg
 instagram_profile_imported: true
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/491903798_18099419032527015_3935441081862582377_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDYuYzIifQ&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFlivFa5-0FySGrVAjIYz9-9M4Fn9AwJj_4DY8SLU-teLEWUGzFwcsECfC0Tvn6EzE&_nc_ohc=i_4S9iDgPhcQ7kNvwEMQ4Lu&_nc_gid=vUAf6fe7IKMz9Bf4-Wki7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6SQnmr_O1h9kAArBH5NkC_BdsWVxrbrPrhKdRIcf7Xkw&oe=6A13DDEF&_nc_sid=8b3546
-instagram_profile_image_bytes: 4224
-instagram_profile_image_quality: thumbnail
-profile_image: ../../assets/designers/den____studios/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/den____studios/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/den____studios/profile/instagram-profile.jpg
+instagram_profile_image_bytes: 58699
+instagram_profile_image_quality: medium
+profile_image: >-
+  ../../assets/designers/den____studios/profile/491903798_18099419032527015_3935441081862582377_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/den____studios/profile/491903798_18099419032527015_3935441081862582377_n.jpg
+profile_image_local: >-
+  ../../assets/designers/den____studios/profile/491903798_18099419032527015_3935441081862582377_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/den____studios/profile/491903798_18099419032527015_3935441081862582377_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1737537300_3551412727405516339_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1738700194_3560797772138318304_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1739665375_3568894298781690588_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1739665375_3568894298832058765_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167665169793_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167942051905_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167950403585_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167958814350_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168017535650_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168059472901_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756271572_3708197175703284262_15783879014.jpg
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1737537300_3551412727405516339_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1738700194_3560797772138318304_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167942051905_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167950403585_15783879014.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168017535650_15783879014.jpg
+  - >-
+    ../../assets/designers/den____studios/instagram/den____studios_1756271572_3708197175703284262_15783879014.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # den____studios
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/den____studios/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/den____studios/profile/491903798_18099419032527015_3935441081862582377_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1737537300_3551412727405516339_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1737537300_3551412727405516339_15783879014.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1738700194_3560797772138318304_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1738700194_3560797772138318304_15783879014.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1739665375_3568894298781690588_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1739665375_3568894298781690588_15783879014.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1739665375_3568894298832058765_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1739665375_3568894298832058765_15783879014.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167665169793_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167665169793_15783879014.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167942051905_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167942051905_15783879014.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167950403585_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167950403585_15783879014.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167958814350_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162167958814350_15783879014.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168017535650_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168017535650_15783879014.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168059472901_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756027200_3705162168059472901_15783879014.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/den____studios/instagram/den____studios_1756271572_3708197175703284262_15783879014.jpg)<br><!-- image:../../assets/designers/den____studios/instagram/den____studios_1756271572_3708197175703284262_15783879014.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Den Studios is an Australian textile print studio founded and run by Melita Dedden, based in Narrawallee, NSW. The studio produces story-driven, colour-led prints for design-led fashion and lifestyle brands, with a primary focus on kidswear and womenswear. Den Studios operates both a custom commission service and a curated print library for approved brands.
+
 ## Style and Aesthetic
+
+The studio's tagline — "drenched in colour, laced with nostalgia" — accurately frames the visual signature. Work draws from everyday rituals, childhood magic, and a love of storytelling through print. Selected Instagram images suggest bold, graphic hero prints alongside more illustrative placement designs. The range extends from punchy, punchy motifs with strong colour contrast to softer, whimsical watercolour-style work.
 
 ## Techniques and Tools
 
+Self-taught in surface design from 2019. Practice built on converting hand drawings into digital, production-ready repeat prints. Custom commissions involve close collaboration with brands on brief interpretation, customer category, and seasonal direction. Print Library and "Ready Edits" (cohesive mini collections) are available for brand licensing.
+
 ## Markets and Clients
+
+Kidswear and womenswear brands across Australia and internationally. Named clients: Golden Child The Label (founded by Amy Mancell) and By Billie (Creative Director Charlotte Brodie). Brand access to the full Print Library and Ready Edits requires application and approval — available to fashion and lifestyle labels only. Selected placement images suggest garment applications on children's and women's styles.
 
 ## Portfolio and Presence
 
+- Website: https://denstudios.com.au
+- Instagram: https://instagram.com/den____studios (5,810 followers, 625 posts)
+- Also: TikTok, Facebook, Pinterest, Spotify
+
 ## Career Path
+
+Entered surface design in 2019 after a conversation with a friend running a small kidswear label (since grown into a leading Australian brand). Committed to designing a single print and taught herself surface design from scratch. The first print — Suns of Arley — sold out repeatedly in multiple colourways and opened the door to more brand commissions. Went full-time with Den Studios in 2022. Studio is based at 134 Seaspray Street, Narrawallee NSW 2539. Den Studios acknowledges the Yuin people as Traditional Custodians of the land.
 
 ## Pattern Focus
 
+Hero prints with bold colour-saturated motifs, placement prints, and cohesive coordinating collections ("Ready Edits"). Selected patterns suggest graphic repeat structures alongside illustrative placements. Every print described as production-ready, built for wearability and commercial clarity.
+
 ## Connections
+
+- [[Kidswear]] — primary market
+- [[Womenswear]] — secondary market
+- [[Australia]] — based
+- [[Golden Child The Label]] — named client
+- [[By Billie]] — named client

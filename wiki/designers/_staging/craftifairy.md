@@ -22,7 +22,7 @@ bio: ''
 website: 'https://craftifairy.com'
 website_about: ''
 accepted: 26/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/craftifairy
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Craftifairy wallpaper pattern design
 website_meta_description: >-
   Refined heritage, grandmillennial, and preppy wallpaper and pattern design for
@@ -208,7 +211,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -227,45 +230,165 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/451567664_8201674233196855_654910461925535947_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDUuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFzAgkcALfgdBuGFoZxTINnfXavv5mKfqx23ZKiE1H-xfzCjtqi7ZmUCVSyVFDSaQQ&_nc_ohc=Y0zMqh2_EFEQ7kNvwE-lsRQ&_nc_gid=XK0gsnbGIslgVtIJy2OSQA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5PNzBfIK7xFf7Jn8Sd5XrGapl7EAGIheS9oaleXDAtHw&oe=6A13FBBB&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/451567664_8201674233196855_654910461925535947_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDUuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFzAgkcALfgdBuGFoZxTINnfXavv5mKfqx23ZKiE1H-xfzCjtqi7ZmUCVSyVFDSaQQ&_nc_ohc=Y0zMqh2_EFEQ7kNvwE-lsRQ&_nc_gid=XK0gsnbGIslgVtIJy2OSQA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5PNzBfIK7xFf7Jn8Sd5XrGapl7EAGIheS9oaleXDAtHw&oe=6A13FBBB&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/craftifairy/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4646
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/craftifairy/profile/451567664_8201674233196855_654910461925535947_n.jpg
+instagram_profile_image_bytes: 160684
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/craftifairy/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/craftifairy/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/craftifairy/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/craftifairy/profile/451567664_8201674233196855_654910461925535947_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/craftifairy/profile/451567664_8201674233196855_654910461925535947_n.jpg
+profile_image_local: >-
+  ../../assets/designers/craftifairy/profile/451567664_8201674233196855_654910461925535947_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/craftifairy/profile/451567664_8201674233196855_654910461925535947_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1731363126_3499249987423933960_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653847554570_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653881143053_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904460495934211_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904460579742601_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904461418844350_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1734208456_3523118340307523616_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1735499546_3533948792379422902_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095647620493_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095647639997_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095865523237_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1737647266_3551965172076859574_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1739132222_3564421886747292226_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405669734615_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405678096539_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1743439342_3600552631131453446_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1743439342_3600552631139915886_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1748310710_3641416472962075663_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425901081375_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425909464447_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425934658406_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1757063805_3714842905077920334_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1757063805_3714842905094707484_9242256.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1731363126_3499249987423933960_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653847554570_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653881143053_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904461418844350_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1734208456_3523118340307523616_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095865523237_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1739132222_3564421886747292226_9242256.jpg
+  - >-
+    ../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405669734615_9242256.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # craftifairy
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/craftifairy/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/craftifairy/profile/451567664_8201674233196855_654910461925535947_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1731363126_3499249987423933960_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1731363126_3499249987423933960_9242256.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653847554570_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653847554570_9242256.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653881143053_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1731601505_3501249653881143053_9242256.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904460495934211_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904460495934211_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904460579742601_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904460579742601_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904461418844350_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1734063777_3521904461418844350_9242256.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1734208456_3523118340307523616_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1734208456_3523118340307523616_9242256.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1735499546_3533948792379422902_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1735499546_3533948792379422902_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095647620493_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095647620493_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095647639997_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095647639997_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095865523237_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1737401090_3549900095865523237_9242256.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1737647266_3551965172076859574_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1737647266_3551965172076859574_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1739132222_3564421886747292226_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1739132222_3564421886747292226_9242256.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405669734615_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405669734615_9242256.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405678096539_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1739550828_3567933405678096539_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1743439342_3600552631131453446_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1743439342_3600552631131453446_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1743439342_3600552631139915886_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1743439342_3600552631139915886_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1748310710_3641416472962075663_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1748310710_3641416472962075663_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425901081375_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425901081375_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425909464447_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425909464447_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425934658406_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1753802897_3687488425934658406_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1757063805_3714842905077920334_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1757063805_3714842905077920334_9242256.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/craftifairy/instagram/craftifairy_1757063805_3714842905094707484_9242256.jpg)<br><!-- image:../../assets/designers/craftifairy/instagram/craftifairy_1757063805_3714842905094707484_9242256.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Liat Huller Harari is an Israeli surface pattern designer working under the brand Craftifairy. She specialises in wallpaper, fabric, and stationery design with a focus on heritage, grandmillennial, and preppy aesthetics for the residential interiors market. Her work is available for licensing and custom commissions, including scale and colour changes.
+
 ## Style and Aesthetic
+
+Craftifairy's visual language is rooted in ornament, botanical motifs, and classic design reframed with a fresh sensibility. Selected Instagram patterns suggest romantic florals and heritage-inspired repeats — layered, detailed compositions that feel warm and considered rather than austere. Her palette leans toward the refined and inviting, with soft grandmillennial charm as the recurring register.
 
 ## Techniques and Tools
 
+Specific tools are not documented publicly. Liat lists pattern design and colour theory among her core skills.
+
 ## Markets and Clients
+
+Home decor — primarily wallpaper and textiles for residential interiors. Open to licensing and bespoke design commissions. Colour and scale changes available on existing designs.
 
 ## Portfolio and Presence
 
+- Website: https://craftifairy.com
+- Instagram: https://instagram.com/craftifairy
+
 ## Career Path
+
+Liat is the sole designer behind Craftifairy. Her career path within surface pattern design is not publicly documented, but her body of work reflects sustained engagement with heritage pattern traditions and the residential interiors market.
 
 ## Pattern Focus
 
+Heritage-inspired florals, ornamental botanical motifs, and grandmillennial repeats. Selected Instagram patterns indicate a consistent focus on layered floral compositions suited to wallpaper scale and home textiles.
+
 ## Connections
+
+- [[Home Decor Market]]
+- [[Botanical Patterns]]
+- [[Floral Patterns]]

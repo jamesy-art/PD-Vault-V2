@@ -27,7 +27,7 @@ bio: ''
 website: 'https://cherylbrucecreativ.com/designcollections'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/cheryl.bruce.creativ.design
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Collections | cherylbrucecreativ
 website_meta_description: >-
   Surface pattern designer, and illustrator. Fabric, print on demand, available
@@ -283,7 +286,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -305,48 +308,133 @@ instagram_profile_pic_url: >-
 instagram_profile_pic_best_url: >-
   https://scontent-dfw6-1.cdninstagram.com/v/t51.2885-19/298303806_3267824543438091_2432319277617698727_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFyreZe25DScegiqVq8RvabB1hkq7-wVRrvXRKroOTavKYLKf2mAxpb3zXJECUemYw&_nc_ohc=XVbqeEjp0x4Q7kNvwHKYN5_&_nc_gid=zO9DPxkqx134o3BSzy2vaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5RcOSVXfzMR0tPaeDA_Cd3uY9DBfGVYnCF9TPqVhBuwg&oe=6A140087&_nc_sid=8b3546
 instagram_profile_image_local: >-
-  ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7521
-instagram_profile_image_quality: thumbnail
+  ../../assets/designers/cheryl.bruce.creativ.design/profile/298303806_3267824543438091_2432319277617698727_n.jpg
+instagram_profile_image_bytes: 120029
+instagram_profile_image_quality: large
 instagram_profile_imported: true
 profile_image: >-
-  ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
-profile_images: &ref_0
+  ../../assets/designers/cheryl.bruce.creativ.design/profile/298303806_3267824543438091_2432319277617698727_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
+    ../../assets/designers/cheryl.bruce.creativ.design/profile/298303806_3267824543438091_2432319277617698727_n.jpg
 profile_image_local: >-
-  ../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg
+  ../../assets/designers/cheryl.bruce.creativ.design/profile/298303806_3267824543438091_2432319277617698727_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/cheryl.bruce.creativ.design/profile/298303806_3267824543438091_2432319277617698727_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1705261515_3280293688469681699_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556413932_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556494294_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867111303941_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867556006813_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109711093413_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109786474907_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109920759809_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867009_3478311027553773776_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311024433225205_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311025775337107_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311026723312335_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311031613917744_54618994921.jpg
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1705261515_3280293688469681699_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556494294_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867111303941_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867556006813_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109711093413_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109786474907_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867009_3478311027553773776_54618994921.jpg
+  - >-
+    ../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311026723312335_54618994921.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # cheryl.bruce.creativ.design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/cheryl.bruce.creativ.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/cheryl.bruce.creativ.design/profile/298303806_3267824543438091_2432319277617698727_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1705261515_3280293688469681699_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1705261515_3280293688469681699_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556413932_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556413932_54618994921.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556494294_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1711592161_3333399114556494294_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867111303941_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867111303941_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867556006813_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1719784910_3402124867556006813_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109711093413_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109711093413_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109786474907_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109786474907_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109920759809_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1721803510_3419058109920759809_54618994921.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867009_3478311027553773776_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867009_3478311027553773776_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311024433225205_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311024433225205_54618994921.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311025775337107_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311025775337107_54618994921.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311026723312335_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311026723312335_54618994921.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311031613917744_54618994921.jpg)<br><!-- image:../../assets/designers/cheryl.bruce.creativ.design/instagram/cheryl.bruce.creativ.design_1728867010_3478311031613917744_54618994921.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Cheryl Bruce is a NSW, Australia-based surface pattern designer, fine artist, and illustrator. Her practice centres on hand-painted botanical work sourced from direct observation of Australian native flora and cultivated garden subjects. She designs for fabric and print-on-demand, and is available for art licensing — buyout, exclusive, or non-exclusive. She also teaches watercolour classes and participates in regular life drawing sessions.
+
 ## Style and Aesthetic
+
+Bruce's visual vocabulary draws on Australian native flora — magnolias, proteas, waratahs, wildflowers — and handcrafted garden subjects observed through plein-air sketching. Her palette runs from naturalistic floral tones through indigo and coastal neutrals. Selected Instagram images suggest botanical repeat patterns with a painterly, hand-originated quality. A distinct body of work in the Indigo Collection references traditional craft processes — shibori, cyanotype, batik — with a more abstract, process-driven aesthetic. A Hamptons-inspired collection introduces geometric stripes and decorative swirl motifs alongside the botanical work.
 
 ## Techniques and Tools
 
+Bruce's primary medium is watercolour and fine art painting, typically originating from outdoor sketching and studio studies of living plant subjects. Pattern work translates these studies into repeat-format designs. The Indigo Collection incorporates printmaking processes: shibori, cyanotype, and batik. She also practises figurative work through regular life drawing sessions with @arthallgroup. No digital-only workflow is documented; designs appear to originate from traditional media.
+
 ## Markets and Clients
+
+Bruce designs for fabric (print-on-demand) and licensing — buyout, exclusive, and non-exclusive terms. No specifically licensed brand clients are documented. She is also an exhibiting fine artist (Swell Art Collective; Terrigal Surf Club, NSW) and teaches watercolour classes for students.
 
 ## Portfolio and Presence
 
+- Website: cherylbrucecreativ.com/designcollections
+- Instagram: @cheryl.bruce.creativ.design (697 followers)
+
 ## Career Path
+
+Bruce developed her pattern design practice from a background in fine art, watercolour, and life drawing. Her Spring 2020 wildflower sketchbook project — undertaken during COVID lockdown periods, walking local bush tracks and observing Australian native flora — became the foundation for her botanical collections, including a first sighting of waratahs growing in the wild near her home. Her practice now spans named design collections, licensing outreach, ongoing fine art activity, and watercolour teaching.
 
 ## Pattern Focus
 
+Bruce's documented collections span six named bodies of work: Trailing Magnolias (magnolia blossoms, delicate palette); King Protea (protea botanical — diversity and transformation symbolism); Australian native wildflowers / Waratah (plein-air lockdown studies); Their Story / Her Story (gender inclusion iconography); Indigo Collection (shibori, cyanotype, batik — abstract, process-led); Hamptons (ginger jar, stripe, and decorative swirl motifs); Orchard (spring fruit tree florals). Selected Instagram images confirm botanical repeat patterns reflecting the Australian native flora collections.
+
 ## Connections
+
+- [[Swell Art Collective]] (NSW fine art exhibition group)
+- [[Spoonflower]] (fabric print-on-demand — cited target market)

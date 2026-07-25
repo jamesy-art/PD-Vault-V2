@@ -1,0 +1,69 @@
+{
+  "slug": "the-colorfield",
+  "name": "The Colorfield",
+  "website": "https://colorfield-design.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/the-colorfield.md",
+  "scraped_at": "2026-06-05T23:25:13.630Z",
+  "status": "scraped",
+  "website_title": "The Colorfield",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://colorfield-design.com/",
+      "text": "The Colorfield HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN The Colorfield UK address The Colorfield New York address JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://colorfield-design.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_25/blank.png",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/tedgfxusbvnw.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/yobjahluzgmi.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/largeflower.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/xpyhgrsalvji.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/img_3175.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/zlvsawoygktn.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/new-york1.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/insta_update.jpg",
+        "https://images.v2.thepatterncloud.com//studio_25/homePage/mouyjchvnfqs.jpg",
+        "https://colorfield-design.com/img/social/facebook.png",
+        "https://colorfield-design.com/img/social/instagram.png",
+        "https://colorfield-design.com/img/social/pinterest.png",
+        "https://colorfield-design.com/img/social/twitter.png",
+        "https://colorfield-design.com/img/social/facebookB.png",
+        "https://colorfield-design.com/img/social/instagramB.png",
+        "https://colorfield-design.com/img/social/pinterestB.png",
+        "https://colorfield-design.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://colorfield-design.com/about.php",
+      "text": "The Colorfield",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://colorfield-design.com/\nThe Colorfield HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN The Colorfield UK address The Colorfield New York address JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://colorfield-design.com/about.php\nThe Colorfield",
+  "website_about_clean": "SOURCE: https://colorfield-design.com/\nThe Colorfield HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN The Colorfield UK address The Colorfield New York address JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://colorfield-design.com/about.php\nThe Colorfield",
+  "website_images": [
+    "https://colorfield-design.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_25/blank.png",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/tedgfxusbvnw.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/yobjahluzgmi.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/largeflower.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/xpyhgrsalvji.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/img_3175.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/zlvsawoygktn.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/new-york1.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/insta_update.jpg",
+    "https://images.v2.thepatterncloud.com//studio_25/homePage/mouyjchvnfqs.jpg",
+    "https://colorfield-design.com/img/social/facebook.png",
+    "https://colorfield-design.com/img/social/instagram.png",
+    "https://colorfield-design.com/img/social/pinterest.png",
+    "https://colorfield-design.com/img/social/twitter.png",
+    "https://colorfield-design.com/img/social/facebookB.png",
+    "https://colorfield-design.com/img/social/instagramB.png",
+    "https://colorfield-design.com/img/social/pinterestB.png",
+    "https://colorfield-design.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

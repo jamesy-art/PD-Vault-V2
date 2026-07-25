@@ -26,7 +26,7 @@ bio: ''
 website: 'https://emberillustrates.co.uk'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/emberillustrates
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Ember Illustrates
 website_meta_description: >-
   Lauren Ember Illustrates, an illustrator and ceramicist based in Plymouth who
@@ -291,7 +294,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -308,45 +311,170 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/531432501_18070608224326604_2152487588980898311_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHiTnMEAFkvngAJQfG4CeME6K19STg156RxREJEG-RGLy9-dd6AcZTRN14ZVjoWTps&_nc_ohc=AcqFbMTlP2kQ7kNvwGVdiGB&_nc_gid=RF1mMaKqrHCdGr-AYm4u-g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5NGTZ_WDrePnmTeuhphDYEsUSm6ysok0d0k7PpRIAygQ&oe=6A13F5FF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/531432501_18070608224326604_2152487588980898311_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHiTnMEAFkvngAJQfG4CeME6K19STg156RxREJEG-RGLy9-dd6AcZTRN14ZVjoWTps&_nc_ohc=AcqFbMTlP2kQ7kNvwGVdiGB&_nc_gid=RF1mMaKqrHCdGr-AYm4u-g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5NGTZ_WDrePnmTeuhphDYEsUSm6ysok0d0k7PpRIAygQ&oe=6A13F5FF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8250
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/emberillustrates/profile/531432501_18070608224326604_2152487588980898311_n.jpg
+instagram_profile_image_bytes: 112350
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/emberillustrates/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/emberillustrates/profile/531432501_18070608224326604_2152487588980898311_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/emberillustrates/profile/531432501_18070608224326604_2152487588980898311_n.jpg
+profile_image_local: >-
+  ../../assets/designers/emberillustrates/profile/531432501_18070608224326604_2152487588980898311_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/emberillustrates/profile/531432501_18070608224326604_2152487588980898311_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754334641_3691949016389060703_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754388439_3692400310698007285_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333072049958_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333080431970_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333256531809_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754893800_3696639685942736355_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1755066600_3698089483728133195_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1755757800_3703887572162519377_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1755930600_3705337223817949474_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1756276200_3703569709316938554_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1756276200_3703569709316952288_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759313811_3733717326320411198_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759654800_3736623090965961895_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759903200_3738661757507107126_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759994906_3739688418277095529_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1760076000_3740111099698891200_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1760680800_3745184495952478202_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1760769000_3745924538530796644_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1766656687_3795313837361374012_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1772453429_3843940430505625520_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1773336927_3851350513162173455_39655606603.jpg
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754334641_3691949016389060703_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1754893800_3696639685942736355_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1755066600_3698089483728133195_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759654800_3736623090965961895_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1760076000_3740111099698891200_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1766656687_3795313837361374012_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1772453429_3843940430505625520_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1773336927_3851350513162173455_39655606603.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759313811_3733717326320411198_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759903200_3738661757507107126_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1759994906_3739688418277095529_39655606603.jpg
+  - >-
+    ../../assets/designers/emberillustrates/instagram/emberillustrates_1760769000_3745924538530796644_39655606603.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # emberillustrates
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emberillustrates/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/emberillustrates/profile/531432501_18070608224326604_2152487588980898311_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1754334641_3691949016389060703_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1754334641_3691949016389060703_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1754388439_3692400310698007285_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1754388439_3692400310698007285_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333072049958_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333072049958_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333080431970_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333080431970_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333256531809_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1754550000_3693446333256531809_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1754893800_3696639685942736355_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1754893800_3696639685942736355_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1755066600_3698089483728133195_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1755066600_3698089483728133195_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1755757800_3703887572162519377_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1755757800_3703887572162519377_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1755930600_3705337223817949474_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1755930600_3705337223817949474_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1756276200_3703569709316938554_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1756276200_3703569709316938554_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1756276200_3703569709316952288_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1756276200_3703569709316952288_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1759313811_3733717326320411198_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1759313811_3733717326320411198_39655606603.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1759654800_3736623090965961895_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1759654800_3736623090965961895_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1759903200_3738661757507107126_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1759903200_3738661757507107126_39655606603.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1759994906_3739688418277095529_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1759994906_3739688418277095529_39655606603.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1760076000_3740111099698891200_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1760076000_3740111099698891200_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1760680800_3745184495952478202_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1760680800_3745184495952478202_39655606603.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1760769000_3745924538530796644_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1760769000_3745924538530796644_39655606603.jpg --> | [ ] | [x] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1766656687_3795313837361374012_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1766656687_3795313837361374012_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1772453429_3843940430505625520_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1772453429_3843940430505625520_39655606603.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/emberillustrates/instagram/emberillustrates_1773336927_3851350513162173455_39655606603.jpg)<br><!-- image:../../assets/designers/emberillustrates/instagram/emberillustrates_1773336927_3851350513162173455_39655606603.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Lauren Ember is an illustrator and ceramicist based in Plymouth, Devon, UK. She creates vibrant, colour-led illustration and surface pattern with a focus on botanicals, animals, and nature subjects. Her graduate project explored sustainable giftware using repeat patterns on fabric; she has subsequently exhibited and collaborated with Tate London, Somerset House, D&AD New Blood, and Peace Vintage.
+
 ## Style and Aesthetic
+
+Bold colour and dense botanical-animal compositions define Lauren's visual signature. Selected Instagram images suggest layered surface patterns featuring foliage, flowers, and fauna — alocasias, monstera, ferns, tropical birds, and woodland animals appear across her pattern work. Her palette is warm and vivid; the aesthetic sits between contemporary surface pattern and illustrative greeting card design.
 
 ## Techniques and Tools
 
+Lauren works across traditional and digital media. She describes drawing by graphite pencil and then digitally colouring using an oil paint brush. Her ceramics practice runs alongside illustration. She is comfortable adapting style and medium to client briefs.
+
 ## Markets and Clients
+
+Lauren targets greeting cards, wrapping paper, prints, wallpaper, and product merchandise. Her graduate project focused specifically on sustainable giftware — she sublimated vibrant repeat patterns featuring endangered woodland species onto offcut fabric, sewn with recycled thread, as an alternative to single-use wrapping. Exhibitions and collaborations include Peace Vintage, D&AD New Blood, Tate London, Arts University Plymouth, Somerset House London, and Green Minds Plymouth.
 
 ## Portfolio and Presence
 
+- Website: https://emberillustrates.co.uk
+- Instagram: @emberillustrates
+
 ## Career Path
+
+Lauren graduated from an illustration programme in Devon with established interests in textiles, plants, and patterns. Her graduate project engaged circular design and sustainability in the giftware industry. She has shown work at Tate London and Somerset House, and was selected for D&AD New Blood.
 
 ## Pattern Focus
 
+Selected pattern images suggest repeat botanical surface patterns — dense foliage compositions with alocasias, monstera, ferns, roses, and tropical birds. A multi-species tropical birds print and an alocasia-heavy botanical repeat are among her documented works. Selected placements hint at gift bag and greeting card product formats.
+
 ## Connections
+
+- [[Botanical Surface Pattern]]
+- [[Sustainable Design]]
+- [[Greeting Card Design]]
+- [[Tate London]]
+- [[D&AD New Blood]]
+- [[Animal Pattern]]

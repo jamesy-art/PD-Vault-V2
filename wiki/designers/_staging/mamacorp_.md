@@ -17,12 +17,12 @@ skills:
 country: France
 can_use: 'Yes'
 instagram_handle: mamacorp_
-instagram: 'https://instagram.com/@mamacorp_'
+instagram: 'https://instagram.com/mamacorp_'
 bio: ''
 website: 'https://mama-corp.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mamacorp_
 profile_url: ''
 instagram_images:
@@ -39,8 +39,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Mamacorp
 website_meta_description: >-
   Studio de design textile et motif français pour la maison le lifestyle,
@@ -296,7 +299,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -316,44 +319,205 @@ instagram_business_account: false
 instagram_profile_pic_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/456365667_1574735580116672_4977731090165232460_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFZodAav2SrOS47lFYWvJy2qWZm0WrGU1d2GV2bkGms3HpBnu127Vxa5uDhYrfoBMQ&_nc_ohc=V4lnOH_WxyIQ7kNvwH1-RDB&_nc_gid=VviKt7WzE2hG-cJJTYKKuQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7QpWrW_2_2qNtPvCLy7Dy-bdhGOKYWdV47_eoLFbK7ow&oe=6A13DEEC&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/mamacorp_/profile/456365667_1574735580116672_4977731090165232460_n.jpg
+instagram_profile_image_bytes: 4841
+instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/mamacorp_/profile/456365667_1574735580116672_4977731090165232460_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mamacorp_/profile/456365667_1574735580116672_4977731090165232460_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mamacorp_/profile/456365667_1574735580116672_4977731090165232460_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/mamacorp_/profile/456365667_1574735580116672_4977731090165232460_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851152031491_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851344836148_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851344963250_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918615302_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918624543_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387952195267_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888388010944666_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675538840174101_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539007969275_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016373213_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016378934_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016384061_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539041486096_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539041515573_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865570950968_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865713525468_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452425941_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452454892_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358519510818_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574145828841_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574154252616_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574162605407_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574707847684_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778071899_3891069427986868721_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778072937_3891074178875019870_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142108648_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142149752_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157343465866_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157360204068_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157930682272_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087158064841936_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1780565492_3911983668292918172_68210775532.jpg
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851152031491_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918615302_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918624543_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387952195267_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888388010944666_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675538840174101_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865570950968_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452454892_68210775532.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574162605407_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142108648_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157930682272_68210775532.jpg
+  - >-
+    ../../assets/designers/mamacorp_/instagram/mamacorp___1780565492_3911983668292918172_68210775532.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # mamacorp_
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/mamacorp_/profile/456365667_1574735580116672_4977731090165232460_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851152031491_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851152031491_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851344836148_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851344836148_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851344963250_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1754040532_3689481851344963250_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918615302_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918615302_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918624543_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387918624543_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387952195267_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888387952195267_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888388010944666_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1755161878_3698888388010944666_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675538840174101_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675538840174101_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539007969275_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539007969275_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016373213_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016373213_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016378934_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016378934_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016384061_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539016384061_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539041486096_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539041486096_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539041515573_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1761216178_3749675539041515573_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865570950968_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865570950968_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865713525468_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1762277418_3758577865713525468_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452425941_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452425941_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452454892_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358452454892_68210775532.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358519510818_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1771938000_3839096358519510818_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574145828841_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574145828841_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574154252616_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574154252616_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574162605407_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574162605407_68210775532.jpg --> | [ ] | [x] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574707847684_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1775822400_3860627574707847684_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778071899_3891069427986868721_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778071899_3891069427986868721_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778072937_3891074178875019870_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778072937_3891074178875019870_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142108648_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142108648_68210775532.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142149752_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157142149752_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157343465866_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157343465866_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157360204068_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157360204068_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157930682272_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087157930682272_68210775532.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087158064841936_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1778328000_3891087158064841936_68210775532.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/mamacorp_/instagram/mamacorp___1780565492_3911983668292918172_68210775532.jpg)<br><!-- image:../../assets/designers/mamacorp_/instagram/mamacorp___1780565492_3911983668292918172_68210775532.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mamacorp is a French narrative pattern and textile design studio founded by Thelma Derame, a pattern designer and writer. Trained first in pattern design in France and then in textile printing in Montreal, Thelma developed a multidisciplinary practice built around storytelling. The studio works across seasonal collections, bespoke (sur-mesure) commissions, and illustration for home, lifestyle, art and craft, and architectural clients. Mamacorp exhibits at Salon Maison & Objet Paris and Salon Playtime Paris.
+
 ## Style and Aesthetic
+
+Mamacorp's aesthetic is hand-drawn, generously detailed, and narrative-led. Patterns are described as "bursting with quirky and touching stories inspired by a comforting strangeness." The studio draws from naturalist traditions and textile history, building colour and texture through hand-drawn mark-making. Selected Instagram pattern images suggest illustrative, expressive compositions with richly coloured motifs and strong decorative character.
 
 ## Techniques and Tools
 
+Hand-drawn pattern design. Training in textile printing (Montreal). Services include collection licensing, bespoke commissions, and illustration for print and digital media.
+
 ## Markets and Clients
+
+Home, lifestyle, art and craft, architecture. Exhibited at Salon Maison & Objet Paris (January 2026, September 2026) and Salon Playtime Paris (July 2025). Selected placement images suggest application to home and lifestyle product contexts.
 
 ## Portfolio and Presence
 
+- Website: https://mama-corp.com
+- Instagram: @mamacorp_
+- Contact: thelma@mama-corp.com
+
 ## Career Path
+
+Thelma trained in pattern design in France, then studied textile printing in Montreal. After extensive travel and experimentation, she founded Mamacorp as a multidisciplinary practice. She is also a writer (autrice), and the narrative dimension of her practice informs her pattern work directly.
 
 ## Pattern Focus
 
+Hand-drawn narrative patterns. Current collection: NANA SS/27. Compositions draw from naturalist illustration and traditional textile. Selected pattern images suggest full-surface illustrated work with warm, story-laden character. Placement images indicate application to home and lifestyle goods.
+
 ## Connections
+
+- [[Maison & Objet]]
+- [[Playtime Paris]]
+- [[Home Decor Market]]
+- [[France]]
+- [[Hand-Drawn Pattern]]
+- [[Textile Printing]]
+- [[Montreal]]

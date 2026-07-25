@@ -18,7 +18,7 @@ bio: ''
 website: 'https://emilymanionprint.wixsite.com/emilymanionart'
 website_about: ''
 accepted: 24/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/emiilymanionprint
 profile_url: ''
 instagram_images:
@@ -35,8 +35,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | EmilyManionArt
 website_meta_description: ''
 website_about_raw: >-
@@ -95,7 +98,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
 
   EMILY MANIOn
@@ -186,44 +189,103 @@ instagram_verified: false
 instagram_business_account: false
 instagram_profile_pic_url: ''
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/emiilymanionprint/profile/696265655_18580848685008448_1216048515749303142_n.jpg
+instagram_profile_image_bytes: 214151
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/emiilymanionprint/profile/696265655_18580848685008448_1216048515749303142_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/emiilymanionprint/profile/696265655_18580848685008448_1216048515749303142_n.jpg
+profile_image_local: >-
+  ../../assets/designers/emiilymanionprint/profile/696265655_18580848685008448_1216048515749303142_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/emiilymanionprint/profile/696265655_18580848685008448_1216048515749303142_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_10_%23005%20product%20pic%201.png
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_13_Untitled-6.jpeg
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_14_%23003%20product%20pic%201.png
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_15_%23010%20product%20pic%201.png
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_10_%23005%20product%20pic%201.png
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_13_Untitled-6.jpeg
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_14_%23003%20product%20pic%201.png
+  - >-
+    ../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_15_%23010%20product%20pic%201.png
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # emiilymanionprint
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/emiilymanionprint/profile/696265655_18580848685008448_1216048515749303142_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image                                                                                                                                                                                                                                                                                      | Pattern | Placement | Trash |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------: | --------: | ----: |
+| 01<br>![pd-review\|180](../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_10_%23005%20product%20pic%201.png)<br><!-- image:../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_10_%23005%20product%20pic%201.png --> |     [X] |       [ ] |   [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_13_Untitled-6.jpeg)<br><!-- image:../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_13_Untitled-6.jpeg -->                               |     [X] |       [ ] |   [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_14_%23003%20product%20pic%201.png)<br><!-- image:../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_14_%23003%20product%20pic%201.png --> |     [X] |       [ ] |   [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_15_%23010%20product%20pic%201.png)<br><!-- image:../../assets/designers/emiilymanionprint/instagram/emiilymanionprint_imageye___-_imgi_15_%23010%20product%20pic%201.png --> |     [X] |       [ ] |   [ ] |
 
+## Website Images
 
 ## Overview
 
+Emily Manion is a freelance print designer and artist based in the South of England, creating fun and playful illustrative prints and patterns for fashion and textile applications. She graduated with a BA in Fashion and Textiles from the University of the West of England in 2024, specialising in textile print and trend forecasting, and was nominated for the Graduate Fashion Week Children's wear award in the same year.
+
 ## Style and Aesthetic
+
+Emily's stated aesthetic is fun and playful, with an illustrative character tailored to fashion and textile print. Selected Instagram pattern images show product-presented repeat designs with graphic, illustrative character. Her trend-forecasting background informs a commercially aware approach to aesthetic direction, with A/W and S/S seasonal collections.
 
 ## Techniques and Tools
 
+Emily produces digital print designs for textile application. Her education at UWE (BA Fashion and Textiles) and UAL Brighton MET (Diploma for Art & Design) grounds her in both traditional art foundations and commercial fashion textile production methods.
+
 ## Markets and Clients
+
+Primary markets are fashion and textile — specifically womenswear and childrenswear. Her print shop sells pre-made seasonal digital designs for business buyers; shop sign-up is limited to business email addresses. She is also developing an independent womenswear label, Emily Manion, using deadstock fabrics and limited-run production.
 
 ## Portfolio and Presence
 
+- Website: https://emilymanionprint.wixsite.com/emilymanionart
+- Instagram: @Emiilymanionprint
+
 ## Career Path
+
+Emily holds a BA in Fashion and Textiles from the University of the West of England (2024) and a UAL Diploma for Art & Design from Brighton MET (2021). She was nominated for the Graduate Fashion Week Children's wear award in 2024. She previously founded and managed an online vintage clothing store specialising in curated 90s/early 2000s fashion, featured in Vogue, giving her broad independent fashion business experience.
 
 ## Pattern Focus
 
+Four selected pattern images from the image review show product-presented repeat designs in print shop format — illustrative patterns suitable for textile application, presented in lifestyle mockup contexts. The designs are playful and graphic in character, consistent with her stated fashion and childrenswear focus.
+
 ## Connections
+
+- [[Graduate Fashion Week]]
+- [[University of the West of England]]
+- [[Textile Print Design]]
+- [[Womenswear]]
+- [[Childrenswear]]
+- [[Fashion Print]]

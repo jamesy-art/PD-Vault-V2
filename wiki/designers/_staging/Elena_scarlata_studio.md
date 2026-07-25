@@ -19,7 +19,7 @@ bio: ''
 website: 'https://elenascarlata.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/elena_scarlata_studio
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Unique Gifts & Custom Mediterranean-Inspired Fabrics
 website_meta_description: >-
   Discover unique personalized gifts for events, bespoke fabric design for
@@ -273,7 +276,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -290,45 +293,109 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/483471033_9328456297241859_8334477045217655830_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gH4hNW40bjImP4zG-0w7QuXesMLr8P0zaCzKwgCgjQDqP-o_kwbYgmdDuJV5I_KOcE&_nc_ohc=JklX79arF-EQ7kNvwExslLl&_nc_gid=1u91j6X21khLtD1hZIZVCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5kw3H4GVeqWFHU2GCxIvGlVi0uRgJAW5MZx0tQZh2cxw&oe=6A13E525&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/483471033_9328456297241859_8334477045217655830_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gH4hNW40bjImP4zG-0w7QuXesMLr8P0zaCzKwgCgjQDqP-o_kwbYgmdDuJV5I_KOcE&_nc_ohc=JklX79arF-EQ7kNvwExslLl&_nc_gid=1u91j6X21khLtD1hZIZVCA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5kw3H4GVeqWFHU2GCxIvGlVi0uRgJAW5MZx0tQZh2cxw&oe=6A13E525&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3200
+instagram_profile_image_local: >-
+  ../../assets/designers/elena_scarlata_studio/profile/483471033_9328456297241859_8334477045217655830_n.jpg
+instagram_profile_image_bytes: 11896
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/elena_scarlata_studio/profile/483471033_9328456297241859_8334477045217655830_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/elena_scarlata_studio/profile/483471033_9328456297241859_8334477045217655830_n.jpg
+profile_image_local: >-
+  ../../assets/designers/elena_scarlata_studio/profile/483471033_9328456297241859_8334477045217655830_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/elena_scarlata_studio/profile/483471033_9328456297241859_8334477045217655830_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1507292077_1619605794202809562_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1531229245_1820405306465508705_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1537787359_1875418754886486910_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1539520018_1889953354157410906_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1591194703_2323432030523729997_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1592415974_2333676798247721295_4016907100.jpg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1507292077_1619605794202809562_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1531229245_1820405306465508705_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1539520018_1889953354157410906_4016907100.jpg
+  - >-
+    ../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1591194703_2323432030523729997_4016907100.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # elena_scarlata_studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/elena_scarlata_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/elena_scarlata_studio/profile/483471033_9328456297241859_8334477045217655830_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1507292077_1619605794202809562_4016907100.jpg)<br><!-- image:../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1507292077_1619605794202809562_4016907100.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1531229245_1820405306465508705_4016907100.jpg)<br><!-- image:../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1531229245_1820405306465508705_4016907100.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1537787359_1875418754886486910_4016907100.jpg)<br><!-- image:../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1537787359_1875418754886486910_4016907100.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1539520018_1889953354157410906_4016907100.jpg)<br><!-- image:../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1539520018_1889953354157410906_4016907100.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1591194703_2323432030523729997_4016907100.jpg)<br><!-- image:../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1591194703_2323432030523729997_4016907100.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1592415974_2333676798247721295_4016907100.jpg)<br><!-- image:../../assets/designers/elena_scarlata_studio/instagram/elena_scarlata_studio_1592415974_2333676798247721295_4016907100.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elena Scarlata Studio is a Sicily-based textile and surface pattern design studio producing Mediterranean-inspired home textile products and bespoke pattern design for businesses. The studio's work is rooted in Sicilian cultural tradition — majolica, Mediterranean flora and fauna, baroque ornament — translated into ethically produced kitchen textiles, table décor, and home objects. Press coverage includes Vogue UK ("The New Mediterranean Style for Home Decor"), Elle Japan, and Living Courier. The studio offers custom projects and wholesale.
+
 ## Style and Aesthetic
+
+A Sicilian and Mediterranean visual vocabulary — lemons, majolica flowers, sardines, baroque ornament, leopard prints, cassata-inspired compositions — applied with decorative richness to home textile products. Colour is central to the brand ("unique colours, decorations and atmospheres for every occasion"). The aesthetic is culturally rooted, warm, and export-facing, pitched at a design-conscious international market. Selected Instagram patterns confirm a decorative repeat vocabulary consistent with Mediterranean craft traditions.
 
 ## Techniques and Tools
 
+Eco-friendly materials and sustainable production techniques throughout. Products include organic cotton (face washcloths), water-repellent technical fabrics (travel accessories), and printed kitchen textiles. The studio operates custom project and colour/scale adjustment services alongside its standard range. Corporate visual identity development is also offered.
+
 ## Markets and Clients
+
+Home décor and table styling — kitchen towels, placemats, bread bins, dishcloths, wine holders — sold direct-to-consumer and via wholesale. Custom personalised gifts for events and bespoke fabric design for businesses are explicit service offerings. Products are positioned as artisanal Sicilian-provenance Mediterranean gifts. Wholesale and custom project capability indicates an operation beyond sole practitioner scale. Press visibility in Vogue UK, Elle Japan, and Living Courier confirms international trade profile.
 
 ## Portfolio and Presence
 
+- Website: elenascarlata.com
+- Instagram: @Elena_scarlata_studio (288 posts, 2,477 followers)
+
 ## Career Path
+
+Elena Scarlata founded the studio around Sicilian textile craft and Mediterranean pattern design. The studio developed a product range (kitchen textiles, table objects, travel accessories) alongside pattern and corporate visual identity services for business clients. Featured in Vogue UK for Mediterranean home décor and in Elle Japan for Sicilian craftsmanship.
 
 ## Pattern Focus
 
+Named patterns — Lemons, Majolica Flowers, Sardines, Mediterranean Leopard, Baroque, Cassata — map directly to Sicilian and Mediterranean cultural references. Selected Instagram patterns confirm a decorative, culturally specific repeat vocabulary suitable for home textile and lifestyle product applications. Work spans flat-repeat surface prints on woven kitchen textiles through to majolica-inspired decorative compositions.
+
 ## Connections
+
+- [[Mediterranean Pattern]] — core aesthetic territory
+- [[Sicilian Design]] — cultural and craft foundation
+- [[Home Décor]] — primary product market
+- [[Kitchen Textiles]] — main product category
+- [[Sustainable Design]] — stated production ethic
+- [[Majolica]] — key pattern motif source

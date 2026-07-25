@@ -13,12 +13,12 @@ skills: []
 country: Sweden
 can_use: 'Yes'
 instagram_handle: sabinawgustrin
-instagram: 'https://instagram.com/@sabinawgustrin'
+instagram: 'https://instagram.com/sabinawgustrin'
 bio: ''
 website: 'https://linkedin.com/in/sabinawroblewskigustrin'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/sabinawgustrin
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Sabina Wroblewski Gustrin - Studio Sabina W Gustrin | LinkedIn
 website_meta_description: >-
   Sabina Wroblewski Gustrin has been an art director, graphic designer and
@@ -78,7 +81,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   About
 
@@ -120,45 +123,198 @@ instagram_profile_pic_url: >-
   https://instagram.flas1-2.fna.fbcdn.net/v/t51.2885-19/354742763_221304164117089_8282768794063243654_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHN91fje9Mnt0GJYF3Fm9TFcBp4sAid65vimGHCKjfqvgLtEoZovR84C0EbzlkT0C8&_nc_ohc=b3Xe7dXs5KUQ7kNvwFRKaf7&_nc_gid=q_CV10CeKhyzvHtGHcCclg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4AhJxO9AM9ulvZDA-NYj_JuVaQ7ivaQwZSIxnJmWKx7A&oe=6A13DF9E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.flas1-2.fna.fbcdn.net/v/t51.2885-19/354742763_221304164117089_8282768794063243654_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=instagram.flas1-2.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2gHN91fje9Mnt0GJYF3Fm9TFcBp4sAid65vimGHCKjfqvgLtEoZovR84C0EbzlkT0C8&_nc_ohc=b3Xe7dXs5KUQ7kNvwFRKaf7&_nc_gid=q_CV10CeKhyzvHtGHcCclg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4AhJxO9AM9ulvZDA-NYj_JuVaQ7ivaQwZSIxnJmWKx7A&oe=6A13DF9E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5690
+instagram_profile_image_local: >-
+  ../../assets/designers/sabinawgustrin/profile/354742763_221304164117089_8282768794063243654_n.jpg
+instagram_profile_image_bytes: 25902
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/sabinawgustrin/profile/354742763_221304164117089_8282768794063243654_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/sabinawgustrin/profile/354742763_221304164117089_8282768794063243654_n.jpg
+profile_image_local: >-
+  ../../assets/designers/sabinawgustrin/profile/354742763_221304164117089_8282768794063243654_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/sabinawgustrin/profile/354742763_221304164117089_8282768794063243654_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188457657774_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188465899578_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188466032085_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295464033719_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472479707_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472572548_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472630626_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295682133377_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1694527750_3190252459002648474_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1697924894_3218749766551960989_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949312348424_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949320585016_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949329006653_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698428076_3222970761752012779_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1707146208_3296103753698658747_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1713533102_3349680900750268016_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728323902_3473755124637747226_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728565266_3475779838840302101_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728835492_3478046657391268759_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759293543_3733547304494839588_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759473420_3735056220559297978_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759769594_3737540712842703942_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1760029120_3739717770167509928_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1760645144_3744885359055257478_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1761222909_3749732001629611225_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1761222909_3749732001638020978_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1768466845_3810498540909406747_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1768466845_3810498540909418279_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1770892547_3830840897450050211_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1770892547_3830840898532200492_299617844.jpg
+instagram_image_count: 30
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188457657774_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472479707_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472630626_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295682133377_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949312348424_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728565266_3475779838840302101_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728835492_3478046657391268759_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759293543_3733547304494839588_299617844.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1697924894_3218749766551960989_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1707146208_3296103753698658747_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728323902_3473755124637747226_299617844.jpg
+  - >-
+    ../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759473420_3735056220559297978_299617844.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # sabinawgustrin
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sabinawgustrin/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/sabinawgustrin/profile/354742763_221304164117089_8282768794063243654_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188457657774_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188457657774_299617844.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188465899578_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188465899578_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188466032085_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1684485647_3106013188466032085_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295464033719_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295464033719_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472479707_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472479707_299617844.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472572548_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472572548_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472630626_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295472630626_299617844.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295682133377_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1687521086_3131476295682133377_299617844.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1694527750_3190252459002648474_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1694527750_3190252459002648474_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1697924894_3218749766551960989_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1697924894_3218749766551960989_299617844.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949312348424_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949312348424_299617844.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949320585016_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949320585016_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949329006653_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698252741_3221499949329006653_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698428076_3222970761752012779_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1698428076_3222970761752012779_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1707146208_3296103753698658747_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1707146208_3296103753698658747_299617844.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1713533102_3349680900750268016_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1713533102_3349680900750268016_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728323902_3473755124637747226_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728323902_3473755124637747226_299617844.jpg --> | [ ] | [x] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728565266_3475779838840302101_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728565266_3475779838840302101_299617844.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728835492_3478046657391268759_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1728835492_3478046657391268759_299617844.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759293543_3733547304494839588_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759293543_3733547304494839588_299617844.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759473420_3735056220559297978_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759473420_3735056220559297978_299617844.jpg --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759769594_3737540712842703942_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1759769594_3737540712842703942_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1760029120_3739717770167509928_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1760029120_3739717770167509928_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1760645144_3744885359055257478_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1760645144_3744885359055257478_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1761222909_3749732001629611225_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1761222909_3749732001629611225_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1761222909_3749732001638020978_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1761222909_3749732001638020978_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1768466845_3810498540909406747_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1768466845_3810498540909406747_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1768466845_3810498540909418279_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1768466845_3810498540909418279_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1770892547_3830840897450050211_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1770892547_3830840897450050211_299617844.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1770892547_3830840898532200492_299617844.jpg)<br><!-- image:../../assets/designers/sabinawgustrin/instagram/sabinawgustrin_1770892547_3830840898532200492_299617844.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sabina Wroblewski Gustrin is a Stockholm-based art director, graphic designer, illustrator, and print designer operating as Studio Sabina W Gustrin. She has over 20 years of professional experience across traditional and digital agencies, having held art director roles at WM-data (now Logica), McCann-Erickson, and BBDO before founding her own studio. She holds a Master of Fine Arts in Graphic Design and Illustration from Konstfack University College of Arts, Crafts and Design, and is a member of Svenska Tecknare, the Swedish illustrators and graphic designers association.
+
 ## Style and Aesthetic
+
+Illustration and pattern work with a personal focus on children's themes, florals, and sea-inspired motifs. Her print design practice draws on a broad graphic arts background. Selected Instagram images suggest a colourful, illustration-led approach with botanical and floral compositions. She has described her loves as children's art and books, the sea, and flowers — all of which feed visibly into her pattern vocabulary.
 
 ## Techniques and Tools
 
+Digital design is her primary method, built on formal training at Konstfack and over two decades of agency practice. Specialties include pattern design, illustration, package design, branding, paper goods design, and corporate identity.
+
 ## Markets and Clients
+
+Has exhibited at Formex, the Scandinavian home and design trade fair, and participated in the Nordic Design Collective pop-up. A "Tea Flower" pattern (tulips and camellias) debuted at Formex. Work documented in paper goods, homeware, and print design contexts. Instagram bio indicates openness to illustration, graphic, and print design commissions and collaborations.
 
 ## Portfolio and Presence
 
+- Instagram: @sabinawgustrin (10,200+ followers, 2,630+ posts)
+- LinkedIn: linkedin.com/in/sabinawroblewskigustrin
+
 ## Career Path
+
+Art director at WM-data, McCann-Erickson, and BBDO. Founded Studio Sabina W Gustrin. MFA from Konstfack University College of Arts, Crafts and Design. Showed at Formex 2015–2016 and other trade events. Member of Svenska Tecknare.
 
 ## Pattern Focus
 
+Floral and botanical surface patterns with a children's illustration influence and a soft, personal aesthetic. A "Tea Flower" pattern with tulips and camellias is documented. Selected patterns suggest illustrated botanical compositions. Placements suggest product applications in home, gift, and stationery contexts.
+
 ## Connections
+
+- [[Sweden]] (location)
+- [[Konstfack]] (education)
+- [[Svenska Tecknare]] (professional membership)
+- [[Formex]] (trade fair presence)
+- [[Home Decor]] (market)
+- [[Stationery]] (market)
+- [[Surface Pattern Design]] (core discipline)

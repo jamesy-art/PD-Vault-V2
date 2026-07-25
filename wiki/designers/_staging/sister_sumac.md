@@ -21,7 +21,7 @@ bio: ''
 website: 'https://Sistersumac.com'
 website_about: ''
 accepted: 12/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/sister_sumac
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: SISTER SUMAC - Natural dye and textile studio
 website_meta_description: >-
   Sister Sumac is a design studio that creates fabrics exclusively with natural
@@ -166,7 +169,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -183,45 +186,113 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/321817070_738945854518040_5666802808622303820_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE6ZJS_SV7eKz5He4x2oyBNIweNNibjdm8SFnmNqOiyTpabma6FPGBvBlZOZmZSbCA&_nc_ohc=qvwFM1gWJcQQ7kNvwE5qPVu&_nc_gid=Zoo6AxzC7gxprEOAH3dK8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ux2P1uLUutVHgs4EVmzRpvmhSTA0VASCtf-oOfFm_8g&oe=6A13FA85&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/321817070_738945854518040_5666802808622303820_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gE6ZJS_SV7eKz5He4x2oyBNIweNNibjdm8SFnmNqOiyTpabma6FPGBvBlZOZmZSbCA&_nc_ohc=qvwFM1gWJcQQ7kNvwE5qPVu&_nc_gid=Zoo6AxzC7gxprEOAH3dK8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ux2P1uLUutVHgs4EVmzRpvmhSTA0VASCtf-oOfFm_8g&oe=6A13FA85&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2381
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/sister_sumac/profile/321817070_738945854518040_5666802808622303820_n.jpg
+instagram_profile_image_bytes: 43725
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/sister_sumac/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/sister_sumac/profile/321817070_738945854518040_5666802808622303820_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/sister_sumac/profile/321817070_738945854518040_5666802808622303820_n.jpg
+profile_image_local: >-
+  ../../assets/designers/sister_sumac/profile/321817070_738945854518040_5666802808622303820_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/sister_sumac/profile/321817070_738945854518040_5666802808622303820_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1719489852_3399649685705110929_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1719922158_3403276086218585524_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1726777570_3460783509145518955_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1729106474_3480319755968911529_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1736269222_3540405233523952918_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1736701218_3544029073584003478_15978123618.jpg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1719489852_3399649685705110929_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1719922158_3403276086218585524_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1726777570_3460783509145518955_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1729106474_3480319755968911529_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1736269222_3540405233523952918_15978123618.jpg
+  - >-
+    ../../assets/designers/sister_sumac/instagram/sister_sumac_1736701218_3544029073584003478_15978123618.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # sister_sumac
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sister_sumac/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/sister_sumac/profile/321817070_738945854518040_5666802808622303820_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/sister_sumac/instagram/sister_sumac_1719489852_3399649685705110929_15978123618.jpg)<br><!-- image:../../assets/designers/sister_sumac/instagram/sister_sumac_1719489852_3399649685705110929_15978123618.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/sister_sumac/instagram/sister_sumac_1719922158_3403276086218585524_15978123618.jpg)<br><!-- image:../../assets/designers/sister_sumac/instagram/sister_sumac_1719922158_3403276086218585524_15978123618.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/sister_sumac/instagram/sister_sumac_1726777570_3460783509145518955_15978123618.jpg)<br><!-- image:../../assets/designers/sister_sumac/instagram/sister_sumac_1726777570_3460783509145518955_15978123618.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/sister_sumac/instagram/sister_sumac_1729106474_3480319755968911529_15978123618.jpg)<br><!-- image:../../assets/designers/sister_sumac/instagram/sister_sumac_1729106474_3480319755968911529_15978123618.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/sister_sumac/instagram/sister_sumac_1736269222_3540405233523952918_15978123618.jpg)<br><!-- image:../../assets/designers/sister_sumac/instagram/sister_sumac_1736269222_3540405233523952918_15978123618.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/sister_sumac/instagram/sister_sumac_1736701218_3544029073584003478_15978123618.jpg)<br><!-- image:../../assets/designers/sister_sumac/instagram/sister_sumac_1736701218_3544029073584003478_15978123618.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sister Sumac is a Pacific Northwest-based textile design studio creating prints exclusively with sustainably harvested natural colorants. Co-founded by Gwen and Chelsea — both with approximately a decade of prior professional experience in the footwear and apparel industries — the studio combines age-old natural dyeing techniques with professional digital production capability.
+
 ## Style and Aesthetic
+
+Colour palettes are defined entirely by the properties of natural dye sources, producing earthy, nuanced tones that distinguish the work from conventionally printed textiles. Selected Instagram pattern images suggest organic, handmade surface qualities with distinctive dye-process marks, textural variation, and palette ranges unique to pigment-from-nature methods.
 
 ## Techniques and Tools
 
+Natural dyeing and sustainably harvested natural colorants, combined with professional digital know-how for print production. Handmade marks and dye techniques are central to the visual identity of each print. No synthetic dyes or pigments in the production process.
+
 ## Markets and Clients
+
+Primarily womenswear, with wholesale and private collection positioning. Active at Première Vision NYC and Paris, Paris Prints, London Textile Show, and Print Sourcebook. Online collection access is registration-gated. Open to wholesale orders, private collections, press, and interview enquiries.
 
 ## Portfolio and Presence
 
+- Website: https://Sistersumac.com
+- Instagram: https://instagram.com/sister_sumac
+- Email: hello@sistersumac.com
+
 ## Career Path
+
+Co-founders Gwen and Chelsea studied textiles together in Philadelphia before diverging into separate careers in footwear and apparel. They reconnected through a shared interest in natural dye processes and founded Sister Sumac in the Pacific Northwest. The studio now shows seasonally at major international trade fairs.
 
 ## Pattern Focus
 
+Selected pattern images (all six checked as patterns) suggest all-over surface prints developed through natural dye processes and handmade mark-making. The visual language is shaped by material properties of natural colorants rather than conventional digital print design, giving the work a distinct hand and authenticity.
+
 ## Connections
+
+- [[Natural dyeing]]
+- [[Textile Design Studio]]
+- [[Womenswear]]
+- [[Première Vision]]
+- [[Trade shows]]

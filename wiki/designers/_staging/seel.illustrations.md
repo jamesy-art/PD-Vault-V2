@@ -19,7 +19,7 @@ bio: ''
 website: 'https://serineheliasian.com'
 website_about: ''
 accepted: 19/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/seel.illustrations
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Illustrations | Serineh Eliasian
 website_meta_description: Children's Books Illustrations
 website_about_raw: >-
@@ -193,7 +196,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   I’m an illustrator and surface pattern designer based in Yerevan, Armenia.
 
@@ -256,45 +259,163 @@ instagram_profile_pic_url: >-
   https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/670883659_18459906688099237_2969568005647622793_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHspg0oektNrbrxbTFzLAKA0RQgFKAXW_1R--PgjD78YxvSXpRMX-G34Fwnoxjpfjg&_nc_ohc=gzHshki95QYQ7kNvwElXfBt&_nc_gid=7nA8Dy5vT_Q9i8Ocn5W1UQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af53TWVYgPkvQwcvf1V4cgOIhm7yGAQKrZkqAYD63jy22Q&oe=6A13E06D&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax7-1.cdninstagram.com/v/t51.82787-19/670883659_18459906688099237_2969568005647622793_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax7-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHspg0oektNrbrxbTFzLAKA0RQgFKAXW_1R--PgjD78YxvSXpRMX-G34Fwnoxjpfjg&_nc_ohc=gzHshki95QYQ7kNvwElXfBt&_nc_gid=7nA8Dy5vT_Q9i8Ocn5W1UQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af53TWVYgPkvQwcvf1V4cgOIhm7yGAQKrZkqAYD63jy22Q&oe=6A13E06D&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/seel.illustrations/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5972
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/seel.illustrations/profile/670883659_18459906688099237_2969568005647622793_n.jpg
+instagram_profile_image_bytes: 138773
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/seel.illustrations/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/seel.illustrations/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/seel.illustrations/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/seel.illustrations/profile/670883659_18459906688099237_2969568005647622793_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/seel.illustrations/profile/670883659_18459906688099237_2969568005647622793_n.jpg
+profile_image_local: >-
+  ../../assets/designers/seel.illustrations/profile/670883659_18459906688099237_2969568005647622793_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/seel.illustrations/profile/670883659_18459906688099237_2969568005647622793_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316402895278_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316419619614_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1617284617_2542290093257721961_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1622818680_2588713175232632448_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1659708314_2898165860850571183_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1674056730_3018529095679584468_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1716810577_3377174352841179536_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865180_3427964051956429848_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865181_3427964052082174245_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865181_3427964052082232776_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809454753_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809493409_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858817707538_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858842951683_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851276412_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851416183_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1750090708_3656348328421536760_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1763464689_3768537412830133944_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979561349374327_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979564771877871_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979564847380322_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979566793525273_2885523236.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316402895278_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1617284617_2542290093257721961_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1659708314_2898165860850571183_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1674056730_3018529095679584468_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1716810577_3377174352841179536_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865180_3427964051956429848_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809454753_2885523236.jpg
+  - >-
+    ../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851416183_2885523236.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # seel.illustrations
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/seel.illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/seel.illustrations/profile/670883659_18459906688099237_2969568005647622793_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316402895278_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316402895278_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316419619614_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1610280740_2483537316419619614_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1617284617_2542290093257721961_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1617284617_2542290093257721961_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1622818680_2588713175232632448_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1622818680_2588713175232632448_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1659708314_2898165860850571183_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1659708314_2898165860850571183_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1674056730_3018529095679584468_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1674056730_3018529095679584468_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1716810577_3377174352841179536_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1716810577_3377174352841179536_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865180_3427964051956429848_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865180_3427964051956429848_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865181_3427964052082174245_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865181_3427964052082174245_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865181_3427964052082232776_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1722865181_3427964052082232776_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809454753_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809454753_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809493409_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858809493409_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858817707538_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858817707538_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858842951683_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858842951683_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851276412_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851276412_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851416183_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1730363899_3490867858851416183_2885523236.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1750090708_3656348328421536760_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1750090708_3656348328421536760_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1763464689_3768537412830133944_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1763464689_3768537412830133944_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979561349374327_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979561349374327_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979564771877871_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979564771877871_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979564847380322_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979564847380322_2885523236.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979566793525273_2885523236.jpg)<br><!-- image:../../assets/designers/seel.illustrations/instagram/seel.illustrations_1770908677_3830979566793525273_2885523236.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Serineh Eliasian is an illustrator and surface pattern designer based in Yerevan, Armenia. She holds an MA in Graphic Design from the Art University of Tehran and works across children's book illustration, surface pattern design, and independent author-illustrator projects. Her debut picture book, *Yasi & Mina's Pomegranate Tree* (Sleeping Bear Press), was published in April 2025.
+
 ## Style and Aesthetic
+
+Botanical-led illustration with nature, childhood memories, and dreams as primary sources. Selected Instagram images suggest richly detailed compositions pairing floral and botanical motifs with quirky, characterful figures. The work carries a narrative, storytelling quality suited to kidswear, stationery, and children's publishing markets.
 
 ## Techniques and Tools
 
+Illustration-led approach to pattern making. Eliasian explores how illustrated characters and botanicals repeat and translate across fabric, paper, and everyday objects. Her practice spans both editorial illustration and repeat construction for surface design applications.
+
 ## Markets and Clients
+
+Children's publishing and illustration (Sleeping Bear Press). Surface pattern applications suited to kidswear and stationery. Develops independent author-illustrator projects alongside commercial pattern work.
 
 ## Portfolio and Presence
 
+- Website: serineheliasian.com
+- Instagram: @seel.illustrations (7,165 followers)
+
 ## Career Path
+
+Studied graphic design at the Art University of Tehran (MA). Now based in Yerevan, Armenia. Built a dual practice as children's book illustrator and surface pattern designer. Debut picture book *Yasi & Mina's Pomegranate Tree* published April 2025 by Sleeping Bear Press. Develops independent author-illustrator projects alongside pattern work.
 
 ## Pattern Focus
 
+Selected Instagram images suggest botanical repeat patterns — florals and nature-inspired motifs — paired with character illustration. Warm, narrative compositions with a hand-crafted illustrative quality. Suited to children's stationery, kidswear, and illustrated print products.
+
 ## Connections
+
+- [[Sleeping Bear Press]] — published debut picture book, 2025
+- [[botanical prints]] — primary pattern focus
+- [[kidswear]] — market
+- [[stationery]] — market

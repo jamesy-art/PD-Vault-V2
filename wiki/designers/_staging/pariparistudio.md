@@ -23,7 +23,7 @@ bio: ''
 website: 'https://pariparistudio.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/pariparistudio
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Landing | My Site 2
 website_meta_description: ''
 website_about_raw: >-
@@ -261,7 +264,7 @@ categories:
   - Womenswear
   - Menswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -282,45 +285,168 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/333762620_880353696414654_1764245900102761210_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODYuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEeqyr7n-l0CKHp2c5ZRxLjG3ulBUOkJM403Vslq2DbAkACDpmOoCB5xFVnfp26v6I&_nc_ohc=Arjql5iMuocQ7kNvwGNlASx&_nc_gid=tLRwokc7T1Atq895Hy3Nyg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af67hfr-rFdEftdA-cfDzugZ-_YlxpJw7_-UgqVeRyRsMQ&oe=6A13D3B5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/333762620_880353696414654_1764245900102761210_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODYuYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEeqyr7n-l0CKHp2c5ZRxLjG3ulBUOkJM403Vslq2DbAkACDpmOoCB5xFVnfp26v6I&_nc_ohc=Arjql5iMuocQ7kNvwGNlASx&_nc_gid=tLRwokc7T1Atq895Hy3Nyg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af67hfr-rFdEftdA-cfDzugZ-_YlxpJw7_-UgqVeRyRsMQ&oe=6A13D3B5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/pariparistudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5611
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/pariparistudio/profile/333762620_880353696414654_1764245900102761210_n.jpg
+instagram_profile_image_bytes: 43163
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/pariparistudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/pariparistudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/pariparistudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/pariparistudio/profile/333762620_880353696414654_1764245900102761210_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/pariparistudio/profile/333762620_880353696414654_1764245900102761210_n.jpg
+profile_image_local: >-
+  ../../assets/designers/pariparistudio/profile/333762620_880353696414654_1764245900102761210_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/pariparistudio/profile/333762620_880353696414654_1764245900102761210_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255256054463_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255423648200_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713251700_3347320504954908759_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713337200_3348037690279081146_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713803938_3351952838861572240_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713853550_3352369016646083282_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713853550_3352369016838832711_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673441906_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673665509_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1717826989_3385700635012226609_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376790748852460_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376791076065883_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1740659891_3577236906136972757_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029581591182_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029606722751_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029606904366_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029615300349_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029657224503_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029673928941_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029682313448_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603520128512_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603528521381_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603578818946_58608827824.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255423648200_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713251700_3347320504954908759_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713337200_3348037690279081146_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713803938_3351952838861572240_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673441906_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673665509_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376790748852460_58608827824.jpg
+  - >-
+    ../../assets/designers/pariparistudio/instagram/pariparistudio_1740659891_3577236906136972757_58608827824.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # pariparistudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pariparistudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/pariparistudio/profile/333762620_880353696414654_1764245900102761210_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255256054463_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255256054463_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255423648200_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713162522_3346572255423648200_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713251700_3347320504954908759_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713251700_3347320504954908759_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713337200_3348037690279081146_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713337200_3348037690279081146_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713803938_3351952838861572240_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713803938_3351952838861572240_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713853550_3352369016646083282_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713853550_3352369016646083282_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713853550_3352369016838832711_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713853550_3352369016838832711_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673441906_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673441906_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673665509_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1713943457_3353123209673665509_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1717826989_3385700635012226609_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1717826989_3385700635012226609_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376790748852460_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376790748852460_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376791076065883_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1729947731_3487376791076065883_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1740659891_3577236906136972757_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1740659891_3577236906136972757_58608827824.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029581591182_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029581591182_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029606722751_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029606722751_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029606904366_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029606904366_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029615300349_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029615300349_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029657224503_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029657224503_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029673928941_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029673928941_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029682313448_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1746207310_3623772029682313448_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603520128512_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603520128512_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603528521381_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603528521381_58608827824.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603578818946_58608827824.jpg)<br><!-- image:../../assets/designers/pariparistudio/instagram/pariparistudio_1759813331_3737907603578818946_58608827824.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Parigna Desai is a Mumbai-based textile designer and researcher working at the intersection of Indian craft traditions and contemporary sustainable practice. Educated at Parsons School of Design (BA Fashion Design) and Central Saint Martins (PG Certificate, Material Futures), she runs Pari Pari as a design and product development service for fashion and home, with a focus on Indian craft ecosystems, artisan collaboration, and conscious material sourcing.
+
 ## Style and Aesthetic
+
+Selected images suggest a practice rooted in material experimentation — textured surface structures, craft-derived repeat patterns, and a restrained palette tied to natural processes and handwoven origins. Work references Indian textile traditions within a contemporary sustainable design vocabulary.
 
 ## Techniques and Tools
 
+Trained in fashion design and material futures. Works with natural and heritage textiles including rose petal, lotus stem, and cotton (documented in the Lagom collaboration). Practice spans art direction, pattern development, and product design across fashion and home categories.
+
 ## Markets and Clients
+
+Fashion and home sectors. Named clients include Saheli Women (apparel and art direction), Homeland Elegies and Nongo Ezung (menswear), and Spacewarp (rugs). Operates Pari Pari and co-developed Lagom with Rosko Design (conscious fashion, natural fabrics). The Hilma collection, developed with Ware Innovations, applies ceramic, cork, and fabric surfaces inspired by Hilma af Klint.
 
 ## Portfolio and Presence
 
+- Instagram: @pariparistudio
+- Brands: Pari Pari, Lagom
+
 ## Career Path
+
+Studied fashion design at Parsons New York and completed a postgraduate Certificate in Material Futures at CSM London. Previously worked at Bungalow 8 and Obataimu. Founded Pari Pari to focus on Indian craft-based design, research, and ecosystem work.
 
 ## Pattern Focus
 
+Craft-derived surface patterns rooted in Indian textile traditions — woven structures, natural material textures, and motifs drawn from artisan processes. Research extends to ecosystem intervention alongside pattern and product design output.
+
 ## Connections
+
+- [[Indian Textiles]]
+- [[Sustainable Design]]
+- [[Fashion]] market
+- [[Home Textiles]] market
+- [[Parsons School of Design]]
+- [[Central Saint Martins]]

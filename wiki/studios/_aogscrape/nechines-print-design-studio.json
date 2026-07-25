@@ -1,0 +1,24 @@
+{
+  "slug": "nechines-print-design-studio",
+  "name": "Nechines Print Design Studio",
+  "website": "https://nechinesestudio.thepatterncloud.com/shop.php#/studio/home",
+  "source_md": "wiki/studios/_pending-patterncloud/nechines-print-design-studio.md",
+  "scraped_at": "2026-06-05T23:23:52.086Z",
+  "status": "scraped",
+  "website_title": "NECHINES - PRINT DESIGN STUDIO",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://nechinesestudio.thepatterncloud.com/shop.php#/studio/home",
+      "text": "NECHINES - PRINT DESIGN STUDIO",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://nechinesestudio.thepatterncloud.com/shop.php#/studio/home\nNECHINES - PRINT DESIGN STUDIO",
+  "website_about_clean": "SOURCE: https://nechinesestudio.thepatterncloud.com/shop.php#/studio/home\nNECHINES - PRINT DESIGN STUDIO",
+  "website_images": [],
+  "scrape_quality": "weak",
+  "scrape_quality_score": 25,
+  "usable_for_claude": false,
+  "enrichment_status": "needs_manual_review"
+}

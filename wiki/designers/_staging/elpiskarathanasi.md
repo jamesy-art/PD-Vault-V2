@@ -20,7 +20,7 @@ bio: ''
 website: 'https://elpiskarathanasi.wixsite.com/elpisk'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/elpiskarathanasi
 profile_url: ''
 instagram_images:
@@ -37,8 +37,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Elpis Karathanasi illustrations | illustration
 website_meta_description: >-
   Elpis Karathanasi illustrations: picture book illustrations, collage, digital
@@ -71,7 +74,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -89,44 +92,159 @@ instagram_business_account: true
 instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/11820495_482207145289152_1011206641_a.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGNauI8UslYxD8wsmwyhH7Wq_obmLhMrv5xjDVZTbPNYPATVHR-IggaYNPur4Z_5eg&_nc_ohc=WYfWMVB_lp4Q7kNvwGouH_c&_nc_gid=j_u58W2-mlPz5h4dYPnq4g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Tb13OG8DMMXCnrB0kOpZsR9Xm7BgembvyTULb1BE02w&oe=6A13DDA4&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/elpiskarathanasi/profile/11820495_482207145289152_1011206641_a.jpg
+instagram_profile_image_bytes: 3516
+instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/elpiskarathanasi/profile/11820495_482207145289152_1011206641_a.jpg
+profile_images:
+  - >-
+    ../../assets/designers/elpiskarathanasi/profile/11820495_482207145289152_1011206641_a.jpg
+profile_image_local: >-
+  ../../assets/designers/elpiskarathanasi/profile/11820495_482207145289152_1011206641_a.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/elpiskarathanasi/profile/11820495_482207145289152_1011206641_a.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882035_1859435739339758245_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882037_1859435756276240231_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903889_1859619066470228126_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903891_1859619085503974703_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1581870954_2245218759333414161_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1586867209_2287130384088908844_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518240033618_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518265231180_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518273691437_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463438736635_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463464037940_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463472469755_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463480790984_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463489053919_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463497604988_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463506048941_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463514334561_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463531165192_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463547773686_2262779290.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882035_1859435739339758245_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903889_1859619066470228126_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463464037940_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463489053919_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463531165192_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463547773686_2262779290.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1581870954_2245218759333414161_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1586867209_2287130384088908844_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463438736635_2262779290.jpg
+  - >-
+    ../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463506048941_2262779290.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # elpiskarathanasi
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/elpiskarathanasi/profile/11820495_482207145289152_1011206641_a.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882035_1859435739339758245_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882035_1859435739339758245_2262779290.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882037_1859435756276240231_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535882037_1859435756276240231_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903889_1859619066470228126_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903889_1859619066470228126_2262779290.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903891_1859619085503974703_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1535903891_1859619085503974703_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1581870954_2245218759333414161_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1581870954_2245218759333414161_2262779290.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1586867209_2287130384088908844_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1586867209_2287130384088908844_2262779290.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518240033618_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518240033618_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518265231180_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518265231180_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518273691437_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1588005555_2296679518273691437_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463438736635_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463438736635_2262779290.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463464037940_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463464037940_2262779290.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463472469755_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463472469755_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463480790984_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463480790984_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463489053919_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463489053919_2262779290.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463497604988_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463497604988_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463506048941_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463506048941_2262779290.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463514334561_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463514334561_2262779290.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463531165192_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463531165192_2262779290.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463547773686_2262779290.jpg)<br><!-- image:../../assets/designers/elpiskarathanasi/instagram/elpiskarathanasi_1635077721_2691549463547773686_2262779290.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elpis Karathanasi is a Greek graphic designer and illustrator working primarily in children's book illustration, paper collage, and mixed-media handmade design. Based in Greece, she has self-published a picture book on Amazon and been longlisted for the dpictus Unpublished Picturebook Showcase. Surface pattern work appears as an additional strand, developed through formal training.
+
 ## Style and Aesthetic
+
+Elpis combines cut-paper collage, acrylics, and gouache with digital illustration, producing work with a tactile, handmade quality. Her children's book work features narrative figurative compositions; her surface pattern training work shows simpler figurative repeat motifs — boats and expressive faces — suggesting a more graphic, character-led approach to pattern.
 
 ## Techniques and Tools
 
+Primary techniques are paper collage (cut-paper, glue), acrylics, gouache, colour pencils, and graphite. She also works digitally. Her picture books use handmade collage methods. Participation in the Make It In Design Summer School 2018 introduced her to repeat construction and textile/surface design fundamentals.
+
 ## Markets and Clients
+
+Her primary market is children's book illustration. Published work includes "Raven, the Bringer of Light" (Amazon) and the longlisted picturebook "Babylonica" (dpictus). She has submitted designs to competition briefs including the Victorinox Limited Edition 2021. Surface pattern work is currently at an early/training stage rather than commercial production.
 
 ## Portfolio and Presence
 
+- Website: https://elpiskarathanasi.wixsite.com/elpisk
+- Instagram: @elpiskarathanasi
+
 ## Career Path
+
+Elpis studied graphic design and illustration and has maintained a practice centred on children's picture book work. She participated in the Make It In Design Summer School 2018, producing her first surface pattern designs. Her picturebook career has advanced through international showcases and Amazon self-publication.
 
 ## Pattern Focus
 
+Selected pattern images from the Make It In Design Summer School suggest tossed or scattered figurative repeats — boats on water and expressive face motifs. These represent early-stage pattern work rather than production-ready SPD output. Selected placements show pages from her illustrated picturebook work.
+
 ## Connections
+
+- [[Children's Book Illustration]]
+- [[Paper Collage]]
+- [[Make It In Design]]
+- [[Surface Pattern Design]]
+- [[Mixed Media Illustration]]

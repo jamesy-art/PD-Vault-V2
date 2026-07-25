@@ -1,0 +1,26 @@
+{
+  "slug": "etherea-patterns",
+  "name": "Etherea Patterns",
+  "website": "https://etherea.thepatterncloud.com/shop.php#/studio/home",
+  "source_md": "wiki/studios/_pending-patterncloud/etherea-patterns.md",
+  "scraped_at": "2026-06-05T23:22:02.544Z",
+  "status": "scraped",
+  "website_title": "Etherea Patterns, LLC",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://etherea.thepatterncloud.com/shop.php#/studio/home",
+      "text": "Etherea Patterns, LLC",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://etherea.thepatterncloud.com/shop.php#/studio/home\nEtherea Patterns, LLC",
+  "website_about_clean": "SOURCE: https://etherea.thepatterncloud.com/shop.php#/studio/home\nEtherea Patterns, LLC",
+  "website_images": [],
+  "scrape_quality": "weak",
+  "scrape_quality_score": 25,
+  "usable_for_claude": false,
+  "enrichment_status": "needs_manual_review",
+  "website_images_usable": [],
+  "website_images_local": []
+}

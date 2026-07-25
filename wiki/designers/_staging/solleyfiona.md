@@ -24,7 +24,7 @@ bio: ''
 website: 'https://fionasolley.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/solleyfiona
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home | Fiona Solley
 website_meta_description: ''
 website_about_raw: >-
@@ -171,7 +174,7 @@ open_to:
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -190,45 +193,169 @@ instagram_profile_pic_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/562118862_18376823407144352_7300238377804115484_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gF2WGVOsO3BWMop0FPtcuIBNwcIziS8VVqTa8Ityx8V1h4tZCZpsoUvfqTch3X95xA&_nc_ohc=CX4cqhD7t5gQ7kNvwGxWBBP&_nc_gid=OVmFJ6FRT_obCd1TVVrBwQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6U4kMFaRJ4hWxgajlA5tQAQDjhbH_sE9UAdT1LX5eb6A&oe=6A13D801&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/562118862_18376823407144352_7300238377804115484_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gF2WGVOsO3BWMop0FPtcuIBNwcIziS8VVqTa8Ityx8V1h4tZCZpsoUvfqTch3X95xA&_nc_ohc=CX4cqhD7t5gQ7kNvwGxWBBP&_nc_gid=OVmFJ6FRT_obCd1TVVrBwQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6U4kMFaRJ4hWxgajlA5tQAQDjhbH_sE9UAdT1LX5eb6A&oe=6A13D801&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/solleyfiona/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7847
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/solleyfiona/profile/562118862_18376823407144352_7300238377804115484_n.jpg
+instagram_profile_image_bytes: 199727
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/solleyfiona/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/solleyfiona/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/solleyfiona/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/solleyfiona/profile/562118862_18376823407144352_7300238377804115484_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/solleyfiona/profile/562118862_18376823407144352_7300238377804115484_n.jpg
+profile_image_local: >-
+  ../../assets/designers/solleyfiona/profile/562118862_18376823407144352_7300238377804115484_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/solleyfiona/profile/562118862_18376823407144352_7300238377804115484_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1649579672_2813200652367237733_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152011648_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152020253_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265336385496_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1673158539_3010994524135559323_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1675484269_3030504157527671903_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1675936960_3034301603293973091_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1677922069_3050953911343847731_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1681982125_3085012123009213899_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1682056907_3085639439666152488_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1740219137_3573539593515181519_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1740294989_3574175886850860963_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1743309587_3599464162465439691_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1749976994_3655394429096296135_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1750368019_3658674587107815564_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1761464996_3751762775237367942_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813216098784_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813400657608_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813409036816_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1769831717_3821946652530248523_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1775349366_3868230254813196692_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1775386021_3868540430304903711_4521792351.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1649579672_2813200652367237733_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152011648_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1673158539_3010994524135559323_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1675484269_3030504157527671903_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1677922069_3050953911343847731_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1750368019_3658674587107815564_4521792351.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1681982125_3085012123009213899_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1740294989_3574175886850860963_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1743309587_3599464162465439691_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1761464996_3751762775237367942_4521792351.jpg
+  - >-
+    ../../assets/designers/solleyfiona/instagram/solleyfiona_1769831717_3821946652530248523_4521792351.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 5
+trash_image_count: 0
 ---
-
 # solleyfiona
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/solleyfiona/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/solleyfiona/profile/562118862_18376823407144352_7300238377804115484_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1649579672_2813200652367237733_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1649579672_2813200652367237733_4521792351.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152011648_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152011648_4521792351.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152020253_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265152020253_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265336385496_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1667510849_2963618265336385496_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1673158539_3010994524135559323_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1673158539_3010994524135559323_4521792351.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1675484269_3030504157527671903_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1675484269_3030504157527671903_4521792351.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1675936960_3034301603293973091_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1675936960_3034301603293973091_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1677922069_3050953911343847731_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1677922069_3050953911343847731_4521792351.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1681982125_3085012123009213899_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1681982125_3085012123009213899_4521792351.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1682056907_3085639439666152488_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1682056907_3085639439666152488_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1740219137_3573539593515181519_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1740219137_3573539593515181519_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1740294989_3574175886850860963_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1740294989_3574175886850860963_4521792351.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1743309587_3599464162465439691_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1743309587_3599464162465439691_4521792351.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1749976994_3655394429096296135_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1749976994_3655394429096296135_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1750368019_3658674587107815564_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1750368019_3658674587107815564_4521792351.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1761464996_3751762775237367942_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1761464996_3751762775237367942_4521792351.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813216098784_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813216098784_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813400657608_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813400657608_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813409036816_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1767691064_3803990813409036816_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1769831717_3821946652530248523_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1769831717_3821946652530248523_4521792351.jpg --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1775349366_3868230254813196692_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1775349366_3868230254813196692_4521792351.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/solleyfiona/instagram/solleyfiona_1775386021_3868540430304903711_4521792351.jpg)<br><!-- image:../../assets/designers/solleyfiona/instagram/solleyfiona_1775386021_3868540430304903711_4521792351.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Australian multidisciplinary illustrator and surface pattern designer working across traditional and digital media. Based in Australia, Fiona Solley creates vibrant, story-rich artworks blending playful shapes with intricate illustrative detail, applied across surface design, textile, branding, and stationery contexts.
+
 ## Style and Aesthetic
+
+Bold, vibrant colour palettes with a warm, artisan feel. The work pairs intricate illustrative detail with emotionally engaged subject matter — nature, craft heritage, and culinary culture feature across portfolio projects. Selected Instagram pattern images suggest botanical and nature-inspired motifs with a hand-crafted quality and rich colour depth.
 
 ## Techniques and Tools
 
+Works with gouache, pencils, and oil pastels as traditional media, alongside digital tools for surface pattern and print adaptation. The practice spans both hand-made and digital workflows, with traditional mark-making informing finished repeat and placement designs.
+
 ## Markets and Clients
+
+Stationery is the declared primary market. Open to commissions across branding (e.g. Bush Bloom Distillery, a self-initiated gin brand collaboration), book cover illustration, and product surface design. Selected placement images suggest scarf and packaging applications. Also active through Inkygoodness Collective on conceptual brief work.
 
 ## Portfolio and Presence
 
+- Website: https://fionasolley.com
+- Instagram: https://instagram.com/solleyfiona
+
 ## Career Path
+
+Fiona describes her practice as a multidisciplinary exploration of the world through traditional and digital media. Portfolio includes community-initiated projects (The Sketchy Collective branding), commercial surface design (the Folklore Scarf Set), and conceptual packaging (Luna Creamery). Work developed through Inkygoodness Collective brief formats.
 
 ## Pattern Focus
 
+Selected Instagram patterns suggest vibrant, illustrative surface designs drawing on nature, botanical, and craft references. The work includes both repeat structures and placement prints. Colour and narrative are central to the design identity across all categories.
+
 ## Connections
+
+- [[Botanical Pattern]]
+- [[Stationery]]
+- [[Illustration]]
+- [[Inkygoodness]]

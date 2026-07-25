@@ -27,7 +27,7 @@ bio: ''
 website: 'https://monapatterns.com/portfolio'
 website_about: ''
 accepted: 25/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/monapatterns
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Mona Monash
 website_meta_description: ''
 website_about_raw: >-
@@ -280,7 +283,7 @@ categories:
   - Womenswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -297,45 +300,148 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/151849686_1946274468845555_3397986786342904770_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHqtx5k2ejVeCmBH5-ONlVmRgeQZpxq9VGLlX7qZ3yEpl2rJTzVrxW9Z2WYwIsM9p4&_nc_ohc=Ql6SDU3IIaQQ7kNvwH_OjcM&_nc_gid=pc9SUEmh9rg7cPp2iVgALg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6wnZbhJ-vENZVKSCjdl1ds1FW7t3Ff0UqI6x134j-PaA&oe=6A140153&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/151849686_1946274468845555_3397986786342904770_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHqtx5k2ejVeCmBH5-ONlVmRgeQZpxq9VGLlX7qZ3yEpl2rJTzVrxW9Z2WYwIsM9p4&_nc_ohc=Ql6SDU3IIaQQ7kNvwH_OjcM&_nc_gid=pc9SUEmh9rg7cPp2iVgALg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6wnZbhJ-vENZVKSCjdl1ds1FW7t3Ff0UqI6x134j-PaA&oe=6A140153&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/monapatterns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3121
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/monapatterns/profile/151849686_1946274468845555_3397986786342904770_n.jpg
+instagram_profile_image_bytes: 65553
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/monapatterns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/monapatterns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/monapatterns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/monapatterns/profile/151849686_1946274468845555_3397986786342904770_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/monapatterns/profile/151849686_1946274468845555_3397986786342904770_n.jpg
+profile_image_local: >-
+  ../../assets/designers/monapatterns/profile/151849686_1946274468845555_3397986786342904770_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/monapatterns/profile/151849686_1946274468845555_3397986786342904770_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1736762800_3544545734075064962_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1755163978_3698906001973718115_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1755509215_3701802061998305087_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1755612575_3702669103496237552_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1757580554_3719177707775893347_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1757943140_3722219305174618765_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1769424111_3818528640875383796_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1769595504_3819966393064385012_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1769799624_3821678668926197064_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1771106816_3832644187065967061_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1774545349_3861488695140426688_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1774973102_3865076943519510069_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1778518931_3894821510948408526_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1778616018_3895635937679480190_45263572003.webp
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1736762800_3544545734075064962_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1755509215_3701802061998305087_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1757580554_3719177707775893347_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1757943140_3722219305174618765_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1769424111_3818528640875383796_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1769595504_3819966393064385012_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1774545349_3861488695140426688_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1778518931_3894821510948408526_45263572003.webp
+selected_placements:
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1755163978_3698906001973718115_45263572003.webp
+  - >-
+    ../../assets/designers/monapatterns/instagram/monapatterns_1771106816_3832644187065967061_45263572003.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # monapatterns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/monapatterns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/monapatterns/profile/151849686_1946274468845555_3397986786342904770_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1736762800_3544545734075064962_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1736762800_3544545734075064962_45263572003.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1755163978_3698906001973718115_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1755163978_3698906001973718115_45263572003.webp --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1755509215_3701802061998305087_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1755509215_3701802061998305087_45263572003.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1755612575_3702669103496237552_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1755612575_3702669103496237552_45263572003.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1757580554_3719177707775893347_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1757580554_3719177707775893347_45263572003.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1757943140_3722219305174618765_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1757943140_3722219305174618765_45263572003.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1769424111_3818528640875383796_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1769424111_3818528640875383796_45263572003.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1769595504_3819966393064385012_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1769595504_3819966393064385012_45263572003.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1769799624_3821678668926197064_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1769799624_3821678668926197064_45263572003.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1771106816_3832644187065967061_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1771106816_3832644187065967061_45263572003.webp --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1774545349_3861488695140426688_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1774545349_3861488695140426688_45263572003.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1774973102_3865076943519510069_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1774973102_3865076943519510069_45263572003.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1778518931_3894821510948408526_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1778518931_3894821510948408526_45263572003.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/monapatterns/instagram/monapatterns_1778616018_3895635937679480190_45263572003.webp)<br><!-- image:../../assets/designers/monapatterns/instagram/monapatterns_1778616018_3895635937679480190_45263572003.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mona Monash is a Prague-based surface pattern designer and illustrator with 15 years of commercial experience in surface design, illustration, and packaging. She graduated from the Kharkiv State Academy of Design and Fine Arts in 2011. She offers surface pattern licensing (exclusive and non-exclusive), custom illustration, and packaging design for fashion, stationery, and food brands. Designs are also available on Patternbank.
+
 ## Style and Aesthetic
+
+Monash describes her work as bold, illustration-led, playful, and decorative — designed to help products stand out on shelves and give collections visual cohesion. Selected Instagram pattern images (8 selected, 2 placements) are consistent with an illustration-forward approach: rich colour, characterful motifs, and decorative density applied across diverse product categories. Client diversity spans food packaging, publishing illustration, fashion, and stationery.
 
 ## Techniques and Tools
 
+Graphic design background with 15 years of practice in surface design, illustration, and commercial artwork. Services span seamless pattern design for textiles and apparel, illustration-led packaging for food and beverage, and art licensing with private gallery access. Specific software tools are not documented from available sources.
+
 ## Markets and Clients
+
+Fashion, stationery, food and beverage packaging, publishing, and hospitality. Documented clients: Event Network, SheinX, Basilur Tea, GoDaddy, Mayoral, Superior Golf & Spa Resort, Organsia Tea, Imaginaria Creative, Clever Publishing House, Hungry Tomato Publishing House, Ehrenwort, Albi, Chaton, Love Vivienne, Laurella.
 
 ## Portfolio and Presence
 
+- Website: monapatterns.com/portfolio
+- Instagram: @monapatterns (820 followers)
+- Patternbank: listed (discount code INSIDER10 referenced in Instagram bio)
+- Email: hello.monamonash@gmail.com
+
 ## Career Path
+
+Graduated from Kharkiv State Academy of Design and Fine Arts (2011). Built a 15-year commercial practice across surface design, illustration, and packaging. Based in Prague. Available for custom projects and licensing with a stated 1–2 business day response time.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 2 placements) confirm bold, illustration-led surface patterns across diverse subject matter. Placement images confirm product application in consumer goods contexts. Patternbank listing indicates active design licensing. Client testimonials from Basilur Tea, Hungry Tomato, GoDaddy, and Event Network document a strong repeat-client track record.
+
 ## Connections
+
+- [[Patternbank]] — documented licensing platform
+- [[Basilur Tea]] — documented client (testimonial)
+- [[Hungry Tomato Publishing House]] — documented client
+- [[Event Network]] — documented client
+- [[GoDaddy]] — documented client
+- [[Packaging Design]] — documented service
+- [[Art Licensing]] — core business model

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://byheart.design'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/byheart_design
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Byheart Design's Pattern Studio
 website_meta_description: >-
   Byheart Design Sweden — premium watercolor floral prints available for B2B
@@ -105,7 +108,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -124,45 +127,89 @@ instagram_profile_pic_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/589068325_18499979035072211_9210299347755835991_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEDe0IgmqP2u9oqEdp_ev_LwJXGbAzD-q5OXdlN9hLuK-wRSmchL17VvB2f-Vq9gso&_nc_ohc=yJAHczqZag0Q7kNvwEfH9VI&_nc_gid=evBU1OxV8ioOKHIrLPH0HA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af72ziajYLWzlgKwluYqL_1dpUM4czwNq7_xpWcwueJa2g&oe=6A13D57F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/589068325_18499979035072211_9210299347755835991_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEDe0IgmqP2u9oqEdp_ev_LwJXGbAzD-q5OXdlN9hLuK-wRSmchL17VvB2f-Vq9gso&_nc_ohc=yJAHczqZag0Q7kNvwEfH9VI&_nc_gid=evBU1OxV8ioOKHIrLPH0HA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af72ziajYLWzlgKwluYqL_1dpUM4czwNq7_xpWcwueJa2g&oe=6A13D57F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/byheart_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6960
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/byheart_design/profile/589068325_18499979035072211_9210299347755835991_n.jpg
+instagram_profile_image_bytes: 174534
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/byheart_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/byheart_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/byheart_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/byheart_design/profile/589068325_18499979035072211_9210299347755835991_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/byheart_design/profile/589068325_18499979035072211_9210299347755835991_n.jpg
+profile_image_local: >-
+  ../../assets/designers/byheart_design/profile/589068325_18499979035072211_9210299347755835991_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/byheart_design/profile/589068325_18499979035072211_9210299347755835991_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/byheart_design/instagram/byheart_design_imageye___-_imgi_6_684510560_1705012957521399_7435440112409883641_n.jpeg
+instagram_image_count: 1
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/byheart_design/instagram/byheart_design_imageye___-_imgi_6_684510560_1705012957521399_7435440112409883641_n.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 1
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # byheart_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/byheart_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/byheart_design/profile/589068325_18499979035072211_9210299347755835991_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/byheart_design/instagram/byheart_design_imageye___-_imgi_6_684510560_1705012957521399_7435440112409883641_n.jpeg)<br><!-- image:../../assets/designers/byheart_design/instagram/byheart_design_imageye___-_imgi_6_684510560_1705012957521399_7435440112409883641_n.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Batoul Yazdanian is an independent print designer based in Sweden, working under the name Byheart Design Sweden. She specialises in premium watercolour floral prints available for B2B licensing, serving fashion, home textiles, and activewear buyers worldwide. The website is password-protected, positioning the studio as trade-first with access by request.
+
 ## Style and Aesthetic
+
+One selected pattern image confirms a watercolour approach. The website meta description explicitly positions the work as "premium watercolor floral prints." The practice is concentrated on florals with a refined, studio-quality presentation suited to B2B textile buyers.
 
 ## Techniques and Tools
 
+Watercolour is the primary and documented medium. No additional tools or software are specified in available sources. Skills listed include painting, pattern design, colour theory, market adaptation, communication, and licensing basics.
+
 ## Markets and Clients
+
+Stated markets: fashion apparel, home textiles, and activewear. The Instagram bio notes that agents in apparel and interior markets are welcome to contact the studio, indicating awareness of trade channels. Licensing model: B2B worldwide, open to fashion brands, textile buyers, and manufacturers.
 
 ## Portfolio and Presence
 
+- Website: byheart.design (password-protected; access by request to info@byheart.design)
+- Instagram: @byheart_design (757 followers, 614 posts, business account)
+- Contact: info@byheart.design
+
 ## Career Path
+
+Batoul Yazdanian is based in Sweden. She established Byheart Design as an independent print studio and personal portfolio. No formal educational background or prior industry career is documented in available sources.
 
 ## Pattern Focus
 
+One selected pattern image confirms watercolour floral work. The studio positions itself as a premium watercolour floral specialist for B2B licensing across fashion apparel, home textiles, and activewear. The selective, password-protected presentation indicates a trade-first, quality-controlled positioning.
+
 ## Connections
+
+- [[Floral and Botanical Patterns]] — core documented output
+- [[Licensing]] — primary commercial model
+- [[Fashion]] — documented target market
+- [[Home Decor]] — documented target market
+- [[Activewear]] — documented target market
+- [[Sweden]] — based

@@ -19,7 +19,7 @@ bio: ''
 website: 'https://monlienatelier.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/monlienatelier
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Mon Lien Atelier | Accessori in seta Made in Italy | Shop Online
 website_meta_description: >-
   Scopri l’universo di un legame in pregiato twill di seta naturale. Accessori
@@ -264,7 +267,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >2-
 
    
@@ -375,45 +378,183 @@ instagram_profile_pic_url: >-
   https://instagram.fmem1-2.fna.fbcdn.net/v/t51.2885-19/474143127_9105282802843271_7019214540706007542_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH2AC-nOT7qUYoehfd9cejifIwZMpyB0ahFgnBc3AjZRPGGmioHP5Uni-8lDhoGZ7M&_nc_ohc=qFqks7Vexk4Q7kNvwH3ukZq&_nc_gid=nGtegSTrlGogx-zEpTRXtQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DJFioyo8R-4rrr6gSYQ4v2pxBDcIYkrTgN_6uKM5jyw&oe=6A13DF8E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fmem1-2.fna.fbcdn.net/v/t51.2885-19/474143127_9105282802843271_7019214540706007542_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmem1-2.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gH2AC-nOT7qUYoehfd9cejifIwZMpyB0ahFgnBc3AjZRPGGmioHP5Uni-8lDhoGZ7M&_nc_ohc=qFqks7Vexk4Q7kNvwH3ukZq&_nc_gid=nGtegSTrlGogx-zEpTRXtQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DJFioyo8R-4rrr6gSYQ4v2pxBDcIYkrTgN_6uKM5jyw&oe=6A13DF8E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3082
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/monlienatelier/profile/474143127_9105282802843271_7019214540706007542_n.jpg
+instagram_profile_image_bytes: 46826
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/monlienatelier/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/monlienatelier/profile/474143127_9105282802843271_7019214540706007542_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/monlienatelier/profile/474143127_9105282802843271_7019214540706007542_n.jpg
+profile_image_local: >-
+  ../../assets/designers/monlienatelier/profile/474143127_9105282802843271_7019214540706007542_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/monlienatelier/profile/474143127_9105282802843271_7019214540706007542_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608599856613_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608616776905_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649844689_2815423772166557662_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649844689_2815423772535660055_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649848324_2815454268908116747_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649851220_2815478558424722699_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1650382490_2819935177803894769_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1650442929_2820442174785686037_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1651759442_2831485888777789311_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1663744937_2932027506425594999_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1663850036_2932909137868299817_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1670357275_2987495812821653253_49566786741.webp
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907473390009_49566786741.webp
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907481845692_49566786741.webp
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1699262745_3229972469420920515_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1702466189_3256844911938596380_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1720685703_3409681270209252141_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1720685703_3409681270511436470_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046194636_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046252647_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046308210_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046314335_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1764258840_3775199231728976684_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574234229445053_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574234984448213_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574235680696096_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1770394298_3826667185217506627_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1770394298_3826667186777766335_49566786741.jpg
+instagram_image_count: 28
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608616776905_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1649851220_2815478558424722699_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1650382490_2819935177803894769_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1650442929_2820442174785686037_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1651759442_2831485888777789311_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1663850036_2932909137868299817_49566786741.jpg
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907481845692_49566786741.webp
+  - >-
+    ../../assets/designers/monlienatelier/instagram/monlienatelier_1699262745_3229972469420920515_49566786741.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # monlienatelier
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/monlienatelier/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/monlienatelier/profile/474143127_9105282802843271_7019214540706007542_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608599856613_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608599856613_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608616776905_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1649755978_2814679608616776905_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1649844689_2815423772166557662_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1649844689_2815423772166557662_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1649844689_2815423772535660055_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1649844689_2815423772535660055_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1649848324_2815454268908116747_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1649848324_2815454268908116747_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1649851220_2815478558424722699_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1649851220_2815478558424722699_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1650382490_2819935177803894769_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1650382490_2819935177803894769_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1650442929_2820442174785686037_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1650442929_2820442174785686037_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1651759442_2831485888777789311_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1651759442_2831485888777789311_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1663744937_2932027506425594999_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1663744937_2932027506425594999_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1663850036_2932909137868299817_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1663850036_2932909137868299817_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1670357275_2987495812821653253_49566786741.webp)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1670357275_2987495812821653253_49566786741.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907473390009_49566786741.webp)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907473390009_49566786741.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907481845692_49566786741.webp)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1689956724_3151907907481845692_49566786741.webp --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1699262745_3229972469420920515_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1699262745_3229972469420920515_49566786741.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1702466189_3256844911938596380_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1702466189_3256844911938596380_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1720685703_3409681270209252141_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1720685703_3409681270209252141_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1720685703_3409681270511436470_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1720685703_3409681270511436470_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046194636_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046194636_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046252647_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046252647_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046308210_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046308210_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046314335_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1724923505_3445230529046314335_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1764258840_3775199231728976684_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1764258840_3775199231728976684_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574234229445053_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574234229445053_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574234984448213_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574234984448213_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574235680696096_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1769787171_3821574235680696096_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1770394298_3826667185217506627_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1770394298_3826667185217506627_49566786741.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/monlienatelier/instagram/monlienatelier_1770394298_3826667186777766335_49566786741.jpg)<br><!-- image:../../assets/designers/monlienatelier/instagram/monlienatelier_1770394298_3826667186777766335_49566786741.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Céline Theis is a Belgian-born textile designer based in Milan, and the founder of Mon Lien Atelier (established 2022) — a luxury silk accessories brand producing foulards, stoles, pochettes, fusciacche, and kimono. All products are designed in Milan and produced in Como by specialist artisans. The brand operates on a slow-fashion model: limited quantities, non-seasonal main line, 100% silk twill. Prior to founding Mon Lien Atelier, Theis worked as a textile designer at Etro.
+
 ## Style and Aesthetic
+
+Theis develops exclusive print compositions in a structured, detail-rich graphic language. Each mini-collection maintains visual continuity across formats — the same motifs are restructured for different product scales (carré 90x90, pochette 33x33, stole 69x190, fusciacca 5x135). Selected pattern images suggest ornate, layered layouts with precise colour and tonal balance. Her stated signature palette centres on teal — described as a sophisticated blend of blue, green, and grey, a symbol of elegance since the late 1950s.
 
 ## Techniques and Tools
 
+The documented creative process begins with a freehand sketch, continues through digital composition of motif elements, and concludes with colour palette development. Each design is produced in two colour variants per format. Theis graduated in graphic design from the Instituto Europeo del Diseño (IED) Milan.
+
 ## Markets and Clients
+
+Luxury fashion accessories — silk scarves and accessories sold direct to consumer via monlienatelier.com. Distribution covers Italy and the EU (24–48h shipping) and international via DHL Express. Products are positioned in the premium/luxury segment.
 
 ## Portfolio and Presence
 
+- Website: monlienatelier.com
+- Instagram: @monlienatelier (1,356 followers)
+
 ## Career Path
+
+Born in Belgium; relocated to Antibes, France as a teenager; studied in Marseille, developing interests in photography and illustration. Graduated in graphic design from IED Milan. Early career in print design; moved into fashion, working closely with Carla Sozzani at 10 Corso Como. Worked as a textile designer for apparel and accessories at Etro. Founded Mon Lien Atelier in 2022.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 0 placements) suggest structured, ornate print compositions developed for luxury silk accessories. Pattern work is designed across multiple scales to maintain visual harmony between the brand's carré foulards, pochettes, stoles, and fusciacche.
+
 ## Connections
+
+- [[Etro]] — former employer (textile designer, apparel and accessories)
+- [[10 Corso Como]] — prior professional context (with Carla Sozzani)
+- [[Instituto Europeo del Diseño]] — graduation (IED Milan, graphic design)
+- [[Silk Printing]] — primary production method (Como artisans)
+- [[Luxury Accessories]] — product market
+- [[Slow Fashion]] — stated brand positioning

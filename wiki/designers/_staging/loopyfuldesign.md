@@ -25,7 +25,7 @@ bio: ''
 website: 'https://loopyfuldesign.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/loopyfuldesign
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Loopyful Design
 website_meta_description: Design and giftware inspired by Iceland
 website_about_raw: >-
@@ -238,7 +241,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -255,45 +258,139 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/447781543_429131356565837_7907199794985654260_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGLPZPJRejuVT1gHGubtPT-jqNOCleU-qSDy5PWBnPI_NAc4tU90C9q6xutAocvgsM&_nc_ohc=pp5yLjMns6MQ7kNvwEoR-Re&_nc_gid=Inq0wAgjtYkqpetQhY0mjg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7hApNVzeOisAv3jL1byKFNzolm64uFuNQPE_RE8Kji0A&oe=6A13E945&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/447781543_429131356565837_7907199794985654260_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGLPZPJRejuVT1gHGubtPT-jqNOCleU-qSDy5PWBnPI_NAc4tU90C9q6xutAocvgsM&_nc_ohc=pp5yLjMns6MQ7kNvwEoR-Re&_nc_gid=Inq0wAgjtYkqpetQhY0mjg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7hApNVzeOisAv3jL1byKFNzolm64uFuNQPE_RE8Kji0A&oe=6A13E945&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/loopyfuldesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8037
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/loopyfuldesign/profile/447781543_429131356565837_7907199794985654260_n.jpg
+instagram_profile_image_bytes: 132565
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/loopyfuldesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/loopyfuldesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/loopyfuldesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/loopyfuldesign/profile/447781543_429131356565837_7907199794985654260_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/loopyfuldesign/profile/447781543_429131356565837_7907199794985654260_n.jpg
+profile_image_local: >-
+  ../../assets/designers/loopyfuldesign/profile/447781543_429131356565837_7907199794985654260_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/loopyfuldesign/profile/447781543_429131356565837_7907199794985654260_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168767761814_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168944051422_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169153548861_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169229162704_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169489321150_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169506047223_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701578438_38308777505.webp
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701734924_38308777505.webp
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475793965569_38308777505.webp
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475835863655_38308777505.webp
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_217_HOUSES_OF_RVK_POSTCARDS.jpeg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_21_Rowan_tree_foulard.jpeg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_253_Poppies_artwork.jpeg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_321_Lupines_artwork.jpeg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168767761814_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169506047223_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701578438_38308777505.webp
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_253_Poppies_artwork.jpeg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_321_Lupines_artwork.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169489321150_38308777505.jpg
+  - >-
+    ../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_217_HOUSES_OF_RVK_POSTCARDS.jpeg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # loopyfuldesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/loopyfuldesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/loopyfuldesign/profile/447781543_429131356565837_7907199794985654260_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168767761814_38308777505.jpg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168767761814_38308777505.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168944051422_38308777505.jpg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418168944051422_38308777505.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169153548861_38308777505.jpg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169153548861_38308777505.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169229162704_38308777505.jpg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169229162704_38308777505.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169489321150_38308777505.jpg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169489321150_38308777505.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169506047223_38308777505.jpg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1738178105_3556418169506047223_38308777505.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701578438_38308777505.webp)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701578438_38308777505.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701734924_38308777505.webp)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475701734924_38308777505.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475793965569_38308777505.webp)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475793965569_38308777505.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475835863655_38308777505.webp)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_1740079291_3572366475835863655_38308777505.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_217_HOUSES_OF_RVK_POSTCARDS.jpeg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_217_HOUSES_OF_RVK_POSTCARDS.jpeg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_21_Rowan_tree_foulard.jpeg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_21_Rowan_tree_foulard.jpeg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_253_Poppies_artwork.jpeg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_253_Poppies_artwork.jpeg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_321_Lupines_artwork.jpeg)<br><!-- image:../../assets/designers/loopyfuldesign/instagram/loopyfuldesign_imageye___-_imgi_321_Lupines_artwork.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Luana Adriani is the designer behind Loopyful Design, based in Reykjavík, Iceland. Originally from Italy, she moved to Iceland in 2019, where the landscape became the foundation for her creative practice. She creates colourful artworks and fun giftware inspired by Icelandic nature and architecture, and is actively developing an art licensing portfolio alongside her consumer product range.
+
 ## Style and Aesthetic
+
+Bold, character-driven, and feel-good. Adriani describes the work as "bright pops of colour, cute doodles drawing, and a blend of freehand sketches and vector illustrations." The range spans mid-century nostalgia to contemporary kawaii, with chunky shapes and soft curves as consistent motifs. Selected Instagram patterns include dedicated Poppies and Lupines artworks — iconic Icelandic flora rendered in her graphic, illustrative style. The palette draws from Icelandic scenery: vivid greens, floral brights, and clear atmospheric colour.
 
 ## Techniques and Tools
 
+Freehand sketches combined with vector illustration. Prior crafts background includes airbrush painting, engraving, jewellery making, mosaic, and cold glass finishing. Graphic design background of 12 years (Rome). Work described as a blend of freehand and vector methods suited to print, textiles, and stationery.
+
 ## Markets and Clients
+
+Giftware — postcards and mugs stocked in Reykjavík at Þjóðminjasafn Íslands (National Museum) and Borgarsögusafn Reykjavíkur (City Museum). Selected placement images confirm postcard products featuring Houses of Reykjavík and a foulard/scarf with Rowan tree design. Consumer products also on RedBubble, TeePublic, and Contrado. Art licensing portfolio in active development; open to licensing discussions.
 
 ## Portfolio and Presence
 
+- Website: https://loopyfuldesign.com
+- Instagram: @loopyfuldesign (827 followers)
+- RedBubble, TeePublic, Contrado
+
 ## Career Path
+
+Graphic designer for 12 years in Rome (from 2006). Prior to that, four years as a creative cold glass finisher at Aaronson Noon, London — work entered the Dan Klein and Alan J. Poole Private Collection, now held at the National Museum of Scotland. Moved to Iceland in 2019. Founded Loopyful Design, developing a giftware product line alongside a growing art licensing portfolio.
 
 ## Pattern Focus
 
+Icelandic landscape and flora — lupines, poppies, wildflowers, architectural motifs (Houses of Reykjavík). Bold, colourful repeat and placement designs with chunky shapes and hand-drawn character. Suited to print, textiles, stationery, and giftware. Developing a broader licensing portfolio with varied themes beyond Iceland.
+
 ## Connections
+
+- [[Botanical Pattern]]
+- [[Art Licensing]]
+- [[Giftware]]
+- [[RedBubble]]
+- [[Iceland]]

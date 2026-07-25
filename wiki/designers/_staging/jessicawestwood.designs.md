@@ -20,7 +20,7 @@ bio: ''
 website: 'https://jessicawestwood.wordpress.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jessicawestwood.designs
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Jessica Westwood Designs
 website_meta_description: >-
   ABOUT PORTFOLIO PRINT LIBRARY CONTACT
@@ -218,7 +221,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: "JESSICA WESTWOOD\nI’m a freelance Print Designer based in Birmingham, West Midlands UK. I have over 6 years working with some of the UK’s top brands, suppliers and print studios. I’ve created best-selling designs that have sold all around the World.\n\nMy career has seen me continue to design for high street brands and retailers as well as working with many independent/start up brands and regularly selling my designs in the UK, Europe and the US.\n\nTake a look through my online portfolio and get in touch with how we can work together. I am a hard working, very self motivated Print Designer. Creating a variety of different style prints for Women's, Men's and Children's wear. With knowledge of current trends and markets and excellent knowledge of Adobe programmes. Jessica Westwood\n· 2nd\n\nFreelance Print and Graphic Designer\n\nUnited Kingdom\n\n·\n\nContact info\n\nSelf-employed\n\n\nNottingham Trent University\n\n500+\n\nconnections\n\n\n\nHayley, Natália and 66 other mutual connections\n\nConnect\nMessage\n\nHighlights\n\n2 mutual groups\n\nYou and Jessica are both in Freelance Graphic & Textile designers and Print and pattern\n\nAbout\nI am a hard working, very self motivated Print Designer. Creating a variety of different style prints for Women's, Men's and Children's wear. With knowledge of current trends and markets and excellent knowledge of Adobe programmes.\n\nFeatured\nLink\n\n\nJessica Westwood Patternbank Studio\n\nPatternbank\n\nFreelance Print Designer.\nSeamless repeat designs available for sale and licensing.\n\nLink\n\n\nJessica Westwood Designs\n\nJessica Westwood Designs\n\nTake a look at my website here!\n\nActivity\n1,228 followers\n\n\nFollow\n\nPosts\n\nComments\n\nImages\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n2mo • Edited • \n\n\nIntroducing Ronnie Raccoon \U0001F99D the 6th character in our cute conversational series. Who shall I create next?\n\nView image\n1/2\n\n\n10\n\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n2mo • \n\n\nEXCITING NEWS!!!! \n \nI’ve been working on some cute conversational designs that are available for licensing. Each design has its own character who has a name and story centred around them and their personality. \n \nHere’s a few I’ve been working on. All are created from original artwork.… more\n\nView image\n1/11\n\n\n74\n\n\n4\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n4mo • \n\n\nTaking a look back on 2025 ✨ \n\nI’ve spent most of this year on maternity leave, I’m so grateful I get to do a job I love around my little one. I didn’t know at the beginning of this year if I’d still be able to carry on designing but thankfully I have. \n \nThis year has been tiring but I the best possible way. I’ve explored a new handwriting which I’m throughly enjoying. I’ve gained new clients and seen more of my designs out in the wild. All while watching Maisie’s first year unfold.\n\nSo it’s a big THANK YOU from me and my little design assistant for allowing me to continue to do what I love. Here’s to a happy 2026 and a lot more creative! \n\nHope to work with you in the new year ✨… more\n\nView image\n\n49\n\n\n4\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n6mo • \n\n\nSometimes a simple Christmas check with a few bows is all you need. Another fab print spot, loving the festive ones that have been making an appearance \U0001F384✨\U0001F31F\U0001F380\n\n\n\n\n\n#prints #printdesign #printdesigner #designer #textiles #textilesdesign #surfacepattern #surfacepatterndesign #design #pattern #patterndesign #patterndesigner #patternbank #printandpattern #freelanceprintdesigner… more\n\nView image\n1/2\n\n\n18\n\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n6mo • \n\n\nAnother fab print spot on active wear. Animal print is always good idea \U0001F406\n\n\n\n\n\n\n#print #freelanceprintdesign #printdesign #printdesigner #design #printandpattern #pattern #patterndesign #patterndesigner #printedtextilesdesign #printedtextiledesigner #textiles #textilesdesign #surfacepattern #surfacepatterndesigner… more\n\nView image\n\n7\n\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n6mo • \n\n\nAnother print spot and it’s a Christmas one! Only 64 days to go \U0001F384\U0001F9D1\U0001F3FB‍\U0001F384\U0001F385\U0001F3FC\U0001F381⭐️\n\n\n\n\n\n#print #prints #designs #patterns #patterndesign #patterndesigner #printandpattern #printdesign #printdesigner #freelancedesigner #freelanceprintdesign #patternbank #surfacepatterndesign #surfacespatterns… more\n\nView image\n\n32\n\n\n1\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n7mo • \n\n\nFriday florals \U0001F338\U0001F33C\U0001FABB\U0001F33A\nHad so much fun drawing these and creating them into repeats\n\n\n\n\n\n#prints #pattern #printsandpatterns #design #printdesign #printdesigner #patterndesigner #freelancedesigner #freelanceprintdesign #textiles #textiledesigns #surfacepatterns #surfacepatterndesigner #patternbank #patternbankstudio #floralprint #floralpattern #handdrawn… more\n\nView image\n\n9\n\n\n2\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n7mo • \n\n\nFrom drawings ➡️ to prints \U0001F338\U0001F33C\U0001FABB\nEach one of my designs start with hand drawing either in paper or my drawinn tablet. Check out the link in the bio to see this design on mock-ups and many more \U0001F31F\n\n\n\n\n\n#drawing #prints #patterns #printdesign #printdesigner #freelanceprintdesigner #patterndesign #printandpatterns #patternbank #patternbankstudio #textiles #textiledesigns #surfacepattern #surfacepatterndesigns… more\n\nView image\n1/2\n\n\n37\n\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n8mo • \n\n\nCurrently 20% off fully exclusive premium designs until midnight tonight - use code PREMIUM. Don't miss out on a great offer and use the link below to see many more!\n\nhttps://lnkd.in/gmdGfd4\n\n#pattern #printandpattern #patterndesigner #patternbank … more\n\nView image\n1/2\n\n\n15\n\n\n1\n\n\nView Jessica Westwood’s profile\nJessica Westwood\n\n • 2nd\n\nFreelance Print and Graphic Designer\n\n9mo • \n\n\nExclusive hand drawn floral designs available for licensing. Contact me for more info and to see more!\n\n\n\n\n#print #printedtextiledesigner #printedtextilesdesign #printdesign #design #textiles #pattern #patterndesigner #printandpatterns … more\n\nView image\n\n19\n\n\n\n\nShow all\nExperience\nFreelance Print Designer \n\nSelf-employed · Self-employed\n\nFeb 2018 - Present · 8 yrs 4 mos\n\nWest Midlands, England, United Kingdom\n\nResponding to trend reports and catwalk shows, designing seamless repeated designs 6 months in advance for women's, men's, children's wear and homeware. Selling to the UK, America and other parts of Europe.\nhttps://patternbank.com/jessicawestwood … more\n\nInternational Insignia logo\nPrint and Graphic Designer\n\nInternational Insignia · Full-time\n\nFeb 2020 - Mar 2020 · 2 mos\n\nWolverhampton, England, United Kingdom\n\nA temporary role designing a range of placement prints on t-shirt and hoodies for mens, women's and kids wear for brands, Museums, Zoos, Universities and gift shops. Also designing sustainable plastic free packaging.… more\n\nPrint Designer\n\nHello Hector · Self-employed\n\nJul 2019 - Mar 2020 · 9 mos\n\nWest Midlands, England, United Kingdom\n\nDesigning a range of kids wear prints to be sold worldwide at trade shows, from reacting to future trends and colour palettes. \n\nPrint Design Intern\n\nJRC London \n\nAug 2019 - Sep 2019 · 2 mos\n\nLondon Area, United Kingdom\n\nInterning at an award winning company who specialises in supplying trend-setting commercial prints and work closely alongside the fashion teams from mass market high street brands such as Topshop, ASOS, Urban Outfitters, River Island, Dorothy Perkins, Miss Selfridge, Tesco and most other UK retailers. I am responsible for researching current and future trends and creating a range of different designs. Also for making deliveries around London and preparing artwork for meetings and clients. … more\n\nThumbnail for TOPSHOP DESIGNS.jpg\nTOPSHOP DESIGNS.jpg\n\nWHISTON AND WRIGHT LIMITED logo\nPrint Design Studio Intern \n\nWHISTON AND WRIGHT LIMITED\n\nJun 2019 · 1 mo\n\nLondon Area, United Kingdom\n\nGaining a huge insight into the Fashion and Textile Industry and a greater understanding of the day to day running of a print studio. Responding to the latest catwalks and trend research and designing from original hand drawings for Autumn/Winter 2020. As well as supporting the design team with general tasks and admin also, washing and preparing samples for shows and sale. … more\n\nShow all\nEducation\nNottingham Trent University logo\nNottingham Trent University\n\nBA (Hons) Textile Design, Art and Desgin\n\n2014 – 2017\n\nActivities and societies: Textile Buddy \nDesign Society\n\nSpecialising in Printed Textiles and surfacing pattern. I am a strong screen printer and CAD designer, I like to experiment with different printing techniques and dyeing methods. \n\nBirmingham Metropolitan College\n\nFoundation degree, Art and Design\n\n2013 – 2014\n\nGrade: Merit\n\nA foundation degree specialising in Textiles. Combing screen printing with Embroidery to make a range of final garments and samples for exhibition.\n\nShow all\nLicenses & certifications\nSustainability in Practice (SiP) Certificate  \n\nIssued Oct 2016\n\nProjects\nCompetitions\n\nOct 2016 – Present\n\n\nAssociated with Nottingham Trent University\n\nThroughout my course there are frequent opportunities to enter competitions to sell our designs. i am currently working on two projects separate from my uni work where my designs are going to be featured in two separate trade shows both in February. My work will be on display both at Spinexpo in Shanghai and Premiere Vision in Paris to be sold. Unfortunately i can not show any photos of these design as the content is very sensitive as it is being designed for Spring/Summer 2017/18, also for copyright reasons. … more\n\nSkills (22)\nPrintmaking\n\n2 endorsements\n\nDigital Printing\n\n4 endorsements\n\nShow all\nHonors & awards\nHighly Commended Employee \n\nSep 2017\n\nBeing a dedicated and committed employee, providing excellent customer service and going above and beyond for the store. \n\nStudent Achievement Award\n\nIssued by Margaret McDonough · Jul 2013\n\nAssociated with Halesowen College\n\nRecognition of the progress, development or commitment of a student. These awards are given to recognise very high standards achieved by a student. \n''Jessica has made a concerted effort to maintain a high level of commitment to the development of the quality of her work. Her high levels of motivation and self-determination are demonstrated through regular extra studio sessions outside her normal class contact hours and exceptionally meticulous execution of the skills and techniques she has been taught''. \n… more\n\nLanguages\nEnglish"
 manual_reviewed: true
 manual_quality: excellent
@@ -239,45 +242,151 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/425152490_1424420744824650_2438918949153206236_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDguYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEgbQ6usgDYbLdN_Av9l5LE9sxzIKCrSTg3cjiN_jM6MO9XYyQOzCXlIXvWcpGYTCI&_nc_ohc=F-fsdd8LrUYQ7kNvwHgQWkq&_nc_gid=u_rV2FqY5j_MdGJKNXSt6g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7iFuKrEUYcQHAw-gWbVAubIl30QJK20BZKkw8_t5L2Zw&oe=6A13D97C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-1.cdninstagram.com/v/t51.2885-19/425152490_1424420744824650_2438918949153206236_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDguYzIifQ&_nc_ht=scontent-mia3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEgbQ6usgDYbLdN_Av9l5LE9sxzIKCrSTg3cjiN_jM6MO9XYyQOzCXlIXvWcpGYTCI&_nc_ohc=F-fsdd8LrUYQ7kNvwHgQWkq&_nc_gid=u_rV2FqY5j_MdGJKNXSt6g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7iFuKrEUYcQHAw-gWbVAubIl30QJK20BZKkw8_t5L2Zw&oe=6A13D97C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jessicawestwood.designs/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4321
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jessicawestwood.designs/profile/425152490_1424420744824650_2438918949153206236_n.jpg
+instagram_profile_image_bytes: 44302
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jessicawestwood.designs/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jessicawestwood.designs/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jessicawestwood.designs/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jessicawestwood.designs/profile/425152490_1424420744824650_2438918949153206236_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jessicawestwood.designs/profile/425152490_1424420744824650_2438918949153206236_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jessicawestwood.designs/profile/425152490_1424420744824650_2438918949153206236_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jessicawestwood.designs/profile/425152490_1424420744824650_2438918949153206236_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1627460219_2627649227275897827_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1629146313_2641793212836523434_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1638118630_2717058464460859119_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1642424886_2753181955316634462_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1644828435_2773344387708176329_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733525543541_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733542328587_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733567471429_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1652767712_2839943866615348451_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1740571514_3576495545514488788_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1760698292_3745331193328096555_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160120762733438_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160121014405921_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074026201019_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074621774795_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956297796841991_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956314121087154_2528455664.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1629146313_2641793212836523434_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1638118630_2717058464460859119_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1642424886_2753181955316634462_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1644828435_2773344387708176329_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733542328587_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160120762733438_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074621774795_2528455664.jpg
+  - >-
+    ../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956297796841991_2528455664.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jessicawestwood.designs
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jessicawestwood.designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jessicawestwood.designs/profile/425152490_1424420744824650_2438918949153206236_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1627460219_2627649227275897827_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1627460219_2627649227275897827_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1629146313_2641793212836523434_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1629146313_2641793212836523434_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1638118630_2717058464460859119_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1638118630_2717058464460859119_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1642424886_2753181955316634462_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1642424886_2753181955316634462_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1644828435_2773344387708176329_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1644828435_2773344387708176329_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733525543541_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733525543541_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733542328587_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733542328587_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733567471429_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1651999273_2833497733567471429_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1652767712_2839943866615348451_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1652767712_2839943866615348451_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1740571514_3576495545514488788_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1740571514_3576495545514488788_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1760698292_3745331193328096555_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1760698292_3745331193328096555_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160120762733438_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160120762733438_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160121014405921_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772360452_3843160121014405921_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074026201019_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074026201019_2528455664.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074621774795_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1772458236_3843980074621774795_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956297796841991_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956297796841991_2528455664.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956314121087154_2528455664.jpg)<br><!-- image:../../assets/designers/jessicawestwood.designs/instagram/jessicawestwood.designs_1773409036_3851956314121087154_2528455664.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jessica Westwood (professional name of Jessica Rodgers) is a freelance print designer based in Birmingham, West Midlands, UK, with over seven years of industry experience. She holds a BA (Hons) in Textile Design from Nottingham Trent University and designs catwalk-responsive seamless repeat patterns for womenswear, menswear, childrenswear, and homeware. Designs sell to high street brands, retailers, and independent labels across the UK, US, and Europe. She sells via Patternbank Studio.
+
 ## Style and Aesthetic
+
+Commercially versatile with strengths in florals, novelty characters, animal print, seasonal/holiday prints, and check designs. Selected Instagram images suggest confident repeat pattern work with a hand-drawn foundation — hand-rendered florals, character-based conversational designs (named characters with individual stories), festive checks, and animal prints. Currently developing a new handwriting style and character-led licensing series.
 
 ## Techniques and Tools
 
+All designs start from hand-drawing — on paper or a drawing tablet — before development into seamless digital repeats. Strong Adobe programme capability. Screen printing background from Nottingham Trent University education.
+
 ## Markets and Clients
+
+Womenswear, menswear, childrenswear, and homeware. Designs trend-responsive repeats six months in advance. Early career exposure to Topshop, ASOS, Urban Outfitters, River Island, Dorothy Perkins, Miss Selfridge, and Tesco supply chains via JRC London internship. Kidswear print design for Hello Hector (worldwide trade shows). Placement prints for International Insignia (Museums, Zoos, Universities). Designs active on Patternbank Studio; sells in UK, Europe, and US.
 
 ## Portfolio and Presence
 
+- Website: jessicawestwood.wordpress.com
+- Instagram: @jessicawestwood.designs (1,338 followers)
+- Patternbank Studio: patternbank.com/jessicawestwood
+
 ## Career Path
+
+BA (Hons) Textile Design, Nottingham Trent University (2014–2017). Foundation degree in Art and Design, Birmingham Metropolitan College (2013–2014). Industry placements at JRC London and Whiston and Wright Limited, with designs shown at Spinexpo Shanghai and Première Vision Paris. Freelance since February 2018. Continued working through maternity leave in 2025, gaining new clients and confirmed retail print spots.
 
 ## Pattern Focus
 
+Selected images suggest a broad commercial repeat pattern range: hand-drawn florals, novelty conversational character prints, festive/holiday designs, and animal prints. Output is trend-responsive and designed for multi-gender, multi-category retail. LinkedIn activity documents confirmed print spots in activewear and retail.
+
 ## Connections
+
+- [[Womenswear]] market
+- [[Kidswear]] market
+- [[Home Décor]] market
+- [[Patternbank]] — sales and licensing platform
+- [[Nottingham Trent University]] — education
+- [[Première Vision]] — trade show exposure

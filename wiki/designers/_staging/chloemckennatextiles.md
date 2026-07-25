@@ -16,12 +16,12 @@ skills:
 country: United Kingdom
 can_use: 'Yes'
 instagram_handle: chloemckennatextiles
-instagram: 'https://instagram.com/@chloemckennatextiles'
+instagram: 'https://instagram.com/chloemckennatextiles'
 bio: ''
 website: 'https://artsthread.com/profile/chloe-mckenna'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/chloemckennatextiles
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: chloe-mckenna
 website_meta_description: >-
   I am a graduate of the Northern School of Art with a BA (Hons) Textiles &
@@ -299,7 +302,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -316,45 +319,142 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/503099218_17853476337451510_1067288469031631627_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGjo4VNheLsfs-rpIdh0SeSWEOngfu--oisqXcMU5A7puSrJsynJaW3GALHfZ6BxNM&_nc_ohc=6X94gCGy8rcQ7kNvwHujklG&_nc_gid=ZVzRWJrX4_8cI7GnWackmQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6npgYupdFi4La1_h5lxusbtWhsSdeEGaW00nRKITZqYg&oe=6A13EF0E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/503099218_17853476337451510_1067288469031631627_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGjo4VNheLsfs-rpIdh0SeSWEOngfu--oisqXcMU5A7puSrJsynJaW3GALHfZ6BxNM&_nc_ohc=6X94gCGy8rcQ7kNvwHujklG&_nc_gid=ZVzRWJrX4_8cI7GnWackmQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6npgYupdFi4La1_h5lxusbtWhsSdeEGaW00nRKITZqYg&oe=6A13EF0E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/chloemckennatextiles/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8585
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/chloemckennatextiles/profile/503099218_17853476337451510_1067288469031631627_n.jpg
+instagram_profile_image_bytes: 260413
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/chloemckennatextiles/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/chloemckennatextiles/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/chloemckennatextiles/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/chloemckennatextiles/profile/503099218_17853476337451510_1067288469031631627_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/chloemckennatextiles/profile/503099218_17853476337451510_1067288469031631627_n.jpg
+profile_image_local: >-
+  ../../assets/designers/chloemckennatextiles/profile/503099218_17853476337451510_1067288469031631627_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/chloemckennatextiles/profile/503099218_17853476337451510_1067288469031631627_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951124644029_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951132992396_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133100325_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133179849_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951435181775_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313354366842_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313362611687_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313362707025_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313371142092_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313379546968_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644313884_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644338986_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644523024_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003711539930_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003963153609_73521899509.jpg
+instagram_image_count: 15
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133100325_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133179849_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313354366842_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313371142092_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644313884_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644338986_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644523024_73521899509.jpg
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003963153609_73521899509.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951124644029_73521899509.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # chloemckennatextiles
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/chloemckennatextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/chloemckennatextiles/profile/503099218_17853476337451510_1067288469031631627_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951124644029_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951124644029_73521899509.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951132992396_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951132992396_73521899509.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133100325_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133100325_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133179849_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951133179849_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951435181775_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457381_3600703951435181775_73521899509.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313354366842_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313354366842_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313362611687_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313362611687_73521899509.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313362707025_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313362707025_73521899509.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313371142092_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313371142092_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313379546968_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457782_3600707313379546968_73521899509.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644313884_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644313884_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644338986_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644338986_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644523024_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003644523024_73521899509.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003711539930_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003711539930_73521899509.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003963153609_73521899509.jpg)<br><!-- image:../../assets/designers/chloemckennatextiles/instagram/chloemckennatextiles_1743457864_3600708003963153609_73521899509.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Chloe McKenna is a textiles graduate from Middlesbrough, UK, who completed a BA (Hons) in Textiles & Surface Design at the Northern School of Art in 2025. Her degree collection, "Royal aNd Regality," explored British royalty as a design theme for children's interiors, combining digital printing with fabric, wallpaper, and cushion applications. She is interested in pursuing a career in museums or a related creative sector.
+
 ## Style and Aesthetic
+
+McKenna's degree work centres on ornate, historically-referencing pattern design with a British royal aesthetic — extravagant and elegant visual language interpreted for a children's interior context. Selected Instagram images suggest detailed decorative pattern work with rich colour and structured ornamental motifs informed by crown, heraldic, and ceremonial references.
 
 ## Techniques and Tools
 
+McKenna's documented skills include Adobe Photoshop digital pattern making — specifically half drop, multi-directional, and mirror repeats — and hand embroidery and embellishments. Her degree collection was fully digitally printed onto fabric and wallpaper. Substrates used included Duchess Satin, Chichi Furnishing Velour, Soft Velvet, Archway Brushed Twill, and standard paste-to-wall wallpaper. Prior foundations study: UAL Extended Diploma in Textiles & Surface Design, Northern School of Art (Middlesbrough campus).
+
 ## Markets and Clients
+
+No commercial clients documented. Degree work targets children's interiors — fabric, wallpaper, and cushion products. Post-graduation interests cited include the museums sector, informed by participation in the Young Producers programme (local youth group working with young people and museums).
 
 ## Portfolio and Presence
 
+- Portfolio: artsthread.com/profile/chloe-mckenna
+- Instagram: @chloemckennatextiles (63 followers)
+
 ## Career Path
+
+McKenna's path follows the Northern School of Art textiles track: UAL Extended Diploma → BA (Hons) Textiles & Surface Design, graduating 2025. Her degree show contribution was the "Royal aNd Regality" collection. Alongside her studies she participated in the Young Producers programme, developing professional skills including business stationery production, event coordination, and student communications for the degree show.
 
 ## Pattern Focus
 
+Degree collection "Royal aNd Regality" — British royalty theme, ornate aesthetic for children's interiors. Selected Instagram images suggest detailed decorative patterns drawing on crown, heraldic, or royal motif vocabularies, printed digitally onto textiles and wallpaper. The selected placement image suggests a finished interior-scale textile product application.
+
 ## Connections
+
+- [[Northern School of Art]] (Middlesbrough — BA Hons Textiles & Surface Design, 2025)
+- [[Arts Thread]] (portfolio platform)

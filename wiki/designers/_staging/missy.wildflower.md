@@ -22,7 +22,7 @@ bio: ''
 website: 'https://missywildflower.com.au'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/missy.wildflower
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Missy Wildflower Design
 website_meta_description: >-
   Australian Surface Pattern Designer Sherri for Missy Wildflower Design Studio
@@ -289,7 +292,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -306,45 +309,110 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/439887336_1582741685907939_7575907552967339524_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHK-uzsQqUXJEC5zzT6anHzgss8y1f3t-3FSfTR9oZThCK6Zm7wx9Z_lQpKV5EOreU&_nc_ohc=iF3GkH6Y6O8Q7kNvwGPDBHP&_nc_gid=1c_oI5VhnK0M8Vr3lZnNkQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Epp2npz0RCQA3BI1p73wPftBtGjiMcarHIEnbyUygBQ&oe=6A13E3FE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/439887336_1582741685907939_7575907552967339524_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHK-uzsQqUXJEC5zzT6anHzgss8y1f3t-3FSfTR9oZThCK6Zm7wx9Z_lQpKV5EOreU&_nc_ohc=iF3GkH6Y6O8Q7kNvwGPDBHP&_nc_gid=1c_oI5VhnK0M8Vr3lZnNkQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Epp2npz0RCQA3BI1p73wPftBtGjiMcarHIEnbyUygBQ&oe=6A13E3FE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5392
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/missy.wildflower/profile/439887336_1582741685907939_7575907552967339524_n.jpg
+instagram_profile_image_bytes: 129756
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/missy.wildflower/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/missy.wildflower/profile/439887336_1582741685907939_7575907552967339524_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/missy.wildflower/profile/439887336_1582741685907939_7575907552967339524_n.jpg
+profile_image_local: >-
+  ../../assets/designers/missy.wildflower/profile/439887336_1582741685907939_7575907552967339524_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/missy.wildflower/profile/439887336_1582741685907939_7575907552967339524_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1733800493_3519696103304449046_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334830623_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334836685_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343224330_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343264755_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896469074755_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896645210567_3118956442.jpg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1733800493_3519696103304449046_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334830623_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343224330_3118956442.jpg
+  - >-
+    ../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896469074755_3118956442.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # missy.wildflower
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/missy.wildflower/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/missy.wildflower/profile/439887336_1582741685907939_7575907552967339524_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1733800493_3519696103304449046_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1733800493_3519696103304449046_3118956442.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334830623_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334830623_3118956442.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334836685_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896334836685_3118956442.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343224330_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343224330_3118956442.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343264755_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896343264755_3118956442.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896469074755_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896469074755_3118956442.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896645210567_3118956442.jpg)<br><!-- image:../../assets/designers/missy.wildflower/instagram/missy.wildflower_1757539449_3718832896645210567_3118956442.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sherri Smith is the surface pattern designer behind Missy Wildflower Design Studio, based in Mapleton, Queensland, Australia. She designs hand-painted florals applied to fabric and lifestyle products, focusing on a modern country aesthetic with a feminine, nature-driven sensibility. Direct retail is operated through missywildflower.com.au, offering stationery, phone cases, bandana scarves, and greeting cards. Licensing is available via enquiry.
+
 ## Style and Aesthetic
+
+Smith's aesthetic centres on hand-painted florals interpreted through a soft, muted, modern country palette. The brand is positioned at women who love beauty and modern country charm. Selected Instagram images (4 patterns) suggest loose, painterly floral compositions — wildflowers, trailing botanicals, and delicate ditsy prints — in dusty pinks, lavender, soft greens, and cream.
 
 ## Techniques and Tools
 
+Hand-painting is the primary technique documented across patterns and product descriptions. Designs are applied to fabric and printed lifestyle products.
+
 ## Markets and Clients
+
+Direct retail at missywildflower.com.au — named product lines include Petals & Pen Stationery Box, Bespoke Phone Cases (16 named designs), Bandana Scarves (Portofino Azure Blue Lemon, Capri Citrus Lemon, Pink Polkadot Wildflower Meadow), Greeting Cards, and Stationery. Fabric packs in development. Stockist enquiries and licensing available via DM.
 
 ## Portfolio and Presence
 
+- Website: missywildflower.com.au
+- Instagram: @missy.wildflower (3,054 followers)
+
 ## Career Path
+
+Based in Mapleton, Queensland. Practice built around hand-painted floral design applied to fabric and branded lifestyle products, operating as a combined design studio and direct-to-consumer retail brand.
 
 ## Pattern Focus
 
+Selected Instagram images (4 patterns, 0 placements) suggest hand-painted florals — loose wildflower compositions, ditsy prints, and delicate botanical motifs in soft country palettes. Consistent with the brand's "modern country charm" positioning across fabric, stationery, and accessories.
+
 ## Connections
+
+- [[Floral Patterns]] — primary pattern category
+- [[Hand Painting]] — primary technique
+- [[Direct-to-Consumer]] — retail model
+- [[Surface Pattern Licensing]] — available service

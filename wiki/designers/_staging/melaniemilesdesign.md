@@ -18,7 +18,7 @@ bio: ''
 website: 'https://melaniemiles.com.au/'
 website_about: ''
 accepted: 26/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/melaniemilesdesign
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   2026 Väikelaenu pakkujad kuni 15 000 € - soodsaim väikelaen, parim väikelaen
   maksehäirega
@@ -231,7 +234,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   I’m Melbourne illustrator Melanie Miles, and my work is rooted in a love of
   colour and a passion for turning my hand-painted patterns into pieces you can
@@ -269,45 +272,169 @@ instagram_profile_pic_url: >-
   https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/440652942_1484027598855684_4118033587108076818_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEikEvsn05XRN-EhrS0v11UwvWxYTQsVdu91sQRzrtjG7VqNOUspP-sSPXs5aXlhvs&_nc_ohc=_u9MIp4gYS8Q7kNvwGaI8dI&_nc_gid=5cpCXAtwaGwyCV0W3fo0FQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5X50Si29a_F4S4mwRbCw6p8QYgVxQ_ha_tGSCThMa0OQ&oe=6A13DD97&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/440652942_1484027598855684_4118033587108076818_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEikEvsn05XRN-EhrS0v11UwvWxYTQsVdu91sQRzrtjG7VqNOUspP-sSPXs5aXlhvs&_nc_ohc=_u9MIp4gYS8Q7kNvwGaI8dI&_nc_gid=5cpCXAtwaGwyCV0W3fo0FQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5X50Si29a_F4S4mwRbCw6p8QYgVxQ_ha_tGSCThMa0OQ&oe=6A13DD97&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/melaniemilesdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5840
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/melaniemilesdesign/profile/440652942_1484027598855684_4118033587108076818_n.jpg
+instagram_profile_image_bytes: 135477
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/melaniemilesdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/melaniemilesdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/melaniemilesdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/melaniemilesdesign/profile/440652942_1484027598855684_4118033587108076818_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/melaniemilesdesign/profile/440652942_1484027598855684_4118033587108076818_n.jpg
+profile_image_local: >-
+  ../../assets/designers/melaniemilesdesign/profile/440652942_1484027598855684_4118033587108076818_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/melaniemilesdesign/profile/440652942_1484027598855684_4118033587108076818_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633386163729_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633553935594_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953195361860_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953338027417_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953346250124_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953489091490_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382264958515_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382373966229_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382390807278_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382390826081_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382407442743_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382407458384_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050712626446_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050720914294_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050779753210_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1766605500_3794884868376262097_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770104297_3824225142671824792_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770803719_3830099248579525630_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503181441229_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503307253252_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380681853290029_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380682591526473_1396684924.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953195361860_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382264958515_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050779753210_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770104297_3824225142671824792_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770803719_3830099248579525630_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503307253252_1396684924.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633553935594_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1766605500_3794884868376262097_1396684924.jpg
+  - >-
+    ../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380681853290029_1396684924.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 3
+trash_image_count: 0
 ---
+# Melanie Miles
 
-# melaniemilesdesign
+Melbourne-based illustrator and surface pattern designer combining hand-painted techniques with digital methods; runs a self-branded product range made locally in Australia alongside a licensing practice.
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/melaniemilesdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/melaniemilesdesign/profile/440652942_1484027598855684_4118033587108076818_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633386163729_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633386163729_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633553935594_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1703460300_3264840633553935594_1396684924.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953195361860_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953195361860_1396684924.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953338027417_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953338027417_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953346250124_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953346250124_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953489091490_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1739154403_3564607953489091490_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382264958515_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382264958515_1396684924.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382373966229_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382373966229_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382390807278_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382390807278_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382390826081_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382390826081_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382407442743_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382407442743_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382407458384_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1747137781_3631577382407458384_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050712626446_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050712626446_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050720914294_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050720914294_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050779753210_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1750661568_3661137050779753210_1396684924.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1766605500_3794884868376262097_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1766605500_3794884868376262097_1396684924.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770104297_3824225142671824792_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770104297_3824225142671824792_1396684924.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770803719_3830099248579525630_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1770803719_3830099248579525630_1396684924.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503181441229_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503181441229_1396684924.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503307253252_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1777283100_3883779503307253252_1396684924.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380681853290029_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380681853290029_1396684924.jpg --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380682591526473_1396684924.jpg)<br><!-- image:../../assets/designers/melaniemilesdesign/instagram/melaniemilesdesign_1778585612_3895380682591526473_1396684924.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Melanie Miles is a Melbourne, Australia-based illustrator and surface pattern designer with 9,342 Instagram followers. She blends hand-painted techniques with digital methods to create bold, nature-inspired repeat patterns, offering work for licensing alongside a self-branded product range made locally in Australia. Known clients include Emily Ziz and SHO Reusable. Her practice is rooted in sustainability and ethical local production.
+
 ## Style and Aesthetic
+
+Colour-rich, playful prints inspired by nature and everyday moments. A hand-painted quality distinguishes the work, with bold botanical and organic motifs rendered in vibrant, joyful palettes. Selected patterns confirm nature-based repeats across multiple colourways and scales. Instagram bio: "Playful, colour-rich prints & patterns for licensing."
 
 ## Techniques and Tools
 
+Combines traditional hand-painting with digital techniques. Works from a Melbourne studio. Produces self-branded products using natural materials through local Australian makers, with a stated commitment to ethical production.
+
 ## Markets and Clients
+
+Licensing to brands (Emily Ziz, SHO Reusable). Own product range: tote bags and fabric purses — locally made in Australia. Designed for everyday lifestyle products. Selected placements (3) suggest product applications including bags and lifestyle items.
 
 ## Portfolio and Presence
 
+- Website: https://melaniemiles.com.au/
+- Instagram: https://instagram.com/melaniemilesdesign (9,342 followers, 914 posts)
+
 ## Career Path
+
+Melbourne-based illustrator and surface pattern designer building a dual practice: client-facing licensing work alongside a self-branded product range. Collaboration with Australian brands Emily Ziz and SHO Reusable documented. Strong focus on local production, natural materials, and ethical supply chain — positioning that differentiates her own product line from standard licensing output.
 
 ## Pattern Focus
 
+Nature-inspired botanical and organic repeat patterns with hand-painted origins. Six selected patterns span bold, colour-forward compositions suited to lifestyle and licensed product applications. Three selected placements confirm applied product context including bags and lifestyle surfaces.
+
 ## Connections
+
+- [[Botanical Pattern]] — dominant pattern category
+- [[Home Decor]] — lifestyle product market
+- [[Licensing]] — primary commercial model for brand clients
+- [[Australian Design]] — geographic and production context
+- [[Emily Ziz]] — documented brand collaboration
+- [[SHO Reusable]] — documented brand collaboration

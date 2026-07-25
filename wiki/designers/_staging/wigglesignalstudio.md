@@ -25,7 +25,7 @@ bio: ''
 website: 'https://meredith-hoffman.squarespace.com'
 website_about: ''
 accepted: 04/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/wigglesignalstudio
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Meredith Hoffman
 website_meta_description: >-
   Meredith Hoffman is a Freelance Textile Designer open to working with your
@@ -256,7 +259,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -277,45 +280,171 @@ instagram_profile_pic_url: >-
   https://instagram.fosu3-1.fna.fbcdn.net/v/t51.2885-19/450454469_1212987533391308_321043627554120430_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjguYzIifQ&_nc_ht=instagram.fosu3-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gEHyE0Npdulybid7Lwu4Da8CmySsm2UVnxPIvthiejGeLmArqd4o8aUTQlOEKXfbYc&_nc_ohc=U-NbCsnhxfMQ7kNvwHtbM7u&_nc_gid=Ur9LzyrnsDieTT_DMrt4mA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Ffnl4Mu5HaBYt6li6-GcY5xQvcguckpY8IsHneXcjzA&oe=6A13D73F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fosu3-1.fna.fbcdn.net/v/t51.2885-19/450454469_1212987533391308_321043627554120430_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjguYzIifQ&_nc_ht=instagram.fosu3-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gEHyE0Npdulybid7Lwu4Da8CmySsm2UVnxPIvthiejGeLmArqd4o8aUTQlOEKXfbYc&_nc_ohc=U-NbCsnhxfMQ7kNvwHtbM7u&_nc_gid=Ur9LzyrnsDieTT_DMrt4mA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4Ffnl4Mu5HaBYt6li6-GcY5xQvcguckpY8IsHneXcjzA&oe=6A13D73F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/wigglesignalstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3353
+instagram_profile_image_local: >-
+  ../../assets/designers/wigglesignalstudio/profile/450454469_1212987533391308_321043627554120430_n.jpg
+instagram_profile_image_bytes: 17113
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/wigglesignalstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/wigglesignalstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/wigglesignalstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/wigglesignalstudio/profile/450454469_1212987533391308_321043627554120430_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/wigglesignalstudio/profile/450454469_1212987533391308_321043627554120430_n.jpg
+profile_image_local: >-
+  ../../assets/designers/wigglesignalstudio/profile/450454469_1212987533391308_321043627554120430_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/wigglesignalstudio/profile/450454469_1212987533391308_321043627554120430_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1523971155_1759520038241852769_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590677617_2319094400947238379_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590779506_2319949102920239817_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1593618054_2343760572292432202_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1595437610_2359024114855618421_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1596750224_2370035118276311714_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499270479567_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499295450966_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499304070418_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499496890062_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599754050_2395233035807088337_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599754050_2395233035882577892_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599840956_2395962062381359767_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1600359894_2400315226995886371_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601483370_2409739623083019643_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601568243_2410451588587888733_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601655948_2411187317374862469_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317614164810_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317756736075_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529438988627708_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529439005504681_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529439215235940_4127428427.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1523971155_1759520038241852769_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590677617_2319094400947238379_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590779506_2319949102920239817_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1595437610_2359024114855618421_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1596750224_2370035118276311714_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499270479567_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499295450966_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1600359894_2400315226995886371_4127428427.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601483370_2409739623083019643_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601568243_2410451588587888733_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601655948_2411187317374862469_4127428427.jpg
+  - >-
+    ../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317614164810_4127428427.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # wigglesignalstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/wigglesignalstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/wigglesignalstudio/profile/450454469_1212987533391308_321043627554120430_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1523971155_1759520038241852769_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1523971155_1759520038241852769_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590677617_2319094400947238379_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590677617_2319094400947238379_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590779506_2319949102920239817_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1590779506_2319949102920239817_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1593618054_2343760572292432202_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1593618054_2343760572292432202_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1595437610_2359024114855618421_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1595437610_2359024114855618421_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1596750224_2370035118276311714_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1596750224_2370035118276311714_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499270479567_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499270479567_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499295450966_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499295450966_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499304070418_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499304070418_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499496890062_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1598630915_2385811499496890062_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599754050_2395233035807088337_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599754050_2395233035807088337_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599754050_2395233035882577892_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599754050_2395233035882577892_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599840956_2395962062381359767_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1599840956_2395962062381359767_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1600359894_2400315226995886371_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1600359894_2400315226995886371_4127428427.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601483370_2409739623083019643_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601483370_2409739623083019643_4127428427.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601568243_2410451588587888733_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601568243_2410451588587888733_4127428427.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601655948_2411187317374862469_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601655948_2411187317374862469_4127428427.jpg --> | [ ] | [x] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317614164810_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317614164810_4127428427.jpg --> | [ ] | [x] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317756736075_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1601746309_2411945317756736075_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529438988627708_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529438988627708_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529439005504681_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529439005504681_4127428427.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529439215235940_4127428427.jpg)<br><!-- image:../../assets/designers/wigglesignalstudio/instagram/wigglesignalstudio_1730681184_3493529439215235940_4127428427.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Meredith Hoffman is a US-based freelance textile designer and developer with 9+ years of industry experience, including roles at Nike, Allbirds, and New Balance. She offers services spanning custom colour and pattern design, trend research, print tech packing, and material design consulting. Her personal practice, Wiggle Signal Studio, produces handmade home goods.
+
 ## Style and Aesthetic
+
+Hand-painted, original surface designs are her creative signature. Selected Instagram patterns suggest warm, nature-influenced painterly marks and textile-weight colour palettes suited to home goods applications. Her work is described as connecting and inspiring through hand-painted originality, with seasonal print concepts as a documented strength.
 
 ## Techniques and Tools
 
+Adobe Suite and CAD systems are her declared professional tools. She is proficient in print, knit, and woven concept development, sustainable material creation, tech pack production, and repeat construction. Her personal work is hand-painted. She is also an avid knitter and quilter.
+
 ## Markets and Clients
+
+Prior industry experience is in performance apparel and footwear (Nike — print and material development, Allbirds — sustainable material innovation, New Balance — consulting). Current freelance positioning targets brands seeking custom artwork, colour palettes, and trend-led print development. Selected placements suggest home goods applications.
 
 ## Portfolio and Presence
 
+- Website: https://meredith-hoffman.squarespace.com
+- Instagram: https://instagram.com/wigglesignalstudio
+
 ## Career Path
+
+Textile Designer and Developer with 9+ years at leading performance brands: Nike, Allbirds, and New Balance. Founded Wiggle Signal Studio as a personal home goods brand alongside freelance consulting. Background spans both industrial textile development and artisan hand-painted surface design.
 
 ## Pattern Focus
 
+Seasonal print and woven concepts with commercial colour development. Selected patterns suggest hand-painted decorative surface designs — florals, organic textures — in an approachable lifestyle register. Her industry background positions her across both performance-market tech packs and artisan brand collaboration.
+
 ## Connections
+
+- [[wiki/companies/_ready/nike]] — prior employer
+- [[raw/companies processed/Allbirds]] — prior employer
+- [[Textile Design]] — primary discipline
+- [[United States]] — based

@@ -308,7 +308,7 @@ Selected patterns suggest botanical floral all-overs and layered organic composi
 ## Connections
 
 - [[SUI]]
-- [[Floral Pattern]]
+- [[Flower Pattern]]
 - [[Botanical Pattern]]
 - [[Natural Dye]]
 - [[NIFT]]

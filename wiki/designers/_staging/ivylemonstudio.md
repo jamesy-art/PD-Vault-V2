@@ -27,7 +27,7 @@ bio: ''
 website: 'https://ivylemonstudio.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ivylemonstudio
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Surface pattern design and product development services - Ivy Lemon Studio
 website_meta_description: ''
 website_about_raw: >-
@@ -290,7 +293,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -313,45 +316,340 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/520266800_18068200712145258_6807057390601245401_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGO_gRdGH8RN3-7D0RvGNfCtoQ7L0CVto2kMT2zTkD2b3ZduKnjErgzwzYpTOAqBDA&_nc_ohc=jp8b9of_DYUQ7kNvwGrMSKS&_nc_gid=fvy27gR3BklONCQfHw1rDA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zKzVisih3SqCaq3vdDV8bf-mLaXWq-zZdJz4Lnkmm6A&oe=6A140485&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/520266800_18068200712145258_6807057390601245401_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGO_gRdGH8RN3-7D0RvGNfCtoQ7L0CVto2kMT2zTkD2b3ZduKnjErgzwzYpTOAqBDA&_nc_ohc=jp8b9of_DYUQ7kNvwGrMSKS&_nc_gid=fvy27gR3BklONCQfHw1rDA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zKzVisih3SqCaq3vdDV8bf-mLaXWq-zZdJz4Lnkmm6A&oe=6A140485&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4817
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ivylemonstudio/profile/520266800_18068200712145258_6807057390601245401_n.jpg
+instagram_profile_image_bytes: 62246
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ivylemonstudio/profile/520266800_18068200712145258_6807057390601245401_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ivylemonstudio/profile/520266800_18068200712145258_6807057390601245401_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ivylemonstudio/profile/520266800_18068200712145258_6807057390601245401_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ivylemonstudio/profile/520266800_18068200712145258_6807057390601245401_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992847515535802_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992848396305094_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992848723449048_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992849126151657_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992851651133420_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992892872749417_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992893409606823_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992894055490148_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992896093927994_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715118785880226_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715119029120704_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715119549198008_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715120564219867_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392877750222493_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392878421277932_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392879872476454_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392880400984298_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392881281788178_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312205314178251_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206270439529_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206295630578_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206933167695_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312207453247070_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312249362739046_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312250688130906_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312253515130190_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214771673336807_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214771790780960_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214772654768807_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214773158118952_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214773820785787_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214817374491359_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214818188157240_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214822416039094_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214824018262708_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654473019177449_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654474000655760_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654477397989256_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265183623756_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265343038104_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265443678909_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379266089584699_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998077824993900_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998078504440779_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079376852860_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079922172724_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998080979107687_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998142333400095_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998144547954089_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141305031891_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141531520611_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141757980193_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141766383466_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747146271063371_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747195755449242_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747195881262435_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747197089281746_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035072408166300_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073037287831_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073062473210_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073599343498_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073616131226_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035127194182488_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035127882034350_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035128754435909_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035129551358597_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035130507686189_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749835521733257_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749839120455426_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749841578323413_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749841905470687_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749845143509916_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749884637082048_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540453615400686_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540455376993290_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540456526231325_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540456886918532_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540458128428268_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540495717778242_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540496170765648_34352361257.jpg
+instagram_image_count: 80
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992849126151657_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992851651133420_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992896093927994_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715118785880226_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715120564219867_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206270439529_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214772654768807_34352361257.jpg
+  - >-
+    ../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079376852860_34352361257.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ivylemonstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ivylemonstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ivylemonstudio/profile/520266800_18068200712145258_6807057390601245401_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992847515535802_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992847515535802_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992848396305094_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992848396305094_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992848723449048_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992848723449048_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992849126151657_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992849126151657_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992851651133420_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992851651133420_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992892872749417_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992892872749417_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992893409606823_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992893409606823_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992894055490148_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992894055490148_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992896093927994_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770194750_3824992896093927994_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715118785880226_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715118785880226_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715119029120704_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715119029120704_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715119549198008_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715119549198008_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715120564219867_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1770280840_3825715120564219867_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392877750222493_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392877750222493_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392878421277932_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392878421277932_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392879872476454_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392879872476454_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392880400984298_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392880400984298_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392881281788178_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771315306_3834392881281788178_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312205314178251_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312205314178251_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206270439529_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206270439529_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206295630578_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206295630578_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206933167695_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312206933167695_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312207453247070_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312207453247070_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312249362739046_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312249362739046_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312250688130906_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312250688130906_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312253515130190_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1771901744_3839312253515130190_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214771673336807_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214771673336807_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214771790780960_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214771790780960_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214772654768807_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214772654768807_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214773158118952_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214773158118952_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214773820785787_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214773820785787_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214817374491359_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214817374491359_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214818188157240_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214818188157240_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214822416039094_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214822416039094_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214824018262708_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1772128528_3841214824018262708_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654473019177449_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654473019177449_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654474000655760_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654474000655760_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654477397989256_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773253823_3850654477397989256_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265183623756_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265183623756_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265343038104_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265343038104_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265443678909_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379265443678909_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379266089584699_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773340245_3851379266089584699_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998077824993900_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998077824993900_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998078504440779_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998078504440779_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079376852860_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079376852860_34352361257.jpg --> | [x] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079922172724_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998079922172724_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998080979107687_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998080979107687_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998142333400095_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998142333400095_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998144547954089_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1773771632_3854998144547954089_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141305031891_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141305031891_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141531520611_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141531520611_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141757980193_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141757980193_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141766383466_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747141766383466_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747146271063371_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747146271063371_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747195755449242_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747195755449242_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747195881262435_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747195881262435_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747197089281746_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1777914055_3889747197089281746_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035072408166300_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035072408166300_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073037287831_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073037287831_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073062473210_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073062473210_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073599343498_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073599343498_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073616131226_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035073616131226_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035127194182488_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035127194182488_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035127882034350_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035127882034350_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035128754435909_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035128754435909_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035129551358597_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035129551358597_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 67<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035130507686189_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778782825_3897035130507686189_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 68<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749835521733257_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749835521733257_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 69<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749839120455426_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749839120455426_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 70<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749841578323413_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749841578323413_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 71<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749841905470687_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749841905470687_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 72<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749845143509916_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749845143509916_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 73<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749884637082048_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1778868034_3897749884637082048_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 74<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540453615400686_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540453615400686_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 75<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540455376993290_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540455376993290_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 76<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540456526231325_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540456526231325_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 77<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540456886918532_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540456886918532_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 78<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540458128428268_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540458128428268_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 79<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540495717778242_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540495717778242_34352361257.jpg --> | [ ] | [ ] | [ ] |
+| 80<br>![pd-review\|180](../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540496170765648_34352361257.jpg)<br><!-- image:../../assets/designers/ivylemonstudio/instagram/ivylemonstudio_1779558348_3903540496170765648_34352361257.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ivy Lemon Studio is a Devon-based surface pattern design and product development studio led by Jane Addis, with over 20 years of industry experience. The studio offers custom surface pattern design, a ready-to-license pattern library, end-to-end product development, and range review consultancy for brands and independent businesses. Core markets are kidswear, stationery, and homeware.
+
 ## Style and Aesthetic
+
+The studio's output is floral and lifestyle-focused with a commercially polished sensibility. Named library collections include Serena Geometric Floral, Coralie Checkerboard, and Elowen Floral — spanning structured geometrics through soft botanicals. Selected Instagram patterns indicate a palette-conscious, professionally finished range well-suited to gift, homewares, and children's product buyers. Inspiration is rooted in Devon's countryside and natural landscape.
 
 ## Techniques and Tools
 
+Full production capability: bespoke pattern creation, print-ready file delivery, product visualisation and mockups, technical specs, and direct factory liaison. Services extend to colour strike-off approvals and pre-production quality checks throughout the manufacturing process.
+
 ## Markets and Clients
+
+Kidswear, stationery, and homeware. Documented client work includes a children's clothing company, a stationery buyer (Rita Stevens), a shepherd hut brand (Woodlane Shepherd Huts), a beauty brand (AH Beauty), and a crafts/gifting business (Oscar & Tilly). Licensing terms: non-exclusive (1-year) through to exclusive (3-year renewable), structured across tiered packages — Seedling, Glade, and Meadow.
 
 ## Portfolio and Presence
 
+- Website: https://ivylemonstudio.com
+- Instagram: https://instagram.com/Ivylemonstudio
+
 ## Career Path
+
+Jane Addis brings over 20 years of experience in surface pattern design, product development, and commercial collection creation. Ivy Lemon Studio operates from Devon, England, serving UK and international brand clients with commercially ready pattern design and end-to-end product development support.
 
 ## Pattern Focus
 
+Floral and lifestyle surface patterns — geometric florals, checkerboard structures, and soft botanical compositions. The combination of a ready-to-license library and bespoke custom design positions the studio for agile buyers and brief-driven commissions across kidswear, stationery, and homeware categories.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Geometric Pattern]]
+- [[Kidswear]]
+- [[Stationery]]
+- [[Homeware]]
+- [[Pattern Licensing]]
+- [[Product Development]]

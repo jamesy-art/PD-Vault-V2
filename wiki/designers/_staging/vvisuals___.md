@@ -23,7 +23,7 @@ bio: ''
 website: 'https://vivianflorez6.wixsite.com/vvisualsstudio'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/vvisuals___
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Inicio | Vivian Flórez
 website_meta_description: ''
 website_about_raw: >-
@@ -163,8 +166,20 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+
+  About me
+
+  I'm a visual designer and textile illustrator with an emphasis on editorial
+  and brand design. 
+
+
+  I have worked in brands such as Johanna Ortiz, Mar de Lua developing prints
+  and patterns.
+
+
+  I have also worked making graphic pieces for other brands.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -180,45 +195,109 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/548892954_18292402840250037_3022439868815144778_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH4QiT4vXuIhV0g6Gbg6Rr4jmY8ToRvnC5TbqiCo99pC6Qdipu-AAJwm1jrkgFfu2Y&_nc_ohc=w22m45_4NeAQ7kNvwEQiuaf&_nc_gid=DI8C_3YbT-jJcNZd5HwPaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4z3ry_6IDGO16H0RTfSIFF5FXkxucPUEnYBGtJKZpohA&oe=6A13ED12&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/548892954_18292402840250037_3022439868815144778_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH4QiT4vXuIhV0g6Gbg6Rr4jmY8ToRvnC5TbqiCo99pC6Qdipu-AAJwm1jrkgFfu2Y&_nc_ohc=w22m45_4NeAQ7kNvwEQiuaf&_nc_gid=DI8C_3YbT-jJcNZd5HwPaQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4z3ry_6IDGO16H0RTfSIFF5FXkxucPUEnYBGtJKZpohA&oe=6A13ED12&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2413
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/vvisuals___/profile/548892954_18292402840250037_3022439868815144778_n.jpg
+instagram_profile_image_bytes: 71180
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/vvisuals___/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/vvisuals___/profile/548892954_18292402840250037_3022439868815144778_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/vvisuals___/profile/548892954_18292402840250037_3022439868815144778_n.jpg
+profile_image_local: >-
+  ../../assets/designers/vvisuals___/profile/548892954_18292402840250037_3022439868815144778_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/vvisuals___/profile/548892954_18292402840250037_3022439868815144778_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_14_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_16_9568f3_e2af41bd8c69497c8fcefc87d20cd378~mv2.jpeg
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_20_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_21_9568f3_2ef0f73fe9eb4c4f92cfd1d36e8ed9b6~mv2.jpeg
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_23_9568f3_3c6e45551e4f41ff84718130578ad144~mv2.jpeg
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_25_9568f3_73d79490696f4a7f92a4c5b6c64c847b~mv2.jpeg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_14_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_16_9568f3_e2af41bd8c69497c8fcefc87d20cd378~mv2.jpeg
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_21_9568f3_2ef0f73fe9eb4c4f92cfd1d36e8ed9b6~mv2.jpeg
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_23_9568f3_3c6e45551e4f41ff84718130578ad144~mv2.jpeg
+  - >-
+    ../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_25_9568f3_73d79490696f4a7f92a4c5b6c64c847b~mv2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # vvisuals___
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vvisuals___/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/vvisuals___/profile/548892954_18292402840250037_3022439868815144778_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_14_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png)<br><!-- image:../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_14_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_16_9568f3_e2af41bd8c69497c8fcefc87d20cd378~mv2.jpeg)<br><!-- image:../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_16_9568f3_e2af41bd8c69497c8fcefc87d20cd378~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_20_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png)<br><!-- image:../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_20_9568f3_253b70a707884e4ca6af7fb6a1003732~mv2.png --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_21_9568f3_2ef0f73fe9eb4c4f92cfd1d36e8ed9b6~mv2.jpeg)<br><!-- image:../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_21_9568f3_2ef0f73fe9eb4c4f92cfd1d36e8ed9b6~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_23_9568f3_3c6e45551e4f41ff84718130578ad144~mv2.jpeg)<br><!-- image:../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_23_9568f3_3c6e45551e4f41ff84718130578ad144~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_25_9568f3_73d79490696f4a7f92a4c5b6c64c847b~mv2.jpeg)<br><!-- image:../../assets/designers/vvisuals___/instagram/vvisuals____imageye___-_imgi_25_9568f3_73d79490696f4a7f92a4c5b6c64c847b~mv2.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Vivian Florez is a Colombian visual designer and textile illustrator based in Cali, operating as Vvisuals Studio. She works across textile illustration, editorial design, illustration, and branding, with documented experience designing prints and patterns for Johanna Ortiz and Mar de Lua.
+
 ## Style and Aesthetic
+
+Florez's practice sits at the intersection of fashion textile illustration and editorial graphic design. Selected Instagram images suggest structured, graphic pattern work with a design-school sensibility. Her stated emphasis on editorial and brand design shapes a precise, commercially informed visual approach.
 
 ## Techniques and Tools
 
+Visual design and textile illustration are her stated disciplines. Services span textile illustration, editorial, illustration, and branding — suggesting a digital workflow with versatility across print and brand applications.
+
 ## Markets and Clients
+
+Documented brand clients include Johanna Ortiz (luxury Colombian fashion with international distribution) and Mar de Lua (Colombian fashion brand). Art prints are available for sale via her website.
 
 ## Portfolio and Presence
 
+- Website: https://vivianflorez6.wixsite.com/vvisualsstudio
+- Instagram: https://instagram.com/vvisuals___
+
 ## Career Path
+
+Based in Cali, Colombia. Developed print and pattern design experience through work with Johanna Ortiz and Mar de Lua. Career timeline and educational background are not documented in available sources.
 
 ## Pattern Focus
 
+Fashion textile illustration oriented toward print development for apparel. Selected patterns suggest structured graphic work with decorative and illustrative qualities. The Johanna Ortiz connection places her work in a luxury fashion context.
+
 ## Connections
+
+- [[Johanna Ortiz]] — documented client
+- [[Mar de Lua]] — documented client
+- [[Colombia]] — based in Cali
+- [[Womenswear]] — implied market from client context

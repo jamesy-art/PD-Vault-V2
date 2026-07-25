@@ -22,7 +22,7 @@ bio: ''
 website: 'https://tizianacavaliere.com'
 website_about: ''
 accepted: 26/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tizicav.official
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Tizicav - Graphic designer & Illustrator
 website_meta_description: 'Tiziana Cavaliere, graphic designer and illustrator based in Biarritz, France.'
 website_about_raw: >-
@@ -231,7 +234,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -248,45 +251,230 @@ instagram_profile_pic_url: >-
   https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/335720317_1488172944924783_4332005137343759576_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGiUdh_W7SG2F_uBgW5XI26GJruVCU82vbBmagvJORkqmeHE3ZR-d2JO_FE8VkwdGM&_nc_ohc=SYvOoG8FlCEQ7kNvwGmE6tF&_nc_gid=T9Kl-D1ZgLvl5FVPoM33lg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6o6Nzb7Bdjed3DEEpBorae9f4uPV6xsRrsCPqBBjlxYg&oe=6A1400ED&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fagc1-1.fna.fbcdn.net/v/t51.2885-19/335720317_1488172944924783_4332005137343759576_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fagc1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGiUdh_W7SG2F_uBgW5XI26GJruVCU82vbBmagvJORkqmeHE3ZR-d2JO_FE8VkwdGM&_nc_ohc=SYvOoG8FlCEQ7kNvwGmE6tF&_nc_gid=T9Kl-D1ZgLvl5FVPoM33lg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6o6Nzb7Bdjed3DEEpBorae9f4uPV6xsRrsCPqBBjlxYg&oe=6A1400ED&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 9048
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/tizicav.official/profile/335720317_1488172944924783_4332005137343759576_n.jpg
+instagram_profile_image_bytes: 218537
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tizicav.official/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tizicav.official/profile/335720317_1488172944924783_4332005137343759576_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tizicav.official/profile/335720317_1488172944924783_4332005137343759576_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tizicav.official/profile/335720317_1488172944924783_4332005137343759576_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tizicav.official/profile/335720317_1488172944924783_4332005137343759576_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1679263723_3062208517373321637_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405960425436_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405968898290_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405985561031_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556401160592_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556409491134_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1681634888_3082099288376551089_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1682157256_3086481231763471777_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083159567747_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083184683834_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250734208965_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250734279934_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250750934855_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250927217296_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250927225045_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466836987755_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466845356445_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466862042201_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466920944851_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162567024350_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575345740_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575409169_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504721095342_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504922586444_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504939219761_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504939233756_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481676154_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481765385_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932666352754_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932666361857_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932674552882_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932682929941_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465646914420_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465814821567_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465865088762_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1729323547_3482140760376740847_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192461567433_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192469942487_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192637680418_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600223037717189_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600226049215895_58807912453.jpg
+instagram_image_count: 41
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1679263723_3062208517373321637_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405985561031_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556401160592_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1682157256_3086481231763471777_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083159567747_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504721095342_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481676154_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600223037717189_58807912453.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083184683834_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575345740_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192469942487_58807912453.jpg
+  - >-
+    ../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600226049215895_58807912453.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # tizicav.official
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tizicav.official/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tizicav.official/profile/335720317_1488172944924783_4332005137343759576_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1679263723_3062208517373321637_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1679263723_3062208517373321637_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405960425436_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405960425436_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405968898290_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405968898290_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405985561031_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1679946064_3067932405985561031_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556401160592_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556401160592_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556409491134_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1680389540_3071652556409491134_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1681634888_3082099288376551089_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1681634888_3082099288376551089_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1682157256_3086481231763471777_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1682157256_3086481231763471777_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083159567747_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083159567747_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083184683834_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1682622035_3090380083184683834_58807912453.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250734208965_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250734208965_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250734279934_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250734279934_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250750934855_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250750934855_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250927217296_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250927217296_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250927225045_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687268357_3129356250927225045_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466836987755_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466836987755_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466845356445_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466845356445_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466862042201_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466862042201_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466920944851_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1687611944_3132238466920944851_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162567024350_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162567024350_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575345740_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575345740_58807912453.jpg --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575409169_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1688504427_3139725162575409169_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504721095342_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504721095342_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504922586444_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504922586444_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504939219761_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504939219761_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504939233756_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1700047027_3236551504939233756_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481676154_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481676154_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481765385_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932481765385_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932666352754_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932666352754_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932666361857_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932666361857_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932674552882_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932674552882_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932682929941_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1703668418_3266929932682929941_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465646914420_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465646914420_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465814821567_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465814821567_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465865088762_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1714336044_3356416465865088762_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1729323547_3482140760376740847_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1729323547_3482140760376740847_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192461567433_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192461567433_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192469942487_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192469942487_58807912453.jpg --> | [ ] | [x] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192637680418_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1731948826_3504163192637680418_58807912453.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600223037717189_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600223037717189_58807912453.jpg --> | [x] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600226049215895_58807912453.jpg)<br><!-- image:../../assets/designers/tizicav.official/instagram/tizicav.official_1770148149_3824600226049215895_58807912453.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Tiziana Cavaliere is an Italian graphic designer and illustrator based in Biarritz, France. Working under the name Tizicav, she creates character-driven surface pattern and illustration work across digital and traditional media. Her portfolio covers illustration, pattern design, graphic design, and painting, with a particular focus on emotional storytelling through whimsical characters and natural motifs.
+
 ## Style and Aesthetic
+
+Cavaliere's work is built around delicate characters, whimsical landscapes, and atmospheric natural scenes. Selected Instagram images suggest a nature-forward visual language — animals, botanical forms, and organic motifs rendered with warmth and visual playfulness. Colour palettes are expressive and richly layered. A consistent storytelling thread runs through the work, with individual images reading as glimpses into imagined scenes rather than pure pattern exercises.
 
 ## Techniques and Tools
 
+Specialises in both digital and traditional media: watercolour, gouache, and acrylic painting form the core of her traditional practice. Digital illustration complements and extends this. Skills include illustration, painting, graphic design, and colour theory.
+
 ## Markets and Clients
+
+No commercial clients are documented. The design sensibility — character-led illustration, whimsical motifs, playful spirit — suggests natural fit with gifting, stationery, children's products, and apparel. Available for commissioned project work.
 
 ## Portfolio and Presence
 
+- Website: tizianacavaliere.com
+- Instagram: @tizicav.official (415 followers)
+
 ## Career Path
+
+Italian-born, Cavaliere is based in Biarritz on the French Atlantic coast. She describes deep curiosity about the world — travel, other cultures, and different lifestyles are primary creative drivers. A love of nature, animals, and colour underpins her personal practice, which centres on mood, emotion, and visual storytelling through delicate figures and whimsical settings.
 
 ## Pattern Focus
 
+Selected images suggest surface patterns featuring whimsical characters, animals, and natural motifs — botanicals and atmospheric outdoor elements rendered with illustrative depth. Selected placements indicate application in apparel and lifestyle product contexts. Work appears to blend narrative illustration with repeating pattern structures.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Illustration]]
+- [[Watercolour]]
+- [[France]]
+- [[Gifting Market]]
+- [[Stationery]]

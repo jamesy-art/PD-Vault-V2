@@ -20,7 +20,7 @@ bio: ''
 website: 'https://kaseymelissaart.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/kaseymelissa.art
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Oil and watercolor paintings of birds | wildlife | nature
 website_meta_description: >-
   Oil and watercolor paintings of birds | wildlife | nature bringing peace and
@@ -240,8 +243,23 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  Hey there, nature-seeker.
+
+  I’m Kasey Melissa Lewis.
+
+  I wouldn’t call myself an outdoorsman by any means, but I am in awe of nature
+  and would consider myself an avid observer. 
+
+
+  Spring is my favorite season and definitely puts my senses and moods in
+  overdrive. Every little creature is coming out with such joy and anything that
+  can grow is budding and exploding with excitement. 
+
+
+  The inspiration for my paintings can be the same… the joy it gives me is
+  overwhelming and yet, at times it’s my retreat and calm.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -257,45 +275,161 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/108338152_564082137606271_7290231042449234817_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFTKwFHPcv4Ben5W-Ehmg971JT69_7v3I5ujQc552vj-LwdZdbstgVij4eCi3iXVT4&_nc_ohc=ufxHFeuo9PsQ7kNvwGbKVpg&_nc_gid=t7zRMiM7Xtc5AnTKWvoenQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5U6MzYvAQncxWJcbtAvMhXnYsNK4Dvr592T0t5eLVCng&oe=6A13D59A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/108338152_564082137606271_7290231042449234817_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFTKwFHPcv4Ben5W-Ehmg971JT69_7v3I5ujQc552vj-LwdZdbstgVij4eCi3iXVT4&_nc_ohc=ufxHFeuo9PsQ7kNvwGbKVpg&_nc_gid=t7zRMiM7Xtc5AnTKWvoenQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5U6MzYvAQncxWJcbtAvMhXnYsNK4Dvr592T0t5eLVCng&oe=6A13D59A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/kaseymelissa.art/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5345
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/kaseymelissa.art/profile/108338152_564082137606271_7290231042449234817_n.jpg
+instagram_profile_image_bytes: 194761
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/kaseymelissa.art/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/kaseymelissa.art/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/kaseymelissa.art/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/kaseymelissa.art/profile/108338152_564082137606271_7290231042449234817_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/kaseymelissa.art/profile/108338152_564082137606271_7290231042449234817_n.jpg
+profile_image_local: >-
+  ../../assets/designers/kaseymelissa.art/profile/108338152_564082137606271_7290231042449234817_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/kaseymelissa.art/profile/108338152_564082137606271_7290231042449234817_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504432266819_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504440719572_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504440822654_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127202276209_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127269246527_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707688884_3300656051086089884_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1708106632_3304160375862805428_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470792774532_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470801123726_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710631798_3325343004880506475_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812891702_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812909702_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812980393_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786125064460408_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728126802354_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728135172697_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728311179974_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1748910374_3646446968323477420_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994739802204949_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994746949270038_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994755623059755_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994762451408007_720977301.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812909702_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812980393_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728311179974_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1748910374_3646446968323477420_720977301.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127202276209_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127269246527_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707688884_3300656051086089884_720977301.jpg
+  - >-
+    ../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470792774532_720977301.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # kaseymelissa.art
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/kaseymelissa.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/kaseymelissa.art/profile/108338152_564082137606271_7290231042449234817_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504432266819_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504432266819_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504440719572_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504440719572_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504440822654_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1683747064_3099817504440822654_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127202276209_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127202276209_720977301.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127269246527_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707505788_3299120127269246527_720977301.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707688884_3300656051086089884_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1707688884_3300656051086089884_720977301.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1708106632_3304160375862805428_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1708106632_3304160375862805428_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470792774532_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470792774532_720977301.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470801123726_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710527665_3324469470801123726_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710631798_3325343004880506475_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1710631798_3325343004880506475_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812891702_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812891702_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812909702_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812909702_720977301.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812980393_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786124812980393_720977301.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786125064460408_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1741798247_3586786125064460408_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728126802354_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728126802354_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728135172697_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728135172697_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728311179974_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1744746245_3611515728311179974_720977301.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1748910374_3646446968323477420_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1748910374_3646446968323477420_720977301.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994739802204949_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994739802204949_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994746949270038_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994746949270038_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994755623059755_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994755623059755_720977301.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994762451408007_720977301.jpg)<br><!-- image:../../assets/designers/kaseymelissa.art/instagram/kaseymelissa.art_1776871053_3880994762451408007_720977301.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Kasey Lewis (Kasey Melissa Lewis) is a fine artist and nature painter based in Brockport, New York. She creates oil and watercolor paintings of birds, wildlife, and nature scenes, and offers her work for retail, wholesale, and licensing. Her practice spans fine art prints, direct sales, and commercial applications across her Aviary, Wildlife, and Nature collections.
+
 ## Style and Aesthetic
+
+Nature-led and joyful in tone—Kasey paints birds and wildlife with an eye for warm observation rather than scientific exactitude. Selected Instagram patterns suggest colourful floral arrangements and nature-themed compositions with a loose, painterly quality. Her stated favourite colour is green; her work is consistently described as bringing peace and calm. Collections are organised around the Aviary, Wildlife, and Nature themes.
 
 ## Techniques and Tools
 
+Works primarily in oil and watercolor. Painting is central to her practice, with daily engagement with nature observation as core to the creative process. Applies loose, expressive brushwork to bird and wildlife subjects. Works from a studio in Brockport, New York.
+
 ## Markets and Clients
+
+Retail, wholesale, and licensing—all three are stated explicitly on her Instagram profile. Selected placement images suggest work applied to printed consumer products. Direct print sales via website; open to commissions. No specific named licensing clients documented.
 
 ## Portfolio and Presence
 
+- Website: https://kaseymelissaart.com
+- Instagram: @kaseymelissa.art (1,100+ followers)
+
 ## Career Path
+
+Based in Brockport, New York. Self-identifies as an avid observer of nature—spring is described as a particular creative trigger. She has built a studio practice around nature painting, with her Aviary, Wildlife, and Nature print collections available for purchase and licensing.
 
 ## Pattern Focus
 
+Bird and wildlife art, botanicals, and nature scenes in oil and watercolor. Selected patterns suggest colourful floral and botanical compositions with a painterly looseness. Selected placement images indicate work applied to consumer product formats. Work is commercially positioned for retail, wholesale, and licensing applications.
+
 ## Connections
+
+- [[Botanical Pattern]] — apparent pattern direction
+- [[Wildlife Art]] — core subject matter

@@ -24,7 +24,7 @@ bio: ''
 website: 'https://stephaniefionadesign.com'
 website_about: ''
 accepted: 22/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/stephaniefionadesign
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: textile designer | stephanie fiona design
 website_meta_description: >-
   With over a decade of experience in surface pattern design, I create prints
@@ -281,7 +284,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -298,45 +301,196 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/472952795_1528099348137429_7232282794642269091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzkuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEqya0SzDHs3Ew4Tsj7X6pwaRsVaNLfTE53itO3IbT4er9w80jU0lAqP2lg3UWVd5E&_nc_ohc=waJnNHcOxZcQ7kNvwFxMkBI&_nc_gid=EIatiW0z9sX65-P8sT5j5g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7A6IHbzsRAVxzIbApVgPu4IVkc-u4OsEhm6CBrM_K20w&oe=6A1400D7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/472952795_1528099348137429_7232282794642269091_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzkuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEqya0SzDHs3Ew4Tsj7X6pwaRsVaNLfTE53itO3IbT4er9w80jU0lAqP2lg3UWVd5E&_nc_ohc=waJnNHcOxZcQ7kNvwFxMkBI&_nc_gid=EIatiW0z9sX65-P8sT5j5g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7A6IHbzsRAVxzIbApVgPu4IVkc-u4OsEhm6CBrM_K20w&oe=6A1400D7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/stephaniefionadesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6889
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/stephaniefionadesign/profile/472952795_1528099348137429_7232282794642269091_n.jpg
+instagram_profile_image_bytes: 58815
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/stephaniefionadesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/stephaniefionadesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/stephaniefionadesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/stephaniefionadesign/profile/472952795_1528099348137429_7232282794642269091_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/stephaniefionadesign/profile/472952795_1528099348137429_7232282794642269091_n.jpg
+profile_image_local: >-
+  ../../assets/designers/stephaniefionadesign/profile/472952795_1528099348137429_7232282794642269091_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/stephaniefionadesign/profile/472952795_1528099348137429_7232282794642269091_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943328869757921_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329322753292_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329666677115_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329700220406_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190409314067451_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190410228454858_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190410614300000_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190412073896814_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135574987968033_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135575994604531_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576086844304_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576489528162_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134731300367_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134999715142_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359135712745385_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359136325092954_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878981715791355_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878987210382379_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752291675926403_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752291885643009_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752292699320943_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752292766388999_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442272175745_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442330879545_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948159138374467_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948160262440374_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948160354745301_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948161025826532_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683116857570_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683452396427_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683653745455_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683888650076_65613012313.jpg
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329666677115_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190409314067451_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135574987968033_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576086844304_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134731300367_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878981715791355_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442330879545_65613012313.jpg
+  - >-
+    ../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948159138374467_65613012313.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # stephaniefionadesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/stephaniefionadesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/stephaniefionadesign/profile/472952795_1528099348137429_7232282794642269091_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943328869757921_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943328869757921_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329322753292_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329322753292_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329666677115_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329666677115_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329700220406_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1770069590_3823943329700220406_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190409314067451_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190409314067451_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190410228454858_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190410228454858_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190410614300000_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190410614300000_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190412073896814_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1773079277_3849190412073896814_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135574987968033_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135574987968033_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135575994604531_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135575994604531_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576086844304_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576086844304_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576489528162_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1774384042_3860135576489528162_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134731300367_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134731300367_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134999715142_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359134999715142_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359135712745385_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359135712745385_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359136325092954_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1776794878_3880359136325092954_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878981715791355_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878981715791355_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878987210382379_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777333695_3884878987210382379_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752291675926403_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752291675926403_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752291885643009_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752291885643009_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752292699320943_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752292699320943_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752292766388999_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1777914630_3889752292766388999_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442272175745_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442272175745_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442330879545_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778527025_3894889442330879545_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948159138374467_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948159138374467_65613012313.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948160262440374_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948160262440374_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948160354745301_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948160354745301_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948161025826532_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1778534026_3894948161025826532_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683116857570_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683116857570_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683452396427_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683452396427_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683653745455_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683653745455_65613012313.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683888650076_65613012313.jpg)<br><!-- image:../../assets/designers/stephaniefionadesign/instagram/stephaniefionadesign_1779800448_3905571683888650076_65613012313.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Stephanie Holdsworth is a Vancouver-based textile designer and founder of Stephanie Fiona Design. With over a decade of experience in surface pattern design, she creates prints shaped by coastal landscapes, earthy terrain, and the textures of traditional textiles. Living between Vancouver and Sydney, her work draws on shifting coastlines and quiet natural rhythms. She has focused exclusively on textile design since 2024, following backgrounds in teaching and hands-on making.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest organic botanical forms, gestural mark-making, and muted, nature-derived colour palettes. The studio's stated range spans calm living, playful folk, gestural botanics, modern bohemian, and clean mark-making. Compositions tend toward minimal, hand-drawn textures that read as contemporary and timeless. Muted pastels and earthy tones dominate; the sensibility is quiet rather than bold.
 
 ## Techniques and Tools
 
+Vector seamless designs. Artisanal process merging archival influences with modern minimalism. Background across jewellery making, ceramics, crochet, metalwork, knitting, and pattern-making — informing a hands-on, material-aware design sensibility. New prints released weekly; themed mini-collections launched throughout the year.
+
 ## Markets and Clients
+
+Home décor (primary). Available on Spoonflower (fabrics and wallpaper), Raspberry Creek Fabrics, and Redbubble. Open for collaboration and licensing; exclusive rights available on individual designs. Also accepts commissions for new designs and colour, scale, or direction adjustments to existing designs at no additional charge.
 
 ## Portfolio and Presence
 
+- Website: stephaniefionadesign.com
+- Instagram: @stephaniefionadesign (1,598 followers, 195 posts)
+- Spoonflower — fabrics and wallpaper
+- Raspberry Creek Fabrics
+- Redbubble
+
 ## Career Path
+
+Trained in textiles and spatial design at university. Spent several years teaching design, developing a deep understanding of creative process, experimentation, and collaboration. Built first business (stephanie fiona rc), designing and producing home décor for local markets. In 2023, designed and made her own wedding dress. Since 2024, focused exclusively on textile design for brands and buyers worldwide.
 
 ## Pattern Focus
 
+Botanical curiosities and bohemian textures. Selected Instagram patterns suggest gestural organic motifs and nature-inspired all-over compositions. Collections designed as coherent seasonal and thematic groups. Scaleable vector files suitable for fabric, wallpaper, and product applications.
+
 ## Connections
+
+- [[Home Decor market]]
+- [[Botanical prints]]
+- [[Spoonflower]]
+- [[Licensing]]

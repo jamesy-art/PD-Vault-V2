@@ -24,7 +24,7 @@ bio: ''
 website: 'https://saraharnett.co.uk'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/saraharnettstudio
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Sarah Arnett - Artwork Interiors Fashion
 website_meta_description: >-
   Sarah Arnett is an acclaimed contemporary artist, illustrator, and designer,
@@ -296,7 +299,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -317,45 +320,151 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/686977357_18581887015040502_4917995310901316324_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQyLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHyeDwkCi3JDcGrTZvLNmyxAjLC6Ktho2nstZS3SBGknr8RxM037fnE3FkbXMUFYlI&_nc_ohc=y6W9Qig3saIQ7kNvwEW-dX3&_nc_gid=Ts6D1hq0Wast3fkB7umeYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6mnoOn-3ivtQ-vjpMG79Yn9ha_FD5ZQUHyfd7al-MRPw&oe=6A13E801&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/686977357_18581887015040502_4917995310901316324_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQyLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHyeDwkCi3JDcGrTZvLNmyxAjLC6Ktho2nstZS3SBGknr8RxM037fnE3FkbXMUFYlI&_nc_ohc=y6W9Qig3saIQ7kNvwEW-dX3&_nc_gid=Ts6D1hq0Wast3fkB7umeYQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6mnoOn-3ivtQ-vjpMG79Yn9ha_FD5ZQUHyfd7al-MRPw&oe=6A13E801&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/saraharnettstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7826
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/saraharnettstudio/profile/686977357_18581887015040502_4917995310901316324_n.jpg
+instagram_profile_image_bytes: 394430
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/saraharnettstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/saraharnettstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/saraharnettstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/saraharnettstudio/profile/686977357_18581887015040502_4917995310901316324_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/saraharnettstudio/profile/686977357_18581887015040502_4917995310901316324_n.jpg
+profile_image_local: >-
+  ../../assets/designers/saraharnettstudio/profile/686977357_18581887015040502_4917995310901316324_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/saraharnettstudio/profile/686977357_18581887015040502_4917995310901316324_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1712396875_3340149544592722600_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1713274504_3347511625453148803_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716076641_3371017657764709922_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716805853_3377134726256023409_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799539252334_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799547459566_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799899934652_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1729768672_3485874734168745655_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1730621014_3493024698044982913_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1731614045_3501354844308905556_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1732297229_3507085813527720244_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1739097852_3564133567554523884_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1743363653_3599917704898891378_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744310137_3607857388295809907_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744823541_3612164132433936940_1256501.jpg
+instagram_image_count: 15
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1731614045_3501354844308905556_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1732297229_3507085813527720244_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1739097852_3564133567554523884_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744310137_3607857388295809907_1256501.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1713274504_3347511625453148803_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716805853_3377134726256023409_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1729768672_3485874734168745655_1256501.jpg
+  - >-
+    ../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1743363653_3599917704898891378_1256501.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # saraharnettstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/saraharnettstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/saraharnettstudio/profile/686977357_18581887015040502_4917995310901316324_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1712396875_3340149544592722600_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1712396875_3340149544592722600_1256501.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1713274504_3347511625453148803_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1713274504_3347511625453148803_1256501.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716076641_3371017657764709922_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716076641_3371017657764709922_1256501.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716805853_3377134726256023409_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1716805853_3377134726256023409_1256501.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799539252334_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799539252334_1256501.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799547459566_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799547459566_1256501.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799899934652_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1723650024_3434547799899934652_1256501.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1729768672_3485874734168745655_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1729768672_3485874734168745655_1256501.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1730621014_3493024698044982913_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1730621014_3493024698044982913_1256501.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1731614045_3501354844308905556_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1731614045_3501354844308905556_1256501.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1732297229_3507085813527720244_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1732297229_3507085813527720244_1256501.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1739097852_3564133567554523884_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1739097852_3564133567554523884_1256501.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1743363653_3599917704898891378_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1743363653_3599917704898891378_1256501.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744310137_3607857388295809907_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744310137_3607857388295809907_1256501.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744823541_3612164132433936940_1256501.jpg)<br><!-- image:../../assets/designers/saraharnettstudio/instagram/saraharnettstudio_1744823541_3612164132433936940_1256501.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sarah Arnett is a UK-based artist, illustrator, and designer specialising in fine art, textiles, interiors, and product licensing. Her career spans independent studio practice and high-profile commercial commissions, with confirmed clients including Adobe, Liberty of London, Dior, Lifetime Brands (Mikasa), the Royal Pavilion Brighton, and the Royal British Legion. She holds a verified Instagram account with over 9,200 followers.
+
 ## Style and Aesthetic
+
+Detailed illustrative work combining botanical, figurative, and garden-world subjects — flora, fauna, domestic animals, and narrative still life. A rich, vibrant colour palette with intricate linework. The aesthetic moves fluidly between fine art and commercial product application, with particular strength in decorative narrative illustration suited to homeware, wallpaper, and fashion.
 
 ## Techniques and Tools
 
+Drawing-led practice. The Adobe collaboration documented her ability to sketch from life — botanical sources, garden observation — and translate a single concept across multiple surfaces: artwork, robe, and tea set. Fine linework, pale greys, and delicate botanical detail characterise the Dior commission.
+
 ## Markets and Clients
+
+Fine art, interiors, homeware, fashion, and branded licensing. Confirmed clients:
+- Adobe — bespoke artwork; translated into a luxury robe and tea set
+- Lifetime Brands / Mikasa — tableware collection (tea cups, coffee cups, cocktail shakers, plates, enamel cups)
+- Liberty of London — Old Tom Gin label, 2017 (ongoing mainstay in their collection)
+- Dior Parfums — *Flower Woman* piece, Dior Illustrated: René Gruau and the Line of Beauty exhibition, Somerset House
+- Royal Pavilion Brighton — interior illustration commission
+- Royal British Legion — *Thank You 100* commemorative installation, Tate Modern launch, UK tour, 2018
 
 ## Portfolio and Presence
 
+- Website: saraharnett.co.uk
+- Instagram: @Saraharnettstudio (9,258 followers, verified)
+
 ## Career Path
+
+Established UK studio practice with a sustained track record across fine art exhibitions, heritage commissions, and commercial licensing. The Liberty of London gin label (2017) has been a mainstay of their collection since launch. The Adobe and Dior commissions position her in a premium tier for illustrators working across product and high-end fashion contexts.
 
 ## Pattern Focus
 
+Selected Instagram images suggest decorative, narrative patterns with botanical and garden-world subjects — flora, birds, and domestic animals rendered with detail and warmth. Placement images suggest application across homeware and fashion surfaces. Illustrative repeat work suited to wallpaper, textiles, and tableware licensing.
+
 ## Connections
+
+- [[Liberty of London]] — Old Tom Gin label commission, 2017
+- [[Adobe]] — artistic collaboration
+- [[raw/companies processed/Dior]] — Somerset House exhibition commission
+- [[Lifetime Brands]] — Mikasa tableware licensing
+- [[Royal British Legion]] — commemorative public art installation, 2018
+- [[wallpaper]] — market
+- [[home decor]] — market

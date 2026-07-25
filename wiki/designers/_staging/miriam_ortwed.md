@@ -25,7 +25,7 @@ bio: ''
 website: 'https://ortwed.com'
 website_about: ''
 accepted: 20/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/miriam_ortwed
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Miriam Ortwed
 website_meta_description: ''
 website_about_raw: >-
@@ -254,7 +257,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -271,45 +274,170 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/610817904_18555713704055561_3531053894130802347_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEyfu5yeyxcpfAP-4vKeeSiiYu8aW5sqEMt9-n86yLtKmpNF44GFazqbD3AQzyWpdQ&_nc_ohc=BILA9dgh1kgQ7kNvwFRCGc9&_nc_gid=ytroZd5Ifeqv1w5jz2Ly_w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yztRib6K4CgFb-MzXFHzYWC3Z05DWhf5JLgPgSOgZ4g&oe=6A13F2C9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/610817904_18555713704055561_3531053894130802347_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEyfu5yeyxcpfAP-4vKeeSiiYu8aW5sqEMt9-n86yLtKmpNF44GFazqbD3AQzyWpdQ&_nc_ohc=BILA9dgh1kgQ7kNvwFRCGc9&_nc_gid=ytroZd5Ifeqv1w5jz2Ly_w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4yztRib6K4CgFb-MzXFHzYWC3Z05DWhf5JLgPgSOgZ4g&oe=6A13F2C9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/miriam_ortwed/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5887
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/miriam_ortwed/profile/610817904_18555713704055561_3531053894130802347_n.jpg
+instagram_profile_image_bytes: 193493
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/miriam_ortwed/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/miriam_ortwed/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/miriam_ortwed/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/miriam_ortwed/profile/610817904_18555713704055561_3531053894130802347_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/miriam_ortwed/profile/610817904_18555713704055561_3531053894130802347_n.jpg
+profile_image_local: >-
+  ../../assets/designers/miriam_ortwed/profile/610817904_18555713704055561_3531053894130802347_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/miriam_ortwed/profile/610817904_18555713704055561_3531053894130802347_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1678286937_3054014641369990155_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665260_3065576853762960457_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665404_3065578062032916770_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1723998644_3437472234232537425_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366674662_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366674707_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366709492_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366721636_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722433834886_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671711619_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671720741_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671723350_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671731613_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671759959_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768560300_3811282537083986660_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645329638_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645379327_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653721598_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653727475_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653745684_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595662139989_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595670548089_529463560.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1723998644_3437472234232537425_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722433834886_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671711619_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671720741_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671723350_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671731613_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671759959_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645379327_529463560.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1678286937_3054014641369990155_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665260_3065576853762960457_529463560.jpg
+  - >-
+    ../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665404_3065578062032916770_529463560.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # miriam_ortwed
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/miriam_ortwed/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/miriam_ortwed/profile/610817904_18555713704055561_3531053894130802347_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1678286937_3054014641369990155_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1678286937_3054014641369990155_529463560.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665260_3065576853762960457_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665260_3065576853762960457_529463560.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665404_3065578062032916770_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1679665404_3065578062032916770_529463560.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1723998644_3437472234232537425_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1723998644_3437472234232537425_529463560.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366674662_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366674662_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366674707_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366674707_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366709492_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366709492_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366721636_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722366721636_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722433834886_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1763389982_3767910722433834886_529463560.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671711619_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671711619_529463560.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671720741_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671720741_529463560.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671723350_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671723350_529463560.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671731613_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671731613_529463560.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671759959_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768302000_3805917190671759959_529463560.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768560300_3811282537083986660_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1768560300_3811282537083986660_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645329638_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645329638_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645379327_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595645379327_529463560.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653721598_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653721598_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653727475_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653727475_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653745684_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595653745684_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595662139989_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595662139989_529463560.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595670548089_529463560.jpg)<br><!-- image:../../assets/designers/miriam_ortwed/instagram/miriam_ortwed_1769077800_3812874595670548089_529463560.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Miriam Ortwed is a Copenhagen-based surface pattern designer and design educator, founder of Softform Studio. She creates patterns rooted in mindfulness, slow design, and contemplative visual culture, working across wallpaper, fabric, embroidery, stationery, and miniature paper world construction. Her licensing portfolio is available for fabric via Spoonflower; her design education offering ("Immersion") is currently open for enrolment. Softform Studio's website is described as under construction.
+
 ## Style and Aesthetic
+
+Ortwed's work is characterised by an intentionally slow, contemplative aesthetic — patterns designed to encourage pausing and presence rather than stimulation or trend-driven consumption. Selected Instagram images (8 patterns, 3 placements) suggest a quiet, illustration-informed visual language: botanical and organic forms, measured compositions, and a palette that leans towards soft, considered harmony. Placement images show fabric and surface applications consistent with wallpaper and textile licensing contexts.
 
 ## Techniques and Tools
 
+Surface pattern design for wallpaper, fabric, embroidery, stationery, and miniature paper worlds. Works in illustration-informed digital design. Distributes fabric designs via [[Spoonflower]].
+
 ## Markets and Clients
+
+Fabric and wallpaper via Spoonflower. Greeting cards and licensing portfolio available. Ortwed describes her practice as open to licensing and commissions. No specific commercial clients named in available sources.
 
 ## Portfolio and Presence
 
+- Instagram: @miriam_ortwed (715 followers)
+- Studio: Softform Studio (under construction)
+- Fabric/Wallpaper: Spoonflower
+
 ## Career Path
+
+Holds a bachelor's degree in nursing. Moved to Munich and subsequently enrolled in design school, describing the years in nursing as having provided observational, empathic, and disciplinary foundations that inform her design practice. Now based in Copenhagen. Alongside studio work, she teaches surface pattern design — her "Immersion" course has active enrolment.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 3 placements) suggest an illustrative, contemplative pattern practice. Placement images indicate wallpaper and fabric applications. Consistent with stated markets of wallpaper, fabric, embroidery, and stationery.
+
 ## Connections
+
+- [[Spoonflower]] — fabric and wallpaper platform
+- [[Slow Design]] — stated design philosophy
+- [[Wallpaper]] — target application
+- [[Surface Pattern Licensing]] — available service

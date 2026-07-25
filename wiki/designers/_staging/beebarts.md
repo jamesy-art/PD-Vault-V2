@@ -18,7 +18,7 @@ bio: ''
 website: 'https://beebarts.my.canva.site'
 website_about: ''
 accepted: 25/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/beebarts
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Main page - portfolio
 website_meta_description: ''
 website_about_raw: >-
@@ -86,7 +89,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: |-
   I’m beebarts and I love creating illustrations regarding nature,
   animals and food, while always giving center stage to colors and
@@ -197,45 +200,173 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/520238888_17933332197060932_7401242438388687994_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGD8C77r8wOVbbkcykqCKJYSIgReO4N5YEdZIgo67YIM_kgNEQwnGrLCYVeea-OgLI&_nc_ohc=UWnHzQj37VwQ7kNvwH3BVzJ&_nc_gid=JGQDqM8nNLs3_iK1ACaUcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7RaMMLduUs3unAl-_AhM3n6h0XnV-DHKm1GuW8EB0m2w&oe=6A13DA1E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/520238888_17933332197060932_7401242438388687994_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGD8C77r8wOVbbkcykqCKJYSIgReO4N5YEdZIgo67YIM_kgNEQwnGrLCYVeea-OgLI&_nc_ohc=UWnHzQj37VwQ7kNvwH3BVzJ&_nc_gid=JGQDqM8nNLs3_iK1ACaUcg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7RaMMLduUs3unAl-_AhM3n6h0XnV-DHKm1GuW8EB0m2w&oe=6A13DA1E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/beebarts/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4770
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/beebarts/profile/520238888_17933332197060932_7401242438388687994_n.jpg
+instagram_profile_image_bytes: 65534
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/beebarts/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/beebarts/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/beebarts/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/beebarts/profile/520238888_17933332197060932_7401242438388687994_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/beebarts/profile/520238888_17933332197060932_7401242438388687994_n.jpg
+profile_image_local: >-
+  ../../assets/designers/beebarts/profile/520238888_17933332197060932_7401242438388687994_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/beebarts/profile/520238888_17933332197060932_7401242438388687994_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1702687039_3258697530403355489_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1702687039_3258697530403402129_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1702744705_3259181267898552777_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1702744705_3259181268166909691_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1704124434_3270755278482685812_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1704301372_3272239538733508011_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1705768412_3284545967238547994_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1705949415_3286064326157531909_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1706884816_3293911038729208136_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1706884816_3293911038989245414_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064435516333_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444062122_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444097734_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1768497872_3810741683881777558_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517736320241_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744687933_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744696118_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744712768_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517778207163_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517945980969_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141967473422_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141984310856_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365142193978651_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507927461065844_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507931739266485_61849308931.webp
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1704124434_3270755278482685812_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517778207163_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507927461065844_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507931739266485_61849308931.webp
+selected_placements:
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444097734_61849308931.jpg
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1768497872_3810741683881777558_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141967473422_61849308931.webp
+  - >-
+    ../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365142193978651_61849308931.webp
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # beebarts
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/beebarts/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/beebarts/profile/520238888_17933332197060932_7401242438388687994_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1702687039_3258697530403355489_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1702687039_3258697530403355489_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1702687039_3258697530403402129_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1702687039_3258697530403402129_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1702744705_3259181267898552777_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1702744705_3259181267898552777_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1702744705_3259181268166909691_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1702744705_3259181268166909691_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1704124434_3270755278482685812_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1704124434_3270755278482685812_61849308931.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1704301372_3272239538733508011_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1704301372_3272239538733508011_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1705768412_3284545967238547994_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1705768412_3284545967238547994_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1705949415_3286064326157531909_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1705949415_3286064326157531909_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1706884816_3293911038729208136_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1706884816_3293911038729208136_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1706884816_3293911038989245414_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1706884816_3293911038989245414_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064435516333_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064435516333_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444062122_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444062122_61849308931.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444097734_61849308931.jpg)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1707594830_3299867064444097734_61849308931.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1768497872_3810741683881777558_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1768497872_3810741683881777558_61849308931.webp --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517736320241_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517736320241_61849308931.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744687933_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744687933_61849308931.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744696118_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744696118_61849308931.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744712768_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517744712768_61849308931.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517778207163_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517778207163_61849308931.webp --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517945980969_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1773077736_3848410517945980969_61849308931.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141967473422_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141967473422_61849308931.webp --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141984310856_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365141984310856_61849308931.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365142193978651_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1774546252_3861365142193978651_61849308931.webp --> | [ ] | [x] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507927461065844_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507927461065844_61849308931.webp --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507931739266485_61849308931.webp)<br><!-- image:../../assets/designers/beebarts/instagram/beebarts_1775143976_3866507931739266485_61849308931.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Beatriz Duarte (Beebarts) is a Portuguese illustrator and pattern designer. Her work centres on nature, animals, and food — explored across both traditional and digital media. Academically trained in painting with parallel experience as a comic book colorist and live event illustrator, she is in the early stages of building a surface pattern design practice alongside an active illustration career.
+
 ## Style and Aesthetic
+
+Colour-led and texture-rich, with a warm focus on natural subjects: animals, plants, food, and everyday comforts. Her pet bunny Tambor appears as a recurring subject. Selected Instagram images (4 patterns) suggest nature-based motifs rendered with a warm, expressive quality. Work transitions between traditional and digital aesthetics. Placement images (4) suggest product mock-up and stationery applications.
 
 ## Techniques and Tools
 
+Traditional: gouache painting, coloured pencils, collage. Digital: Photoshop (professional), Illustrator (beginner), After Effects and DaVinci Resolve (beginner). She describes herself as flexible across media, combining traditional and digital tools.
+
 ## Markets and Clients
+
+Open to commissions; a shop is available via Instagram link. Prior experience as a comic book colorist for Portuguese publishers (King Pin Books, Polvo, Escorpião Azul) and as a live event illustrator. No surface pattern licensing clients are documented. Placement images suggest potential for stationery, greeting cards, and home goods.
 
 ## Portfolio and Presence
 
+- Website: beebarts.my.canva.site
+- Instagram: @beebarts (685 followers, 160 posts)
+- Contact: bearte.bd@gmail.com
+
 ## Career Path
+
+Beatriz holds a Bachelor's Degree in Painting from Faculdade de Belas Artes da Universidade de Lisboa (2019–2023), a Photoshop foundation course from Oddschool (2022–2023), and a Specialized Professional Course in Jewelry from Escola Artística António Arroio (2016–2019). In 2024–2025 she enrolled in an Illustration for New Media course at ETIC. She has worked as a comic book colorist for multiple Portuguese publishers and as a live illustrator for events. She won the Trophy for Best Short Story at Central Comics in 2024 and exhibited at Amadora BD and other festivals in 2025.
 
 ## Pattern Focus
 
+Selected pattern images (4) suggest nature-led compositions — animals, botanicals, and food subjects rendered with colour and texture emphasis. Specific repeat structures are not documented. The work appears suited to greeting cards, stationery, home goods, and character-licensing contexts rather than large-scale textile applications at this stage.
+
 ## Connections
+
+- [[Illustration]] — primary practice
+- [[Stationery]] — likely placement market
+- [[Portugal]] — based
+- [[Floral and Botanical Patterns]] — documented motif area

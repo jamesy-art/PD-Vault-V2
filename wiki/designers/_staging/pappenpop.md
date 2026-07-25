@@ -22,7 +22,7 @@ bio: ''
 website: 'https://pappenpop.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/pappenpop
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Inicio - Pappenpop
 website_meta_description: Mi nombre es Paula Pappenheim
 website_about_raw: >-
@@ -231,7 +234,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -251,45 +254,124 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/354420015_2901752739954892_2486463418054475742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFEhojo9BjBV0lPoFwqZQSrSYBwvsBbQtkOfkve798rZsYBXCmwUw8bVjyPJYX9s54&_nc_ohc=gytrNPqSsEkQ7kNvwEapyhe&_nc_gid=nkO8XDlPC0XJYfr6uT-moQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5nfrfVDUjc8swoXMweTbkqI9ijyJRFudNN_LMYapjvbQ&oe=6A1403D1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/354420015_2901752739954892_2486463418054475742_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFEhojo9BjBV0lPoFwqZQSrSYBwvsBbQtkOfkve798rZsYBXCmwUw8bVjyPJYX9s54&_nc_ohc=gytrNPqSsEkQ7kNvwEapyhe&_nc_gid=nkO8XDlPC0XJYfr6uT-moQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5nfrfVDUjc8swoXMweTbkqI9ijyJRFudNN_LMYapjvbQ&oe=6A1403D1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/pappenpop/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 9951
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/pappenpop/profile/354420015_2901752739954892_2486463418054475742_n.jpg
+instagram_profile_image_bytes: 445955
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/pappenpop/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/pappenpop/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/pappenpop/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/pappenpop/profile/354420015_2901752739954892_2486463418054475742_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/pappenpop/profile/354420015_2901752739954892_2486463418054475742_n.jpg
+profile_image_local: >-
+  ../../assets/designers/pappenpop/profile/354420015_2901752739954892_2486463418054475742_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/pappenpop/profile/354420015_2901752739954892_2486463418054475742_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1678121552_3052627291743837414_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1678121823_3052629567103350464_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1754472715_3693107268413810805_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1759527900_3735513232568776137_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1766063265_3790335845996232570_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1767694698_3804021298137980174_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1778772230_3896945925010035970_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1778834262_3897466662389150329_243481423.jpg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1678121552_3052627291743837414_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1678121823_3052629567103350464_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1754472715_3693107268413810805_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1759527900_3735513232568776137_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1766063265_3790335845996232570_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1767694698_3804021298137980174_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1778772230_3896945925010035970_243481423.jpg
+  - >-
+    ../../assets/designers/pappenpop/instagram/pappenpop_1778834262_3897466662389150329_243481423.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # pappenpop
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pappenpop/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/pappenpop/profile/354420015_2901752739954892_2486463418054475742_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1678121552_3052627291743837414_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1678121552_3052627291743837414_243481423.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1678121823_3052629567103350464_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1678121823_3052629567103350464_243481423.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1754472715_3693107268413810805_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1754472715_3693107268413810805_243481423.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1759527900_3735513232568776137_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1759527900_3735513232568776137_243481423.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1766063265_3790335845996232570_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1766063265_3790335845996232570_243481423.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1767694698_3804021298137980174_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1767694698_3804021298137980174_243481423.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1778772230_3896945925010035970_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1778772230_3896945925010035970_243481423.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/pappenpop/instagram/pappenpop_1778834262_3897466662389150329_243481423.jpg)<br><!-- image:../../assets/designers/pappenpop/instagram/pappenpop_1778834262_3897466662389150329_243481423.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Paula Pappenheim is a Netherlands-based surface pattern designer currently working for [[Vlisco]], the established international textile brand. She founded Pappenpop in 2006, building a studio practice that spans fashion, accessories, home, wallpapers, tiles, rugs, porcelains, and packaging across Europe and international markets.
+
 ## Style and Aesthetic
+
+Selected images suggest a sophisticated decorative approach with an international sensibility — highly crafted repeat compositions ranging from ornamental to narrative. Named collections include Eurasian Garden and Spirits, indicating a cross-cultural design vocabulary. The Museo Thyssen-Bornemisza collaboration places her work in an arts-institutional client register alongside commercial fashion and interiors clients.
 
 ## Techniques and Tools
 
+Works across a broad range of surface applications: textiles, wallpapers, ceramics, tiles, rugs, and packaging. Nearly two decades of commercial studio practice reflects fluency in repeat construction, colourway development, and product-specific adaptation.
+
 ## Markets and Clients
+
+Fashion, home, accessories, and institutional markets. Named clients include [[Custo Barcelona]], Hoss Intropía, Mosaic del Sur, Museo Thyssen-Bornemisza, Alfombras KP, Castelbel Porto, Robin Sprong, Harley Davidson, Dac Rugs, [[El Corte Inglés]], Vista Alegre, [[Moooi Carpets]], and Marcel Wanders. International presence across Europe, Japan, Brazil, South Africa, and the USA.
 
 ## Portfolio and Presence
 
+- Instagram: @pappenpop
+- Studio: Pappenpop (founded 2006)
+- Current: designer at @vlisco
+
 ## Career Path
+
+Founded Pappenpop in 2006, based between the Netherlands and Madrid. Built a wide-ranging portfolio across fashion, interiors, and institutional projects over nearly two decades. Currently working in-house at Vlisco.
 
 ## Pattern Focus
 
+Decorative surface patterns with international cultural references — florals, ornamental structures, narrative motifs — applied across textiles, wallpapers, ceramics, rugs, and packaging. Versatile across fashion, home, and institutional markets.
+
 ## Connections
+
+- [[Vlisco]]
+- [[Moooi Carpets]]
+- [[El Corte Inglés]]
+- [[Fashion]] market
+- [[Home Textiles]] market
+- [[Wallpaper]] market

@@ -1,0 +1,130 @@
+{
+  "slug": "fawcett-co",
+  "name": "FAWCETT + CO",
+  "website": "https://fawcettandco.com/",
+  "source_md": "wiki/studios/_pending-patterncloud/fawcett-co.md",
+  "scraped_at": "2026-06-05T23:22:09.141Z",
+  "status": "scraped",
+  "website_title": "Fawcett + Co Ltd",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://fawcettandco.com/",
+      "text": "Fawcett + Co Ltd HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://images.v2.thepatterncloud.com//studio_84/flmaucxpehbs.jpg",
+        "https://fawcettandco.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp10.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp8.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp-9.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp2.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp15.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp6.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp11.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp4.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp7.jpg",
+        "https://images.v2.thepatterncloud.com//studio_84/homePage/fp12.jpg",
+        "https://fawcettandco.com/img/social/facebook.png",
+        "https://fawcettandco.com/img/social/instagram.png",
+        "https://fawcettandco.com/img/social/pinterest.png",
+        "https://fawcettandco.com/img/social/twitter.png",
+        "https://fawcettandco.com/img/social/facebookB.png",
+        "https://fawcettandco.com/img/social/instagramB.png",
+        "https://fawcettandco.com/img/social/pinterestB.png",
+        "https://fawcettandco.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://fawcettandco.com/about.php",
+      "text": "Fawcett + Co Ltd",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://fawcettandco.com/\nFawcett + Co Ltd HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://fawcettandco.com/about.php\nFawcett + Co Ltd",
+  "website_about_clean": "SOURCE: https://fawcettandco.com/\nFawcett + Co Ltd HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://fawcettandco.com/about.php\nFawcett + Co Ltd",
+  "website_images": [
+    "https://images.v2.thepatterncloud.com//studio_84/flmaucxpehbs.jpg",
+    "https://fawcettandco.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp10.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp8.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp-9.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp15.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp6.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp11.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp4.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp7.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp12.jpg",
+    "https://fawcettandco.com/img/social/facebook.png",
+    "https://fawcettandco.com/img/social/instagram.png",
+    "https://fawcettandco.com/img/social/pinterest.png",
+    "https://fawcettandco.com/img/social/twitter.png",
+    "https://fawcettandco.com/img/social/facebookB.png",
+    "https://fawcettandco.com/img/social/instagramB.png",
+    "https://fawcettandco.com/img/social/pinterestB.png",
+    "https://fawcettandco.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [
+    "https://images.v2.thepatterncloud.com//studio_84/flmaucxpehbs.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp10.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp8.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp-9.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp2.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp15.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp6.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp11.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp4.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp7.jpg",
+    "https://images.v2.thepatterncloud.com//studio_84/homePage/fp12.jpg"
+  ],
+  "website_images_local": [
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/flmaucxpehbs.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-01.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp10.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-02.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp8.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-03.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp-9.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-04.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp2.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-05.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp15.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-06.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp6.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-07.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp11.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-08.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp4.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-09.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp7.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-10.jpg"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_84/homePage/fp12.jpg",
+      "local_path": "../../assets/studios/fawcett-co/website/website-11.jpg"
+    }
+  ]
+}

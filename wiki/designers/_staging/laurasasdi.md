@@ -30,7 +30,7 @@ bio: ''
 website: 'https://laurasasdi.com/pattern'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/laurasasdi
 profile_url: ''
 instagram_images:
@@ -47,9 +47,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: PATTERNS – laurasasdi
 website_meta_description: ''
 website_about_raw: >-
@@ -268,7 +271,7 @@ open_to:
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -285,45 +288,196 @@ instagram_profile_pic_url: >-
   https://instagram.frst1-1.fna.fbcdn.net/v/t51.2885-19/313004603_681501853238259_2542919757491988601_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDEuYzIifQ&_nc_ht=instagram.frst1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gH_pT__uxhHMlbAHcfuz_JQDzUp-6BsfCaGP6EyrCjD_Yw_O3cehEtQ29_8Cn6htkM&_nc_ohc=Ke9DytKiw2QQ7kNvwEjNeou&_nc_gid=_kjpk8Omh4Rn4c65a3Ccmw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ZXVwg-Jy6jeo3EotlWke40fNeN1dYMvROHKMPwC80CQ&oe=6A13D742&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.frst1-1.fna.fbcdn.net/v/t51.2885-19/313004603_681501853238259_2542919757491988601_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDEuYzIifQ&_nc_ht=instagram.frst1-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gH_pT__uxhHMlbAHcfuz_JQDzUp-6BsfCaGP6EyrCjD_Yw_O3cehEtQ29_8Cn6htkM&_nc_ohc=Ke9DytKiw2QQ7kNvwEjNeou&_nc_gid=_kjpk8Omh4Rn4c65a3Ccmw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ZXVwg-Jy6jeo3EotlWke40fNeN1dYMvROHKMPwC80CQ&oe=6A13D742&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/laurasasdi/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2354
+instagram_profile_image_local: >-
+  ../../assets/designers/laurasasdi/profile/313004603_681501853238259_2542919757491988601_n.jpg
+instagram_profile_image_bytes: 8912
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/laurasasdi/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/laurasasdi/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/laurasasdi/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/laurasasdi/profile/313004603_681501853238259_2542919757491988601_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/laurasasdi/profile/313004603_681501853238259_2542919757491988601_n.jpg
+profile_image_local: >-
+  ../../assets/designers/laurasasdi/profile/313004603_681501853238259_2542919757491988601_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/laurasasdi/profile/313004603_681501853238259_2542919757491988601_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1669661114_2981655996413409994_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1675879135_3033816537671665644_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1676395008_3038143989860663276_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398304594_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398307381_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581710308011_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581811040185_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1691790473_3167290508668140252_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1691790473_3167290508676666374_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366440600_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366543793_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1707933182_3302705372701249143_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122131340_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122140365_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122271222_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122362619_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698130627782_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701102766152_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701111088750_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701111248590_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701119677285_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818705177_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818706961_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818784842_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577827172979_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1735242588_3531793275094641024_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1744989662_3613557650394177864_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1756712810_3711898543968780840_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1772983858_3848384806963127898_12741020392.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1675879135_3033816537671665644_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1676395008_3038143989860663276_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398307381_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581710308011_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366440600_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366543793_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1707933182_3302705372701249143_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1756712810_3711898543968780840_12741020392.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1669661114_2981655996413409994_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701119677285_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1735242588_3531793275094641024_12741020392.jpg
+  - >-
+    ../../assets/designers/laurasasdi/instagram/laurasasdi_1744989662_3613557650394177864_12741020392.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # laurasasdi
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/laurasasdi/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/laurasasdi/profile/313004603_681501853238259_2542919757491988601_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1669661114_2981655996413409994_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1669661114_2981655996413409994_12741020392.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1675879135_3033816537671665644_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1675879135_3033816537671665644_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1676395008_3038143989860663276_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1676395008_3038143989860663276_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398304594_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398304594_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398307381_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1676835540_3041839444398307381_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581710308011_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581710308011_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581811040185_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1677101155_3044067581811040185_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1691790473_3167290508668140252_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1691790473_3167290508668140252_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1691790473_3167290508676666374_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1691790473_3167290508676666374_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366440600_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366440600_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366543793_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1707678148_3300565991366543793_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1707933182_3302705372701249143_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1707933182_3302705372701249143_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122131340_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122131340_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122140365_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122140365_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122271222_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122271222_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122362619_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698122362619_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698130627782_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1713269983_3347473698130627782_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701102766152_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701102766152_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701111088750_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701111088750_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701111248590_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701111248590_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701119677285_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722436939_3424371701119677285_12741020392.jpg --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818705177_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818705177_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818706961_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818706961_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818784842_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577818784842_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577827172979_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1722877283_3428065577827172979_12741020392.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1735242588_3531793275094641024_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1735242588_3531793275094641024_12741020392.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1744989662_3613557650394177864_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1744989662_3613557650394177864_12741020392.jpg --> | [ ] | [x] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1756712810_3711898543968780840_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1756712810_3711898543968780840_12741020392.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/laurasasdi/instagram/laurasasdi_1772983858_3848384806963127898_12741020392.jpg)<br><!-- image:../../assets/designers/laurasasdi/instagram/laurasasdi_1772983858_3848384806963127898_12741020392.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Laura Sásdi is a graphic designer and illustrator based in Budapest, Hungary. With an MA in Graphic Design from Metropolitan University Budapest and a practice spanning surface pattern, book covers, maps, and lettering, she has built an internationally active freelance career. Clients include Monocle Magazine, WMLY&R Creative Agency, PuffinKids Toys, and several Hungarian publishing houses.
+
 ## Style and Aesthetic
+
+Digital work combining vector graphics with handmade textures. Lettering is a significant compositional element, often integrated into pattern and print work. Selected Instagram images suggest varied output: botanical and geometric repeats, illustrative all-over patterns, and lettering-led designs. The work sits at the intersection of editorial illustration and surface pattern design.
 
 ## Techniques and Tools
 
+Digital vector graphics with handmade texture integration. Lettering trained at the Martina Flor Academy (Lettering Seminar, 2022–2023). Layout design and typesetting experience from years of publishing work. Skills self-listed include illustration, hand lettering, graphic design, pattern design, composition, and briefing.
+
 ## Markets and Clients
+
+Surface pattern available for licensing (non-exclusive, exclusive, and full buyout options). Illustration clients include Monocle Magazine, PuffinKids Toys, Map to Tales, L'Art Architecture Studio, Wonderland Foundation & Publishing, Móra Publishing House, Reftanár Publishing House. Agency clients: Onion Creative, WMLY&R Creative Agency. Also worked with the International Triennial of Textile Arts.
 
 ## Portfolio and Presence
 
+- Website: https://laurasasdi.com/pattern
+- Instagram: @laurasasdi (1,379 followers)
+- Contact: hello.laurasasdi@gmail.com
+
 ## Career Path
+
+BA Graphic Design (2012–2015) and MA Graphic Design (2015–2017), Metropolitan University Budapest. Lettering Seminar, Martina Flor Academy (2022–2023). Freelanced since graduation: children's book illustration, games, maps, and publishing layout. Art teacher at Metropolitan University Budapest (2021–2023) and Corvin Art School (2019–2024); continues teaching at @manufaktura_workshop. Exhibition awards: Golden Drawing Pin (2017–2021), Ilustrofest Belgrade (2022, 2024), Kunsthalle Budapest (2022), Budapest Illustration Festival (2019, 2021).
 
 ## Pattern Focus
 
+Selected Instagram images suggest botanical repeats, geometric all-overs, illustrative character-based patterns, and lettering-integrated surface prints. Selected placements indicate apparel and product contexts. Surface pattern licensing available in non-exclusive, exclusive, and buyout formats.
+
 ## Connections
+
+- [[Monocle Magazine]]
+- [[PuffinKids Toys]]
+- [[L'Art Architecture Studio]]
+- [[Illustration]]
+- [[Surface Pattern Design]]
+- [[Lettering]]
+- [[Budapest]]

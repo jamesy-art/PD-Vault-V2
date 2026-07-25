@@ -1,0 +1,24 @@
+{
+  "slug": "peach-coral-studio",
+  "name": "Peach Coral Studio",
+  "website": "https://peachcoralstudio.thepatterncloud.com/shop.php#/studio/home",
+  "source_md": "wiki/studios/_pending-patterncloud/peach-coral-studio.md",
+  "scraped_at": "2026-06-05T23:24:09.963Z",
+  "status": "scraped",
+  "website_title": "Peach Coral Studio",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://peachcoralstudio.thepatterncloud.com/shop.php#/studio/home",
+      "text": "Peach Coral Studio",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://peachcoralstudio.thepatterncloud.com/shop.php#/studio/home\nPeach Coral Studio",
+  "website_about_clean": "SOURCE: https://peachcoralstudio.thepatterncloud.com/shop.php#/studio/home\nPeach Coral Studio",
+  "website_images": [],
+  "scrape_quality": "weak",
+  "scrape_quality_score": 25,
+  "usable_for_claude": false,
+  "enrichment_status": "needs_manual_review"
+}

@@ -31,7 +31,7 @@ bio: ''
 website: 'https://mashalitvinova.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mashalitvinova.design
 profile_url: ''
 instagram_images:
@@ -48,9 +48,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MashaLitvinova
 website_meta_description: >-
   Masha Litvinova is a surface designer and illustrator, based in San francisco,
@@ -310,7 +313,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -331,45 +334,187 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-2.cdninstagram.com/v/t51.2885-19/447222945_1543037949612293_2972349269965208539_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFWCu7HgmYjZ5JKvHI6tfq7l9UVEyiXD4kMoFYsrfwAk9C0m_Q6-CoofFaTszs193Zz8pWDWb76kO5B7SmbqToK&_nc_ohc=vA3VEcSRGA0Q7kNvwHKOwhq&_nc_gid=YIHkAyn0lT23w9CAXdPcSQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4nO-J2Ki-PAKf-EWIGrpgWbXWut3ApR09S42zNDRioVw&oe=6A13F8A2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-2.cdninstagram.com/v/t51.2885-19/447222945_1543037949612293_2972349269965208539_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFWCu7HgmYjZ5JKvHI6tfq7l9UVEyiXD4kMoFYsrfwAk9C0m_Q6-CoofFaTszs193Zz8pWDWb76kO5B7SmbqToK&_nc_ohc=vA3VEcSRGA0Q7kNvwHKOwhq&_nc_gid=YIHkAyn0lT23w9CAXdPcSQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4nO-J2Ki-PAKf-EWIGrpgWbXWut3ApR09S42zNDRioVw&oe=6A13F8A2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mashalitvinova.design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3676
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mashalitvinova.design/profile/447222945_1543037949612293_2972349269965208539_n.jpg
+instagram_profile_image_bytes: 90370
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mashalitvinova.design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mashalitvinova.design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mashalitvinova.design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mashalitvinova.design/profile/447222945_1543037949612293_2972349269965208539_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mashalitvinova.design/profile/447222945_1543037949612293_2972349269965208539_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mashalitvinova.design/profile/447222945_1543037949612293_2972349269965208539_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mashalitvinova.design/profile/447222945_1543037949612293_2972349269965208539_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163798665280_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163865765171_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1685982309_3118568103588663893_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035623092463_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035631411771_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035648125519_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891419649115_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891436638296_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891495148508_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1691683258_3166390761389912082_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1709665227_3317234816393412403_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1725552028_3450502955511377070_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1725552028_3450502956199283607_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754151665_3690414108131621483_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754151665_3690414108131646234_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005511786222_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005646010433_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239498753928_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239691658778_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239767234179_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113496612326_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505046681_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505083243_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505119305_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206735330374_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206861053117_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206869630636_59780304155.jpg
+instagram_image_count: 27
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035623092463_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891495148508_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1691683258_3166390761389912082_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005646010433_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239498753928_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239767234179_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505046681_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206735330374_59780304155.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163865765171_59780304155.jpg
+  - >-
+    ../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1685982309_3118568103588663893_59780304155.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mashalitvinova.design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mashalitvinova.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mashalitvinova.design/profile/447222945_1543037949612293_2972349269965208539_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163798665280_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163798665280_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163865765171_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1683395236_3096866163865765171_59780304155.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1685982309_3118568103588663893_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1685982309_3118568103588663893_59780304155.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035623092463_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035623092463_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035631411771_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035631411771_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035648125519_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687278821_3129444035648125519_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891419649115_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891419649115_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891436638296_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891436638296_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891495148508_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1687881906_3134490891495148508_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1691683258_3166390761389912082_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1691683258_3166390761389912082_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1709665227_3317234816393412403_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1709665227_3317234816393412403_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1725552028_3450502955511377070_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1725552028_3450502955511377070_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1725552028_3450502956199283607_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1725552028_3450502956199283607_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754151665_3690414108131621483_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754151665_3690414108131621483_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754151665_3690414108131646234_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754151665_3690414108131646234_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005511786222_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005511786222_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005646010433_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754258584_3691311005646010433_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239498753928_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239498753928_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239691658778_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239691658778_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239767234179_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754409624_3692278239767234179_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113496612326_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113496612326_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505046681_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505046681_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505083243_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505083243_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505119305_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754657829_3694660113505119305_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206735330374_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206735330374_59780304155.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206861053117_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206861053117_59780304155.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206869630636_59780304155.jpg)<br><!-- image:../../assets/designers/mashalitvinova.design/instagram/mashalitvinova.design_1754928055_3696632206869630636_59780304155.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Masha Litvinova is a California-based surface designer and illustrator specialising in sleepwear, home textiles, and wallpaper. A career pivot from professional makeup artistry — over 20 years working across fashion and beauty brands in Russia and the US — she brings a refined understanding of colour psychology and trend adaptation to her pattern work. Litvinova holds a Fashion Design degree from South Ural University and is based in San Francisco. Designs available through Patternbank, Spoonflower, and The Textile District.
+
 ## Style and Aesthetic
+
+Litvinova specialises in conversational, floral, and ornate prints rendered in bold, expressive colour combinations. Selected Instagram images suggest hand-drawn and hand-painted compositions with confident, vivid palettes — designed to add visual energy to home interiors and sleepwear. The work has a warm, handmade quality appropriate to the intimate and home textile categories.
 
 ## Techniques and Tools
 
+Works in traditional media: watercolour, inks, pencils, and gouache; also digitally. Pattern elements delivered in layered files. Additional services include fashion illustration, trend research, recolouring, and layout adaptation. Custom design from $600; premade exclusives at $600.
+
 ## Markets and Clients
+
+Sleepwear, home textiles (fabric, ceramics, wallpaper), and dinnerware. Ready-to-print design library for industry professionals. No documented brand clients at this time. Designs available via Patternbank, Spoonflower, and The Textile District. Selected placements suggest home and textile product applications.
 
 ## Portfolio and Presence
 
+- Website: https://mashalitvinova.com
+- Instagram: https://instagram.com/mashalitvinova.design
+- Also: Patternbank, Spoonflower, The Textile District
+- Secondary portfolio: @mashalitvinova.art
+
 ## Career Path
+
+Grew up in a creative household; mother was an artist and dressmaker. Studied Fashion Design at South Ural University; also trained in makeup artistry. Worked in beauty and fashion for 20+ years across Russia and the US. Pivoted to surface design, focusing on sleepwear and home textiles. Now based in San Francisco, California.
 
 ## Pattern Focus
 
+Selected patterns suggest bold illustrated designs in conversational, floral, and ornate registers — vivid, expressive, and hand-painted in character. Positioned as sleepwear and home textile print design, suitable for licensed collections and print-on-demand platforms.
+
 ## Connections
+
+- [[Patternbank]]
+- [[Spoonflower]]
+- [[The Textile District]]
+- [[Sleepwear Market]]
+- [[Home Textile Market]]
+- [[Flower Pattern]]
+- [[Conversational Print]]

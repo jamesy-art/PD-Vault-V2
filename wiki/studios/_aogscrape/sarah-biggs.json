@@ -1,0 +1,53 @@
+{
+  "slug": "sarah-biggs",
+  "name": "Sarah Biggs",
+  "website": "https://sarahbiggs.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/sarah-biggs.md",
+  "scraped_at": "2026-06-05T23:24:34.414Z",
+  "status": "scraped",
+  "website_title": "Sarah Biggs Design",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://sarahbiggs.thepatterncloud.com/home.php",
+      "text": "Sarah Biggs Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://sarahbiggs.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_397/homePage/untitled-1.jpg",
+        "https://images.v2.thepatterncloud.com//studio_397/homePage/qusbgwxvehmk.jpg",
+        "https://sarahbiggs.thepatterncloud.com/img/social/facebook.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/instagram.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/pinterest.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/twitter.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/facebookB.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/instagramB.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/pinterestB.png",
+        "https://sarahbiggs.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://sarahbiggs.thepatterncloud.com/about.php",
+      "text": "Sarah Biggs Design",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://sarahbiggs.thepatterncloud.com/home.php\nSarah Biggs Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://sarahbiggs.thepatterncloud.com/about.php\nSarah Biggs Design",
+  "website_about_clean": "SOURCE: https://sarahbiggs.thepatterncloud.com/home.php\nSarah Biggs Design HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://sarahbiggs.thepatterncloud.com/about.php\nSarah Biggs Design",
+  "website_images": [
+    "https://sarahbiggs.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_397/homePage/untitled-1.jpg",
+    "https://images.v2.thepatterncloud.com//studio_397/homePage/qusbgwxvehmk.jpg",
+    "https://sarahbiggs.thepatterncloud.com/img/social/facebook.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/instagram.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/pinterest.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/twitter.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/facebookB.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/instagramB.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/pinterestB.png",
+    "https://sarahbiggs.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

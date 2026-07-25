@@ -5,7 +5,7 @@ import matter from "gray-matter"
 const DESIGNERS_DIR = "./wiki/designers/_staging"
 
 const TEST_MODE = true
-const TEST_USERNAMES = ["amelia_graham_print"]
+const TEST_USERNAMES = ["zotosdesign"]
 
 const WRITE_FILES = true
 

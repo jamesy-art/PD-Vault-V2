@@ -17,12 +17,12 @@ skills:
 country: ''
 can_use: 'Yes'
 instagram_handle: juanibengali.art
-instagram: 'https://instagram.com/@juanibengali.art'
+instagram: 'https://instagram.com/juanibengali.art'
 bio: ''
 website: 'https://juanibengali.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/juanibengali.art
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Ilustración | Juani Bengali
 website_meta_description: >-
   Juani Bengali es el proyecto creativo de Ana García López. Ilustración, diseño
@@ -263,7 +266,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -280,45 +283,191 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/562386770_18067943561251197_504078716969234519_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE9T7X0B-tHPhkqSJH2rM5zbmThFLX5tfvlCShBUirXaJ3LL9vbqSHQEGIpTRC3aEo&_nc_ohc=uigDvLEj4kIQ7kNvwFV-z4Y&_nc_gid=lD7qU9VmV-CsOzJrJ6-goA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Xh2P9s9To7-VryfA-7HEUaGEZ4gBt7_hQDYRGQqik4A&oe=6A13E3EA&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.82787-19/562386770_18067943561251197_504078716969234519_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE9T7X0B-tHPhkqSJH2rM5zbmThFLX5tfvlCShBUirXaJ3LL9vbqSHQEGIpTRC3aEo&_nc_ohc=uigDvLEj4kIQ7kNvwFV-z4Y&_nc_gid=lD7qU9VmV-CsOzJrJ6-goA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Xh2P9s9To7-VryfA-7HEUaGEZ4gBt7_hQDYRGQqik4A&oe=6A13E3EA&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7362
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/juanibengali.art/profile/562386770_18067943561251197_504078716969234519_n.jpg
+instagram_profile_image_bytes: 121707
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/juanibengali.art/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/juanibengali.art/profile/562386770_18067943561251197_504078716969234519_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/juanibengali.art/profile/562386770_18067943561251197_504078716969234519_n.jpg
+profile_image_local: >-
+  ../../assets/designers/juanibengali.art/profile/562386770_18067943561251197_504078716969234519_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/juanibengali.art/profile/562386770_18067943561251197_504078716969234519_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765184400_3782933651449901561_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765353600_3784383188920098414_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729815972446038_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816425451128_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816467357050_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756192795145_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756201197937_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756385731331_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225358949322834_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225360383761211_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731536115_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731550778_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402587682877_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402654811036_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862761083172_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862886898985_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889755397897032_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889759793528086_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474285309256760_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474289964902041_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833003498166529_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833004085368226_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772025385_3840349157639139969_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772025385_3840349162806553824_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730804158642617_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730805635079075_37488259196.jpg
+instagram_image_count: 26
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225360383761211_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731536115_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402587682877_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862886898985_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889755397897032_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474285309256760_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833003498166529_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730804158642617_37488259196.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765184400_3782933651449901561_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765353600_3784383188920098414_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816467357050_37488259196.jpg
+  - >-
+    ../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756385731331_37488259196.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # juanibengali.art
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/juanibengali.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/juanibengali.art/profile/562386770_18067943561251197_504078716969234519_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765184400_3782933651449901561_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765184400_3782933651449901561_37488259196.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765353600_3784383188920098414_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765353600_3784383188920098414_37488259196.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729815972446038_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729815972446038_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816425451128_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816425451128_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816467357050_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1765909800_3781729816467357050_37488259196.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756192795145_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756192795145_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756201197937_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756201197937_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756385731331_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1766088000_3781730756385731331_37488259196.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225358949322834_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225358949322834_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225360383761211_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770460952_3827225360383761211_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731536115_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731536115_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731550778_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770634800_3828273155731550778_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402587682877_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402587682877_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402654811036_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770811200_3829418402654811036_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862761083172_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862761083172_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862886898985_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1770980400_3831314862886898985_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889755397897032_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889755397897032_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889759793528086_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771493913_3835889759793528086_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474285309256760_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474285309256760_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474289964902041_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771682675_3837474289964902041_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833003498166529_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833003498166529_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833004085368226_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1771844642_3838833004085368226_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772025385_3840349157639139969_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772025385_3840349157639139969_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772025385_3840349162806553824_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772025385_3840349162806553824_37488259196.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730804158642617_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730804158642617_37488259196.jpg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730805635079075_37488259196.jpg)<br><!-- image:../../assets/designers/juanibengali.art/instagram/juanibengali.art_1772190093_3841730805635079075_37488259196.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Juani Bengali is the creative project of Ana García López, a Spanish illustrator, designer, and architect based in Paris. Her practice spans illustration, product design, surface pattern, murals, and editorial work. From March 2023 to December 2025, she worked full-time as Product Designer, Illustrator, and Stand Designer for DOIY Design and Eat My Socks (part of The Wow Effect Company), producing documented seasonal product lines across socks, hair accessories, scarves, and beach goods. Additional collaborations include Skinnydip London, The Barcelonian, Mind the Fluff, Ciccia Socks, The Hands, Sal de tu rollo, and Mondo Lirondo. Press coverage spans Brillo Magazine (2022), BITS Magazine (2025), and Speelbound Magazine (Winter 2025).
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest bold, graphic illustration with strong character expression and vibrant colour. Juani's visual signature features chunky shapes, expressive line work, and an irreverent, joyful register. The aesthetic sits between character illustration and surface pattern, with strong commercial legibility across gifting, stationery, and accessories markets.
 
 ## Techniques and Tools
 
+Juani's practice spans illustration, product design, stand design, mural painting (glass and exterior), and children's book development. Her architectural training (Allies and Morrison London; DBLO Associates London; ATELIER 8000 Prague) informs compositional confidence and spatial awareness. No specific digital software is documented in available sources.
+
 ## Markets and Clients
+
+- Eat My Socks / EMS Accessories / DOIY Design (full-time 2023–2025): Christmas socks FW24, hair claws SS25/FW25/SS26, flat socks FW25/SS26, scarves FW25, beach cooler bags / hand fans / pouches SS26
+- Skinnydip London (documented collaboration)
+- The Barcelonian (editorial)
+- Mind the Fluff, Ciccia Socks, The Hands, Sal de tu rollo, Mondo Lirondo (collaborations)
+- Festival Cruïlla / Poblenou Urban District (mural, July 2025)
+- Windows Art Circuit, Poblenou (mural, May 2025)
+- Kidswear, stationery categories identified
 
 ## Portfolio and Presence
 
+- Website: https://juanibengali.com
+- Instagram: https://instagram.com/juanibengali.art (3,438 followers, 312 posts)
+
 ## Career Path
+
+Ana García López trained as an architect, working at ATELIER 8000 (Prague), DBLO Associates (London), and Allies and Morrison (London) before establishing Juani Bengali as her creative practice. Awards: Shortlisted, World Illustration Awards 2023; 1st Prize, Premio Arte Joven Castilla y León. From 2023 to December 2025 she worked full-time at Eat My Socks / EMS Accessories designing seasonal product lines. She now operates independently from Paris.
 
 ## Pattern Focus
 
+Bold, character-led surface work with strong illustration roots. Selected patterns suggest repeat and scattered motif structures in a vivid palette. Selected placements confirm product contexts across socks, accessories, and lifestyle goods — evidencing full product design capability alongside illustration.
+
 ## Connections
+
+- [[Eat My Socks]] — documented employer (2023–2025)
+- [[Skinnydip London]] — documented collaboration
+- [[DOIY Design]] — documented employer
+- [[Gifting]] — market
+- [[Stationery]] — market
+- [[Kidswear]] — market

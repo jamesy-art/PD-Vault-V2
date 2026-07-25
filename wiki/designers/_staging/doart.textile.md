@@ -23,7 +23,7 @@ bio: ''
 website: 'https://duartedaniela.wixsite.com/doartdesign/portifolio'
 website_about: ''
 accepted: 17/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/doart.textile
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Design de Estampas | DoArt Design
 website_meta_description: >-
   Ilustração e Design de Estampas Ilustradora e Designer de Estampas freelancer.
@@ -166,7 +169,7 @@ categories:
   - Womenswear
   - Menswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -186,45 +189,207 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/176083512_3808976792555110_602959904289604352_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHCKCgWEAJ4E5VqpdbtnMYu6yZOHBWKnXBkjJrSupEYVsbkCk0rXAoBqBl9sSajgkk&_nc_ohc=nhCalrpW34wQ7kNvwG2b_fa&_nc_gid=ph3L1kCfJx6W5fAKXBoj_g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zf-z_BUuKoYRDB9LW88KwUBLvx67cz-VUx94eTw_9Aw&oe=6A13DC5B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/176083512_3808976792555110_602959904289604352_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHCKCgWEAJ4E5VqpdbtnMYu6yZOHBWKnXBkjJrSupEYVsbkCk0rXAoBqBl9sSajgkk&_nc_ohc=nhCalrpW34wQ7kNvwG2b_fa&_nc_gid=ph3L1kCfJx6W5fAKXBoj_g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5zf-z_BUuKoYRDB9LW88KwUBLvx67cz-VUx94eTw_9Aw&oe=6A13DC5B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/doart.textile/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4902
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/doart.textile/profile/176083512_3808976792555110_602959904289604352_n.jpg
+instagram_profile_image_bytes: 189437
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/doart.textile/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/doart.textile/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/doart.textile/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/doart.textile/profile/176083512_3808976792555110_602959904289604352_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/doart.textile/profile/176083512_3808976792555110_602959904289604352_n.jpg
+profile_image_local: >-
+  ../../assets/designers/doart.textile/profile/176083512_3808976792555110_602959904289604352_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/doart.textile/profile/176083512_3808976792555110_602959904289604352_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608274953926_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608291627524_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608300203748_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608308448385_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498764163922_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498780807654_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498780975408_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582761747487_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582770068414_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582778435909_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582786848243_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1600852955_2404451318855660050_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1602441429_2417776411119918862_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1602603263_2419133966521987847_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1605196597_2440888435318400582_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1611252336_2491687655824084101_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1617397274_2543235130732705677_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500695146800_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703476853_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703629901_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940371687053_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940589939540_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940589997880_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940598239312_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940623511024_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940640258853_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629597569_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629627196_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836637940123_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836831023331_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836831079173_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839393759_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839436812_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839469535_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836856006520_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836856047253_3133263196.jpg
+instagram_image_count: 36
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608308448385_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582778435909_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1602603263_2419133966521987847_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1605196597_2440888435318400582_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500695146800_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703629901_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629597569_3133263196.jpg
+  - >-
+    ../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839436812_3133263196.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # doart.textile
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/doart.textile/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/doart.textile/profile/176083512_3808976792555110_602959904289604352_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608274953926_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608274953926_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608291627524_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608291627524_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608300203748_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608300203748_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608308448385_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1583424949_2258254608308448385_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498764163922_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498764163922_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498780807654_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498780807654_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498780975408_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1585333476_2274264498780975408_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582761747487_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582761747487_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582770068414_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582770068414_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582778435909_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582778435909_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582786848243_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1598965307_2388616582786848243_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1600852955_2404451318855660050_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1600852955_2404451318855660050_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1602441429_2417776411119918862_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1602441429_2417776411119918862_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1602603263_2419133966521987847_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1602603263_2419133966521987847_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1605196597_2440888435318400582_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1605196597_2440888435318400582_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1611252336_2491687655824084101_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1611252336_2491687655824084101_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1617397274_2543235130732705677_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1617397274_2543235130732705677_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500695146800_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500695146800_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703476853_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703476853_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703629901_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1691007624_3160723500703629901_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940371687053_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940371687053_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940589939540_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940589939540_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940589997880_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940589997880_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940598239312_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940598239312_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940623511024_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940623511024_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940640258853_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1702465597_3256839940640258853_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629597569_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629597569_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629627196_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836629627196_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836637940123_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836637940123_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836831023331_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836831023331_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836831079173_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836831079173_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839393759_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839393759_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839436812_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839436812_3133263196.jpg --> | [x] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839469535_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836839469535_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836856006520_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836856006520_3133263196.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836856047253_3133263196.jpg)<br><!-- image:../../assets/designers/doart.textile/instagram/doart.textile_1709466627_3315568836856047253_3133263196.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Daniela Duarte is a Brazilian surface pattern designer and illustrator based in Barcelona, working as a freelancer under the brand DoArt Design. She specialises in fashion and apparel prints — primarily womenswear and beachwear — and brings both in-house industry experience and an active academic research practice in textile arts, feminism, and care aesthetics.
+
 ## Style and Aesthetic
+
+Artistic approach to print and pattern with a fashion-forward sensibility. Selected Instagram images (8 patterns) suggest colourful, expressive all-over patterns with a distinctive illustrative character — consistent with her focus on womenswear and athleisure. A cross-cultural perspective shaped by Brazilian heritage and Barcelona-based working life is evident in the work.
 
 ## Techniques and Tools
 
+Both manual and digital illustration and surface design. Works across hand and digital modes. Patternbank presence indicates industry-standard digital repeat production. Co-creates with brands to align prints with their visual identity.
+
 ## Markets and Clients
+
+Primarily womenswear and beachwear. Has worked with multiple fashion brands as an in-house designer; now freelancing. Open to collaborative commissions. Patternbank listed for direct licensing access.
 
 ## Portfolio and Presence
 
+- Website: duartedaniela.wixsite.com/doartdesign/portifolio (PDF portfolio available)
+- Instagram: @doart.textile (~1,378 followers, 648 posts)
+- Patternbank: listed
+
 ## Career Path
+
+Brazilian, currently based in Barcelona. Has worked as an in-house print and pattern designer with several fashion brands. Transitioned to freelance with a client base in womenswear and beachwear. Also a PhD student researching collective textile arts, feminism, and care aesthetics — an academic thread running alongside active commercial practice.
 
 ## Pattern Focus
 
+Selected Instagram images suggest bold, fashion-forward surface patterns suited to apparel and athleisure. Pattern types lean toward expressive all-overs and illustrative motif arrangements rather than classic geometric or ditsy repeats.
+
 ## Connections
+
+- [[Womenswear]] — primary market
+- [[Beachwear]] — key market segment
+- [[Patternbank]] — licensing platform presence
+- [[Illustration]] — foundational technique
+- [[Spain]] — current base

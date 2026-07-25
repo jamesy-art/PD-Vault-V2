@@ -18,7 +18,7 @@ bio: ''
 website: 'https://AmeliaGraham.com'
 website_about: ''
 accepted: 11/06/25
-level: level_4
+level: level_5
 asset_folder: wiki/assets/designers/amelia_graham_print
 profile_url: ''
 instagram_images:
@@ -105,7 +105,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: ready_for_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Textile Designer Amelia works cross-discipline in the fields of fashion, art,
   and interiors
@@ -348,16 +348,38 @@ trash_image_count: 3
 
 ## Overview
 
+London-based textile print designer with a cross-disciplinary practice spanning fashion, interiors, and art. Amelia Graham launched her eponymous line in 2014 and has built a client list including LVMH, Nike, The W Hotel, Crocs, and the Saatchi Gallery. Her own product line — prints on fabric, art prints, and scarves — is stocked by the Tate Modern and the National Portrait Gallery.
+
 ## Style and Aesthetic
+
+Geometric and abstract print vocabulary with structural precision. The designer describes her work as "free and measured rhythms" — a signature that sits between fashion and interior applications. Selected Instagram patterns suggest composed, architectural print work with a strong graphic identity and a belief in textile design as a discipline without platform boundaries.
 
 ## Techniques and Tools
 
+Cross-discipline print design working from brief to production. Output spans fashion fabrics, wallpaper, art prints, beauty packaging, interior prints, store window graphics, rugs, and contract furnishings. Also consults for start-up and eco brands. Archive available for exclusive purchase.
+
 ## Markets and Clients
+
+Fashion (womenswear and menswear), hotel and contract interiors, luxury retail, and art institutions. Documented clients: LVMH, Nike, The W Hotel, Crocs, Saatchi Gallery. Line stocked by Tate Modern and National Portrait Gallery. Available for commission.
 
 ## Portfolio and Presence
 
+- Website: AmeliaGraham.com
+- Instagram: @amelia_graham_print (21,203 followers, 2,014 posts)
+
 ## Career Path
+
+Chelsea College of Art and Design graduate. Spent a decade designing womenswear print in London, then freelanced in Paris for international fashion brands. Returned to London in 2012, expanding into interiors, hospitality, and retail environments — including a rug commission for the W Hotel and department store window graphics in Amsterdam. Launched the Amelia Graham London line in 2014.
 
 ## Pattern Focus
 
+Geometric and arithmetic print with an architectural, structured quality. Selected patterns suggest precise, rhythm-driven compositions that translate across fashion, interior, and art contexts. Archive of prints available for exclusive licensing; pattern work is both commercial and collectible.
+
 ## Connections
+
+- [[Geometric Pattern]] — primary design vocabulary
+- [[Chelsea College of Art and Design]] — graduate
+- [[raw/companies processed/LVMH]] — documented client
+- [[wiki/companies/_ready/nike]] — documented client
+- [[Interiors Market]] — active alongside fashion market
+- [[Tate Modern]] — retail stockist

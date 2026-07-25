@@ -27,7 +27,7 @@ bio: ''
 website: 'https://deamarianastasia.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/deamarianastasia
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Surface Pattern Designer | Dea Maria Anastasia
 website_meta_description: >-
   Anastasia Poljatschenko is a surface pattern designer, who creates repeating
@@ -277,7 +280,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -294,45 +297,154 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/481877467_998365568858244_6170171908600510663_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFbYXN8uYrHJk6LFYmqzZfCOhidjN4RYHR2GUpUK7YZs1fbpvXV-fsSnWJJyEXOCOA&_nc_ohc=W1JuQjLNrdYQ7kNvwGiSTb9&_nc_gid=zUHgwOEOTWP__Efti6qdNQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5SeQoGXNrCutYMQcgt34ApRrN4ewk7fbeMZfIuj764pg&oe=6A13E027&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/481877467_998365568858244_6170171908600510663_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFbYXN8uYrHJk6LFYmqzZfCOhidjN4RYHR2GUpUK7YZs1fbpvXV-fsSnWJJyEXOCOA&_nc_ohc=W1JuQjLNrdYQ7kNvwGiSTb9&_nc_gid=zUHgwOEOTWP__Efti6qdNQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5SeQoGXNrCutYMQcgt34ApRrN4ewk7fbeMZfIuj764pg&oe=6A13E027&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2652
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/deamarianastasia/profile/481877467_998365568858244_6170171908600510663_n.jpg
+instagram_profile_image_bytes: 104258
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/deamarianastasia/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/deamarianastasia/profile/481877467_998365568858244_6170171908600510663_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/deamarianastasia/profile/481877467_998365568858244_6170171908600510663_n.jpg
+profile_image_local: >-
+  ../../assets/designers/deamarianastasia/profile/481877467_998365568858244_6170171908600510663_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/deamarianastasia/profile/481877467_998365568858244_6170171908600510663_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873261344113_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873278155114_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873487756700_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873487893137_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584474940362_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584474977006_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584475129497_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584625954616_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246225721802_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246234084613_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1701266959_3246785041676951111_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1744629780_3610538745036809821_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254512773034_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254596682048_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656299210014155_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656300896145621_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638244_3870656298564113805_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549672243961194_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549684315220396_990537725.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584625954616_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246225721802_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1701266959_3246785041676951111_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1744629780_3610538745036809821_990537725.webp
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254512773034_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656299210014155_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656300896145621_990537725.jpg
+  - >-
+    ../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549672243961194_990537725.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # deamarianastasia
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/deamarianastasia/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/deamarianastasia/profile/481877467_998365568858244_6170171908600510663_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873261344113_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873261344113_990537725.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873278155114_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873278155114_990537725.webp --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873487756700_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873487756700_990537725.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873487893137_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1680239851_3070396873487893137_990537725.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584474940362_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584474940362_990537725.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584474977006_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584474977006_990537725.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584475129497_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584475129497_990537725.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584625954616_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1689237615_3145875584625954616_990537725.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246225721802_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246225721802_990537725.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246234084613_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1692085484_3169765246234084613_990537725.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1701266959_3246785041676951111_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1701266959_3246785041676951111_990537725.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1744629780_3610538745036809821_990537725.webp)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1744629780_3610538745036809821_990537725.webp --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254512773034_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254512773034_990537725.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254596682048_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1749541740_3651743254596682048_990537725.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656299210014155_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656299210014155_990537725.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656300896145621_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638243_3870656300896145621_990537725.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638244_3870656298564113805_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1775638244_3870656298564113805_990537725.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549672243961194_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549672243961194_990537725.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549684315220396_990537725.jpg)<br><!-- image:../../assets/designers/deamarianastasia/instagram/deamarianastasia_1778248170_3892549684315220396_990537725.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Anastasia Poljatschenko is a Finland-based surface pattern designer and graphic designer. Her website lists an online library of 400+ production-ready patterns for all surfaces, and she operates under the studio name DMA (Dea Maria Anastasia). Her practice spans branding, surface pattern design, digital illustration, and drawing and painting, with client work that spans fashion, textile, and brand sectors.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a commercially minded practice with strong colour work and a clean approach to repeat construction. Client testimonials consistently highlight her eye for colour and her ability to balance freshness with commercial applicability. Work skews toward patterns that are distinctive but market-ready rather than purely artistic.
 
 ## Techniques and Tools
 
+Skills include illustration, painting, graphic design, pattern design, colour theory, repeat construction, and market adaptation. The studio offers digital illustrations, drawing and painting, and branding and marketing materials. Workflow covers concept through to production-ready repeats.
+
 ## Markets and Clients
+
+Documented clients include Nosh Company (fashion/textile), Toive Company, and Blaa Oy. Also completed graphic design work for RAK DAO. Open to commissions and collaborative projects across fashion, textile, and lifestyle. The 400+ pattern library supports direct licensing.
 
 ## Portfolio and Presence
 
+- Website: https://deamarianastasia.com
+- Instagram: https://instagram.com/deamarianastasia (484 followers, 701 posts)
+- Also co-founder: @groove.media.io
+
 ## Career Path
+
+Finland-based designer working across surface pattern design and graphic design. Co-founded groove.media.io alongside her independent design practice. Client work covers Finnish brands as well as international projects, with a documented ability to adapt to different briefs and markets.
 
 ## Pattern Focus
 
+Library of 400+ production-ready patterns across multiple surfaces. Selected Instagram images suggest a broad stylistic range — colour-led repeat patterns suited to apparel and lifestyle product applications. Strong emphasis on commercial repeatability alongside creative originality.
+
 ## Connections
+
+- [[Nosh Company]] — documented client
+- [[Toive Company]] — documented client
+- [[Finland]] — based

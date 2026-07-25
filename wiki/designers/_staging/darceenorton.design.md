@@ -23,7 +23,7 @@ bio: ''
 website: 'https://artsthread.com/profile/darcee-norton'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/darceenorton.design
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: darcee-norton
 website_meta_description: >-
   Darcee Norton is an illustrator and surface pattern designer who enriches her
@@ -298,7 +301,7 @@ categories:
   - Menswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -315,45 +318,190 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/522976155_18042181823639951_2518535871595684660_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHVI0D_LtYGQaGngbS_KCqdWF5JqFUMa33sZnewuEF3EF_t7e2PKCHNBCB13GAmcU8&_nc_ohc=5xLBoQ8qKKwQ7kNvwEuUgUf&_nc_gid=9ry2XP-sS9s7gtm1vCudVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7bkpWOQfsyf2Dw3qlHkRnYY96zhnXRfnHYwmJgpOYD8w&oe=6A13D915&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/522976155_18042181823639951_2518535871595684660_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHVI0D_LtYGQaGngbS_KCqdWF5JqFUMa33sZnewuEF3EF_t7e2PKCHNBCB13GAmcU8&_nc_ohc=5xLBoQ8qKKwQ7kNvwEuUgUf&_nc_gid=9ry2XP-sS9s7gtm1vCudVw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7bkpWOQfsyf2Dw3qlHkRnYY96zhnXRfnHYwmJgpOYD8w&oe=6A13D915&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8283
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/darceenorton.design/profile/522976155_18042181823639951_2518535871595684660_n.jpg
+instagram_profile_image_bytes: 324590
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/darceenorton.design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/darceenorton.design/profile/522976155_18042181823639951_2518535871595684660_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/darceenorton.design/profile/522976155_18042181823639951_2518535871595684660_n.jpg
+profile_image_local: >-
+  ../../assets/designers/darceenorton.design/profile/522976155_18042181823639951_2518535871595684660_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/darceenorton.design/profile/522976155_18042181823639951_2518535871595684660_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009176978514_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009260895145_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009386786085_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009395177973_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099386587475_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099571071119_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099587694100_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099596220065_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395691693762_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395767075415_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395859436961_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570694896106_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703175083_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703246320_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570711513945_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570711647401_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570854100123_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953815759086421_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953815759234678_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953816069595583_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953816069596359_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001005852105_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001165261846_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181877720_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181907882_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323264822_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323319491_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323391810_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218219012519_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218403358267_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218411941345_49171431950.jpg
+instagram_image_count: 31
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703175083_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181877720_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323319491_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323391810_49171431950.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009176978514_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099386587475_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395767075415_49171431950.jpg
+  - >-
+    ../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570694896106_49171431950.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # darceenorton.design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/darceenorton.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/darceenorton.design/profile/522976155_18042181823639951_2518535871595684660_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009176978514_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009176978514_49171431950.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009260895145_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009260895145_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009386786085_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009386786085_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009395177973_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1723730039_3435219009395177973_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099386587475_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099386587475_49171431950.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099571071119_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099571071119_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099587694100_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099587694100_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099596220065_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1724512778_3441785099596220065_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395691693762_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395691693762_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395767075415_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395767075415_49171431950.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395859436961_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726411459_3457712395859436961_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570694896106_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570694896106_49171431950.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703175083_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703175083_49171431950.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703246320_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570703246320_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570711513945_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570711513945_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570711647401_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570711647401_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570854100123_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1726602096_3459311570854100123_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953815759086421_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953815759086421_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953815759234678_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953815759234678_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953816069595583_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953816069595583_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953816069596359_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1728228378_3472953816069596359_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001005852105_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001005852105_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001165261846_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001165261846_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181877720_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181877720_49171431950.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181907882_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1749979923_3655419001181907882_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323264822_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323264822_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323319491_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323319491_49171431950.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323391810_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1752251559_3674474865323391810_49171431950.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218219012519_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218219012519_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218403358267_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218403358267_49171431950.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218411941345_49171431950.jpg)<br><!-- image:../../assets/designers/darceenorton.design/instagram/darceenorton.design_1753026223_3680973218411941345_49171431950.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Darcee Norton is a London-based illustrator and surface pattern designer specialising in narrative-led, character-driven work for interior applications. She is a First Class graduate in Textile Design (BA Hons) from Leeds Arts University, with a specialism in wallpaper, home furnishings, and textiles for interiors.
+
 ## Style and Aesthetic
+
+Works primarily in graphite and watercolour, creating intricate hand-drawn illustrations that reward close inspection. Designs draw on historical contexts, folklore, and world-building — embracing individual expression over convention. The visual approach is detailed, figurative, and story-embedded. Selected placement images suggest her work applied to interior and textile contexts. Selected patterns indicate finely rendered illustrative repeat or placement designs.
 
 ## Techniques and Tools
 
+Primary media: graphite and watercolour (hand-drawn). Combines hand illustration with digital rendering. Specialisms include textiles for interiors, print, and embroidery. Portfolio project "Whispers of the Deep" blends hand-drawn illustration with digital rendering in a palette of tranquil teals, serene blues, and accent colours.
+
 ## Markets and Clients
+
+Interior-focused: wallpaper and home furnishings. Target market described as those who share "a love of the weird and wonderful" — individuality-driven interior design at the curated, design-led end of the market. Entered the Global Creative Graduate Showcase 2025.
 
 ## Portfolio and Presence
 
+- Instagram: https://instagram.com/darceenorton.design (396 followers, 26 posts)
+- ArtsThread: artsthread.com/profile/darcee-norton
+
 ## Career Path
+
+First Class graduate in Textile Design (BA Hons) from Leeds Arts University. Based in London. Interior-focused practice built around character development, narrative, and storytelling as a design methodology. Graduated with distinction and entered the Global Creative Graduate Showcase 2025.
 
 ## Pattern Focus
 
+Selected Instagram patterns suggest intricate, illustrative designs with strong narrative content. The "Whispers of the Deep" collection is the principal documented work: an underwater fantasy narrative following Hesperia the hare, executed in teals and blues through hand-drawn illustration and digital rendering. Designs function both as repeat surface patterns and interior placement prints.
+
 ## Connections
+
+- [[Wallpaper]] — primary product category
+- [[Home Decor]] — interior focus
+- [[Illustration]] — core technique
+- [[United Kingdom]] — based

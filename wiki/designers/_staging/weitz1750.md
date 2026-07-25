@@ -23,7 +23,7 @@ bio: ''
 website: 'https://caroleweitz.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/weitz1750
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Caroleweitzdesign
 website_meta_description: 'Illustration, Collage, Calligraphy, Photography'
 website_about_raw: >-
@@ -233,7 +236,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -253,45 +256,131 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/559183407_18541092589009868_4359311980956022704_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtvb63OqV6oG6Z5FNJh5o1ZLRm7UGK9NlROWww16gv-jXnBaW3PQuk6dpP4X6Y-WI&_nc_ohc=CBmTh4PMNTEQ7kNvwFBIqrH&_nc_gid=HsIPEuuZYvZemA75cvj2Kg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6bh-7u8rqzY_-BH2U3xURvtI5HBUXrH3zqAr8qaiXfWA&oe=6A13F7E3&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/559183407_18541092589009868_4359311980956022704_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtvb63OqV6oG6Z5FNJh5o1ZLRm7UGK9NlROWww16gv-jXnBaW3PQuk6dpP4X6Y-WI&_nc_ohc=CBmTh4PMNTEQ7kNvwFBIqrH&_nc_gid=HsIPEuuZYvZemA75cvj2Kg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6bh-7u8rqzY_-BH2U3xURvtI5HBUXrH3zqAr8qaiXfWA&oe=6A13F7E3&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/weitz1750/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5606
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/weitz1750/profile/559183407_18541092589009868_4359311980956022704_n.jpg
+instagram_profile_image_bytes: 205902
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/weitz1750/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/weitz1750/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/weitz1750/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/weitz1750/profile/559183407_18541092589009868_4359311980956022704_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/weitz1750/profile/559183407_18541092589009868_4359311980956022704_n.jpg
+profile_image_local: >-
+  ../../assets/designers/weitz1750/profile/559183407_18541092589009868_4359311980956022704_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/weitz1750/profile/559183407_18541092589009868_4359311980956022704_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867%20(1).jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867.jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867%20(1).jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867.jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760532273_3743938523020989349_1473417867.jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_10_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_11_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_3_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_5_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_6_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_8_.webp
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867%20(1).jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867.jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_1760532273_3743938523020989349_1473417867.jpg
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_3_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_5_.webp
+selected_placements:
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_10_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_11_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_6_.webp
+  - >-
+    ../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_8_.webp
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # weitz1750
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/weitz1750/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/weitz1750/profile/559183407_18541092589009868_4359311980956022704_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867%20(1).jpg)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867%20(1).jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867.jpg)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675414260408_1473417867.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867%20(1).jpg)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867%20(1).jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867.jpg)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_1760359914_3742492675498150110_1473417867.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_1760532273_3743938523020989349_1473417867.jpg)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_1760532273_3743938523020989349_1473417867.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_10_.webp)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_10_.webp --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_11_.webp)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_11_.webp --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_3_.webp)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_3_.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_5_.webp)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_5_.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_6_.webp)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_6_.webp --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_8_.webp)<br><!-- image:../../assets/designers/weitz1750/instagram/weitz1750_imageye___-_imgi_8_.webp --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Carole Weitz is a New York-based artist, illustrator, designer, calligrapher, and photographer. After a 25-year career in advertising with award-winning creative leadership, she returned to personal illustration, collage, and photography. Her father, Joe Weitz, was a 1960s photographer and designer with Bauhaus-influenced sensibility — a formative aesthetic inheritance.
+
 ## Style and Aesthetic
+
+Weitz's work spans floral design, graphic patterns, eclectic collage, and cat-themed illustration. Her self-description as a "New York Creative Expressionist" reflects a practice that spans fine art and applied design. Selected patterns suggest bold, expressive florals and decorative graphic compositions. Selected placement images suggest work in art-on-wall and interior applications.
 
 ## Techniques and Tools
 
+Gouache is her primary medium. Paper collage is a secondary approach, described as "unfolding with instinct." Calligraphy and photography are also documented disciplines. Trained at Carnegie Mellon University, School of Design.
+
 ## Markets and Clients
+
+Licensing is her stated commercial model. She holds multiple copyrighted collections. Prior advertising clients include award-winning campaign work, though specific current surface pattern clients are not documented in available sources.
 
 ## Portfolio and Presence
 
+- Website: https://caroleweitz.com
+- Instagram: https://instagram.com/weitz1750 (1,381 followers)
+
 ## Career Path
+
+Educated at Carnegie Mellon University, School of Design. Spent 25 years in advertising creative leadership, winning The One Show, David Ogilvy, Echo, Graphis, Champion Paper, and John Caples awards. Returned to illustration, collage, and photography following her advertising career, building a surface pattern practice rooted in her fine art and design background.
 
 ## Pattern Focus
 
+Florals, graphic patterns, collage compositions, and cat motifs are the documented creative territories. Multiple copyrighted collections are documented. Work bridges fine art and applied design, giving her portfolio range from decorative illustration to editorial-ready pattern.
+
 ## Connections
+
+- [[New York]] — based
+- [[Licensing]] — stated commercial model
+- [[Gouache]] — primary medium

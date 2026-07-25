@@ -19,7 +19,7 @@ bio: ''
 website: 'https://magdalenawesolowska.com'
 website_about: ''
 accepted: 16/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/magdalenawesolowskaart
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Magdalena Wesołowska
 website_meta_description: >-
   Magdalena Wesołowska is a contemporary visual artist creating expressive oil
@@ -108,7 +111,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Biography
 
@@ -274,45 +277,143 @@ instagram_profile_pic_url: >-
   https://instagram.fmqy1-1.fna.fbcdn.net/v/t51.82787-19/632010727_18562117423060904_669689131676534755_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmqy1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF_WeU1MfBxoGA8E_JEt15AoYTJQ6ByTzj6CzzQfbbUHmigiYyD8xZ1MyxEjuKUKmo&_nc_ohc=ujqNhA_0TkIQ7kNvwEAarHf&_nc_gid=-5dWvE_goKVhBBe0ULLJow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af703OCwz3UHZAssE2Ef51QMF2MkiLq6D6mmbeShhavFrA&oe=6A13F5A3&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fmqy1-1.fna.fbcdn.net/v/t51.82787-19/632010727_18562117423060904_669689131676534755_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fmqy1-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2gF_WeU1MfBxoGA8E_JEt15AoYTJQ6ByTzj6CzzQfbbUHmigiYyD8xZ1MyxEjuKUKmo&_nc_ohc=ujqNhA_0TkIQ7kNvwEAarHf&_nc_gid=-5dWvE_goKVhBBe0ULLJow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af703OCwz3UHZAssE2Ef51QMF2MkiLq6D6mmbeShhavFrA&oe=6A13F5A3&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3827
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/magdalenawesolowskaart/profile/707288848_18594196150060904_1239649881590328015_n.jpg
+instagram_profile_image_bytes: 140132
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/magdalenawesolowskaart/profile/707288848_18594196150060904_1239649881590328015_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/profile/707288848_18594196150060904_1239649881590328015_n.jpg
+profile_image_local: >-
+  ../../assets/designers/magdalenawesolowskaart/profile/707288848_18594196150060904_1239649881590328015_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/magdalenawesolowskaart/profile/707288848_18594196150060904_1239649881590328015_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1680601121_3073427427165357827_1503292903.webp
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160926851930235_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927036669743_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927112006718_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748126948482647_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748127879734323_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748133147801025_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1730402540_3491191999898452369_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489009768407575_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489009827087641_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489010883999256_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489011848612503_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489012092059943_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624318361849_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624410444405_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624477567616_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843625257913227_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843626264448551_1503292903.jpg
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1680601121_3073427427165357827_1503292903.webp
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160926851930235_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927036669743_1503292903.jpg
+  - >-
+    ../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927112006718_1503292903.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # magdalenawesolowskaart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/magdalenawesolowskaart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/magdalenawesolowskaart/profile/707288848_18594196150060904_1239649881590328015_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1680601121_3073427427165357827_1503292903.webp)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1680601121_3073427427165357827_1503292903.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160926851930235_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160926851930235_1503292903.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927036669743_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927036669743_1503292903.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927112006718_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1691178980_3162160927112006718_1503292903.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748126948482647_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748126948482647_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748127879734323_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748127879734323_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748133147801025_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1716282931_3372748133147801025_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1730402540_3491191999898452369_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1730402540_3491191999898452369_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489009768407575_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489009768407575_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489009827087641_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489009827087641_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489010883999256_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489010883999256_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489011848612503_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489011848612503_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489012092059943_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1733775807_3519489012092059943_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624318361849_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624318361849_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624410444405_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624410444405_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624477567616_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843624477567616_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843625257913227_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843625257913227_1503292903.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843626264448551_1503292903.jpg)<br><!-- image:../../assets/designers/magdalenawesolowskaart/instagram/magdalenawesolowskaart_1739540127_3567843626264448551_1503292903.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Magdalena Wesołowska is a Polish visual artist born in 1981 in Bytom. She studied painting at the Institute of Art in Cieszyn (University of Silesia in Katowice) under Prof. Tadeusz Rus, graduating in 2007. Her practice centres on oil and watercolour, exploring the human body, intimacy, and the boundary between sacrum and profane. An active exhibitor across Poland and internationally, she has shown work in Beirut, Basel, and institutional galleries throughout Poland.
+
 ## Style and Aesthetic
+
+Wesołowska works in named cycles that anchor her practice: *Identity Written in the Body*, *Body*, *Water*, *Landscape of Silesia*, and *When Night Comes We See Differently*. Selected Instagram images suggest expressive figurative work with bold use of red and skin tones. Her paintings are gestural and emotionally charged, exploring corporeal themes through painterly surfaces.
 
 ## Techniques and Tools
 
+Oil and watercolour are her primary media. She has studied drawing formally alongside painting and is documented as an ambassador for Royal Talens and Rembrandt Artist Paint, indicating professional-grade material practice.
+
 ## Markets and Clients
+
+Works for private collections. Her practice is exhibition-oriented; no documented licensing or commercial pattern clients.
 
 ## Portfolio and Presence
 
+- Website: https://magdalenawesolowska.com
+- Instagram: @magdalenawesolowskaart
+
 ## Career Path
+
+Graduated 2007 from the Institute of Art in Cieszyn, University of Silesia. Has maintained an active solo and group exhibition career since, showing across Bytom, Warsaw, Gliwice, Zabrze, and Katowice, as well as in Beirut and Basel. Recipient of the 2025 Scholarship of the Marshal of the Silesian Voivodeship and the 2023 Artistic Scholarship of the City of Bytom. Member of the Association of Visual Artists in Katowice.
 
 ## Pattern Focus
 
+Wesołowska's practice is primarily fine art painting rather than surface pattern design. Her selected images present expressive figurative compositions centred on the body. Pattern-relevant commercial applications are not currently documented.
+
 ## Connections
+
+- [[Fine Art]]
+- [[Figurative Art]]
+- [[Oil Painting]]
+- [[Poland]]

@@ -22,7 +22,7 @@ bio: ''
 website: 'https://rhosaspinadesign.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/rhsdcom_graziacavasino
 profile_url: ''
 instagram_images:
@@ -39,8 +39,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: HomePage
 website_meta_description: >-
   Artistic and official site of Grazia Cavasino. Welcome to this art & design
@@ -259,7 +262,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -287,31 +290,103 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_12_36Portfolio9.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_14_34Portfolio7.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_15_33Portfolio6.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_16_32Portfolio5.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_17_31Portfolio4.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_18_30Portfolio3.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_19_29Portfolio1.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_23_SP_top-portfolio.jpeg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_12_36Portfolio9.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_14_34Portfolio7.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_15_33Portfolio6.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_16_32Portfolio5.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_17_31Portfolio4.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_18_30Portfolio3.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_19_29Portfolio1.jpeg
+  - >-
+    ../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_23_SP_top-portfolio.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # rhsdcom_graziacavasino
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_12_36Portfolio9.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_12_36Portfolio9.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_14_34Portfolio7.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_14_34Portfolio7.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_15_33Portfolio6.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_15_33Portfolio6.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_16_32Portfolio5.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_16_32Portfolio5.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_17_31Portfolio4.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_17_31Portfolio4.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_18_30Portfolio3.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_18_30Portfolio3.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_19_29Portfolio1.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_19_29Portfolio1.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_23_SP_top-portfolio.jpeg)<br><!-- image:../../assets/designers/rhsdcom_graziacavasino/instagram/rhsdcom_graziacavasino_imageye___-_imgi_23_SP_top-portfolio.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Grazia Cavasino is an Italian surface pattern designer operating under the brand RhosaSpinaDesign. With 25 years of design and colour experience, she works across a range of styles — hand-crafted using watercolour, gouache, ink, and pencils, then transferred to digital. She serves private clients and commercial enterprises, offering custom patterns, original paintings, and colour consultancy.
+
 ## Style and Aesthetic
+
+Multi-style practice with originality delivered through personal vision rather than adherence to a single aesthetic. Stated design philosophy: every pattern is joyful and uplifting — "colours are joyful with their shiny look; lines are helpful with their soft, restrained flow; shapes are inspiring with their traditional or innovative symbolic meanings." Selected pattern images (8 portfolio pieces) span the full documented range. Work described as inclusive in subject matter — challenging conventional motif and colour norms.
 
 ## Techniques and Tools
 
+Hand-crafted first: watercolour, gouache, ink, pencils. Then transferred and finished digitally. Also produces PC-made patterns visible in a gated portfolio section. Colour culture is the declared central expertise — 25 years of practice. Writing and storytelling are integral to the practice (books, articles, blog posts).
+
 ## Markets and Clients
+
+Private clients and businesses. Custom commission model: tailored patterns, paintings, and occasion-specific graphics (weddings, births, celebrations, events). Portfolio access is gated to registered members on her website. No specific commercial clients documented publicly.
 
 ## Portfolio and Presence
 
+- Website: rhosaspinadesign.com
+- Instagram: @rhsdcom_graziacavasino
+
 ## Career Path
+
+Italian designer with 25 years of colour and pattern practice. Operates RhosaSpinaDesign as a multi-service creative studio. Charity supporter: CFU-Italia OdV (campaigning for recognition of FM, EHS, MCS, and CFS as disabling diseases in Italy); authored "Sono ancora qui (I'm still here)" with full proceeds donated to the cause.
 
 ## Pattern Focus
 
+Multi-style portfolio: floral, foulard-influenced motifs, and inclusive thematic work across gender and aesthetic conventions. All selected images are portfolio patterns — 8 distinct pieces — showing the breadth of the RhosaSpinaDesign offer. Handcraft origin with digital finish distinguishes her work from purely digital output.
+
 ## Connections
+
+- [[Watercolour Pattern]]
+- [[Gouache]]
+- [[Italian Textile Design]]
+- [[Colour Theory]] (25 years expertise)
+- [[Custom Commission]]
+- [[Foulard Pattern]]

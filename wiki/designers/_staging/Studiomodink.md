@@ -27,7 +27,7 @@ bio: ''
 website: 'https://mod-ink.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/studiomodink
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MOD INK / Modern Surface Designs
 website_meta_description: >-
   A surface pattern design studio where bold color, hand-drawn charm, and
@@ -305,7 +308,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -327,45 +330,176 @@ instagram_profile_pic_url: >-
   https://instagram.flas1-1.fna.fbcdn.net/v/t51.2885-19/257981692_3180285872195188_9028440899642168008_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzUuYzIifQ&_nc_ht=instagram.flas1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGDOJuTSRyLReVWdXPs-adZa0lKdlEFlmYj2cOMsaaJ6B0gWlcgTb8svWOhfzAhaDY&_nc_ohc=c954GNFwlNwQ7kNvwEOIdLQ&_nc_gid=heGa3LFIPG5JmzadrGgswg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6b6qvhBqPYtGkQ8KpGpGJXmTszqQRN1CiKjvl1p32Q_A&oe=6A13F6C1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.flas1-1.fna.fbcdn.net/v/t51.2885-19/257981692_3180285872195188_9028440899642168008_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzUuYzIifQ&_nc_ht=instagram.flas1-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gGDOJuTSRyLReVWdXPs-adZa0lKdlEFlmYj2cOMsaaJ6B0gWlcgTb8svWOhfzAhaDY&_nc_ohc=c954GNFwlNwQ7kNvwEOIdLQ&_nc_gid=heGa3LFIPG5JmzadrGgswg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6b6qvhBqPYtGkQ8KpGpGJXmTszqQRN1CiKjvl1p32Q_A&oe=6A13F6C1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/studiomodink/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3576
+instagram_profile_image_local: >-
+  ../../assets/designers/studiomodink/profile/257981692_3180285872195188_9028440899642168008_n.jpg
+instagram_profile_image_bytes: 24386
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/studiomodink/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/studiomodink/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/studiomodink/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/studiomodink/profile/257981692_3180285872195188_9028440899642168008_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/studiomodink/profile/257981692_3180285872195188_9028440899642168008_n.jpg
+profile_image_local: >-
+  ../../assets/designers/studiomodink/profile/257981692_3180285872195188_9028440899642168008_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/studiomodink/profile/257981692_3180285872195188_9028440899642168008_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1652817382_2840360532022377097_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065%20(1).jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030083075_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030098881_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562164485335_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1743703580_3602769215284173481_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039545000_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039578614_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039713473_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995047869460_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995047991327_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995048064782_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995048100165_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995232618099_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533687008842_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695333694_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695378968_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695401553_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533703792554_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533703877878_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854648082_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854774134_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533863207655_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533921811341_45577806065.jpg
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1652817382_2840360532022377097_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065%20(1).jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030083075_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030098881_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1743703580_3602769215284173481_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039578614_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533687008842_45577806065.jpg
+  - >-
+    ../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854774134_45577806065.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # studiomodink
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/studiomodink/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/studiomodink/profile/257981692_3180285872195188_9028440899642168008_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1652817382_2840360532022377097_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1652817382_2840360532022377097_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065%20(1).jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065%20(1).jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1742599575_3593508155083592764_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030083075_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030083075_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030098881_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562030098881_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562164485335_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1742600935_3593519562164485335_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1743703580_3602769215284173481_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1743703580_3602769215284173481_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039545000_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039545000_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039578614_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039578614_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039713473_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995039713473_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995047869460_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995047869460_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995047991327_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995047991327_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995048064782_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995048064782_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995048100165_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995048100165_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995232618099_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1747628400_3635692995232618099_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533687008842_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533687008842_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695333694_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695333694_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695378968_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695378968_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695401553_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533695401553_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533703792554_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533703792554_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533703877878_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533703877878_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854648082_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854648082_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854774134_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533854774134_45577806065.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533863207655_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533863207655_45577806065.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533921811341_45577806065.jpg)<br><!-- image:../../assets/designers/studiomodink/instagram/studiomodink_1748719587_3644846533921811341_45577806065.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Karla Stelling-McWeeney is a Venezuelan surface pattern designer based in Northern Virginia, USA, operating under the studio name Mod Ink. Her practice produces bold, graphic, trend-driven collections for home décor, textiles, stationery, and accessories, drawing on Mid-Century Modern design, vibrant colour, and retro-contemporary aesthetics. She is available for licensing and open to creative collaborations.
+
 ## Style and Aesthetic
+
+Mod Ink's output is defined by clean lines, geometric forms, and a retro-modern colour sensibility. Named collections include Riviera Tomatera, Fiori e Limoni, Pop Garden, and Retro Jingle — titles that signal Mediterranean, botanical, and pop-culture references filtered through a mid-century graphic lens. Selected Instagram patterns suggest structured repeat work with confident block colour, playful motifs, and a clear commercial surface pattern vocabulary.
 
 ## Techniques and Tools
 
+Stelling-McWeeney works as a graphic and surface pattern designer producing cohesive licensed collections, with skills spanning pattern design, colour theory, trend awareness, market adaptation, and licensing knowledge. She organises work into seasonal lookbooks (SS/26 documented on site).
+
 ## Markets and Clients
+
+Mod Ink targets home décor, textiles, gift wrap, stationery, accessories, and kids and baby markets. Work is available through Textile District, Printify, Contrado, and Spoonflower for print-on-demand, and commercially via licensing for fabric, home decor, apparel, and stationery brands. No placement images were selected.
 
 ## Portfolio and Presence
 
+- Website: mod-ink.com
+- Instagram: @studiomodink (238 followers, business account)
+- Available on: Textile District, Printify, Contrado, Spoonflower
+
 ## Career Path
+
+Stelling-McWeeney is Venezuelan and based in Northern Virginia. She operates Mod Ink as a design studio brand with licensing as the primary commercial model. Her work is structured into seasonal lookbooks covering Home & Living, Wall Décor & Tiles, Stationery & Paper Goods, and Kids & Baby categories.
 
 ## Pattern Focus
 
+Selected patterns indicate bold graphic surface pattern work — geometric forms, mid-century-inspired motifs, botanical repeats, and trend-led compositions across home decor and stationery categories. Named collections Riviera Tomatera, Fiori e Limoni, Pop Garden, and Retro Jingle reflect a coherent Mediterranean-retro design identity.
+
 ## Connections
+
+- [[Mid-Century Modern]]
+- [[Surface Pattern Design]]
+- [[Home Decor]]
+- [[Stationery]]
+- [[Licensing]]
+- [[Spoonflower]]
+- [[Textile District]]

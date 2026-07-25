@@ -23,7 +23,7 @@ bio: ''
 website: 'https://ellastration.uk'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ellastration_
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: HOME | ellastration
 website_meta_description: ''
 website_about_raw: >-
@@ -218,7 +221,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -235,45 +238,170 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/491418651_3647529865382195_5154885944514144160_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFgWMaZY91XjvTMrQo_BAa7dWmCHqfCf21j4wrwz39VwYLISnnVH5aMoPkEWx4yXHM&_nc_ohc=PuyWemODDV0Q7kNvwH7g_8n&_nc_gid=3tp7rsJJpMSmiZ5Qa8Naqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ma4qzF2uPeMoeE5UH7l_SGFjR2yKzyT5vafvYbTo1yg&oe=6A13E503&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/491418651_3647529865382195_5154885944514144160_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFgWMaZY91XjvTMrQo_BAa7dWmCHqfCf21j4wrwz39VwYLISnnVH5aMoPkEWx4yXHM&_nc_ohc=PuyWemODDV0Q7kNvwH7g_8n&_nc_gid=3tp7rsJJpMSmiZ5Qa8Naqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7ma4qzF2uPeMoeE5UH7l_SGFjR2yKzyT5vafvYbTo1yg&oe=6A13E503&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ellastration_/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8490
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ellastration_/profile/491418651_3647529865382195_5154885944514144160_n.jpg
+instagram_profile_image_bytes: 339411
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ellastration_/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ellastration_/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ellastration_/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ellastration_/profile/491418651_3647529865382195_5154885944514144160_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ellastration_/profile/491418651_3647529865382195_5154885944514144160_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ellastration_/profile/491418651_3647529865382195_5154885944514144160_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ellastration_/profile/491418651_3647529865382195_5154885944514144160_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1623171012_2591668750818519705_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1623855294_2597408925309821930_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1676140612_3036009960508899946_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1679772793_3066478902549194866_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278979320735_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278987819912_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1696089879_3203356540873563842_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1696089879_3203356540873624005_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1709665365_3317235977653359470_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1711482847_3332482116111669130_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1718110800_3387592998832878769_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321307535959_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321315725055_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321315757779_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321324311995_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321408020298_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104709283248_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104734421236_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1741099026_3580920632651242723_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1741099026_3580920632667898438_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1746773968_3628525497216428864_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011090672_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011130339_5485358879.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1623855294_2597408925309821930_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1676140612_3036009960508899946_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1679772793_3066478902549194866_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278987819912_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1711482847_3332482116111669130_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104734421236_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1746773968_3628525497216428864_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011130339_5485358879.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1623171012_2591668750818519705_5485358879.jpg
+  - >-
+    ../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011090672_5485358879.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # ellastration_
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ellastration_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ellastration_/profile/491418651_3647529865382195_5154885944514144160_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1623171012_2591668750818519705_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1623171012_2591668750818519705_5485358879.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1623855294_2597408925309821930_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1623855294_2597408925309821930_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1676140612_3036009960508899946_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1676140612_3036009960508899946_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1679772793_3066478902549194866_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1679772793_3066478902549194866_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278979320735_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278979320735_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278987819912_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1683315976_3096201278987819912_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1696089879_3203356540873563842_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1696089879_3203356540873563842_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1696089879_3203356540873624005_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1696089879_3203356540873624005_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1709665365_3317235977653359470_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1709665365_3317235977653359470_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1711482847_3332482116111669130_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1711482847_3332482116111669130_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1718110800_3387592998832878769_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1718110800_3387592998832878769_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321307535959_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321307535959_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321315725055_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321315725055_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321315757779_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321315757779_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321324311995_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321324311995_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321408020298_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1731144417_3497415321408020298_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104709283248_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104709283248_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104734421236_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1740561925_3576415104734421236_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1741099026_3580920632651242723_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1741099026_3580920632651242723_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1741099026_3580920632667898438_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1741099026_3580920632667898438_5485358879.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1746773968_3628525497216428864_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1746773968_3628525497216428864_5485358879.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011090672_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011090672_5485358879.jpg --> | [ ] | [x] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011130339_5485358879.jpg)<br><!-- image:../../assets/designers/ellastration_/instagram/ellastration___1778690700_3896193048011130339_5485358879.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ella Smith is an illustrator and print designer based just outside London. Working across traditional and digital media, she produces fashion-influenced prints and surface patterns characterised by painterly brushwork and curated colour. She holds an Illustration degree from Falmouth University, has worked with a London-based fashion designer on exclusive textile prints, and sells fine art giclée prints alongside taking commissions.
+
 ## Style and Aesthetic
+
+Ella's visual signature combines carefully curated colour palettes with expressive, painterly brushstrokes. Her website categorises her work across florals, traditional silk scarves, decorative conversational prints, and animal-skin motifs — a range that bridges fine art sensibility with commercial print appeal. Selected Instagram images suggest richly textured, painterly compositions consistent with this aesthetic.
 
 ## Techniques and Tools
 
+Ella works in both traditional and digital media. Her fine art background and Illustration degree at Falmouth inform the texture and expressiveness of her print work. She describes being "well versed in traditional and digital media," with her illustrative practice informing her print output.
+
 ## Markets and Clients
+
+Ella has created exclusive textile prints for a London-based fashion designer's clothing ranges and accessory collections. Other commercial work includes T-shirt designs for a streetwear brand and EP covers. She also operates a speculative print market via fine art giclée print sales.
 
 ## Portfolio and Presence
 
+- Website: https://ellastration.uk
+- Instagram: @ellastration_
+
 ## Career Path
+
+Ella studied at Falmouth University, where she focused on fashion illustration and the climate crisis as a lens for practice. Her Illustration degree gave her a foundation across fine art and print, which she has applied to a range of commissions and speculative projects since graduating.
 
 ## Pattern Focus
 
+Selected Instagram images suggest a range including floral prints, expressive botanical motifs, and decorative all-over compositions. Her website portfolio spans florals, silk scarves, decorative, conversational, and animal-skin print categories — a commercially versatile spread for fashion and accessory markets.
+
 ## Connections
+
+- [[Floral Print Design]]
+- [[Silk Scarf Design]]
+- [[Fashion Print]]
+- [[Falmouth University]]

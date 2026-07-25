@@ -28,7 +28,7 @@ bio: ''
 website: 'https://franzispeer.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/franzispeer
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Franzi Speer | Freelance Illustrator and Pattern Designer
 website_meta_description: >-
   I’m a freelance illustrator and surface pattern designer based in the
@@ -107,7 +110,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -127,45 +130,230 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/454356471_1322627809141947_4272414222314958529_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFX0n6UoFMt1a74LpwdZRBauKanNG7Ir5xnhFIqT52mvEgwm3_ihf15D_x9K_v7Nns&_nc_ohc=hfrFH7GVia0Q7kNvwFAVK26&_nc_gid=F0AIyxJjeNnaP5K3CxrjXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6p9gO7_nYhsutRKn4dcfQYHiViHbdKSIcFYfO-fFA9dw&oe=6A13EFC0&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/454356471_1322627809141947_4272414222314958529_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFX0n6UoFMt1a74LpwdZRBauKanNG7Ir5xnhFIqT52mvEgwm3_ihf15D_x9K_v7Nns&_nc_ohc=hfrFH7GVia0Q7kNvwFAVK26&_nc_gid=F0AIyxJjeNnaP5K3CxrjXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6p9gO7_nYhsutRKn4dcfQYHiViHbdKSIcFYfO-fFA9dw&oe=6A13EFC0&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/franzispeer/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4334
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/franzispeer/profile/454356471_1322627809141947_4272414222314958529_n.jpg
+instagram_profile_image_bytes: 88901
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/franzispeer/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/franzispeer/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/franzispeer/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/franzispeer/profile/454356471_1322627809141947_4272414222314958529_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/franzispeer/profile/454356471_1322627809141947_4272414222314958529_n.jpg
+profile_image_local: >-
+  ../../assets/designers/franzispeer/profile/454356471_1322627809141947_4272414222314958529_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/franzispeer/profile/454356471_1322627809141947_4272414222314958529_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149303335688_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149370247254_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149781382396_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600150100120948_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273339227460876_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273341383323951_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342348013033_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342633278285_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273343119764251_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056426272090443_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056427052215033_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056428352443930_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462300195220_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462459589506_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491463315225727_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491463919187227_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491464615472860_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1768930395_3814386839437126554_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1768930395_3814386840066284947_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769103239_3815836759755029286_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769103239_3815836766272957015_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672110902517_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672412910593_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769697282_3820819945723413541_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769697282_3820819945916348646_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1770750242_3829652941373136998_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1770831301_3830332912047656354_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1771522563_3836131628209576857_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095857306296012_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095858170361261_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095859353092505_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095860007453793_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528239588621479_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528240838500168_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528240905646468_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528241694130518_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528242155541135_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528242306529456_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1776178309_3875186848348444306_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1778398126_3893808037077701497_66374091172.jpg
+instagram_image_count: 40
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149781382396_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273339227460876_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273341383323951_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342348013033_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273343119764251_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462459589506_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095858170361261_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095860007453793_66374091172.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672412910593_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1770750242_3829652941373136998_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1770831301_3830332912047656354_66374091172.jpg
+  - >-
+    ../../assets/designers/franzispeer/instagram/franzispeer_1778398126_3893808037077701497_66374091172.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # franzispeer
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/franzispeer/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/franzispeer/profile/454356471_1322627809141947_4272414222314958529_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149303335688_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149303335688_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149370247254_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149370247254_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149781382396_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600149781382396_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600150100120948_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1750955221_3663600150100120948_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273339227460876_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273339227460876_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273341383323951_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273341383323951_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342348013033_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342348013033_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342633278285_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273342633278285_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273343119764251_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1762717982_3762273343119764251_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056426272090443_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056426272090443_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056427052215033_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056427052215033_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056428352443930_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1763407379_3768056428352443930_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462300195220_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462300195220_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462459589506_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491462459589506_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491463315225727_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491463315225727_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491463919187227_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491463919187227_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491464615472860_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1765008960_3781491464615472860_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1768930395_3814386839437126554_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1768930395_3814386839437126554_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1768930395_3814386840066284947_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1768930395_3814386840066284947_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1769103239_3815836759755029286_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1769103239_3815836759755029286_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1769103239_3815836766272957015_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1769103239_3815836766272957015_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672110902517_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672110902517_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672412910593_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1769524394_3819369672412910593_66374091172.jpg --> | [ ] | [x] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1769697282_3820819945723413541_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1769697282_3820819945723413541_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1769697282_3820819945916348646_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1769697282_3820819945916348646_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1770750242_3829652941373136998_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1770750242_3829652941373136998_66374091172.jpg --> | [ ] | [x] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1770831301_3830332912047656354_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1770831301_3830332912047656354_66374091172.jpg --> | [ ] | [x] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1771522563_3836131628209576857_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1771522563_3836131628209576857_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095857306296012_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095857306296012_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095858170361261_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095858170361261_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095859353092505_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095859353092505_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095860007453793_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1774975383_3865095860007453793_66374091172.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528239588621479_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528239588621479_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528240838500168_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528240838500168_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528240905646468_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528240905646468_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528241694130518_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528241694130518_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528242155541135_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528242155541135_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528242306529456_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1775742181_3871528242306529456_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1776178309_3875186848348444306_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1776178309_3875186848348444306_66374091172.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/franzispeer/instagram/franzispeer_1778398126_3893808037077701497_66374091172.jpg)<br><!-- image:../../assets/designers/franzispeer/instagram/franzispeer_1778398126_3893808037077701497_66374091172.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Franziska Speer is a Netherlands-based freelance illustrator and surface pattern designer working as Franzi Speer. She creates playful, hand-drawn greeting card illustrations and coordinated seamless surface pattern collections for licensing, and is represented worldwide by [[Advocate Art]]. Designs are also available via Spoonflower. Her output is structured as licensing-ready mini-collections across seasonal and themed categories.
+
 ## Style and Aesthetic
+
+Joyful, hand-drawn illustration with bright, layered colour palettes. Subject matter spans botanical spring patterns (Easter/spring), seasonal themes (Halloween, Valentine's), and specific-theme ranges (equestrian, gaming, retro flowers, summer beach). Selected pattern images suggest clean, colourful all-over designs with a contemporary greeting card character and strong colour contrast suited to product and kidswear licensing.
 
 ## Techniques and Tools
 
+Adobe Fresco is the primary tool for illustration and pattern work. Designs begin as hand-drawn illustrations and are developed into coordinated seamless pattern collections structured as mini-sets (hero design, secondary patterns, blender designs) — a standard licensing-ready collection format. Greeting card illustrations are developed alongside coordinating seamless patterns.
+
 ## Markets and Clients
+
+Greeting cards, home decor, kidswear, and stationery are the primary licensing targets. Represented by Advocate Art for worldwide licensing enquiries and custom commissions. Spoonflower channel (fabric, wallpaper, pillowcases, tea towels, tablecloths) provides a direct-order channel. Selected placement images suggest printed product mockup contexts including fabric swatch and home product applications.
 
 ## Portfolio and Presence
 
+- Website: [franzispeer.com](https://franzispeer.com)
+- Instagram: [@franzispeer](https://instagram.com/franzispeer) — 175 followers, 267 posts
+- Spoonflower: active
+- Representation: [[Advocate Art]] (worldwide)
+
 ## Career Path
+
+Freelance illustrator based in the Netherlands. Represented by Advocate Art, which handles licensing enquiries globally. Builds licensing-ready coordinated mini-collections across seasonal themes as the core commercial output.
 
 ## Pattern Focus
 
+Seasonal and themed seamless pattern mini-collections in coordinated sets. Named collections include: Halloween (retro palette, spiders/ghosts/pumpkins/skulls with 5 coordinating greeting card designs), Easter/spring (soft pastel, floral/eggs), Valentine's Bears (bears/bows/hearts, pink/red/black, kidswear-oriented), Horse Riding (equestrian, earthy tones, kids' fabric and wallpaper), Retro Vibes (flower power, cream/orange/teal, home decor), and Sunwashes Summer (beach/ice cream, pastel, stationery and home). Each collection follows a structured mini-set format with coordinating card designs.
+
 ## Connections
+
+- [[Greeting Cards]]
+- [[Surface Pattern Design]]
+- [[Advocate Art]]
+- [[Spoonflower]]
+- [[Licensing]]
+- [[Seasonal Patterns]]
+- [[Kidswear]]

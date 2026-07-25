@@ -20,7 +20,7 @@ bio: ''
 website: 'https://Mackenziekuck.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mackenziekuck
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - enriched
 website_title: Mackenzie Kuck Art
 website_meta_description: >-
   Take Heart Textiles is a sustainable fabric and lifestyle goods brand. We are
@@ -262,7 +265,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -279,45 +282,165 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/485865257_3961717350740285_1972590989838659543_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHewGLyvbpbbtEziGO87AaWnywhFXKhKsn1cdph-UOuzKI2OrOV2A9GH2t_cF7QjL4&_nc_ohc=3O7TJx9pzmEQ7kNvwHX9S0g&_nc_gid=BAEpDDCMJzgcLUHg8vV3AA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ugldQ8IVlm-QLWmiuJ6bnZhgSwoJcM3OduJ63kEwowQ&oe=6A13ED54&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/485865257_3961717350740285_1972590989838659543_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHewGLyvbpbbtEziGO87AaWnywhFXKhKsn1cdph-UOuzKI2OrOV2A9GH2t_cF7QjL4&_nc_ohc=3O7TJx9pzmEQ7kNvwHX9S0g&_nc_gid=BAEpDDCMJzgcLUHg8vV3AA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5ugldQ8IVlm-QLWmiuJ6bnZhgSwoJcM3OduJ63kEwowQ&oe=6A13ED54&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mackenziekuck/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5272
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mackenziekuck/profile/485865257_3961717350740285_1972590989838659543_n.jpg
+instagram_profile_image_bytes: 118914
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mackenziekuck/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mackenziekuck/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mackenziekuck/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mackenziekuck/profile/485865257_3961717350740285_1972590989838659543_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mackenziekuck/profile/485865257_3961717350740285_1972590989838659543_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mackenziekuck/profile/485865257_3961717350740285_1972590989838659543_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mackenziekuck/profile/485865257_3961717350740285_1972590989838659543_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754927828_3696925030449733021_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039713048741_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039721323492_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039729912346_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755027544_3697761513381942632_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721158675794_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721309583747_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721368238534_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582246775946_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582406100835_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582414530325_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1757369218_3717404893092172312_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762102257_3757108508354336369_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845539875814_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845548269373_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845556704319_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330811327585848_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330814917933052_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770244764_3825410371184645123_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1774022667_3857103202768782264_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1777579541_3886941239689995472_53445159726.jpg
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755027544_3697761513381942632_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721158675794_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1757369218_3717404893092172312_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845539875814_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330811327585848_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770244764_3825410371184645123_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1774022667_3857103202768782264_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1777579541_3886941239689995472_53445159726.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762102257_3757108508354336369_53445159726.jpg
+  - >-
+    ../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330814917933052_53445159726.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mackenziekuck
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mackenziekuck/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mackenziekuck/profile/485865257_3961717350740285_1972590989838659543_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754927828_3696925030449733021_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754927828_3696925030449733021_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039713048741_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039713048741_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039721323492_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039721323492_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039729912346_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1754928544_3696931039729912346_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755027544_3697761513381942632_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755027544_3697761513381942632_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721158675794_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721158675794_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721309583747_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721309583747_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721368238534_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1755202568_3699229721368238534_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582246775946_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582246775946_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582406100835_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582406100835_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582414530325_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1756395360_3709235582414530325_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1757369218_3717404893092172312_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1757369218_3717404893092172312_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762102257_3757108508354336369_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762102257_3757108508354336369_53445159726.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845539875814_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845539875814_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845548269373_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845548269373_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845556704319_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1762188486_3757831845556704319_53445159726.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330811327585848_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330811327585848_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330814917933052_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770235056_3825330814917933052_53445159726.jpg --> | [ ] | [x] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770244764_3825410371184645123_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1770244764_3825410371184645123_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1774022667_3857103202768782264_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1774022667_3857103202768782264_53445159726.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mackenziekuck/instagram/mackenziekuck_1777579541_3886941239689995472_53445159726.jpg)<br><!-- image:../../assets/designers/mackenziekuck/instagram/mackenziekuck_1777579541_3886941239689995472_53445159726.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mackenzie Kuck is a Washington, D.C.-based artist and designer, and founder of Take Heart Textiles, a sustainable fabric and lifestyle goods label. With a background in architecture and sustainable design, she combines fine art practice with environmental advocacy — donating 10% of every art print sale to initiatives combating global deforestation and rural poverty. Open to per-print licensing.
+
 ## Style and Aesthetic
+
+Nature-referencing and structurally composed, with an architectural sensibility. Named artworks — "Tennis Court", "Spring Dreaming", "The Library", "Marché", "Sweet Escape", "Wild At Heart" — suggest a narrative, place-specific visual language. Selected Instagram pattern images indicate detailed, considered repeat work with strong compositional structure and a botanical or landscape-inflected palette.
 
 ## Techniques and Tools
 
+Creates original fine art works printed on archival-quality salvaged cotton paper (Moab Entrada Rag Bright, 300gsm, produced with 100% wind energy). Architecture background informs spatial and structural awareness in pattern design. Both fine art prints and surface/textile patterns produced under the Take Heart Textiles label.
+
 ## Markets and Clients
+
+Art prints (direct-to-consumer), sustainable textiles, and lifestyle goods. Environmental and ethical positioning is central to the brand. Work produced in Washington, DC. Selected placement images suggest retail product and wall art presentation contexts.
 
 ## Portfolio and Presence
 
+- Website: https://mackenziekuck.com
+- Instagram: @mackenziekuck
+- Take Heart Textiles (sustainable fabric and lifestyle goods label)
+
 ## Career Path
+
+Lifelong artist with formal education in architecture and sustainable design. Founded Take Heart Textiles from Washington, D.C., building a practice that integrates art-making with environmental stewardship. Art print sales directed toward conservation and poverty-alleviation initiatives.
 
 ## Pattern Focus
 
+Botanically and architecturally informed surface patterns. Named works suggest site and season-specific imagery — garden, domestic, and nature settings rendered with illustrative detail. Selected patterns indicate strong compositional character and care in repeat construction.
+
 ## Connections
+
+- [[Sustainable Design]]
+- [[Home Decor Market]]
+- [[Art Prints Market]]
+- [[Washington DC]]

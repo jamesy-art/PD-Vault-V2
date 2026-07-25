@@ -22,7 +22,7 @@ bio: ''
 website: 'https://B-v.fr'
 website_about: ''
 accepted: 05/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/baptistevirgile
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Baptiste Vandaele
 website_meta_description: Bienvenue
 website_about_raw: >-
@@ -270,7 +273,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -291,45 +294,245 @@ instagram_profile_pic_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/440853209_276796072171697_1236386149915702693_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1M7ccbeoOH1P-Qaed83IX1u6EF94c6EMpk41tbDVR9cd4Xveh7bpa5D_EBWVcG44&_nc_ohc=XXCuLT-r6qoQ7kNvwF5kQ0S&_nc_gid=nGwUt_ItapkaEKJPxCRq8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KMMwir--5H6H8k6n4W5NF_kCxTLde7dV32GrYTcr1Jg&oe=6A13E1B2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/440853209_276796072171697_1236386149915702693_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gH1M7ccbeoOH1P-Qaed83IX1u6EF94c6EMpk41tbDVR9cd4Xveh7bpa5D_EBWVcG44&_nc_ohc=XXCuLT-r6qoQ7kNvwF5kQ0S&_nc_gid=nGwUt_ItapkaEKJPxCRq8g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KMMwir--5H6H8k6n4W5NF_kCxTLde7dV32GrYTcr1Jg&oe=6A13E1B2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6044
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/baptistevirgile/profile/440853209_276796072171697_1236386149915702693_n.jpg
+instagram_profile_image_bytes: 198903
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/baptistevirgile/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/baptistevirgile/profile/440853209_276796072171697_1236386149915702693_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/baptistevirgile/profile/440853209_276796072171697_1236386149915702693_n.jpg
+profile_image_local: >-
+  ../../assets/designers/baptistevirgile/profile/440853209_276796072171697_1236386149915702693_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/baptistevirgile/profile/440853209_276796072171697_1236386149915702693_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978220201232_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312448755_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312491946_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312513778_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978321091952_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978371200715_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978371259526_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033513605_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033523950_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033735529_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042016617_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042123804_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151276860755_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151285251539_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151293624165_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424519447104_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424527707381_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424536267172_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424838197649_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512117006_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512136019_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512153126_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512162112_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512172645_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596688323784_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893271806005_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893271818776_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893280182559_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893288632517_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893338957127_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281729402202734_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281729788107328_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281730148822375_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281731071548960_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456276653846833_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456277199069673_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456277433993781_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356091300764669_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092508710188_508062713.png
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092701687666_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092777168029_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092793963934_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052147946173_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052374428770_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052911285839_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530052147955281_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530052542195105_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530054404459500_508062713.jpg
+instagram_image_count: 48
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312491946_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312513778_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978321091952_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033523950_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033735529_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042123804_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151276860755_508062713.jpg
+  - >-
+    ../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424519447104_508062713.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # baptistevirgile
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/baptistevirgile/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/baptistevirgile/profile/440853209_276796072171697_1236386149915702693_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978220201232_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978220201232_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312448755_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312448755_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312491946_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312491946_508062713.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312513778_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978312513778_508062713.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978321091952_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978321091952_508062713.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978371200715_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978371200715_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978371259526_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1731430200_3499709978371259526_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033513605_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033513605_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033523950_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033523950_508062713.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033735529_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151033735529_508062713.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042016617_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042016617_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042123804_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151042123804_508062713.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151276860755_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151276860755_508062713.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151285251539_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151285251539_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151293624165_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1734626700_3526464151293624165_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424519447104_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424519447104_508062713.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424527707381_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424527707381_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424536267172_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424536267172_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424838197649_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1746634127_3627352424838197649_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512117006_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512117006_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512136019_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512136019_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512153126_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512153126_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512162112_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512162112_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512172645_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596512172645_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596688323784_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765385100_3778233596688323784_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893271806005_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893271806005_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893271818776_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893271818776_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893280182559_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893280182559_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893288632517_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893288632517_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893338957127_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1765905318_3789010893338957127_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281729402202734_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281729402202734_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281729788107328_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281729788107328_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281730148822375_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281730148822375_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281731071548960_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776189604_3875281731071548960_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456276653846833_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456276653846833_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456277199069673_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456277199069673_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456277433993781_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776448830_3877456277433993781_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356091300764669_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356091300764669_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092508710188_508062713.png)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092508710188_508062713.png --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092701687666_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092701687666_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092777168029_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092777168029_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092793963934_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1776794516_3880356092793963934_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052147946173_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052147946173_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052374428770_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052374428770_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052911285839_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053671_3882530052911285839_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530052147955281_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530052147955281_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530052542195105_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530052542195105_508062713.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530054404459500_508062713.jpg)<br><!-- image:../../assets/designers/baptistevirgile/instagram/baptistevirgile_1777053672_3882530054404459500_508062713.jpg --> | [ ] | [ ] | [ ] |
+
 ## Website Images
 
-
 ## Overview
+Baptiste Vandaele is a Paris-based independent designer working across wallpaper, textile, ceramic tile, and illustration, primarily for the hospitality interior sector. Since 2017 he has maintained an ongoing relationship with hotel brand Mama Shelter, producing bespoke surface design for properties across Europe — floor carpets, wallpaper, lobby mosaics, and window medallions. He is based in Aubervilliers, co-founder of tableware brand Burning For, and a resident of Villa Mais d'Ici.
 
 ## Style and Aesthetic
+Vandaele's practice is characterised by organic, nature-driven compositions — forests, botanicals, lichens, roots — combined with site-specific architectural and cultural references tailored to each project location. His geometric work includes sinuous interlocking motifs (Méandre for Tissage Moutet), azulejo-inspired patchwork compositions (Mama Shelter Lisbonne), and narrative-led pattern suites that reference each hotel's regional context.
 
 ## Techniques and Tools
+Drawing-based practice: sketched and pencil-drawn compositions adapted for wallpaper, woven jacquard, cement tile, carpet (tuft loop and tuft velours), mosaic, and straw marquetry. Works closely with manufacturers to translate drawings into substrate-specific production.
 
 ## Markets and Clients
+Primarily hospitality and interior design. Documented clients include:
+- Mama Shelter: ongoing since 2017 (Rennes, Lisbonne, Luxembourg, Roma, Paris–La Défense, Zürich)
+- Balsan: Florens Orbis solo exhibition (Paris Design Week 2021); Brush collection of 12 customisable designs
+- Accor: Bloom design for corporate HQ, Issy-les-Moulineaux
+- Tissage Moutet: Méandre table linen jacquard collection
+- César Bazaar: geometric cement tile collection
+- Carocim: cement tile collection (still available)
+- Galerie B Edition + architect Cécile Chenais: Marriott Renaissance Paris Vendôme
+- Burning For: tableware motifs (co-founder)
+- Oscar Ono / Maison N°20: EquipHotel 2022
 
 ## Portfolio and Presence
+- Website: b-v.fr
+- Instagram: @Baptistevirgile (4,814 followers, 1,314 posts)
 
 ## Career Path
+Independent designer based in Aubervilliers. First documented commercial collaboration: Mama Shelter Lisbonne, summer 2017. Co-founded tableware brand Burning For. Resident at Villa Mais d'Ici, Aubervilliers. Parallel practice in straw marquetry objects under Labor Intus (hand-made, Aubervilliers studio, in development as of 2025).
 
 ## Pattern Focus
+Nature-inspired compositions (forests, botanicals, water, landscape) translated into hospitality-scale surfaces: corridor carpets, lobby mosaics, wallpaper, and window treatments. Also produces geometric and sinuous patterns for woven and tile formats. Selected images suggest dense, organic repeats with a strong graphic hand.
 
 ## Connections
+- [[Mama Shelter]]
+- [[Balsan]]
+- [[Tissage Moutet]]
+- [[César Bazaar]]
+- [[Hospitality Design]]
+- [[Cement Tile]]
+- [[Jacquard]]

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://megauchenbach.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/megauchenbachart
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MEG AUCHENBACH
 website_meta_description: ''
 website_about_raw: >-
@@ -226,7 +229,7 @@ open_to:
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -243,45 +246,145 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/297513203_1067772067277053_4453929342848288609_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG4ukIKrSICrasDdhVdhod6uaVF5yLrkEIIt0-yZScXn2zd9RAXlv5cnlk3LYv8r9A&_nc_ohc=41_4eIwQ65kQ7kNvwGhWOCV&_nc_gid=fHEmDzikV-3zGvXeLYFUjg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6C0zhyet5H8HQrmFNXRJZjUDtu--FDDXidSMJTq95kNw&oe=6A13E70F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/297513203_1067772067277053_4453929342848288609_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG4ukIKrSICrasDdhVdhod6uaVF5yLrkEIIt0-yZScXn2zd9RAXlv5cnlk3LYv8r9A&_nc_ohc=41_4eIwQ65kQ7kNvwGhWOCV&_nc_gid=fHEmDzikV-3zGvXeLYFUjg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6C0zhyet5H8HQrmFNXRJZjUDtu--FDDXidSMJTq95kNw&oe=6A13E70F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/megauchenbachart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3752
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/megauchenbachart/profile/297513203_1067772067277053_4453929342848288609_n.jpg
+instagram_profile_image_bytes: 150122
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/megauchenbachart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/megauchenbachart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/megauchenbachart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/megauchenbachart/profile/297513203_1067772067277053_4453929342848288609_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/megauchenbachart/profile/297513203_1067772067277053_4453929342848288609_n.jpg
+profile_image_local: >-
+  ../../assets/designers/megauchenbachart/profile/297513203_1067772067277053_4453929342848288609_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/megauchenbachart/profile/297513203_1067772067277053_4453929342848288609_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1527609128_1790037570629954633_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1528163559_1794688468526349760_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1553179096_2004534009754713483_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1676420709_3038359587943062606_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1711551612_3333058959907125206_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533520298716_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528507722_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528511931_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533897663099_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590387067941051_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590388217173871_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246171419498_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246238533745_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1767837618_3805220195191976019_1425220599.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1527609128_1790037570629954633_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1528163559_1794688468526349760_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1553179096_2004534009754713483_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528507722_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590388217173871_1425220599.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1676420709_3038359587943062606_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1711551612_3333058959907125206_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246238533745_1425220599.jpg
+  - >-
+    ../../assets/designers/megauchenbachart/instagram/megauchenbachart_1767837618_3805220195191976019_1425220599.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # megauchenbachart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/megauchenbachart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/megauchenbachart/profile/297513203_1067772067277053_4453929342848288609_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1527609128_1790037570629954633_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1527609128_1790037570629954633_1425220599.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1528163559_1794688468526349760_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1528163559_1794688468526349760_1425220599.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1553179096_2004534009754713483_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1553179096_2004534009754713483_1425220599.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1676420709_3038359587943062606_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1676420709_3038359587943062606_1425220599.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1711551612_3333058959907125206_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1711551612_3333058959907125206_1425220599.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533520298716_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533520298716_1425220599.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528507722_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528507722_1425220599.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528511931_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533528511931_1425220599.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533897663099_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1747935667_3638270533897663099_1425220599.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590387067941051_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590387067941051_1425220599.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590388217173871_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1761921283_3755590388217173871_1425220599.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246171419498_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246171419498_1425220599.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246238533745_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1766498665_3793988246238533745_1425220599.jpg --> | [ ] | [x] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/megauchenbachart/instagram/megauchenbachart_1767837618_3805220195191976019_1425220599.jpg)<br><!-- image:../../assets/designers/megauchenbachart/instagram/megauchenbachart_1767837618_3805220195191976019_1425220599.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Meg Auchenbach is a surface pattern designer, children's book author, and illustrator based in Eastern Pennsylvania. A former elementary art teacher, she now works across picture book illustration, surface pattern design, and custom pet portrait commissions. Published titles include *If You Are An Artist* (Peter Pauper Press, 2025) and *When Night Sleeps* (Postwave, 2027). Licensing is handled by Illustrate It Agency (UK); children's publishing by Dystel, Goderich & Bourret.
+
 ## Style and Aesthetic
+
+Auchenbach's visual language centres on whimsical animals, stylised florals, and hand-lettering with a warm, storybook quality. Selected Instagram images suggest illustrated patterns with soft, nature-inspired tones and a loose, expressive character. Vintage sensibility, fairy-tale references, and a consistent love of the natural world run through the work.
 
 ## Techniques and Tools
 
+Works in a mixed-media approach: watercolour, gouache, and colour pencil, as well as digitally. The combination gives the work a tactile, handmade quality while remaining production-ready for print applications.
+
 ## Markets and Clients
+
+Primary markets: kidswear and children's publishing. Licensing handled by Illustrate It Agency. Available for freelance, custom, and licensing commissions. Peter Pauper Press is the documented publishing client (2025).
 
 ## Portfolio and Presence
 
+- Website: https://megauchenbach.com
+- Instagram: https://instagram.com/megauchenbachart
+- Pet portraits: @megpaintspets
+- Licensing: Illustrate It Agency — mel.amann@illustrate-it.co.uk
+
 ## Career Path
+
+Former elementary art teacher. Transitioned to full-time illustration and surface pattern design. Published two children's picture books with major publishers. Children's publishing represented by Dystel, Goderich & Bourret.
 
 ## Pattern Focus
 
+Selected Instagram images suggest illustrated all-over patterns built around animal and botanical motifs. The work carries a storybook warmth well-suited to kidswear, gift, and children's publishing product tie-ins. Selected placements suggest application to lifestyle and gift product contexts.
+
 ## Connections
+
+- [[Illustrate It Agency]]
+- [[Peter Pauper Press]]
+- [[Kidswear Market]]
+- [[Children's Book Illustration]]
+- [[Animal Motifs]]
+- [[Whimsical Florals]]

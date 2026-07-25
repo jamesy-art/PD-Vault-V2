@@ -22,7 +22,7 @@ bio: ''
 website: 'https://moshitodesign.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/moshitodesign
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Surface Pattern Designer and Educator - Moshito Design
 website_meta_description: >-
   Ana Benito creates the most beautiful designs for children and women as a
@@ -287,7 +290,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -307,45 +310,127 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/91137572_302908627348847_8826381835954028544_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTguYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG2hv47Y6INsyThq-g4JZN5IuGzHCAIRH65cvsGL0ElMe0wDk6syKnCFZ6rCUr_3_o&_nc_ohc=d4TScRjSa8YQ7kNvwFfD1_o&_nc_gid=GLhpHjGjA2mDhhsNl3W6OA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7cDJ3vBOoFz6i608gIJT-ZAAUFzI7cMGVNBui17c9quw&oe=6A14044B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/91137572_302908627348847_8826381835954028544_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTguYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG2hv47Y6INsyThq-g4JZN5IuGzHCAIRH65cvsGL0ElMe0wDk6syKnCFZ6rCUr_3_o&_nc_ohc=d4TScRjSa8YQ7kNvwFfD1_o&_nc_gid=GLhpHjGjA2mDhhsNl3W6OA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7cDJ3vBOoFz6i608gIJT-ZAAUFzI7cMGVNBui17c9quw&oe=6A14044B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/moshitodesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6104
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/moshitodesign/profile/91137572_302908627348847_8826381835954028544_n.jpg
+instagram_profile_image_bytes: 51399
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/moshitodesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/moshitodesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/moshitodesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/moshitodesign/profile/91137572_302908627348847_8826381835954028544_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/moshitodesign/profile/91137572_302908627348847_8826381835954028544_n.jpg
+profile_image_local: >-
+  ../../assets/designers/moshitodesign/profile/91137572_302908627348847_8826381835954028544_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/moshitodesign/profile/91137572_302908627348847_8826381835954028544_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1746205224_3623754520030493316_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1776474034_3877667698591145172_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1776708028_3879630588253435687_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1779609646_3903971123071440418_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907370719673773_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907371139080394_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1779912021_3906507629824736198_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036697246037_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036823046558_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574572033378461_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574572788388341_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574573115527138_30145184049.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1776708028_3879630588253435687_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907371139080394_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1779912021_3906507629824736198_30145184049.jpg
+  - >-
+    ../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036823046558_30145184049.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # moshitodesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/moshitodesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/moshitodesign/profile/91137572_302908627348847_8826381835954028544_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1746205224_3623754520030493316_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1746205224_3623754520030493316_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1776474034_3877667698591145172_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1776474034_3877667698591145172_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1776708028_3879630588253435687_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1776708028_3879630588253435687_30145184049.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1779609646_3903971123071440418_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1779609646_3903971123071440418_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907370719673773_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907370719673773_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907371139080394_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1779721255_3904907371139080394_30145184049.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1779912021_3906507629824736198_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1779912021_3906507629824736198_30145184049.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036697246037_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036697246037_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036823046558_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1780082903_3907941036823046558_30145184049.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574572033378461_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574572033378461_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574572788388341_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574572788388341_30145184049.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574573115527138_30145184049.jpg)<br><!-- image:../../assets/designers/moshitodesign/instagram/moshitodesign_1780754466_3913574573115527138_30145184049.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Ana Benito Gonzalez is the designer and educator behind Moshito Design, a nomadic surface pattern practice producing designs for children's and women's apparel, home decor, wallpaper, and fabric. Self-taught as a pattern designer, she started the practice at the beginning of the pandemic and has built a multi-platform distribution model alongside educational content for aspiring pattern designers through Moshito Design Academy.
+
 ## Style and Aesthetic
+
+Colourful and nature-inspired, with named collections spanning Mediterranean botanicals, coastal and nautical imagery, ocean and jellyfish themes, cosmic dreamscapes, enchanted stone motifs, and floral compositions. Selected Instagram images suggest well-constructed all-over repeat patterns with confident colour and structured layouts designed for fabric and wallpaper application. Style balances decorative warmth with clean commercial execution.
 
 ## Techniques and Tools
 
+Works in Procreate on iPad with an Apple Pencil workflow. Sells custom Procreate brushes to other designers, indicating advanced tool-level expertise. Pattern design, repeat construction, and market adaptation are listed as core skills. Self-taught with a deliberately accessible, portable practice model suited to nomadic working.
+
 ## Markets and Clients
+
+Designs distributed through Spoonflower, Carriage House Printery, Raspberry Creek Fabrics, The Telarie, Cloth Cuts, Redbubble, and Zazzle. Collections have been used in handmade children's garments by the sewing community. Also publishes Amazon books (planners, sketchbooks, recipe books). Primary target markets are kidswear, women's fashion, and home decor. Available for licensing.
 
 ## Portfolio and Presence
 
+- Website: https://moshitodesign.com
+- Instagram: https://instagram.com/moshitodesign
+
 ## Career Path
+
+Biology background, not design-trained. Started surface pattern design at the beginning of the pandemic, driven by the goal of working from home while living internationally. Practice is deliberately portable — the studio moves with the family as they relocate countries every two to three years. Educational content (tutorials, Procreate brushes, Amazon books) developed alongside the design practice through Moshito Design Academy.
 
 ## Pattern Focus
 
+Selected images suggest structured all-over repeat patterns in a colourful, accessible style — florals, botanicals, ocean motifs. Collections are named and thematically organised (Mediterranean Summer, Hidden Treasures, Jellyfish Summer Days, Cosmic Dreams, Enchanted Stones, Summer Bloom), indicating a systematic, collection-based design practice suitable for fabric and wallpaper licensing.
+
 ## Connections
+
+- [[Spoonflower]] — primary fabric and wallpaper platform
+- [[Carriage House Printery]] — print platform
+- [[Raspberry Creek Fabrics]] — fabric platform
+- [[Procreate]] — primary design tool
+- [[Home Decor Market]] — key market
+- [[Kidswear Market]] — key market

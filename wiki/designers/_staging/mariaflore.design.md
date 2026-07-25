@@ -26,7 +26,7 @@ bio: ''
 website: 'https://mariaflore.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mariaflore.design
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MARIA FLORE | Ever in Bloom
 website_meta_description: >-
   MARIA FLORE — a surface designer rooted in a love for delicate details,
@@ -261,7 +264,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -278,45 +281,117 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/486075531_666406079174012_210801582013749905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGlAZYnCiTJDBNLsyDhe0MhGYxPXlEjUehXnRoIEkqS_PT_ILzoBTzamtbMaxBHreU&_nc_ohc=9VMMmbuDvh8Q7kNvwF2O2KH&_nc_gid=c99ZR5y6sj9CQcWz88ud5w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6zKhMQq5J8IV69syJVWMm5ve9Uw7bhAi83_-ztjm3pUw&oe=6A13FA8C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/486075531_666406079174012_210801582013749905_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGlAZYnCiTJDBNLsyDhe0MhGYxPXlEjUehXnRoIEkqS_PT_ILzoBTzamtbMaxBHreU&_nc_ohc=9VMMmbuDvh8Q7kNvwF2O2KH&_nc_gid=c99ZR5y6sj9CQcWz88ud5w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6zKhMQq5J8IV69syJVWMm5ve9Uw7bhAi83_-ztjm3pUw&oe=6A13FA8C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3923
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mariaflore.design/profile/486075531_666406079174012_210801582013749905_n.jpg
+instagram_profile_image_bytes: 88707
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mariaflore.design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mariaflore.design/profile/486075531_666406079174012_210801582013749905_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mariaflore.design/profile/486075531_666406079174012_210801582013749905_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mariaflore.design/profile/486075531_666406079174012_210801582013749905_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mariaflore.design/profile/486075531_666406079174012_210801582013749905_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662902724_2924962512790678160_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662905252_2924983715844747941_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1741066987_3580651872852267265_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1743220733_3598718805967340686_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1754353544_3692107587534196979_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962838815643_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962855578129_55110580993.jpg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662902724_2924962512790678160_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662905252_2924983715844747941_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1741066987_3580651872852267265_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962838815643_55110580993.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1754353544_3692107587534196979_55110580993.jpg
+  - >-
+    ../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962855578129_55110580993.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mariaflore.design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mariaflore.design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mariaflore.design/profile/486075531_666406079174012_210801582013749905_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662902724_2924962512790678160_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662902724_2924962512790678160_55110580993.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662905252_2924983715844747941_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1662905252_2924983715844747941_55110580993.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1741066987_3580651872852267265_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1741066987_3580651872852267265_55110580993.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1743220733_3598718805967340686_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1743220733_3598718805967340686_55110580993.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1754353544_3692107587534196979_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1754353544_3692107587534196979_55110580993.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962838815643_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962838815643_55110580993.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962855578129_55110580993.jpg)<br><!-- image:../../assets/designers/mariaflore.design/instagram/mariaflore.design_1771094030_3832536962855578129_55110580993.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Maria Flore is a US-based surface designer specialising in hand-sketched illustrations and soft watercolour prints. Her practice is oriented toward art licensing, with a portfolio spanning stationery, textiles, home décor, and paper goods. She describes her work as rooted in a love for nature, delicate details, and timeless beauty.
+
 ## Style and Aesthetic
+
+Flore's aesthetic centres on softness, warmth, and organic natural forms. Selected Instagram pattern images suggest nature-inspired floral and botanical compositions with refined, fine-detail execution. Selected placement images indicate applications on stationery and lifestyle products. Her framing positions each piece as "a quiet expression of love… created to uplift, comfort, and bring beauty into the spaces we hold closest."
 
 ## Techniques and Tools
 
+Hand-painted and hand-sketched illustrations digitised for production. Final files are production-ready with colour adjustments available on request. Licensing process is fully documented on her website, including file delivery and royalty structure.
+
 ## Markets and Clients
+
+Stationery, textiles, home décor, and paper goods. Art licensing to art directors and brands, with a defined royalty-based licensing model. Portfolio available for direct licensing; open to brand collaborations.
 
 ## Portfolio and Presence
 
+- Website: https://mariaflore.com
+- Instagram: @mariaflore.design
+
 ## Career Path
+
+Established a licensing-focused surface design practice built around nature-inspired illustration. Developing brand and licensing relationships with a documented collaboration and royalty process.
 
 ## Pattern Focus
 
+Nature-inspired florals and botanicals rendered in watercolour and hand-sketched line. Selected patterns suggest delicate, high-detail floral compositions with soft natural palettes. Licensing collections span stationery, home, and lifestyle categories.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Watercolour Pattern]]
+- [[Art Licensing]]
+- [[Stationery]]
+- [[Home Decor]]
+- [[Botanical Pattern]]
+- [[United States]]

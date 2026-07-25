@@ -22,12 +22,12 @@ skills:
 country: Germany
 can_use: 'Yes'
 instagram_handle: ateliermave
-instagram: 'https://instagram.com/@ateliermave'
+instagram: 'https://instagram.com/ateliermave'
 bio: ''
 website: 'https://ateliermave.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ateliermave
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Atelier Mave
 website_meta_description: >-
   Atelier Mave is an illustration and print design studio from Berlin. Berry has
@@ -296,7 +299,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -313,45 +316,162 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/419902775_1633835977151433_279051224936512969_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc5LmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFWknYZk-QkR91Ih06dzVtycQB3AycGDOn-14gp3KYx4haE3WTtKm-8YwQmWcn9ngc&_nc_ohc=Zd32yukhaUIQ7kNvwHqEsLT&_nc_gid=yv7SZOD3EBMrFpPnStjyIA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DHEdYcsd9-frOpz1ZLhTXBRtd3oo4XVB-jF7pGbejxg&oe=6A13ECD4&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/419902775_1633835977151433_279051224936512969_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc5LmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFWknYZk-QkR91Ih06dzVtycQB3AycGDOn-14gp3KYx4haE3WTtKm-8YwQmWcn9ngc&_nc_ohc=Zd32yukhaUIQ7kNvwHqEsLT&_nc_gid=yv7SZOD3EBMrFpPnStjyIA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4DHEdYcsd9-frOpz1ZLhTXBRtd3oo4XVB-jF7pGbejxg&oe=6A13ECD4&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ateliermave/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2917
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ateliermave/profile/419902775_1633835977151433_279051224936512969_n.jpg
+instagram_profile_image_bytes: 46896
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ateliermave/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ateliermave/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ateliermave/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ateliermave/profile/419902775_1633835977151433_279051224936512969_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ateliermave/profile/419902775_1633835977151433_279051224936512969_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ateliermave/profile/419902775_1633835977151433_279051224936512969_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ateliermave/profile/419902775_1633835977151433_279051224936512969_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1757921276_3722035893638072084_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1762865125_3763507902536286801_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1764840134_3780075484881948606_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560901507384_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560977052032_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1768833402_3813573444168936919_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1770796817_3830043750530100578_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1771064966_3832293146923751879_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1771920045_3839466067408561270_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1772092234_3840910496862375760_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1773650156_3853979288991524899_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1774252291_3859030357891156362_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1774601211_3861957319072792558_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1774867569_3864191692132182034_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1775035470_3865596702862679573_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1775035470_3865596705714810111_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1775206540_3867035189474354789_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1779126185_3899915551416596446_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1779275252_3901166014610883984_5563417896.webp
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1762865125_3763507902536286801_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1764840134_3780075484881948606_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560901507384_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560977052032_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1768833402_3813573444168936919_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1772092234_3840910496862375760_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1774601211_3861957319072792558_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1774867569_3864191692132182034_5563417896.webp
+selected_placements:
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1757921276_3722035893638072084_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1773650156_3853979288991524899_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1775206540_3867035189474354789_5563417896.webp
+  - >-
+    ../../assets/designers/ateliermave/instagram/ateliermave_1779275252_3901166014610883984_5563417896.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # ateliermave
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ateliermave/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ateliermave/profile/419902775_1633835977151433_279051224936512969_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1757921276_3722035893638072084_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1757921276_3722035893638072084_5563417896.webp --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1762865125_3763507902536286801_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1762865125_3763507902536286801_5563417896.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1764840134_3780075484881948606_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1764840134_3780075484881948606_5563417896.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560901507384_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560901507384_5563417896.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560977052032_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1768299597_3809095560977052032_5563417896.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1768833402_3813573444168936919_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1768833402_3813573444168936919_5563417896.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1770796817_3830043750530100578_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1770796817_3830043750530100578_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1771064966_3832293146923751879_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1771064966_3832293146923751879_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1771920045_3839466067408561270_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1771920045_3839466067408561270_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1772092234_3840910496862375760_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1772092234_3840910496862375760_5563417896.webp --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1773650156_3853979288991524899_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1773650156_3853979288991524899_5563417896.webp --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1774252291_3859030357891156362_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1774252291_3859030357891156362_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1774601211_3861957319072792558_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1774601211_3861957319072792558_5563417896.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1774867569_3864191692132182034_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1774867569_3864191692132182034_5563417896.webp --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1775035470_3865596702862679573_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1775035470_3865596702862679573_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1775035470_3865596705714810111_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1775035470_3865596705714810111_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1775206540_3867035189474354789_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1775206540_3867035189474354789_5563417896.webp --> | [ ] | [x] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1779126185_3899915551416596446_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1779126185_3899915551416596446_5563417896.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/ateliermave/instagram/ateliermave_1779275252_3901166014610883984_5563417896.webp)<br><!-- image:../../assets/designers/ateliermave/instagram/ateliermave_1779275252_3901166014610883984_5563417896.webp --> | [ ] | [x] | [ ] |
+
 ## Website Images
 
-
 ## Overview
+Atelier Mave is a Berlin-based illustration and print design studio run by Berry Aktuglu. The studio serves children's and adult markets across fashion, stationery, and home design, alongside editorial illustration work for magazines, book covers, posters, apps, and e-books. A licensed Pattern Library is available on request.
 
 ## Style and Aesthetic
+Aktuglu's work ranges from seasonal narrative illustration to structured surface repeat patterns. The portfolio spans gouache paintings, paper-cut compositions, and digital illustration. Selected Instagram images suggest botanical and floral repeats alongside character-led and food-themed compositions — cheerful, crafted, and suited to multiple product categories.
 
 ## Techniques and Tools
+Gouache painting, paper-cut illustration, and Procreate. Hand lettering is also practised. Techniques are used in combination across the portfolio.
 
 ## Markets and Clients
+Womenswear, kidswear, and stationery. Documented clients:
+- Barilla: commissioned food cultures illustration
+- Greenpeace UK: #drawtheoceans challenge contributor
+
+Also produces a limited edition silk scarf collection.
 
 ## Portfolio and Presence
+- Website: ateliermave.com
+- Instagram: @ateliermave (21,108 followers, 1,593 posts)
+- Email: hello@ateliermave.com
+- Pattern Library available on request
+- Substack: The Journal (@ateliermave)
 
 ## Career Path
+Berry Aktuglu is based in Berlin. No specific prior career history documented beyond current studio practice.
 
 ## Pattern Focus
+Botanical and floral repeats, food and recipe illustration-based patterns, seasonal and holiday-themed compositions. Selected images suggest warm-palette, nature-and-character-driven work suited to stationery, kidswear, and gift applications.
 
 ## Connections
+- [[Kidswear]]
+- [[Stationery]]
+- [[Flower Pattern]]
+- [[Editorial Illustration]]
+- [[Berlin]]

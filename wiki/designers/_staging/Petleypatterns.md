@@ -20,7 +20,7 @@ bio: ''
 website: 'https://Jonathan_Petley@yahoo.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/petleypatterns
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos'
 website_meta_description: >-
   Latest news coverage, email, free stock quotes, live scores and video are just
@@ -73,7 +76,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -93,45 +96,105 @@ instagram_profile_pic_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/532213721_17977196522911988_6929102172004954237_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHC3uZ1IVRrbMwRrigw2ERyMvia5rMIkAoAmILDA3ziZaGI-cpfQa2k40f3Rx-QSiM&_nc_ohc=sWfBQKCVGtwQ7kNvwEj9zAp&_nc_gid=TmrP1Sa7Giiz2E_WJSIqlw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rJSCWCdtO4VcSW4wEbTFkF3FUf9ZYoXujYIoJoWn9Kg&oe=6A13E65E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.82787-19/532213721_17977196522911988_6929102172004954237_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHC3uZ1IVRrbMwRrigw2ERyMvia5rMIkAoAmILDA3ziZaGI-cpfQa2k40f3Rx-QSiM&_nc_ohc=sWfBQKCVGtwQ7kNvwEj9zAp&_nc_gid=TmrP1Sa7Giiz2E_WJSIqlw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5rJSCWCdtO4VcSW4wEbTFkF3FUf9ZYoXujYIoJoWn9Kg&oe=6A13E65E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/petleypatterns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7677
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/petleypatterns/profile/532213721_17977196522911988_6929102172004954237_n.jpg
+instagram_profile_image_bytes: 441380
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/petleypatterns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/petleypatterns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/petleypatterns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/petleypatterns/profile/532213721_17977196522911988_6929102172004954237_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/petleypatterns/profile/532213721_17977196522911988_6929102172004954237_n.jpg
+profile_image_local: >-
+  ../../assets/designers/petleypatterns/profile/532213721_17977196522911988_6929102172004954237_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/petleypatterns/profile/532213721_17977196522911988_6929102172004954237_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182852499352_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182860989710_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831183011996191_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1726092719_3455038609713653707_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248616918543709_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248617103123637_57205719987.jpg
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182852499352_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831183011996191_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1726092719_3455038609713653707_57205719987.jpg
+  - >-
+    ../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248617103123637_57205719987.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # petleypatterns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/petleypatterns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/petleypatterns/profile/532213721_17977196522911988_6929102172004954237_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182852499352_57205719987.jpg)<br><!-- image:../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182852499352_57205719987.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182860989710_57205719987.jpg)<br><!-- image:../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831182860989710_57205719987.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831183011996191_57205719987.jpg)<br><!-- image:../../assets/designers/petleypatterns/instagram/petleypatterns_1713789435_3351831183011996191_57205719987.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/petleypatterns/instagram/petleypatterns_1726092719_3455038609713653707_57205719987.jpg)<br><!-- image:../../assets/designers/petleypatterns/instagram/petleypatterns_1726092719_3455038609713653707_57205719987.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248616918543709_57205719987.jpg)<br><!-- image:../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248616918543709_57205719987.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248617103123637_57205719987.jpg)<br><!-- image:../../assets/designers/petleypatterns/instagram/petleypatterns_1755085611_3698248617103123637_57205719987.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jonathan Petley is a US-based pattern designer, published author, poet, and licensed artist operating as Petleypatterns. His Instagram profile identifies him as a licensed artist, placing his practice at the intersection of creative writing and surface pattern design. No functional website is available; the registered URL resolves to a personal email address.
+
 ## Style and Aesthetic
+
+Visual evidence is limited to selected Instagram images. Selected patterns suggest decorative surface design work in a range that may include illustrative and motif-led compositions. No additional style information is available from current sources.
 
 ## Techniques and Tools
 
+No specific tool information available from current sources.
+
 ## Markets and Clients
+
+Listed category includes kidswear. As a self-described licensed artist, practice likely involves pattern licensing in addition to or instead of direct commissions.
 
 ## Portfolio and Presence
 
+- Instagram: @Petleypatterns
+
 ## Career Path
+
+Published author and poet alongside pattern design practice, suggesting a cross-disciplinary creative background. Active on Instagram with 338 posts and 446 followers.
 
 ## Pattern Focus
 
+Selected patterns suggest decorative surface design work. The nature of a licensed practice implies repeat pattern design suitable for product and fabric application, though specific categories are not confirmed by available sources.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Pattern Licensing]]
+- [[Kidswear]]

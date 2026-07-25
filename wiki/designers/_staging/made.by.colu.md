@@ -23,7 +23,7 @@ bio: ''
 website: 'https://madebycolu.com'
 website_about: ''
 accepted: 08/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/made.by.colu
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - enriched
 website_title: >-
   made.by.colu | Corinna Falcone | Surface Pattern Designer | Illustratorin im
   Allgäu
@@ -246,7 +249,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -266,45 +269,224 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/504202726_18074911528939314_7255628734811770045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF4sF8afto9NzrQ0Nzecr0WrKOLMrllJ9tNMpJqUs-vunm3P3Z0z9woZT01szAE2Ec&_nc_ohc=lxop0PiMYREQ7kNvwGxbNs0&_nc_gid=dMff5K6zgV8ErlrV3zjEQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6d_PKvYdKoSM2C8eAQTofamw1KQfGbNLN3zwRFcYVX1Q&oe=6A13D828&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/504202726_18074911528939314_7255628734811770045_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF4sF8afto9NzrQ0Nzecr0WrKOLMrllJ9tNMpJqUs-vunm3P3Z0z9woZT01szAE2Ec&_nc_ohc=lxop0PiMYREQ7kNvwGxbNs0&_nc_gid=dMff5K6zgV8ErlrV3zjEQg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6d_PKvYdKoSM2C8eAQTofamw1KQfGbNLN3zwRFcYVX1Q&oe=6A13D828&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6894
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/made.by.colu/profile/504202726_18074911528939314_7255628734811770045_n.jpg
+instagram_profile_image_bytes: 158233
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/made.by.colu/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/made.by.colu/profile/504202726_18074911528939314_7255628734811770045_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/made.by.colu/profile/504202726_18074911528939314_7255628734811770045_n.jpg
+profile_image_local: >-
+  ../../assets/designers/made.by.colu/profile/504202726_18074911528939314_7255628734811770045_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/made.by.colu/profile/504202726_18074911528939314_7255628734811770045_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019255751829939_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019256129305093_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1711052692_3328873715133329387_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1716818637_3377241962355057467_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1716928796_3378166052921415016_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331636596161_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331636792030_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331837980258_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829418548091_28132427313.webp
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829569610960_28132427313.webp
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950133629_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950279223_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950280957_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514958672872_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457515235420077_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1729918298_3487129890613400679_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1734822059_3528265621907751311_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901909741726_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901909771902_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926549261_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926683789_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582229369170_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582237947278_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582246118693_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1752097680_3673184028611678295_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1752097680_3673184028611827160_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760662148816_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760855091450_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760863497001_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1761779239_3754398834726426017_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807014164837_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807047751307_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807173543449_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055825832926000_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055826873083258_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055827309308633_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585803711356230_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585803736518287_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585804013349315_28132427313.jpg
+instagram_image_count: 39
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1711052692_3328873715133329387_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1716818637_3377241962355057467_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1716928796_3378166052921415016_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331837980258_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829418548091_28132427313.webp
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950280957_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1734822059_3528265621907751311_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926549261_28132427313.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019256129305093_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926683789_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1761779239_3754398834726426017_28132427313.jpg
+  - >-
+    ../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055825832926000_28132427313.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # made.by.colu
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/made.by.colu/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/made.by.colu/profile/504202726_18074911528939314_7255628734811770045_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019255751829939_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019255751829939_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019256129305093_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1684963208_3110019256129305093_28132427313.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1711052692_3328873715133329387_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1711052692_3328873715133329387_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1716818637_3377241962355057467_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1716818637_3377241962355057467_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1716928796_3378166052921415016_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1716928796_3378166052921415016_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331636596161_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331636596161_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331636792030_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331636792030_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331837980258_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1717735996_3384937331837980258_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829418548091_28132427313.webp)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829418548091_28132427313.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829569610960_28132427313.webp)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1718807627_3393926829569610960_28132427313.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950133629_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950133629_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950279223_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950279223_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950280957_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514950280957_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514958672872_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457514958672872_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457515235420077_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1727215540_3464457515235420077_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1729918298_3487129890613400679_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1729918298_3487129890613400679_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1734822059_3528265621907751311_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1734822059_3528265621907751311_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901909741726_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901909741726_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901909771902_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901909771902_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926549261_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926549261_28132427313.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926683789_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744472919_3609222901926683789_28132427313.jpg --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582229369170_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582229369170_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582237947278_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582237947278_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582246118693_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1744473239_3609225582246118693_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1752097680_3673184028611678295_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1752097680_3673184028611678295_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1752097680_3673184028611827160_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1752097680_3673184028611827160_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760662148816_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760662148816_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760855091450_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760855091450_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760863497001_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1756570023_3710700760863497001_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1761779239_3754398834726426017_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1761779239_3754398834726426017_28132427313.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807014164837_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807014164837_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807047751307_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807047751307_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807173543449_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1762194084_3757878807173543449_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055825832926000_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055825832926000_28132427313.jpg --> | [ ] | [x] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055826873083258_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055826873083258_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055827309308633_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1762930442_3764055827309308633_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585803711356230_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585803711356230_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585803736518287_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585803736518287_28132427313.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585804013349315_28132427313.jpg)<br><!-- image:../../assets/designers/made.by.colu/instagram/made.by.colu_1764662550_3778585804013349315_28132427313.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Corinna Falcone is a freelance graphic designer and illustrator based in Isny im Allgäu, Germany, creating surface patterns and illustrations under the Made by Colu brand. Working as a freelancer since 2005, she turned her focus to pattern design approximately four years ago, building collections for textiles, gift wrap, and interior products. Available for custom commissions and licensing.
+
 ## Style and Aesthetic
+
+Contemporary decorative patterns drawn from florals, nature motifs, and seasonal themes. Instagram bio describes the work as "Contemporary surface patterns & illustrations / For interior, lifestyle & modern brands." Selected pattern images suggest a range from tight florals to more organic illustrative compositions, with warm, commercially accessible palettes.
 
 ## Techniques and Tools
 
+Adapts to different drawing techniques and pattern styles as required by client brief. Works across graphic design and illustration disciplines. Operates as a solo freelance studio. Sells on Shutterstock and Redbubble in addition to custom client work.
+
 ## Markets and Clients
+
+Interior, lifestyle, and modern brands. Collections available via Shutterstock and Redbubble for print-on-demand licensing. Documented portfolio collections include Flowery Meadow, Under The Sea - Coral, and Mocha Mousse. Selected placement images suggest textile and interior product contexts (fabric, home goods).
 
 ## Portfolio and Presence
 
+- Website: https://madebycolu.com
+- Instagram: @made.by.colu
+- Shutterstock (stock and licensing)
+- Redbubble (print-on-demand)
+
 ## Career Path
+
+German graphic designer and illustrator with a freelance practice since 2005. Developed a specialist focus on surface pattern design around 2021, since building multiple named collections. Studio operates under the Made by Colu brand from Isny im Allgäu in the Bavarian Allgäu region.
 
 ## Pattern Focus
 
+Florals, botanical motifs, underwater-inspired compositions, and seasonal repeat patterns. Named collections suggest a nature-led vocabulary: meadow florals (Flowery Meadow), underwater themes (Under The Sea - Coral), autumnal warmth (Mocha Mousse). Selected patterns indicate clean repeat structures with commercial application.
+
 ## Connections
+
+- [[Home Decor Market]]
+- [[Interior Design Market]]
+- [[Shutterstock]]
+- [[Redbubble]]

@@ -25,7 +25,7 @@ bio: ''
 website: 'https://mimishastudio.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mimisha_designstudio
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: MIMISHA Design Studio
 website_meta_description: >-
   Mimisha design studio is a creative pattern and surface design studio offering
@@ -288,7 +291,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -309,45 +312,168 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/468430053_604209931958649_7166225306537294324_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDYuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHzaffxGGLD_PrFpJ1ugJqzCNL825GaEcG1kaTUpnbyCDXA4z8grMU7CT186lGf59A&_nc_ohc=7ntrdNUqMhAQ7kNvwGmxxdj&_nc_gid=bhSQet6q3dE9bfR81ChPjA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6LBNq6WSy4g9QT-yLVaNmL7F7x5HkST0iCAvac_wnCnQ&oe=6A13DC68&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/468430053_604209931958649_7166225306537294324_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDYuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHzaffxGGLD_PrFpJ1ugJqzCNL825GaEcG1kaTUpnbyCDXA4z8grMU7CT186lGf59A&_nc_ohc=7ntrdNUqMhAQ7kNvwGmxxdj&_nc_gid=bhSQet6q3dE9bfR81ChPjA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6LBNq6WSy4g9QT-yLVaNmL7F7x5HkST0iCAvac_wnCnQ&oe=6A13DC68&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mimisha_designstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3037
+instagram_profile_image_local: >-
+  ../../assets/designers/mimisha_designstudio/profile/468430053_604209931958649_7166225306537294324_n.jpg
+instagram_profile_image_bytes: 25868
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mimisha_designstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mimisha_designstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mimisha_designstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mimisha_designstudio/profile/468430053_604209931958649_7166225306537294324_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mimisha_designstudio/profile/468430053_604209931958649_7166225306537294324_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mimisha_designstudio/profile/468430053_604209931958649_7166225306537294324_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mimisha_designstudio/profile/468430053_604209931958649_7166225306537294324_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1730156341_3489126738216211587_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1732799287_3511297380570996461_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744138348513_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744146572097_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744155125014_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883628202182_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883678521315_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770137784_3824510302436203575_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770138559_3824520686375318749_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363386_3859960339232243979_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363444_3859962753456853032_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774422503_3860456921320975786_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774693038_3862726463216721754_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774886349_3864349242823326661_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774887093_3864355484837775257_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489378740650820_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489395274551079_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489398831322979_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1777473730_3886052282399783962_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1779285353_3901247817143954860_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1780438073_3910919267442418611_64685153593.jpg
+instagram_image_count: 21
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1730156341_3489126738216211587_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1732799287_3511297380570996461_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744138348513_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883628202182_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770137784_3824510302436203575_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770138559_3824520686375318749_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363386_3859960339232243979_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774693038_3862726463216721754_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774887093_3864355484837775257_64685153593.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774422503_3860456921320975786_64685153593.jpg
+  - >-
+    ../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1777473730_3886052282399783962_64685153593.jpg
+trash_images: []
+selected_pattern_count: 9
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mimisha_designstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mimisha_designstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mimisha_designstudio/profile/468430053_604209931958649_7166225306537294324_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1730156341_3489126738216211587_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1730156341_3489126738216211587_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1732799287_3511297380570996461_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1732799287_3511297380570996461_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744138348513_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744138348513_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744146572097_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744146572097_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744155125014_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1741197029_3581742744155125014_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883628202182_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883628202182_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883678521315_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1764591392_3777988883678521315_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770137784_3824510302436203575_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770137784_3824510302436203575_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770138559_3824520686375318749_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1770138559_3824520686375318749_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363386_3859960339232243979_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363386_3859960339232243979_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363444_3859962753456853032_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774363444_3859962753456853032_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774422503_3860456921320975786_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774422503_3860456921320975786_64685153593.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774693038_3862726463216721754_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774693038_3862726463216721754_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774886349_3864349242823326661_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774886349_3864349242823326661_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774887093_3864355484837775257_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1774887093_3864355484837775257_64685153593.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489378740650820_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489378740650820_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489395274551079_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489395274551079_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489398831322979_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1775737525_3871489398831322979_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1777473730_3886052282399783962_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1777473730_3886052282399783962_64685153593.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1779285353_3901247817143954860_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1779285353_3901247817143954860_64685153593.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1780438073_3910919267442418611_64685153593.jpg)<br><!-- image:../../assets/designers/mimisha_designstudio/instagram/mimisha_designstudio_1780438073_3910919267442418611_64685153593.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+MIMISHA is a Barcelona-based surface design studio led by Telma Fernandes, specialising in illustration and pattern design for licensing, with secondary offerings in bespoke collections and brand identity work. The studio operates three documented service lines: Print & Pattern (licensing catalogue updated year-round), Bespoke Collections (custom artwork and colour palettes to brand brief), and Brand ID & Strategy (hand-drawn lettering and animated videos). It targets clients worldwide.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a warm, hand-crafted illustrative aesthetic with characterful, playful work suited to the children's, textile, and homeware markets. The studio's documented positioning — "kids fashion, textiles & homeware" — indicates a commercially adaptable style across accessible consumer product categories.
 
 ## Techniques and Tools
 
+Illustration, hand lettering, colour theory, pattern design, market adaptation, and licensing. The studio also produces animated videos as part of its brand identity offering, indicating digital motion capability alongside traditional illustration.
+
 ## Markets and Clients
+
+Documented markets: paper goods, stationery, fashion, children's fashion and accessories, textile, home goods, and interior design. The studio maintains a year-round licensing catalogue for brands seeking ready-to-use artwork. No specific named client relationships are publicly documented.
 
 ## Portfolio and Presence
 
+- Website: mimishastudio.com
+- Instagram: @mimisha_designstudio (105 followers; business account)
+- Contact: info@mimishastudio.com
+
 ## Career Path
+
+Telma Fernandes operates MIMISHA as a Barcelona-based studio. The studio's structured service model — licensing catalogue, bespoke work, and brand strategy — reflects a professionally positioned small studio offering.
 
 ## Pattern Focus
 
+Selected Instagram images suggest repeat pattern work with an illustrative, character-rich sensibility. The studio's primary business model is a licensing catalogue — patterns and artwork ready for immediate use by brands across children's, textile, and homeware categories.
+
 ## Connections
+
+- [[Kidswear]] — primary documented market
+- [[Textile Design]] — core licensing market
+- [[Home Decor]] — documented market
+- [[Stationery]] — documented market
+- [[Surface Pattern Licensing]] — primary business model

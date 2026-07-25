@@ -14,12 +14,12 @@ skills:
 country: Sweden
 can_use: 'Yes'
 instagram_handle: mariavallmostudio
-instagram: 'https://instagram.com/@mariavallmostudio'
+instagram: 'https://instagram.com/mariavallmostudio'
 bio: ''
 website: 'https://mariavallmo.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mariavallmostudio
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: FORM OCH FÄRG | mariakultala
 website_meta_description: ''
 website_about_raw: >-
@@ -174,7 +177,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   My name is Maria Kultala and I am a Swedish graphic designer and illustrator
   living in Vaxholm. I create stories in patterns in gouache and acrylic which
@@ -243,45 +246,153 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/536826056_17934312435063809_4110826254111064973_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjcuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGsHnTE_OL06XTeLAKDGyvgLuBvOM10-HvwjfTYBRcuK4wd60z-thExZ1_Ve73-u3o&_nc_ohc=Z2LxzvMBjlUQ7kNvwEj4AAJ&_nc_gid=1wHHY4AJV8_O1Erx6vCEMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5E4lxlZWJ3GLoHrQFhJDMIrvj68PjFkEF_hif2k15xQQ&oe=6A13DACA&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/536826056_17934312435063809_4110826254111064973_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MjcuYzIifQ&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGsHnTE_OL06XTeLAKDGyvgLuBvOM10-HvwjfTYBRcuK4wd60z-thExZ1_Ve73-u3o&_nc_ohc=Z2LxzvMBjlUQ7kNvwEj4AAJ&_nc_gid=1wHHY4AJV8_O1Erx6vCEMw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5E4lxlZWJ3GLoHrQFhJDMIrvj68PjFkEF_hif2k15xQQ&oe=6A13DACA&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mariavallmostudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4875
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mariavallmostudio/profile/536826056_17934312435063809_4110826254111064973_n.jpg
+instagram_profile_image_bytes: 36668
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mariavallmostudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mariavallmostudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mariavallmostudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mariavallmostudio/profile/536826056_17934312435063809_4110826254111064973_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mariavallmostudio/profile/536826056_17934312435063809_4110826254111064973_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mariavallmostudio/profile/536826056_17934312435063809_4110826254111064973_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mariavallmostudio/profile/536826056_17934312435063809_4110826254111064973_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719148707_3396788014418327423_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719165830_3396931653509524549_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1734714967_3527367261779587224_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375705420151_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375713735246_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375738845327_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580178887661_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580187285213_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580187314993_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580195754381_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150621727071_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630095142_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630189084_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630236618_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495731004625_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739171620_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739208283_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739387326_61868143808.jpg
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719148707_3396788014418327423_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719165830_3396931653509524549_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1734714967_3527367261779587224_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375705420151_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580178887661_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630236618_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495731004625_61868143808.jpg
+  - >-
+    ../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739208283_61868143808.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # mariavallmostudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mariavallmostudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mariavallmostudio/profile/536826056_17934312435063809_4110826254111064973_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719148707_3396788014418327423_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719148707_3396788014418327423_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719165830_3396931653509524549_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1719165830_3396931653509524549_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1734714967_3527367261779587224_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1734714967_3527367261779587224_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375705420151_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375705420151_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375713735246_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375713735246_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375738845327_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1749753232_3653517375738845327_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580178887661_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580178887661_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580187285213_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580187285213_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580187314993_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580187314993_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580195754381_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750010987_3655679580195754381_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150621727071_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150621727071_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630095142_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630095142_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630189084_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630189084_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630236618_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750274507_3657890150630236618_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495731004625_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495731004625_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739171620_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739171620_61868143808.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739208283_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739208283_61868143808.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739387326_61868143808.jpg)<br><!-- image:../../assets/designers/mariavallmostudio/instagram/mariavallmostudio_1750516543_3659920495739387326_61868143808.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Maria Kultala is a Swedish graphic designer, illustrator, and pattern designer based in Vaxholm. She holds a Bachelor's degree in Design from HDK-Valand at the University of Gothenburg. Her pattern work is rooted in Swedish folklore, nature, and everyday life, rendered in gouache and acrylic to give designs a painterly quality distinct from digital-only production.
+
 ## Style and Aesthetic
+
+Selected Instagram pattern images suggest soft, illustrative repeats with a Nordic palette — muted naturalistic tones, gentle florals, and fine painterly detail. Named collections frame the aesthetic precisely: *Selkien* (sea mythology, Nordic legend), *Folklore in the Forest* (woodland animals, watercolour, fairy stories for children), *Mini-collection för kids* Spring/Summer (inspired by Stockholm and Nordic simplicity), and *Blue Butterflies* (quiet, soft motifs). Work is designed to feel "soft, playful, and reassuring."
 
 ## Techniques and Tools
 
+Gouache and acrylic painting as primary media, giving patterns a painterly quality rather than digital-graphic construction. Graphic design background includes Photoshop, InDesign, and Illustrator, applied to pattern layout and production.
+
 ## Markets and Clients
+
+Children's fashion and lifestyle are the primary evident market. Folklore-inspired themes and named mini-collections suit children's apparel, textile, and gift categories. No documented commercial clients or licensing arrangements.
 
 ## Portfolio and Presence
 
+- Website: https://mariavallmo.com
+- Instagram: @mariavallmostudio
+
 ## Career Path
+
+Studied Design at HDK-Valand, University of Gothenburg, developing both graphic and illustrative skills. Based in Vaxholm, Stockholm archipelago.
 
 ## Pattern Focus
 
+Painterly folklore and nature-inspired patterns developed as named collections. Woodland animals, botanicals, Nordic mythological motifs, and soft all-over repeats. Suited to children's apparel and Scandinavian lifestyle products. Selected patterns reflect fine painterly detail rather than graphic-digital construction.
+
 ## Connections
+
+- [[Folklore Pattern]]
+- [[Swedish Design]]
+- [[Children's Fashion]]
+- [[Nordic Aesthetic]]
+- [[Botanical Pattern]]
+- [[Gouache]]

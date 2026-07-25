@@ -22,7 +22,7 @@ bio: ''
 website: 'https://florarosedesign.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/guylainecharlebois
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Flora Rose Design par Guylaine Charlebois
 website_meta_description: Licensed surface patter designer
 website_about_raw: >-
@@ -258,7 +261,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -275,45 +278,139 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/575997812_18295704583261138_5493278641466939963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEboErA4pCW9x4_uYD7aZdSp92qLMPiFh6vCq_QPSWF81uXK0WfAXWcP5RJJG-RL1o&_nc_ohc=TpHHMAaqRtsQ7kNvwEbgQsL&_nc_gid=qWJky176gbFl1Se5-Zz_3w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6fl85BiRHw1Oych0Fy8BQ4uxWCAMqfvN2kj6xaTCzdfQ&oe=6A13D4F9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.82787-19/575997812_18295704583261138_5493278641466939963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEboErA4pCW9x4_uYD7aZdSp92qLMPiFh6vCq_QPSWF81uXK0WfAXWcP5RJJG-RL1o&_nc_ohc=TpHHMAaqRtsQ7kNvwEbgQsL&_nc_gid=qWJky176gbFl1Se5-Zz_3w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6fl85BiRHw1Oych0Fy8BQ4uxWCAMqfvN2kj6xaTCzdfQ&oe=6A13D4F9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4626
+instagram_profile_image_local: >-
+  ../../assets/designers/guylainecharlebois/profile/575997812_18295704583261138_5493278641466939963_n.jpg
+instagram_profile_image_bytes: 20258
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/guylainecharlebois/profile/575997812_18295704583261138_5493278641466939963_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/guylainecharlebois/profile/575997812_18295704583261138_5493278641466939963_n.jpg
+profile_image_local: >-
+  ../../assets/designers/guylainecharlebois/profile/575997812_18295704583261138_5493278641466939963_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/guylainecharlebois/profile/575997812_18295704583261138_5493278641466939963_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298621271203_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298680091598_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350530462_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350585041_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722826317_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722868321_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347343258037_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347351664034_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347385106585_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308964811174_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308973159995_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250309174448208_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1765511540_3785707647614710938_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1768431575_3810202666266696489_7907685137.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298621271203_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350530462_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722826317_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347385106585_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308964811174_7907685137.jpg
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1768431575_3810202666266696489_7907685137.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347343258037_7907685137.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # guylainecharlebois
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/guylainecharlebois/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/guylainecharlebois/profile/575997812_18295704583261138_5493278641466939963_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298621271203_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298621271203_7907685137.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298680091598_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1704029069_3269955298680091598_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350530462_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350530462_7907685137.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350585041_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1716225695_3372268008350585041_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722826317_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722826317_7907685137.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722868321_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1717277272_3381089274722868321_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347343258037_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347343258037_7907685137.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347351664034_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347351664034_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347385106585_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1738435499_3558577347385106585_7907685137.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308964811174_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308964811174_7907685137.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308973159995_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250308973159995_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250309174448208_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1739230978_3565250309174448208_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1765511540_3785707647614710938_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1765511540_3785707647614710938_7907685137.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1768431575_3810202666266696489_7907685137.jpg)<br><!-- image:../../assets/designers/guylainecharlebois/instagram/guylainecharlebois_1768431575_3810202666266696489_7907685137.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Guylaine Charlebois is a Quebec-based surface pattern designer operating under the Flora Rose Design brand. She came to pattern design in 2023, bringing a background in oil painting and textile crafts (felting). Her practice is focused on wallpaper and interior surfaces — classical historical styles reinterpreted with warmth and a serene contemporary sensibility. Named collections include Botanical Weave, Emerald Garden, The Dreamers' Garden, Vermiculated Blooms, Toile De Jouy, and Hummingbird Garden. Open to licensing and collaboration.
+
 ## Style and Aesthetic
+
+Soft, nature-led, and historically referential. Charlebois interprets classical decorative traditions — Damask, Toile de Jouy, Arts & Crafts — through a personal lens that carries "warmth, story, and quiet wonder." Selected patterns suggest detailed botanical and floral compositions with a serene, interior-facing palette. Work bridges vintage charm and contemporary interior clarity, designed as "havens of softness."
 
 ## Techniques and Tools
 
+Hand-drawing is documented as central to the design process ("sketch à la main, conceptrice de motifs"). Brings a background in oil painting and the textile craft of felting (hats and scarves) to her pattern practice. Digital production tools are used for final output.
+
 ## Markets and Clients
+
+Wallpaper and interior surfaces are the primary market. Instagram bio confirms positioning as a "licensed surface pattern designer creating for wallpaper and home goods." Open to licensing and collaboration; no specific clients documented at time of ingestion.
 
 ## Portfolio and Presence
 
+- Website: [florarosedesign.com](https://florarosedesign.com)
+- Instagram: [@guylainecharlebois](https://instagram.com/guylainecharlebois) — 1,039 followers, 31 posts
+
 ## Career Path
+
+Fascinated by patterns since childhood — specifically recalling wallpaper catalogues shared with her grandmother. Diverse artistic background spanning oil painting and felting before turning to surface pattern design in 2023. Based in Quebec; draws inspiration from nature, seasonal rhythms, and the handmade craft tradition.
 
 ## Pattern Focus
 
+Classical decorative patterns for wallpaper and interior surfaces. Strong historical references: Damask, Toile de Jouy, and Arts & Crafts aesthetics. Selected patterns suggest intricate botanical and floral repeats with a serene, layered character suited to high-end interior wallpaper applications. Collections are named and positioned as distinct design propositions.
+
 ## Connections
+
+- [[Wallpaper Design]]
+- [[Damask Pattern]]
+- [[Toile de Jouy]]
+- [[Arts and Crafts Movement]]
+- [[Botanical Patterns]]
+- [[Home Interiors]]

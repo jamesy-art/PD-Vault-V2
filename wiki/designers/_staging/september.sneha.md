@@ -27,7 +27,7 @@ bio: ''
 website: 'https://septembersneha.com/patterns'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/september.sneha
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Sneha Kakad - Patterns
 website_meta_description: >-
   Graphic designer, Illustrator, Typographer, Product designer, Pattern
@@ -227,7 +230,7 @@ categories:
   - Kidswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -247,45 +250,206 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/474379181_1640194510712878_4611513513526589502_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHtTUZ1cdFgzM3r-nTqFAWaAa8q9wE4YXZuhw3TCBaBFA_gKQZMynDuseba56qJf8k&_nc_ohc=2QAbzkwkzioQ7kNvwFvDNGB&_nc_gid=tcG_lgu_iB_oewmc-6abyg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56HNLJ35lfLKAXmI0aHWCMR8b5Bsgmq6tJj9E99Zckog&oe=6A13D3D5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/474379181_1640194510712878_4611513513526589502_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHtTUZ1cdFgzM3r-nTqFAWaAa8q9wE4YXZuhw3TCBaBFA_gKQZMynDuseba56qJf8k&_nc_ohc=2QAbzkwkzioQ7kNvwFvDNGB&_nc_gid=tcG_lgu_iB_oewmc-6abyg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56HNLJ35lfLKAXmI0aHWCMR8b5Bsgmq6tJj9E99Zckog&oe=6A13D3D5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/september.sneha/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8495
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/september.sneha/profile/474379181_1640194510712878_4611513513526589502_n.jpg
+instagram_profile_image_bytes: 194945
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/september.sneha/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/september.sneha/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/september.sneha/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/september.sneha/profile/474379181_1640194510712878_4611513513526589502_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/september.sneha/profile/474379181_1640194510712878_4611513513526589502_n.jpg
+profile_image_local: >-
+  ../../assets/designers/september.sneha/profile/474379181_1640194510712878_4611513513526589502_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/september.sneha/profile/474379181_1640194510712878_4611513513526589502_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1766465922_3793713578918920416_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219386994212_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219412164703_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219537961785_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219990953490_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352109979_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352133078_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695541569892_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695675750033_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835132929_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835165956_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544696455915897_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732832066259_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732974630624_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368733058547420_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368733285051051_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155178448840541_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155178641733977_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180126529579_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180973779551_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155181653278766_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155182290796136_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845950859713707_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845950884902797_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845952529094803_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796008358771726_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009172424509_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009424076792_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009952585658_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796012326537901_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378212435619_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378841577661_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718379873365310_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718382465452833_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718382951975060_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718386936605908_71469691320.jpg
+instagram_image_count: 36
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835132929_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732974630624_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180126529579_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009424076792_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378841577661_71469691320.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1766465922_3793713578918920416_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219386994212_71469691320.jpg
+  - >-
+    ../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352133078_71469691320.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # september.sneha
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/september.sneha/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/september.sneha/profile/474379181_1640194510712878_4611513513526589502_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1766465922_3793713578918920416_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1766465922_3793713578918920416_71469691320.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219386994212_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219386994212_71469691320.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219412164703_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219412164703_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219537961785_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219537961785_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219990953490_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1771418906_3835262219990953490_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352109979_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352109979_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352133078_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1773500130_3852720798352133078_71469691320.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695541569892_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695541569892_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695675750033_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695675750033_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835132929_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835132929_71469691320.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835165956_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544695835165956_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544696455915897_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1776936207_3881544696455915897_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732832066259_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732832066259_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732974630624_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368732974630624_71469691320.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368733058547420_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368733058547420_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368733285051051_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777034440_3882368733285051051_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155178448840541_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155178448840541_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155178641733977_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155178641733977_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180126529579_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180126529579_71469691320.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180973779551_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155180973779551_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155181653278766_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155181653278766_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155182290796136_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1777724277_3888155182290796136_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845950859713707_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845950859713707_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845950884902797_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845950884902797_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845952529094803_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778164323_3891845952529094803_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796008358771726_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796008358771726_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009172424509_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009172424509_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009424076792_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009424076792_71469691320.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009952585658_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796009952585658_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796012326537901_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778396853_3893796012326537901_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378212435619_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378212435619_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378841577661_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718378841577661_71469691320.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718379873365310_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718379873365310_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718382465452833_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718382465452833_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718382951975060_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718382951975060_71469691320.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718386936605908_71469691320.jpg)<br><!-- image:../../assets/designers/september.sneha/instagram/september.sneha_1778506724_3894718386936605908_71469691320.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sneha Kakad (also known as Sneha Sureka Kakad) is an India-based graphic designer, illustrator, and surface pattern designer with over a decade of professional experience. As co-founder of Thinkpot — a stationery brand active for over eight years — she built a commercially successful product range with Amazon's Choice recognition in India. She now operates as an independent pattern designer offering licensing and commissions.
+
 ## Style and Aesthetic
+
+Nature-inspired pattern collections centred on florals, birds, bees, butterflies, and wildlife motifs with a structured collection development approach — each design accompanied by coordinated colourway options, blender patterns, and coordinate prints. Named collections including Periwinkles & Birds, Bees & Florals, Canberra Bells, Edelweiss & Dragonfly, and Out on Safari suggest a fresh botanical illustration style with clear commercial positioning across children's and lifestyle categories.
 
 ## Techniques and Tools
 
+Multidisciplinary design software practice. Pattern collections include complete repeat structures with colourway variations and blender coordinates, indicating strong technical repeat-construction skills. Inspired by words, nature, and food, with an unconventional education background that has fostered cross-disciplinary creative exploration.
+
 ## Markets and Clients
+
+Kidswear and stationery are the declared primary categories. Website organises work into patterns, calendars, stationery, and posters. Thinkpot stationery background includes bestselling notebooks and planners with individual designs selling 500+ units and desk calendars selling 1,500+ units (sold out). Open for licensing and commissions via direct email.
 
 ## Portfolio and Presence
 
+- Website: https://septembersneha.com/patterns
+- Instagram: https://instagram.com/september.sneha
+
 ## Career Path
+
+Over eight years as co-founder and designer at Thinkpot, building a commercially successful stationery and calendar brand. Achieved Amazon's Choice designation in India (unverified year). Transitioned to independent surface pattern design, describing the shift as a return to personal creative practice. Over a decade of total professional design experience.
 
 ## Pattern Focus
 
+Selected patterns — 5 chosen from 36 reviewed — suggest botanical floral repeats with coordinated colourway systems and blender patterns. Collections are presented as complete sets ready for fabric, stationery, and children's product licensing. Three selected placement images document product mockup applications.
+
 ## Connections
+
+- [[India]]
+- [[Flower Pattern]]
+- [[Kidswear]]
+- [[Stationery]]
+- [[Licensing]]

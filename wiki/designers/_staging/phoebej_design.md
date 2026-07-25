@@ -22,7 +22,7 @@ bio: ''
 website: 'https://Phoebej.myportfolio.com'
 website_about: ''
 accepted: 23/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/phoebej_design
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Phoebe John
 website_meta_description: ''
 website_about_raw: >-
@@ -144,7 +147,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -163,45 +166,156 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/497109706_18224982007292406_8747142665650347653_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHkV3KB17Kex7YJUyYwCSeFLihTWoEhJWPKxDpT0xMxsh02Qc4tcmP-WYYss99-o5A&_nc_ohc=YyDYaYU4-_oQ7kNvwG_HoH_&_nc_gid=szToQNMi8f827ufnd34DLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af78ITIiOm3fPSGyOqol2pzw40g0FoAh40VNTDUr4_x6Og&oe=6A13DFDF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/497109706_18224982007292406_8747142665650347653_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHkV3KB17Kex7YJUyYwCSeFLihTWoEhJWPKxDpT0xMxsh02Qc4tcmP-WYYss99-o5A&_nc_ohc=YyDYaYU4-_oQ7kNvwG_HoH_&_nc_gid=szToQNMi8f827ufnd34DLw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af78ITIiOm3fPSGyOqol2pzw40g0FoAh40VNTDUr4_x6Og&oe=6A13DFDF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/phoebej_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3696
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/phoebej_design/profile/497109706_18224982007292406_8747142665650347653_n.jpg
+instagram_profile_image_bytes: 71634
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/phoebej_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/phoebej_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/phoebej_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/phoebej_design/profile/497109706_18224982007292406_8747142665650347653_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/phoebej_design/profile/497109706_18224982007292406_8747142665650347653_n.jpg
+profile_image_local: >-
+  ../../assets/designers/phoebej_design/profile/497109706_18224982007292406_8747142665650347653_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/phoebej_design/profile/497109706_18224982007292406_8747142665650347653_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405275925_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405319380_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1744218616_3607089652187621252_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1744219187_3607094440203775115_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233866096007_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233874519391_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233882967871_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013510593041_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013871394645_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216591551983341_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216594521547749_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216597298210487_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216598774547883_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216600485872207_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154487717582_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154831619566_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999155402061582_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999156979111959_8645036405.jpg
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405319380_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1744218616_3607089652187621252_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1744219187_3607094440203775115_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233882967871_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013871394645_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216598774547883_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154487717582_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999156979111959_8645036405.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233874519391_8645036405.jpg
+  - >-
+    ../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013510593041_8645036405.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # phoebej_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/phoebej_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/phoebej_design/profile/497109706_18224982007292406_8747142665650347653_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405275925_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405275925_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405319380_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1674253147_3020176758405319380_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1744218616_3607089652187621252_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1744218616_3607089652187621252_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1744219187_3607094440203775115_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1744219187_3607094440203775115_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233866096007_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233866096007_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233874519391_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233874519391_8645036405.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233882967871_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1745339968_3616496233882967871_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013510593041_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013510593041_8645036405.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013871394645_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1747137618_3631576013871394645_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216591551983341_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216591551983341_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216594521547749_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216594521547749_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216597298210487_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216597298210487_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216598774547883_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216598774547883_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216600485872207_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1769626137_3820216600485872207_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154487717582_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154487717582_8645036405.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154831619566_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999154831619566_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999155402061582_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999155402061582_8645036405.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999156979111959_8645036405.jpg)<br><!-- image:../../assets/designers/phoebej_design/instagram/phoebej_design_1770673674_3828999156979111959_8645036405.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Phoebe John is a UK-based textiles designer and AUB (Arts University Bournemouth) graduate with over 20 years of design experience. Her portfolio spans carpet CAD design, sportswear, visual merchandising, digital print for leather accessories, and luxury gift packaging — covering a wide range of surface design applications across commercial and competition contexts.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a range of surface design approaches, including culturally and architecturally inspired work (Moroccan motifs, coastal themes, Mesoamerican references) alongside more directly commercial repeat print. Her practice demonstrates versatility across decorative, applied, and licensed design contexts.
 
 ## Techniques and Tools
 
+CAD design for carpet (Tim Page Carpets). Digital print design for accessories and apparel. Works across swimwear, interiors, stationery, and gift packaging categories. Website portfolio hosted on Adobe Portfolio.
+
 ## Markets and Clients
+
+Documented commercial work includes carpet design (Tim Page Carpets: CAD designs), sportswear (Speedo: infant swimwear design and visual merchandising), leather accessories (SBRI: contemporary digital print for coin purse, now available on the SBRI website — competition win), and luxury gift packaging (Pol Roger Champagne: winner of the Pentland Churchill Champagne Pol Roger Conscious Case Competition). Portfolio includes interiors and bespoke stationery work.
 
 ## Portfolio and Presence
 
+- Instagram: @phoebej_design
+- Website: phoebej.myportfolio.com
+
 ## Career Path
+
+Graduate of Arts University Bournemouth. Over 20 years in textiles design. Two notable competition wins: the Pentland Churchill Champagne Pol Roger Conscious Case Competition (sustainable gift packaging, 2024) and the SBRI collaboration competition (digital print for leather accessories). Open to commissions.
 
 ## Pattern Focus
 
+Culturally inspired surface patterns with architectural and travel references, alongside commercially-driven repeat print for product categories. Selected images suggest both decorative and applied design capability across fashion, interiors, and accessories.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Textile Design]]
+- [[Stationery]]
+- [[Home Decor]]
+- [[Arts University Bournemouth]]

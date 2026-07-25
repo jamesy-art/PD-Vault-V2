@@ -23,7 +23,7 @@ bio: ''
 website: 'https://artwist.fr'
 website_about: ''
 accepted: 20/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/artwistparis
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Artwist Studio - Création de motifs et d'illustrations
 website_meta_description: >-
   Bienvenue chez Artwist studio : je vous propose des motifs et des
@@ -280,7 +283,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -297,45 +300,153 @@ instagram_profile_pic_url: >-
   https://scontent-phx1-1.cdninstagram.com/v/t51.2885-19/430837743_2417899088412677_1156990365613531814_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEMPEo_Ev3FV_BJXsydWQ20a23pqPxP8PlMaatkK4qCR5shMuui8WLw_MEBYaFlJ2s&_nc_ohc=no_7IrHwwDwQ7kNvwFYsjyg&_nc_gid=w-NGqZMkXempU_GHT5RhjA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5l7GpcPe52uhdlmE9ZD6rtvzDJzP_YQZn_AhMCuOotSQ&oe=6A13E445&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-phx1-1.cdninstagram.com/v/t51.2885-19/430837743_2417899088412677_1156990365613531814_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phx1-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEMPEo_Ev3FV_BJXsydWQ20a23pqPxP8PlMaatkK4qCR5shMuui8WLw_MEBYaFlJ2s&_nc_ohc=no_7IrHwwDwQ7kNvwFYsjyg&_nc_gid=w-NGqZMkXempU_GHT5RhjA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5l7GpcPe52uhdlmE9ZD6rtvzDJzP_YQZn_AhMCuOotSQ&oe=6A13E445&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/artwistparis/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6742
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/artwistparis/profile/430837743_2417899088412677_1156990365613531814_n.jpg
+instagram_profile_image_bytes: 118755
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/artwistparis/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/artwistparis/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/artwistparis/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/artwistparis/profile/430837743_2417899088412677_1156990365613531814_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/artwistparis/profile/430837743_2417899088412677_1156990365613531814_n.jpg
+profile_image_local: >-
+  ../../assets/designers/artwistparis/profile/430837743_2417899088412677_1156990365613531814_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/artwistparis/profile/430837743_2417899088412677_1156990365613531814_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1694365358_3188890193713638346_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1702839668_3259977850572548785_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1712685618_3342571688924803482_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1714500018_3357791979345107943_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1715882428_3369388477684776560_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1718128831_3388232664000580654_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1721404841_3415713833959206198_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1732129215_3505676403384902110_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1735839537_3536800828803826943_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1754150434_3690403774570254624_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036169004580033_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170078350799_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170606820681_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1760374905_3742618427031418751_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284819817889179_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284820111500876_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391487702428501_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391487828226657_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391489061371833_14190664312.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1694365358_3188890193713638346_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1712685618_3342571688924803482_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1714500018_3357791979345107943_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1718128831_3388232664000580654_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1721404841_3415713833959206198_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170606820681_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1760374905_3742618427031418751_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284820111500876_14190664312.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1732129215_3505676403384902110_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1735839537_3536800828803826943_14190664312.jpg
+  - >-
+    ../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284819817889179_14190664312.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # artwistparis
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/artwistparis/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/artwistparis/profile/430837743_2417899088412677_1156990365613531814_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1694365358_3188890193713638346_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1694365358_3188890193713638346_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1702839668_3259977850572548785_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1702839668_3259977850572548785_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1712685618_3342571688924803482_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1712685618_3342571688924803482_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1714500018_3357791979345107943_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1714500018_3357791979345107943_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1715882428_3369388477684776560_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1715882428_3369388477684776560_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1718128831_3388232664000580654_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1718128831_3388232664000580654_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1721404841_3415713833959206198_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1721404841_3415713833959206198_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1732129215_3505676403384902110_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1732129215_3505676403384902110_14190664312.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1735839537_3536800828803826943_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1735839537_3536800828803826943_14190664312.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1754150434_3690403774570254624_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1754150434_3690403774570254624_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036169004580033_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036169004580033_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170078350799_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170078350799_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170606820681_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1757444472_3718036170606820681_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1760374905_3742618427031418751_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1760374905_3742618427031418751_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284819817889179_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284819817889179_14190664312.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284820111500876_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1761408020_3751284820111500876_14190664312.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391487702428501_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391487702428501_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391487828226657_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391487828226657_14190664312.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391489061371833_14190664312.jpg)<br><!-- image:../../assets/designers/artwistparis/instagram/artwistparis_1762970457_3764391489061371833_14190664312.jpg --> | [ ] | [ ] | [ ] |
+
 ## Website Images
 
-
 ## Overview
+Catherine Houriez is a Paris-based surface and textile designer operating under the studio name Artwist. The studio creates original motifs and illustrations for brands and designers across fashion, decoration, stationery, and objects. Several collections are produced per year — available via a private catalogue updated monthly — alongside custom commissions built from client briefs.
 
 ## Style and Aesthetic
+Houriez works across three registers: gouache-painted characters with a playful quality, florals referencing English cottage gardens, and strong graphic abstract compositions. Colour, joy, and fantasy are consistently foregrounded. Selected Instagram images suggest warm, saturated palettes with confident linework and patterns suited to both textile print and all-over repeat application.
 
 ## Techniques and Tools
+Gouache is the primary medium, used to construct characters and botanical motifs before integration into repeatable pattern formats. Custom commissions are developed from written briefs, indicating fluency in brief interpretation and translation into deliverable artwork.
 
 ## Markets and Clients
+Serves brands and designers in the fashion, decoration, stationery, and objects sectors. Catalogue access is by request; commissions are available on brief.
 
 ## Portfolio and Presence
+- Website: artwist.fr
+- Instagram: @artwistparis (3,012 followers, 286 posts)
+- Email: contact@artwist.fr
 
 ## Career Path
+Houriez began her career in marketing before launching an organic cotton fabric publishing company, through which she created and sold printed fabric to home sewists. That venture led her to establish Artwist studio in Paris and pursue pattern design professionally.
 
 ## Pattern Focus
+Florals, gouache characters, and graphic abstract compositions. English garden-inspired botanicals and painted characters are the core motifs. Selected images suggest all-over repeat structures with a handcrafted quality.
 
 ## Connections
+- [[Surface Pattern Design]]
+- [[Fashion Textiles]]
+- [[Stationery]]
+- [[Botanical Pattern]]

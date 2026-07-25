@@ -26,7 +26,7 @@ bio: ''
 website: 'https://emilysundaydesigns.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/emilysundaydesigns
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Emily Sunday Designs
 website_meta_description: ''
 website_about_raw: >-
@@ -239,7 +242,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -259,45 +262,182 @@ instagram_profile_pic_url: >-
   https://instagram.ffsd2-1.fna.fbcdn.net/v/t51.2885-19/312910260_888211852546635_7933920466914491528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzQuYzIifQ&_nc_ht=instagram.ffsd2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGurd4nZVsrB8aTXjpRaBkYNxX0cLUnXvCqZo870WsIIUMqvxfNtuvgss75bRt1IK4&_nc_ohc=AAMa8YPz7tEQ7kNvwGaiykv&_nc_gid=f4sWIMvtjD6kxIicvY_PcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5VnRxSwsQfHenfqbj82x_VskqfVe6nJGgXf43hXbUfOA&oe=6A13DFE2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.ffsd2-1.fna.fbcdn.net/v/t51.2885-19/312910260_888211852546635_7933920466914491528_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzQuYzIifQ&_nc_ht=instagram.ffsd2-1.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2gGurd4nZVsrB8aTXjpRaBkYNxX0cLUnXvCqZo870WsIIUMqvxfNtuvgss75bRt1IK4&_nc_ohc=AAMa8YPz7tEQ7kNvwGaiykv&_nc_gid=f4sWIMvtjD6kxIicvY_PcA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5VnRxSwsQfHenfqbj82x_VskqfVe6nJGgXf43hXbUfOA&oe=6A13DFE2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4858
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/emilysundaydesigns/profile/312910260_888211852546635_7933920466914491528_n.jpg
+instagram_profile_image_bytes: 70939
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/emilysundaydesigns/profile/312910260_888211852546635_7933920466914491528_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/emilysundaydesigns/profile/312910260_888211852546635_7933920466914491528_n.jpg
+profile_image_local: >-
+  ../../assets/designers/emilysundaydesigns/profile/312910260_888211852546635_7933920466914491528_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/emilysundaydesigns/profile/312910260_888211852546635_7933920466914491528_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837875652483_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837875768274_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837926059317_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837951242509_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837959610183_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837967977135_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1725283446_3448249933093093855_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125283717086_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125292265605_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125451605511_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125468260959_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485008599_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485161294_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125510374228_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843431287505_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843456479694_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1775139742_3866473085923108518_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1775139742_3866473098170499427_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218514926040_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218523317618_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218531676443_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218657530531_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218724634856_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218741447465_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218749796469_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218749830406_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218800168065_51958758636.jpg
+instagram_image_count: 27
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125283717086_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125292265605_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125468260959_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485008599_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485161294_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125510374228_5587920170.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843431287505_51958758636.jpg
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218657530531_51958758636.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1725283446_3448249933093093855_51958758636.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # emilysundaydesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emilysundaydesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/emilysundaydesigns/profile/312910260_888211852546635_7933920466914491528_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837875652483_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837875652483_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837875768274_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837875768274_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837926059317_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837926059317_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837951242509_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837951242509_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837959610183_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837959610183_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837967977135_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1724504402_3441714837967977135_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1725283446_3448249933093093855_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1725283446_3448249933093093855_51958758636.jpg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125283717086_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125283717086_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125292265605_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125292265605_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125451605511_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125451605511_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125468260959_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125468260959_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485008599_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485008599_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485161294_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125485161294_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125510374228_5587920170.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1752409781_3675802125510374228_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843431287505_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843431287505_51958758636.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843456479694_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1757503441_3718530843456479694_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1775139742_3866473085923108518_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1775139742_3866473085923108518_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1775139742_3866473098170499427_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1775139742_3866473098170499427_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218514926040_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218514926040_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218523317618_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218523317618_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218531676443_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218531676443_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218657530531_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218657530531_51958758636.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218724634856_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218724634856_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218741447465_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218741447465_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218749796469_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218749796469_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218749830406_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218749830406_51958758636.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218800168065_51958758636.jpg)<br><!-- image:../../assets/designers/emilysundaydesigns/instagram/emilysundaydesigns_1776865340_3880950218800168065_51958758636.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Emily Sontag is a US-based surface pattern designer working under Emily Sunday Designs, creating bold, sophisticated patterns for home decor, fabric, and wallpaper markets. Her work is available for licensing, and she actively welcomes custom design commissions and collaboration inquiries. With 2,616 Instagram followers and an active pattern portfolio, she has an established surface design presence.
+
 ## Style and Aesthetic
+
+Emily describes her aesthetic as designed to "spark joy and inspire imagination" — bold yet sophisticated, with a "playful side" offset by refined execution. Selected Instagram images suggest a diverse range of colorful surface patterns across multiple motif types. Her website positions work at the intersection of bold statement and elegant pattern.
 
 ## Techniques and Tools
 
+Emily works as a surface pattern designer producing seamless repeat designs. Her website includes a resize/recolor service form, indicating she adapts existing designs to client specifications. Spoonflower is referenced in her licensing copy, suggesting familiarity with POD platform distribution.
+
 ## Markets and Clients
+
+Primary markets are home decor, fabric, and wallpaper. She offers licensing (with a formal inquiry form) and custom design projects. The resize/recolor service indicates a willingness to adapt work for specific product and colourway requirements.
 
 ## Portfolio and Presence
 
+- Website: https://emilysundaydesigns.com
+- Instagram: @emilysundaydesigns (2,616 followers)
+
 ## Career Path
+
+No formal career history documented. Emily Sunday Designs is an active, independently operated surface design studio with a developed portfolio and licensing infrastructure.
 
 ## Pattern Focus
 
+Selected Instagram images (8 approved patterns) confirm a range of colorful, sophisticated surface pattern designs. The pattern set spans multiple motif categories consistent with her home decor, fabric, and wallpaper market positioning. One selected placement image suggests a fabric or wallpaper mockup context.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Home Decor]]
+- [[Wallpaper Design]]
+- [[Fabric Design]]
+- [[Spoonflower]]
+- [[Licensing]]

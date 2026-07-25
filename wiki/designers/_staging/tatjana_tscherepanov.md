@@ -21,7 +21,7 @@ bio: ''
 website: 'https://tatjanatscherepanov.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tatjana_tscherepanov
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Tatjana Tscherepanov
 website_meta_description: >-
   Tatjana Tscherepanov is a textile and mixed media artist based in south
@@ -306,7 +309,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -323,45 +326,332 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/462597049_914815793704197_8935762728324324921_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEQP_9CSgPK4HvL2IcA2w44xVtxC9iu_0Ws0HDRKieDXPk9iwfMxhr0kFCV4380y-k&_nc_ohc=dCP0hH-RvbgQ7kNvwHzpfST&_nc_gid=gelV43ONQ3Ma6u8WYX0OKw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6wS7we0VoI0ZGEsXK14DHmG2x2Lb5xZ5ftoPRuXT6jqw&oe=6A13DC10&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.2885-19/462597049_914815793704197_8935762728324324921_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEQP_9CSgPK4HvL2IcA2w44xVtxC9iu_0Ws0HDRKieDXPk9iwfMxhr0kFCV4380y-k&_nc_ohc=dCP0hH-RvbgQ7kNvwHzpfST&_nc_gid=gelV43ONQ3Ma6u8WYX0OKw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6wS7we0VoI0ZGEsXK14DHmG2x2Lb5xZ5ftoPRuXT6jqw&oe=6A13DC10&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tatjana_tscherepanov/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3314
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/tatjana_tscherepanov/profile/462597049_914815793704197_8935762728324324921_n.jpg
+instagram_profile_image_bytes: 80867
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tatjana_tscherepanov/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tatjana_tscherepanov/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tatjana_tscherepanov/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tatjana_tscherepanov/profile/462597049_914815793704197_8935762728324324921_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/profile/462597049_914815793704197_8935762728324324921_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tatjana_tscherepanov/profile/462597049_914815793704197_8935762728324324921_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tatjana_tscherepanov/profile/462597049_914815793704197_8935762728324324921_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634477408_2686513675899128897_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070486335698_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070502985611_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070511451586_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070519791337_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070704424605_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070712784548_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070721154997_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070981310620_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1652901439_2841065651734593785_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1653568269_2846659428163671081_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543334949560_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335008754_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335114220_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543376916543_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543477622953_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543527873550_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038688556_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038707508_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038730985_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135047073484_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135063874535_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135240044058_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719603674_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719668652_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719684464_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802753289454_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802761671123_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802828651670_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1677609131_3048328789809893368_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940152647767_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940379013289_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940647692465_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625545884719_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554066812_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554186137_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554281317_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625629747985_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625780557582_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1742501441_3592684944472700839_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797876788097393_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797878037948244_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797879036212076_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559382953731006_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559385336130633_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559386468605827_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217826239927778_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217827380740749_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217827548554715_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962129761321649_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962130600211655_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962133502645862_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243136665915_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243572901330_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243799421531_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243975555151_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245040882394_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245217085768_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245988830007_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868005844117114_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868006120886249_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868006926230000_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868007362397654_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868008612319850_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901943615569586_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901944362125024_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901944865455285_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901945930791271_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300490127475_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300825695772_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300884398635_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301119243828_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301463180476_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301471567179_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301538685334_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301832333565_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632302654380526_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632307065628817_1946132764.jpg
+instagram_image_count: 78
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634477408_2686513675899128897_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1652901439_2841065651734593785_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1653568269_2846659428163671081_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335008754_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1677609131_3048328789809893368_1946132764.webp
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940152647767_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554186137_1946132764.jpg
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559382953731006_1946132764.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1742501441_3592684944472700839_1946132764.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # tatjana_tscherepanov
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tatjana_tscherepanov/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tatjana_tscherepanov/profile/462597049_914815793704197_8935762728324324921_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634477408_2686513675899128897_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634477408_2686513675899128897_1946132764.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070486335698_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070486335698_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070502985611_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070502985611_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070511451586_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070511451586_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070519791337_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070519791337_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070704424605_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070704424605_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070712784548_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070712784548_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070721154997_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070721154997_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070981310620_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1634583074_2687400070981310620_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1652901439_2841065651734593785_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1652901439_2841065651734593785_1946132764.webp --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1653568269_2846659428163671081_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1653568269_2846659428163671081_1946132764.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543334949560_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543334949560_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335008754_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335008754_1946132764.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335114220_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543335114220_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543376916543_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543376916543_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543477622953_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543477622953_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543527873550_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1659718529_2898251543527873550_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038688556_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038688556_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038707508_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038707508_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038730985_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135038730985_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135047073484_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135047073484_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135063874535_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135063874535_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135240044058_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1661884751_2916423135240044058_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719603674_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719603674_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719668652_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719668652_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719684464_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802719684464_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802753289454_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802753289454_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802761671123_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802761671123_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802828651670_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1662837194_2924412802828651670_1946132764.webp --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1677609131_3048328789809893368_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1677609131_3048328789809893368_1946132764.webp --> | [x] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940152647767_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940152647767_1946132764.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940379013289_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940379013289_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940647692465_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1678470674_3055555940647692465_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625545884719_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625545884719_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554066812_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554066812_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554186137_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554186137_1946132764.jpg --> | [x] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554281317_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625554281317_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625629747985_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625629747985_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625780557582_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1739382769_3566523625780557582_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1742501441_3592684944472700839_1946132764.webp)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1742501441_3592684944472700839_1946132764.webp --> | [ ] | [x] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797876788097393_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797876788097393_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797878037948244_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797878037948244_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797879036212076_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756224000_3707797879036212076_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559382953731006_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559382953731006_1946132764.jpg --> | [x] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559385336130633_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559385336130633_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559386468605827_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756314779_3708559386468605827_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217826239927778_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217826239927778_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217827380740749_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217827380740749_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217827548554715_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756393273_3709217827548554715_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962129761321649_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962129761321649_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962130600211655_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962130600211655_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962133502645862_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1756481999_3709962133502645862_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243136665915_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243136665915_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243572901330_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243572901330_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243799421531_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243799421531_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243975555151_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600243975555151_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245040882394_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245040882394_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245217085768_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245217085768_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245988830007_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1759776719_3737600245988830007_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868005844117114_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868005844117114_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868006120886249_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868006120886249_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868006926230000_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868006926230000_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868007362397654_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868007362397654_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868008612319850_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1766484360_3793868008612319850_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901943615569586_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901943615569586_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901944362125024_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901944362125024_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 67<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901944865455285_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901944865455285_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 68<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901945930791271_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1767442079_3801901945930791271_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 69<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300490127475_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300490127475_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 70<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300825695772_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300825695772_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 71<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300884398635_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632300884398635_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 72<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301119243828_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301119243828_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 73<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301463180476_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301463180476_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 74<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301471567179_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301471567179_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 75<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301538685334_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301538685334_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 76<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301832333565_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632301832333565_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 77<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632302654380526_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632302654380526_1946132764.jpg --> | [ ] | [ ] | [ ] |
+| 78<br>![pd-review\|180](../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632307065628817_1946132764.jpg)<br><!-- image:../../assets/designers/tatjana_tscherepanov/instagram/tatjana_tscherepanov_1770747797_3829632307065628817_1946132764.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Textile and mixed media artist based in south Germany. Works across contemporary hand embroidery, mixed-media collage, and acrylic-on-wood compositions. Original work available for sale; gallery inquiries accepted. Ships internationally. 169 posts; 321 followers.
+
 ## Style and Aesthetic
+
+Abstract, layered work combining geometric structure with organic gesture. Selected patterns suggest compositions exploring the tension between geometric grids and organic marks — weathered textures, subtle tonal shifts, and layered surfaces in muted earthy palettes. Series include "What the Layers Hold" and "Memory Maps."
 
 ## Techniques and Tools
 
+Contemporary hand embroidery on fabric, with intuitive fold-responsive stitching. Mixed media on wood — acrylic paint, collage, and printed papers sealed with UV archival varnish and wax. Process described as slow and intuitive; each piece carries the rhythm of handcraft.
+
 ## Markets and Clients
+
+Original artwork sold directly, including framed pieces with certificates of authenticity. Gallery inquiries accepted. Not a commercial repeat pattern licensing practice — primary output is original fine art and textile work.
 
 ## Portfolio and Presence
 
+- Website: https://tatjanatscherepanov.com
+- Instagram: @tatjana_tscherepanov (321 followers, 169 posts)
+
 ## Career Path
+
+Based in south Germany, drawing inspiration from hikes in the mountains and forests near her hometown, travel, and cultural exploration. Collections include "What the Layers Hold," a series of mixed-media compositions exploring memory, impermanence, and transformation.
 
 ## Pattern Focus
 
+Selected Instagram patterns suggest abstract surface explorations — layered texture and geometric-organic interplay in muted naturalistic palettes. Work is conceptual rather than commercial repeat pattern design; surface texture and structural composition are the primary visual interest.
+
 ## Connections
+
+- [[Textile Art]] — primary discipline
+- [[Mixed Media]] — embroidery, collage, and painting combined
+- [[Abstract Pattern]] — conceptual surface work

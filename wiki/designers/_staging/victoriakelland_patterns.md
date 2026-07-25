@@ -27,7 +27,7 @@ bio: ''
 website: 'https://victoriakelland.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/victoriakelland_patterns
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Victoria Kelland - Pattern Designer
 website_meta_description: >-
   Victoria Kelland is a professional surface pattern designer creating original
@@ -286,7 +289,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -303,46 +306,267 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/611328196_18299043655276765_1937188801248099290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF9Y_lO0diybz6om47uNFiC2daAf3QS-Pi9q4FVHtRmTCmheWaIQo7n8Efclrg07TE&_nc_ohc=kma91wnHGJsQ7kNvwGlPyEQ&_nc_gid=d2jk2QLnsivk-C3gMNDjeg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4tn_YywAsMYksdIClvm2GnWwasMiWAs_cCzl_LNQEaPg&oe=6A13EA02&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/611328196_18299043655276765_1937188801248099290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF9Y_lO0diybz6om47uNFiC2daAf3QS-Pi9q4FVHtRmTCmheWaIQo7n8Efclrg07TE&_nc_ohc=kma91wnHGJsQ7kNvwGlPyEQ&_nc_gid=d2jk2QLnsivk-C3gMNDjeg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4tn_YywAsMYksdIClvm2GnWwasMiWAs_cCzl_LNQEaPg&oe=6A13EA02&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8728
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/victoriakelland_patterns/profile/611328196_18299043655276765_1937188801248099290_n.jpg
+instagram_profile_image_bytes: 226668
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_image: >-
+  ../../assets/designers/victoriakelland_patterns/profile/611328196_18299043655276765_1937188801248099290_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg
+    ../../assets/designers/victoriakelland_patterns/profile/611328196_18299043655276765_1937188801248099290_n.jpg
+profile_image_local: >-
+  ../../assets/designers/victoriakelland_patterns/profile/611328196_18299043655276765_1937188801248099290_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/victoriakelland_patterns/profile/611328196_18299043655276765_1937188801248099290_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082420649584_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082479338775_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075504596_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075529159_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535770621092_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787380938_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787386707_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804205138_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804217788_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535820959305_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535829347098_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590159164168817_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590166218985021_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590168861415282_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590173097654511_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590177140979244_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590180462874458_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590183759588852_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869081670818_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869090102040_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869090110159_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869098503481_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115221917_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115234921_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869148798879_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936840417901637_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936841013440729_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936842833763129_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936843681015337_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936845635568643_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936846398919201_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851272732911_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851415343117_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851717310953_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936852824639857_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515238583066958_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515238775965901_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242315988853_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242836063846_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242945122802_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242995430051_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515245746881107_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515246074078515_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515963938824369_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515963963998048_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515964106565520_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515964173683355_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168626951005538_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168627034884795_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168627076849662_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109541927715587_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109545795058058_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109550819763989_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109550945697432_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109551390162825_8171916764.jpg
+instagram_image_count: 55
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082479338775_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075504596_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787380938_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804205138_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804217788_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590173097654511_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590183759588852_8171916764.jpg
+  - >-
+    ../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115221917_8171916764.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # victoriakelland_patterns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/victoriakelland_patterns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/victoriakelland_patterns/profile/611328196_18299043655276765_1937188801248099290_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082420649584_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082420649584_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082479338775_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1764425953_3776601082479338775_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075504596_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075504596_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075529159_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1765370613_3784525463075529159_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535770621092_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535770621092_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787380938_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787380938_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787386707_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535787386707_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804205138_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804205138_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804217788_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535804217788_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535820959305_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535820959305_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535829347098_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1767956152_3806214535829347098_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590159164168817_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590159164168817_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590166218985021_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590166218985021_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590168861415282_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590168861415282_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590173097654511_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590173097654511_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590177140979244_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590177140979244_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590180462874458_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590180462874458_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590183759588852_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770623554_3828590183759588852_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869081670818_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869081670818_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869090102040_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869090102040_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869090110159_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869090110159_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869098503481_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869098503481_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115221917_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115221917_8171916764.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115234921_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869115234921_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869148798879_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1770798600_3829955869148798879_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936840417901637_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936840417901637_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936841013440729_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936841013440729_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936842833763129_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936842833763129_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936843681015337_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936843681015337_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936845635568643_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936845635568643_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936846398919201_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936846398919201_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851272732911_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851272732911_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851415343117_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851415343117_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851717310953_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936851717310953_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936852824639857_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1777818155_3888936852824639857_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515238583066958_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515238583066958_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515238775965901_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515238775965901_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242315988853_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242315988853_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242836063846_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242836063846_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242945122802_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242945122802_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242995430051_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515242995430051_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515245746881107_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515245746881107_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515246074078515_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1778244820_3892515246074078515_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515963938824369_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515963938824369_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515963963998048_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515963963998048_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515964106565520_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515964106565520_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515964173683355_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779098400_3899515964173683355_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168626951005538_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168626951005538_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168627034884795_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168627034884795_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168627076849662_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779184800_3900168627076849662_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109541927715587_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109541927715587_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109545795058058_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109545795058058_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109550819763989_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109550819763989_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109550945697432_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109550945697432_8171916764.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109551390162825_8171916764.jpg)<br><!-- image:../../assets/designers/victoriakelland_patterns/instagram/victoriakelland_patterns_1779984646_3907109551390162825_8171916764.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Victoria Kelland is a professional surface pattern designer based in Perth, Western Australia, specialising in print design for intimate apparel, sleepwear, and ladieswear. With a background in technical design for lingerie and swimwear brands, she brings strong commercial and technical knowledge to her pattern practice. Designs are available to license privately or through [[Patternbank]].
+
 ## Style and Aesthetic
+
+Selected Instagram patterns suggest a commercially oriented print library — floral and hand-drawn prints with a clean, wearable aesthetic suited to intimate apparel and ladieswear. Work appears trend-aware, with an emphasis on versatile, highly commercial designs rather than experimental or fine art aesthetics. Micro-print scale and technical precision are documented strengths consistent with her industry background.
 
 ## Techniques and Tools
 
+Skilled in design layout, scale, and technical file specifications for micro-prints — requirements developed through industry work in lingerie and swimwear. Produces print collections for direct brand licensing and through Patternbank. Technical design background covers file preparation and production standards. Responds to scale and colour variation requests within 1–3 days.
+
 ## Markets and Clients
+
+Primary markets: intimate apparel, sleepwear, ladieswear, and children's fashion. Documented employer credits include Gilly Hicks, Abercrombie & Fitch, Hollister, Rusty, KBlu, West Surfing Products, It's Now Cool Magazine, and Lottie's Eco. Open to global licensing enquiries. Patternbank profile offers Exclusive and Standard license options.
 
 ## Portfolio and Presence
 
+- Website: https://victoriakelland.com
+- Instagram: @VictoriaKelland_patterns (781 followers)
+- Patternbank: active profile (promo code INSIDER10)
+- Contact: hello@victoriakelland.com
+
 ## Career Path
+
+Holds a University Degree in Contour Fashion, with a graduate corsetry and lingerie collection. Worked in technical and apparel design roles for well-established fashion and surf brands including Gilly Hicks (Abercrombie & Fitch group), Hollister, and Rusty. Transitioned into independent surface pattern design, applying industry knowledge to a licensing-focused practice based in Perth, WA.
 
 ## Pattern Focus
 
+Selected patterns suggest a floral and hand-drawn print orientation — designs scaled and constructed for intimate apparel and sleepwear micro-print requirements. Website print categories span Intimate Apparel, Sleep, Ladies, and Children. The collection library is described as "versatile, highly commercial" and positioned for direct brand licensing. No placement images selected; focus is on the pattern library itself.
+
 ## Connections
+
+- [[Patternbank]] (active license profile)
+- Gilly Hicks / Abercrombie & Fitch (former employer)
+- Hollister (former employer)
+- Rusty (former employer)
+- [[Intimate Apparel]] market
+- [[Sleepwear]] market
+- [[Licensing]]

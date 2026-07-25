@@ -18,7 +18,7 @@ bio: ''
 website: 'https://annih.co.za'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/annih_art
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Home - Anni H Artisan Homeware Textiles
 website_meta_description: >-
   At Anni H, we offer handcrafted pieces with original artist-designed patterns,
@@ -198,8 +201,33 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
-manual_about_raw: ''
+enrichment_status: enriched
+manual_about_raw: >-
+  It all started with a big dream, a mustard seed of faith and a burst of
+  inspiration.
+
+  At Anni H, we don’t just make home decor—we create art for your home. Art
+  designed and crafted to help you make your home a place of comfort, joy, and
+  individuality.
+
+
+  In a world filled with mass-produced decor, there’s something special about a
+  piece that tells a story. As the artist behind each design, I pour my heart
+  into creating patterns that are beautiful and meaningful. Whether it’s a cosy
+  scatter cushion, an elegant tablecloth, or a vibrant table runner, each piece
+  is made to be a part of your story.
+
+
+  Every item at Anni H reflects passion, artistry, and a commitment to quality.
+  Once a design is complete, it is printed onto high-quality cotton hopsack, a
+  material chosen for its durability and ability to bring out the richness of
+  the patterns. This fabric is then transformed into one-of-a-kind home decor
+  items by a skilled local seamstress, each piece meticulously made with care.
+
+
+  The result? Decor that’s as unique as you are. Pieces that bring warmth,
+  beauty, and a touch of artistry to your home. Pieces that not only reflect
+  your style, but you won’t find in any other store.
 manual_reviewed: false
 manual_quality: ''
 manual_review_note: ''
@@ -215,45 +243,140 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/474073245_862878782503084_7577454058007218290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFqI7zEXXaignYNzeJpUjMjzs-AIwLD7Dsf6oSXydLbv816ggZras2frGo9ynMshsc&_nc_ohc=In9ZENnikssQ7kNvwFaw07B&_nc_gid=3mGHq3bVKqovSIRDlyLoEA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4WFsMeMcQnMkprpr7GWypqZneJbjjincRKmuX5xFwBRg&oe=6A13DD30&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/474073245_862878782503084_7577454058007218290_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFqI7zEXXaignYNzeJpUjMjzs-AIwLD7Dsf6oSXydLbv816ggZras2frGo9ynMshsc&_nc_ohc=In9ZENnikssQ7kNvwFaw07B&_nc_gid=3mGHq3bVKqovSIRDlyLoEA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4WFsMeMcQnMkprpr7GWypqZneJbjjincRKmuX5xFwBRg&oe=6A13DD30&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/annih_art/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6525
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/annih_art/profile/474073245_862878782503084_7577454058007218290_n.jpg
+instagram_profile_image_bytes: 169670
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/annih_art/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/annih_art/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/annih_art/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/annih_art/profile/474073245_862878782503084_7577454058007218290_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/annih_art/profile/474073245_862878782503084_7577454058007218290_n.jpg
+profile_image_local: >-
+  ../../assets/designers/annih_art/profile/474073245_862878782503084_7577454058007218290_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/annih_art/profile/474073245_862878782503084_7577454058007218290_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1594803959_2353708668607132093_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1595410960_2358800561523175431_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314750813635_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314759269883_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314767445474_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314784446191_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314792599713_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792494062121_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792510703362_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792519151928_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246871750565_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246913673806_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1753113147_3681702388943203868_7691245223.webp
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1594803959_2353708668607132093_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1595410960_2358800561523175431_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314792599713_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792510703362_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246871750565_7691245223.webp
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1753113147_3681702388943203868_7691245223.webp
+selected_placements:
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314750813635_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314759269883_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314767445474_7691245223.jpg
+  - >-
+    ../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314784446191_7691245223.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # annih_art
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/annih_art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/annih_art/profile/474073245_862878782503084_7577454058007218290_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1594803959_2353708668607132093_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1594803959_2353708668607132093_7691245223.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1595410960_2358800561523175431_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1595410960_2358800561523175431_7691245223.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314750813635_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314750813635_7691245223.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314759269883_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314759269883_7691245223.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314767445474_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314767445474_7691245223.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314784446191_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314784446191_7691245223.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314792599713_7691245223.jpg)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1597315299_2374775314792599713_7691245223.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792494062121_7691245223.webp)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792494062121_7691245223.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792510703362_7691245223.webp)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792510703362_7691245223.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792519151928_7691245223.webp)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1715701625_3367871792519151928_7691245223.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246871750565_7691245223.webp)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246871750565_7691245223.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246913673806_7691245223.webp)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1753102521_3681613246913673806_7691245223.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/annih_art/instagram/annih_art_1753113147_3681702388943203868_7691245223.webp)<br><!-- image:../../assets/designers/annih_art/instagram/annih_art_1753113147_3681702388943203868_7691245223.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Anmari Hanekom is a South African illustrator and surface pattern designer operating under the brand Anni H Artisan Homeware Textiles. She designs original surface patterns and translates them directly into a handmade homeware range — tea towels, tote bags, napkins, table runners, and scatter cushions — produced locally in cotton hopsack by a local seamstress.
+
 ## Style and Aesthetic
+
+Documented pattern collections — Citrus Gatherings, Doodle Garden, and French Countryside Blossoms (in beige, beige & blue, and dove blue colourways) — indicate a botanical and countryside-inspired aesthetic. Selected pattern images suggest illustrated, warm, hand-drawn motifs suited to home textile applications. The brand is positioned around "cosy, stylish, joyful" home decor: approachable and decorative rather than trend-driven.
 
 ## Techniques and Tools
 
+Creates original illustrated patterns printed onto cotton hopsack, chosen for its durability and ability to carry pattern richness. Items are then handmade into homeware by a local seamstress. Production is small-batch, with custom items available on request.
+
 ## Markets and Clients
+
+Direct-to-consumer via her South African e-commerce site. Product range: tea towels, tote bags, napkins, table runners, scatter cushions, tablecloths. Priced in ZAR (e.g., R480 napkins, R380 table runners, R1,100–R1,600 for larger items). Selected placement images confirm homeware product applications. No documented wholesale or external licensing activity.
 
 ## Portfolio and Presence
 
+- Website: https://annih.co.za
+- Instagram: @annih_art (389 followers, 130 posts)
+
 ## Career Path
+
+Founded Anni H as an artist-led homeware brand built around original pattern design translated directly into product. No formal design credentials documented in available sources.
 
 ## Pattern Focus
 
+Selected patterns suggest illustrated botanical and nature motifs — warm, approachable, domestically scaled. Named collections (Citrus Gatherings, Doodle Garden, French Countryside Blossoms) indicate thematic, seasonal-style releases structured for homeware application. Selected placement images confirm tea towel, napkin, and table runner contexts.
+
 ## Connections
+
+- [[South Africa]]
+- [[Home Decor]] market
+- [[Homeware Textiles]]
+- [[Botanical]] motif type

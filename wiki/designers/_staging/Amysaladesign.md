@@ -27,7 +27,7 @@ bio: ''
 website: 'https://amysaladesign.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/amysaladesign
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Amy Sala design fashion and graphic designer
 website_meta_description: >-
   Experienced fashion and print designer. Top rated freelance fashion and print
@@ -260,7 +263,7 @@ categories:
   - Womenswear
   - Menswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -277,45 +280,132 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/675462223_18435830566138927_4710734103952938236_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gH0mcWn0QQEAqxgbm8JlOA2xMBi8ZOluk0fiHJAF23ATjMlujZeUK7ZvwFRXS5Doxs&_nc_ohc=2t8jeD038CUQ7kNvwG5xsU8&_nc_gid=9WBIHfpGRLH5ev6VirhMlg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5FictC8NMM8tHtzH0c3-uRRij8UJ7QhvWaG4KhBGi5OQ&oe=6A13F834&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/675462223_18435830566138927_4710734103952938236_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gH0mcWn0QQEAqxgbm8JlOA2xMBi8ZOluk0fiHJAF23ATjMlujZeUK7ZvwFRXS5Doxs&_nc_ohc=2t8jeD038CUQ7kNvwG5xsU8&_nc_gid=9WBIHfpGRLH5ev6VirhMlg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5FictC8NMM8tHtzH0c3-uRRij8UJ7QhvWaG4KhBGi5OQ&oe=6A13F834&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/amysaladesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6749
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/amysaladesign/profile/675462223_18435830566138927_4710734103952938236_n.jpg
+instagram_profile_image_bytes: 213492
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/amysaladesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/amysaladesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/amysaladesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/amysaladesign/profile/675462223_18435830566138927_4710734103952938236_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/amysaladesign/profile/675462223_18435830566138927_4710734103952938236_n.jpg
+profile_image_local: >-
+  ../../assets/designers/amysaladesign/profile/675462223_18435830566138927_4710734103952938236_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/amysaladesign/profile/675462223_18435830566138927_4710734103952938236_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1714398221_3356938049646440881_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629765209849_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629790324594_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486727764709_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486761419723_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387674727437_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387691640424_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1716542780_3374927908684003151_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1746100896_3622879363325836426_4293194926.jpg
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1749042689_3647556909699104182_4293194926.jpg
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1775554793_3869956540489104591_4293194926.webp
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1714398221_3356938049646440881_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629765209849_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486727764709_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387674727437_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1716542780_3374927908684003151_4293194926.webp
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1746100896_3622879363325836426_4293194926.jpg
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1749042689_3647556909699104182_4293194926.jpg
+  - >-
+    ../../assets/designers/amysaladesign/instagram/amysaladesign_1775554793_3869956540489104591_4293194926.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # amysaladesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/amysaladesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/amysaladesign/profile/675462223_18435830566138927_4710734103952938236_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1714398221_3356938049646440881_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1714398221_3356938049646440881_4293194926.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629765209849_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629765209849_4293194926.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629790324594_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1715082313_3362676629790324594_4293194926.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486727764709_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486727764709_4293194926.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486761419723_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1715098509_3362812486761419723_4293194926.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387674727437_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387674727437_4293194926.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387691640424_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1716201064_3372061387691640424_4293194926.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1716542780_3374927908684003151_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1716542780_3374927908684003151_4293194926.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1746100896_3622879363325836426_4293194926.jpg)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1746100896_3622879363325836426_4293194926.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1749042689_3647556909699104182_4293194926.jpg)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1749042689_3647556909699104182_4293194926.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/amysaladesign/instagram/amysaladesign_1775554793_3869956540489104591_4293194926.webp)<br><!-- image:../../assets/designers/amysaladesign/instagram/amysaladesign_1775554793_3869956540489104591_4293194926.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Senior fashion and print designer based in Barcelona with 11 years of industry experience across UK and EU brands. Amy Sala specialises in commercial apparel graphics and surface pattern for activewear, nightwear, underwear, and swimwear — delivering concept-to-production work including print-ready CADs and technical packs.
+
 ## Style and Aesthetic
+
+Trend-led commercial fashion graphics with strong print direction. Selected Instagram patterns suggest bold graphic repeat prints and engineered motifs suited to bodywear categories — confident use of colour, structured composition, and market-aware print development aligned to trend research.
 
 ## Techniques and Tools
 
+Full production workflow: hand rendering (watercolour, ink, pencil), repeat and placement design, colour separation, embroidery and jacquard design, trim design, and technical specifications. Delivers production-ready CADs and detailed tech packs. Also handles trend and colour research, concept development, and fabric sourcing.
+
 ## Markets and Clients
+
+International fashion brands across UK and EU. Documented employers include HEMA Netherlands (2020–2025), HUNKEMÖLLER Netherlands (2018–2020), Norlanka UK/Sri Lanka (2015–2017), Marks & Spencer UK (2013–2014). Works across womenswear, menswear, and kids. Available for freelance, full-time roles, and collaborations.
 
 ## Portfolio and Presence
 
+- Website: amysaladesign.com
+- Instagram: @Amysaladesign (601 followers, 107 posts)
+- Private apparel and print portfolios available on request (NDA-protected)
+
 ## Career Path
+
+Eleven-year career across in-house roles at major European fashion retailers, from a Marks & Spencer lingerie internship (2013) through nightwear and print roles at HADDOW and HUNKEMÖLLER to five years as multi-product designer at HEMA. Also held positions at Tudor Knight and Norlanka. Launched Amy Sala Design as a Barcelona-based freelance practice in 2025.
 
 ## Pattern Focus
 
+Trend-led surface pattern for fashion bodywear — all-over prints, placed graphics, embroidery, and jacquards. Selected patterns are consistent with activewear and nightwear applications. Print library available for fashion, homewear, accessories, and lifestyle brands.
+
 ## Connections
+
+- [[Activewear]] — core specialism
+- [[Womenswear]] — primary category
+- [[Menswear]] — secondary category
+- [[Netherlands]] — primary employment market, HEMA and HUNKEMÖLLER
+- [[Licensing]] — offered via Instagram bio

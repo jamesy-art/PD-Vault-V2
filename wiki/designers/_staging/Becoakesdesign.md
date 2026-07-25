@@ -23,7 +23,7 @@ bio: ''
 website: 'https://becoakesdesign.com'
 website_about: ''
 accepted: 07/11/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/becoakesdesign
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Bec Oakes Design
 website_meta_description: ''
 website_about_raw: "Prints handmade with love in my studio. I’m Bec, the print designer behind Bec Oakes Design. I am inspired by travel, the ocean and the world around me. Bohemian, Vintage, Earthy How I discovered textile print and surface pattern design and my journey into the industry. Surface pattern design for creative entrepreneurs. The Print School is the online learning platform by the renowned team at Longina Phillips Designs. BOHEMIAN, VINTAGE, EARTHY Prints handmade with love in my studio. Hey print lovers, I’m Bec, the print designer behind Bec Oakes Design. I am inspired by travel, the ocean and the world around me. Bohemian, Vintage, Earthy Get to Know Me I’m Bec, the print designer behind Bec Oakes Design. I am inspired by travel, the ocean and the world around me. Bohemian, Vintage, Earthy ON THE BLOG Blog My Journey My Journey to Print and Pattern Design My Journey How I discovered textile print and surface pattern design and my journey into the industry. Read more → My Journey Collaborations, Learn Print Design Learn Surface Pattern Design with Cass Deller Collaborations, Learn Print Design Surface pattern design for creative entrepreneurs. Read more → Collaborations, Learn Print Design Collaborations, Learn Print Design The Print School by Longina Phillips Designs Collaborations, Learn Print Design The Print School is the online learning platform by the renowned team at Longina Phillips Designs. Read more → Collaborations, Learn Print Design Take Me to the Blog Blog My Journey My Journey to Print and Pattern Design My Journey How I discovered textile print and surface pattern design and my journey into the industry. Read more → My Journey Collaborations, Learn Print Design Learn Surface Pattern Design with Cass Deller Collaborations, Learn Print Design Surface pattern design for creative entrepreneurs. Read more → Collaborations, Learn Print Design Collaborations, Learn Print Design The Print School by Longina Phillips Designs Collaborations, Learn Print Design The Print School is the online learning platform by the renowned team at Longina Phillips Designs. Read more → Collaborations, Learn Print Design My Journey My Journey to Print and Pattern Design My Journey How I discovered textile print and surface pattern design and my journey into the industry. Read more → My Journey Collaborations, Learn Print Design Learn Surface Pattern Design with Cass Deller Collaborations, Learn Print Design Surface pattern design for creative entrepreneurs. Read more → Collaborations, Learn Print Design Collaborations, Learn Print Design The Print School by Longina Phillips Designs Collaborations, Learn Print Design The Print School is the online learning platform by the renowned team at Longina Phillips Designs. Read more → Collaborations, Learn Print Design My Journey My Journey to Print and Pattern Design My Journey How I discovered textile print and surface pattern design and my journey into the industry. Read more → My Journey My Journey to Print and Pattern Design Collaborations, Learn Print Design Learn Surface Pattern Design with Cass Deller Collaborations, Learn Print Design Surface pattern design for creative entrepreneurs. Read more → Collaborations, Learn Print Design Collaborations, Learn Print Design Learn Surface Pattern Design with Cass Deller Collaborations, Learn Print Design The Print School by Longina Phillips Designs Collaborations, Learn Print Design The Print School is the online learning platform by the renowned team at Longina Phillips Designs. Read more → Collaborations, Learn Print Design The Print School by Longina Phillips Designs Clients and Collaborations 'Bec was so lovely to work with. She was patient, professional and understanding with modifications and time frames. I felt I was able to discuss my needs with her comfortably. We absolutely loved our final design and hope to work with Bec again.' Annie, Drift Surf Co 'We love you Bec! Thank you for turning our vision into something so beautiful!' Chloe, Sandy Tails 'It has been a pleasure collaborating with you. Your prompt responses, professionalism, ease of communication, and attention to detail have truly made the process easy and efficient.' Ciara, Somerside 'Bec helped me to create the most beautiful print. She hand painted a floral boarder print with gouache and it looks exactly how I wanted it. It was all complete in just over a week. Bec is so lovely and great to work with and I will be recommending to anyone needing a beautiful new print!' Anna, Merrow Anam 'Bec was so lovely to work with. She was patient, professional and understanding with modifications and time frames. I felt I was able to discuss my needs with her comfortably. We absolutely loved our final design and hope to work with Bec again.' Annie, Drift Surf Co 'We love you Bec! Thank you for turning our vision into something so beautiful!' Chloe, Sandy Tails 'It has been a pleasure collaborating with you. Your prompt responses, professionalism, ease of communication, and attention to detail have truly made the process easy and efficient.' Ciara, Somerside 'Bec helped me to create the most beautiful print. She hand painted a floral boarder print with gouache and it looks exactly how I wanted it. It was all complete in just over a week. Bec is so lovely and great to work with and I will be recommending to anyone needing a beautiful new print!' Anna, Merrow Anam Keep up to date with me on Instagram ... Keep up to date with me on Instagram ... View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Keep up to date with me on Instagram ... Keep up to date with me on Instagram ... Keep up to date with me on Instagram ... View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Skip to Content Open Menu Close Menu 0 0 Open Menu Close Menu 0 0 BOHEMIAN, VINTAGE, EARTHY Prints handmade with love in my studio. Hey print lovers, I’m Bec, the print designer behind Bec Oakes Design. I am inspired by travel, the ocean and the world around me. Bohemian, Vintage, Earthy Get to Know Me ON THE BLOG Blog My Journey My Journey to Print and Pattern Design My Journey How I discovered textile print and surface pattern design and my journey into the industry. Read more → My Journey Collaborations, Learn Print Design Learn Surface Pattern Design with Cass Deller Collaborations, Learn Print Design Surface pattern design for creative entrepreneurs. Read more → Collaborations, Learn Print Design Collaborations, Learn Print Design The Print School by Longina Phillips Designs Collaborations, Learn Print Design The Print School is the online learning platform by the renowned team at Longina Phillips Designs. Read more → Collaborations, Learn Print Design Take Me to the Blog Clients and Collaborations 'Bec was so lovely to work with. She was patient, professional and understanding with modifications and time frames. I felt I was able to discuss my needs with her comfortably. We absolutely loved our final design and hope to work with Bec again.' Annie, Drift Surf Co 'We love you Bec! Thank you for turning our vision into something so beautiful!' Chloe, Sandy Tails 'It has been a pleasure collaborating with you. Your prompt responses, professionalism, ease of communication, and attention to detail have truly made the process easy and efficient.' Ciara, Somerside 'Bec helped me to create the most beautiful print. She hand painted a floral boarder print with gouache and it looks exactly how I wanted it. It was all complete in just over a week. Bec is so lovely and great to work with and I will be recommending to anyone needing a beautiful new print!' Anna, Merrow Anam Keep up to date with me on Instagram ... Keep up to date with me on Instagram ... View fullsize View fullsize View fullsize View fullsize View fullsize View fullsize Skip to Content Open Menu Close Menu 0 0 Open Menu Close Menu 0 0 Open Menu Close Menu 0 0 Open Menu Close Menu 0 0 http://static1.squarespace.com/static/64718b024e13e63ca71a9fe2/t/66f3e50b50aa3d5cefe82052/1727259916066/Larger+Logo.png?format=1500w { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 1, \"filterStrength\": 0, \"zoom\": 0, \"videoSourceProvider\": \"none\" }, \"backgroundImageId\": null, \"backgroundMediaEffect\": { \"type\": \"none\" }, \"divider\": { \"enabled\": false, \"type\": \"wavy\", \"width\": { \"unit\": \"vw\", \"value\": 100.0 }, \"height\": { \"unit\": \"vw\", \"value\": 6.0 }, \"isFlipX\": false, \"isFlipY\": false, \"offset\": { \"unit\": \"px\", \"value\": 0.0 }, \"stroke\": { \"style\": \"solid\", \"color\": { \"type\": \"THEME_COLOR\" }, \"thickness\": { \"unit\": \"px\", \"value\": 6.0 }, \"dashLength\": { \"unit\": \"px\", \"value\": 5.0 }, \"gapLength\": { \"unit\": \"px\", \"value\": 15.0 }, \"linecap\": \"square\" } }, \"typeName\": \"page\" } { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 1, \"filterStrength\": 0, \"zoom\": 0, \"videoSourceProvider\": \"none\" }, \"backgroundImageId\": null, \"backgroundMediaEffect\": { \"type\": \"none\" }, \"divider\": { \"enabled\": false }, \"typeName\": \"page\" } { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 1, \"filterStrength\": 0, \"zoom\": 0, \"videoSourceProvider\": \"none\" }, \"backgroundImageId\": null, \"backgroundMediaEffect\": { \"type\": \"none\" }, \"divider\": { \"enabled\": true, \"type\": \"none\", \"width\": { \"unit\": \"vw\", \"value\": 100.0 }, \"height\": { \"unit\": \"vw\", \"value\": 6.0 }, \"isFlipX\": false, \"isFlipY\": false, \"offset\": { \"unit\": \"px\", \"value\": 0.0 }, \"stroke\": { \"style\": \"none\", \"color\": { \"type\": \"THEME_COLOR\" }, \"thickness\": { \"unit\": \"px\", \"value\": 6.0 }, \"dashLength\": { \"unit\": \"px\", \"value\": 5.0 }, \"gapLength\": { \"unit\": \"px\", \"value\": 15.0 }, \"linecap\": \"square\" } }, \"typeName\": \"page\" } { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 1, \"filterStrength\": 0, \"zoom\": 0 }, \"backgroundImageId\": null, \"backgroundMediaEffect\": null, \"divider\": { \"enabled\": false, \"type\": \"none\", \"width\": { \"value\": 100, \"unit\": \"vw\" }, \"height\": { \"value\": 6, \"unit\": \"vw\" }, \"isFlipX\": false, \"isFlipY\": false, \"offset\": { \"value\": 0, \"unit\": \"px\" }, \"stroke\": { \"style\": \"solid\", \"color\": { \"type\": \"THEME_COLOR\" }, \"thickness\": { \"value\": 6, \"unit\": \"px\" }, \"dashLength\": { \"value\": 5, \"unit\": \"px\" }, \"gapLength\": { \"value\": 15, \"unit\": \"px\" }, \"linecap\": \"square\" } }, \"typeName\": \"page\" } { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 2, \"filterStrength\": 0, \"zoom\": 0, \"videoSourceProvider\": \"none\" }, \"backgroundImageId\": null, \"backgroundMediaEffect\": { \"type\": \"none\" }, \"divider\": { \"enabled\": false }, \"typeName\": \"page\" } { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 1, \"filterStrength\": 0, \"zoom\": 0 }, \"backgroundImageId\": null, \"backgroundMediaEffect\": null, \"divider\": { \"enabled\": false, \"type\": \"wavy\", \"width\": { \"value\": 100, \"unit\": \"vw\" }, \"height\": { \"value\": 6, \"unit\": \"vw\" }, \"isFlipX\": false, \"isFlipY\": false, \"offset\": { \"value\": 0, \"unit\": \"px\" }, \"stroke\": { \"style\": \"solid\", \"color\": { \"type\": \"THEME_COLOR\" }, \"thickness\": { \"value\": 6, \"unit\": \"px\" }, \"dashLength\": { \"value\": 5, \"unit\": \"px\" }, \"gapLength\": { \"value\": 15, \"unit\": \"px\" }, \"linecap\": \"square\" } }, \"typeName\": \"page\" } { \"video\": { \"filter\": 1, \"videoFallbackContentItem\": null, \"nativeVideoContentItem\": null, \"videoSourceProvider\": \"none\" }, \"backgroundImageId\": null, \"backgroundMediaEffect\": { \"type\": \"none\" }, \"divider\": { \"enabled\": false }, \"typeName\": \"page\" } { \"video\": { \"playbackSpeed\": 0.5, \"filter\": 1, \"filterStrength\": 0, \"zoom\": 0, \"videoSourceProvider\": \"none\" }, \"backgroundImageId\": null, \"backgroundMediaEffect\": { \"type\": \"none\" }, \"divider\": { \"enabled\": false, \"type\": \"soft-corners\", \"height\": { \"unit\": \"vw\", \"value\": 6.0 }, \"isFlipX\": false, \"isFlipY\": false, \"offset\": { \"unit\": \"px\", \"value\": 0.0 }, \"stroke\": { \"style\": \"none\", \"color\": { \"type\": \"THEME_COLOR\" }, \"thickness\": { \"unit\": \"px\", \"value\": 6.0 }, \"dashLength\": { \"unit\": \"px\", \"value\": 5.0 }, \"gapLength\": { \"unit\": \"px\", \"value\": 15.0 }, \"linecap\": \"square\" } }, \"typeName\": \"page\" } Welcome to my world of print and colour \U0001F9E1 Prints handmade with love for sustainable and conscious brands. Produced and"
@@ -103,7 +106,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -120,45 +123,170 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/435086460_991451099073772_6411281939303370403_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEq5VWh2kDuGvxc9FgaJ9vvKkSrrAut2i5cnX7WRR4qgpR2vK7X8-uJpjIlDNr8yQI&_nc_ohc=I3YeFxMBwNsQ7kNvwG7Kzjk&_nc_gid=7JGTIf0HkUuSFxDJOvPckg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7p7m1DjHcVj4HcyVyw63IbHNjlIBpZARVjgdat5C33fQ&oe=6A13DC6D&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/435086460_991451099073772_6411281939303370403_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEq5VWh2kDuGvxc9FgaJ9vvKkSrrAut2i5cnX7WRR4qgpR2vK7X8-uJpjIlDNr8yQI&_nc_ohc=I3YeFxMBwNsQ7kNvwG7Kzjk&_nc_gid=7JGTIf0HkUuSFxDJOvPckg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7p7m1DjHcVj4HcyVyw63IbHNjlIBpZARVjgdat5C33fQ&oe=6A13DC6D&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/becoakesdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5305
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/becoakesdesign/profile/435086460_991451099073772_6411281939303370403_n.jpg
+instagram_profile_image_bytes: 162449
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/becoakesdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/becoakesdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/becoakesdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/becoakesdesign/profile/435086460_991451099073772_6411281939303370403_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/becoakesdesign/profile/435086460_991451099073772_6411281939303370403_n.jpg
+profile_image_local: >-
+  ../../assets/designers/becoakesdesign/profile/435086460_991451099073772_6411281939303370403_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/becoakesdesign/profile/435086460_991451099073772_6411281939303370403_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1649207928_2810082234042430302_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1666646979_2956371598645046827_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1678934121_3059443614854447800_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1681715048_3082771724681100206_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1682825718_3092088695557996069_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1690500775_3156471741895542514_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1701127045_3245611355192855739_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1702004098_3252968605263711336_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1707867634_3302155516813129724_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710549050_3324648858305973527_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418045299960_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418053643302_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1718663923_3392721353819367990_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1719198587_3397206435937781233_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1721173790_3413775641907726188_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732256925_3506747711104366711_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732839744_3511636751775692514_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1733387420_3516230972635264742_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1740437826_3575374088493799516_7537834880.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1666646979_2956371598645046827_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1681715048_3082771724681100206_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1702004098_3252968605263711336_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710549050_3324648858305973527_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418053643302_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1718663923_3392721353819367990_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732839744_3511636751775692514_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1740437826_3575374088493799516_7537834880.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1649207928_2810082234042430302_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1678934121_3059443614854447800_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1682825718_3092088695557996069_7537834880.jpg
+  - >-
+    ../../assets/designers/becoakesdesign/instagram/becoakesdesign_1690500775_3156471741895542514_7537834880.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # becoakesdesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/becoakesdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/becoakesdesign/profile/435086460_991451099073772_6411281939303370403_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1649207928_2810082234042430302_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1649207928_2810082234042430302_7537834880.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1666646979_2956371598645046827_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1666646979_2956371598645046827_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1678934121_3059443614854447800_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1678934121_3059443614854447800_7537834880.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1681715048_3082771724681100206_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1681715048_3082771724681100206_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1682825718_3092088695557996069_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1682825718_3092088695557996069_7537834880.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1690500775_3156471741895542514_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1690500775_3156471741895542514_7537834880.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1701127045_3245611355192855739_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1701127045_3245611355192855739_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1702004098_3252968605263711336_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1702004098_3252968605263711336_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1707867634_3302155516813129724_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1707867634_3302155516813129724_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710549050_3324648858305973527_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710549050_3324648858305973527_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418045299960_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418045299960_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418053643302_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1710807204_3326814418053643302_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1718663923_3392721353819367990_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1718663923_3392721353819367990_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1719198587_3397206435937781233_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1719198587_3397206435937781233_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1721173790_3413775641907726188_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1721173790_3413775641907726188_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732256925_3506747711104366711_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732256925_3506747711104366711_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732839744_3511636751775692514_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1732839744_3511636751775692514_7537834880.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1733387420_3516230972635264742_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1733387420_3516230972635264742_7537834880.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/becoakesdesign/instagram/becoakesdesign_1740437826_3575374088493799516_7537834880.jpg)<br><!-- image:../../assets/designers/becoakesdesign/instagram/becoakesdesign_1740437826_3575374088493799516_7537834880.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Bec Oakes is an Australian print designer and artist working under Bec Oakes Design. Her aesthetic is self-described as "Bohemian, Vintage, Earthy" — prints handmade with love, primarily for sustainable and conscious brands. She works on commission and has documented collaborations with Australian surf and coastal lifestyle brands.
+
 ## Style and Aesthetic
+
+Bohemian, vintage, and earthy — warm nature-led palettes with a hand-crafted quality. Selected Instagram images (8 patterns) suggest botanical florals and organic motifs consistent with the coastal Australian aesthetic. Travel and the ocean are cited as primary inspirations alongside the natural world. The positioning is artisanal and conscious rather than trend-driven.
 
 ## Techniques and Tools
 
+Hand-painted methods are documented; a client review references gouache hand-painting for a floral border print. Training through The Print School (Longina Phillips Designs) and a course with Cass Deller is referenced, indicating formal industry education.
+
 ## Markets and Clients
+
+Commission is the primary documented commercial model. Named clients:
+- Drift Surf Co (Annie)
+- Sandy Tails (Chloe)
+- Somerside (Ciara)
+- Merrow Anam (Anna — gouache floral border print)
+
+All documented clients are Australian surf, coastal, or lifestyle brands. Licensing is also listed as a pricing option. Selected placement images (4) indicate garment and surface product applications.
 
 ## Portfolio and Presence
 
+- Website: becoakesdesign.com
+- Instagram: @Becoakesdesign (2,301 followers, 459 posts)
+
 ## Career Path
+
+Bec Oakes discovered textile print and surface pattern design and documents her journey on her website blog. She has trained through The Print School (Longina Phillips Designs) and with instructor Cass Deller. Now working independently in Australia, she produces handmade prints for sustainable and conscious brands, primarily via commission.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns) suggest botanical florals, organic motifs, and earthy compositions consistent with the Bohemian/Vintage/Earthy brand positioning. Placement images (4) show print applied to garments and surface products. Gouache hand-painting for border and allover prints is documented; specific repeat types are not specified.
+
 ## Connections
+
+- [[Australia]] — based
+- [[Licensing]] — listed pricing model
+- [[Commission]] — primary documented commercial model
+- [[Floral and Botanical Patterns]] — core motif family
+- [[Longina Phillips Designs]] — documented training affiliation
+- [[Sustainable Design]] — stated brand positioning

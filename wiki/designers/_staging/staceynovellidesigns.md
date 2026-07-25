@@ -20,7 +20,7 @@ bio: ''
 website: 'https://staceynovellidesigns.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/staceynovellidesigns
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Stacey Novelli Designs
 website_meta_description: >-
   Stacey Novelli is a wildly creative textile designer and maker, known for
@@ -240,7 +243,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -257,45 +260,118 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/566458767_17952448266040519_7875259343445396759_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTIuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG0bsrrx_woQ28_XntHnnk8xEPdinuNau2vPhUlIxuVOk_G_OQwr0XulmEdUHRNJhk&_nc_ohc=5U_Ppvw9A7QQ7kNvwHkj3e_&_nc_gid=yodh7B3Cs53cvt4Dvz9FqQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KxW0_XDDUFqm-7k40KObmFLATpmvdotUxmY2H8ZXIow&oe=6A13F455&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/566458767_17952448266040519_7875259343445396759_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTIuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG0bsrrx_woQ28_XntHnnk8xEPdinuNau2vPhUlIxuVOk_G_OQwr0XulmEdUHRNJhk&_nc_ohc=5U_Ppvw9A7QQ7kNvwHkj3e_&_nc_gid=yodh7B3Cs53cvt4Dvz9FqQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7KxW0_XDDUFqm-7k40KObmFLATpmvdotUxmY2H8ZXIow&oe=6A13F455&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4624
+instagram_profile_image_local: >-
+  ../../assets/designers/staceynovellidesigns/profile/566458767_17952448266040519_7875259343445396759_n.jpg
+instagram_profile_image_bytes: 24174
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/staceynovellidesigns/profile/566458767_17952448266040519_7875259343445396759_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/staceynovellidesigns/profile/566458767_17952448266040519_7875259343445396759_n.jpg
+profile_image_local: >-
+  ../../assets/designers/staceynovellidesigns/profile/566458767_17952448266040519_7875259343445396759_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/staceynovellidesigns/profile/566458767_17952448266040519_7875259343445396759_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1690069614_3152854898009439665_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1745882964_3621051218459757544_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1750943016_3663498003764215957_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1751457084_3667810322568933679_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596692195430_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596809770646_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411998855433478_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411999031569223_61235032518.jpg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1690069614_3152854898009439665_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1750943016_3663498003764215957_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1751457084_3667810322568933679_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411999031569223_61235032518.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596692195430_61235032518.jpg
+  - >-
+    ../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596809770646_61235032518.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # staceynovellidesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/staceynovellidesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/staceynovellidesigns/profile/566458767_17952448266040519_7875259343445396759_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1690069614_3152854898009439665_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1690069614_3152854898009439665_61235032518.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1745882964_3621051218459757544_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1745882964_3621051218459757544_61235032518.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1750943016_3663498003764215957_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1750943016_3663498003764215957_61235032518.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1751457084_3667810322568933679_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1751457084_3667810322568933679_61235032518.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596692195430_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596692195430_61235032518.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596809770646_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1752613208_3677508596809770646_61235032518.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411998855433478_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411998855433478_61235032518.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411999031569223_61235032518.jpg)<br><!-- image:../../assets/designers/staceynovellidesigns/instagram/staceynovellidesigns_1753555367_3685411999031569223_61235032518.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Stacey Novelli is a US-based textile designer with over 20 years of experience in the fashion and textile industry. She most recently held the role of Senior Design Director of Print, Pattern & Concept at Lilly Pulitzer. She currently consults for Addison Bay and teaches at the college level. Her practice spans studio art, surface design, concept development, colour theory, and jewellery design. She is open for freelance commissions and special projects.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest bold, hand-drawn, high-colour designs with a strong illustrative character — florals, character motifs, and expressive hand-rendered mark-making. Selected placements show finished product applications. The work has a joyful, artisan quality with commercial polish, reflective of her Lilly Pulitzer background: print-driven, seasonally anchored, and emotionally resonant.
 
 ## Techniques and Tools
 
+Hand-drawn illustration and surface design. Concept development for print, pattern, and seasonal collections. Colour curation and palette development. Art direction for capsule collections. Engineered placement prints designed specifically for garments. Production-ready file delivery. Also works in jewellery design and mixed-media making.
+
 ## Markets and Clients
+
+Fashion, interiors, lifestyle products. Documented corporate background: Lilly Pulitzer (Senior Design Director of Print, Pattern & Concept). Current consulting client: Addison Bay. Services include original artwork and illustration for fashion and lifestyle brands; apparel, activewear, swim, and accessories; surface pattern and repeat design; and creative direction for seasonal and capsule collections.
 
 ## Portfolio and Presence
 
+- Website: staceynovellidesigns.com
+- Instagram: @staceynovellidesigns (687 followers, 171 posts)
+
 ## Career Path
+
+Over 20 years in the fashion and textile industry. Most recently Senior Design Director of Print, Pattern & Concept at Lilly Pulitzer. Currently consulting for Addison Bay and teaching textile design at the college level. Open for freelance design work, commissions, and special projects.
 
 ## Pattern Focus
 
+Hand-drawn, bold, colourful surface patterns for fashion, lifestyle, and interiors. Selected Instagram images suggest florals, character illustrations, and expressive hand-rendered motifs. Placement prints designed for specific garment applications are also documented on her website, alongside sketchbook and professional design work sections.
+
 ## Connections
+
+- [[Fashion market]]
+- [[raw/companies/lilly-pulitzer]]
+- [[Activewear market]]
+- [[Illustration]]
+- [[Licensing]]

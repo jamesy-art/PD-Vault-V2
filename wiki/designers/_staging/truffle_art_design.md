@@ -27,7 +27,7 @@ bio: ''
 website: 'https://truffleart.com'
 website_about: ''
 accepted: 06/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/truffle_art_design
 profile_url: ''
 instagram_images:
@@ -44,8 +44,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Truffle Art Design - Telva Chase
 website_meta_description: >-
   Truffle Art by Telva Chase, Surface Pattern Designer in Vancouver creates
@@ -214,7 +217,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -242,31 +245,85 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_13_woven_checks_-_1__purple_squares_-_multi-teal_stripes_watercolor_hand-drawn.jpeg
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_15_vertical_floral_stripes_of_yellow_daisies_and_1__orange_roses_on_pale_teal.jpeg
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_16_Hazy_Daze_pattern_-_1%2F4_-1__stripes_peach_red_yellow_gold_teal.jpeg
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_29_Textured_Stripe_in_Prairie_Tones_-_soft_dusty_teal_on_ivory_cream.jpeg
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_13_woven_checks_-_1__purple_squares_-_multi-teal_stripes_watercolor_hand-drawn.jpeg
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_15_vertical_floral_stripes_of_yellow_daisies_and_1__orange_roses_on_pale_teal.jpeg
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_16_Hazy_Daze_pattern_-_1%2F4_-1__stripes_peach_red_yellow_gold_teal.jpeg
+  - >-
+    ../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_29_Textured_Stripe_in_Prairie_Tones_-_soft_dusty_teal_on_ivory_cream.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # truffle_art_design
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_13_woven_checks_-_1__purple_squares_-_multi-teal_stripes_watercolor_hand-drawn.jpeg)<br><!-- image:../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_13_woven_checks_-_1__purple_squares_-_multi-teal_stripes_watercolor_hand-drawn.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_15_vertical_floral_stripes_of_yellow_daisies_and_1__orange_roses_on_pale_teal.jpeg)<br><!-- image:../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_15_vertical_floral_stripes_of_yellow_daisies_and_1__orange_roses_on_pale_teal.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_16_Hazy_Daze_pattern_-_1%2F4_-1__stripes_peach_red_yellow_gold_teal.jpeg)<br><!-- image:../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_16_Hazy_Daze_pattern_-_1%2F4_-1__stripes_peach_red_yellow_gold_teal.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_29_Textured_Stripe_in_Prairie_Tones_-_soft_dusty_teal_on_ivory_cream.jpeg)<br><!-- image:../../assets/designers/truffle_art_design/instagram/truffle_art_design_imageye___-_imgi_29_Textured_Stripe_in_Prairie_Tones_-_soft_dusty_teal_on_ivory_cream.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Telva Chase is a surface pattern designer and artist based in Vancouver, WA, working under the studio name Truffle Art Design LLC (founded 2014). She designs patterns for textiles, fabric, wallpaper, and home decor, and also offers education through her platform Telva's Toolbox. Documented clients include Balenciaga Menswear, Columbia Sportswear, Spoonflower, Bed Bath & Beyond, Pier 1 Imports, American Apparel, and Jacquemus.
+
 ## Style and Aesthetic
+
+Chase's work bridges traditional fine art and commercial surface pattern. Selected Instagram images reveal a consistent palette signature: teal, dusty sage, ivory cream, warm peaches, and muted golds. Patterns lean toward handmade texture — woven check structures, floral stripe compositions, and painterly stripe abstractions. The work has a warm, artisan quality rather than a graphic digital aesthetic; teal recurs as a signature colour across multiple designs.
 
 ## Techniques and Tools
 
+Traditional art media from youth: oil, acrylic, watercolour, encaustic, and pastels. These traditional painting methods feed directly into surface pattern work. Selected patterns suggest watercolour-influenced hand-drawn mark-making in the repeat units. Also illustrates and makes cards. Quilter and sewer, which likely informs pattern composition for fabric applications.
+
 ## Markets and Clients
+
+Documented clients: Balenciaga Menswear, Columbia Sportswear, Bed Bath & Beyond, Pier 1 Imports, American Apparel, Jacquemus, Spoonflower. Markets span womenswear, menswear, home decor, and stationery. Actively seeking collaboration in textiles, home decor, or apparel. Licensed designer; also direct-to-consumer via website fabric shop.
 
 ## Portfolio and Presence
 
+- Website: truffleart.com (portfolio + fabric shop)
+- Education: Telva's Toolbox (separate platform, referenced as "moving to" in late 2025)
+- Instagram: @truffle_art_design (no follower data in scraped YAML)
+
 ## Career Path
+
+Based in Vancouver, WA, on a wildlife refuge. Has worked in traditional art media since youth. Founded Truffle Art Design LLC in 2014. Practice spans surface pattern design, illustration, card making, authoring, and education. Inspires from travel (Egypt, Machu Picchu, Peru), nature (hydrangea focus), gardening, and historical patterns.
 
 ## Pattern Focus
 
+Selected patterns confirm a mixed vocabulary of stripes and checks in handmade textures: woven check (purple squares, teal watercolour), vertical floral stripe (yellow daisies, orange roses on teal), painterly stripe (Hazy Daze: peach/red/yellow/gold/teal), and textured stripe (Prairie Tones: dusty teal on ivory cream). The repeat structures are primarily stripe and grid-based, with floral and botanical subjects as fill motifs. Teal is a consistent palette anchor.
+
 ## Connections
+
+- [[raw/companies/balenciaga]]
+- [[Columbia Sportswear]]
+- [[Spoonflower]]
+- [[Surface Pattern Design]]
+- [[Stripe Pattern]]
+- [[Flower Pattern]]
+- [[Home Decor]]

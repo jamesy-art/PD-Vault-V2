@@ -26,7 +26,7 @@ bio: ''
 website: 'https://morningmusedesignsco.myportfolio.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/morningmusedesigns.co
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Rachael Douglass
 website_meta_description: Create To Represent. Represent To Create.
 website_about_raw: >-
@@ -279,7 +282,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -301,40 +304,112 @@ instagram_profile_image_bytes: 4723
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_105_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x1920.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_106_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x2560.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_121_36c960da-9e05-44f7-bb8b-44185defb369_carw_202x158x5120.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_139_6ef18234-a4e6-4fbe-b5f8-d8ff6b7ae437_carw_202x158x5120.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_164_921a3e6e-d652-4627-a928-574f1bccb838_rwc_964x0x7071x4500x4096.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_18_804d3eae-b652-4f46-940a-46426cff08d4_rwc_693x0x2459x1923x2459.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_82_927006c2-d932-4277-9fca-7fbd31537139_rwc_692x0x2458x1922x2560.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_86_76388751-3700-4062-af72-8d237acc5f9c_rwc_692x0x2455x1920x2560.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_98_06deb682-2503-4647-a9da-0a51a07e27be_rwc_0x0x3840x3002x2560.png
+instagram_image_count: 9
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_105_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x1920.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_164_921a3e6e-d652-4627-a928-574f1bccb838_rwc_964x0x7071x4500x4096.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_18_804d3eae-b652-4f46-940a-46426cff08d4_rwc_693x0x2459x1923x2459.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_82_927006c2-d932-4277-9fca-7fbd31537139_rwc_692x0x2458x1922x2560.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_86_76388751-3700-4062-af72-8d237acc5f9c_rwc_692x0x2455x1920x2560.png
+selected_placements:
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_121_36c960da-9e05-44f7-bb8b-44185defb369_carw_202x158x5120.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_139_6ef18234-a4e6-4fbe-b5f8-d8ff6b7ae437_carw_202x158x5120.png
+  - >-
+    ../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_98_06deb682-2503-4647-a9da-0a51a07e27be_rwc_0x0x3840x3002x2560.png
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # morningmusedesigns.co
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/morningmusedesigns.co/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_105_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x1920.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_105_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x1920.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_106_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x2560.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_106_b35afdb1-c5b2-4f9d-aabe-0e3760032c22_rwc_0x0x3840x3002x2560.png --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_121_36c960da-9e05-44f7-bb8b-44185defb369_carw_202x158x5120.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_121_36c960da-9e05-44f7-bb8b-44185defb369_carw_202x158x5120.png --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_139_6ef18234-a4e6-4fbe-b5f8-d8ff6b7ae437_carw_202x158x5120.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_139_6ef18234-a4e6-4fbe-b5f8-d8ff6b7ae437_carw_202x158x5120.png --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_164_921a3e6e-d652-4627-a928-574f1bccb838_rwc_964x0x7071x4500x4096.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_164_921a3e6e-d652-4627-a928-574f1bccb838_rwc_964x0x7071x4500x4096.png --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_18_804d3eae-b652-4f46-940a-46426cff08d4_rwc_693x0x2459x1923x2459.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_18_804d3eae-b652-4f46-940a-46426cff08d4_rwc_693x0x2459x1923x2459.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_82_927006c2-d932-4277-9fca-7fbd31537139_rwc_692x0x2458x1922x2560.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_82_927006c2-d932-4277-9fca-7fbd31537139_rwc_692x0x2458x1922x2560.png --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_86_76388751-3700-4062-af72-8d237acc5f9c_rwc_692x0x2455x1920x2560.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_86_76388751-3700-4062-af72-8d237acc5f9c_rwc_692x0x2455x1920x2560.png --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_98_06deb682-2503-4647-a9da-0a51a07e27be_rwc_0x0x3840x3002x2560.png)<br><!-- image:../../assets/designers/morningmusedesigns.co/instagram/morningmusedesigns.co_imageye___-_imgi_98_06deb682-2503-4647-a9da-0a51a07e27be_rwc_0x0x3840x3002x2560.png --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rachael Douglass is a Nashville-based graphic designer and illustrator operating as Morning Muse Designs Co. Her practice spans textile pattern design, editorial illustration, motion graphics, and commercial advertising. She completed an internship at Anderson Design Group in Nashville in 2025, producing illustration posters and marketing materials. A Scholastic Art & Writing mentee in 2025, Douglass positions herself at the intersection of visual art and commercial design.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a decorative, vintage-inflected style drawing on Renaissance and classical European references — cherubs, botanical forms, and richly layered compositions. Textile collections including CHERUBS IN SILK, BELLADONNA, PARADISO, GARDEN OF EDEN, and the RENAISSANCE series point toward an illustrative approach to surface pattern combining fine-art reference with digital refinement.
 
 ## Techniques and Tools
 
+Works primarily in Adobe Illustrator, with motion graphics output via Adobe After Effects. Portfolio includes scalable vector artwork designed for multi-platform deployment. Also uses Adobe InDesign for print layout projects.
+
 ## Markets and Clients
+
+Portfolio covers commercial advertising, editorial illustration, and surface pattern design for textiles. Documented clients from her 2025 internship include Anderson Design Group (Nashville), the Tennessee Performing Arts Center (TPAC), and community mural work for Amqui Station, Madison, TN. Textile pattern work targets apparel and home product markets.
 
 ## Portfolio and Presence
 
+- Website: https://morningmusedesignsco.myportfolio.com
+- Instagram: https://instagram.com/morningmusedesigns.co
+
 ## Career Path
+
+Early-career designer (22 at time of application). Completed a four-month Scholastic Art & Writing mentorship in 2025, focused on book cover illustration. Interned at Anderson Design Group, contributing illustration posters across retro space travel, Nashville history, and brand advertising subjects. Designed and painted a diptych mural for Amqui Station, Madison, TN in 2024. Her tagline "Create To Represent. Represent To Create." frames her practice around cultural visibility.
 
 ## Pattern Focus
 
+Textile collections are named and framed as surface design work — CHERUBS IN SILK, MORBLEU, BELLADONNA, PARADISO, GARDEN OF EDEN, and the RENAISSANCE series. Selected images suggest decorative all-over patterns drawing on classical and Renaissance motifs: florals, figural elements, and ornamental compositions produced in Adobe Illustrator.
+
 ## Connections
+
+- [[Anderson Design Group]] — internship client, Nashville, TN
+- [[Scholastic Art & Writing Awards]] — 2025 mentorship programme

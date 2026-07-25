@@ -20,7 +20,7 @@ bio: ''
 website: 'https://elenabeckett.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/elenaabeckett
 profile_url: ''
 instagram_images:
@@ -37,8 +37,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Elena Beckett
 website_meta_description: ''
 website_about_raw: >-
@@ -158,7 +161,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Graphic Artist based in Southern California. Design interests in apparel
   graphics, textile design, and sustainability. BFA in Graphic Design and
@@ -426,31 +429,122 @@ enrichment_stats:
   profile_total: 0
   profile_valid: 0
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_16_Rainbow's+end.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_172_NEW+RVCA+WEBBIE5.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_186_NEW+RVCA+WEBBIE4.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_207_RVCA+WEBBIE2.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_235_RVCA+WEBBIE10.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_26_FLORAL%2BBUTTON%2BUP.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_30_THERMA-DOODLE.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_32_JUNGLE+TRUNKS.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_36_image-asset.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_3_FLORAL%2BBUTTON%2BUP.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_47_LATER+LOGO.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_54_illustration-02.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_72_illustration-01.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_84_illiustration-05.jpeg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_172_NEW+RVCA+WEBBIE5.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_186_NEW+RVCA+WEBBIE4.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_26_FLORAL%2BBUTTON%2BUP.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_32_JUNGLE+TRUNKS.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_16_Rainbow's+end.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_30_THERMA-DOODLE.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_36_image-asset.jpeg
+  - >-
+    ../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_84_illiustration-05.jpeg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # elenaabeckett
 
 ## Profile Image
 
-_No profile image found._
+
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_16_Rainbow's+end.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_16_Rainbow's+end.jpeg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_172_NEW+RVCA+WEBBIE5.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_172_NEW+RVCA+WEBBIE5.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_186_NEW+RVCA+WEBBIE4.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_186_NEW+RVCA+WEBBIE4.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_207_RVCA+WEBBIE2.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_207_RVCA+WEBBIE2.jpeg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_235_RVCA+WEBBIE10.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_235_RVCA+WEBBIE10.jpeg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_26_FLORAL%2BBUTTON%2BUP.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_26_FLORAL%2BBUTTON%2BUP.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_30_THERMA-DOODLE.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_30_THERMA-DOODLE.jpeg --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_32_JUNGLE+TRUNKS.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_32_JUNGLE+TRUNKS.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_36_image-asset.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_36_image-asset.jpeg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_3_FLORAL%2BBUTTON%2BUP.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_3_FLORAL%2BBUTTON%2BUP.jpeg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_47_LATER+LOGO.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_47_LATER+LOGO.jpeg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_54_illustration-02.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_54_illustration-02.jpeg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_72_illustration-01.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_72_illustration-01.jpeg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_84_illiustration-05.jpeg)<br><!-- image:../../assets/designers/elenaabeckett/instagram/elenaabeckett_imageye___-_imgi_84_illiustration-05.jpeg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elena Beckett is a Southern California-based graphic artist and textile designer specialising in apparel graphics and surface pattern for the action sports and lifestyle sectors. She holds a BFA in Graphic Design and Illustration from Laguna College of Art + Design (2014–2018) and has held in-house apparel graphic artist roles at RVCA (2020–2022) and O'Neill (2022–2024). She joined Brixton as a full-time Graphic Designer in September 2025 and works concurrently as a freelance graphic artist at Paralia Studio.
+
 ## Style and Aesthetic
+
+Beckett's work sits within the Southern California surf and action sports visual tradition — florals, tropical compositions, Hawaiian-reference prints, and graphic abstract designs applied to garment surfaces. Selected Instagram patterns include bold floral repeats and RVCA-branded surface textile graphics. Selected placement images confirm garment-applied print work on shirts and board shorts. Documented O'Neill pattern titles include Weekend Palms, Island Days, and Vacation Club.
 
 ## Techniques and Tools
 
+Adobe Creative Suite. Trend research. Production-ready apparel output including garment graphics and textile repeat design, drawing on in-house experience at RVCA and O'Neill. Certificate of Sustainability in the Apparel Industry from The Underswell (2021–2022).
+
 ## Markets and Clients
+
+Action sports and lifestyle apparel. Documented clients include RVCA, O'Neill, Rip Curl, T&C Surf, Sun Diego, Juneshine, Tilly's, Barstool Sports, Sisstr, Surf Locos, and HSS (via Paralia Studio freelance). Current employer: Brixton (full-time, Sep 2025–present). Selected placements confirm work applied to printed garment surfaces.
 
 ## Portfolio and Presence
 
+- Website: elenabeckett.com
+- Instagram: @elenaabeckett
+
 ## Career Path
+
+Elena Beckett graduated from Laguna College of Art + Design in 2018 with a BFA in Graphic Design and Illustration. She held apparel graphic artist positions at RVCA (Sep 2020–Jun 2022) and O'Neill (Jun 2022–Nov 2024). From December 2024 she has been a freelance graphic artist at Paralia Studio, serving clients including Rip Curl, Juneshine, and Sun Diego. She joined Brixton as a full-time Graphic Designer in September 2025.
 
 ## Pattern Focus
 
+Print vocabulary spans tropical florals, Hawaiian-reference compositions, graphic botanical repeats, and abstract apparel graphics — all in action sports and lifestyle contexts. Selected Instagram patterns include RVCA surface textile graphics and a floral button-up design. Selected placements confirm work applied to printed shirts and board shorts. Named O'Neill works include Weekend Palms, Island Days, and Vacation Club.
+
 ## Connections
+
+- [[Flower Pattern]] — documented in apparel context (floral button-up, RVCA daisy textile)
+- [[Tropical Pattern 5]] — Hawaiian prints, jungle compositions
+- [[Womenswear]] — RVCA, O'Neill, Sisstr garment applications
+- [[Action Sports Market]] — primary client sector
+- [[Apparel Graphics]] — core practice
+- [[RVCA]] — former employer (2020–2022)
+- [[O'Neill]] — former employer (2022–2024)

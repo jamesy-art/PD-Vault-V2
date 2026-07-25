@@ -26,7 +26,7 @@ bio: ''
 website: 'https://mitalimdesigns.com'
 website_about: ''
 accepted: 02/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mitalimdesigns
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Whimsical Surface Pattern Designs for Fabric, Home Décor & Licensing'
 website_meta_description: >-
   Mitali M Designs creates whimsical, story-driven surface patterns and textile
@@ -264,7 +267,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -281,45 +284,191 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/610525869_18395905933183930_278212068559861001_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFufy1b0M1IlOSFaInoy_FU4ulTPbq8k2cxPourGRjdm2btIgNHInjiR8FbP8udUZQ&_nc_ohc=WZXK7tJhjKQQ7kNvwE9Xo3z&_nc_gid=28jMI-4uWaZFwOH8pmLZlg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6qeLa7YLA4MhDt2m7fJRPzqYjJMs21oyIKrIRNK9j0Iw&oe=6A140161&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/610525869_18395905933183930_278212068559861001_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFufy1b0M1IlOSFaInoy_FU4ulTPbq8k2cxPourGRjdm2btIgNHInjiR8FbP8udUZQ&_nc_ohc=WZXK7tJhjKQQ7kNvwE9Xo3z&_nc_gid=28jMI-4uWaZFwOH8pmLZlg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6qeLa7YLA4MhDt2m7fJRPzqYjJMs21oyIKrIRNK9j0Iw&oe=6A140161&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mitalimdesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8186
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mitalimdesigns/profile/610525869_18395905933183930_278212068559861001_n.jpg
+instagram_profile_image_bytes: 154340
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mitalimdesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mitalimdesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mitalimdesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mitalimdesigns/profile/610525869_18395905933183930_278212068559861001_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mitalimdesigns/profile/610525869_18395905933183930_278212068559861001_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mitalimdesigns/profile/610525869_18395905933183930_278212068559861001_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mitalimdesigns/profile/610525869_18395905933183930_278212068559861001_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045153051046_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045161258040_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1754320598_3691831222790732434_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974765726_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974791128_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974805847_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974809861_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1763395096_3767953627554528411_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1765620604_3786622539032691987_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239353961_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239354426_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1770193789_3824983135318733606_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701907040380208_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701908802007248_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701910395847273_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701911981311112_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647668701806918_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647670262098775_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647671704896123_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647674414407447_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647675211351463_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774353000_3859781039631657956_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774353000_3859781039631677798_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774707593_3862839828878516856_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1775315507_3867946923504207414_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1776091620_3874458578492876504_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263197709155_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263206072013_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263961052133_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946264036548040_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946264732800037_5448047929.jpg
+instagram_image_count: 31
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045161258040_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1754320598_3691831222790732434_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974791128_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1763395096_3767953627554528411_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1765620604_3786622539032691987_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239353961_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701907040380208_5448047929.jpg
+  - >-
+    ../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647668701806918_5448047929.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # mitalimdesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mitalimdesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mitalimdesigns/profile/610525869_18395905933183930_278212068559861001_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045153051046_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045153051046_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045161258040_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1753882960_3688160045161258040_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1754320598_3691831222790732434_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1754320598_3691831222790732434_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974765726_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974765726_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974791128_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974791128_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974805847_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974805847_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974809861_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1757512090_3718603394974809861_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1763395096_3767953627554528411_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1763395096_3767953627554528411_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1765620604_3786622539032691987_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1765620604_3786622539032691987_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239353961_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239353961_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239354426_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1767881278_3805586445239354426_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1770193789_3824983135318733606_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1770193789_3824983135318733606_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701907040380208_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701907040380208_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701908802007248_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701908802007248_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701910395847273_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701910395847273_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701911981311112_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1771948328_3839701911981311112_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647668701806918_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647668701806918_5448047929.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647670262098775_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647670262098775_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647671704896123_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647671704896123_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647674414407447_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647674414407447_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647675211351463_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1773849365_3855647675211351463_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774353000_3859781039631657956_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774353000_3859781039631657956_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774353000_3859781039631677798_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774353000_3859781039631677798_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774707593_3862839828878516856_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1774707593_3862839828878516856_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1775315507_3867946923504207414_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1775315507_3867946923504207414_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1776091620_3874458578492876504_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1776091620_3874458578492876504_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263197709155_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263197709155_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263206072013_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263206072013_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263961052133_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946263961052133_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946264036548040_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946264036548040_5448047929.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946264732800037_5448047929.jpg)<br><!-- image:../../assets/designers/mitalimdesigns/instagram/mitalimdesigns_1778068502_3890946264732800037_5448047929.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mitali Maijarkar is a self-taught surface pattern designer and illustrator based in India, working as Mitalim Designs. She creates illustration-led patterns for textiles, home décor, stationery, and licensing, described as having a quiet, poetic sensibility rooted in poetry, books, and imaginative imagery. She is available for licensing collaborations with clients in the UK, Europe, Canada, and global markets, and distributes designs via Spoonflower.
+
 ## Style and Aesthetic
+
+Maijarkar describes her work as whimsical, story-driven, and full of movement — drawing on dreamy, narrative-rich motifs. Her website positions the practice as "Floral. Celestial. Narrative." Selected Instagram images (8 patterns) suggest intricate, illustration-dense surface patterns with rich detail and varied colour, consistent with the imaginative, emotionally resonant brand positioning.
 
 ## Techniques and Tools
 
+Self-taught practice in illustration, surface pattern design, and animation. Works in digital illustration; has extended her practice into animated motion work. Delivers designs for textiles, home décor, and lifestyle products for international licensing.
+
 ## Markets and Clients
+
+Textiles, home décor, and stationery. Available to brands in the UK, Europe, Canada, and global markets. Designs also available via [[Spoonflower]] for fabric. No specific commercial clients named in available sources.
 
 ## Portfolio and Presence
 
+- Website: mitalimdesigns.com
+- Instagram: @mitalimdesigns (3,911 followers)
+
 ## Career Path
+
+Self-taught artist with a background drawn from books and poetry. Developed skills in illustration, surface pattern design, and animation independently, including experience taking illustrations into animated motion work. Open to licensing collaborations and commissions with international brands.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 0 placements) suggest illustration-led surface patterns with floral, celestial, and narrative-rich motifs. Consistent with the "Floral. Celestial. Narrative." website positioning — intricate, emotionally expressive, and suited to textiles, stationery, and home décor.
+
 ## Connections
+
+- [[Spoonflower]] — POD/fabric platform
+- [[Illustration]] — parallel practice
+- [[Stationery]] — target market
+- [[Home Decor]] — target market
+- [[Textiles]] — target market

@@ -1,0 +1,51 @@
+{
+  "slug": "a3-design-solutions",
+  "name": "A3 Design Solutions",
+  "website": "https://a3designsolutions.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/a3-design-solutions.md",
+  "scraped_at": "2026-06-05T23:21:26.521Z",
+  "status": "scraped",
+  "website_title": "A3 Design Solutions",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://a3designsolutions.thepatterncloud.com/home.php",
+      "text": "A3 Design Solutions HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://a3designsolutions.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/facebook.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/instagram.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/pinterest.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/twitter.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/facebookB.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/instagramB.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/pinterestB.png",
+        "https://a3designsolutions.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://a3designsolutions.thepatterncloud.com/about.php",
+      "text": "A3 Design Solutions",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://a3designsolutions.thepatterncloud.com/home.php\nA3 Design Solutions HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://a3designsolutions.thepatterncloud.com/about.php\nA3 Design Solutions",
+  "website_about_clean": "SOURCE: https://a3designsolutions.thepatterncloud.com/home.php\nA3 Design Solutions HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://a3designsolutions.thepatterncloud.com/about.php\nA3 Design Solutions",
+  "website_images": [
+    "https://a3designsolutions.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/facebook.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/instagram.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/pinterest.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/twitter.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/facebookB.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/instagramB.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/pinterestB.png",
+    "https://a3designsolutions.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [],
+  "website_images_local": []
+}

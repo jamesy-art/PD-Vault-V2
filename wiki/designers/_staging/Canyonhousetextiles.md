@@ -13,12 +13,12 @@ skills: []
 country: United States
 can_use: 'Yes'
 instagram_handle: Canyonhousetextiles
-instagram: 'https://instagram.com/@Canyonhousetextiles'
+instagram: 'https://instagram.com/canyonhousetextiles'
 bio: ''
 website: 'https://canyonhousetextiles.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/canyonhousetextiles
 profile_url: ''
 instagram_images:
@@ -35,8 +35,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: canyon house textiles llc
 website_meta_description: ''
 website_about_raw: >-
@@ -120,7 +123,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   brielle LEFEBVRE
 
@@ -149,44 +152,115 @@ instagram_verified: false
 instagram_business_account: false
 instagram_profile_pic_url: ''
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/canyonhousetextiles/profile/Canyon-house-textiles-final+2.webp
+instagram_profile_image_bytes: 30450
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/canyonhousetextiles/profile/Canyon-house-textiles-final+2.webp
+profile_images:
+  - >-
+    ../../assets/designers/canyonhousetextiles/profile/Canyon-house-textiles-final+2.webp
+profile_image_local: >-
+  ../../assets/designers/canyonhousetextiles/profile/Canyon-house-textiles-final+2.webp
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/canyonhousetextiles/profile/Canyon-house-textiles-final+2.webp
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_45_FIELD+NOTES_BLOOM3_150dpi.png
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_47_PETRA_PRINT_300DPI.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_48_CAIRNS.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_54_RH+botanical.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_60_CC+X+HUCKBERRY.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_66_REBEL+YELL+FINAL.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_71_KARMA+BD62.jpeg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_45_FIELD+NOTES_BLOOM3_150dpi.png
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_48_CAIRNS.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_54_RH+botanical.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_60_CC+X+HUCKBERRY.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_66_REBEL+YELL+FINAL.jpeg
+  - >-
+    ../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_71_KARMA+BD62.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # canyonhousetextiles
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/canyonhousetextiles/profile/Canyon-house-textiles-final+2.webp)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_45_FIELD+NOTES_BLOOM3_150dpi.png)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_45_FIELD+NOTES_BLOOM3_150dpi.png --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_47_PETRA_PRINT_300DPI.jpeg)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_47_PETRA_PRINT_300DPI.jpeg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_48_CAIRNS.jpeg)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_48_CAIRNS.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_54_RH+botanical.jpeg)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_54_RH+botanical.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_60_CC+X+HUCKBERRY.jpeg)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_60_CC+X+HUCKBERRY.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_66_REBEL+YELL+FINAL.jpeg)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_66_REBEL+YELL+FINAL.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_71_KARMA+BD62.jpeg)<br><!-- image:../../assets/designers/canyonhousetextiles/instagram/canyonhousetextiles_imageye___-_imgi_71_KARMA+BD62.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Brielle Lefebvre (Canyon House Textiles) is a surface pattern designer based in the Pacific Northwest, USA, with 15 years of experience in print design. She holds a BFA from the University of the Arts in Philadelphia and an MS in Textiles from Philadelphia University (now Thomas Jefferson University). Her studio operates from her home, currently developing a self-directed line of home goods and pouches alongside freelance client work.
+
 ## Style and Aesthetic
+
+Lefebvre describes pattern design as puzzle-solving and draws her current creative energy from the Pacific Northwest terrain. Selected Instagram patterns span botanical florals (Field Notes Bloom, RH botanical), structured abstract and geometric work (Cairns, Karma BD62), and licensed client print designs (CC x Huckberry, Rebel Yell Final). Her aesthetic ranges across naturalistic and graphic registers.
 
 ## Techniques and Tools
 
+Rooted in traditional drawing and painting. Documented services confirm full pre-production technical capability: original design, repeat creation, colorway development and color matching, cleaning, indexing and screen separations, mood boards, trend research, and factory-ready artwork delivery.
+
 ## Markets and Clients
+
+Documented collaborations include Huckberry (CC x Huckberry print). Work history spans major companies and innovative smaller studios. Her service offering covers both creative development and technical production preparation. Home goods is a current self-directed product focus.
 
 ## Portfolio and Presence
 
+- Website: canyonhousetextiles.com
+- Instagram: @Canyonhousetextiles
+- Contact: brielleduym@gmail.com
+
 ## Career Path
+
+Originally from New Jersey, Lefebvre relocated across the US before settling in the Pacific Northwest. She has worked for major companies and innovative smaller studios during her 15-year career. Trained at two Philadelphia institutions — the University of the Arts (BFA) and Philadelphia University (MS Textiles). Currently working independently from her home studio, with a fine art painting practice running alongside commercial design work.
 
 ## Pattern Focus
 
+Selected patterns (6 images) span botanical florals, structured abstract designs, and named client work. Pattern titles (Field Notes Bloom, Petra Print, Cairns, RH botanical, CC x Huckberry, Rebel Yell Final, Karma BD62) are consistent with professional studio cataloguing. No selected placements — work is primarily presented as flat repeat designs.
+
 ## Connections
+
+- [[Huckberry]]
+- [[Home Decor]]
+- [[Botanical Pattern]]
+- [[Repeat Pattern]]

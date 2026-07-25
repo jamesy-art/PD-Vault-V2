@@ -24,7 +24,7 @@ bio: ''
 website: 'https://lagallery.art'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/lagallery.art
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Lagallery | Cuadros artisticos
 website_meta_description: ''
 website_about_raw: >-
@@ -269,7 +272,7 @@ open_to:
   - Freelance
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -286,45 +289,195 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/545305106_18064317698599524_8674564962798005256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUq5MU4REwDQxLmxf_6QANACMSIQywOEFYM_27Z9DOdsbe0kJ1I2WU6L75XljChdg&_nc_ohc=xHR8iK0xHsAQ7kNvwGSJMHh&_nc_gid=qWf37Xs5xBZY9fLBSq2pHA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Y2sgW7YToNJUtNZCgGLwZWk4yIRVwitz88Jqzxc-yPQ&oe=6A13D937&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.82787-19/545305106_18064317698599524_8674564962798005256_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEUq5MU4REwDQxLmxf_6QANACMSIQywOEFYM_27Z9DOdsbe0kJ1I2WU6L75XljChdg&_nc_ohc=xHR8iK0xHsAQ7kNvwGSJMHh&_nc_gid=qWf37Xs5xBZY9fLBSq2pHA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5Y2sgW7YToNJUtNZCgGLwZWk4yIRVwitz88Jqzxc-yPQ&oe=6A13D937&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6511
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/lagallery.art/profile/545305106_18064317698599524_8674564962798005256_n.jpg
+instagram_profile_image_bytes: 132328
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/lagallery.art/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/lagallery.art/profile/545305106_18064317698599524_8674564962798005256_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/lagallery.art/profile/545305106_18064317698599524_8674564962798005256_n.jpg
+profile_image_local: >-
+  ../../assets/designers/lagallery.art/profile/545305106_18064317698599524_8674564962798005256_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/lagallery.art/profile/545305106_18064317698599524_8674564962798005256_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1627423543_2627341572114818597_47815943523.jpg
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1632776343_2672244111257379008_47815943523.jpg
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1633994878_2682465922868610418_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1641589775_2746176536300051670_47815943523.jpg
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1641589775_2746176536308398913_47815943523.jpg
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1652909579_2841133936195352199_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296203794583_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296287852292_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1675897058_3033966883380930480_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1684271339_3104215448510106694_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760268599589_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760277120531_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093708973636_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093834683519_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1693522071_3181816205983531100_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1709770831_3318120687456230867_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1709770831_3318120687674566390_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287184190_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287245270_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022346035866_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022346086545_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022362607088_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958800913595_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958800987081_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958943552359_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958960233539_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1747352415_3633377866042245216_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1775602841_3870359595721471475_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1778109976_3891390964740194064_47815943523.webp
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1627423543_2627341572114818597_47815943523.jpg
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1633994878_2682465922868610418_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1652909579_2841133936195352199_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296203794583_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760277120531_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093708973636_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1693522071_3181816205983531100_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287184190_47815943523.webp
+selected_placements:
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1632776343_2672244111257379008_47815943523.jpg
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1684271339_3104215448510106694_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760268599589_47815943523.webp
+  - >-
+    ../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093834683519_47815943523.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # lagallery.art
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/lagallery.art/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/lagallery.art/profile/545305106_18064317698599524_8674564962798005256_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1627423543_2627341572114818597_47815943523.jpg)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1627423543_2627341572114818597_47815943523.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1632776343_2672244111257379008_47815943523.jpg)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1632776343_2672244111257379008_47815943523.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1633994878_2682465922868610418_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1633994878_2682465922868610418_47815943523.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1641589775_2746176536300051670_47815943523.jpg)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1641589775_2746176536300051670_47815943523.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1641589775_2746176536308398913_47815943523.jpg)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1641589775_2746176536308398913_47815943523.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1652909579_2841133936195352199_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1652909579_2841133936195352199_47815943523.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296203794583_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296203794583_47815943523.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296287852292_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1659125791_2893279296287852292_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1675897058_3033966883380930480_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1675897058_3033966883380930480_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1684271339_3104215448510106694_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1684271339_3104215448510106694_47815943523.webp --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760268599589_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760268599589_47815943523.webp --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760277120531_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1686781328_3125270760277120531_47815943523.webp --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093708973636_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093708973636_47815943523.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093834683519_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1688084326_3136201093834683519_47815943523.webp --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1693522071_3181816205983531100_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1693522071_3181816205983531100_47815943523.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1709770831_3318120687456230867_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1709770831_3318120687456230867_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1709770831_3318120687674566390_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1709770831_3318120687674566390_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287184190_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287184190_47815943523.webp --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287245270_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022287245270_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022346035866_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022346035866_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022346086545_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022346086545_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022362607088_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1726698948_3460124022362607088_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958800913595_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958800913595_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958800987081_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958800987081_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958943552359_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958943552359_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958960233539_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1734049147_3521781958960233539_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1747352415_3633377866042245216_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1747352415_3633377866042245216_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1775602841_3870359595721471475_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1775602841_3870359595721471475_47815943523.webp --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/lagallery.art/instagram/lagallery.art_1778109976_3891390964740194064_47815943523.webp)<br><!-- image:../../assets/designers/lagallery.art/instagram/lagallery.art_1778109976_3891390964740194064_47815943523.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Nathaly Sánchez is a Colombian graphic designer and artist working under the brand lagallery.art. Her practice centres on digital illustration, abstract and figurative acrylic paintings, and decorative art for interior spaces. She has been featured in a Los Angeles publication (unverified). Licensing is available.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest bold, colour-saturated abstract and figurative compositions. Sánchez describes her work as centred on "the abstraction of color in abstract works and figurative" — influenced by impressionism, expressionism, baroque, cubism, and pop art. Inspiration draws heavily from tropical nature: plants, flowers, and vibrant natural forms. Acrylic on canvas uses vivid tones and free-form colour relationships.
 
 ## Techniques and Tools
 
+Primary medium is acrylic on canvas, starting from pencil sketches in a notebook before transferring to canvas. Also produces digital vector illustrations (Arte Digital). Works across all canvas sizes. Beginning to explore fabrics, paper textures, and surface patterns as new material directions. Sketches in pencil and colour before committing to canvas.
+
 ## Markets and Clients
+
+Primary market is home décor — decorative wall art, abstract and figurative paintings for interior spaces. Selected placement images suggest wall art installation in domestic contexts. Offers personalised art commissions and custom-sized pieces. Open to freelance; licensing available.
 
 ## Portfolio and Presence
 
+- Website: https://lagallery.art
+- Instagram: @lagallery.art
+- Creator: @nathasanz
+
 ## Career Path
+
+Nathaly Sánchez trained in graphic design and built an independent art and illustration practice under the lagallery.art brand. She has expanded from painting into digital illustration and is actively developing surface pattern and textile directions.
 
 ## Pattern Focus
 
+Selected Instagram images suggest abstract and botanical pattern work alongside standalone paintings. Surface pattern development — fabrics, textures, and print-ready artwork — is documented as an active expansion of the practice.
+
 ## Connections
+
+- [[Abstract Pattern]]
+- [[Home Décor]]
+- [[Digital Illustration]]
+- [[Colombia]]
+- [[Interior Decoration]]
+- [[Botanical Patterns]]

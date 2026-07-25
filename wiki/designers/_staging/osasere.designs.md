@@ -19,7 +19,7 @@ bio: ''
 website: 'https://spoonflower.com/profiles/osasere'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/osasere.designs
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'osasere''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by osasere for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -233,7 +236,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -254,45 +257,296 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/535815412_18312014920300529_4189012199643908749_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEV2HEVLffnFWp9is42y5DwvfKNv_Cj9jxsrOiF561byjnDiZeRfslmQkbz7VmC8lE&_nc_ohc=gNBGuNuI2PIQ7kNvwEAkXLn&_nc_gid=SEDCHIz61u7PCPrMgVyX7w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7voxZr3NNTaNjykxKf9yTM5RFgNsZCJy7Ugukr3xNbLw&oe=6A13FDC7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/535815412_18312014920300529_4189012199643908749_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEV2HEVLffnFWp9is42y5DwvfKNv_Cj9jxsrOiF561byjnDiZeRfslmQkbz7VmC8lE&_nc_ohc=gNBGuNuI2PIQ7kNvwEAkXLn&_nc_gid=SEDCHIz61u7PCPrMgVyX7w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7voxZr3NNTaNjykxKf9yTM5RFgNsZCJy7Ugukr3xNbLw&oe=6A13FDC7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/osasere.designs/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5187
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/osasere.designs/profile/535815412_18312014920300529_4189012199643908749_n.jpg
+instagram_profile_image_bytes: 138344
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/osasere.designs/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/osasere.designs/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/osasere.designs/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/osasere.designs/profile/535815412_18312014920300529_4189012199643908749_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/osasere.designs/profile/535815412_18312014920300529_4189012199643908749_n.jpg
+profile_image_local: >-
+  ../../assets/designers/osasere.designs/profile/535815412_18312014920300529_4189012199643908749_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/osasere.designs/profile/535815412_18312014920300529_4189012199643908749_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635634886659_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635634893331_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643278075_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643298335_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643306288_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643308265_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643312547_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643322412_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643325725_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651675591_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651711088_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651758771626987_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651766321365349_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651767671931444_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651771320979805_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614184378155568_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614190828970743_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614194335422516_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614195048472976_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614199116927167_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614202413662210_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614204686982905_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175539126156677_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175544092193566_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175545082024262_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175548915654638_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175553537754539_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175554275952339_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175557782404055_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413149074562254_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413153034029463_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413155399571895_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413155558961963_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413157689684770_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413158645973911_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413159359016406_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043666416254798_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043670568579197_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043670602185112_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043675568178304_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043677531144867_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043681985469338_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043682111335325_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432934251123999_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432944342643732_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432949560366000_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432950105607336_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432951842070647_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432333945022_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342311033_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342332227_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342349326_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432493325398_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432635931459_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432644321397_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846325167747823_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846327298463197_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846328472846788_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846330066698044_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846332843322937_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287993460943760_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287996959013226_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287997009303609_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288000943569144_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288002948452005_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288003451757653_9028012528.jpg
+instagram_image_count: 66
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643298335_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643308265_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643325725_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651675591_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651758771626987_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614184378155568_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175539126156677_9028012528.jpg
+  - >-
+    ../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413149074562254_9028012528.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # osasere.designs
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/osasere.designs/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/osasere.designs/profile/535815412_18312014920300529_4189012199643908749_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635634886659_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635634886659_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635634893331_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635634893331_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643278075_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643278075_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643298335_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643298335_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643306288_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643306288_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643308265_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643308265_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643312547_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643312547_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643322412_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643322412_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643325725_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635643325725_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651675591_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651675591_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651711088_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1760275509_3741784635651711088_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651758771626987_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651758771626987_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651766321365349_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651766321365349_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651767671931444_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651767671931444_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651771320979805_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1770750283_3829651771320979805_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614184378155568_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614184378155568_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614190828970743_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614190828970743_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614194335422516_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614194335422516_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614195048472976_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614195048472976_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614199116927167_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614199116927167_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614202413662210_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614202413662210_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614204686982905_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1771341985_3834614204686982905_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175539126156677_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175539126156677_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175544092193566_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175544092193566_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175545082024262_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175545082024262_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175548915654638_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175548915654638_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175553537754539_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175553537754539_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175554275952339_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175554275952339_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175557782404055_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772124031_3841175557782404055_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413149074562254_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413149074562254_9028012528.jpg --> | [x] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413153034029463_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413153034029463_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413155399571895_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413155399571895_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413155558961963_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413155558961963_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413157689684770_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413157689684770_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413158645973911_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413158645973911_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413159359016406_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1772986821_3848413159359016406_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043666416254798_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043666416254798_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043670568579197_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043670568579197_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043670602185112_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043670602185112_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043675568178304_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043675568178304_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043677531144867_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043677531144867_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043681985469338_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043681985469338_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043682111335325_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1773419596_3852043682111335325_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432934251123999_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432934251123999_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432944342643732_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432944342643732_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432949560366000_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432949560366000_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432950105607336_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432950105607336_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432951842070647_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1774538763_3861432951842070647_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432333945022_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432333945022_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342311033_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342311033_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342332227_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342332227_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342349326_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432342349326_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432493325398_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432493325398_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432635931459_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432635931459_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432644321397_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1775398376_3868644432644321397_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846325167747823_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846325167747823_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846327298463197_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846327298463197_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846328472846788_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846328472846788_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846330066698044_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846330066698044_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846332843322937_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778164630_3891846332843322937_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287993460943760_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287993460943760_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287996959013226_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287996959013226_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287997009303609_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893287997009303609_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288000943569144_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288000943569144_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288002948452005_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288002948452005_9028012528.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288003451757653_9028012528.jpg)<br><!-- image:../../assets/designers/osasere.designs/instagram/osasere.designs_1778336319_3893288003451757653_9028012528.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Osasere Edo-Jegede is a Manchester-based surface pattern designer and final-year Fashion Business and Management student at Manchester Metropolitan University, graduating in 2026. Alongside her studies she has built a substantial Spoonflower presence, with over 767 fabric designs and 768 wallpaper designs in her shop. Her work is available for art licensing and she is open to in-house roles in the UK, Europe, and China, as well as remote roles in the USA.
+
 ## Style and Aesthetic
+
+Selected images suggest a varied, nature-led aesthetic spanning botanical florals, nautical motifs, Art Nouveau-inspired compositions, and decorative tile patterns. Colour ranges from soft naturalistic palettes to bold, graphic colourways. The breadth of the catalogue reflects an active practice with strong output across multiple pattern categories.
 
 ## Techniques and Tools
 
+Prolific pattern production across Spoonflower indicates proficiency in digital repeat construction and colourway development at commercial volume. Works across floral, nautical, botanical, and decorative tile pattern categories.
+
 ## Markets and Clients
+
+Print-on-demand via Spoonflower for fabric and wallpaper. Top-selling designs include Nautical spouting whale (290 favourites), Blue wildflower (181), Country flowers and berries (180), and Sea turtles/Lemons (163). Open to licensing and in-house design roles.
 
 ## Portfolio and Presence
 
+- Instagram: @osasere.designs
+- Spoonflower: 767+ fabric designs, 768+ wallpaper designs
+
 ## Career Path
+
+Final-year Fashion Business and Management student at Manchester Metropolitan University (graduating 2026). Has built an extensive independent design practice in parallel with academic study, with a Spoonflower catalogue demonstrating consistent commercial output.
 
 ## Pattern Focus
 
+Florals, nautical subjects, botanical compositions, Art Nouveau-influenced patterns, and decorative tile motifs. High-volume catalogue with demonstrated commercial traction through Spoonflower favourites data.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Manchester Metropolitan University]]
+- [[Art Licensing]]
+- [[Wallpaper]] market
+- [[Botanical Patterns]]

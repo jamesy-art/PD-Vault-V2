@@ -26,7 +26,7 @@ bio: ''
 website: 'https://astradelacreme.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/iamtheastra
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Astra de la Crème
 website_meta_description: >-
   Welcome to my world of bold and timeless surface and pattern designs! As a
@@ -264,7 +267,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -286,40 +289,107 @@ instagram_profile_image_bytes: 7864
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - ../../assets/designers/iamtheastra/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281633584099_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650337548_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650358360_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650370588_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281658756457_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281985889088_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281994286270_5587920170.jpg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281633584099_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650337548_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650370588_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281658756457_5587920170.jpg
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281994286270_5587920170.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281985889088_5587920170.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # iamtheastra
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/iamtheastra/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/iamtheastra/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281633584099_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281633584099_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650337548_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650337548_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650358360_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650358360_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650370588_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281650370588_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281658756457_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281658756457_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281985889088_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281985889088_5587920170.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281994286270_5587920170.jpg)<br><!-- image:../../assets/designers/iamtheastra/instagram/iamtheastra_1755859717_3704742281994286270_5587920170.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sabrina is the creative director behind Astra de la Crème, a surface and pattern design practice based in the UK. Born in Rio de Janeiro (1985) and based in Europe since 2009, she holds a BA (Hons) in Fine Art from Middlesex University (2018). Her creative entrepreneurship began in 2010. The practice is positioned at the intersection of fine art narrative and bold decorative pattern, with a strong identity rooted in Brazilian cultural heritage and international wanderlust.
+
 ## Style and Aesthetic
+
+Astra de la Crème works with bold, maximalist patterns drawing on Brazilian roots, surrealism, and natural forms. Named collections — "El Podenca," "Boho Dream," "The Garden" — reflect a narrative-driven approach where each collection carries a distinct conceptual or geographical story. Selected Instagram images (5 patterns, 1 placement) suggest rich, layered compositions with organic and geometric elements. The palette is vivid and internationally inflected. Storytelling is described as a defining creative quality.
 
 ## Techniques and Tools
 
+Combines digital pattern construction with hand-drawn precision and fine art mark-making. The fine art background informs an unusual narrative and conceptual sensibility in commercial surface design. Works across illustration, surface pattern, and direct print purchasing (Squarespace-based shop with first-print discount code).
+
 ## Markets and Clients
+
+Available for commissions, collaborations, and licensing. The website offers prints for direct purchase. The aesthetic suits interior design, home décor, stationery, and lifestyle products. The selected placement image suggests printed textile or homeware application. Targets designers, agencies, and brands seeking globally inflected, maximalist design.
 
 ## Portfolio and Presence
 
+- Website: https://astradelacreme.com
+- Instagram: @iamtheastra
+- Contact: hello@astradelacreme.com
+
 ## Career Path
+
+Sabrina's creative career began in 2010 across visual art and exhibition practice. She completed a BA (Hons) in Fine Art at Middlesex University in 2018, then transitioned into surface and pattern design. Collections are organized around named themes, each with distinct narrative and geographical context — most recently "El Podenca," a tribute to a dog rescued in Tenerife.
 
 ## Pattern Focus
 
+Selected patterns (5) suggest bold, narrative-driven compositions with organic and geometric elements — maximalist in scale and internationally inflected. The "El Podenca" collection references Tenerife landscape, cacti, and wildlife. "Boho Dream" and "The Garden" suggest nature-oriented decorative patterns. Each collection builds a coherent visual world rather than individual standalone prints.
+
 ## Connections
+
+- [[Surrealism]]
+- [[Botanical Pattern]]
+- [[Home Decor]]
+- [[Licensing]]
+- [[Fine Art]]
+- [[Brazil]]

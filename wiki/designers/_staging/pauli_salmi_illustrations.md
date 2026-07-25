@@ -20,7 +20,7 @@ bio: ''
 website: 'https://paulisalmi.cargo.site'
 website_about: ''
 accepted: 16/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/pauli_salmi_illustrations
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Wireframe P091 copy
 website_meta_description: cargo.site
 website_about_raw: >-
@@ -215,7 +218,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -232,46 +235,280 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/662341312_18092325737141291_8881151165729827573_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGK63UzUFOD-yZ7dTysNkZlJs0POsmI77Z9K2U0U6CAnU1SC6lRC3zdP3lyuTyWo7M&_nc_ohc=5FMcLR3LAi0Q7kNvwF23jdh&_nc_gid=_UBjYvJWu_2t56Iv1SiTOw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bLZkiJN4TAmPHsG79giJZijDpQyDGQyZwOoslAXiLcA&oe=6A13DBAD&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/662341312_18092325737141291_8881151165729827573_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGK63UzUFOD-yZ7dTysNkZlJs0POsmI77Z9K2U0U6CAnU1SC6lRC3zdP3lyuTyWo7M&_nc_ohc=5FMcLR3LAi0Q7kNvwF23jdh&_nc_gid=_UBjYvJWu_2t56Iv1SiTOw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bLZkiJN4TAmPHsG79giJZijDpQyDGQyZwOoslAXiLcA&oe=6A13DBAD&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 9033
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/pauli_salmi_illustrations/profile/662341312_18092325737141291_8881151165729827573_n.jpg
+instagram_profile_image_bytes: 74744
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_image: >-
+  ../../assets/designers/pauli_salmi_illustrations/profile/662341312_18092325737141291_8881151165729827573_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg
+    ../../assets/designers/pauli_salmi_illustrations/profile/662341312_18092325737141291_8881151165729827573_n.jpg
+profile_image_local: >-
+  ../../assets/designers/pauli_salmi_illustrations/profile/662341312_18092325737141291_8881151165729827573_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/pauli_salmi_illustrations/profile/662341312_18092325737141291_8881151165729827573_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1607603607_2461079896370488784_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015470759076_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015487422245_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015487439417_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015495971411_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015512831589_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309414016312_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309430749573_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309439055871_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309606877708_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309623638272_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454813459059_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454821848828_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454838674244_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454855348369_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838113403618_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838113433724_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838281199380_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838289435448_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671439434_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671467237_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671554035_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677847695606_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842379175972_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387372317_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387524066_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387570047_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628574518_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628591933_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628745774_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877570322489_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877679466507_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877687839612_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877729832481_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387750270148_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387825985730_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387926551319_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406937639_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406967985_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511407120669_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853879618205_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853887826500_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896410170_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896422018_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853904783279_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853929870355_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853938224616_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584854047436998_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373328810690_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373370708127_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373379214870_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373505036668_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373530307051_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1750422650_3659132860469070505_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1750422650_3659132860544531946_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876239308908_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876247701894_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876256103329_34085509290.jpg
+instagram_image_count: 58
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1607603607_2461079896370488784_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309414016312_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454855348369_34085509290.webp
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677847695606_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387570047_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387825985730_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406937639_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896422018_34085509290.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015470759076_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387372317_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373328810690_34085509290.jpg
+  - >-
+    ../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373370708127_34085509290.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # pauli_salmi_illustrations
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/pauli_salmi_illustrations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/pauli_salmi_illustrations/profile/662341312_18092325737141291_8881151165729827573_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1607603607_2461079896370488784_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1607603607_2461079896370488784_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015470759076_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015470759076_34085509290.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015487422245_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015487422245_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015487439417_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015487439417_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015495971411_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015495971411_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015512831589_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637063336_2708206015512831589_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309414016312_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309414016312_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309430749573_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309430749573_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309439055871_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309439055871_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309606877708_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309606877708_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309623638272_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1637767898_2714116309623638272_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454813459059_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454813459059_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454821848828_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454821848828_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454838674244_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454838674244_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454855348369_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1642766838_2756050454855348369_34085509290.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838113403618_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838113403618_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838113433724_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838113433724_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838281199380_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838281199380_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838289435448_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1660738638_2906808838289435448_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671439434_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671439434_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671467237_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671467237_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671554035_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677671554035_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677847695606_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661156566_2910314677847695606_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842379175972_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842379175972_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387372317_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387372317_34085509290.jpg --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387524066_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387524066_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387570047_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1661845496_2916093842387570047_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628574518_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628574518_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628591933_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628591933_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628745774_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1674474444_3022033136628745774_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877570322489_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877570322489_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877679466507_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877679466507_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877687839612_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877687839612_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877729832481_34085509290.webp)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1682517941_3089506877729832481_34085509290.webp --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387750270148_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387750270148_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387825985730_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387825985730_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387926551319_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1690479871_3156296387926551319_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406937639_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406937639_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406967985_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511406967985_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511407120669_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1725893032_3453363511407120669_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853879618205_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853879618205_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853887826500_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853887826500_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896410170_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896410170_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896422018_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853896422018_34085509290.jpg --> | [x] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853904783279_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853904783279_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853929870355_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853929870355_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853938224616_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584853938224616_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584854047436998_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1726157837_3455584854047436998_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373328810690_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373328810690_34085509290.jpg --> | [ ] | [x] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373370708127_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373370708127_34085509290.jpg --> | [ ] | [x] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373379214870_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373379214870_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373505036668_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373505036668_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373530307051_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1728318448_3473709373530307051_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1750422650_3659132860469070505_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1750422650_3659132860469070505_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1750422650_3659132860544531946_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1750422650_3659132860544531946_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876239308908_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876239308908_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876247701894_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876247701894_34085509290.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876256103329_34085509290.jpg)<br><!-- image:../../assets/designers/pauli_salmi_illustrations/instagram/pauli_salmi_illustrations_1765803392_3788155876256103329_34085509290.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Pauli Salmi is an illustrator and graphic designer based in Helsinki, Finland. He creates colourful, atmospheric visual narratives for editorial, press, and textile clients, working extensively for Finnish publications. His practice spans print and digital editorial illustration, educational materials, and surface design for textiles.
+
 ## Style and Aesthetic
+
+Salmi's work is characterised by bold, colourful figurative illustration — people, animals, and atmospheric compositions built around complex thematic concepts drawn from film, visual arts, and travel. Selected Instagram images suggest rich, painterly character work with strong tonal depth and narrative quality. People and animals appear frequently as subjects. His stated approach favours illustration that explores "complex and thought-provoking themes" within a colourful visual register.
 
 ## Techniques and Tools
 
+Colourful figurative illustration for print and screen. Works in Finnish and English; working command of French. Capable of editorial, textile, and educational illustration contexts. Selected patterns suggest illustrative compositions with strong stand-alone image quality and potential for surface design adaptation.
+
 ## Markets and Clients
+
+Documented editorial clients include ISO NUMERO Magazine, Kirkko ja Kaupunki (newspaper and magazine), Helsingin Sanomat newspaper, Tehy Magazine, and Yliopisto Magazine (University of Helsinki). Also creates artwork for educational materials. Website confirms interest in designing visuals for textiles. Selected placement images suggest publication and applied design contexts.
 
 ## Portfolio and Presence
 
+- Instagram: @pauli_salmi_illustrations
+- Website: paulisalmi.cargo.site
+
 ## Career Path
+
+Based in Helsinki, Finland. Active editorial illustrator with a documented 2023–2025 portfolio across major Finnish newspapers and magazines. Works across Finnish, English, and French language contexts. Instagram following of 726 across 217 posts.
 
 ## Pattern Focus
 
+Figurative and atmospheric illustration with application to textiles and editorial design. Selected patterns suggest both stand-alone illustrated compositions and imagery with potential for surface design adaptation. Textile design interest is self-stated.
+
 ## Connections
+
+- [[Editorial Illustration]]
+- [[Illustration]]
+- [[Textile Design]]
+- [[Surface Pattern Design]]
+- [[Finland]]

@@ -18,7 +18,7 @@ bio: ''
 website: 'https://mardiartist.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mardi.art_
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: home | Mardi
 website_meta_description: ''
 website_about_raw: >-
@@ -105,7 +108,7 @@ designer_type: []
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   I'm María del Mar Giraldo Montoya, a graphic designer specializing in
   illustration and branding. I'm passionate about infographics, layout, and
@@ -185,45 +188,126 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/691323498_18448639168116543_7647280502432615412_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAzLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFvMinUmANSfbrsembKWWOQIYSv8Nrg0CYQoOS3cocru1MqBaZirLmqvLoKzq_dDOc&_nc_ohc=Nqtofy7kwCwQ7kNvwFpZYfw&_nc_gid=WedO4QxT4UvzAvfP_16syw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bqRCPxiXAAeK9IIaHpJCplicKV_09O6GorYE5sf_Wnw&oe=6A13D9B1&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/691323498_18448639168116543_7647280502432615412_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAzLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFvMinUmANSfbrsembKWWOQIYSv8Nrg0CYQoOS3cocru1MqBaZirLmqvLoKzq_dDOc&_nc_ohc=Nqtofy7kwCwQ7kNvwFpZYfw&_nc_gid=WedO4QxT4UvzAvfP_16syw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5bqRCPxiXAAeK9IIaHpJCplicKV_09O6GorYE5sf_Wnw&oe=6A13D9B1&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mardi.art_/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5789
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mardi.art_/profile/691323498_18448639168116543_7647280502432615412_n.jpg
+instagram_profile_image_bytes: 209432
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mardi.art_/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mardi.art_/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mardi.art_/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mardi.art_/profile/691323498_18448639168116543_7647280502432615412_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mardi.art_/profile/691323498_18448639168116543_7647280502432615412_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mardi.art_/profile/691323498_18448639168116543_7647280502432615412_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mardi.art_/profile/691323498_18448639168116543_7647280502432615412_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541576295955_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541584760389_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541601662291_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114207868697_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114216315519_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114224741346_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114224890051_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_21_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_36_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_42_704403_e04188a9fe664608a1eede430e4637a9~mv2.jpeg
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_44_704403_671e5a6f910d434581fc5aac8401fe87~mv2.png
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541576295955_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541601662291_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_36_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_44_704403_671e5a6f910d434581fc5aac8401fe87~mv2.png
+selected_placements:
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541584760389_3450324542.webp
+  - >-
+    ../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114207868697_3450324542.webp
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # mardi.art_
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mardi.art_/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mardi.art_/profile/691323498_18448639168116543_7647280502432615412_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541576295955_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541576295955_3450324542.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541584760389_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541584760389_3450324542.webp --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541601662291_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1708019987_3303433541601662291_3450324542.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114207868697_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114207868697_3450324542.webp --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114216315519_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114216315519_3450324542.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114224741346_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114224741346_3450324542.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114224890051_3450324542.webp)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art___1720915043_3411605114224890051_3450324542.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_21_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_21_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_36_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_36_704403_a02d73d630f54c8faa7a759f26c97840~mv2.png --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_42_704403_e04188a9fe664608a1eede430e4637a9~mv2.jpeg)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_42_704403_e04188a9fe664608a1eede430e4637a9~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_44_704403_671e5a6f910d434581fc5aac8401fe87~mv2.png)<br><!-- image:../../assets/designers/mardi.art_/instagram/mardi.art__imageye___-_imgi_44_704403_671e5a6f910d434581fc5aac8401fe87~mv2.png --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mar Giraldo (María del Mar Giraldo Montoya) is a Colombian graphic designer and illustrator based in Medellín. She studied Graphic Design at Pontifical Bolivarian University (2017–2022) with emphasis in illustration and branding, and has worked on commercial brand projects since 2021. Her practice bridges illustration, visual identity, and surface design.
+
 ## Style and Aesthetic
+
+Giraldo builds her work around colour. She favours chromatically complex compositions with careful attention to balance and emotional resonance. Selected Instagram pattern images suggest illustrative surface work with bold, layered palettes. She describes her approach as research-led and conceptual, sensitive to chromatic nuance across each project.
 
 ## Techniques and Tools
 
+Digital vector illustration. Background in scientific, digital, and vector illustration techniques. Research and conceptual development underpin each project, with colour as the primary compositional tool.
+
 ## Markets and Clients
+
+Illustration and branding for commercial clients. Website project text references clients including Lebrand Studio, GO2, and Kreem (unverified full list). Placement images suggest surface design applied to product and brand contexts.
 
 ## Portfolio and Presence
 
+- Website: https://mardiartist.com
+- Instagram: @mardi.art_
+
 ## Career Path
+
+Completed Graphic Design at Pontifical Bolivarian University, Medellín, emphasis in illustration and branding, graduating 2022. Built a client-facing brand practice since 2021 focused on conceptual illustration and identity work.
 
 ## Pattern Focus
 
+Selected patterns suggest illustrative surface design with strong chromatic intent. Her crossover into surface design derives from her illustration background. Selected placement images indicate product and brand application contexts.
+
 ## Connections
+
+- [[Illustration]]
+- [[Branding]]
+- [[Colombia]]
+- [[Graphic Design]]

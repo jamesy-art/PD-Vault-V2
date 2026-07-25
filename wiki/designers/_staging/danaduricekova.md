@@ -24,7 +24,7 @@ bio: ''
 website: 'https://danaduricekova.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/danaduricekova
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Dana Ďuričeková - surface pattern design
 website_meta_description: >-
   Explore the vibrant world of Dana Ďuričeková, a surface pattern designer
@@ -282,7 +285,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -302,45 +305,229 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/317117663_1347489892728464_7275658146561466278_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGnr77HdTCS8BSiCzclyQWenmTK7j1isNSzV5QjAZDA9Ua6Ro2yqw1D3WChIxSUm-Y&_nc_ohc=xK3sbQ_FPwMQ7kNvwETMME9&_nc_gid=_Esgn0ArKkJvNeXRkZsfqA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7e2P3BidEJiLF-6QFAoU5ceEfFdk-WTd_Wb77c6MsDQw&oe=6A13E37C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/317117663_1347489892728464_7275658146561466278_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGnr77HdTCS8BSiCzclyQWenmTK7j1isNSzV5QjAZDA9Ua6Ro2yqw1D3WChIxSUm-Y&_nc_ohc=xK3sbQ_FPwMQ7kNvwETMME9&_nc_gid=_Esgn0ArKkJvNeXRkZsfqA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7e2P3BidEJiLF-6QFAoU5ceEfFdk-WTd_Wb77c6MsDQw&oe=6A13E37C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/danaduricekova/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4524
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/danaduricekova/profile/317117663_1347489892728464_7275658146561466278_n.jpg
+instagram_profile_image_bytes: 139341
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/danaduricekova/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/danaduricekova/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/danaduricekova/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/danaduricekova/profile/317117663_1347489892728464_7275658146561466278_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/danaduricekova/profile/317117663_1347489892728464_7275658146561466278_n.jpg
+profile_image_local: >-
+  ../../assets/designers/danaduricekova/profile/317117663_1347489892728464_7275658146561466278_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/danaduricekova/profile/317117663_1347489892728464_7275658146561466278_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1723820071_3435974258263852583_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1723820072_3435974258415096652_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864554161_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864625406_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864679049_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977428065849348_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979122658826_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979139579641_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979332509544_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138501150591_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568179196_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568405510_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642515285412_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642523665444_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642523665841_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904151873640_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904218932070_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904319653220_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904470646711_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1762548337_3760850498568949784_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144041959928_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144134239574_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862667452099628_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862668081208174_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769702346_3820862669356284602_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309996411546145_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309996419898609_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309997367804409_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769874881_3822310000236756857_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367715314203_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367723721796_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367966974793_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1771951315_3839728393449403798_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327596865136_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327605308210_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327672383973_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363924812185017_10469964758.webp
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363927278430711_10469964758.webp
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363929803397651_10469964758.webp
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363934039653569_10469964758.webp
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363937126646764_10469964758.webp
+instagram_image_count: 41
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1723820071_3435974258263852583_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979122658826_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568179196_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642515285412_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144134239574_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862668081208174_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1769874881_3822310000236756857_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363924812185017_10469964758.webp
+selected_placements:
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904470646711_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367715314203_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1771951315_3839728393449403798_10469964758.jpg
+  - >-
+    ../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327596865136_10469964758.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # danaduricekova
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/danaduricekova/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/danaduricekova/profile/317117663_1347489892728464_7275658146561466278_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1723820071_3435974258263852583_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1723820071_3435974258263852583_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1723820072_3435974258415096652_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1723820072_3435974258415096652_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864554161_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864554161_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864625406_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864625406_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864679049_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977427864679049_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977428065849348_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1725370170_3448977428065849348_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979122658826_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979122658826_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979139579641_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979139579641_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979332509544_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1738417931_3558429979332509544_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138501150591_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138501150591_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568179196_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568179196_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568405510_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1741024700_3580297138568405510_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642515285412_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642515285412_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642523665444_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642523665444_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642523665841_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1757197526_3715964642523665841_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904151873640_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904151873640_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904218932070_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904218932070_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904319653220_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904319653220_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904470646711_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1758132754_3723809904470646711_10469964758.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1762548337_3760850498568949784_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1762548337_3760850498568949784_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144041959928_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144041959928_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144134239574_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1764276591_3775348144134239574_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862667452099628_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862667452099628_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862668081208174_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769702345_3820862668081208174_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769702346_3820862669356284602_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769702346_3820862669356284602_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309996411546145_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309996411546145_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309996419898609_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309996419898609_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309997367804409_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769874880_3822309997367804409_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1769874881_3822310000236756857_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1769874881_3822310000236756857_10469964758.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367715314203_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367715314203_10469964758.jpg --> | [ ] | [x] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367723721796_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367723721796_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367966974793_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1770754808_3829691367966974793_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1771951315_3839728393449403798_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1771951315_3839728393449403798_10469964758.jpg --> | [ ] | [x] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327596865136_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327596865136_10469964758.jpg --> | [ ] | [x] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327605308210_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327605308210_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327672383973_10469964758.jpg)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772044052_3840506327672383973_10469964758.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363924812185017_10469964758.webp)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363924812185017_10469964758.webp --> | [x] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363927278430711_10469964758.webp)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363927278430711_10469964758.webp --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363929803397651_10469964758.webp)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363929803397651_10469964758.webp --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363934039653569_10469964758.webp)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363934039653569_10469964758.webp --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363937126646764_10469964758.webp)<br><!-- image:../../assets/designers/danaduricekova/instagram/danaduricekova_1772623173_3845363937126646764_10469964758.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Dana Ďuričeková is a surface pattern designer originally from Slovakia, now based in Czechia. With an MA in product design from Umeå Institute of Design (Sweden) and a career spanning freelance, design agency, and in-house roles — including a period as a watch designer in Switzerland — she has focused on surface pattern design as her primary creative practice. Her work covers fabric, wallpaper, decor, and stationery, with licensing available directly.
+
 ## Style and Aesthetic
+
+Dana's work spans nature-inspired and abstract pattern design with rich colours and layered textures. Her portfolio is organised into distinct named collections — Bohemian Chic, Art Deco Glam, Modern Suzani, Calm Elegance, and Retro, among others — reflecting a broad stylistic range grounded in strong colour palette discipline. Selected Instagram patterns suggest polished, collection-level work across floral, abstract, and animal motifs.
 
 ## Techniques and Tools
 
+Hand sketches developed digitally, with brush textures added for depth and a significant refinement stage for repeat flow and colour palette balance. The process is explicitly sketch-to-digital with a hand-textured finish.
+
 ## Markets and Clients
+
+Fabric, wallpaper, decor, and stationery. Her Instagram bio explicitly targets brands, designers, and DIY customers. Open to licensing and custom design commissions. Selected placement images suggest fabric-on-bolt and home decor product applications.
 
 ## Portfolio and Presence
 
+- Website: https://danaduricekova.com
+- Instagram: https://instagram.com/danaduricekova
+
 ## Career Path
+
+Slovakian-born designer. MA in product design from Umeå Institute of Design, Sweden. Worked across multiple European countries in freelance, agency, and in-house roles, including a watch designer position in Switzerland. Now based in Czechia, having refocused her practice on surface pattern design as a primary creative and commercial pursuit.
 
 ## Pattern Focus
 
+Nature-inspired and abstract patterns with bold colour and textural depth. Named collections include Bohemian Chic, Art Deco Glam, Modern Suzani, and Retro florals. Selected patterns reflect a mature, collection-driven approach with consistent colour palette discipline across diverse motif categories.
+
 ## Connections
+
+- [[Bohemian Patterns]]
+- [[Art Deco Patterns]]
+- [[Floral Patterns]]
+- [[Home Decor Market]]
+- [[Fabric Design]]

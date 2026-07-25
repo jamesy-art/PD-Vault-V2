@@ -15,12 +15,12 @@ skills:
 country: Indonesia
 can_use: 'Yes'
 instagram_handle: ichajayanti.id
-instagram: 'https://instagram.com/@ichajayanti.id'
+instagram: 'https://instagram.com/ichajayanti.id'
 bio: ''
 website: 'https://ichajayanti.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/ichajayanti.id
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Icha Jayanti - Your Online Dressmaker Official Site
 website_meta_description: >-
   Welcome to Icha Jayanti Official Store - IchaJayanti is an online dressmaker,
@@ -234,7 +237,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -251,45 +254,111 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/429913421_338088625888362_3051804816128253219_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHLAct7dlQ_QjleyatqtxJaalzAuZ52QZYffusnUCP-l8uVJDMXaZpa8MUl9T1JnGU&_nc_ohc=YgfZ_FYleNMQ7kNvwFqWXSr&_nc_gid=RcOECzSHDewT6EF37GqYuA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4P4awyKtGv5URB212m-zBt-l9Mcn4VF6qFSMUM6rTN2w&oe=6A14039E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.2885-19/429913421_338088625888362_3051804816128253219_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHLAct7dlQ_QjleyatqtxJaalzAuZ52QZYffusnUCP-l8uVJDMXaZpa8MUl9T1JnGU&_nc_ohc=YgfZ_FYleNMQ7kNvwFqWXSr&_nc_gid=RcOECzSHDewT6EF37GqYuA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4P4awyKtGv5URB212m-zBt-l9Mcn4VF6qFSMUM6rTN2w&oe=6A14039E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4645
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/ichajayanti.id/profile/429913421_338088625888362_3051804816128253219_n.jpg
+instagram_profile_image_bytes: 79928
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/ichajayanti.id/profile/429913421_338088625888362_3051804816128253219_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/ichajayanti.id/profile/429913421_338088625888362_3051804816128253219_n.jpg
+profile_image_local: >-
+  ../../assets/designers/ichajayanti.id/profile/429913421_338088625888362_3051804816128253219_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/ichajayanti.id/profile/429913421_338088625888362_3051804816128253219_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357204_3633418035748881822_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357325_3633419050862587589_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872643996804385556_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644001518845103_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644002894544792_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644006921045245_43369369998.webp
+instagram_image_count: 6
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357204_3633418035748881822_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357325_3633419050862587589_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872643996804385556_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644001518845103_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644002894544792_43369369998.webp
+  - >-
+    ../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644006921045245_43369369998.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # ichajayanti.id
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/ichajayanti.id/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/ichajayanti.id/profile/429913421_338088625888362_3051804816128253219_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357204_3633418035748881822_43369369998.webp)<br><!-- image:../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357204_3633418035748881822_43369369998.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357325_3633419050862587589_43369369998.webp)<br><!-- image:../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1747357325_3633419050862587589_43369369998.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872643996804385556_43369369998.webp)<br><!-- image:../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872643996804385556_43369369998.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644001518845103_43369369998.webp)<br><!-- image:../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644001518845103_43369369998.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644002894544792_43369369998.webp)<br><!-- image:../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644002894544792_43369369998.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644006921045245_43369369998.webp)<br><!-- image:../../assets/designers/ichajayanti.id/instagram/ichajayanti.id_1775875317_3872644006921045245_43369369998.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Icha Jayanti is an Indonesia-based designer and dressmaker based in Bogor with a background in fashion and textile construction (Tata Busana, Universitas Negeri Semarang, 2012). Her practice encompasses pattern making, garment design, and surface pattern work applied within a handmade fashion context. She operates as an online dressmaker producing custom garments and applies surface patterns to her fashion work.
+
 ## Style and Aesthetic
+
+Selected Instagram images (all 6 images marked as patterns) suggest small-scale decorative repeat motifs in a fashion fabric context. References in her website portfolio include clover, gingham, polkadot, and floral compositions — consistent with womenswear fabric applications. Palette spans soft, wearable tones alongside graphic contrasts.
 
 ## Techniques and Tools
 
+Fashion-trained with a handmade production orientation. Website references handmade finishing and technology-assisted construction. Pattern work appears digitally produced; garment construction is hand-finished. Instagram bio lists "Pattern making - Designing" alongside dress making.
+
 ## Markets and Clients
+
+Positioned within Indonesian fashion and custom dressmaking. Produces custom garments (dresses, tops, skirts) and pattern-applied accessories. Open to commissions and collaboration. Customer testimonials on website suggest a local and online clientele base.
 
 ## Portfolio and Presence
 
+- Website: https://ichajayanti.com
+- Instagram: @ichajayanti.id
+
 ## Career Path
+
+Studied fashion and textile construction at Universitas Negeri Semarang. Established online dressmaking practice, producing custom garments and pattern-applied fashion items. Pattern design and pattern making run alongside the dressmaking commission work.
 
 ## Pattern Focus
 
+Selected images suggest small-scale repeat patterns suited to fashion fabrics — florals, gingham, clover, polkadot, and abstract compositions. The patterns appear oriented to womenswear and accessories applications, consistent with the dressmaking practice context.
+
 ## Connections
+
+- [[Womenswear]]
+- [[Fashion Fabrics]]
+- [[Pattern Making]]
+- [[Indonesia]]

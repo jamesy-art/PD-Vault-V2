@@ -26,7 +26,7 @@ bio: ''
 website: 'https://michellejwalker.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/emjwalker
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Michelle Walker - Surface Pattern Designer Sheffield | Custom Fabric &
   Wallpaper Patterns
@@ -224,7 +227,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -244,45 +247,231 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/655892949_18573238324053693_8674637217233358963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmNhbmFyeSJ9&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE_odvafZVL3UrETfY_cj2Fyl37_DoYki05ZOk7ssTmXsRgv7Ys0M7exDuo984RmtU&_nc_ohc=ykEOI5TipHgQ7kNvwFyZMXL&_nc_gid=Fv2BWE5Ut8M-ZzrbFGc4ow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4a0CNSHNAAcXQK45ENWN5mHnWP6OQQ1dMgjosv6OatHQ&oe=6A13EDDE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-1.cdninstagram.com/v/t51.82787-19/655892949_18573238324053693_8674637217233358963_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmNhbmFyeSJ9&_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE_odvafZVL3UrETfY_cj2Fyl37_DoYki05ZOk7ssTmXsRgv7Ys0M7exDuo984RmtU&_nc_ohc=ykEOI5TipHgQ7kNvwFyZMXL&_nc_gid=Fv2BWE5Ut8M-ZzrbFGc4ow&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4a0CNSHNAAcXQK45ENWN5mHnWP6OQQ1dMgjosv6OatHQ&oe=6A13EDDE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/emjwalker/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5921
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/emjwalker/profile/655892949_18573238324053693_8674637217233358963_n.jpg
+instagram_profile_image_bytes: 196008
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/emjwalker/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/emjwalker/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/emjwalker/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/emjwalker/profile/655892949_18573238324053693_8674637217233358963_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/emjwalker/profile/655892949_18573238324053693_8674637217233358963_n.jpg
+profile_image_local: >-
+  ../../assets/designers/emjwalker/profile/655892949_18573238324053693_8674637217233358963_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/emjwalker/profile/655892949_18573238324053693_8674637217233358963_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1719854419_3402707838543156543_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1719854419_3402707840732749999_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1721461211_3416186618039925077_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1722026713_3420930382442106397_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1722627313_3425968587435562421_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1722627313_3425968587762712269_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1725048029_3446274946774129877_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1728333091_3473832138041684042_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364270108550_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364689591048_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1732519215_3508947873984548451_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1732519215_3508947874395653331_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1740045041_3572078989156490652_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1746504317_3626263385860234753_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1746504317_3626263387722623409_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343678701265018_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343679993261022_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1751103295_3664842314238441076_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1751103295_3664842316436265201_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1753997434_3689120320090467418_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1755784498_3704111075089480128_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1755784498_3704111079007079816_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512136313557_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512547359387_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513168097013_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513914675056_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513981758678_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909514074090584_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909515181359745_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257157774_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257188348_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257191394_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024273979810_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756899077_3713461067700528653_5587920170.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1764432779_3776658108497213124_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1764432779_3776658109361226426_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1773994007_3856861426048901893_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253680562113_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253772817680_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253781195393_18997692.jpg
+instagram_image_count: 40
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1725048029_3446274946774129877_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1728333091_3473832138041684042_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364689591048_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1740045041_3572078989156490652_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343679993261022_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257188348_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257191394_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756899077_3713461067700528653_5587920170.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1722026713_3420930382442106397_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512547359387_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024273979810_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1773994007_3856861426048901893_18997692.jpg
+  - >-
+    ../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253772817680_18997692.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 5
+trash_image_count: 0
 ---
-
 # emjwalker
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/emjwalker/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/emjwalker/profile/655892949_18573238324053693_8674637217233358963_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1719854419_3402707838543156543_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1719854419_3402707838543156543_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1719854419_3402707840732749999_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1719854419_3402707840732749999_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1721461211_3416186618039925077_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1721461211_3416186618039925077_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1722026713_3420930382442106397_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1722026713_3420930382442106397_18997692.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1722627313_3425968587435562421_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1722627313_3425968587435562421_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1722627313_3425968587762712269_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1722627313_3425968587762712269_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1725048029_3446274946774129877_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1725048029_3446274946774129877_18997692.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1728333091_3473832138041684042_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1728333091_3473832138041684042_18997692.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364270108550_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364270108550_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364689591048_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1731533415_3500678364689591048_18997692.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1732519215_3508947873984548451_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1732519215_3508947873984548451_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1732519215_3508947874395653331_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1732519215_3508947874395653331_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1740045041_3572078989156490652_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1740045041_3572078989156490652_18997692.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1746504317_3626263385860234753_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1746504317_3626263385860234753_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1746504317_3626263387722623409_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1746504317_3626263387722623409_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343678701265018_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343678701265018_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343679993261022_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1746871517_3629343679993261022_18997692.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1751103295_3664842314238441076_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1751103295_3664842314238441076_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1751103295_3664842316436265201_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1751103295_3664842316436265201_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1753997434_3689120320090467418_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1753997434_3689120320090467418_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1755784498_3704111075089480128_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1755784498_3704111075089480128_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1755784498_3704111079007079816_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1755784498_3704111079007079816_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512136313557_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512136313557_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512547359387_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909512547359387_18997692.jpg --> | [ ] | [x] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513168097013_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513168097013_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513914675056_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513914675056_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513981758678_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909513981758678_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909514074090584_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909514074090584_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909515181359745_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756118099_3706909515181359745_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257157774_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257157774_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257188348_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257188348_18997692.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257191394_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024257191394_18997692.jpg --> | [x] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024273979810_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756305300_3708227024273979810_18997692.jpg --> | [ ] | [x] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1756899077_3713461067700528653_5587920170.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1756899077_3713461067700528653_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1764432779_3776658108497213124_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1764432779_3776658108497213124_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1764432779_3776658109361226426_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1764432779_3776658109361226426_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1773994007_3856861426048901893_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1773994007_3856861426048901893_18997692.jpg --> | [ ] | [x] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253680562113_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253680562113_18997692.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253772817680_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253772817680_18997692.jpg --> | [ ] | [x] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253781195393_18997692.jpg)<br><!-- image:../../assets/designers/emjwalker/instagram/emjwalker_1778868300_3894661253781195393_18997692.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Michelle Walker is a surface pattern designer based in Sheffield, UK, creating hand-drawn collections for children's products, nursery, and lifestyle markets. Each collection is built with complete line architecture — hero prints, coordinates, and blenders — production-ready for licensing. Her work is available on Spoonflower, and she publishes a bi-weekly studio newsletter.
+
 ## Style and Aesthetic
+
+Michelle's collections are nature-led and whimsical — designed to feel handmade. Selected Instagram images suggest warm, organic compositions across floral, botanical, and nature-led children's print themes. Her stated aesthetic priority is work that "tells a story," with individual hand-drawn character distinguishing her output from purely digital repeat design.
 
 ## Techniques and Tools
 
+Michelle works in hand-drawn illustration translated into seamless repeat surface pattern. Her collections are structured with full line architecture (hero, coordinates, blenders). She designs for Spoonflower and has experience with the commercial and licensing sides of surface pattern design.
+
 ## Markets and Clients
+
+Primary licensing categories are children's fabric, wallpaper, nursery décor, and lifestyle products. She offers exclusive and non-exclusive arrangements, with custom colourways available on request. She also supports handmade business owners seeking distinctive patterns and welcomes custom project collaborations.
 
 ## Portfolio and Presence
 
+- Website: https://michellejwalker.com
+- Instagram: @emjwalker
+- Spoonflower: active designer
+- Newsletter: Postcards from the Studio (bi-weekly)
+
 ## Career Path
+
+Michelle's design journey has been shaped by living across Australia, London, and the English countryside. She currently balances surface pattern design with a corporate design role and family life — a dual perspective she cites as informing both the creative and commercial quality of her pattern work.
 
 ## Pattern Focus
 
+Selected Instagram images suggest dense botanical and nature-led collections — organic, warm compositions that read well at children's textile scale. Selected placements indicate mockup presentations across nursery and lifestyle product formats — fabric, wallpaper, and soft goods contexts.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Children's Textile Design]]
+- [[Spoonflower]]
+- [[Licensing]]
+- [[Nursery Design]]
+- [[Hand-Drawn Pattern]]

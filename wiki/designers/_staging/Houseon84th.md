@@ -25,7 +25,7 @@ bio: ''
 website: 'https://houseon84th.com'
 website_about: ''
 accepted: 20/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/houseon84th
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Artist | House on 84th
 website_meta_description: House on 84th offers beautiful surface pattern designs and illustrations
 website_about_raw: >-
@@ -173,7 +176,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -190,45 +193,185 @@ instagram_profile_pic_url: >-
   https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/241907078_995937684526911_5999809944453757939_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGJQMMh0hblG_c1iZy5tfcPr_p4H-IOgCB5yl2AgJZgfgZB-IZ58oHvSVp7pXVhu0o&_nc_ohc=7iZ2qX9MXB8Q7kNvwEyCJwf&_nc_gid=Xkb_bs3V_YwV2phIOHdDcw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5LTc7qsNIP7f8tIIxBerv-sUnX20pqJcsKrhcCB-fGZQ&oe=6A13E6C9&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-phl2-1.cdninstagram.com/v/t51.2885-19/241907078_995937684526911_5999809944453757939_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-phl2-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGJQMMh0hblG_c1iZy5tfcPr_p4H-IOgCB5yl2AgJZgfgZB-IZ58oHvSVp7pXVhu0o&_nc_ohc=7iZ2qX9MXB8Q7kNvwEyCJwf&_nc_gid=Xkb_bs3V_YwV2phIOHdDcw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5LTc7qsNIP7f8tIIxBerv-sUnX20pqJcsKrhcCB-fGZQ&oe=6A13E6C9&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/houseon84th/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8712
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/houseon84th/profile/241907078_995937684526911_5999809944453757939_n.jpg
+instagram_profile_image_bytes: 140875
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/houseon84th/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/houseon84th/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/houseon84th/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/houseon84th/profile/241907078_995937684526911_5999809944453757939_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/houseon84th/profile/241907078_995937684526911_5999809944453757939_n.jpg
+profile_image_local: >-
+  ../../assets/designers/houseon84th/profile/241907078_995937684526911_5999809944453757939_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/houseon84th/profile/241907078_995937684526911_5999809944453757939_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671456701708_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674727002_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674772418_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127752871892_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127887025394_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127920711897_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914243531339_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914377562013_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914453262228_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914478262651_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739466175_3567223284661233929_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434779003_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434833173_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434868826_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650493528996_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650501904097_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691255980246048_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691256156327552_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739641171_3568691255980284602_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739641171_3568691256198303866_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897496907206_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505092215_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505217978_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505259292_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897706466239_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740672728_3577344591042302883_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1740672728_3577344591059109088_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1745151711_3614916963337505664_5587920170.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1745151711_3614916968999891111_5587920170.jpg
+instagram_image_count: 29
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674727002_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127887025394_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914243531339_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739466175_3567223284661233929_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434779003_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434833173_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434868826_41220802.jpg
+  - >-
+    ../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691256156327552_41220802.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # houseon84th
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/houseon84th/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/houseon84th/profile/241907078_995937684526911_5999809944453757939_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671456701708_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671456701708_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674727002_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674727002_41220802.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674772418_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739034922_3563605671674772418_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127752871892_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127752871892_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127887025394_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127887025394_41220802.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127920711897_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739214624_3565113127920711897_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914243531339_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914243531339_41220802.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914377562013_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914377562013_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914453262228_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914453262228_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914478262651_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739376485_3566470914478262651_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739466175_3567223284661233929_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739466175_3567223284661233929_41220802.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434779003_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434779003_41220802.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434833173_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434833173_41220802.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434868826_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650434868826_41220802.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650493528996_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650493528996_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650501904097_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739552764_3567949650501904097_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691255980246048_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691255980246048_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691256156327552_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739641170_3568691256156327552_41220802.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739641171_3568691255980284602_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739641171_3568691255980284602_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1739641171_3568691256198303866_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1739641171_3568691256198303866_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897496907206_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897496907206_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505092215_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505092215_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505217978_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505217978_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505259292_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897505259292_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897706466239_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740593252_3576677897706466239_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740672728_3577344591042302883_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740672728_3577344591042302883_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1740672728_3577344591059109088_41220802.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1740672728_3577344591059109088_41220802.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1745151711_3614916963337505664_5587920170.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1745151711_3614916963337505664_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/houseon84th/instagram/houseon84th_1745151711_3614916968999891111_5587920170.jpg)<br><!-- image:../../assets/designers/houseon84th/instagram/houseon84th_1745151711_3614916968999891111_5587920170.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Annelie Hervi is the US-based designer behind House on 84th, a surface pattern business offering pattern files, illustrations, and licensing for products, websites, and limited productions. Her practice is positioned around joyful, color-driven patterns with a clear commercial licensing orientation. She also posts tutorials to Instagram, engaging with the surface pattern design learning community.
+
 ## Style and Aesthetic
+
+Selected Instagram images (8 patterns) confirm a color-forward, optimistic aesthetic. The House on 84th brand voice — "where color and joy become patterns" — reflects deliberate positioning around visual energy and approachability. The work suggests a varied pattern vocabulary spanning floral, geometric, and decorative motifs with confident color use across multiple repeat types.
 
 ## Techniques and Tools
 
+Works digitally to produce seamless repeat patterns for commercial licensing and sale. Produces pattern files for direct purchase. Tutorial content appears alongside pattern posts on Instagram, suggesting ongoing engagement with pattern design education and the broader SPD practitioner community.
+
 ## Markets and Clients
+
+Patterns are available for purchase or licensing for products, websites, and limited productions. Website structured as a surface pattern business with pattern file sales. Positioned for licensing across home goods, stationery, lifestyle products, and digital applications.
 
 ## Portfolio and Presence
 
+- Website: https://houseon84th.com
+- Instagram: @Houseon84th
+
 ## Career Path
+
+The House on 84th brand was established by 2021 (website copyright date). Annelie operates as a sole practitioner, combining pattern design with tutorial content creation. Actively available for licensing and collaboration inquiries.
 
 ## Pattern Focus
 
+Selected patterns (8) span colorful all-over compositions. With no placement images selected, the focus is firmly on pattern development. The work appears suited to product licensing across home, stationery, and lifestyle categories. Extensive Instagram output (456 posts) suggests a substantial and varied portfolio.
+
 ## Connections
+
+- [[Surface Pattern Design]]
+- [[Licensing]]
+- [[Home Decor]]
+- [[Stationery]]
+- [[United States]]

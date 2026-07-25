@@ -20,7 +20,7 @@ bio: ''
 website: 'https://checiegirl.wixsite.com/nathifa-simon-portfo'
 website_about: ''
 accepted: 07/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/checiegirl_creations
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Nathifa Simon Portfolio | Surface Pattern Design
 website_meta_description: >-
   Nathifa Simon's Portfolio for Surface Pattern Design. Vibrant patterns perfect
@@ -130,7 +133,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   About
 
@@ -245,45 +248,196 @@ instagram_profile_pic_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/52909900_417440505493823_4464268103580123136_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEhodx1npdUQ7d2OyCo-UkR3KIW5ONW4bIvOnyHd0lN1-Zw0-pSyTuiJDmbHCMVya8&_nc_ohc=cfEY0K1mWcMQ7kNvwGV_xsQ&_nc_gid=JUl-qIs6rCFBYdxzNp-vdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gKkB6Ie6tPxfDpe_gcKvIUeVDEOi_BxXyBqWcf7fI3g&oe=6A13FAD7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/52909900_417440505493823_4464268103580123136_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEhodx1npdUQ7d2OyCo-UkR3KIW5ONW4bIvOnyHd0lN1-Zw0-pSyTuiJDmbHCMVya8&_nc_ohc=cfEY0K1mWcMQ7kNvwGV_xsQ&_nc_gid=JUl-qIs6rCFBYdxzNp-vdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6gKkB6Ie6tPxfDpe_gcKvIUeVDEOi_BxXyBqWcf7fI3g&oe=6A13FAD7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4198
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/checiegirl_creations/profile/52909900_417440505493823_4464268103580123136_n.jpg
+instagram_profile_image_bytes: 92616
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/checiegirl_creations/profile/52909900_417440505493823_4464268103580123136_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/checiegirl_creations/profile/52909900_417440505493823_4464268103580123136_n.jpg
+profile_image_local: >-
+  ../../assets/designers/checiegirl_creations/profile/52909900_417440505493823_4464268103580123136_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/checiegirl_creations/profile/52909900_417440505493823_4464268103580123136_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991158230622_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991242103837_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804614085947_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804664450626_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760398585_3742817073463418904_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760398585_3742817073639542258_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858926024_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858929164_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757374332435_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757382694694_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399492592867_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399509383405_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761098721_3748690237103874184_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761098721_3748690237137471824_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220370083925_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220403663038_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035288001935_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035439028640_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906652656084_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906778476082_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866812601_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866835019_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1762434349_3759894293818498427_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1762434349_3759894293835271272_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812012788042_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812021150225_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812029556517_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812054715059_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635474303931_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482653482_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482677719_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482688414_1783147735.webp
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991242103837_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804614085947_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858929164_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399492592867_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220370083925_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035288001935_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906652656084_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866812601_1783147735.webp
+selected_placements:
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757382694694_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812012788042_1783147735.webp
+  - >-
+    ../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482677719_1783147735.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # checiegirl_creations
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/checiegirl_creations/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/checiegirl_creations/profile/52909900_417440505493823_4464268103580123136_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991158230622_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991158230622_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991242103837_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759443232_3734802991242103837_1783147735.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804614085947_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804614085947_1783147735.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804664450626_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1759943770_3739001804664450626_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760398585_3742817073463418904_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760398585_3742817073463418904_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760398585_3742817073639542258_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760398585_3742817073639542258_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858926024_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858926024_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858929164_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760479542_3743496189858929164_1783147735.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757374332435_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757374332435_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757382694694_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760670583_3745098757382694694_1783147735.webp --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399492592867_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399492592867_1783147735.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399509383405_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1760926960_3747249399509383405_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761098721_3748690237103874184_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761098721_3748690237103874184_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761098721_3748690237137471824_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761098721_3748690237137471824_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220370083925_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220370083925_1783147735.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220403663038_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761240697_3749881220403663038_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035288001935_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035288001935_1783147735.webp --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035439028640_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761606052_3752946035439028640_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906652656084_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906652656084_1783147735.webp --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906778476082_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761693536_3753679906778476082_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866812601_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866812601_1783147735.webp --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866835019_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1761838384_3754894981866835019_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1762434349_3759894293818498427_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1762434349_3759894293818498427_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1762434349_3759894293835271272_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1762434349_3759894293835271272_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812012788042_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812012788042_1783147735.webp --> | [ ] | [x] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812021150225_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812021150225_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812029556517_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812029556517_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812054715059_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764431762_3776649812054715059_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635474303931_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635474303931_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482653482_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482653482_1783147735.webp --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482677719_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482677719_1783147735.webp --> | [ ] | [x] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482688414_1783147735.webp)<br><!-- image:../../assets/designers/checiegirl_creations/instagram/checiegirl_creations_1764516976_3777364635482688414_1783147735.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Nathifa Simon, working as Checiegirl, is a UK-based mixed media artist, illustrator, and surface pattern designer of Trinidadian heritage. Self-taught, she started as a fine artist working across watercolours, acrylics, and gouache before transitioning into surface pattern design, producing repeating patterns for fabric, stationery, and home decor. Her first gallery submission — three canvases to Below 65 Gallery, all accepted — marked the start of her professional practice.
+
 ## Style and Aesthetic
+
+Simon's pattern work is driven by nature, vibrant colour, and mixed-media texture. Her stated range covers botanicals, geometric shapes, abstracts, and expressive brush strokes, unified by high colour saturation and energy. Selected Instagram images suggest bold, colour-rich patterns including florals and geometric compositions with an expressive, hand-made quality. The #InFullFlowLine signature series signals a practice built around a consistent personal creative identity.
 
 ## Techniques and Tools
 
+Simon's primary media are watercolours, acrylics, and gouache in mixed-media combinations. Repeat patterns are produced using digital illustrative techniques, translating hand-made media into fabric, stationery, and home decor formats. She maintains a broad content creation presence across Instagram, YouTube, Twitter, Twitch, and Pinterest.
+
 ## Markets and Clients
+
+Simon designs for fabric, stationery, and home decor markets. She is open to client commissions and collaborations to bring client briefs to life. Selected placement images suggest product application across cushions and home textiles. No specific licensed brand clients are documented.
 
 ## Portfolio and Presence
 
+- Website: checiegirl.wixsite.com/nathifa-simon-portfo
+- Instagram: @checiegirl_creations (1,160 followers)
+
 ## Career Path
+
+Simon is largely self-taught, with early fine art class attendance to build foundational skills. Her artistic direction was set from childhood, shaped by a creative mother who introduced her to a wide range of media and crafts. Her first exhibition at Below 65 Gallery — where all three submitted canvases were accepted — was the turning point that confirmed a professional career path. She subsequently expanded into surface pattern design alongside her ongoing mixed media fine art practice.
 
 ## Pattern Focus
 
+Selected Instagram images suggest a range of pattern types: botanical repeats, geometric compositions, and abstract brush-stroke–driven designs. The mixed-media origins give her patterns a textural, layered quality distinct from fully digital work. Selected placement images suggest home decor product applications — likely cushions and textiles based on listed categories.
+
 ## Connections
+
+- [[Below 65 Gallery]] (first exhibition venue)

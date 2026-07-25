@@ -22,7 +22,7 @@ bio: ''
 website: 'https://jacquelinetoal.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jacqueline__toal
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   Home | Jacqueline Toal Art, Surface pattern Immersive XR art, digital,
   textiles,
@@ -258,7 +261,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -277,45 +280,150 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/491032696_667951642752953_476781609077337668_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFm_-S5orNLCvogIkS9nvoZ3EzjP2wvUVFglaQgZEsLfbkOncXwkRX8LtBuMyDGwCk&_nc_ohc=FTfwtcTwlH4Q7kNvwETGY9a&_nc_gid=OskYvK_eYYs4bHqqN0dhqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5WY40TlKlwVoJyr4GLynUFBay5fjjALU5IxKjbWKdLjw&oe=6A13E8EE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/491032696_667951642752953_476781609077337668_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFm_-S5orNLCvogIkS9nvoZ3EzjP2wvUVFglaQgZEsLfbkOncXwkRX8LtBuMyDGwCk&_nc_ohc=FTfwtcTwlH4Q7kNvwETGY9a&_nc_gid=OskYvK_eYYs4bHqqN0dhqw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5WY40TlKlwVoJyr4GLynUFBay5fjjALU5IxKjbWKdLjw&oe=6A13E8EE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jacqueline__toal/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8143
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jacqueline__toal/profile/491032696_667951642752953_476781609077337668_n.jpg
+instagram_profile_image_bytes: 222645
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jacqueline__toal/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jacqueline__toal/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jacqueline__toal/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jacqueline__toal/profile/491032696_667951642752953_476781609077337668_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jacqueline__toal/profile/491032696_667951642752953_476781609077337668_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jacqueline__toal/profile/491032696_667951642752953_476781609077337668_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jacqueline__toal/profile/491032696_667951642752953_476781609077337668_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_12_7fc382_93331a828792483780b475aa3afc6b4f~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_13_7fc382_f140de995acf4a60a49a7d281b724dbd~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_14_7fc382_8fe7ef5414f2460b888350060fbee9dd~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_15_7fc382_7844da2ff2c7495981fe2eb1e56ba85b~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_16_7fc382_e9b8c8b69eda4e92a84484ec5cdce0ab~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_17_7fc382_e9e6b9988b5444ae99cb475e6ad8d935~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_18_7fc382_1002971addd94020a56babc0567785d8~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_19_7fc382_ec6d44eb4d3b456897cc4d5bf1d1dea0~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_20_7fc382_f2ca6f2b25c1425e9c3a7ca825f2ba25~mv2.png
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_21_7fc382_af4a52ffee654125b244bcbfa7a9d986~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_22_7fc382_d81ffe1b32c6438cbf24f5e0c873929b~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_23_7fc382_2b1eb3655f774d479e64df8945bd3693~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_24_7fc382_3125bda9df6c477db9bee7ac246731b5~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_25_7fc382_5f45df992a834a5eb214eef63f728876~mv2.png
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_26_7fc382_c500194017f0494e835dc861ebfd8b90~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_28_7fc382_a5139f2a923540d49b3c7a2308e365d4~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_30_7fc382_76da903c6c98472dbc5a8368eac547bf~mv2.jpeg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_12_7fc382_93331a828792483780b475aa3afc6b4f~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_13_7fc382_f140de995acf4a60a49a7d281b724dbd~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_16_7fc382_e9b8c8b69eda4e92a84484ec5cdce0ab~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_17_7fc382_e9e6b9988b5444ae99cb475e6ad8d935~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_21_7fc382_af4a52ffee654125b244bcbfa7a9d986~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_24_7fc382_3125bda9df6c477db9bee7ac246731b5~mv2.jpeg
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_25_7fc382_5f45df992a834a5eb214eef63f728876~mv2.png
+  - >-
+    ../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_28_7fc382_a5139f2a923540d49b3c7a2308e365d4~mv2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jacqueline__toal
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jacqueline__toal/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jacqueline__toal/profile/491032696_667951642752953_476781609077337668_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_12_7fc382_93331a828792483780b475aa3afc6b4f~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_12_7fc382_93331a828792483780b475aa3afc6b4f~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_13_7fc382_f140de995acf4a60a49a7d281b724dbd~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_13_7fc382_f140de995acf4a60a49a7d281b724dbd~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_14_7fc382_8fe7ef5414f2460b888350060fbee9dd~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_14_7fc382_8fe7ef5414f2460b888350060fbee9dd~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_15_7fc382_7844da2ff2c7495981fe2eb1e56ba85b~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_15_7fc382_7844da2ff2c7495981fe2eb1e56ba85b~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_16_7fc382_e9b8c8b69eda4e92a84484ec5cdce0ab~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_16_7fc382_e9b8c8b69eda4e92a84484ec5cdce0ab~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_17_7fc382_e9e6b9988b5444ae99cb475e6ad8d935~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_17_7fc382_e9e6b9988b5444ae99cb475e6ad8d935~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_18_7fc382_1002971addd94020a56babc0567785d8~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_18_7fc382_1002971addd94020a56babc0567785d8~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_19_7fc382_ec6d44eb4d3b456897cc4d5bf1d1dea0~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_19_7fc382_ec6d44eb4d3b456897cc4d5bf1d1dea0~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_20_7fc382_f2ca6f2b25c1425e9c3a7ca825f2ba25~mv2.png)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_20_7fc382_f2ca6f2b25c1425e9c3a7ca825f2ba25~mv2.png --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_21_7fc382_af4a52ffee654125b244bcbfa7a9d986~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_21_7fc382_af4a52ffee654125b244bcbfa7a9d986~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_22_7fc382_d81ffe1b32c6438cbf24f5e0c873929b~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_22_7fc382_d81ffe1b32c6438cbf24f5e0c873929b~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_23_7fc382_2b1eb3655f774d479e64df8945bd3693~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_23_7fc382_2b1eb3655f774d479e64df8945bd3693~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_24_7fc382_3125bda9df6c477db9bee7ac246731b5~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_24_7fc382_3125bda9df6c477db9bee7ac246731b5~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_25_7fc382_5f45df992a834a5eb214eef63f728876~mv2.png)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_25_7fc382_5f45df992a834a5eb214eef63f728876~mv2.png --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_26_7fc382_c500194017f0494e835dc861ebfd8b90~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_26_7fc382_c500194017f0494e835dc861ebfd8b90~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_28_7fc382_a5139f2a923540d49b3c7a2308e365d4~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_28_7fc382_a5139f2a923540d49b3c7a2308e365d4~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_30_7fc382_76da903c6c98472dbc5a8368eac547bf~mv2.jpeg)<br><!-- image:../../assets/designers/jacqueline__toal/instagram/jacqueline__toal_imageye___-_imgi_30_7fc382_76da903c6c98472dbc5a8368eac547bf~mv2.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jackie Toal is a UK-based multi-disciplinary artist, surface pattern designer, and educator. Her practice spans traditional painting, printed textiles, and immersive digital technologies. She holds a degree in printed textiles and screen printing from the University of Ulster, Belfast, and has lectured across art, design, and immersive technology disciplines for over twenty years.
+
 ## Style and Aesthetic
+
+Toal's pattern work is predominantly floral and botanical, rooted in direct observation of life and nature. Colour is central to her practice — she cites Henri Matisse's use of colour, Georgia O'Keeffe's large florals, and Frida Kahlo's symbolic palette as influences, alongside pioneering textile designers Jacqueline Groag and Lucienne Day. Selected Instagram patterns suggest rich, painterly floral compositions with a strong colour sensibility. Some work extends into geometric abstraction and landscape.
 
 ## Techniques and Tools
 
+Traditional media: oils, watercolours, acrylics, and mixed media. Screen printing and colour layering for printed textiles. Pen and ink for structural mark-making and texture exploration. Digital tools applied for composition, colour, perspective, and form. Active in immersive technologies (VR/AR) and animation, which she also teaches.
+
 ## Markets and Clients
+
+Fashion accessories including printed scarves documented. Work spans surface pattern design, fashion textiles, and immersive XR textiles. Primary professional platform is education and research rather than commercial licensing (unverified commercial clients).
 
 ## Portfolio and Presence
 
+- Website: https://jacquelinetoal.com
+- Instagram: https://instagram.com/jacqueline__toal
+
 ## Career Path
+
+Foundation Diploma in Art and Design, followed by a degree in printed textiles and screen printing at the University of Ulster, Belfast. Over twenty years teaching art fundamentals to immersive technologies at Southern Regional College. Currently Lecturer in Immersive Technologies and animation at Dundalk Institute of Technology since January 2023.
 
 ## Pattern Focus
 
+Predominantly floral and botanical surface patterns derived from life and nature studies. Selected patterns suggest painterly floral compositions with strong colour contrast and a painter's mark-making sensibility. Geometric and abstract experimentation sits alongside the core floral practice.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Screen Printing]]
+- [[Watercolour Illustration]]
+- [[Fashion Accessories]]
+- [[Jacqueline Groag]]
+- [[Lucienne Day]]

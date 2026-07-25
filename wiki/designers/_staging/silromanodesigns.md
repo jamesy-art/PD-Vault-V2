@@ -22,7 +22,7 @@ bio: ''
 website: 'https://silviaromanodesigns.myportfolio.com'
 website_about: ''
 accepted: 21/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/silromanodesigns
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Silvia Romano
 website_meta_description: ''
 website_about_raw: >-
@@ -240,7 +243,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Sil Romano
 
@@ -998,45 +1001,126 @@ instagram_profile_pic_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/484867063_1301619171067558_5779469386431455728_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFIXTYzEbFgE2sn1hAyz2hIv0TyUPNChgntUPkpuhqNiRlIbDw_95WkP-JOURveDxI&_nc_ohc=eCD--8Lh0LcQ7kNvwFDBp5j&_nc_gid=ybbhE6TvZXpM6lKfPZjs7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6eFBn9Q10BAdm70bKjiejBksYKHHEscyLH0aZLT_5Muw&oe=6A13FB37&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-dfw5-1.cdninstagram.com/v/t51.2885-19/484867063_1301619171067558_5779469386431455728_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFIXTYzEbFgE2sn1hAyz2hIv0TyUPNChgntUPkpuhqNiRlIbDw_95WkP-JOURveDxI&_nc_ohc=eCD--8Lh0LcQ7kNvwFDBp5j&_nc_gid=ybbhE6TvZXpM6lKfPZjs7A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6eFBn9Q10BAdm70bKjiejBksYKHHEscyLH0aZLT_5Muw&oe=6A13FB37&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/silromanodesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4131
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/silromanodesigns/profile/484867063_1301619171067558_5779469386431455728_n.jpg
+instagram_profile_image_bytes: 70587
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/silromanodesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/silromanodesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/silromanodesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/silromanodesigns/profile/484867063_1301619171067558_5779469386431455728_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/silromanodesigns/profile/484867063_1301619171067558_5779469386431455728_n.jpg
+profile_image_local: >-
+  ../../assets/designers/silromanodesigns/profile/484867063_1301619171067558_5779469386431455728_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/silromanodesigns/profile/484867063_1301619171067558_5779469386431455728_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1741989169_3588387691986445484_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752515541_3676689299291367774_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710273757989_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710290644056_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710298932323_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1754833413_3696133025097104346_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755170713_3698962496921689818_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755170713_3698962496946782007_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755342418_3700402864158658241_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755433768_3701169165579698402_62424587157.jpg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1741989169_3588387691986445484_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752515541_3676689299291367774_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710273757989_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1754833413_3696133025097104346_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755342418_3700402864158658241_62424587157.jpg
+  - >-
+    ../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755433768_3701169165579698402_62424587157.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # silromanodesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/silromanodesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/silromanodesigns/profile/484867063_1301619171067558_5779469386431455728_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1741989169_3588387691986445484_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1741989169_3588387691986445484_62424587157.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752515541_3676689299291367774_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752515541_3676689299291367774_62424587157.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710273757989_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710273757989_62424587157.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710290644056_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710290644056_62424587157.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710298932323_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1752599632_3677394710298932323_62424587157.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1754833413_3696133025097104346_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1754833413_3696133025097104346_62424587157.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755170713_3698962496921689818_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755170713_3698962496921689818_62424587157.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755170713_3698962496946782007_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755170713_3698962496946782007_62424587157.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755342418_3700402864158658241_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755342418_3700402864158658241_62424587157.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755433768_3701169165579698402_62424587157.jpg)<br><!-- image:../../assets/designers/silromanodesigns/instagram/silromanodesigns_1755433768_3701169165579698402_62424587157.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Silvia Romano (Sil Romano) is an Argentine surface pattern and print designer based in Greater Buenos Aires, creating seamless watercolour patterns available for licensing and published through Spoonflower. Her work spans soft florals, botanicals, and nature-inspired repeats positioned for fabric, wallpaper, and home décor applications.
+
 ## Style and Aesthetic
+
+Soft pastel palettes dominate across the portfolio — florals in lavender, sage, ivory, and warm tones. Named collections cover a range from romantic cottagecore (Romantic Poppies, Softly Bold Florals), coastal botanical (Calm & Fresh Blooms, Blue Haze), earthy Japandi (Serere), and warm summer palettes (Warm Glow). Selected pattern images suggest a delicate, watercolour-led visual language with clean repeat construction.
 
 ## Techniques and Tools
 
+Watercolour as primary medium. Digital workflow includes Procreate, Photoshop, Illustrator, Canva, and Figma (UX/UI background). Seamless repeat construction with multi-colourway options. Completed Estampas Textiles certification at UTN FRBA (2024). Pattern IDs published to Spoonflower for direct browsing and purchase.
+
 ## Markets and Clients
+
+Home décor, stationery, womenswear, children's products, and wallpaper based on documented Spoonflower collection descriptions. Open for licensing to brands and collaborators across fabric, wallpaper, and home product categories. Active on LinkedIn targeting fashion and textile professionals.
 
 ## Portfolio and Presence
 
+- Website: https://silviaromanodesigns.myportfolio.com
+- Instagram: https://instagram.com/silromanodesigns
+- Spoonflower: active shop
+
 ## Career Path
+
+Chemical Engineering graduate (University of Buenos Aires, 1983–1988). Self-employed designer since 2018, initially with UX/UI focus. Expanded into surface pattern design with Estampas Textiles certification (UTN FRBA, 2024). Pattern design practice runs alongside ongoing UX/UI and print design work.
 
 ## Pattern Focus
 
+Selected patterns — 6 chosen from 10 reviewed — suggest watercolour floral seamless repeats in soft, coordinated palettes. Named collections include Lucky Cactus (pastels, cacti and stripes), Blue Haze, Calm & Fresh Blooms, Serere (Japandi-inspired earthy linen), and Romantic Poppies. All positioned for licensing via Spoonflower and direct contact.
+
 ## Connections
+
+- [[Argentina]]
+- [[Watercolour]]
+- [[Spoonflower]]
+- [[Licensing]]
+- [[Flower Pattern]]
+- [[Home Decor]]

@@ -23,7 +23,7 @@ bio: ''
 website: 'https://elenaromero.es'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/elenaromerodesign
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Home - Elena Romero, Grafic - Textile Design'
 website_meta_description: >-
   Elena Romero, Graphic – Textile Design. Specializes in stunning hand-painted
@@ -141,7 +144,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -160,45 +163,131 @@ instagram_profile_pic_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/28427491_871984519638088_8724408411719991296_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGHfRZCSH-SeTltZZjzDcFbHrNXuYOys6rFH2Q7h43zi4g0dxHpK4B0-vFTpOP54ogljxn7tCs43qVbgQ923Jkb&_nc_ohc=miX8qoTsrcEQ7kNvwFjPawE&_nc_gid=jEu0LIsZmHQsjYdCtmPFvg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7-zEaGTA3Sqe5bCuT8K83FY5Va_geUPw2ULuroa5F1QA&oe=6A13FAF5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-det1-1.cdninstagram.com/v/t51.2885-19/28427491_871984519638088_8724408411719991296_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-det1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGHfRZCSH-SeTltZZjzDcFbHrNXuYOys6rFH2Q7h43zi4g0dxHpK4B0-vFTpOP54ogljxn7tCs43qVbgQ923Jkb&_nc_ohc=miX8qoTsrcEQ7kNvwFjPawE&_nc_gid=jEu0LIsZmHQsjYdCtmPFvg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7-zEaGTA3Sqe5bCuT8K83FY5Va_geUPw2ULuroa5F1QA&oe=6A13FAF5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/elenaromerodesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5698
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/elenaromerodesign/profile/28427491_871984519638088_8724408411719991296_n.jpg
+instagram_profile_image_bytes: 159633
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/elenaromerodesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/elenaromerodesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/elenaromerodesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/elenaromerodesign/profile/28427491_871984519638088_8724408411719991296_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/elenaromerodesign/profile/28427491_871984519638088_8724408411719991296_n.jpg
+profile_image_local: >-
+  ../../assets/designers/elenaromerodesign/profile/28427491_871984519638088_8724408411719991296_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/elenaromerodesign/profile/28427491_871984519638088_8724408411719991296_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1640952714_2740832483270090706_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1647202875_2793262632946714947_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1674307696_3020634351469160552_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1678446355_3055351935103787470_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1692614165_3174200143153494456_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1708191723_3304874168027740992_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1731751983_3502511957824151453_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1732349135_3507521229351970908_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1735744808_3536006194121088281_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1746519680_3626392372535505805_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1748775286_3645313773757719568_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1753775898_3687261946142846071_2266049461.jpg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1640952714_2740832483270090706_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1647202875_2793262632946714947_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1674307696_3020634351469160552_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1678446355_3055351935103787470_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1732349135_3507521229351970908_2266049461.jpg
+  - >-
+    ../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1753775898_3687261946142846071_2266049461.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # elenaromerodesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/elenaromerodesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/elenaromerodesign/profile/28427491_871984519638088_8724408411719991296_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1640952714_2740832483270090706_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1640952714_2740832483270090706_2266049461.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1647202875_2793262632946714947_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1647202875_2793262632946714947_2266049461.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1674307696_3020634351469160552_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1674307696_3020634351469160552_2266049461.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1678446355_3055351935103787470_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1678446355_3055351935103787470_2266049461.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1692614165_3174200143153494456_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1692614165_3174200143153494456_2266049461.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1708191723_3304874168027740992_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1708191723_3304874168027740992_2266049461.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1731751983_3502511957824151453_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1731751983_3502511957824151453_2266049461.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1732349135_3507521229351970908_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1732349135_3507521229351970908_2266049461.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1735744808_3536006194121088281_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1735744808_3536006194121088281_2266049461.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1746519680_3626392372535505805_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1746519680_3626392372535505805_2266049461.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1748775286_3645313773757719568_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1748775286_3645313773757719568_2266049461.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1753775898_3687261946142846071_2266049461.jpg)<br><!-- image:../../assets/designers/elenaromerodesign/instagram/elenaromerodesign_1753775898_3687261946142846071_2266049461.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Elena Romero is a Seville-based textile design studio specialising in vibrant, contemporary prints for fashion, interiors, and product design. The studio is known for hand-painted floral designs and bold abstract compositions. Elena Romero is a Première Vision (PV) prize winner, with an exclusive collection available for licensing and documented application across final products.
+
 ## Style and Aesthetic
+
+The studio's aesthetic is explicitly bold, colourful, and energetic — described as prints "bursting with color and energy." Output spans hand-painted florals and bold abstract compositions. Selected Instagram patterns confirm a high-energy, saturated palette with expressive painterly mark-making. Work is positioned as transforming surfaces into dynamic canvases of colour and creativity.
 
 ## Techniques and Tools
 
+Hand-painting is the primary technique for both floral and abstract work. Designs are prepared for fashion, interiors, and product design contexts. Exclusive, licensing-ready collections are available; the website documents final product applications showing prints in use.
+
 ## Markets and Clients
+
+Fashion (womenswear), interiors, and product design — all explicitly stated. PV prize recognition confirms positioning within international fashion fabric trade. Physical studio address in Seville (Calle San Vicente). Licensing-ready exclusive collections and documented product placements indicate an active commercial operation.
 
 ## Portfolio and Presence
 
+- Website: elenaromero.es
+- Instagram: @elenaromerodesign (1,616 posts, 2,294 followers)
+
 ## Career Path
+
+Elena Romero established a textile design studio in Seville producing commercial print for fashion and interiors. PV prize recognition and a high post count (1,616 Instagram posts) reflect a sustained, professionally active studio with international trade visibility.
 
 ## Pattern Focus
 
+Core output spans hand-painted florals and bold abstract prints — the two stated specialisms of the studio. Selected Instagram patterns confirm expressive, painterly work with strong use of saturated colour. Designs are marketed as exclusive collections ready for licensing, with documented application on fashion garments and interior products.
+
 ## Connections
+
+- [[Flower Pattern]] — core specialism (hand-painted)
+- [[Abstract Pattern]] — complementary specialism
+- [[Womenswear]] — primary fashion market
+- [[Home Decor]] — interiors market
+- [[Première Vision]] — prize recognition
+- [[Licensing]] — exclusive collection model

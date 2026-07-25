@@ -18,7 +18,7 @@ bio: ''
 website: 'https://oakabee.myportfolio.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/oakabeedesign
 profile_url: ''
 instagram_images:
@@ -35,9 +35,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Pavlina Jirankova
 website_meta_description: ''
 website_about_raw: >-
@@ -172,7 +175,7 @@ open_to: []
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -189,45 +192,137 @@ instagram_profile_pic_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/473631077_1550221498968863_4052826534953831596_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFGv01alDuAWh-FbYQVz8VpeKTLhyK1rr6Asc54U5CbxjLPHc3NUTqMeTQuoPOyypg&_nc_ohc=33esGhbHw1cQ7kNvwH2C4rR&_nc_gid=kIGbx5Hy5RhoUk0c6tRMIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af77cxN2DgWZ4jMTf9Bnuo1TsFLbI2HDH48MZS2VaNPthQ&oe=6A13EA3E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/473631077_1550221498968863_4052826534953831596_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFGv01alDuAWh-FbYQVz8VpeKTLhyK1rr6Asc54U5CbxjLPHc3NUTqMeTQuoPOyypg&_nc_ohc=33esGhbHw1cQ7kNvwH2C4rR&_nc_gid=kIGbx5Hy5RhoUk0c6tRMIQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af77cxN2DgWZ4jMTf9Bnuo1TsFLbI2HDH48MZS2VaNPthQ&oe=6A13EA3E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/oakabeedesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3329
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/oakabeedesign/profile/473631077_1550221498968863_4052826534953831596_n.jpg
+instagram_profile_image_bytes: 113681
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/oakabeedesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/oakabeedesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/oakabeedesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/oakabeedesign/profile/473631077_1550221498968863_4052826534953831596_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/oakabeedesign/profile/473631077_1550221498968863_4052826534953831596_n.jpg
+profile_image_local: >-
+  ../../assets/designers/oakabeedesign/profile/473631077_1550221498968863_4052826534953831596_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/oakabeedesign/profile/473631077_1550221498968863_4052826534953831596_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1514053915_1676328203626324805_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1517242279_1703074133520015794_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613044088582_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613060797496_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613069370318_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204431090414_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204447873486_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1596535793_2368236343477109579_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1703497150_3265493240294462548_6785689384.webp
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1739470732_3567261511512520391_6785689384.webp
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1740059525_3572200665737483623_6785689384.webp
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641138079917_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641582703404_6785689384.jpg
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1514053915_1676328203626324805_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1517242279_1703074133520015794_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613060797496_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1739470732_3567261511512520391_6785689384.webp
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1740059525_3572200665737483623_6785689384.webp
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641138079917_6785689384.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204431090414_6785689384.jpg
+  - >-
+    ../../assets/designers/oakabeedesign/instagram/oakabeedesign_1596535793_2368236343477109579_6785689384.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # oakabeedesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/oakabeedesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/oakabeedesign/profile/473631077_1550221498968863_4052826534953831596_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1514053915_1676328203626324805_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1514053915_1676328203626324805_6785689384.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1517242279_1703074133520015794_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1517242279_1703074133520015794_6785689384.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613044088582_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613044088582_6785689384.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613060797496_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613060797496_6785689384.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613069370318_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590333128_2316204613069370318_6785689384.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204431090414_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204431090414_6785689384.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204447873486_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1590929006_2321203204447873486_6785689384.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1596535793_2368236343477109579_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1596535793_2368236343477109579_6785689384.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1703497150_3265493240294462548_6785689384.webp)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1703497150_3265493240294462548_6785689384.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1739470732_3567261511512520391_6785689384.webp)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1739470732_3567261511512520391_6785689384.webp --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1740059525_3572200665737483623_6785689384.webp)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1740059525_3572200665737483623_6785689384.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641138079917_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641138079917_6785689384.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641582703404_6785689384.jpg)<br><!-- image:../../assets/designers/oakabeedesign/instagram/oakabeedesign_1774120715_3857926641582703404_6785689384.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Pavlina Jirankova is a London-based print and pattern designer working under the Oakabee Design name. A graduate in Fashion Design (print focus) from London College of Fashion, she has built a practice rooted in nature observation — insects, plants, and creatures — rendered through mixed media experimentation. Prints are available for licensing.
+
 ## Style and Aesthetic
+
+Named prints including Orange Tree, Magnolia Petals, Wings of Love, Ferns and Bracken, Poppy Field, Honeymoon, Wild Garden, Fly Feast, Thorny Bushes, Eclipse, Autumn Scatter, and Night Jungle indicate a consistent botanical and natural history vocabulary. Selected images suggest detailed, textured compositions with a naturalistic palette, aiming to "capture those special experiences of observing something unique and rare."
 
 ## Techniques and Tools
 
+Mixed media experimentation across texture and technique, developed from an early attraction to printmaking and crafted mark-making. London College of Fashion training with a print specialism underpins the practice. Sustainable living ethos informs her approach.
+
 ## Markets and Clients
+
+Licensing-first practice — prints available for licensing. Selected placement images suggest home and lifestyle product applications. Stockist enquiries open for trade buyers.
 
 ## Portfolio and Presence
 
+- Instagram: @oakabeedesign
+- Website: oakabee.myportfolio.com
+
 ## Career Path
+
+Developed an early interest in print at age 11. Pursued Fashion Design at London College of Fashion with a focus on print. Has continued building a mixed-media print practice driven by a nature and sustainability ethos.
 
 ## Pattern Focus
 
+Botanical and natural history-inspired surface prints — flora, insects, and fauna — with detailed, textural execution. Named portfolio of 20+ prints developed across 2023–2025. Available for licensing.
+
 ## Connections
+
+- [[Botanicals]]
+- [[Surface Pattern Design]]
+- [[London College of Fashion]]
+- [[Licensing]]
+- [[Sustainable Design]]

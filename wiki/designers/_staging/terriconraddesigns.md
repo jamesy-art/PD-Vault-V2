@@ -25,7 +25,7 @@ bio: ''
 website: 'https://terriconraddesigns.com'
 website_about: ''
 accepted: 12/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/terriconraddesigns
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Terri Conrad Designs - surface pattern design, inspirational art'
 website_meta_description: 'Terri Conrad Designs - fabric and wall paper designer, Founder of Bloom True'
 website_about_raw: >-
@@ -196,7 +199,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -217,45 +220,137 @@ instagram_profile_pic_url: >-
   https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/568556885_18535521805055650_1454985435634582517_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGpdGxObeaqdyiOq6wUoCii2fBJAFXSlJasbyx9zJbrsGExS353YQh01Ra1qCRJBAxXB_HU8fwLQrzNMoFZ_VXe&_nc_ohc=tzqaouEj84UQ7kNvwGVSzmo&_nc_gid=9J9ULhJIgmInWQ2Z6Wm8lw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6m3xI99BpbO5lk5pyW2EWbH5HfNu4j8GPq3g5Ubx30MQ&oe=6A13EE69&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-19/568556885_18535521805055650_1454985435634582517_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sjc3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGpdGxObeaqdyiOq6wUoCii2fBJAFXSlJasbyx9zJbrsGExS353YQh01Ra1qCRJBAxXB_HU8fwLQrzNMoFZ_VXe&_nc_ohc=tzqaouEj84UQ7kNvwGVSzmo&_nc_gid=9J9ULhJIgmInWQ2Z6Wm8lw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6m3xI99BpbO5lk5pyW2EWbH5HfNu4j8GPq3g5Ubx30MQ&oe=6A13EE69&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/terriconraddesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5603
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/terriconraddesigns/profile/568556885_18535521805055650_1454985435634582517_n.jpg
+instagram_profile_image_bytes: 220154
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/terriconraddesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/terriconraddesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/terriconraddesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/terriconraddesigns/profile/568556885_18535521805055650_1454985435634582517_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/terriconraddesigns/profile/568556885_18535521805055650_1454985435634582517_n.jpg
+profile_image_local: >-
+  ../../assets/designers/terriconraddesigns/profile/568556885_18535521805055650_1454985435634582517_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/terriconraddesigns/profile/568556885_18535521805055650_1454985435634582517_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1700328043_3238908841605711957_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145020706600_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145029127017_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568719450922_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568727661636_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568954311697_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1724783199_3444053555857090804_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1724783199_3444053555857150008_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1725301993_3448405519726289260_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348179321932_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348288588364_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1734384054_3524591367593255705_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1743180685_3598382856729882949_47799649.jpg
+instagram_image_count: 13
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1700328043_3238908841605711957_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145029127017_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568719450922_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1725301993_3448405519726289260_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348179321932_47799649.jpg
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1743180685_3598382856729882949_47799649.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1734384054_3524591367593255705_47799649.jpg
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # terriconraddesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/terriconraddesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/terriconraddesigns/profile/568556885_18535521805055650_1454985435634582517_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1700328043_3238908841605711957_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1700328043_3238908841605711957_47799649.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145020706600_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145020706600_47799649.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145029127017_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1701726285_3250638145029127017_47799649.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568719450922_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568719450922_47799649.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568727661636_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568727661636_47799649.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568954311697_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1717717785_3384784568954311697_47799649.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1724783199_3444053555857090804_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1724783199_3444053555857090804_47799649.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1724783199_3444053555857150008_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1724783199_3444053555857150008_47799649.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1725301993_3448405519726289260_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1725301993_3448405519726289260_47799649.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348179321932_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348179321932_47799649.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348288588364_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1732208721_3506343348288588364_47799649.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1734384054_3524591367593255705_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1734384054_3524591367593255705_47799649.jpg --> | [ ] | [x] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1743180685_3598382856729882949_47799649.jpg)<br><!-- image:../../assets/designers/terriconraddesigns/instagram/terriconraddesigns_1743180685_3598382856729882949_47799649.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Licensed artist and surface pattern designer based in Los Angeles County, California. Known for colorful floral patterns, classic repeats, and inspirational art for stationery, home decor, and gifting. Has developed a parallel creative community under the Bloom True brand. 1,093 Instagram posts; 5,657 followers.
+
 ## Style and Aesthetic
+
+Playful yet grounded in sophistication and style — Terri Conrad's own framing. Draws on English aesthetics, botanicals, and a strong love of colour. Selected Instagram patterns suggest bright, all-over florals and eclectic pattern-mixing collections in saturated palettes.
 
 ## Techniques and Tools
 
+Self-taught, with no formal art training at the outset. Develops patterns for fabric, wallpaper, and stationery application. Works across print-on-demand platforms and licensed formats.
+
 ## Markets and Clients
+
+Stationery, home decor, and gifting. Documented licensees include Creative Co-op, Wendover Art Group, Prima Designs, Lang, Crown Pointe Graphics, and Anthropologie. Also produces designs on [[Spoonflower]]. Licenses for everyday, holiday, and Christian-inspired products.
 
 ## Portfolio and Presence
 
+- Website: https://terriconraddesigns.com
+- Instagram: @terriconraddesigns (5,657 followers, 1,093 posts)
+- Spoonflower: terriconraddesigns
+
 ## Career Path
+
+Self-taught artist who launched her creative business as a stay-at-home parent, attending Surtex and the National Stationery Show in New York before social media. Built a licensed art practice from Los Angeles County over many years. Also founded Bloom True, an art and wellness community.
 
 ## Pattern Focus
 
+Bright, cheerful all-over florals are the signature output. Selected Instagram patterns confirm colorful repeat compositions in joyful palettes. Also produces classic patterns and inspirational typography-integrated work for Christian-market gifting.
+
 ## Connections
+
+- [[Spoonflower]] — print-on-demand platform
+- [[raw/companies/anthropologie]] — documented licensee
+- [[Stationery]] — primary market
+- [[Home Decor]] — primary market
+- [[Art Licensing]] — core business model
+- [[Surtex]] — attended early in career

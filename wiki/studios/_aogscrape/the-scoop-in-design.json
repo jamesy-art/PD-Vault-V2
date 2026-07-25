@@ -1,0 +1,71 @@
+{
+  "slug": "the-scoop-in-design",
+  "name": "The Scoop In Design",
+  "website": "https://thescoop.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/the-scoop-in-design.md",
+  "scraped_at": "2026-06-05T23:25:16.143Z",
+  "status": "scraped",
+  "website_title": "The Scoop in Design, INC",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://thescoop.thepatterncloud.com/home.php",
+      "text": "The Scoop in Design, INC HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN FLOWERS FLOWERS EVERYWHERE GEOS - STRIPES - PLAIDS TROPICALS CONVERSATIONALS DITSIES WILD CHILD - ANIMAL FOLLOW on INSTAGRAM PAISLEY BOHEMIAN RHAPSODY ETHNIC JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://images.v2.thepatterncloud.com//studio_145/uspzlawtrogk.png",
+        "https://thescoop.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/ftzsoiykwlba.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/geos.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/trop.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/znfghletvckp.jpg",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/dit.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/wild.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/kvhwbuzqjdcg.jpg",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/owpcdmuzsxgi.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/bobh.png",
+        "https://images.v2.thepatterncloud.com//studio_145/homePage/hqvflmtiznkc.png",
+        "https://thescoop.thepatterncloud.com/img/social/facebook.png",
+        "https://thescoop.thepatterncloud.com/img/social/instagram.png",
+        "https://thescoop.thepatterncloud.com/img/social/pinterest.png",
+        "https://thescoop.thepatterncloud.com/img/social/twitter.png",
+        "https://thescoop.thepatterncloud.com/img/social/facebookB.png",
+        "https://thescoop.thepatterncloud.com/img/social/instagramB.png",
+        "https://thescoop.thepatterncloud.com/img/social/pinterestB.png",
+        "https://thescoop.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://thescoop.thepatterncloud.com/about.php",
+      "text": "The Scoop in Design, INC",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://thescoop.thepatterncloud.com/home.php\nThe Scoop in Design, INC HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN FLOWERS FLOWERS EVERYWHERE GEOS - STRIPES - PLAIDS TROPICALS CONVERSATIONALS DITSIES WILD CHILD - ANIMAL FOLLOW on INSTAGRAM PAISLEY BOHEMIAN RHAPSODY ETHNIC JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://thescoop.thepatterncloud.com/about.php\nThe Scoop in Design, INC",
+  "website_about_clean": "SOURCE: https://thescoop.thepatterncloud.com/home.php\nThe Scoop in Design, INC HOME ABOUT EXCLUSIVE DESIGNS SIGN UP LOG IN FLOWERS FLOWERS EVERYWHERE GEOS - STRIPES - PLAIDS TROPICALS CONVERSATIONALS DITSIES WILD CHILD - ANIMAL FOLLOW on INSTAGRAM PAISLEY BOHEMIAN RHAPSODY ETHNIC JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://thescoop.thepatterncloud.com/about.php\nThe Scoop in Design, INC",
+  "website_images": [
+    "https://images.v2.thepatterncloud.com//studio_145/uspzlawtrogk.png",
+    "https://thescoop.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/ftzsoiykwlba.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/geos.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/trop.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/znfghletvckp.jpg",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/dit.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/wild.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/kvhwbuzqjdcg.jpg",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/owpcdmuzsxgi.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/bobh.png",
+    "https://images.v2.thepatterncloud.com//studio_145/homePage/hqvflmtiznkc.png",
+    "https://thescoop.thepatterncloud.com/img/social/facebook.png",
+    "https://thescoop.thepatterncloud.com/img/social/instagram.png",
+    "https://thescoop.thepatterncloud.com/img/social/pinterest.png",
+    "https://thescoop.thepatterncloud.com/img/social/twitter.png",
+    "https://thescoop.thepatterncloud.com/img/social/facebookB.png",
+    "https://thescoop.thepatterncloud.com/img/social/instagramB.png",
+    "https://thescoop.thepatterncloud.com/img/social/pinterestB.png",
+    "https://thescoop.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude"
+}

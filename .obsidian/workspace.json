@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "339c5495cf6dc51e",
+        "id": "9dc3d7e5368c957c",
         "type": "tabs",
         "children": [
           {
-            "id": "8e228a70ba35e10b",
+            "id": "f0d5caf11c4beb18",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/designers/_staging/allisonblackillustration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "allisonblackillustration"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"level: level_3\"",
+                "query": "en.wikipedia.org/wiki/Pattern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.50390243530273
+    "width": 306.50390243530273
   },
   "right": {
     "id": "29cbb5d4098ef23b",
@@ -181,53 +184,53 @@
       "css-editor:Open CSS editor quick switcher": false
     }
   },
-  "active": "6d19b1f65923971b",
+  "active": "f0d5caf11c4beb18",
   "lastOpenFiles": [
-    "wiki/designers/_staging/amesnewtondesigns.md",
-    "wiki/designers/_staging/amelia_graham_print.md",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1764790638_3779660282332037546_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1764790638_3779660282332006517_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1763069138_3765219293232185888_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1763069138_3765219293181901871_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1763069138_3765219293165071391_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1756315915_3708569150488725716_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1749152368_3648476960086072706_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1729510265_3483707059109015354_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1713468170_3349136214022068159_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/instagram/amelia_graham_print_1693150325_3178697778254901583_1189839990.jpg",
-    "wiki/assets/designers/amelia_graham_print/profile/Unconfirmed 2106.crdownload",
-    "wiki/designers/_staging/ambersolbergmakery.md",
-    "wiki/designers/_staging/05_anukriti.md",
-    "wiki/designers/_staging/_vivdesign.md",
-    "wiki/designers/_staging/_marsuarez_.md",
-    "wiki/designers/_staging/_pippa.and.i_.md",
-    "wiki/designers/_staging/_marcelopez_.md",
+    "scripts/generateAffiliateProductMds.cjs",
+    "wiki/designers/_staging/_maryamsabry.md",
     "wiki/designers/_staging/_lulukins_.md",
-    "wiki/designers/_staging/alliconnerillustration.md",
-    "wiki/designers/_staging/allisonblackillustration.md",
-    "wiki/designers/_staging/amandagracedesign.md",
-    "wiki/assets/designers/amandagracedesign/profile/Unconfirmed 152816.crdownload",
-    "wiki/designers/_staging/amanda_dilworth.md",
-    "wiki/assets/designers/amanda_dilworth/profile/Unconfirmed 775571.crdownload",
-    "wiki/designers/_staging/althea___studio.md",
-    "wiki/assets/designers/althea___studio/profile/Unconfirmed 349622.crdownload",
-    "wiki/assets/designers/allisonblackillustration/profile/Unconfirmed 186350.crdownload",
-    "wiki/assets/designers/alliconnerillustration/profile/Unconfirmed 326576.crdownload",
-    "wiki/designers/_staging/alisonmporter.md",
-    "wiki/designers/_staging/alishadestudio.md",
-    "wiki/designers/_staging/aliciahayesart.md",
-    "wiki/assets/designers/aliciahayesart/profile/Unconfirmed 697318.crdownload",
-    "wiki/designers/_staging/alicepurlstudio.md",
-    "wiki/assets/designers/alicepurlstudio/profile/Unconfirmed 14582.crdownload",
-    "wiki/designers/_staging/aliceemilytextiles.md",
-    "wiki/assets/designers/aliceemilytextiles/profile/Unconfirmed 431968.crdownload",
-    "wiki/designers/_staging/ali.wynne.pattern.md",
-    "wiki/assets/designers/ali.wynne.pattern/profile/Unconfirmed 219669.crdownload",
-    "wiki/designers/_staging/alexfoxley.md",
-    "wiki/designers/_staging/alexandrakfarmer.md",
-    "wiki/designers/_staging/alexandragalibert.md",
-    "wiki/designers/_staging/alexandrabordallo.md",
-    "wiki/designers/_staging/abey_print_studio.md",
-    "wiki/designers/_staging/a.d.r.i.valenzuela.md"
+    "wiki/types/_ready/zigzag-pattern.md",
+    "wiki/types/_ready/zebra-pattern.md",
+    "wiki/types/_ready/yellow-pattern.md",
+    "wiki/types/_ready/wood-pattern.md",
+    "wiki/types/_ready/white-pattern.md",
+    "wiki/types/_ready/wave-pattern.md",
+    "wiki/types/_ready/watermelon-pattern.md",
+    "wiki/types/_ready/watercolor-pattern.md",
+    "wiki/types/_ready/vintage-pattern.md",
+    "wiki/types/_ready/vegetable-pattern.md",
+    "wiki/types/_ready/unicorn-pattern.md",
+    "wiki/types/_ready/types-of-repeat-pattern.md",
+    "wiki/types/_ready/tropical-pattern.md",
+    "wiki/types/_ready/triangle-pattern.md",
+    "wiki/types/_ready/trellis-pattern.md",
+    "wiki/types/_ready/tiger-pattern.md",
+    "wiki/types/_ready/texture-pattern.md",
+    "wiki/types/_ready/tessellation-pattern.md",
+    "wiki/types/_ready/tartan-pattern.md",
+    "wiki/types/_ready/symmetry-pattern.md",
+    "wiki/types/_ready/swirl-pattern.md",
+    "wiki/types/_ready/stripe-pattern.md",
+    "wiki/types/_ready/strawberry-pattern.md",
+    "scripts/addTypeLearnMoreFields.js",
+    "wiki/assets/types/animal-pattern/profile/animal-pattern-image.svg",
+    "wiki/assets/types/animal-pattern/profile",
+    "wiki/assets/types_icons/animal-pattern-image.svg",
+    "wiki/assets/types/directional-pattern/profile/directional-pattern-image.svg",
+    "wiki/assets/types/directional-pattern/profile",
+    "wiki/assets/types_icons/directional-pattern-image.svg",
+    "wiki/assets/types/zigzag-pattern/profile/zigzag-pattern-image.svg",
+    "wiki/assets/types/zigzag-pattern/profile",
+    "wiki/assets/types/zebra-pattern/profile/zebra-pattern-image.svg",
+    "wiki/assets/types/zebra-pattern/profile",
+    "wiki/assets/types/yellow-pattern/profile/yellow-pattern-image.svg",
+    "wiki/assets/types/yellow-pattern/profile",
+    "wiki/assets/types/wood-pattern/profile/wood-pattern-image.svg",
+    "wiki/assets/types/wood-pattern/profile",
+    "wiki/assets/types/white-pattern/profile/white-pattern-image.svg",
+    "wiki/assets/types/white-pattern/profile",
+    "wiki/assets/types/wave-pattern/profile/wave-pattern-image.svg",
+    "wiki/assets/types/wave-pattern/profile",
+    "wiki/assets/types/watermelon-pattern/profile"
   ]
 }

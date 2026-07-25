@@ -25,7 +25,7 @@ bio: ''
 website: 'https://Juliamiller.com.au'
 website_about: ''
 accepted: 12/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/by_juliamiller
 profile_url: ''
 instagram_images:
@@ -42,8 +42,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Julia Miller
 website_meta_description: ''
 website_about_raw: >-
@@ -248,7 +251,7 @@ open_to:
 categories:
   - Womenswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -264,44 +267,123 @@ instagram_business_account: false
 instagram_profile_pic_url: >-
   https://instagram.foma1-2.fna.fbcdn.net/v/t51.2885-19/441491532_431159389698694_9027160011959738576_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzUuYzIifQ&_nc_ht=instagram.foma1-2.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2gGYrFJZ4BxnuLeiWpZw14_RZvy573lE9odluqehkqBkpYzi4wL6bnALaOsYNpkC-Ng&_nc_ohc=JxE1peOWCXMQ7kNvwH9bCLG&_nc_gid=QXIBYA4-dKifTZcfz2vdBw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7h3Q05QrFH6C03koPu8dsw3R6EWyaUlFymVH9BFZkiJw&oe=6A13E059&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/by_juliamiller/profile/441491532_431159389698694_9027160011959738576_n.jpg
+instagram_profile_image_bytes: 7912
+instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/by_juliamiller/profile/441491532_431159389698694_9027160011959738576_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/by_juliamiller/profile/441491532_431159389698694_9027160011959738576_n.jpg
+profile_image_local: >-
+  ../../assets/designers/by_juliamiller/profile/441491532_431159389698694_9027160011959738576_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/by_juliamiller/profile/441491532_431159389698694_9027160011959738576_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_1770156000_3824668447738024137_51841285845.jpg
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_23_624738969_17960043377899066_7831658659522907960_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_42_624893440_18105745195758483_5243277399130613193_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_44_503576662_4154193974815215_7386533292563163786_n.jpeg
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_55_619502823_18047632166489304_6858051517230102635_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_58_658925980_18336571498173760_4050055253037875362_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_59_622277955_18107730151676661_5055714916473929531_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_61_656141141_18129778957553260_1285472515886348611_n.webp
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_1770156000_3824668447738024137_51841285845.jpg
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_23_624738969_17960043377899066_7831658659522907960_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_44_503576662_4154193974815215_7386533292563163786_n.jpeg
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_55_619502823_18047632166489304_6858051517230102635_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_58_658925980_18336571498173760_4050055253037875362_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_61_656141141_18129778957553260_1285472515886348611_n.webp
+selected_placements:
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_42_624893440_18105745195758483_5243277399130613193_n.webp
+  - >-
+    ../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_59_622277955_18107730151676661_5055714916473929531_n.webp
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # by_juliamiller
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/by_juliamiller/profile/441491532_431159389698694_9027160011959738576_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_1770156000_3824668447738024137_51841285845.jpg)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_1770156000_3824668447738024137_51841285845.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_23_624738969_17960043377899066_7831658659522907960_n.webp)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_23_624738969_17960043377899066_7831658659522907960_n.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_42_624893440_18105745195758483_5243277399130613193_n.webp)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_42_624893440_18105745195758483_5243277399130613193_n.webp --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_44_503576662_4154193974815215_7386533292563163786_n.jpeg)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_44_503576662_4154193974815215_7386533292563163786_n.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_55_619502823_18047632166489304_6858051517230102635_n.webp)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_55_619502823_18047632166489304_6858051517230102635_n.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_58_658925980_18336571498173760_4050055253037875362_n.webp)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_58_658925980_18336571498173760_4050055253037875362_n.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_59_622277955_18107730151676661_5055714916473929531_n.webp)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_59_622277955_18107730151676661_5055714916473929531_n.webp --> | [ ] | [x] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_61_656141141_18129778957553260_1285472515886348611_n.webp)<br><!-- image:../../assets/designers/by_juliamiller/instagram/by_juliamiller_imageye___-_imgi_61_656141141_18129778957553260_1285472515886348611_n.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Julia Miller is a Brisbane-based textile print designer with over a decade of professional experience in graphic and textile design. She specialises in hand-painted patterns for fashion and swimwear brands, offering a curated print library alongside a custom textile design service. She also provides brand identity and graphic design support for fashion clients.
+
 ## Style and Aesthetic
+
+Six selected pattern images and two placement images suggest a hand-painted aesthetic with organic, nature-inspired qualities. The website describes her inspiration as nature and time spent by the ocean — consistent with a coastal, feminine aesthetic suited to swimwear and womenswear. Selected placements indicate fashion or swimwear garment application. The print library is described as exclusive with controlled registration to protect design integrity.
 
 ## Techniques and Tools
 
+Hand-painting is the primary and explicitly documented technique. All designs are described as "bespoke hand painted patterns" and "unique hand painted textile designs." Works are available with colour and scale customisation to suit collection requirements. Skills listed include painting, graphic design, pattern design, colour theory, market adaptation, communication, and client collaboration.
+
 ## Markets and Clients
+
+Primary market: fashion and swimwear brands. The website is structured around fashion brand buyers seeking exclusive, customisable prints. Services include: print library access (by registration), custom textile design, brand identity, and graphic design. The print library requires registration approval to preserve exclusivity.
 
 ## Portfolio and Presence
 
+- Website: juliamiller.com.au (print library access by registration)
+- Instagram: @By_juliamiller (612 followers, 91 posts)
+- Contact: hello@juliamiller.com.au
+
 ## Career Path
+
+Julia Miller is based in Brisbane, Australia. She has worked as a professional graphic and textile designer for over a decade. Her inspiration draws on nature and coastal life. No formal education institution is named in available sources.
 
 ## Pattern Focus
 
+Six selected patterns and two placement images confirm a fashion-facing print practice with direct garment application evidence. The print library model indicates a curated, commercially ready collection. Colour and scale customisation are offered for buyer adaptation to seasonal collections.
+
 ## Connections
+
+- [[Womenswear]] — primary market
+- [[Swimwear]] — documented focus
+- [[Fashion]] — primary client base
+- [[Licensing]] — print library and custom supply model
+- [[Australia]] — Brisbane-based

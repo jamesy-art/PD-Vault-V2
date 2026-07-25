@@ -26,7 +26,7 @@ bio: ''
 website: 'https://samjaynedesign.co.uk'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/samjayne_design
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Sam Jayne Design
 website_meta_description: Sam Jayne Design
 website_about_raw: >-
@@ -293,7 +296,7 @@ categories:
   - Womenswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -310,45 +313,140 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/362998806_306166958561619_8837224056400109728_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE5i-Jg83xpvzQ6ec09vMgj0pfxMLG0wm_PRUvIsyDLz-l74oZ5trg7OKiv_ewp24g&_nc_ohc=xnA36ycPvk8Q7kNvwHJdh3H&_nc_gid=DdmQvljcFU-A_fwgXqUxKg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4RIuw-ceiXBafKQjW7fqvcpFAP3NFzfVnjq2xO8yxcfw&oe=6A13EB10&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.2885-19/362998806_306166958561619_8837224056400109728_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE5i-Jg83xpvzQ6ec09vMgj0pfxMLG0wm_PRUvIsyDLz-l74oZ5trg7OKiv_ewp24g&_nc_ohc=xnA36ycPvk8Q7kNvwHJdh3H&_nc_gid=DdmQvljcFU-A_fwgXqUxKg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4RIuw-ceiXBafKQjW7fqvcpFAP3NFzfVnjq2xO8yxcfw&oe=6A13EB10&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/samjayne_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7608
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/samjayne_design/profile/362998806_306166958561619_8837224056400109728_n.jpg
+instagram_profile_image_bytes: 184825
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/samjayne_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/samjayne_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/samjayne_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/samjayne_design/profile/362998806_306166958561619_8837224056400109728_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/samjayne_design/profile/362998806_306166958561619_8837224056400109728_n.jpg
+profile_image_local: >-
+  ../../assets/designers/samjayne_design/profile/362998806_306166958561619_8837224056400109728_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/samjayne_design/profile/362998806_306166958561619_8837224056400109728_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1661237920_2910997123353281517_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1661326903_2911743568838686999_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1666078064_2951599188806894038_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1669111166_2977042694572528825_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1669289531_2978538926507575309_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871985861456646_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871986096160846_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1674500624_3022252745595305583_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1675801065_3033161634381593503_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1677581315_3048095454428082042_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1679328946_3062755646847417683_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1679328946_3062755647174501286_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1679943346_3067909604003984735_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1679943346_3067909604205168520_8423008376.jpg
+instagram_image_count: 14
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1661237920_2910997123353281517_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1661326903_2911743568838686999_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1666078064_2951599188806894038_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1669111166_2977042694572528825_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871986096160846_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1674500624_3022252745595305583_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1675801065_3033161634381593503_8423008376.jpg
+  - >-
+    ../../assets/designers/samjayne_design/instagram/samjayne_design_1677581315_3048095454428082042_8423008376.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # samjayne_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/samjayne_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/samjayne_design/profile/362998806_306166958561619_8837224056400109728_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1661237920_2910997123353281517_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1661237920_2910997123353281517_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1661326903_2911743568838686999_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1661326903_2911743568838686999_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1666078064_2951599188806894038_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1666078064_2951599188806894038_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1669111166_2977042694572528825_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1669111166_2977042694572528825_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1669289531_2978538926507575309_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1669289531_2978538926507575309_8423008376.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871985861456646_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871985861456646_8423008376.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871986096160846_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1673024722_3009871986096160846_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1674500624_3022252745595305583_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1674500624_3022252745595305583_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1675801065_3033161634381593503_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1675801065_3033161634381593503_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1677581315_3048095454428082042_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1677581315_3048095454428082042_8423008376.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1679328946_3062755646847417683_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1679328946_3062755646847417683_8423008376.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1679328946_3062755647174501286_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1679328946_3062755647174501286_8423008376.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1679943346_3067909604003984735_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1679943346_3067909604003984735_8423008376.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/samjayne_design/instagram/samjayne_design_1679943346_3067909604205168520_8423008376.jpg)<br><!-- image:../../assets/designers/samjayne_design/instagram/samjayne_design_1679943346_3067909604205168520_8423008376.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Samantha Keyte is a surface pattern designer, illustrator, and creative studio founder based in the North West of England, trading as Sam Jayne Design. She studied Textiles/Surface Pattern Design at university and launched her business approximately six years ago after leaving an in-house design role. Her work spans commercial pattern design, packaging, branding, and illustration, with documented clients including NEXT, Primark, Tesco, John Lewis, Paperchase, and TKmaxx. Alongside the B2B studio she runs a direct-to-consumer homeware and stationery product line.
+
 ## Style and Aesthetic
+
+Bold, playful, and colour-driven, with pink as the dominant signature. Her work is self-described as fun and eye-catching — a tone consistent across commercial clients and her own product range. A stated obsession with polka dots underpins much of her repeat pattern work. Selected Instagram images suggest illustration-based surface patterns with strong graphic energy and a joyful, positivity-led sensibility.
 
 ## Techniques and Tools
 
+Trained in textiles and surface pattern design at degree level. Uses illustration as the foundation for pattern development. Works across branding, logo design, pattern, packaging, and bespoke design. Patterns documented on packaging, apparel, stationery, tissue paper, and pet apparel.
+
 ## Markets and Clients
+
+Commercial clients include NEXT, Primark, Tesco, John Lewis, Paperchase, and TKmaxx. Own-brand products include printed homeware (jars), stationery (sell-out planner), and UVDTF transfer packs available wholesale. Offers pattern, packaging, and branding services to other businesses via her design studio.
 
 ## Portfolio and Presence
 
+- Website: samjaynedesign.co.uk
+- Instagram: @samjayne_design (63,900+ followers, 2,280+ posts)
+
 ## Career Path
+
+Studied Textiles/Surface Pattern Design at university. Worked several years as a designer for another company before launching Sam Jayne Design around six years ago. Built the business to encompass a consumer product line alongside a B2B creative studio.
 
 ## Pattern Focus
 
+Playful illustration-based surface patterns centred on a pink palette. Polka dots and colourful doodle motifs are recurring features. Selected Instagram patterns suggest an all-over, character-driven illustration style well-suited to gifting, stationery, and lifestyle markets. Patterns have been placed on packaging, apparel, stationery, and homeware.
+
 ## Connections
+
+- [[Stationery]] (market)
+- [[Womenswear]] (market)
+- [[Gifting]] (market)
+- [[Packaging Design]] (service)
+- [[Surface Pattern Design]] (core discipline)

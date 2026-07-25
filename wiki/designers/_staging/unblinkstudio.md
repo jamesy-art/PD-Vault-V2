@@ -24,7 +24,7 @@ bio: ''
 website: 'https://unblinkstudio.com'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/unblinkstudio
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'UnBlink Studio by Jackie Tahara: Print and Pattern Design and Illustration'
 website_meta_description: >-
   Fresh and Gorgeous Print and Pattern Design, Illustration and Art Created by
@@ -270,7 +273,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -287,45 +290,169 @@ instagram_profile_pic_url: >-
   https://instagram.fric1-1.fna.fbcdn.net/v/t51.2885-19/377839504_250808247385723_8634474852159322349_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=instagram.fric1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHWWbs2bFX0YjMehnIjMEBJh7Db6OfcqmpL6Ab2rn5jC8EY3SNNsU_IfiIrrE-tkyE&_nc_ohc=zCDlI4jyl_IQ7kNvwFsqRHU&_nc_gid=nI4M2ejAQGENFLS5IqezyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iwObcUj1NuqP8kG_rcbpYtIUPT6iMN6xTpXShC8bm9A&oe=6A140480&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fric1-1.fna.fbcdn.net/v/t51.2885-19/377839504_250808247385723_8634474852159322349_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=instagram.fric1-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gHWWbs2bFX0YjMehnIjMEBJh7Db6OfcqmpL6Ab2rn5jC8EY3SNNsU_IfiIrrE-tkyE&_nc_ohc=zCDlI4jyl_IQ7kNvwFsqRHU&_nc_gid=nI4M2ejAQGENFLS5IqezyA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6iwObcUj1NuqP8kG_rcbpYtIUPT6iMN6xTpXShC8bm9A&oe=6A140480&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6516
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/unblinkstudio/profile/377839504_250808247385723_8634474852159322349_n.jpg
+instagram_profile_image_bytes: 38664
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/unblinkstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/unblinkstudio/profile/377839504_250808247385723_8634474852159322349_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/unblinkstudio/profile/377839504_250808247385723_8634474852159322349_n.jpg
+profile_image_local: >-
+  ../../assets/designers/unblinkstudio/profile/377839504_250808247385723_8634474852159322349_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/unblinkstudio/profile/377839504_250808247385723_8634474852159322349_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901175587887827_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901177945078496_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1776281177_3876049829088967549_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365380516359_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365900604631_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912069513791_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912522521712_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397913134838881_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397914686731377_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397914862935758_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092019041481236_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092020735947532_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092023051223264_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092026029168819_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236782909844766_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236783304071074_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236784084215284_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236784696579182_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985957796555215_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985958853522905_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608367772166454_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608368560715922_2513712178.jpg
+instagram_image_count: 22
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901177945078496_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365380516359_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912069513791_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092019041481236_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236783304071074_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985957796555215_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608367772166454_2513712178.jpg
+  - >-
+    ../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608368560715922_2513712178.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # unblinkstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/unblinkstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/unblinkstudio/profile/377839504_250808247385723_8634474852159322349_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901175587887827_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901175587887827_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901177945078496_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1775667409_3870901177945078496_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1776281177_3876049829088967549_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1776281177_3876049829088967549_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365380516359_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365380516359_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365900604631_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1779901395_3906418365900604631_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912069513791_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912069513791_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912522521712_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397912522521712_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397913134838881_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397913134838881_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397914686731377_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397914686731377_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397914862935758_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780256590_3909397914862935758_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092019041481236_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092019041481236_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092020735947532_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092020735947532_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092023051223264_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092023051223264_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092026029168819_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780339337_3910092026029168819_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236782909844766_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236782909844766_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236783304071074_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236783304071074_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236784084215284_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236784084215284_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236784696579182_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780595022_3912236784696579182_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985957796555215_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985957796555215_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985958853522905_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780684308_3912985958853522905_2513712178.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608367772166454_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608367772166454_2513712178.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608368560715922_2513712178.jpg)<br><!-- image:../../assets/designers/unblinkstudio/instagram/unblinkstudio_1780758503_3913608368560715922_2513712178.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jackie Tahara is the designer behind UnBlink Studio, based in Victoria, British Columbia, Canada. A surface pattern designer and illustrator, she produces an extensive portfolio spanning home decor, wallpaper, textiles, apparel, tech accessories, stationery, and wall art. Tahara operates on a licensing model and has been featured in major industry publications and shown work at international trade events.
+
 ## Style and Aesthetic
+
+Tahara's work draws on a wide frame of reference: retro pattern design from the 1950s–70s, the Japandi aesthetic, and the textiles and craft traditions encountered through extensive international travel — Indonesian batiks, Japanese kimonos, Middle Eastern tile-work, aloha shirts, Mexican folk art, and indigo dyeing traditions. Selected Instagram images suggest a range spanning botanical florals, fauna-based novelty prints, and abstract motifs, with warmth and vibrancy characteristic of vintage-influenced work.
 
 ## Techniques and Tools
 
+Works in both digital illustration and traditional media. Design categories include flora, tropicals, fauna, abstracts, geometrics, kitchen and food, novelty, and lettering. Portfolio spans 10+ distinct design categories across over 50 designs on Spoonflower.
+
 ## Markets and Clients
+
+Designs primarily for home decor, wallpaper, textiles, apparel, tech accessories, stationery, and wall art. Wallpaper designs appeared at the Toronto International Film Festival through an ongoing collaboration with celebrity photographer Chris Chapman (TIFF 2021, 2022, 2023, 2025). Operates on a flat-fee licensing model with optional royalties; bulk licensing discounts available for five or more designs.
 
 ## Portfolio and Presence
 
+- Website: unblinkstudio.com
+- Instagram: @unblinkstudio (6,699 followers)
+- Published in: Uppercase Magazine (SPDG #41, #49, #65), LUXE Magazine, The World of Interiors Magazine, Design Milk, WTiN, Patterned.com, Spoonflower Blog, Print & Pattern Blog
+- Work in: *Create Pattern Designs With Different Layouts* (Jodoin Studio, 2022)
+- Exhibited: Adobe Textile Designer Booth, ITMA Barcelona (June 2019); Adobe Design to Print Booth, Adobe Max, Los Angeles (November 2019)
+
 ## Career Path
+
+Tahara founded UnBlink Studio in Victoria, BC, working from a garden studio. Her practice is driven by global observation — she has won multiple public art competitions and her work has been included in several public art projects. The studio name reflects a philosophy of open-eyed creative attention: studying something beautiful, or drifting into deep creative thought.
 
 ## Pattern Focus
 
+Portfolio is broad: flora, tropicals, fauna, abstracts and geometrics, kitchen and food, novelty and special occasions, young at heart, lettering, and graphic T-shirt designs. Selected Instagram images suggest botanical, fauna-based, and mid-century-influenced patterns. The TIFF collaboration positions her wallpaper work in a premium cultural context.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Uppercase Magazine]]
+- [[Surface Pattern Design]]
+- [[Licensing]]
+- [[Home Decor]]
+- [[Wallpaper]]
+- [[Canada]]

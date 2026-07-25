@@ -20,7 +20,7 @@ bio: ''
 website: 'https://vendelavrensk.com'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/vendelavrensk
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Vendela Vrensk Illustration
 website_meta_description: ''
 website_about_raw: >-
@@ -239,7 +242,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -259,45 +262,217 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/501238427_18077072386847446_6145313573912943220_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHsH9vN08TpjuiQ2_cUqYEOYtK-XVXAVp53NMoc7lIF2ke9Hv7cbwIrP5rX6EA4zfg&_nc_ohc=615g3PAvi2YQ7kNvwHWQdk8&_nc_gid=kcrKEvkL6xo2gn25hRMe6Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4BWxjsddGN5YuryS1yJPs6zdHW157_JODAF0aq5eCCIg&oe=6A13F821&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/501238427_18077072386847446_6145313573912943220_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHsH9vN08TpjuiQ2_cUqYEOYtK-XVXAVp53NMoc7lIF2ke9Hv7cbwIrP5rX6EA4zfg&_nc_ohc=615g3PAvi2YQ7kNvwHWQdk8&_nc_gid=kcrKEvkL6xo2gn25hRMe6Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4BWxjsddGN5YuryS1yJPs6zdHW157_JODAF0aq5eCCIg&oe=6A13F821&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6744
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/vendelavrensk/profile/501238427_18077072386847446_6145313573912943220_n.jpg
+instagram_profile_image_bytes: 134845
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/vendelavrensk/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/vendelavrensk/profile/501238427_18077072386847446_6145313573912943220_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/vendelavrensk/profile/501238427_18077072386847446_6145313573912943220_n.jpg
+profile_image_local: >-
+  ../../assets/designers/vendelavrensk/profile/501238427_18077072386847446_6145313573912943220_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/vendelavrensk/profile/501238427_18077072386847446_6145313573912943220_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959500595374_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959509125376_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959626518429_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892417641234_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892585385896_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892610661757_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999676477_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999690559_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999757750_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192492365_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192653008_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509200916470_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201004286_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201024850_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509209368973_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509268220159_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555661184421_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555686182520_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555862334034_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555912684801_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604660916635846_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661084497466_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661092978679_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661101396693_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661101419576_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160046666_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160088248_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160092346_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465053663057_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465070280532_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246427691_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246545026_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465254870083_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263209929_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263265337_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465271708356_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465288511839_25231095445.jpg
+instagram_image_count: 37
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192653008_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201004286_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555661184421_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160046666_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465053663057_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246427691_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263209929_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465271708356_25231095445.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959500595374_25231095445.jpg
+  - >-
+    ../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959509125376_25231095445.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # vendelavrensk
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vendelavrensk/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/vendelavrensk/profile/501238427_18077072386847446_6145313573912943220_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959500595374_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959500595374_25231095445.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959509125376_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959509125376_25231095445.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959626518429_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1702916687_3260623959626518429_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892417641234_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892417641234_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892585385896_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892585385896_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892610661757_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1710762081_3326435892610661757_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999676477_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999676477_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999690559_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999690559_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999757750_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207508999757750_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192492365_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192492365_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192653008_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509192653008_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509200916470_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509200916470_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201004286_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201004286_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201024850_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509201024850_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509209368973_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509209368973_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509268220159_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1718960296_3395207509268220159_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555661184421_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555661184421_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555686182520_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555686182520_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555862334034_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555862334034_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555912684801_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1724145548_3438704555912684801_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604660916635846_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604660916635846_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661084497466_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661084497466_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661092978679_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661092978679_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661101396693_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661101396693_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661101419576_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661101419576_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160046666_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160046666_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160088248_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160088248_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160092346_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1729855686_3486604661160092346_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465053663057_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465053663057_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465070280532_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465070280532_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246427691_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246427691_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246545026_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465246545026_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465254870083_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465254870083_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263209929_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263209929_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263265337_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465263265337_25231095445.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465271708356_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465271708356_25231095445.jpg --> | [x] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465288511839_25231095445.jpg)<br><!-- image:../../assets/designers/vendelavrensk/instagram/vendelavrensk_1738853341_3562082465288511839_25231095445.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Vendela Vrensk is a Swedish illustrator based in Gijón, northern Spain, working in children's book illustration and editorial contexts. She is represented by @illustrateit_agency and is a member of @apiast.ilustracion. Her practice centres on narrative illustration, character design, and picture book work, with a strong commitment to themes of representation and feminism. She published her first children's book in Catalan with Editorial La Garba.
+
 ## Style and Aesthetic
+
+Selected Instagram patterns suggest a warm, characterful illustrative style — expressive figures and narrative compositions with a handcrafted quality. Work draws on storytelling traditions; images tend to convey scene or emotional moment rather than purely decorative pattern. Selected placements suggest editorial and book spread contexts. Colour palettes appear soft to mid-tone with lively, character-driven detail. Character design and catching "emotions and relations in pixels and ink" is cited as a primary focus.
 
 ## Techniques and Tools
 
+Works across digital illustration and traditional media; picture book work suggests integration of hand-crafted and digital processes. Experienced in editorial illustration for print contexts. Participated in the Illustrating Children's Books course at Make Art That Sells with agent Lilla Rogers and art director Zoë Tucker.
+
 ## Markets and Clients
+
+Primary markets: children's publishing, editorial illustration, and advocacy/social communication. Documented clients include RFSU (Swedish sexual health organisation), Unifem, Sequra, Editorial La Garba, Barceloneta Proa a la Mar, Dorisfilm, Film&TV, Sex og politikk (Norway), and Rubrik. Currently seeking representation for new projects.
 
 ## Portfolio and Presence
 
+- Website: https://vendelavrensk.com
+- Instagram: @vendelavrensk (1,419 followers, 516 posts)
+- Representation: @illustrateit_agency
+- Contact: vendela@vendelavrensk.com
+
 ## Career Path
+
+Swedish-born; lived in Barcelona for nearly ten years before relocating to Gijón, northern Spain. Published first children's book — Catalan-language picture book "La iaia velleta i el suquet de peix de la Barceloneta" (text by Ana Ayala, published by Editorial La Garba). Developed a practice spanning editorial, children's publishing, and social illustration. Member of @apiast.ilustracion professional association. Currently seeking agency representation for book projects.
 
 ## Pattern Focus
 
+Selected Instagram patterns suggest illustrated repeat-adjacent compositions — decorative, character-driven work with surface application potential. Pattern work is an extension of her illustration practice rather than a standalone SPD focus. Selected placements indicate book spread and editorial contexts. Suited to [[Children's Products]], [[Gift Wrap]], and [[Stationery]] contexts where illustrated narrative work is valued.
+
 ## Connections
+
+- @illustrateit_agency (representation)
+- @apiast.ilustracion (professional association)
+- Editorial La Garba (publisher)
+- RFSU (client)
+- [[Children's Book Illustration]]
+- [[Editorial Illustration]]
+- [[Kidswear]] (adjacent market)

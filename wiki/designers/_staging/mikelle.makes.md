@@ -23,7 +23,7 @@ bio: ''
 website: 'https://mikellewilliams.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mikelle.makes
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Mikelle Williams – Trend-smart Graphic Design
 website_meta_description: ''
 website_about_raw: >-
@@ -214,7 +217,7 @@ open_to: []
 categories:
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: |-
   GRAPHIC DESIGNER
   Thank you for taking the time to consider me for your graphic design position.
@@ -323,45 +326,163 @@ instagram_profile_pic_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/288496684_1391133394694648_5520110698802893318_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDkuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGS0jvO4CPxE6KZLYiZ956LAc8mMIRtYLz0dFISHjIEij9QV13duV9vN7btYsYrhzk&_nc_ohc=z5G20TDxswoQ7kNvwGNPoH8&_nc_gid=gupdsYcX8Q0ENcFa5erDXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4KURVfHfZhgGhk-KsBJMk03SQC5oMUShpIJrTm15ZpJA&oe=6A13DF07&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/288496684_1391133394694648_5520110698802893318_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDkuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGS0jvO4CPxE6KZLYiZ956LAc8mMIRtYLz0dFISHjIEij9QV13duV9vN7btYsYrhzk&_nc_ohc=z5G20TDxswoQ7kNvwGNPoH8&_nc_gid=gupdsYcX8Q0ENcFa5erDXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4KURVfHfZhgGhk-KsBJMk03SQC5oMUShpIJrTm15ZpJA&oe=6A13DF07&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mikelle.makes/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 9800
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mikelle.makes/profile/288496684_1391133394694648_5520110698802893318_n.jpg
+instagram_profile_image_bytes: 95881
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mikelle.makes/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mikelle.makes/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mikelle.makes/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mikelle.makes/profile/288496684_1391133394694648_5520110698802893318_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mikelle.makes/profile/288496684_1391133394694648_5520110698802893318_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mikelle.makes/profile/288496684_1391133394694648_5520110698802893318_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mikelle.makes/profile/288496684_1391133394694648_5520110698802893318_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1573067331_2171368611872334970_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645288980793_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645305718076_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828808362598_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828816649402_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828825205263_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828833547442_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828841917394_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360663283275_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360772165499_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470106319169_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470240529136_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739652970770028_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653146926209_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653264432766_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476216_3407923961626397465_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449731921473_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449790644477_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449891453541_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449941612649_24058748788.webp
+instagram_image_count: 20
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645305718076_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828825205263_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360663283275_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470106319169_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739652970770028_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476216_3407923961626397465_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449731921473_24058748788.webp
+selected_placements:
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1573067331_2171368611872334970_24058748788.jpg
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653146926209_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449891453541_24058748788.webp
+  - >-
+    ../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449941612649_24058748788.webp
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # mikelle.makes
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mikelle.makes/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mikelle.makes/profile/288496684_1391133394694648_5520110698802893318_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1573067331_2171368611872334970_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1573067331_2171368611872334970_24058748788.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645288980793_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645288980793_24058748788.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645305718076_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1591982034_2330036645305718076_24058748788.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828808362598_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828808362598_24058748788.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828816649402_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828816649402_24058748788.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828825205263_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828825205263_24058748788.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828833547442_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828833547442_24058748788.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828841917394_24058748788.jpg)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1593706180_2344499828841917394_24058748788.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360663283275_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360663283275_24058748788.webp --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360772165499_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1655401462_2862037360772165499_24058748788.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470106319169_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470106319169_24058748788.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470240529136_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1690750605_3158567470240529136_24058748788.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739652970770028_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739652970770028_24058748788.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653146926209_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653146926209_24058748788.webp --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653264432766_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720215826_3405739653264432766_24058748788.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476216_3407923961626397465_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476216_3407923961626397465_24058748788.webp --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449731921473_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449731921473_24058748788.webp --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449790644477_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449790644477_24058748788.webp --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449891453541_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449891453541_24058748788.webp --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449941612649_24058748788.webp)<br><!-- image:../../assets/designers/mikelle.makes/instagram/mikelle.makes_1720476393_3407925449941612649_24058748788.webp --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mikelle Williams is a Utah-based graphic designer and surface pattern designer, currently employed at Beddys (August 2024–present) where her role includes surface pattern design and trendspotting alongside digital, email, and advertising work. She has maintained a freelance graphic design practice since 2008 and holds a BFA in Graphic Design (Cum Laude) from Utah State University (2010).
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a varied surface pattern portfolio including ditsy repeats, novelty prints, and themed collections. The website documents Italian Autumn and Italian Summer collections, indicating seasonal, trend-responsive pattern development. Pattern vocabulary spans small-scale ditsies, all-over novelty prints, and colour-variant exploration.
 
 ## Techniques and Tools
 
+Adobe Suite (Illustrator, Photoshop, InDesign, Firefly, Fresco, Acrobat, XD, Express), Procreate, Figma, Canva, HTML/CSS, WordPress. Also documented: trendspotting, palette creation, colour theory, A/B testing. Extensive cross-discipline toolset spanning print and surface design alongside digital design practice.
+
 ## Markets and Clients
+
+Current employer: Beddys (bedding and home products). Previous employers with design scope: WildWorks/Animal Jam (social media, licensing guides), USANA Health Sciences, Waterford Institute. Surface pattern work is embedded within a broader graphic design career rather than a standalone SPD practice.
 
 ## Portfolio and Presence
 
+- Website: mikellewilliams.com
+- Instagram: @mikelle.makes (177 followers)
+
 ## Career Path
+
+BFA Graphic Design, Utah State University, May 2010 (Cum Laude). Waterford Institute (2010–2012), USANA Health Sciences (2013–2014), WildWorks/Animal Jam social media graphic designer (2014–2017), freelance practice (2008–present), Beddys graphic designer (August 2024–present).
 
 ## Pattern Focus
 
+Documented SPD output includes ditsy repeats (blue and pink colourway variants), novelty repeats and illustrations, Italian Autumn Collection, and Italian Summer Collection of Novelty Fabrics. Selected Instagram images suggest small-scale all-over repeat work and novelty print development, consistent with an apparel and home product context.
+
 ## Connections
+
+- [[Beddys]] — current employer; surface pattern design is a documented role
+- [[WildWorks]] — previous employer; Animal Jam licensing guide work
+- [[Ditsy Repeat]] — documented pattern format
+- [[Novelty Print]] — documented pattern format

@@ -27,7 +27,7 @@ bio: ''
 website: 'https://mirelapopescu.com'
 website_about: ''
 accepted: 17/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mirelapopescu_design
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Welcome - Mirela Popescu
 website_meta_description: >-
   Surface Pattern Designer, Illustrator & Hand Letterer creating beautiful
@@ -290,7 +293,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -307,45 +310,201 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/457618356_860457272329373_2821149989080521217_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gECkLNysa1N_83ty__Dj3VUuueo_RUR6G0j8oFp2traGc09_46OzBJAt3fNESK5D6o10Xwf4KXm-jqiibBrzcpW&_nc_ohc=B-rTvFuvzbYQ7kNvwHDDfkW&_nc_gid=CNROe7zI4I9LAPkPYwYYug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af44aWgxIb1arqon-WKtZb1t9YqiUrk7O6yu27T5M114LQ&oe=6A13D0C8&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/457618356_860457272329373_2821149989080521217_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gECkLNysa1N_83ty__Dj3VUuueo_RUR6G0j8oFp2traGc09_46OzBJAt3fNESK5D6o10Xwf4KXm-jqiibBrzcpW&_nc_ohc=B-rTvFuvzbYQ7kNvwHDDfkW&_nc_gid=CNROe7zI4I9LAPkPYwYYug&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af44aWgxIb1arqon-WKtZb1t9YqiUrk7O6yu27T5M114LQ&oe=6A13D0C8&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6681
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mirelapopescu_design/profile/457618356_860457272329373_2821149989080521217_n.jpg
+instagram_profile_image_bytes: 140039
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mirelapopescu_design/profile/457618356_860457272329373_2821149989080521217_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mirelapopescu_design/profile/457618356_860457272329373_2821149989080521217_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mirelapopescu_design/profile/457618356_860457272329373_2821149989080521217_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mirelapopescu_design/profile/457618356_860457272329373_2821149989080521217_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736241907_3540176166728128401_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736429396_3541748942035353584_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372106120247_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372131269795_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792023767370_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792032174632_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737553020_3551174578010191575_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737553020_3551174578010289303_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1739693174_3569127491008441516_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270586076478_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602752194_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602826517_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602838987_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270611085307_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741614476_3585244540856025338_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741873534_3587417675516647910_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742909472_3596107752873313219_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742996682_3596839327135129887_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744370309_3608362144597279767_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744370309_3608362144689553887_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744371938_3608375807282602887_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702394814796_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702411414385_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702612720741_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729528731106_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729528735217_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729637902653_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980347373357_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980531918791_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980548698326_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980867434623_53774399778.jpg
+instagram_image_count: 31
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372106120247_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792023767370_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1739693174_3569127491008441516_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602838987_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742909472_3596107752873313219_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744371938_3608375807282602887_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702411414385_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980347373357_53774399778.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736241907_3540176166728128401_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736429396_3541748942035353584_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792032174632_53774399778.jpg
+  - >-
+    ../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741614476_3585244540856025338_53774399778.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # mirelapopescu_design
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mirelapopescu_design/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mirelapopescu_design/profile/457618356_860457272329373_2821149989080521217_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736241907_3540176166728128401_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736241907_3540176166728128401_53774399778.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736429396_3541748942035353584_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736429396_3541748942035353584_53774399778.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372106120247_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372106120247_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372131269795_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1736859555_3545357372131269795_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792023767370_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792023767370_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792032174632_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737115190_3547501792032174632_53774399778.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737553020_3551174578010191575_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737553020_3551174578010191575_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737553020_3551174578010289303_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1737553020_3551174578010289303_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1739693174_3569127491008441516_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1739693174_3569127491008441516_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270586076478_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270586076478_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602752194_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602752194_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602826517_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602826517_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602838987_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270602838987_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270611085307_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1740135891_3572841270611085307_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741614476_3585244540856025338_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741614476_3585244540856025338_53774399778.jpg --> | [ ] | [x] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741873534_3587417675516647910_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1741873534_3587417675516647910_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742909472_3596107752873313219_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742909472_3596107752873313219_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742996682_3596839327135129887_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1742996682_3596839327135129887_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744370309_3608362144597279767_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744370309_3608362144597279767_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744370309_3608362144689553887_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744370309_3608362144689553887_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744371938_3608375807282602887_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1744371938_3608375807282602887_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702394814796_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702394814796_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702411414385_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702411414385_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702612720741_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1746708189_3627973702612720741_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729528731106_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729528731106_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729528735217_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729528735217_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729637902653_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1747917928_3638121729637902653_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980347373357_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980347373357_53774399778.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980531918791_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980531918791_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980548698326_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980548698326_53774399778.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980867434623_53774399778.jpg)<br><!-- image:../../assets/designers/mirelapopescu_design/instagram/mirelapopescu_design_1760354229_3742444980867434623_53774399778.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mirela Popescu is a Bucharest-based surface pattern designer, illustrator, and hand letterer. Her practice produces joyful, warm patterns for textiles, stationery, and home décor, alongside gentle illustrations and custom lettering work. She is available for licensing and commissions, operates a documented 4-step licensing process, and has been featured in *Uppercase Magazine* Issue No. 62 and the Pattern Designers Featured List. She also teaches and shares creative process content on social media.
+
 ## Style and Aesthetic
+
+Popescu describes her work as joyful, colourful, and warm, designed to make people feel at home. Selected Instagram images (8 patterns, 4 placements) suggest a cheerful, folk-inflected illustrative style — floral, botanical, and character-driven compositions with a hand-made warmth translated into commercial print-ready formats. Placement images show textile and stationery product applications consistent with documented licensing markets.
 
 ## Techniques and Tools
 
+Analogue beginnings feed into a documented digital production process: brush strokes and pencil sketches are scanned and cleaned up, then digitised and vectorised, and finalised as print-ready files (AI, PSD, PDF, PNG). Combines hand-painted and hand-drawn textures with precise digital finishing for licensing delivery.
+
 ## Markets and Clients
+
+Textiles, stationery, and home décor. Operates a 4-step licensing process for brand and product clients; custom commissions also accepted. Featured in *Uppercase Magazine* No. 62 and Pattern Designers Featured List. No specific commercial clients named beyond these references.
 
 ## Portfolio and Presence
 
+- Website: mirelapopescu.com
+- Instagram: @mirelapopescu_design (528 followers)
+- Contact: hello@mirelapopescu.com
+- Featured: *Uppercase Magazine* No. 62; Pattern Designers Featured List
+
 ## Career Path
+
+Held a career in corporate marketing before becoming a mother, which she identifies as the turning point that led her back to art and design. Built a practice as a surface pattern designer, illustrator, and hand letterer, self-directing her development into a licensing and commission-based business. Also active in teaching and process-sharing.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns, 4 placements) suggest illustrative, warm, folk-informed surface patterns — florals, botanicals, and character motifs developed from analogue mark-making and refined for print production. Placement images show fabric, stationery, and home décor applications consistent with stated markets.
+
 ## Connections
+
+- [[Uppercase Magazine]] — featured in issue no. 62
+- [[Surface Pattern Licensing]] — primary business model
+- [[Textiles]] — target market
+- [[Stationery]] — target market
+- [[Home Decor]] — target market

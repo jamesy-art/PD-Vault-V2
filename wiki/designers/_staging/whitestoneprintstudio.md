@@ -26,7 +26,7 @@ bio: ''
 website: 'https://sites.google.com/view/nuriabelloc'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/whitestoneprintstudio
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Versatile Creativity
 website_meta_description: >-
   Versatile Creativity, Tailored to Each Brand. Original textile prints for
@@ -120,7 +123,7 @@ categories:
   - Womenswear
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -137,45 +140,147 @@ instagram_profile_pic_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/49633982_331665667673901_897738509501071360_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGvPbCnZvEjjJTzA9hEUg9hWqTT3y8F_T3xoSdBLVGywq50M0m3GlYMamqxHdC7o1c&_nc_ohc=JVJyfHdHWWkQ7kNvwFFAnSQ&_nc_gid=nl8yjZII15QBYL1T4FCbWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6HrUPKJPVkC0yBBCx4BQtxOjpFotDjcnSfgmU8Duh7ZA&oe=6A13EC38&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/49633982_331665667673901_897738509501071360_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGvPbCnZvEjjJTzA9hEUg9hWqTT3y8F_T3xoSdBLVGywq50M0m3GlYMamqxHdC7o1c&_nc_ohc=JVJyfHdHWWkQ7kNvwFFAnSQ&_nc_gid=nl8yjZII15QBYL1T4FCbWw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6HrUPKJPVkC0yBBCx4BQtxOjpFotDjcnSfgmU8Duh7ZA&oe=6A13EC38&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/whitestoneprintstudio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 9761
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/whitestoneprintstudio/profile/49633982_331665667673901_897738509501071360_n.jpg
+instagram_profile_image_bytes: 190820
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/whitestoneprintstudio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/whitestoneprintstudio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/whitestoneprintstudio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/whitestoneprintstudio/profile/49633982_331665667673901_897738509501071360_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/whitestoneprintstudio/profile/49633982_331665667673901_897738509501071360_n.jpg
+profile_image_local: >-
+  ../../assets/designers/whitestoneprintstudio/profile/49633982_331665667673901_897738509501071360_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/whitestoneprintstudio/profile/49633982_331665667673901_897738509501071360_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1539947611_1893540262941047978_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1539948875_1893550868750563881_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1542555700_1915418501791834660_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710794960772_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710795006678_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710795122242_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027592428508_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027600931769_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027709997963_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120689876_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120719851_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120791446_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1737104472_3547411885389421079_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1757068036_3714878396825079973_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650474050_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650494398_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650506626_8731311620.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1542555700_1915418501791834660_8731311620.jpg
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710794960772_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027592428508_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120791446_8731311620.webp
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1737104472_3547411885389421079_8731311620.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650506626_8731311620.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # whitestoneprintstudio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/whitestoneprintstudio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/whitestoneprintstudio/profile/49633982_331665667673901_897738509501071360_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1539947611_1893540262941047978_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1539947611_1893540262941047978_8731311620.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1539948875_1893550868750563881_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1539948875_1893550868750563881_8731311620.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1542555700_1915418501791834660_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1542555700_1915418501791834660_8731311620.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710794960772_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710794960772_8731311620.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710795006678_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710795006678_8731311620.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710795122242_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1729581153_3484301710795122242_8731311620.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027592428508_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027592428508_8731311620.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027600931769_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027600931769_8731311620.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027709997963_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732096626_3505403027709997963_8731311620.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120689876_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120689876_8731311620.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120719851_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120719851_8731311620.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120791446_8731311620.webp)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1732784144_3511170349120791446_8731311620.webp --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1737104472_3547411885389421079_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1737104472_3547411885389421079_8731311620.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1757068036_3714878396825079973_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1757068036_3714878396825079973_8731311620.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650474050_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650474050_8731311620.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650494398_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650494398_8731311620.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650506626_8731311620.jpg)<br><!-- image:../../assets/designers/whitestoneprintstudio/instagram/whitestoneprintstudio_1758017455_3722842701650506626_8731311620.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Núria Belloc Rocasalbas is a Spanish textile print designer based in the Catalan Pyrenees, operating as White Stone Print Studio. With 7+ years of professional print design experience and an extensive client portfolio spanning the Inditex Group, she is currently Senior Print Designer & Trend Research at IRIS Group and maintains a freelance studio practice.
+
 ## Style and Aesthetic
+
+Production-oriented print design with a fashion-industry polish. She describes her approach as blending artistic intuition with trend research to create designs that feel both fresh and timeless. Selected Instagram patterns suggest confident botanical and abstract all-over prints with clean construction suited to womenswear and kidswear market requirements.
 
 ## Techniques and Tools
 
+Production-ready file delivery, mock-up creation, and trend research are core competencies. She works within fashion brand briefing processes and seasonal delivery standards. Skills include graphic design, pattern design, trend awareness, market adaptation, and client collaboration.
+
 ## Markets and Clients
+
+Documented clients include: Lefties (Inditex), Zara, Oysho, Pull&Bear, Bershka, Mango, Desigual, Stradivarius, Old Navy, La Redoute, Orchestra, Wouf, Katia Fabrics, Makhoul Swimwear, Brava Fabrics, Tafex Studio, Studio Koo, Sanvalina, and 40+ additional brands through Sedatex. Womenswear and kidswear are her primary categories.
 
 ## Portfolio and Presence
 
+- Website: https://sites.google.com/view/nuriabelloc
+- Instagram: https://instagram.com/whitestoneprintstudio
+
 ## Career Path
+
+BA Fine Arts, University of Barcelona (2004–2009). Art & Design graduate, Escola Massana (2002–2004). Freelance work from 2018. Sedatex, Barcelona (Textile Graphic Designer, 2019–2024). Lefties/Inditex (Senior Print Designer, March–November 2025). IRIS Group (Senior Print Designer & Trend Research, March 2026–present). White Stone Studio freelance practice running alongside since April 2024.
 
 ## Pattern Focus
 
+All-over prints and placement graphics for womenswear and kidswear are the documented production focus. Work spans botanical, abstract, geometric, and screenprint-style placements, informed by fashion-season trend cycles and fast-turnaround brief delivery.
+
 ## Connections
+
+- [[Inditex Group]] — primary employer history
+- [[Zara]] — documented client
+- [[Lefties]] — documented employer
+- [[IRIS Group]] — current employer
+- [[Womenswear]] — primary market
+- [[Kidswear]] — documented market
+- [[Spain]] — studio base

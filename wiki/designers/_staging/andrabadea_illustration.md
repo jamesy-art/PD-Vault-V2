@@ -24,7 +24,7 @@ bio: ''
 website: 'https://cuteoshenii.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/andrabadea_illustration
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: CuteOshenii - the whimsical characters of Andra Badea
 website_meta_description: >-
   The whimsical illustrated characters of Andra Badea for children's books,
@@ -263,7 +266,7 @@ open_to:
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -280,45 +283,202 @@ instagram_profile_pic_url: >-
   https://instagram.fshd1-1.fna.fbcdn.net/v/t51.82787-19/557659380_18532498687053794_7935871446466020425_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDUuYzIifQ&_nc_ht=instagram.fshd1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVpzQBDtBoepYnflA0z-6M8FtnnU_uA204S4tER_2_h7NXWfr3HH4LTYSoUF0wZxQ&_nc_ohc=eUj4ogZqeUQQ7kNvwG6Pskl&_nc_gid=nJD90NmjzvBUu0bpfHdOwQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af75DtpcwolEpF7Gt0nM5RH8xVQLKUo8_t9rdA1MScNktA&oe=6A13F81A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fshd1-1.fna.fbcdn.net/v/t51.82787-19/557659380_18532498687053794_7935871446466020425_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDUuYzIifQ&_nc_ht=instagram.fshd1-1.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gFVpzQBDtBoepYnflA0z-6M8FtnnU_uA204S4tER_2_h7NXWfr3HH4LTYSoUF0wZxQ&_nc_ohc=eUj4ogZqeUQQ7kNvwG6Pskl&_nc_gid=nJD90NmjzvBUu0bpfHdOwQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af75DtpcwolEpF7Gt0nM5RH8xVQLKUo8_t9rdA1MScNktA&oe=6A13F81A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4976
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/andrabadea_illustration/profile/557659380_18532498687053794_7935871446466020425_n.jpg
+instagram_profile_image_bytes: 40393
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/andrabadea_illustration/profile/557659380_18532498687053794_7935871446466020425_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/andrabadea_illustration/profile/557659380_18532498687053794_7935871446466020425_n.jpg
+profile_image_local: >-
+  ../../assets/designers/andrabadea_illustration/profile/557659380_18532498687053794_7935871446466020425_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/andrabadea_illustration/profile/557659380_18532498687053794_7935871446466020425_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930045930_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930126907_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938312941_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938316341_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938410432_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713946870657_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1680515872_3072712302250744912_724213793.webp
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1697440047_3214682575933851055_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1710235090_3322015177773157816_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1749492026_3651326213077019566_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1754329484_3691905759423010473_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094781324657739_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782364876851_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782566195764_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985214359046_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985885455154_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1760097627_3740292447940233238_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287553970111_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287595947315_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287654666379_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288275405361_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288761958976_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288912911341_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285319683060_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285344792754_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285663582919_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285873313256_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286166901861_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286854759108_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314287106419963_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008764046868_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008831177196_724213793.jpg
+instagram_image_count: 32
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930045930_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930126907_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938312941_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1697440047_3214682575933851055_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782566195764_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288275405361_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285663582919_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286166901861_724213793.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1710235090_3322015177773157816_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1754329484_3691905759423010473_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985885455154_724213793.jpg
+  - >-
+    ../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008764046868_724213793.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # andrabadea_illustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/andrabadea_illustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/andrabadea_illustration/profile/557659380_18532498687053794_7935871446466020425_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930045930_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930045930_724213793.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930126907_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713930126907_724213793.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938312941_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938312941_724213793.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938316341_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938316341_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938410432_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713938410432_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713946870657_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1678785121_3058193713946870657_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1680515872_3072712302250744912_724213793.webp)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1680515872_3072712302250744912_724213793.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1697440047_3214682575933851055_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1697440047_3214682575933851055_724213793.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1710235090_3322015177773157816_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1710235090_3322015177773157816_724213793.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1749492026_3651326213077019566_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1749492026_3651326213077019566_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1754329484_3691905759423010473_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1754329484_3691905759423010473_724213793.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094781324657739_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094781324657739_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782364876851_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782364876851_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782566195764_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759597227_3736094782566195764_724213793.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985214359046_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985214359046_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985885455154_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1759856412_3738268985885455154_724213793.jpg --> | [ ] | [x] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1760097627_3740292447940233238_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1760097627_3740292447940233238_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287553970111_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287553970111_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287595947315_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287595947315_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287654666379_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513287654666379_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288275405361_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288275405361_724213793.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288761958976_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288761958976_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288912911341_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1766084418_3790513288912911341_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285319683060_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285319683060_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285344792754_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285344792754_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285663582919_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285663582919_724213793.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285873313256_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314285873313256_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286166901861_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286166901861_724213793.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286854759108_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314286854759108_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314287106419963_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1774286137_3859314287106419963_724213793.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008764046868_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008764046868_724213793.jpg --> | [ ] | [x] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008831177196_724213793.jpg)<br><!-- image:../../assets/designers/andrabadea_illustration/instagram/andrabadea_illustration_1777301025_3884605008831177196_724213793.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Bucharest-based illustrator and character designer working under the brand CuteOshenii. Andra Badea creates character-driven illustration for advertising, publishing, editorial, and surface design. A former art director with documented clients including TED, Canon, Glovo, and IKEA, she brings commercial brief experience to illustration projects across multiple disciplines.
+
 ## Style and Aesthetic
+
+Whimsical, character-led illustration with graphic clarity. Selected patterns suggest bold flat-colour compositions featuring illustrated figures and decorative motifs, with seasonal and conceptual themes. Style bridges advertising illustration and surface pattern, suited to kids, gifting, and stationery markets.
 
 ## Techniques and Tools
 
+Digital illustration with an advertising art direction background. Deliverables include animated stickers, poster illustration, surface patterns, children's book illustration, mural painting, and editorial work. Skilled in brief interpretation, feedback, and deadline management.
+
 ## Markets and Clients
+
+Advertising (Canon Romania, Glovo), publishing (children's books, theatre posters), surface design, and editorial. Instagram bio cites TED, Canon, Glovo, and IKEA as clients. Selected placement images suggest merch and product applications. Open to brand collaborations worldwide.
 
 ## Portfolio and Presence
 
+- Website: cuteoshenii.com
+- Instagram: @andrabadea_illustration (2,539 followers, 653 posts)
+- Member: Romanian Illustrator's Club
+
 ## Career Path
+
+Former advertising art director who transitioned to independent illustration. Career includes advertising agency work, a documented collaboration with Adidas Originals, office mural painting for Glovo, and children's book illustration for Arcub (Sri-Lankan Folk Tales). Founded CuteOshenii as the commercial illustration practice.
 
 ## Pattern Focus
 
+Surface pattern work is character and motif-led. Selected patterns suggest illustrated figures and seasonal compositions — including a Halloween collection and botanical character work — suitable for kids, gifting, and stationery applications. Also documented: BumbagR textile pattern collaboration.
+
 ## Connections
+
+- [[Character Design]] — primary practice area
+- [[Kidswear]] — identified product category
+- [[Advertising Illustration]] — background and active client market
+- [[Surface Pattern Design]] — applied alongside editorial and publishing work

@@ -197,6 +197,56 @@ NOT:
 - biographies
 - marketing copy
 
+
+## Company Editorial Enrichment Mode
+
+This mode is used ONLY when explicitly requested by the user for files in:
+
+- `wiki/companies/_staging/`
+- `wiki/companies/`
+
+Claude is allowed to rewrite existing company staging pages into the standard PatternDesigners company format.
+
+Claude MUST:
+
+- Preserve all YAML/frontmatter exactly unless explicitly told to update enrichment fields
+- Use only the raw source material already inside the page
+- Do not invent designers, collaborations, suppliers, licensing deals, clients, markets, or sustainability claims
+- Do not guess website, Instagram, LinkedIn, or Facebook URLs
+- Keep writing concise, commercial, and trade-facing
+- Focus on the company’s relevance to surface pattern design, fashion, textile, retail, licensing, home, accessories, and product design
+- Add wikilinks only where strongly supported
+
+Claude SHOULD rewrite only these body sections:
+
+- Overview
+- Company Profile
+- Market Position
+- Products and Categories
+- Pattern and Surface Design Relevance
+- Design Direction
+- Retail and Licensing Context
+- Related Pattern Types
+- Related Companies
+- Source Notes
+
+Claude MAY update:
+
+```yaml
+
+enrichment_status: enriched
+
+```
+
+only when the page is readable, structured, and ready for image/link upgrade.
+
+Claude MUST NOT:
+
+* change company_type
+* change status
+* remove source material unless summarised into Source Notes
+* fabricate relationships with designers or pattern studios
+
 ## Level 4 Designer Image Enrichment Mode
 
 This mode applies to designer files where:
@@ -533,6 +583,7 @@ Known designers they employ or have licensed from.
 ## Connections
 Related companies, markets they compete in, designers associated with them.
 ```
+
 
 ---
 

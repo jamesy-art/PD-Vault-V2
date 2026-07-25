@@ -25,7 +25,7 @@ bio: ''
 website: 'https://saracartmell.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/saracartmelldesign
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: saracartmell.com | print and pattern design
 website_meta_description: >-
   saracartmell.com is the home of Sara, a surface pattern designer and
@@ -148,7 +151,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -165,45 +168,204 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/274273212_102079799062583_607736090597236921_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGvwEoxnHzIJXWOK62aNoCDnIHE9MKFyjajO_Q_G234CrGpZ6knVkZZEzExJh_0YCg&_nc_ohc=YP74snyPzeIQ7kNvwHGXQO1&_nc_gid=qFc_baU9LQUGZcFr-RBTxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7eMDmG6xFqi5GRPKlElkaxIUej-5-d4WgKHkSoqosC5Q&oe=6A13EF47&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/274273212_102079799062583_607736090597236921_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41ODMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGvwEoxnHzIJXWOK62aNoCDnIHE9MKFyjajO_Q_G234CrGpZ6knVkZZEzExJh_0YCg&_nc_ohc=YP74snyPzeIQ7kNvwHGXQO1&_nc_gid=qFc_baU9LQUGZcFr-RBTxw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7eMDmG6xFqi5GRPKlElkaxIUej-5-d4WgKHkSoqosC5Q&oe=6A13EF47&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4775
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/saracartmelldesign/profile/274273212_102079799062583_607736090597236921_n.jpg
+instagram_profile_image_bytes: 81180
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/saracartmelldesign/profile/274273212_102079799062583_607736090597236921_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/saracartmelldesign/profile/274273212_102079799062583_607736090597236921_n.jpg
+profile_image_local: >-
+  ../../assets/designers/saracartmelldesign/profile/274273212_102079799062583_607736090597236921_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/saracartmelldesign/profile/274273212_102079799062583_607736090597236921_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708522732_3307650872420951116_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708621819_3308482079127891994_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523620919984_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523805316885_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1710601349_3325087573661679058_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183291902439_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183551772547_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711733574_3334585370035202258_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711800493_3335146721983978148_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712086567_3337546492598107114_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712406893_3340233581391287448_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564277510683_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564327949368_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1716474661_3374356486748235499_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1717768615_3385210959733209920_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1717768615_3385210959892837449_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1725459297_3449725081107376130_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1727883499_3470060760836190613_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1727883499_3470060760844520080_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1729698111_3485282824677335072_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1729698111_3485282824853410916_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264509461861_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264710806745_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264719294702_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392576175888_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392592939030_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392685073073_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324586794762_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324595180512_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324595382729_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013580668175_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013589050533_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013807151666_51571207566.jpg
+instagram_image_count: 33
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523805316885_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183291902439_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711733574_3334585370035202258_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711800493_3335146721983978148_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712086567_3337546492598107114_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712406893_3340233581391287448_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564277510683_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1716474661_3374356486748235499_51571207566.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708522732_3307650872420951116_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708621819_3308482079127891994_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1710601349_3325087573661679058_51571207566.jpg
+  - >-
+    ../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1725459297_3449725081107376130_51571207566.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # saracartmelldesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/saracartmelldesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/saracartmelldesign/profile/274273212_102079799062583_607736090597236921_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708522732_3307650872420951116_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708522732_3307650872420951116_51571207566.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708621819_3308482079127891994_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1708621819_3308482079127891994_51571207566.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523620919984_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523620919984_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523805316885_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1709217323_3313477523805316885_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1710601349_3325087573661679058_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1710601349_3325087573661679058_51571207566.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183291902439_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183291902439_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183551772547_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711295339_3330909183551772547_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711733574_3334585370035202258_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711733574_3334585370035202258_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711800493_3335146721983978148_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1711800493_3335146721983978148_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712086567_3337546492598107114_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712086567_3337546492598107114_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712406893_3340233581391287448_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1712406893_3340233581391287448_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564277510683_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564277510683_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564327949368_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1715176481_3363466564327949368_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1716474661_3374356486748235499_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1716474661_3374356486748235499_51571207566.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1717768615_3385210959733209920_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1717768615_3385210959733209920_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1717768615_3385210959892837449_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1717768615_3385210959892837449_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1725459297_3449725081107376130_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1725459297_3449725081107376130_51571207566.jpg --> | [ ] | [x] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1727883499_3470060760836190613_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1727883499_3470060760836190613_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1727883499_3470060760844520080_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1727883499_3470060760844520080_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1729698111_3485282824677335072_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1729698111_3485282824677335072_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1729698111_3485282824853410916_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1729698111_3485282824853410916_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264509461861_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264509461861_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264710806745_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264710806745_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264719294702_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733151600_3511513264719294702_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392576175888_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392576175888_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392592939030_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392592939030_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392685073073_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733335254_3515793392685073073_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324586794762_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324586794762_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324595180512_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324595180512_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324595382729_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1733842800_3519205324595382729_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013580668175_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013580668175_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013589050533_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013589050533_51571207566.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013807151666_51571207566.jpg)<br><!-- image:../../assets/designers/saracartmelldesign/instagram/saracartmelldesign_1734362793_3524413013807151666_51571207566.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sara Cartmell is a UK-based surface pattern designer and illustrator creating colourful, bold, and uplifting work for licensing and collaboration. She maintains a fabric shop on Spoonflower and is open to licensing inquiries. Her work draws on travel, nature, and everyday observation, using a mixed practice of digital and traditional techniques.
+
 ## Style and Aesthetic
+
+Vibrant, high-colour compositions with a textured, playful character. Selected Instagram images suggest a range of botanical, freely illustrated, and travel-inspired patterns — bold and uplifting in palette and mood. Website meta confirms: "colourful, bold and uplifting artwork inspired by her travels and nature."
 
 ## Techniques and Tools
 
+Mixed practice: hand-drawing directly in Procreate, painting, and flower pressing. Experiments regularly with new styles, methods, and media as part of her daily practice. Digital and traditional techniques are combined depending on the project.
+
 ## Markets and Clients
+
+Pattern licensing and collaboration. Fabric designs sold through Spoonflower (design-on-demand). Selected placement images suggest application across home and lifestyle products. Stationery and home decor markets align with her stated interests.
 
 ## Portfolio and Presence
 
+- Website: saracartmell.com
+- Instagram: @saracartmelldesign (1,358 followers)
+- Spoonflower: fabric shop (confirmed in Instagram bio)
+
 ## Career Path
+
+UK-based independent studio practice. Developed a varied portfolio across pattern design and illustration, building a commercial presence through Spoonflower and direct licensing inquiries. Maintains an active creative practice with regular experimentation across media and technique.
 
 ## Pattern Focus
 
+Selected Instagram images suggest colourful, nature and travel-inspired patterns — botanical, textured, and freely illustrated compositions. Placement selections suggest application on home decor and lifestyle products. A broad, versatile library suited to stationery, fabric, and home markets.
+
 ## Connections
+
+- [[Spoonflower]] — fabric shop and licensing channel
+- [[floral prints]] — pattern category
+- [[illustration]] — dual practice

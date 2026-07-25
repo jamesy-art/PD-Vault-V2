@@ -22,7 +22,7 @@ bio: ''
 website: 'https://spoonflower.com/profiles/typemonger'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/typemonger
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'typemonger''s shop on Spoonflower: fabric, wallpaper and home decor'
 website_meta_description: Designs by typemonger for sale on Spoonflower custom fabric and wallpaper
 website_about_raw: >-
@@ -267,7 +270,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -284,45 +287,105 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/656272516_18578359990013702_1041597409295512723_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGorsw0MeFAigC_aYhTeM9Ot_2scU793nAGbyJsxOR0fywr1H5f26JWCYw-p56r-Y0&_nc_ohc=0p5cR3OWsgIQ7kNvwGJP0Bd&_nc_gid=n6_7-ENm3yFHGmXd_L9cdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4v4UV9sirrP_25G7ubjkdlthx6SQRYHsyeebAFvZj4-A&oe=6A13EB54&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/656272516_18578359990013702_1041597409295512723_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGorsw0MeFAigC_aYhTeM9Ot_2scU793nAGbyJsxOR0fywr1H5f26JWCYw-p56r-Y0&_nc_ohc=0p5cR3OWsgIQ7kNvwGJP0Bd&_nc_gid=n6_7-ENm3yFHGmXd_L9cdQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4v4UV9sirrP_25G7ubjkdlthx6SQRYHsyeebAFvZj4-A&oe=6A13EB54&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/typemonger/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4333
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/typemonger/profile/656272516_18578359990013702_1041597409295512723_n.jpg
+instagram_profile_image_bytes: 177239
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/typemonger/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/typemonger/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/typemonger/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/typemonger/profile/656272516_18578359990013702_1041597409295512723_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/typemonger/profile/656272516_18578359990013702_1041597409295512723_n.jpg
+profile_image_local: >-
+  ../../assets/designers/typemonger/profile/656272516_18578359990013702_1041597409295512723_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/typemonger/profile/656272516_18578359990013702_1041597409295512723_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_32_Sea_Orbs.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_34_Warm_Chaos.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_36_Spa_Petals.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_42_French_Roses_1.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_50_Don't_Quote_Me.jpeg
+instagram_image_count: 5
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_32_Sea_Orbs.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_34_Warm_Chaos.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_36_Spa_Petals.jpeg
+  - >-
+    ../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_42_French_Roses_1.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # typemonger
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/typemonger/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/typemonger/profile/656272516_18578359990013702_1041597409295512723_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_32_Sea_Orbs.jpeg)<br><!-- image:../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_32_Sea_Orbs.jpeg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_34_Warm_Chaos.jpeg)<br><!-- image:../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_34_Warm_Chaos.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_36_Spa_Petals.jpeg)<br><!-- image:../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_36_Spa_Petals.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_42_French_Roses_1.jpeg)<br><!-- image:../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_42_French_Roses_1.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_50_Don't_Quote_Me.jpeg)<br><!-- image:../../assets/designers/typemonger/instagram/typemonger_imageye___-_imgi_50_Don't_Quote_Me.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Sarah Stec is a graphic designer and artist based in Chicago, IL, working under the handle Typemonger. Her practice centres on abstract pattern design and is distributed primarily through Spoonflower, where she maintains 51 fabric and 51 wallpaper designs. Selected Instagram images confirm a varied pattern vocabulary spanning organic forms, floral motifs, and typographically-influenced abstract compositions.
+
 ## Style and Aesthetic
+
+Stec describes her work as translating emotions into line and colour. Her inspirations are typography, the Pacific coastline, and patterns in nature — a combination that produces work ranging from loose organic forms (Sea Orbs, Warm Chaos) to structured florals (Spa Petals, French Roses). Selected patterns suggest a preference for mid-toned palettes and non-literal interpretations of natural subject matter. Collections reflect a consistent interest in conceptual framing: Palms I/II, Lattice Flowers, and Don't Quote Me.
 
 ## Techniques and Tools
 
+Graphic design and painting background. Works digitally for Spoonflower fabric and wallpaper production. No specific software is identified in available sources.
+
 ## Markets and Clients
+
+Self-publishes on Spoonflower (fabric, wallpaper, home decor). Best-selling designs include Lattice Cherry Blossoms, Kissing Fish Ocean Green, and Midcentury Kindergarten. No commercial licensing clients documented.
 
 ## Portfolio and Presence
 
+- Spoonflower: spoonflower.com/profiles/typemonger (51 fabric, 51 wallpaper designs)
+- Instagram: @typemonger (613 followers)
+- Collections: Palms I/II (7 designs), Lattice Flowers (5 designs), Don't Quote Me (8 designs)
+
 ## Career Path
+
+Stec is a graphic designer and artist by background, based in Chicago. Her Spoonflower shop represents the primary commercial channel for her pattern work.
 
 ## Pattern Focus
 
+Selected patterns suggest a mixed vocabulary: abstract organic forms, loose botanical motifs, and structured floral repeats. Pattern names indicate some conceptual framing (Sea Orbs, Warm Chaos, Don't Quote Me). The Midcentury Kindergarten and Kissing Fish designs point to a mid-century influenced strand. Work spans fabric and wallpaper repeat formats.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Surface Pattern Design]]
+- [[Abstract Pattern]]
+- [[Flower Pattern]]

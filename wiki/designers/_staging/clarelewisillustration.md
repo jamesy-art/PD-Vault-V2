@@ -28,7 +28,7 @@ bio: ''
 website: 'https://clarelewisillustration.co.uk/pattern-design'
 website_about: ''
 accepted: 19/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/clarelewisillustration
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Pattern Design | Clare Lewis Illustration
 website_meta_description: ''
 website_about_raw: >-
@@ -313,7 +316,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -334,45 +337,133 @@ instagram_profile_pic_url: >-
   https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.2885-19/305491991_1091879068125035_1231187743883171889_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGBPSc6Dc8GrjIzrv_rHouLldXkTTgsQz1OD7i4L_wPc0L5El3_fUatclP81MlCSYw&_nc_ohc=hXq6quSTpCAQ7kNvwHFvnmI&_nc_gid=yNxXUU0ou2eIcTziE0vE1A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4HOS49phjE9UUljRu5_t-99ti9FeHh6FPy7wK5F4tSBA&oe=6A13EA94&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fhyw1-1.fna.fbcdn.net/v/t51.2885-19/305491991_1091879068125035_1231187743883171889_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fhyw1-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2gGBPSc6Dc8GrjIzrv_rHouLldXkTTgsQz1OD7i4L_wPc0L5El3_fUatclP81MlCSYw&_nc_ohc=hXq6quSTpCAQ7kNvwHFvnmI&_nc_gid=yNxXUU0ou2eIcTziE0vE1A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4HOS49phjE9UUljRu5_t-99ti9FeHh6FPy7wK5F4tSBA&oe=6A13EA94&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/clarelewisillustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3786
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/clarelewisillustration/profile/305491991_1091879068125035_1231187743883171889_n.jpg
+instagram_profile_image_bytes: 100184
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/clarelewisillustration/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/clarelewisillustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/clarelewisillustration/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/clarelewisillustration/profile/305491991_1091879068125035_1231187743883171889_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/clarelewisillustration/profile/305491991_1091879068125035_1231187743883171889_n.jpg
+profile_image_local: >-
+  ../../assets/designers/clarelewisillustration/profile/305491991_1091879068125035_1231187743883171889_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/clarelewisillustration/profile/305491991_1091879068125035_1231187743883171889_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_19_Lily-Pond-1-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_21_FV-2-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_23_Earthy-Eden-1-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_24_QTC-Swatch.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_26_Toil-Trouble-1.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_28_Poisonous-Nature-1-1.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_30_Grids-Blue.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_32_Doodle-Bugs-1_Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_33_Silent-Night-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_35_Spring-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_37_Desert-1-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_39_Snake-Jungle-1.webp
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_19_Lily-Pond-1-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_21_FV-2-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_23_Earthy-Eden-1-Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_24_QTC-Swatch.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_28_Poisonous-Nature-1-1.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_30_Grids-Blue.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_32_Doodle-Bugs-1_Web.webp
+  - >-
+    ../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_39_Snake-Jungle-1.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # clarelewisillustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/clarelewisillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/clarelewisillustration/profile/305491991_1091879068125035_1231187743883171889_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_19_Lily-Pond-1-Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_19_Lily-Pond-1-Web.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_21_FV-2-Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_21_FV-2-Web.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_23_Earthy-Eden-1-Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_23_Earthy-Eden-1-Web.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_24_QTC-Swatch.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_24_QTC-Swatch.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_26_Toil-Trouble-1.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_26_Toil-Trouble-1.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_28_Poisonous-Nature-1-1.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_28_Poisonous-Nature-1-1.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_30_Grids-Blue.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_30_Grids-Blue.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_32_Doodle-Bugs-1_Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_32_Doodle-Bugs-1_Web.webp --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_33_Silent-Night-Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_33_Silent-Night-Web.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_35_Spring-Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_35_Spring-Web.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_37_Desert-1-Web.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_37_Desert-1-Web.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_39_Snake-Jungle-1.webp)<br><!-- image:../../assets/designers/clarelewisillustration/instagram/clarelewisillustration_imageye___-_imgi_39_Snake-Jungle-1.webp --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Clare Lewis is a Bristol-based illustrator and pattern designer creating colourful, nature-inspired work for clothing, stationery, children's products, wallpaper, and fabric. She graduated with an illustration degree in 2016 and offers both a named library of ready-to-license patterns and bespoke custom commissions. Licensing terms are flexible — single designs or multi-pattern collections, custom-made or off-the-shelf, with rights expandable as needed. All work is human-made; no AI-generated artwork.
+
 ## Style and Aesthetic
+
+Lewis describes her illustrations as "colourful, textured, and thought-provoking, sometimes with dark undertones." The range spans gentle nature subjects through to more graphic or unsettling territory. Selected Instagram pattern images — including Lily Pond, Fruit & Veggies, Earthy Eden, Quite the Catch, Poison & Plants, Hand-Drawn Grids, Doodle Bugs, and Snake Jungle — confirm this breadth, with strong colour and illustrative detail consistently present. The dual range of lighter and darker themes gives the portfolio distinctive range for buyers in children's, stationery, and apparel markets.
 
 ## Techniques and Tools
 
+Illustration-based method with print-quality bitmap file output. Both custom-to-brief and off-the-shelf library options available. Named pattern collections are themed and production-ready. Flexible licensing agreements designed to work for small businesses through to larger product ranges.
+
 ## Markets and Clients
+
+Clothing, stationery, children's clothing, wallpaper, fabric, and bedding cited as primary product categories. Business positioning targets independent and small-business clients, though the pattern library and flexible licensing structure suit a wider range of buyers.
 
 ## Portfolio and Presence
 
+- Website: clarelewisillustration.co.uk/pattern-design
+- Instagram: @clarelewisillustration
+
 ## Career Path
+
+University illustration graduate, 2016; subsequently relocated to Bristol. Practice developed across illustration, pattern licensing, and product (handcrafted earrings). Client testimonials reference strong brief-taking, animation capability, and reliable creative delivery alongside pattern work.
 
 ## Pattern Focus
 
+Named portfolio: Lily Pond, Fruit & Veggies, Earthy Eden, Quite the Catch, Toil & Trouble, Poison & Plants, Hand-Drawn Grids, Doodle Bugs, Puddle Ducks, Rustle Season, Spring Picnic, Dandelions, We're Going on a Bear Hunt, Winter Foliage, Spring, Desert Shapes, Snake Jungle. Range spans gentle nature themes to darker botanicals and creature-led designs.
+
 ## Connections
+
+- [[Children's market]]
+- [[Stationery market]]
+- [[Botanical Pattern]]
+- [[Bristol]]

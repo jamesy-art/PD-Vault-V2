@@ -24,7 +24,7 @@ bio: ''
 website: 'https://riyakeera.wixsite.com/riyakeera'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/riyakeera
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Riya Keera
 website_meta_description: >-
   This is a studio built on love for slow, meaningful creation. Our collections
@@ -84,7 +87,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -101,45 +104,136 @@ instagram_profile_pic_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/504507458_18491266000067610_8028374458216443562_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFXZS1pODuPmyjja3bsqN5rSf0N1UDAtQyzGZuJqSyEyG-pxvHpwaOetzpeI_ZX1bQ&_nc_ohc=myI1kQWsaUQQ7kNvwEaBQec&_nc_gid=7Wee_lVhuqtE9ynlZGOHUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60UnHaqKt3ZxcldHwpPBQ6OBEMv5HkfgASrXNkqXMWmQ&oe=6A13F345&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-xxc1-1.cdninstagram.com/v/t51.2885-19/504507458_18491266000067610_8028374458216443562_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-xxc1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFXZS1pODuPmyjja3bsqN5rSf0N1UDAtQyzGZuJqSyEyG-pxvHpwaOetzpeI_ZX1bQ&_nc_ohc=myI1kQWsaUQQ7kNvwEaBQec&_nc_gid=7Wee_lVhuqtE9ynlZGOHUg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af60UnHaqKt3ZxcldHwpPBQ6OBEMv5HkfgASrXNkqXMWmQ&oe=6A13F345&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/riyakeera/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2867
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/riyakeera/profile/504507458_18491266000067610_8028374458216443562_n.jpg
+instagram_profile_image_bytes: 31573
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/riyakeera/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/riyakeera/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/riyakeera/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/riyakeera/profile/504507458_18491266000067610_8028374458216443562_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/riyakeera/profile/504507458_18491266000067610_8028374458216443562_n.jpg
+profile_image_local: >-
+  ../../assets/designers/riyakeera/profile/504507458_18491266000067610_8028374458216443562_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/riyakeera/profile/504507458_18491266000067610_8028374458216443562_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1726727993_3460367670111478128_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1727773875_3469141163535953604_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1728518300_3475385859565329896_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1730027666_3488047336901195701_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_101_8e11d6_4809308f00954d45ab7d43f763f7d9f6~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_120_8e11d6_40c4cd778dbe4131ba95c2f956df773b~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_123_8e11d6_ca4430daa6054f2daf102a794b6ef743~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_140_8e11d6_83a551dbb2f34dfdaea96dda05191fda~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_142_8e11d6_1f1fe4f97b1a49e698b984a5478d9453~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_148_8e11d6_5bf70985ac41443d928d1d081c10e7ec~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_2_8e11d6_6bc25a426521409da5a3be451f97d306~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_4_8e11d6_1a665e7cad3d4329a921b0fd8c08c294~mv2.jpeg
+instagram_image_count: 12
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_101_8e11d6_4809308f00954d45ab7d43f763f7d9f6~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_123_8e11d6_ca4430daa6054f2daf102a794b6ef743~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_140_8e11d6_83a551dbb2f34dfdaea96dda05191fda~mv2.jpeg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_148_8e11d6_5bf70985ac41443d928d1d081c10e7ec~mv2.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1726727993_3460367670111478128_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1727773875_3469141163535953604_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_1730027666_3488047336901195701_1992659609.jpg
+  - >-
+    ../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_4_8e11d6_1a665e7cad3d4329a921b0fd8c08c294~mv2.jpeg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # riyakeera
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/riyakeera/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/riyakeera/profile/504507458_18491266000067610_8028374458216443562_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_1726727993_3460367670111478128_1992659609.jpg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_1726727993_3460367670111478128_1992659609.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_1727773875_3469141163535953604_1992659609.jpg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_1727773875_3469141163535953604_1992659609.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_1728518300_3475385859565329896_1992659609.jpg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_1728518300_3475385859565329896_1992659609.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_1730027666_3488047336901195701_1992659609.jpg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_1730027666_3488047336901195701_1992659609.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_101_8e11d6_4809308f00954d45ab7d43f763f7d9f6~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_101_8e11d6_4809308f00954d45ab7d43f763f7d9f6~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_120_8e11d6_40c4cd778dbe4131ba95c2f956df773b~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_120_8e11d6_40c4cd778dbe4131ba95c2f956df773b~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_123_8e11d6_ca4430daa6054f2daf102a794b6ef743~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_123_8e11d6_ca4430daa6054f2daf102a794b6ef743~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_140_8e11d6_83a551dbb2f34dfdaea96dda05191fda~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_140_8e11d6_83a551dbb2f34dfdaea96dda05191fda~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_142_8e11d6_1f1fe4f97b1a49e698b984a5478d9453~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_142_8e11d6_1f1fe4f97b1a49e698b984a5478d9453~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_148_8e11d6_5bf70985ac41443d928d1d081c10e7ec~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_148_8e11d6_5bf70985ac41443d928d1d081c10e7ec~mv2.jpeg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_2_8e11d6_6bc25a426521409da5a3be451f97d306~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_2_8e11d6_6bc25a426521409da5a3be451f97d306~mv2.jpeg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_4_8e11d6_1a665e7cad3d4329a921b0fd8c08c294~mv2.jpeg)<br><!-- image:../../assets/designers/riyakeera/instagram/riyakeera_imageye___-_imgi_4_8e11d6_1a665e7cad3d4329a921b0fd8c08c294~mv2.jpeg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Riya Keera (Ruriya Shrestha) is an artist, illustrator, and surface pattern designer based in Bangkok, Thailand. Operating under the Riya Keera studio name, she creates hand-painted illustrations and surface patterns positioned around wellness, mindful living, and the natural world. In 2026 she was selected as one of 14 artists for the PINKLAO ART AWARD at Central Pinklao, exhibiting her "Art of Deep Rest" collection.
+
 ## Style and Aesthetic
+
+Gentle, nature-inspired, and stillness-focused. Work described as evoking "quiet grace, a cozy atmosphere, and a dreamy, delicate spirit." The "Art of Deep Rest" collection captures fleeting moments of simple happiness and tranquility. Selected pattern images suggest soft botanical and organic forms rendered in a paint-quality style. A documented watercolour series captures mountain landscape (Mardi Himal Base Camp, Nepal) with brushwork describing mist and stillness. Her stated inspiration is "the soft rhythms of nature and the magic of stillness."
 
 ## Techniques and Tools
 
+Hand-painting is her declared primary method; the studio positions itself explicitly around slow, meaningful creation. Selected images suggest watercolour or gouache-quality mark-making translated into surface pattern contexts. Physical art practice is documented in exhibition settings — work presented as physical canvases. Website also describes bespoke seamless pattern construction for textiles and interiors.
+
 ## Markets and Clients
+
+Three declared service areas: wedding stationery (hand-painted invitations), surface pattern design (seamless patterns for textiles and interiors), and illustration/art (bespoke visuals for wellness and calm contexts). Selected placement images suggest textile and interior application contexts. No specific commercial clients documented.
 
 ## Portfolio and Presence
 
+- Website: riyakeera.wixsite.com/riyakeera (also riyakeera.com referenced)
+- Instagram: @riyakeera (365 followers, 52 posts)
+- Line: @riyakeera
+
 ## Career Path
+
+Background suggests Nepali-Thai artistic range (Mardi Himal watercolour series, Bangkok base). Studio Founder, Creative Director, and Lead Artist of Riya Keera. PINKLAO ART AWARD 2026, one of 14 selected artists (Central Pinklao, Caesar Hall, 5th floor, May 2–10, 2026). Applied to patterndesigners.com in June 2025.
 
 ## Pattern Focus
 
+Botanical and organic surface patterns for textiles and interiors, positioned within the wellness aesthetic market. Seamless pattern construction declared as a service. Selected pattern images suggest organic motif work — botanical, floral, and nature-drawn — in soft, muted or warm colourways consistent with a mindful living aesthetic.
+
 ## Connections
+
+- [[Wellness Market]] (primary aesthetic and commercial positioning)
+- [[Hand-Painted Illustration]]
+- [[Botanical Pattern]]
+- [[Wedding Stationery]]
+- [[Thailand]]
+- [[Surface Pattern Design]]

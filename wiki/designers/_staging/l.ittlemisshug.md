@@ -20,7 +20,7 @@ bio: ''
 website: 'https://alinapringle.format.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/l.ittlemisshug
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Welcome - Alina Pringle's Portfolio
 website_meta_description: Welcome on Alina Pringle's Portfolio
 website_about_raw: >-
@@ -116,7 +119,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -135,45 +138,116 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/472022276_1323067198731364_2092544603108278645_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFWubpDuMiPl_fziZBIYLKURXBceFkDCOKlNsy1uKqkKPUkIDMZuHMTpRH-S2jqcic&_nc_ohc=OLrgjGW8Gy4Q7kNvwE9LRHx&_nc_gid=iZDV8Xt6HoFYVmQT3o-BgA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4P4ucDRAcwaALWF-HMbost2qIDkJozmS78tBJV6Vva9g&oe=6A13EF78&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/472022276_1323067198731364_2092544603108278645_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFWubpDuMiPl_fziZBIYLKURXBceFkDCOKlNsy1uKqkKPUkIDMZuHMTpRH-S2jqcic&_nc_ohc=OLrgjGW8Gy4Q7kNvwE9LRHx&_nc_gid=iZDV8Xt6HoFYVmQT3o-BgA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4P4ucDRAcwaALWF-HMbost2qIDkJozmS78tBJV6Vva9g&oe=6A13EF78&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/l.ittlemisshug/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6060
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/l.ittlemisshug/profile/472022276_1323067198731364_2092544603108278645_n.jpg
+instagram_profile_image_bytes: 288798
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/l.ittlemisshug/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/l.ittlemisshug/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/l.ittlemisshug/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/l.ittlemisshug/profile/472022276_1323067198731364_2092544603108278645_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/l.ittlemisshug/profile/472022276_1323067198731364_2092544603108278645_n.jpg
+profile_image_local: >-
+  ../../assets/designers/l.ittlemisshug/profile/472022276_1323067198731364_2092544603108278645_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/l.ittlemisshug/profile/472022276_1323067198731364_2092544603108278645_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203859579_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203937983_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203945109_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205212178265_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205245710310_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205312962347_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205321276878_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205338062260_5587920170.jpg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203859579_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203945109_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205245710310_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205312962347_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205321276878_5587920170.jpg
+  - >-
+    ../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205338062260_5587920170.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # l.ittlemisshug
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/l.ittlemisshug/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/l.ittlemisshug/profile/472022276_1323067198731364_2092544603108278645_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203859579_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203859579_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203937983_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203937983_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203945109_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205203945109_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205212178265_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205212178265_5587920170.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205245710310_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205245710310_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205312962347_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205312962347_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205321276878_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205321276878_5587920170.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205338062260_5587920170.jpg)<br><!-- image:../../assets/designers/l.ittlemisshug/instagram/l.ittlemisshug_1750249361_3657679205338062260_5587920170.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Alina Pringle is an illustrator and designer based in Providence, Rhode Island, with roots in the quiet landscapes of Upstate New York. She holds a BFA in Illustration from the Rhode Island School of Design (RISD). Her portfolio spans book design, editorial illustration, and surface pattern work. She is currently seeking representation.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a whimsical, character-driven aesthetic with an emphasis on warmth and individuality. The work reflects Pringle's self-described interest in capturing "the individual quirks and whimsy of people and places" — character-led compositions with a light, illustrative touch. Colour palettes tend toward soft and expressive rather than saturated.
 
 ## Techniques and Tools
 
+Trained in illustration at RISD, Pringle works across traditional and digital media. Documented skills include illustration and painting. Her portfolio is organised into Book Design, Editorial, Surface, and Sketchbook sections, suggesting a multi-disciplinary practice.
+
 ## Markets and Clients
+
+Portfolio spans editorial, book design, and surface pattern applications. No commercial clients are documented at time of filing. Currently seeking representation for illustration work.
 
 ## Portfolio and Presence
 
+- Website: https://alinapringle.format.com
+- Instagram: @l.ittlemisshug
+
 ## Career Path
+
+Pringle trained at RISD, completing her BFA in Illustration. Her childhood in Upstate New York informs an observational, nature-inflected approach to character and place. She works as a freelance illustrator and designer, with surface pattern as one branch of a broader illustration practice.
 
 ## Pattern Focus
 
+Selected Instagram images suggest a repeating-pattern sensibility within an illustrative framework. Six images were identified as pattern-relevant, indicating small-scale character and motif work. The surface section of her website confirms pattern design as a discrete portfolio strand.
+
 ## Connections
+
+- [[Rhode Island School of Design]]
+- [[Surface Pattern Design]]
+- [[Illustration]]

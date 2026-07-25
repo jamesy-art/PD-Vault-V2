@@ -20,7 +20,7 @@ bio: ''
 website: 'https://comasmv.myportfolio.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/vicky.comas
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Maria Victoria Comas
 website_meta_description: ''
 website_about_raw: >-
@@ -185,7 +188,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   About Us
 
@@ -461,45 +464,123 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/559889413_18529991806057363_5608939810165723418_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEXYWm-9OLjYpvTW6KkhlYpplooiF59SmIWbEEdMtcpAGaJ-8PxHldSnHJQsjqiEr0&_nc_ohc=qaeSBHomA4cQ7kNvwE550jX&_nc_gid=I05_hl8Z_v62YKhUb0xp7Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Fu4Ejh1UPvLUMi3UtSyrRBm4_zDjGbYX0cUhyPqZT7A&oe=6A13D48C&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.82787-19/559889413_18529991806057363_5608939810165723418_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjAuYzIifQ&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEXYWm-9OLjYpvTW6KkhlYpplooiF59SmIWbEEdMtcpAGaJ-8PxHldSnHJQsjqiEr0&_nc_ohc=qaeSBHomA4cQ7kNvwE550jX&_nc_gid=I05_hl8Z_v62YKhUb0xp7Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7Fu4Ejh1UPvLUMi3UtSyrRBm4_zDjGbYX0cUhyPqZT7A&oe=6A13D48C&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/vicky.comas/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2939
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/vicky.comas/profile/559889413_18529991806057363_5608939810165723418_n.jpg
+instagram_profile_image_bytes: 37591
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/vicky.comas/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/vicky.comas/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/vicky.comas/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/vicky.comas/profile/559889413_18529991806057363_5608939810165723418_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/vicky.comas/profile/559889413_18529991806057363_5608939810165723418_n.jpg
+profile_image_local: >-
+  ../../assets/designers/vicky.comas/profile/559889413_18529991806057363_5608939810165723418_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/vicky.comas/profile/559889413_18529991806057363_5608939810165723418_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132121207323_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132138078761_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132146348249_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132154744493_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1660420291_2904138348696491539_485113362.webp
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1721746734_3418581846160629310_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1728839478_3478080088253982642_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1746925002_3629792460743423910_485113362.jpg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132146348249_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1660420291_2904138348696491539_485113362.webp
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1721746734_3418581846160629310_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1728839478_3478080088253982642_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1746925002_3629792460743423910_485113362.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132121207323_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132138078761_485113362.jpg
+  - >-
+    ../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132154744493_485113362.jpg
+trash_images: []
+selected_pattern_count: 5
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # vicky.comas
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/vicky.comas/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/vicky.comas/profile/559889413_18529991806057363_5608939810165723418_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132121207323_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132121207323_485113362.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132138078761_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132138078761_485113362.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132146348249_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132146348249_485113362.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132154744493_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1638912286_2723716132154744493_485113362.jpg --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1660420291_2904138348696491539_485113362.webp)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1660420291_2904138348696491539_485113362.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1721746734_3418581846160629310_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1721746734_3418581846160629310_485113362.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1728839478_3478080088253982642_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1728839478_3478080088253982642_485113362.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/vicky.comas/instagram/vicky.comas_1746925002_3629792460743423910_485113362.jpg)<br><!-- image:../../assets/designers/vicky.comas/instagram/vicky.comas_1746925002_3629792460743423910_485113362.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Maria Victoria Comas is a Buenos Aires-based graphic designer and illustrator working across children's illustration and surface pattern design. She holds a degree in Graphic Design from FADU (Universidad de Buenos Aires) and has developed a parallel practice in illustration since 2009 through self-directed study. She works remotely on a freelance basis.
+
 ## Style and Aesthetic
+
+Selected Instagram patterns suggest organic, nature-inspired work in watercolor and mixed media — botanical motifs, floral compositions, and illustrated pattern layouts with warm, expressive palettes. Selected placement images suggest stationery and product mockup contexts. The 2026 picture book project uses a mixed technique combining painted papers, wax crayons, and digital illustration, reflecting a textured, handcrafted aesthetic.
 
 ## Techniques and Tools
 
+Works in watercolor and digital illustration; broader practice documents use of painted papers, wax crayons, and collage combined with digital finishing. LinkedIn-documented pattern work includes watercolor stamp designs created in Photoshop. Graphic design background (FADU-UBA) informs composition and layout.
+
 ## Markets and Clients
+
+Primarily children's illustration and applied illustration. Documented participations include @theydrawandcook and @theydrawandtravel (illustrated food and travel challenges). Current project with publisher Pez Menta (@pezmenta.ed) — children's picture book "El aguará y las estrellas" with author Beatriz Re (@beatrizangelicare), 2026. Freelance logo work for Knitwise (2022). Open to commissions. Instagram identifies @lechucitadepapel as a related illustration project.
 
 ## Portfolio and Presence
 
+- Website: https://comasmv.myportfolio.com
+- Instagram: @vicky.comas / @lechucitadepapel
+
 ## Career Path
+
+Graduated in Graphic Design from FADU-UBA. Worked in design studios and in-house design roles 2004–2013. Served as JTP (teaching assistant) in Art History at UCES 2009–2019. Transitioned to independent freelance illustration and graphic design from 2013, developing watercolor and children's illustration skills through self-directed study, online courses, and workshops. Currently developing a children's picture book with Pez Menta editorial (2026).
 
 ## Pattern Focus
 
+Selected patterns suggest botanical and organic surface designs — florals and plant motifs executed in watercolor with warm colour palettes. Pattern work is an applied extension of her illustration practice, suitable for [[Stationery]], [[Home Decor]], and children's products. Selected placements suggest product and stationery mockup applications.
+
 ## Connections
+
+- @lechucitadepapel (illustration project)
+- @theydrawandcook (illustrated challenge contributor)
+- Pez Menta (@pezmenta.ed) — current publisher
+- [[Watercolor]]
+- [[Children's Illustration]]
+- [[Buenos Aires]]

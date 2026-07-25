@@ -26,7 +26,7 @@ bio: ''
 website: 'https://zotosdesign.nl'
 website_about: ''
 accepted: 14/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/zotosdesign
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Zotos Design
 website_meta_description: >-
   Surface an Pattern designer Alexia Zotos invites you to her colourful site and
@@ -230,7 +233,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -247,45 +250,113 @@ instagram_profile_pic_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/467779877_1076002837649974_311483185617647366_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzAuYzIifQ&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG4NmtqB1TlI5-ArxYDahKP9HxuCw020ckVS5gqtY1RtGXvpFFTk0iXWH12YRue_BY&_nc_ohc=kKRAosOTb_sQ7kNvwHpAt_Y&_nc_gid=SALduQ-YR1ThTIQQlgtoMA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4CHbamnWiIy-5XqkQSiaIcGru-LMDyHCl6AolYlSO22g&oe=6A13E8FE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia3-3.cdninstagram.com/v/t51.2885-19/467779877_1076002837649974_311483185617647366_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzAuYzIifQ&_nc_ht=scontent-mia3-3.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG4NmtqB1TlI5-ArxYDahKP9HxuCw020ckVS5gqtY1RtGXvpFFTk0iXWH12YRue_BY&_nc_ohc=kKRAosOTb_sQ7kNvwHpAt_Y&_nc_gid=SALduQ-YR1ThTIQQlgtoMA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4CHbamnWiIy-5XqkQSiaIcGru-LMDyHCl6AolYlSO22g&oe=6A13E8FE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/zotosdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5375
+instagram_profile_image_local: >-
+  ../../assets/designers/zotosdesign/profile/467779877_1076002837649974_311483185617647366_n.jpg
+instagram_profile_image_bytes: 26690
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/zotosdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/zotosdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/zotosdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/zotosdesign/profile/467779877_1076002837649974_311483185617647366_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/zotosdesign/profile/467779877_1076002837649974_311483185617647366_n.jpg
+profile_image_local: >-
+  ../../assets/designers/zotosdesign/profile/467779877_1076002837649974_311483185617647366_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/zotosdesign/profile/467779877_1076002837649974_311483185617647366_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_102_mushrooms2.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_103_mushrooms2.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_117_Linocut-Flowers-02.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_49_SwampFriends_coordinate2.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_54_Collection_Overview-lemurs.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_82_fall-in-_blue_hero2.png
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_89_SoftFlowersNight-hero2.jpeg
+instagram_image_count: 7
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_103_mushrooms2.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_117_Linocut-Flowers-02.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_49_SwampFriends_coordinate2.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_54_Collection_Overview-lemurs.jpeg
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_82_fall-in-_blue_hero2.png
+  - >-
+    ../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_89_SoftFlowersNight-hero2.jpeg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # zotosdesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/zotosdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/zotosdesign/profile/467779877_1076002837649974_311483185617647366_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_102_mushrooms2.jpeg)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_102_mushrooms2.jpeg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_103_mushrooms2.jpeg)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_103_mushrooms2.jpeg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_117_Linocut-Flowers-02.jpeg)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_117_Linocut-Flowers-02.jpeg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_49_SwampFriends_coordinate2.jpeg)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_49_SwampFriends_coordinate2.jpeg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_54_Collection_Overview-lemurs.jpeg)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_54_Collection_Overview-lemurs.jpeg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_82_fall-in-_blue_hero2.png)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_82_fall-in-_blue_hero2.png --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_89_SoftFlowersNight-hero2.jpeg)<br><!-- image:../../assets/designers/zotosdesign/instagram/zotosdesign_imageye___-_imgi_89_SoftFlowersNight-hero2.jpeg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Alexia Zotos is a graphic designer and surface pattern designer based in Amstelveen, Netherlands, trading as Zotos Design. She works across fabric design, product surface design, packaging, and illustration, with licensing and commissions available. Her Instagram bio positions her output as "on-trend & evergreen designs for home interiors & makers."
+
 ## Style and Aesthetic
+
+Bold colour palettes and stylised illustration are the hallmarks of Zotos's work. Selected Instagram images suggest a range spanning animal-character collections — lemurs, swamp creatures — alongside mushroom motifs, linocut-style florals, and night-palette floral coordinate sets. Her work is child-friendly in register but commercially polished in construction.
 
 ## Techniques and Tools
 
+Skills declared include illustration, graphic design, pattern design, and colour theory. Her linocut-flower imagery suggests an interest in print-inspired textures within an otherwise digital workflow.
+
 ## Markets and Clients
+
+Home interiors, kidswear, and makers are her stated markets. She offers fabric design, product surface design, and packaging as distinct services. Available for non-exclusive licensing and commissions.
 
 ## Portfolio and Presence
 
+- Website: https://zotosdesign.nl
+- Instagram: https://instagram.com/zotosdesign
+
 ## Career Path
+
+Based close to a forest in Amstelveen; she cites regular nature walks as a primary source for colour palette development. Background spans graphic and surface pattern design; prior career timeline not documented in available sources.
 
 ## Pattern Focus
 
+Selected patterns evidence strength in: animal-character collections (lemurs, swamp creatures), mushroom motifs, linocut-style florals, coordinate piece design, and soft floral night palettes. Motifs lean decorative and character-driven with a commercial colour sensibility suited to home and kidswear markets.
+
 ## Connections
+
+- [[Kidswear]] — stated target market
+- [[Home Decor]] — stated target market
+- [[Licensing]] — available for non-exclusive licensing

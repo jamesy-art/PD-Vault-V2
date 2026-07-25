@@ -28,7 +28,7 @@ bio: ''
 website: 'https://gemmastantoncreative.com/home-new'
 website_about: ''
 accepted: 20/03/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/gemmastantoncreative
 profile_url: ''
 instagram_images:
@@ -45,9 +45,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Gemma Stanton Creative | Illustration and Surface Pattern Design
 website_meta_description: >-
   Gemma Stanton is a surface pattern designer from the uk, specialising in fun,
@@ -293,7 +296,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -315,45 +318,185 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/468538878_1039812687897397_725159741635952739_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFDLSB_xpt5zZI2r6h4e89STPlhmSUl6V5xKCnxPmSbkowiqce6FXIixtoaJlwT2Ck&_nc_ohc=OnK4YzC-Ug4Q7kNvwH0E49h&_nc_gid=mzwxx6IUjwyCt1yd8h1Xsw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6HsgHeXPguDtw0F5bV4r9owGg_yUdNgxTod9pSeDXLVA&oe=6A13D1A5&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/468538878_1039812687897397_725159741635952739_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFDLSB_xpt5zZI2r6h4e89STPlhmSUl6V5xKCnxPmSbkowiqce6FXIixtoaJlwT2Ck&_nc_ohc=OnK4YzC-Ug4Q7kNvwH0E49h&_nc_gid=mzwxx6IUjwyCt1yd8h1Xsw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6HsgHeXPguDtw0F5bV4r9owGg_yUdNgxTod9pSeDXLVA&oe=6A13D1A5&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/gemmastantoncreative/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5677
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/gemmastantoncreative/profile/468538878_1039812687897397_725159741635952739_n.jpg
+instagram_profile_image_bytes: 159213
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/gemmastantoncreative/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/gemmastantoncreative/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/gemmastantoncreative/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/gemmastantoncreative/profile/468538878_1039812687897397_725159741635952739_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/gemmastantoncreative/profile/468538878_1039812687897397_725159741635952739_n.jpg
+profile_image_local: >-
+  ../../assets/designers/gemmastantoncreative/profile/468538878_1039812687897397_725159741635952739_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/gemmastantoncreative/profile/468538878_1039812687897397_725159741635952739_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1731653700_3501674927502190931_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807340866_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807433132_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449815746437_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1733294700_3515453580174226570_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371419740581_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371428126737_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371428306633_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076827_3538791371444879331_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076827_3538791371512144563_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998522252260_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998681786621_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998706937472_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095611558120_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095687147838_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646394381907_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646536973205_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655410597_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655451073_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770018703_3823509884017323912_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097985152018605_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097988541025254_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097992726937773_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097996938030794_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097999144230189_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084723663820_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084732043091_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084790796858_49083159265.jpg
+instagram_image_count: 28
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1731653700_3501674927502190931_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807340866_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1733294700_3515453580174226570_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371419740581_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998681786621_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095611558120_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646394381907_49083159265.jpg
+  - >-
+    ../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655451073_49083159265.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # gemmastantoncreative
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/gemmastantoncreative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/gemmastantoncreative/profile/468538878_1039812687897397_725159741635952739_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1731653700_3501674927502190931_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1731653700_3501674927502190931_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807340866_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807340866_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807433132_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449807433132_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449815746437_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1732174200_3505831449815746437_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1733294700_3515453580174226570_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1733294700_3515453580174226570_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371419740581_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371419740581_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371428126737_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371428126737_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371428306633_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076826_3538791371428306633_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076827_3538791371444879331_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076827_3538791371444879331_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076827_3538791371512144563_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1736076827_3538791371512144563_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998522252260_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998522252260_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998681786621_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998681786621_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998706937472_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744090200_3603265998706937472_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095611558120_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095611558120_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095687147838_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1744352700_3607970095687147838_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646394381907_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646394381907_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646536973205_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1760696439_3745315646536973205_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655410597_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655410597_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655451073_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1761111900_3748239714655451073_49083159265.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770018703_3823509884017323912_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770018703_3823509884017323912_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097985152018605_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097985152018605_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097988541025254_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097988541025254_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097992726937773_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097992726937773_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097996938030794_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097996938030794_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097999144230189_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1770207767_3825097999144230189_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084723663820_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084723663820_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084732043091_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084732043091_49083159265.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084790796858_49083159265.jpg)<br><!-- image:../../assets/designers/gemmastantoncreative/instagram/gemmastantoncreative_1775134166_3866428084790796858_49083159265.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Gemma Stanton is a surface pattern designer and illustrator based in Surrey, UK, specialising in nature and animal-inspired pattern collections. With over 10 years in the industry and a background in graphic design and art direction, her work targets the children's, gifting, apparel, and interiors markets through licensing, freelance, and creative collaboration. She is represented by Illustrate It agency and is a member of The Colour Co-op.
+
 ## Style and Aesthetic
+
+Flat, graphic, and vibrantly colourful. Stanton draws from the natural world — woodland animals, seasonal flora, and countryside motifs — rendered with a clean illustrative line suited to children's product applications. Selected patterns suggest all-over compositions with a cheerful, detail-rich quality: individual characters and botanical elements arranged with care for storytelling within each repeat.
 
 ## Techniques and Tools
 
+Sketches on paper and in Procreate before moving to digital finishing. Produces a flat, graphic style with clear colour blocking. Delivers one-off spot illustrations, repeating patterns, and coordinated full collections. Also works as a graphic designer on logos, brand assets, printed items, and book covers.
+
 ## Markets and Clients
+
+Children's products (kidswear, gifts, giftwrap, fabric), interiors, and apparel. Licensing available via a password-protected collections portfolio (exclusive and non-exclusive). Fabric and wallpaper available on Spoonflower. Published: Woodland Alphabet Colouring Book (Amazon). Open to freelance briefs, creative collaboration, and design-to-brief work.
 
 ## Portfolio and Presence
 
+- Website: [gemmastantoncreative.com](https://gemmastantoncreative.com/home-new)
+- Instagram: [@gemmastantoncreative](https://instagram.com/gemmastantoncreative) — 492 followers, 186 posts
+- Agent: [@illustrateit_agency](https://instagram.com/illustrateit_agency)
+- Spoonflower: fabric and wallpaper available
+
 ## Career Path
+
+Graduated 2000 with a BA Hons in Natural History Illustration & Information Design. Spent 13 years in London as a Graphic Designer and Art Director — working in-house, freelance, and as a business owner. Subsequently returned to illustration and surface pattern design, now working from a home studio in Surrey.
 
 ## Pattern Focus
 
+Nature and animal-inspired repeat patterns with a flat, graphic, colourful aesthetic. Seasonal themes — woodland, flora, fauna — positioned for children's and gifting markets. Designs span spot illustrations, repeating patterns, and coordinated collections suited to fabric, giftwrap, apparel, and licensed product categories.
+
 ## Connections
+
+- [[Children's Textiles]]
+- [[Botanical Patterns]]
+- [[Surface Pattern Design]]
+- [[Spoonflower]]
+- [[Illustrate It]]
+- [[The Colour Co-op]]

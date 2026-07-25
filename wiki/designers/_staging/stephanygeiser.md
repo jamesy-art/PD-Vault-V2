@@ -23,7 +23,7 @@ bio: ''
 website: 'https://stephanygeiser.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/stephanygeiser
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Stephany Geiser - Stephany Geiser
 website_meta_description: >-
   my silk collection view all products Bandanas New Designs See all Bandanas
@@ -249,7 +252,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -266,45 +269,103 @@ instagram_profile_pic_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/390736698_848417226880337_8848163560148163975_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzUuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGnRvaqFrri8d3mBhM9GfsCRkGO4e-jHDKkEYTgjXV_vnJ8jltXJ07Voake6Yf8jBU&_nc_ohc=mbimR42TcyEQ7kNvwGnZx8w&_nc_gid=Gv0UIOYrYjRJekB__u2IXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NgbCePSXLtzhhXj2bXAFTzJinaPBN1ynJbKrVYnEcPg&oe=6A13E920&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/390736698_848417226880337_8848163560148163975_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzUuYzIifQ&_nc_ht=scontent-bos5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGnRvaqFrri8d3mBhM9GfsCRkGO4e-jHDKkEYTgjXV_vnJ8jltXJ07Voake6Yf8jBU&_nc_ohc=mbimR42TcyEQ7kNvwGnZx8w&_nc_gid=Gv0UIOYrYjRJekB__u2IXQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NgbCePSXLtzhhXj2bXAFTzJinaPBN1ynJbKrVYnEcPg&oe=6A13E920&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 2369
+instagram_profile_image_local: >-
+  ../../assets/designers/stephanygeiser/profile/390736698_848417226880337_8848163560148163975_n.jpg
+instagram_profile_image_bytes: 12448
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/stephanygeiser/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/stephanygeiser/profile/390736698_848417226880337_8848163560148163975_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/stephanygeiser/profile/390736698_848417226880337_8848163560148163975_n.jpg
+profile_image_local: >-
+  ../../assets/designers/stephanygeiser/profile/390736698_848417226880337_8848163560148163975_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/stephanygeiser/profile/390736698_848417226880337_8848163560148163975_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1598654663_2386010712872251335_181238223.jpg
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1600947172_2405241670087454275_181238223.jpg
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1601148309_2406928930893495444_181238223.jpg
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1613435371_2510000280427753696_181238223.jpg
+instagram_image_count: 4
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1598654663_2386010712872251335_181238223.jpg
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1600947172_2405241670087454275_181238223.jpg
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1601148309_2406928930893495444_181238223.jpg
+  - >-
+    ../../assets/designers/stephanygeiser/instagram/stephanygeiser_1613435371_2510000280427753696_181238223.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # stephanygeiser
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/stephanygeiser/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/stephanygeiser/profile/390736698_848417226880337_8848163560148163975_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/stephanygeiser/instagram/stephanygeiser_1598654663_2386010712872251335_181238223.jpg)<br><!-- image:../../assets/designers/stephanygeiser/instagram/stephanygeiser_1598654663_2386010712872251335_181238223.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/stephanygeiser/instagram/stephanygeiser_1600947172_2405241670087454275_181238223.jpg)<br><!-- image:../../assets/designers/stephanygeiser/instagram/stephanygeiser_1600947172_2405241670087454275_181238223.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/stephanygeiser/instagram/stephanygeiser_1601148309_2406928930893495444_181238223.jpg)<br><!-- image:../../assets/designers/stephanygeiser/instagram/stephanygeiser_1601148309_2406928930893495444_181238223.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/stephanygeiser/instagram/stephanygeiser_1613435371_2510000280427753696_181238223.jpg)<br><!-- image:../../assets/designers/stephanygeiser/instagram/stephanygeiser_1613435371_2510000280427753696_181238223.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Stephany Geiser is a Peruvian-Swiss textile designer based between Lima and Switzerland. She holds a BA in Graphic Design and Management (Cum Laude, Lima) and a degree in Industrial Design and Production with a specialisation in Textile Design from the Lucerne University of Applied Sciences and Arts, where her bachelor thesis received the ZeuginDesign Foundation award. Since 2018 she has worked for Nourison in Europe as a specialist in the design and production of carpeted floors for luxury hotels globally. She also produces a personal silk collection of scarves, kimonos, bandanas, tote bags, and clutches, sold via a showroom in Miraflores, Lima.
+
 ## Style and Aesthetic
+
+Geiser's personal work draws on pre-Columbian Peruvian textiles and archaeological heritage. Selected Instagram images suggest ornate, historically informed surface patterns translating ancient Peruvian motifs into contemporary product applications. The silk product range reflects this sustained engagement with Peruvian cultural and textile history — restrained, intelligent, and culturally grounded.
 
 ## Techniques and Tools
 
+Screen printing, applied to textile design during Graphic Design studies and continued in practice. CAD pattern-making for the Nourison carpet production department (Axminster) including production files, installation parameters, and coordination with international design houses. Training at Lucerne University connects her practice to European industrial textile production.
+
 ## Markets and Clients
+
+Luxury hotels and hospitality (carpeted floors via Nourison Europe). Personal silk product range sold direct via a Lima showroom (Miraflores, by appointment). Trade fair exposure: Première Vision Paris (2017), Heimtextil Frankfurt (2019). Recognised by PromPeru (Commission for the Promotion of Peru for Exports and Tourism); awarded the Peru Country Brand; represented Peru at national and international trade fairs.
 
 ## Portfolio and Presence
 
+- Website: stephanygeiser.com
+- Instagram: @stephanygeiser (5,175 followers, 374 posts)
+- Showroom: Miraflores, Lima (by appointment)
+
 ## Career Path
+
+Graduated Graphic Design and Management (Cum Laude) in Lima. Moved to Switzerland to study Industrial Design and Textile Design at Lucerne University; bachelor thesis awarded by ZeuginDesign Foundation. Since 2018: Nourison Europe, designing and producing carpeted floors for luxury hotels globally. Textile project WeMen created in collaboration with Sisi Wasi (Peruvian NGO), exhibited at Heimtextil 2019 as part of a campaign to end violence against women.
 
 ## Pattern Focus
 
+Pre-Columbian and Peruvian heritage-inspired surface patterns. Selected Instagram images suggest ornate repeat structures drawing on archaeological textile traditions. Applies this cultural vocabulary across silk accessory products (scarves, kimonos) and textile design for luxury hospitality.
+
 ## Connections
+
+- [[Luxury hospitality market]]
+- [[Fashion market]]
+- [[Screen printing]]
+- [[Licensing]]
+- [[Pre-Columbian textiles]]

@@ -20,7 +20,7 @@ bio: ''
 website: 'https://macluredesigns.com'
 website_about: ''
 accepted: 14/05/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/macluredesigns
 profile_url: ''
 instagram_images:
@@ -37,9 +37,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - enriched
 website_title: Home | MacLure Designs
 website_meta_description: ''
 website_about_raw: >-
@@ -264,7 +267,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -283,45 +286,219 @@ instagram_profile_pic_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/504509893_18503894518038036_7465121586490855561_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFzhh2StLx3_TgDrFzt1GVtXlXTwCXoYL0nHPdfGrURi6CODsXNRQpyLhKasTXPrzg&_nc_ohc=3AeqQZRN28UQ7kNvwEBT_lc&_nc_gid=AMzsjsWjdYVLCeO5MNPacw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6x7qWcJzoCTbwgLKuUC28nakloA1CXxJ4oWuYqsWSi6Q&oe=6A1404FA&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad6-1.cdninstagram.com/v/t51.2885-19/504509893_18503894518038036_7465121586490855561_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFzhh2StLx3_TgDrFzt1GVtXlXTwCXoYL0nHPdfGrURi6CODsXNRQpyLhKasTXPrzg&_nc_ohc=3AeqQZRN28UQ7kNvwEBT_lc&_nc_gid=AMzsjsWjdYVLCeO5MNPacw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6x7qWcJzoCTbwgLKuUC28nakloA1CXxJ4oWuYqsWSi6Q&oe=6A1404FA&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5231
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/macluredesigns/profile/504509893_18503894518038036_7465121586490855561_n.jpg
+instagram_profile_image_bytes: 143157
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/macluredesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/macluredesigns/profile/504509893_18503894518038036_7465121586490855561_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/macluredesigns/profile/504509893_18503894518038036_7465121586490855561_n.jpg
+profile_image_local: >-
+  ../../assets/designers/macluredesigns/profile/504509893_18503894518038036_7465121586490855561_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/macluredesigns/profile/504509893_18503894518038036_7465121586490855561_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795347576635_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355740579_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355905679_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1709677605_3317338647981809163_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1709677605_3317338648258630489_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621503437715_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621562134558_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000077932254_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000253920554_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1712003635_3336850801546036968_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197017185628_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197176643568_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197193357763_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197193443089_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431771231855_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431779748956_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788089382_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788202218_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431796436617_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871432123674221_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720424385349_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432835915_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432971321_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720944523078_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488472753_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488487078_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488511929_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503496898152_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503899553314_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1768514550_3810898717474089949_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1768514550_3810898717482418635_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207144955493729_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207150827536537_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207152748523903_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207171094389394_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1772895204_3847646278612209347_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1774112457_3857857329827974139_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066180855660872_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066181174484947_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066185175798178_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066187793075454_1567398035.webp
+instagram_image_count: 41
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355740579_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621503437715_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000077932254_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197017185628_1567398035.webp
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788089382_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432835915_1567398035.jpg
+  - >-
+    ../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720944523078_1567398035.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 7
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # macluredesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/macluredesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/macluredesigns/profile/504509893_18503894518038036_7465121586490855561_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795347576635_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795347576635_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355740579_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355740579_1567398035.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355905679_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1708461330_3307135795355905679_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1709677605_3317338647981809163_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1709677605_3317338647981809163_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1709677605_3317338648258630489_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1709677605_3317338648258630489_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621503437715_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621503437715_1567398035.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621562134558_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1710669184_3325656621562134558_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000077932254_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000077932254_1567398035.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000253920554_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1711986850_3336710000253920554_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1712003635_3336850801546036968_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1712003635_3336850801546036968_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197017185628_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197017185628_1567398035.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197176643568_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197176643568_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197193357763_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197193357763_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197193443089_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1722708914_3426653197193443089_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431771231855_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431771231855_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431779748956_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431779748956_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788089382_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788089382_1567398035.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788202218_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431788202218_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431796436617_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871431796436617_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871432123674221_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490324_3533871432123674221_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720424385349_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720424385349_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432835915_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432835915_1567398035.jpg --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432971321_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720432971321_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720944523078_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1735490716_3533874720944523078_1567398035.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488472753_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488472753_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488487078_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488487078_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488511929_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503488511929_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503496898152_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503496898152_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503899553314_1567398035.jpg)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1762719403_3762285503899553314_1567398035.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1768514550_3810898717474089949_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1768514550_3810898717474089949_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1768514550_3810898717482418635_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1768514550_3810898717482418635_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207144955493729_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207144955493729_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207150827536537_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207150827536537_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207152748523903_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207152748523903_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207171094389394_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1769863039_3822207171094389394_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1772895204_3847646278612209347_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1772895204_3847646278612209347_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1774112457_3857857329827974139_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1774112457_3857857329827974139_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066180855660872_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066180855660872_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066181174484947_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066181174484947_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066185175798178_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066185175798178_1567398035.webp --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066187793075454_1567398035.webp)<br><!-- image:../../assets/designers/macluredesigns/instagram/macluredesigns_1776164686_3875066187793075454_1567398035.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Lauren MacLure is a UK-based freelance surface pattern and textiles designer with over 20 years of experience, specialising in biophilic design for interiors and home decor. She holds a Master's degree in Surface Pattern and Textiles, with postgraduate research focused on Biophilic Design and the psychology of Awe as a design framework. She is exhibiting at the Independent Hotel trade show in October 2026 and is listed in the Interior Design Guidebook 2026 Trade edition.
+
 ## Style and Aesthetic
+
+Nature-immersive and sensory. MacLure's work draws from travel and encounters with awe-inspiring natural environments, translating these into surface patterns, tactile textiles, and wallpaper. Selected pattern images suggest richly textured, organic surface compositions suited to interior specification contexts — large-scale natural motifs, layered texture, and a visual vocabulary rooted in biophilia.
 
 ## Techniques and Tools
 
+Painting is a documented primary medium. Postgraduate research extended the practice into light design and tactile textile applications, including wall murals and upholstered surface work. Designs intended for installation within interior environments as well as flat surface pattern use.
+
 ## Markets and Clients
+
+Interior design, hospitality, and home decor. Trade-show participation signals positioning toward interior specifiers and hotel/hospitality clients. Featured in the Interior Design Guidebook 2026 Trade edition. No specific licensing clients documented.
 
 ## Portfolio and Presence
 
+- Website: https://macluredesigns.com
+- Instagram: @Macluredesigns
+- Interior Design Guidebook 2026 Trade edition
+
 ## Career Path
+
+Over 20 years of design experience. Completed a Master's in Surface Pattern and Textiles with research into biophilic design and the role of Awe in promoting wellbeing through designed environments. The MA culminated in an immersive installation combining light design, tactile textiles, and wallpaper. Currently positioning toward the interiors trade sector, with show participation planned for 2026.
 
 ## Pattern Focus
 
+Biophilic surface patterns inspired by travel and natural environments — coastal landscapes, organic textures, flora and light. Selected images suggest large-scale nature-referencing motifs suited to wallpaper, upholstery, and interior surface specification.
+
 ## Connections
+
+- [[Home Decor Market]]
+- [[Wallpaper Market]]
+- [[Interior Design Market]]
+- [[Biophilic Design]]

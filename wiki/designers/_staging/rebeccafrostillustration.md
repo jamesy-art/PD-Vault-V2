@@ -21,7 +21,7 @@ bio: ''
 website: 'https://rebeccafrost.net'
 website_about: ''
 accepted: 11/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/rebeccafrostillustration
 profile_url: ''
 instagram_images:
@@ -38,9 +38,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Rebecca Frost
 website_meta_description: ''
 website_about_raw: >-
@@ -122,7 +125,7 @@ categories:
   - Womenswear
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   Hello my name is Rebecca. I’m a freelance illustrator, designer and writer
   based in Cumbria, UK. 
@@ -157,46 +160,181 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/421966158_685707347097362_1446992085627138743_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFbu913nCT-oJWu34ISfnpkwaKArOlqIsQhhwYkvBof_fokN97NCejnjwjDbzPaCuw&_nc_ohc=wQywT-SxjIgQ7kNvwEdZnSn&_nc_gid=ESvAh56VK4pDZXz_lSjNng&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af72O6SZlSbPn21VfzllBCwTZU5rF2m_TBMsfChpqTVEsw&oe=6A13F853&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/421966158_685707347097362_1446992085627138743_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFbu913nCT-oJWu34ISfnpkwaKArOlqIsQhhwYkvBof_fokN97NCejnjwjDbzPaCuw&_nc_ohc=wQywT-SxjIgQ7kNvwEdZnSn&_nc_gid=ESvAh56VK4pDZXz_lSjNng&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af72O6SZlSbPn21VfzllBCwTZU5rF2m_TBMsfChpqTVEsw&oe=6A13F853&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/rebeccafrostillustration/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4393
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/rebeccafrostillustration/profile/421966158_685707347097362_1446992085627138743_n.jpg
+instagram_profile_image_bytes: 129841
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/rebeccafrostillustration/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_image: >-
+  ../../assets/designers/rebeccafrostillustration/profile/421966158_685707347097362_1446992085627138743_n.jpg
+profile_images:
   - >-
-    ../../assets/designers/rebeccafrostillustration/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/rebeccafrostillustration/profile/instagram-profile.jpg
+    ../../assets/designers/rebeccafrostillustration/profile/421966158_685707347097362_1446992085627138743_n.jpg
+profile_image_local: >-
+  ../../assets/designers/rebeccafrostillustration/profile/421966158_685707347097362_1446992085627138743_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/rebeccafrostillustration/profile/421966158_685707347097362_1446992085627138743_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1541700745_1908246622435682799_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1542301699_1913287787801521429_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306546360707_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306554810946_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306756227178_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887876254_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887878262_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887883269_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205147097470281_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942982506943_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990807657_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990863546_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663953838_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663955223_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663992040_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663992493_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831672376298_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831747838535_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_111_space+pals+aop+90.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_123_house+aop+scale+40.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_13_space+pals+aop+90.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_141_SPRING+IN+MY+STEP.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_15_house+aop+scale+40.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_22_DSC_6160.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_2_seaside+birds+print+scale+23.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_45_seaside+birds+print+scale+23.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_81_DSC_6149.jpeg
+instagram_image_count: 27
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663955223_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_123_house+aop+scale+40.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_13_space+pals+aop+90.jpeg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_2_seaside+birds+print+scale+23.jpeg
+selected_placements:
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1541700745_1908246622435682799_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1542301699_1913287787801521429_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887876254_9159553535.jpg
+  - >-
+    ../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990807657_9159553535.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # rebeccafrostillustration
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/rebeccafrostillustration/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/rebeccafrostillustration/profile/421966158_685707347097362_1446992085627138743_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1541700745_1908246622435682799_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1541700745_1908246622435682799_9159553535.jpg --> | [ ] | [x] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1542301699_1913287787801521429_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1542301699_1913287787801521429_9159553535.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306546360707_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306546360707_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306554810946_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306554810946_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306756227178_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1662824022_2924302306756227178_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887876254_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887876254_9159553535.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887878262_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887878262_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887883269_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205146887883269_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205147097470281_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1666031090_2951205147097470281_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942982506943_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942982506943_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990807657_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990807657_9159553535.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990863546_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1699894849_3235274942990863546_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663953838_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663953838_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663955223_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663955223_9159553535.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663992040_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663992040_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663992493_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831663992493_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831672376298_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831672376298_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831747838535_9159553535.jpg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_1756643702_3711318831747838535_9159553535.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_111_space+pals+aop+90.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_111_space+pals+aop+90.jpeg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_123_house+aop+scale+40.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_123_house+aop+scale+40.jpeg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_13_space+pals+aop+90.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_13_space+pals+aop+90.jpeg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_141_SPRING+IN+MY+STEP.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_141_SPRING+IN+MY+STEP.jpeg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_15_house+aop+scale+40.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_15_house+aop+scale+40.jpeg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_22_DSC_6160.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_22_DSC_6160.jpeg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_2_seaside+birds+print+scale+23.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_2_seaside+birds+print+scale+23.jpeg --> | [x] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_45_seaside+birds+print+scale+23.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_45_seaside+birds+print+scale+23.jpeg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_81_DSC_6149.jpeg)<br><!-- image:../../assets/designers/rebeccafrostillustration/instagram/rebeccafrostillustration_imageye___-_imgi_81_DSC_6149.jpeg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rebecca Frost is a freelance illustrator, surface pattern designer, and writer based in Cumbria, UK. She creates fun and joyful illustration-driven surface patterns for children's clothing, books, stationery, and homeware. She is a Childrenswear Award winner from Graduate Fashion Week 2023.
+
 ## Style and Aesthetic
+
+Playful, character-led, and thematically varied. Selected pattern images include a space-character all-over print ("space pals"), a house and architecture print, and a seaside birds repeat — indicating a range from character illustration through to nature and environment-inspired prints. Placement images suggest application to garments and homeware products. Palette and style are joyful and accessible, suited to children's and lifestyle markets.
 
 ## Techniques and Tools
 
+Mixed-media: gouache, pencil, and digital. Hand-drawn quality combined with digital repeat construction. The mixed-medium approach produces illustration-driven patterns with warmth and character visible in final output.
+
 ## Markets and Clients
+
+Children's clothing, books, stationery, and homeware. Childrenswear Award (Graduate Fashion Week 2023) provides formal sector recognition. Open to freelance. No specific commercial clients documented beyond award recognition.
 
 ## Portfolio and Presence
 
+- Website: rebeccafrost.net
+- Instagram: @rebeccafrostillustration (390 followers, 112 posts)
+- Contact: beccy@rebeccafrost.net
+
 ## Career Path
+
+Based in Cumbria, UK. Graduate Fashion Week 2023 Childrenswear Award recipient. Practising as a freelance illustrator, designer, and writer. Roles span pattern design, illustration, and writing.
 
 ## Pattern Focus
 
+Character-led all-over repeat prints. Documented patterns: space pals AOP, house/architecture AOP, seaside birds print — thematic print collections built from strong illustrative characters and environments. Output suits children's product licensing, book publishing illustration, and stationery brand licensing. Style bridges illustration and repeat pattern disciplines.
+
 ## Connections
+
+- [[Childrenswear Market]]
+- [[Children's Books]]
+- [[Stationery Market]]
+- [[Graduate Fashion Week]]
+- [[All-Over Print]]
+- [[Illustration]]

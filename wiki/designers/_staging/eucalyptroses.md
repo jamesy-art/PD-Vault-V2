@@ -24,7 +24,7 @@ bio: ''
 website: 'https://eucalyptroses.com.au'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/eucalyptroses
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Eucalypt Roses — Surface Pattern Design
 website_meta_description: >-
   Australian native flowers and botanical-inspired surface pattern designs by
@@ -265,7 +268,7 @@ designer_type:
 open_to: []
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -284,45 +287,151 @@ instagram_profile_pic_url: >-
   https://instagram.foma1-2.fna.fbcdn.net/v/t51.2885-19/438889092_293691847108010_3275640853456481835_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.foma1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gGSvF0fQtnJhNEkI-UWU-lIu_dIpdhkWzxFYnk3Hv53IBWat1gmKptU7eGDlWwwCjA&_nc_ohc=f3NO9NPioToQ7kNvwFSQc1A&_nc_gid=8vgMGdyM0kI0fOHXWLJAjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4imwV3-V2eP3k_9npwPybuURWoaPzbQCIU58Q5lvVyNw&oe=6A13D480&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.foma1-2.fna.fbcdn.net/v/t51.2885-19/438889092_293691847108010_3275640853456481835_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.foma1-2.fna.fbcdn.net&_nc_cat=102&_nc_oc=Q6cZ2gGSvF0fQtnJhNEkI-UWU-lIu_dIpdhkWzxFYnk3Hv53IBWat1gmKptU7eGDlWwwCjA&_nc_ohc=f3NO9NPioToQ7kNvwFSQc1A&_nc_gid=8vgMGdyM0kI0fOHXWLJAjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4imwV3-V2eP3k_9npwPybuURWoaPzbQCIU58Q5lvVyNw&oe=6A13D480&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/eucalyptroses/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5811
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/eucalyptroses/profile/438889092_293691847108010_3275640853456481835_n.jpg
+instagram_profile_image_bytes: 204785
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/eucalyptroses/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/eucalyptroses/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/eucalyptroses/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/eucalyptroses/profile/438889092_293691847108010_3275640853456481835_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/eucalyptroses/profile/438889092_293691847108010_3275640853456481835_n.jpg
+profile_image_local: >-
+  ../../assets/designers/eucalyptroses/profile/438889092_293691847108010_3275640853456481835_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/eucalyptroses/profile/438889092_293691847108010_3275640853456481835_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1624956918_2606650019669902165_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055962759273_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055979509395_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632655129_2671227290222181663_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349249397933_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349257706349_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349559769558_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349568054912_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349601616586_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561781907473_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561798603250_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1643191522_2759612964540791963_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492886521_6727893273.webp
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492922861_6727893273.webp
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1673764428_3016077088515696167_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1686911402_3126361901664357419_6727893273.webp
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1687667505_3132704546379027712_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1714095813_3354401263155734732_6727893273.webp
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1624956918_2606650019669902165_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055979509395_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632655129_2671227290222181663_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349249397933_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561781907473_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1643191522_2759612964540791963_6727893273.jpg
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492886521_6727893273.webp
+  - >-
+    ../../assets/designers/eucalyptroses/instagram/eucalyptroses_1686911402_3126361901664357419_6727893273.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # eucalyptroses
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/eucalyptroses/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/eucalyptroses/profile/438889092_293691847108010_3275640853456481835_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1624956918_2606650019669902165_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1624956918_2606650019669902165_6727893273.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055962759273_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055962759273_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055979509395_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632017331_2665877055979509395_6727893273.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632655129_2671227290222181663_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1632655129_2671227290222181663_6727893273.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349249397933_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349249397933_6727893273.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349257706349_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349257706349_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349559769558_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349559769558_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349568054912_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349568054912_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349601616586_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1633675925_2679790349601616586_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561781907473_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561781907473_6727893273.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561798603250_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1638181704_2717587561798603250_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1643191522_2759612964540791963_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1643191522_2759612964540791963_6727893273.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492886521_6727893273.webp)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492886521_6727893273.webp --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492922861_6727893273.webp)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1662786161_2923984706492922861_6727893273.webp --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1673764428_3016077088515696167_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1673764428_3016077088515696167_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1686911402_3126361901664357419_6727893273.webp)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1686911402_3126361901664357419_6727893273.webp --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1687667505_3132704546379027712_6727893273.jpg)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1687667505_3132704546379027712_6727893273.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/eucalyptroses/instagram/eucalyptroses_1714095813_3354401263155734732_6727893273.webp)<br><!-- image:../../assets/designers/eucalyptroses/instagram/eucalyptroses_1714095813_3354401263155734732_6727893273.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Rose Feely is an Australian surface pattern designer and horticulturalist operating under the Eucalypt Roses brand, based in Western Victoria. Her work is grounded in a decade of hands-on botanical fieldwork — propagating waterlilies, working with Banksias in the Victorian countryside, and observing native flora across South East Queensland. Her designs are available for licensing and custom brand partnerships.
+
 ## Style and Aesthetic
+
+Selected Instagram images (8 approved patterns) suggest richly detailed botanical surface patterns drawing from Australian native flora — Banksia forms, waterlily structures, and heathland species. The work blends horticultural observation with pattern design, resulting in compositions that are species-specific and landscape-rooted, distinct from generic decorative botanicals. Palettes likely reflect the ochres, muted greens, and warm earth tones of the environments Rose documents.
 
 ## Techniques and Tools
 
+Patterns are digitally drawn. Her website documents a creative evolution rooted in lino printing, suggesting a print-based sensibility that preceded and informed her move to digital surface pattern production. Her horticultural background — including propagation, classification, and detailed species observation — directly informs pattern content and accuracy.
+
 ## Markets and Clients
+
+Available for licensing and brand partnerships. The website frames collaboration as "partnerships seeded with purpose," positioning the work for brands seeking authentic, narrative-driven botanical designs rooted in Australian biodiversity. No specific licensees are documented beyond direct enquiry.
 
 ## Portfolio and Presence
 
+- Website: https://eucalyptroses.com.au
+- Instagram: @eucalyptroses (709 followers, 370 posts)
+
 ## Career Path
+
+Rose holds dual professional identities as surface pattern designer and horticulturalist. For over a decade her design practice has been directly sustained by fieldwork — time in commercial growing operations, heathlands, and native plant environments across Victoria and South East Queensland. Her website documents a creative journal ("field notes") covering botanical sculpture, waterlily cultivation, lino origins, and wildflower fieldwork.
 
 ## Pattern Focus
 
+Eight selected Instagram images confirm a botanical surface pattern practice centred on Australian native flora. The pattern set suggests detailed, repeat-capable compositions grounded in specific species observation rather than generic decorative motifs.
+
 ## Connections
+
+- [[Australian Native Flora]]
+- [[Botanical Pattern]]
+- [[Surface Pattern Design]]
+- [[Licensing]]

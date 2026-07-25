@@ -27,7 +27,7 @@ bio: ''
 website: 'https://palindromeart.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/palindromeart
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Palindrome Art - Bright illustrations, designs and hand-lettering'
 website_meta_description: >-
   Bright illustrations, designs and hand-lettering, straight from my heart to
@@ -291,7 +294,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -308,45 +311,240 @@ instagram_profile_pic_url: >-
   https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/328168563_199081432704276_6363519014767666325_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENYpEkaFfw7xzbjG5JKS-RmxGr3OUiJjnqDwhYzYTXvUeYMzN_Vk32opkOIgX6mvo&_nc_ohc=tUhYMy2Q4ocQ7kNvwEm0WXh&_nc_gid=KIid4XhRrLx_gkuyxLfY8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5KkVD5qsnc73vIC5U72cDp7YZ2HCYTe0uqmeeNXq_X_Q&oe=6A13E82F&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-mia5-2.cdninstagram.com/v/t51.2885-19/328168563_199081432704276_6363519014767666325_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-mia5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gENYpEkaFfw7xzbjG5JKS-RmxGr3OUiJjnqDwhYzYTXvUeYMzN_Vk32opkOIgX6mvo&_nc_ohc=tUhYMy2Q4ocQ7kNvwEm0WXh&_nc_gid=KIid4XhRrLx_gkuyxLfY8w&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5KkVD5qsnc73vIC5U72cDp7YZ2HCYTe0uqmeeNXq_X_Q&oe=6A13E82F&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/palindromeart/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7653
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/palindromeart/profile/328168563_199081432704276_6363519014767666325_n.jpg
+instagram_profile_image_bytes: 172887
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/palindromeart/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/palindromeart/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/palindromeart/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/palindromeart/profile/328168563_199081432704276_6363519014767666325_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/palindromeart/profile/328168563_199081432704276_6363519014767666325_n.jpg
+profile_image_local: >-
+  ../../assets/designers/palindromeart/profile/328168563_199081432704276_6363519014767666325_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/palindromeart/profile/328168563_199081432704276_6363519014767666325_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136595074175866_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136598161158086_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136601315273849_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136602288371172_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653167301741033_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653169214340805_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653171168934240_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653173349949544_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346956923216932_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346960773564978_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346962870705611_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346966544922952_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346966922401183_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346971393587321_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701764304034587_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701770561942166_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701773397326509_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701774554926284_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701777532897616_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241051040575011_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241054463156360_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241059722789045_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241063413768847_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241064537820860_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241064655289672_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241067977207262_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241069881423491_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712123879446186_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712129248155270_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712132712672951_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712133358572795_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712134709152250_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712136378487566_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712138333003614_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055053847006198_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057479287557_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057487649489_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055059249289957_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055060549472485_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055061690343282_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914636826161306_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914641942836107_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914642354519455_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914643998244164_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914645256513858_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914646254631757_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914648520218496_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914653092520520_5968516116.jpg
+instagram_image_count: 48
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701764304034587_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241051040575011_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712123879446186_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057487649489_5968516116.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136598161158086_5968516116.jpg
+  - >-
+    ../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653167301741033_5968516116.jpg
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 2
+trash_image_count: 0
 ---
-
 # palindromeart
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/palindromeart/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/palindromeart/profile/328168563_199081432704276_6363519014767666325_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136595074175866_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136595074175866_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136598161158086_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136598161158086_5968516116.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136601315273849_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136601315273849_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136602288371172_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1770569482_3828136602288371172_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653167301741033_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653167301741033_5968516116.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653169214340805_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653169214340805_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653171168934240_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653171168934240_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653173349949544_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1775757060_3871653173349949544_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346956923216932_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346956923216932_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346960773564978_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346960773564978_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346962870705611_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346962870705611_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346966544922952_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346966544922952_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346966922401183_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346966922401183_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346971393587321_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777389491_3885346971393587321_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701764304034587_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701764304034587_5968516116.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701770561942166_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701770561942166_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701773397326509_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701773397326509_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701774554926284_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701774554926284_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701777532897616_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1777908629_3889701777532897616_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241051040575011_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241051040575011_5968516116.jpg --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241054463156360_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241054463156360_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241059722789045_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241059722789045_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241063413768847_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241063413768847_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241064537820860_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241064537820860_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241064655289672_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241064655289672_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241067977207262_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241067977207262_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241069881423491_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778688180_3896241069881423491_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712123879446186_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712123879446186_5968516116.jpg --> | [x] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712129248155270_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712129248155270_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712132712672951_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712132712672951_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712133358572795_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712133358572795_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712134709152250_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712134709152250_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712136378487566_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712136378487566_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712138333003614_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1778863541_3897712138333003614_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055053847006198_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055053847006198_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057479287557_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057479287557_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057487649489_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055057487649489_5968516116.jpg --> | [x] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055059249289957_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055059249289957_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055060549472485_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055060549472485_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055061690343282_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1779381242_3902055061690343282_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914636826161306_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914636826161306_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914641942836107_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914641942836107_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914642354519455_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914642354519455_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914643998244164_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914643998244164_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914645256513858_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914645256513858_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914646254631757_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914646254631757_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914648520218496_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914648520218496_5968516116.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914653092520520_5968516116.jpg)<br><!-- image:../../assets/designers/palindromeart/instagram/palindromeart_1780079758_3907914653092520520_5968516116.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Hannah Pearlman is an American illustrator and surface pattern designer working under the Palindrome Art brand. Her practice spans whimsical greeting cards, stationery, custom murals, and licensed pattern design, with a recurring focus on Jewish identity, motherhood, social justice, and everyday celebration. The work is rooted in the conviction that art can spark kindness, justice, and joy.
+
 ## Style and Aesthetic
+
+Selected images suggest a colourful, character-led illustrative style — warm palette, storybook figures, and playful composition. The work carries meaning alongside decoration, functioning simultaneously as pattern and social expression.
 
 ## Techniques and Tools
 
+Character-driven illustration with strong narrative composition. Works across physical stationery products and licensed digital formats. Custom mural capability demonstrates scale-adaptable illustration practice.
+
 ## Markets and Clients
+
+Stationery, licensing, home décor, and mural commissions. Retail products include greeting cards (Jewish holiday and everyday), notebooks, stickers (including activism stickers), and bookmarks. Licensing covers wallpaper, fabric, tech goods, packaging, home décor, and clothing. Available on [[Spoonflower]] and Happy Wall. Collaboration with Princess Awesome (rainbow dragon pattern); multi-year illustrative card commission with JLF (3 years).
 
 ## Portfolio and Presence
 
+- Instagram: @palindromeart
+- Spoonflower: available
+- Happy Wall: available
+- Subscription: Letter Rip! stationery box
+
 ## Career Path
+
+Built a practice around illustration with personal meaning — Jewish cultural identity and values around social justice are central to the brand. Expanded from stationery into licensing, murals, and subscription products.
 
 ## Pattern Focus
 
+Whimsical character-led repeat patterns licensed across home décor, children's products, stationery, and clothing. Rainbow dragon pattern (Princess Awesome collaboration) demonstrates B2B licensing in patterned apparel.
+
 ## Connections
+
+- [[Stationery]] market
+- [[Licensing]]
+- [[Spoonflower]]
+- [[Children's]] market
+- [[Home Décor]] market

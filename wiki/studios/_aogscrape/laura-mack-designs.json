@@ -1,0 +1,116 @@
+{
+  "slug": "laura-mack-designs",
+  "name": "Laura Mack Designs",
+  "website": "https://lauramackprintdesign.thepatterncloud.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/laura-mack-designs.md",
+  "scraped_at": "2026-06-05T23:23:17.432Z",
+  "status": "scraped",
+  "website_title": "Laura Mack Designs",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://lauramackprintdesign.thepatterncloud.com/home.php",
+      "text": "Laura Mack Designs HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN TROPICAL WATERCOLOUR EXPRESSIVE PAISLEY ILLUSTRATED FOLLIAGE ANIMAL FOLK BOLD MOTFS JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2",
+      "images": [
+        "https://lauramackprintdesign.thepatterncloud.com/img/mobile/hamburger.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/11.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/kbeumrqdhcxp.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/13.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/jvkrtdqbcyzx.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/fawplhdzxucv.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/dutlzfjmnvwx.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/iozkprjxevqh.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/qoemvzuhsgld.png",
+        "https://images.v2.thepatterncloud.com//studio_431/homePage/xvokystmpqlu.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/facebook.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/instagram.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/pinterest.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/twitter.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/facebookB.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/instagramB.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/pinterestB.png",
+        "https://lauramackprintdesign.thepatterncloud.com/img/social/twitterB.png"
+      ]
+    },
+    {
+      "url": "https://lauramackprintdesign.thepatterncloud.com/about.php",
+      "text": "Laura Mack Designs",
+      "images": []
+    }
+  ],
+  "website_about_raw": "SOURCE: https://lauramackprintdesign.thepatterncloud.com/home.php\nLaura Mack Designs HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN TROPICAL WATERCOLOUR EXPRESSIVE PAISLEY ILLUSTRATED FOLLIAGE ANIMAL FOLK BOLD MOTFS JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://lauramackprintdesign.thepatterncloud.com/about.php\nLaura Mack Designs",
+  "website_about_clean": "SOURCE: https://lauramackprintdesign.thepatterncloud.com/home.php\nLaura Mack Designs HOME ABOUT EXCLUSIVE DESIGNS NON-EXCLUSIVE DESIGNS SIGN UP LOG IN TROPICAL WATERCOLOUR EXPRESSIVE PAISLEY ILLUSTRATED FOLLIAGE ANIMAL FOLK BOLD MOTFS JOIN OUR SOCIAL NETWORKS SIGN UP FOR PATTERN NEWS CONTACT PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY FAQs V2\n\nSOURCE: https://lauramackprintdesign.thepatterncloud.com/about.php\nLaura Mack Designs",
+  "website_images": [
+    "https://lauramackprintdesign.thepatterncloud.com/img/mobile/hamburger.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/11.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/kbeumrqdhcxp.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/13.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/jvkrtdqbcyzx.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/fawplhdzxucv.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/dutlzfjmnvwx.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/iozkprjxevqh.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/qoemvzuhsgld.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/xvokystmpqlu.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/facebook.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/instagram.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/pinterest.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/twitter.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/facebookB.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/instagramB.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/pinterestB.png",
+    "https://lauramackprintdesign.thepatterncloud.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "good",
+  "scrape_quality_score": 75,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/11.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/kbeumrqdhcxp.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/13.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/jvkrtdqbcyzx.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/fawplhdzxucv.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/dutlzfjmnvwx.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/iozkprjxevqh.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/qoemvzuhsgld.png",
+    "https://images.v2.thepatterncloud.com//studio_431/homePage/xvokystmpqlu.png"
+  ],
+  "website_images_local": [
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/11.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-01.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/kbeumrqdhcxp.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-02.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/13.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-03.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/jvkrtdqbcyzx.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-04.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/fawplhdzxucv.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-05.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/dutlzfjmnvwx.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-06.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/iozkprjxevqh.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-07.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/qoemvzuhsgld.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-08.png"
+    },
+    {
+      "source_url": "https://images.v2.thepatterncloud.com//studio_431/homePage/xvokystmpqlu.png",
+      "local_path": "../../assets/studios/laura-mack-designs/website/website-09.png"
+    }
+  ]
+}

@@ -19,7 +19,7 @@ bio: ''
 website: 'https://femketextiles.com.au'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/femketextiles
 profile_url: ''
 instagram_images:
@@ -36,9 +36,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Femke Textiles
 website_meta_description: >-
   Femke Textiles is a Melbourne based textile design business that specialises
@@ -271,7 +274,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -291,45 +294,182 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/648967182_18569607913005497_1042610249310640949_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHFk9M1LTpzr2EMfcy0c1BVYMPZDgXATNCXpSGJyfBpgsOJ2mYEE0F8Dwc-tYltBqw&_nc_ohc=GYMH9OBvTLMQ7kNvwGjX8XO&_nc_gid=SiecmKpxIB8vn_PQgjQZXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7CzXTC81OUkzg7TjI2WaghES2si_fLoBhlgfL9t2ATqw&oe=6A13FD83&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-2.cdninstagram.com/v/t51.82787-19/648967182_18569607913005497_1042610249310640949_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHFk9M1LTpzr2EMfcy0c1BVYMPZDgXATNCXpSGJyfBpgsOJ2mYEE0F8Dwc-tYltBqw&_nc_ohc=GYMH9OBvTLMQ7kNvwGjX8XO&_nc_gid=SiecmKpxIB8vn_PQgjQZXA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7CzXTC81OUkzg7TjI2WaghES2si_fLoBhlgfL9t2ATqw&oe=6A13FD83&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/femketextiles/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 8605
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/femketextiles/profile/648967182_18569607913005497_1042610249310640949_n.jpg
+instagram_profile_image_bytes: 210560
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/femketextiles/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/femketextiles/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/femketextiles/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/femketextiles/profile/648967182_18569607913005497_1042610249310640949_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/femketextiles/profile/648967182_18569607913005497_1042610249310640949_n.jpg
+profile_image_local: >-
+  ../../assets/designers/femketextiles/profile/648967182_18569607913005497_1042610249310640949_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/femketextiles/profile/648967182_18569607913005497_1042610249310640949_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935519274892_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935644959260_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041026108_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041132089_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166791457_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166930923_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1732953299_3512589322043561727_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1732953299_3512589322043742904_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643487544346_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643621613340_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388033922782561_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034014897800_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034199628094_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1750751065_3661887803018407979_1423749496.jpg
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423467511542_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423467572058_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423585060119_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465648046487_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782314053_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782356682_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1756191934_3707529123336183178_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1769153037_3816254715127114615_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391215923699820_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391218960397832_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391223137871524_1423749496.webp
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643621613340_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388033922782561_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034014897800_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465648046487_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782356682_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1756191934_3707529123336183178_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1769153037_3816254715127114615_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391218960397832_1423749496.webp
+selected_placements:
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935644959260_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041026108_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041132089_1423749496.webp
+  - >-
+    ../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166791457_1423749496.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # femketextiles
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/femketextiles/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/femketextiles/profile/648967182_18569607913005497_1042610249310640949_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935519274892_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935519274892_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935644959260_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1717451515_3382550935644959260_1423749496.webp --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041026108_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041026108_1423749496.webp --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041132089_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153041132089_1423749496.webp --> | [ ] | [x] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166791457_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166791457_1423749496.webp --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166930923_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1722076385_3421347153166930923_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1732953299_3512589322043561727_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1732953299_3512589322043561727_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1732953299_3512589322043742904_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1732953299_3512589322043742904_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643487544346_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643487544346_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643621613340_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1741552618_3584725643621613340_1423749496.webp --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388033922782561_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388033922782561_1423749496.webp --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034014897800_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034014897800_1423749496.webp --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034199628094_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1743538930_3601388034199628094_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1750751065_3661887803018407979_1423749496.jpg)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1750751065_3661887803018407979_1423749496.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423467511542_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423467511542_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423467572058_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423467572058_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423585060119_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1751402379_3667351423585060119_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465648046487_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465648046487_1423749496.webp --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782314053_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782314053_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782356682_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1754540211_3693673465782356682_1423749496.webp --> | [x] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1756191934_3707529123336183178_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1756191934_3707529123336183178_1423749496.webp --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1769153037_3816254715127114615_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1769153037_3816254715127114615_1423749496.webp --> | [x] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391215923699820_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391215923699820_1423749496.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391218960397832_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391218960397832_1423749496.webp --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391223137871524_1423749496.webp)<br><!-- image:../../assets/designers/femketextiles/instagram/femketextiles_1771553597_3836391223137871524_1423749496.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Simone Deckers is a Dutch-Australian artist, textile designer, and screen printer based in Melbourne, operating as Femke Textiles. Her studio produces bespoke hand screen-printed fabrics, homewares, and gifts inspired by Australian native flora. All products are designed and hand-printed in small batches in her Melbourne studio. She also offers screen printing workshops.
+
 ## Style and Aesthetic
+
+Deckers works with a distinctive botanical vocabulary drawn from Australian native flora — eucalyptus, wattle, grevillea, correas, desert limes, and seedpods. Selected patterns confirm detailed botanical compositions rendered in earthy, nature-derived colour palettes (Olive Oil, Grape Fizz, Slate, Turmeric, Snow). The aesthetic is precise and naturalistic, anchored in specific plant species rather than generic botanical styling.
 
 ## Techniques and Tools
 
+Hand screen printing on medium-weight linen (245 gsm). Hand-cut stencils used for select designs. Small-batch studio production with a 7–14 day lead time. Each piece carries subtle variation inherent to handmade printing. Skills include colour theory, print and production craft.
+
 ## Markets and Clients
+
+Direct product range spanning linen fabrics (sold by the metre), napkins, tea towels, oven gloves, greeting cards, and cushion covers — available via her online store. Selected placement images confirm product application across homewares. Target market is home décor and functional printed goods. Trade/wholesale contact available at femketextiles@gmail.com.
 
 ## Portfolio and Presence
 
+- Website: [femketextiles.com.au](https://femketextiles.com.au)
+- Instagram: [@femketextiles](https://instagram.com/femketextiles) — 9,437 followers, 3,673 posts
+
 ## Career Path
+
+Deckers has a Dutch and Australian background and is based in Melbourne. She operates a studio and direct retail business producing functional handmade goods. Her Instagram community of 9,437 reflects strong engagement for her niche. She also teaches screen printing and fabric design.
 
 ## Pattern Focus
 
+Australian native botanical motifs — eucalyptus, wattle (Acacia), grevillea, correas, desert limes, and seedpods — in hand screen-printed repeat patterns on linen. Designs are named and available in multiple colourways (documented: Slate, Olive Oil, Grape Fizz, Turmeric, Snow), indicating a developed collections approach. Strong regional identity anchored in Australian flora and bush landscape.
+
 ## Connections
+
+- [[Botanical Patterns]]
+- [[Australian Flora]]
+- [[Screen Printing]]
+- [[Hand Printing]]
+- [[Home Textiles]]
+- [[Linen Fabrics]]

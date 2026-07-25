@@ -23,7 +23,7 @@ bio: ''
 website: 'https://atelier-moeli.com'
 website_about: ''
 accepted: 26/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/atelier.moeli
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Atelier Moëli - Motifs et linogravures
 website_meta_description: >-
   Créatrice de motifs à Nantes - L'Atelier Moëli propose des motifs artisanaux
@@ -293,7 +296,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   about
 
@@ -390,45 +393,177 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/670844428_18048629102733721_5819850226911567214_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODEuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFKPNLe9HEkXSG5lavyI6U_DXnqAnKcDPCO2-6LdJ-N7aT8Hk-m8WQbuCnOgvLQc-E&_nc_ohc=vGMchmh304wQ7kNvwFLCxcB&_nc_gid=Q8dUebXzyRJLHvs2ZNPo2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5xOZdCUgjgOFxjTFkhgtbcyBz9RaPTVfkdxz4qXMvZ5A&oe=6A13E9AE&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/670844428_18048629102733721_5819850226911567214_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODEuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFKPNLe9HEkXSG5lavyI6U_DXnqAnKcDPCO2-6LdJ-N7aT8Hk-m8WQbuCnOgvLQc-E&_nc_ohc=vGMchmh304wQ7kNvwFLCxcB&_nc_gid=Q8dUebXzyRJLHvs2ZNPo2g&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5xOZdCUgjgOFxjTFkhgtbcyBz9RaPTVfkdxz4qXMvZ5A&oe=6A13E9AE&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/atelier.moeli/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4547
+instagram_profile_image_local: >-
+  ../../assets/designers/atelier.moeli/profile/670844428_18048629102733721_5819850226911567214_n.jpg
+instagram_profile_image_bytes: 23756
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/atelier.moeli/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/atelier.moeli/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/atelier.moeli/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/atelier.moeli/profile/670844428_18048629102733721_5819850226911567214_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/atelier.moeli/profile/670844428_18048629102733721_5819850226911567214_n.jpg
+profile_image_local: >-
+  ../../assets/designers/atelier.moeli/profile/670844428_18048629102733721_5819850226911567214_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/atelier.moeli/profile/670844428_18048629102733721_5819850226911567214_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646238096_2785169476695737911_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646398519_2786515204705711800_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1649772714_2814820002357993788_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1650450330_2820504261424755695_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1652339418_2836351074228593318_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347249040158_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347257556343_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1684082130_3102628066874163512_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911597260_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911657374_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911719400_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911736128_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911742896_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058765038_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058801186_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827750963636240_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751156453867_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751240439968_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751248790705_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700358519600_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366810141_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366851883_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366914246_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700375194040_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700442291939_51927189720.webp
+instagram_image_count: 25
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646238096_2785169476695737911_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646398519_2786515204705711800_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1650450330_2820504261424755695_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1652339418_2836351074228593318_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347249040158_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058765038_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751156453867_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700375194040_51927189720.webp
+selected_placements:
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1649772714_2814820002357993788_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911657374_51927189720.jpg
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700358519600_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366810141_51927189720.webp
+  - >-
+    ../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366851883_51927189720.webp
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 5
+trash_image_count: 0
 ---
-
 # atelier.moeli
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/atelier.moeli/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/atelier.moeli/profile/670844428_18048629102733721_5819850226911567214_n.jpg)
 
 ## Instagram Images
 
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646238096_2785169476695737911_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646238096_2785169476695737911_51927189720.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646398519_2786515204705711800_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1646398519_2786515204705711800_51927189720.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1649772714_2814820002357993788_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1649772714_2814820002357993788_51927189720.jpg --> | [ ] | [x] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1650450330_2820504261424755695_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1650450330_2820504261424755695_51927189720.webp --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1652339418_2836351074228593318_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1652339418_2836351074228593318_51927189720.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347249040158_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347249040158_51927189720.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347257556343_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1679332606_3062786347257556343_51927189720.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1684082130_3102628066874163512_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1684082130_3102628066874163512_51927189720.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911597260_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911597260_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911657374_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911657374_51927189720.jpg --> | [ ] | [x] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911719400_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911719400_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911736128_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911736128_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911742896_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1708944308_3311176292911742896_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058765038_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058765038_51927189720.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058801186_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1715767525_3368424605058801186_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827750963636240_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827750963636240_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751156453867_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751156453867_51927189720.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751240439968_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751240439968_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751248790705_51927189720.jpg)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1719511072_3399827751248790705_51927189720.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700358519600_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700358519600_51927189720.webp --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366810141_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366810141_51927189720.webp --> | [ ] | [x] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366851883_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366851883_51927189720.webp --> | [ ] | [x] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366914246_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700366914246_51927189720.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700375194040_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700375194040_51927189720.webp --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700442291939_51927189720.webp)<br><!-- image:../../assets/designers/atelier.moeli/instagram/atelier.moeli_1750260327_3657739700442291939_51927189720.webp --> | [ ] | [ ] | [ ] |
+
 ## Website Images
 
-
 ## Overview
+Sylvie Maillard is a Nantes-based pattern designer and printmaker operating as Atelier Moëli. Her practice centres on artisanal print techniques — linocut, cyanotype, and plant prints — applied to pattern design for textiles and interior decoration. Motifs are hand-drawn and traditionally constructed before digital refinement; a private pattern catalogue is available on request. Maillard also teaches printmaking workshops throughout the year.
 
 ## Style and Aesthetic
+The practice is rooted in plant matter, gesture, and materiality. Motifs are gathered from botanical observation — forms that grow, transform, and carry trace. The visual language is restrained and precise: botanical rhythms with a handmade quality that preserves the marks and irregularities of the making process. Selected Instagram images suggest botanical and organic repeat patterns with a refined palette suited to interior decoration and artisanal textile use.
 
 ## Techniques and Tools
+Linocut (hand-drawn, engraved, and printed in-studio), cyanotype (light and water-reactive printing yielding deep blues), and plant printing (direct impression of botanical matter). Each motif is drawn traditionally and then refined digitally. Pattern composition involves assembling drawn, engraved, or printed elements into rhythms and repeats.
 
 ## Markets and Clients
+Interior decoration and textile. Documented collaboration: Atelier Moëli × César Bazaar — Tulipe cement tile collection. Pattern catalogue available on request for licensing. Teaching workshops hosted at @m.u.m44, Nantes.
 
 ## Portfolio and Presence
+- Website: atelier-moeli.com
+- Instagram: @atelier.moeli (1,002 followers, 158 posts)
+- Email: hello@atelier-moeli.com
+- Pattern catalogue: password-protected, available on request
 
 ## Career Path
+Based in Nantes. Founded Atelier Moëli as a creative and transmission space combining pattern design practice with public-facing printmaking workshops. No specific prior career history documented.
 
 ## Pattern Focus
+Botanical, organic, and printmaking-derived patterns. Linocut-based florals and patchworks; cyanotype circles and plant forms; plant print herbarium compositions. Selected images suggest a vocabulary of leaf forms, botanical abstractions, and rhythmic repeat structures with an artisanal, hand-printed character.
 
 ## Connections
+- [[Linocut]]
+- [[Cyanotype]]
+- [[Botanical Pattern]]
+- [[César Bazaar]]
+- [[Decoration Market]]

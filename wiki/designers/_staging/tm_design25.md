@@ -26,7 +26,7 @@ bio: ''
 website: 'https://theomitchelldesign.com'
 website_about: ''
 accepted: 11/07/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/tm_design25
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: TM Design
 website_meta_description: ''
 website_about_raw: >-
@@ -297,7 +300,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -314,45 +317,129 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/500284146_18032381015674812_2157556385395161952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE5bqbPx8C-7ch1YkTkYfHCAaP6nEDBJbiejsF_PCAOtyowxTCprppIi4xK4HCEupw&_nc_ohc=7j4CEtdq3M4Q7kNvwEA5vDs&_nc_gid=jrzeqyayPIjuM8VJb-49oA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af43gMcHGwmUycikBSOJRp-HdhKxQ0QI48u42apIqN-cWw&oe=6A14008A&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/500284146_18032381015674812_2157556385395161952_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE5bqbPx8C-7ch1YkTkYfHCAaP6nEDBJbiejsF_PCAOtyowxTCprppIi4xK4HCEupw&_nc_ohc=7j4CEtdq3M4Q7kNvwEA5vDs&_nc_gid=jrzeqyayPIjuM8VJb-49oA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af43gMcHGwmUycikBSOJRp-HdhKxQ0QI48u42apIqN-cWw&oe=6A14008A&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/tm_design25/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4170
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/tm_design25/profile/500284146_18032381015674812_2157556385395161952_n.jpg
+instagram_profile_image_bytes: 106654
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/tm_design25/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/tm_design25/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/tm_design25/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/tm_design25/profile/500284146_18032381015674812_2157556385395161952_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/tm_design25/profile/500284146_18032381015674812_2157556385395161952_n.jpg
+profile_image_local: >-
+  ../../assets/designers/tm_design25/profile/500284146_18032381015674812_2157556385395161952_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/tm_design25/profile/500284146_18032381015674812_2157556385395161952_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1747929992_3638222931549656098_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1747930188_3638224577654627760_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1751884320_3671394235027003435_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1751884320_3671394235110709523_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1755022196_3697716649495011458_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1755195003_3699166263955692167_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1759051699_3731518568245276867_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1763391999_3767927645493851248_50279858811.jpg
+instagram_image_count: 8
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1747929992_3638222931549656098_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1747930188_3638224577654627760_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1755022196_3697716649495011458_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1755195003_3699166263955692167_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1759051699_3731518568245276867_50279858811.jpg
+  - >-
+    ../../assets/designers/tm_design25/instagram/tm_design25_1763391999_3767927645493851248_50279858811.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # tm_design25
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/tm_design25/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/tm_design25/profile/500284146_18032381015674812_2157556385395161952_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1747929992_3638222931549656098_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1747929992_3638222931549656098_50279858811.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1747930188_3638224577654627760_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1747930188_3638224577654627760_50279858811.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1751884320_3671394235027003435_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1751884320_3671394235027003435_50279858811.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1751884320_3671394235110709523_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1751884320_3671394235110709523_50279858811.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1755022196_3697716649495011458_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1755022196_3697716649495011458_50279858811.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1755195003_3699166263955692167_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1755195003_3699166263955692167_50279858811.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1759051699_3731518568245276867_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1759051699_3731518568245276867_50279858811.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/tm_design25/instagram/tm_design25_1763391999_3767927645493851248_50279858811.jpg)<br><!-- image:../../assets/designers/tm_design25/instagram/tm_design25_1763391999_3767927645493851248_50279858811.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Theo Mitchell is a Textile Design graduate from DJCAD (Duncan of Jordanstone College of Art & Design), Class of 2025. He specialises in digital repeat pattern design for interior applications — wallpaper, curtains, bedding, and soft furnishings — with a focus on bold, vibrant colour palettes. All designs are available for copyright purchase; an Etsy shop launched post-graduation. Won the Saltern Prize at the 2025 DJCAD degree show. Work received a mention in Fife Today.
+
 ## Style and Aesthetic
+
+Mitchell's stated aesthetic is maximalist, nature-inspired, and colour-forward. His designs use overlapping compositions to replicate the immersive experience of being surrounded by nature. Selected Instagram images suggest rich, saturated botanical and floral patterns in vibrant interior-ready colourways. The graduate project "Flourishing Homes" featured two distinct collections: a dark collection (sophisticated, tranquil) and a light collection (bright, playful). Post-graduation work expands into marine and fruit-inspired subject matter.
 
 ## Techniques and Tools
 
+Process: physical sketches → scan/Procreate → tossed (multidirectional) repeat. The tossed layout method is a deliberate choice, cited as providing "more freedom and motion within the design." Also uses screen-printing; a Bernat Klein X V&A Museum collaboration significantly developed his colour approach and screen-printing skills. Procreate is the primary digital tool; repeat construction is the core technical skill.
+
 ## Markets and Clients
+
+Designed for interiors (wallpaper, curtains, bedding, soft furnishings). Sells designs via Etsy for copyright purchase — actively bridging between graduation and full-time textile design employment. Open to commissions. No commercial licensing clients documented. Degree show at DJCAD provided exposure to industry representatives and other textile design graduates.
 
 ## Portfolio and Presence
 
+- Website: theomitchelldesign.com
+- Instagram: @tm_design25 (307 followers)
+- Etsy shop (copyright purchase, open post-graduation)
+- Instagram bio: "DJCAD Textile Design grad / Specialising in digital design for interiors / All designs available for copyright purchase / Etsy open now"
+
 ## Career Path
+
+UK-based. Textile Design graduate, DJCAD, University of Dundee, Class of 2025. Won Saltern Prize at 2025 degree show. Work referenced in Fife Today. Key formative project: Bernat Klein X V&A Museum collaboration (colour theory, screen-printing). Launched Etsy shop post-graduation while seeking full-time employment in textile design.
 
 ## Pattern Focus
 
+Three documented project collections, all using tossed repeat format:
+- **Flourishing Homes** (graduate project): floral/botanical, interiors focus, two collections (dark: sophisticated; light: playful)
+- **Beneath The Waves** (post-graduation personal project): marine life, coral, seaweed; blue-green palette with warm orange notes
+- **Fruit Fusion** (post-graduation personal project): 4 tossed repeat patterns, fruit-inspired saturated colours, interior focus
+
+All work targets wallpaper, curtains, bedding, and soft furnishings. Colour is the consistent design axis.
+
 ## Connections
+
+- [[DJCAD]]
+- [[University of Dundee]]
+- [[V&A Museum Dundee]]
+- [[Bernat Klein]]
+- [[Etsy]]
+- [[Surface Pattern Design]]
+- [[Wallpaper]]
+- [[Home Decor]]
+- [[Botanical Pattern]]

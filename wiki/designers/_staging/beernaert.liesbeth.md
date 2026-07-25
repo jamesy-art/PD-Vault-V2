@@ -26,7 +26,7 @@ bio: ''
 website: 'https://liesbethbeernaert.com'
 website_about: ''
 accepted: 15/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/beernaert.liesbeth
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: >-
   liesbeth beernaert illustrator and pattern designer. Print designer for
   brands.
@@ -246,7 +249,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -263,45 +266,163 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/565823258_18161642560379241_2401451840370713464_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHHqfPriI3bmE7VuOlWQG3JeP7awrRBryjST98G2YS8Y22vSqlWIhXq8BLMgwf5Opo&_nc_ohc=mGsV4b8HOA8Q7kNvwHWhwL1&_nc_gid=ZJE5maQgXNC1A9U4jfRsnw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6wLDE0-jL-mxaTPPP7dNUQ9F9EUmlepyOHnEfAK1LvYg&oe=6A13DEF7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-1.cdninstagram.com/v/t51.82787-19/565823258_18161642560379241_2401451840370713464_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHHqfPriI3bmE7VuOlWQG3JeP7awrRBryjST98G2YS8Y22vSqlWIhXq8BLMgwf5Opo&_nc_ohc=mGsV4b8HOA8Q7kNvwHWhwL1&_nc_gid=ZJE5maQgXNC1A9U4jfRsnw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6wLDE0-jL-mxaTPPP7dNUQ9F9EUmlepyOHnEfAK1LvYg&oe=6A13DEF7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/beernaert.liesbeth/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5267
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/beernaert.liesbeth/profile/565823258_18161642560379241_2401451840370713464_n.jpg
+instagram_profile_image_bytes: 179666
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/beernaert.liesbeth/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/beernaert.liesbeth/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/beernaert.liesbeth/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/beernaert.liesbeth/profile/565823258_18161642560379241_2401451840370713464_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/beernaert.liesbeth/profile/565823258_18161642560379241_2401451840370713464_n.jpg
+profile_image_local: >-
+  ../../assets/designers/beernaert.liesbeth/profile/565823258_18161642560379241_2401451840370713464_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/beernaert.liesbeth/profile/565823258_18161642560379241_2401451840370713464_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1554902243_2018988811612383246_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1571040100_2154362965436793800_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1612533608_2502435738835471954_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613138412_2507509208237702323_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613484003_2510408230556276818_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1630674031_2654608635215646418_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1634907603_2690122417253556848_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1636034466_2699575222502614955_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1642773602_2756107193378300552_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1672671758_3006911103716804508_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1685960173_3118382414468240773_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1686293759_3121180734786000941_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1687260036_3129286455058551453_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1730464923_3491715309913978297_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899319_3654742838684696252_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899584_3654745069014330142_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1750018070_3655738997377200627_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1755422399_3701073798501995366_11391867240.jpg
+instagram_image_count: 18
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1554902243_2018988811612383246_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1571040100_2154362965436793800_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1612533608_2502435738835471954_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1630674031_2654608635215646418_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1634907603_2690122417253556848_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1636034466_2699575222502614955_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1687260036_3129286455058551453_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899584_3654745069014330142_11391867240.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613484003_2510408230556276818_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1642773602_2756107193378300552_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1730464923_3491715309913978297_11391867240.jpg
+  - >-
+    ../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1755422399_3701073798501995366_11391867240.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # beernaert.liesbeth
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/beernaert.liesbeth/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/beernaert.liesbeth/profile/565823258_18161642560379241_2401451840370713464_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1554902243_2018988811612383246_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1554902243_2018988811612383246_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1571040100_2154362965436793800_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1571040100_2154362965436793800_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1612533608_2502435738835471954_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1612533608_2502435738835471954_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613138412_2507509208237702323_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613138412_2507509208237702323_11391867240.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613484003_2510408230556276818_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1613484003_2510408230556276818_11391867240.jpg --> | [ ] | [x] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1630674031_2654608635215646418_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1630674031_2654608635215646418_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1634907603_2690122417253556848_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1634907603_2690122417253556848_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1636034466_2699575222502614955_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1636034466_2699575222502614955_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1642773602_2756107193378300552_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1642773602_2756107193378300552_11391867240.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1672671758_3006911103716804508_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1672671758_3006911103716804508_11391867240.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1685960173_3118382414468240773_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1685960173_3118382414468240773_11391867240.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1686293759_3121180734786000941_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1686293759_3121180734786000941_11391867240.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1687260036_3129286455058551453_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1687260036_3129286455058551453_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1730464923_3491715309913978297_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1730464923_3491715309913978297_11391867240.jpg --> | [ ] | [x] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899319_3654742838684696252_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899319_3654742838684696252_11391867240.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899584_3654745069014330142_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1749899584_3654745069014330142_11391867240.jpg --> | [x] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1750018070_3655738997377200627_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1750018070_3655738997377200627_11391867240.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1755422399_3701073798501995366_11391867240.jpg)<br><!-- image:../../assets/designers/beernaert.liesbeth/instagram/beernaert.liesbeth_1755422399_3701073798501995366_11391867240.jpg --> | [ ] | [x] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Liesbeth Beernaert is a Belgian illustrator and pattern designer collaborating with brands and companies through creative partnerships and licensing. A trained architect and mother of three, she brings structural thinking into playful, colour-forward surface design. Her professional catalogue is available by request to companies and licensed-pattern professionals only.
+
 ## Style and Aesthetic
+
+Bold, bright, and colourful, with a strong abstract and minimal underpinning. Her own description — "bold, playful surface designs with a strong abstract and minimal aesthetic" — signals simplified, graphic shapes rather than detailed naturalistic rendering. Selected Instagram images (8 patterns) suggest compositions featuring fantasy creatures, animals, and geometric or abstract forms in vibrant, clear-lined palettes.
 
 ## Techniques and Tools
 
+Always begins by hand — documented methods include quick sketch, cut paper, and acrylic paint. Work is adapted digitally for print. Colour theory is listed as a core skill. No software is specified.
+
 ## Markets and Clients
+
+Documented markets include packaging, stationery, home decor, children's room accessories, and apparel. Open to commissions and creative partnerships alongside licensing. Selected placement images (4) suggest applied print contexts across apparel and home product categories. A gated professional catalogue is maintained for licensing inquiries.
 
 ## Portfolio and Presence
 
+- Website: liesbethbeernaert.com
+- Instagram: @beernaert.liesbeth (134 followers, 176 posts)
+- Contact: liesbeth.beernaert@icloud.com / +32 474 97 31 76
+
 ## Career Path
+
+Liesbeth Beernaert holds architecture training alongside her illustration and pattern design practice. She works independently from Belgium, collaborating with brands through licensing and custom design. No formal art school background is documented beyond the architecture degree.
 
 ## Pattern Focus
 
+Selected Instagram images (8 patterns) suggest abstract shapes, fantasy/folk creatures, animals, and geometric forms. Work features "simple, clear shapes and lines" — graphic and accessible rather than intricately detailed. Placement selections (4) indicate applied contexts across apparel and stationery. Documented suitability: packaging, stationery, home decor, children's accessories, and apparel.
+
 ## Connections
+
+- [[Packaging]] — documented target market
+- [[Stationery]] — documented target market
+- [[Home Decor]] — documented target market
+- [[Kidswear]] — documented target market
+- [[Licensing]] — primary commercial model
+- [[Illustration]] — documented practice
+- [[Belgium]] — based

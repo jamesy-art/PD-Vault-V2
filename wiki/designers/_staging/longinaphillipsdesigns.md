@@ -27,7 +27,7 @@ bio: ''
 website: 'https://longinaphillips.com'
 website_about: ''
 accepted: 07/12/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/longinaphillipsdesigns
 profile_url: ''
 instagram_images:
@@ -44,8 +44,11 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Longina Phillips Designs | Exclusive Print & Pattern Design Studio
 website_meta_description: >-
   Longina Phillips Designs creates original surface patterns for global fashion
@@ -298,7 +301,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -314,44 +317,149 @@ instagram_business_account: true
 instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/575716553_18540522706051905_4936851242918208190_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEU8ei4Y_-9XDIQ4puhQHEWYQbv9qtR_kkNLE0_WMGgCrxmEs0JGwnt53CesX25NC8&_nc_ohc=HwTiQvhRMAYQ7kNvwH3YrOk&_nc_gid=1mKaHzCqpkfwqPSw-wQAIA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af56cpE2KSHy_sew_7xpgFLde0xuqTaAXhLWnB32cNIoHw&oe=6A13F6FE&_nc_sid=8b3546
 instagram_profile_pic_best_url: ''
-instagram_profile_image_local: ''
-instagram_profile_image_bytes: 0
-instagram_profile_image_quality: ''
+instagram_profile_image_local: >-
+  ../../assets/designers/longinaphillipsdesigns/profile/575716553_18540522706051905_4936851242918208190_n.jpg
+instagram_profile_image_bytes: 28998
+instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ''
-profile_images: []
-profile_image_local: ''
+profile_image: >-
+  ../../assets/designers/longinaphillipsdesigns/profile/575716553_18540522706051905_4936851242918208190_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/profile/575716553_18540522706051905_4936851242918208190_n.jpg
+profile_image_local: >-
+  ../../assets/designers/longinaphillipsdesigns/profile/575716553_18540522706051905_4936851242918208190_n.jpg
 images:
-  profile: null
+  profile:
+    - >-
+      ../../assets/designers/longinaphillipsdesigns/profile/575716553_18540522706051905_4936851242918208190_n.jpg
 enrichment_stats:
-  profile_total: 0
-  profile_valid: 0
+  profile_total: 1
+  profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039122520557209_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039123049079971_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1759878076_3738450714558331820_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1759878076_3738450717813087578_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1761087658_3748597430997969655_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1761087658_3748597431534872099_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294391661215532_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294392030282232_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294392248406246_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110005716620_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110777437454_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1773703861_3854429810090072778_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416565956727_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416591165959_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263435971685_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263486296106_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421264434210385_305395904.jpg
+instagram_image_count: 17
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039122520557209_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039123049079971_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110777437454_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1773703861_3854429810090072778_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416565956727_305395904.jpg
+  - >-
+    ../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263435971685_305395904.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # longinaphillipsdesigns
 
 ## Profile Image
 
-_No profile image found._
+![pd-profile|160](../../assets/designers/longinaphillipsdesigns/profile/575716553_18540522706051905_4936851242918208190_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039122520557209_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039122520557209_305395904.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039123049079971_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1757325615_3717039123049079971_305395904.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1759878076_3738450714558331820_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1759878076_3738450714558331820_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1759878076_3738450717813087578_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1759878076_3738450717813087578_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1761087658_3748597430997969655_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1761087658_3748597430997969655_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1761087658_3748597431534872099_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1761087658_3748597431534872099_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294391661215532_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294391661215532_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294392030282232_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294392030282232_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294392248406246_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1762124418_3757294392248406246_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110005716620_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110005716620_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110777437454_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1769554818_3819625110777437454_305395904.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1773703861_3854429810090072778_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1773703861_3854429810090072778_305395904.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416565956727_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416565956727_305395904.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416591165959_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1775419236_3868819416591165959_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263435971685_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263435971685_305395904.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263486296106_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421263486296106_305395904.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421264434210385_305395904.jpg)<br><!-- image:../../assets/designers/longinaphillipsdesigns/instagram/longinaphillipsdesigns_1779663307_3904421264434210385_305395904.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Longina Phillips Designs is a Sydney-based print and pattern design studio founded in 1988. With over 35 years of industry experience, the studio creates original, hand-painted seamless repeat patterns for global fashion and homeware brands. Each design is sold exclusively to a single client with full intellectual property transfer. The studio's documented client base includes Anthropologie, Zara, H&M, and Seafolly, and spans over 3,000 brands worldwide.
+
 ## Style and Aesthetic
+
+Hand-painted and illustrated, with deliberate commercial range. The studio positions its output at the intersection of "timeless elegance" and active trend tracking. Selected Instagram patterns suggest a broad repertoire consistent with supplying fashion and homeware brands across seasonal briefs — from floral and botanical through to more geometric or abstract work. All designs originate as hand-painted or illustrated artwork before production finishing.
 
 ## Techniques and Tools
 
+Hand-painting and illustration are the origination methods for all designs. Additional services include print adaptation and colourway development — converting vintage references or existing artwork into production-ready seamless repeats, developing colourways, and matching to Pantone specifications. Seasonal trend reports produced. Sydney showroom available for private appointments.
+
 ## Markets and Clients
+
+Global fashion brands (documented: Anthropologie, Zara, H&M, Seafolly). Homeware brands. Independent labels and established international retailers. 3,000+ clients in studio history. Trade show presence: Première Vision (Paris and New York), CREATE Paris, Comocrea. Bespoke commission service available for brands requiring custom-designed prints.
 
 ## Portfolio and Presence
 
+- Website: https://longinaphillips.com
+- Instagram: @longinaphillipsdesigns (51,562 followers)
+- Sydney showroom (private appointments)
+- Trade shows: Première Vision, CREATE Paris, Comocrea
+
 ## Career Path
+
+Founded by Longina Phillips in 1988, Sydney. Over 35 years in continuous operation supplying major international fashion and homeware retailers. Rebecca Kerr is the current studio contact. Operates as a full-service print studio with design, trend forecasting, and production adaptation capabilities.
 
 ## Pattern Focus
 
+Original hand-painted seamless repeat patterns across fashion and homeware categories. Library of 5,000+ exclusive designs, updated daily. All designs sold exclusively with full IP transfer. Range covers diverse aesthetics and seasonal briefs; trend alignment is built into the studio's positioning. Studio breadth — not any dominant motif type — is the core commercial proposition.
+
 ## Connections
+
+- [[raw/companies/anthropologie]]
+- [[Seafolly]]
+- [[Première Vision]]
+- [[Textile Design Studio]]
+- [[Fashion Print]]
+- [[Home Decor]]
+- [[Licensing]]

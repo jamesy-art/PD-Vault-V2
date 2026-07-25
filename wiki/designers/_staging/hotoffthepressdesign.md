@@ -22,7 +22,7 @@ bio: ''
 website: 'https://analyzestudio.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/hotoffthepressdesign
 profile_url: ''
 instagram_images:
@@ -39,9 +39,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Print Design Studio | Analyze Studio & Hot Off The Press
 website_meta_description: >-
   About Us | Analyze Studio is a creative consultancy agency for fashion & home
@@ -248,7 +251,7 @@ categories:
   - Womenswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -269,45 +272,216 @@ instagram_profile_pic_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/696252275_18081008273439872_7258821123162607591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGFO2STSZKLgVPrgyFiMwYUgK2Mzvdjpxp0wZj9hvGkfDU8-W6p9ooggvAFK6ohuHQ&_nc_ohc=yx1UBIHddhwQ7kNvwFl2cSZ&_nc_gid=-en0lvvLPIdnrarMt6ToxA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6a7I-iSz2JkVn7xeZIhXaQcO-UMjLnsCfY0yxqxT2rRA&oe=6A13F09B&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-hou1-1.cdninstagram.com/v/t51.82787-19/696252275_18081008273439872_7258821123162607591_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGFO2STSZKLgVPrgyFiMwYUgK2Mzvdjpxp0wZj9hvGkfDU8-W6p9ooggvAFK6ohuHQ&_nc_ohc=yx1UBIHddhwQ7kNvwFl2cSZ&_nc_gid=-en0lvvLPIdnrarMt6ToxA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6a7I-iSz2JkVn7xeZIhXaQcO-UMjLnsCfY0yxqxT2rRA&oe=6A13F09B&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 7252
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/hotoffthepressdesign/profile/696252275_18081008273439872_7258821123162607591_n.jpg
+instagram_profile_image_bytes: 153512
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/hotoffthepressdesign/profile/696252275_18081008273439872_7258821123162607591_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/hotoffthepressdesign/profile/696252275_18081008273439872_7258821123162607591_n.jpg
+profile_image_local: >-
+  ../../assets/designers/hotoffthepressdesign/profile/696252275_18081008273439872_7258821123162607591_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/hotoffthepressdesign/profile/696252275_18081008273439872_7258821123162607591_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954284886291_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954293316675_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954427667963_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117634634444_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117642943708_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117643067222_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117659602708_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229751638536_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229760106754_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229936207995_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075814883_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075883532_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075913716_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367886231107_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367894604799_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718368045631509_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801063177971_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071374039_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071446850_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216840695665_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216848986386_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216857315009_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216924559304_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383760295_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383888518_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753974163_3688925108953826989_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753974163_3688925108953926242_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672694550187_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672811996121_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672811999387_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661453221221_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661486752359_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661537093633_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1777887300_3889523215408353176_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778060700_3890977923943652959_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778147400_3891705215795876235_42970735871.jpg
+instagram_image_count: 36
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954427667963_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117659602708_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229936207995_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367894604799_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383760295_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1777887300_3889523215408353176_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778060700_3890977923943652959_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778147400_3891705215795876235_42970735871.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954293316675_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075814883_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071446850_42970735871.jpg
+  - >-
+    ../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216840695665_42970735871.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 4
+trash_image_count: 0
 ---
-
 # hotoffthepressdesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/hotoffthepressdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/hotoffthepressdesign/profile/696252275_18081008273439872_7258821123162607591_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954284886291_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954284886291_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954293316675_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954293316675_42970735871.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954427667963_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1751607600_3665567954427667963_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117634634444_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117634634444_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117642943708_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117642943708_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117643067222_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117643067222_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117659602708_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1752508800_3675156117659602708_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229751638536_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229751638536_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229760106754_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229760106754_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229936207995_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753025100_3680228229936207995_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075814883_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075814883_42970735871.jpg --> | [ ] | [x] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075883532_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075883532_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075913716_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753098886_3681582757075913716_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367886231107_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367886231107_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367894604799_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718367894604799_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718368045631509_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753531500_3684718368045631509_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801063177971_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801063177971_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071374039_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071374039_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071446850_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753617600_3684719801071446850_42970735871.jpg --> | [ ] | [x] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216840695665_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216840695665_42970735871.jpg --> | [ ] | [x] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216848986386_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216848986386_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216857315009_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216857315009_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216924559304_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753704000_3684725216924559304_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383760295_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383760295_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383888518_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753790400_3684727311383888518_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753974163_3688925108953826989_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753974163_3688925108953826989_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753974163_3688925108953926242_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1753974163_3688925108953926242_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672694550187_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672694550187_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672811996121_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672811996121_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672811999387_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1764662296_3778583672811999387_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661453221221_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661453221221_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661486752359_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661486752359_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661537093633_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1765017000_3778825661537093633_42970735871.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1777887300_3889523215408353176_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1777887300_3889523215408353176_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778060700_3890977923943652959_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778060700_3890977923943652959_42970735871.jpg --> | [x] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778147400_3891705215795876235_42970735871.jpg)<br><!-- image:../../assets/designers/hotoffthepressdesign/instagram/hotoffthepressdesign_1778147400_3891705215795876235_42970735871.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Hot Off The Press is the print design studio arm of Analyze Studio, a fashion and lifestyle creative consultancy based in Rotterdam, Netherlands. The studio produces seasonal surface pattern designs for fashion and home décor, offering pre-made prints via a password-protected online portfolio and bespoke custom design. Named clients include SUMMUM, Maiden Lane, Expresso, Yess Belgium, and Clauda Sträter.
+
 ## Style and Aesthetic
+
+Selected Instagram images (8 patterns, 4 placements) suggest a trend-responsive commercial fashion-market aesthetic. The portfolio is updated every season, indicating active trend-cycle participation. Work spans floral, geometric, and abstract motifs across commercially deployable colorways and structures. Selected placements confirm fashion product or lifestyle context presentations.
 
 ## Techniques and Tools
 
+Digital pattern design, colour and trend forecasting, mood board development, and fashion design — offered as a package within the broader Analyze Studio consultancy. In-person client meetings available in the Netherlands and Belgium. Portfolio is trade-facing and password-protected, with a structured client engagement process.
+
 ## Markets and Clients
+
+Primary markets are fashion and home décor. Named clients — SUMMUM, Maiden Lane, Expresso, Yess Belgium, Clauda Sträter — demonstrate a solid track record in European fashion wholesale and retail. Operates both a print licensing/purchase service and a broader fashion design and trend consultancy. Available for commission.
 
 ## Portfolio and Presence
 
+- Website: https://analyzestudio.com
+- Instagram: @hotoffthepressdesign
+- Contact: info@analyzestudio.com
+
 ## Career Path
+
+Analyze Studio operates as a creative consultancy for fashion and lifestyle from Rotterdam, with Hot Off The Press as its dedicated print design output. The studio has an established European fashion client base and a structured seasonal portfolio model. In-person meetings available across the Netherlands and Belgium.
 
 ## Pattern Focus
 
+Selected patterns (8) suggest fashion-focused print design across seasonal references — trend-responsive and commercially structured. Selected placements (4) confirm fashion or lifestyle product presentation. Work is positioned for wholesale and retail fashion licensing rather than POD or direct-to-consumer sales.
+
 ## Connections
+
+- [[Fashion Print Design]]
+- [[Home Decor]]
+- [[Netherlands]]
+- [[Trend Forecasting]]
+- [[Licensing]]
+- [[Womenswear]]

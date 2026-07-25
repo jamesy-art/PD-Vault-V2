@@ -23,7 +23,7 @@ bio: ''
 website: 'https://Mariliacichini.com'
 website_about: ''
 accepted: 25/09/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/macichini
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_5
+  - has_selected_instagram_images
+  - image_reviewed
+  - enriched
 website_title: Marília Cichini
 website_meta_description: >-
   Marilia Cichini is a talented Brazilian graphic designer and illustrator based
@@ -149,7 +152,7 @@ open_to: []
 categories:
   - Kidswear
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: ready_for_claude
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -168,45 +171,126 @@ instagram_profile_pic_url: >-
   https://instagram.frnd2-1.fna.fbcdn.net/v/t51.2885-19/414450896_1477363866209500_2565151474316038865_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frnd2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHk8Yv8wVkex4m-669f6-pgsC9lTL2b--nAeq07qCrHSZV0ao9XG-PtnB3tARg-5xo&_nc_ohc=TjAnS2Mq9kQQ7kNvwFNGfXp&_nc_gid=SJ-Tz63N9NokQ9O0UmaPRw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Kic7kDjFMAHXIH_VDF_C1Omm5VqxeV-hg9Avj0X-ftw&oe=6A13DFF2&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.frnd2-1.fna.fbcdn.net/v/t51.2885-19/414450896_1477363866209500_2565151474316038865_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.frnd2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2gHk8Yv8wVkex4m-669f6-pgsC9lTL2b--nAeq07qCrHSZV0ao9XG-PtnB3tARg-5xo&_nc_ohc=TjAnS2Mq9kQQ7kNvwFNGfXp&_nc_gid=SJ-Tz63N9NokQ9O0UmaPRw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Kic7kDjFMAHXIH_VDF_C1Omm5VqxeV-hg9Avj0X-ftw&oe=6A13DFF2&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/macichini/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4115
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/macichini/profile/414450896_1477363866209500_2565151474316038865_n.jpg
+instagram_profile_image_bytes: 142305
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/macichini/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/macichini/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/macichini/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/macichini/profile/414450896_1477363866209500_2565151474316038865_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/macichini/profile/414450896_1477363866209500_2565151474316038865_n.jpg
+profile_image_local: >-
+  ../../assets/designers/macichini/profile/414450896_1477363866209500_2565151474316038865_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/macichini/profile/414450896_1477363866209500_2565151474316038865_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1621370365_2576563828571381843_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1625006393_2607065046611428333_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1647772993_2798045130898381396_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1677503962_3047446564382913504_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1677503962_3047446564676412250_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1677503962_3047446565800536297_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1677503962_3047446569566928242_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1678607178_3056701012271534554_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1678607178_3056701013890514148_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1678997774_3059977576687771778_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1678997774_3059977576696210506_27308339.jpg
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1621370365_2576563828571381843_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1625006393_2607065046611428333_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1647772993_2798045130898381396_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1677503962_3047446564676412250_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1678607178_3056701013890514148_27308339.jpg
+  - >-
+    ../../assets/designers/macichini/instagram/macichini_1678997774_3059977576696210506_27308339.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 6
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # macichini
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/macichini/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/macichini/profile/414450896_1477363866209500_2565151474316038865_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1621370365_2576563828571381843_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1621370365_2576563828571381843_27308339.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1625006393_2607065046611428333_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1625006393_2607065046611428333_27308339.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1647772993_2798045130898381396_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1647772993_2798045130898381396_27308339.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1677503962_3047446564382913504_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1677503962_3047446564382913504_27308339.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1677503962_3047446564676412250_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1677503962_3047446564676412250_27308339.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1677503962_3047446565800536297_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1677503962_3047446565800536297_27308339.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1677503962_3047446569566928242_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1677503962_3047446569566928242_27308339.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1678607178_3056701012271534554_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1678607178_3056701012271534554_27308339.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1678607178_3056701013890514148_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1678607178_3056701013890514148_27308339.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1678997774_3059977576687771778_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1678997774_3059977576687771778_27308339.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/macichini/instagram/macichini_1678997774_3059977576696210506_27308339.jpg)<br><!-- image:../../assets/designers/macichini/instagram/macichini_1678997774_3059977576696210506_27308339.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marília Cichini is a Brazilian graphic designer, illustrator, and surface pattern designer based in Hard, Austria. With over ten years of professional experience spanning branding, pattern design, editorial illustration, and children's book work, she serves clients across Europe and Brazil. Documented clients include Brazilian home goods retailer Tok & Stok, Austrian government programme Familieplus (Land Vorarlberg), and software company Sulu.io.
+
 ## Style and Aesthetic
+
+Versatile and character-led, with particular strength in children's and decorative illustration. Work ranges from bold repeat pattern collections to character-driven editorial and product design. Selected pattern images suggest bright, accessible palettes with a warm illustrative quality suited to children's and home goods contexts.
 
 ## Techniques and Tools
 
+Digital illustration, graphic design, and pattern design. Skilled in colour theory and market adaptation. Self-described as able to "come up with creative and unpredictable visual solutions." Works across branding, pattern, and book illustration within the same practice.
+
 ## Markets and Clients
+
+Kidswear and children's products; home goods (Brazil). Documented collections for Tok & Stok: "Minha Casinha," "Ballet," and "Um pé de Biblioteca." Additional clients: Familieplus (Land Vorarlberg, Austria), Sulu.io (icons and vector illustrations), Rachel Helidonis (brand redesign). Fabric print-on-demand: Tutti Frutti Fabric Collection. Children's publishing: illustrated book "Mãe sabe tudo." Embroidery illustration: Paula e Ponto.
 
 ## Portfolio and Presence
 
+- Website: https://mariliacichini.com
+- Instagram: @macichini
+
 ## Career Path
+
+Originally from Brazil, now based in Hard, Vorarlberg, Austria. Over ten years of experience in visual design, working across companies and agencies before establishing an independent freelance practice. Built specialist expertise in surface pattern design alongside broader illustration and branding work.
 
 ## Pattern Focus
 
+Children's motif patterns and illustrative repeat designs. Documented collections include home goods (Tok & Stok), fabric (Tutti Frutti), and the Arcoiro decorative pattern collection. Characters, animals, and playful nature motifs recur across selected pattern images.
+
 ## Connections
+
+- [[Tok & Stok]]
+- [[Kidswear Market]]
+- [[Home Decor Market]]
+- [[Illustration Market]]

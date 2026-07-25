@@ -25,7 +25,7 @@ bio: ''
 website: 'https://printscharmingstudio.com'
 website_about: ''
 accepted: 20/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/prints.charming.studio
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Prints Charming Studio, LLC | pattern design licensing'
 website_meta_description: >-
   Prints Charming Studio, LLC-whimsical and beautiful pattern design &
@@ -286,7 +289,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -310,40 +313,95 @@ instagram_profile_image_bytes: 3104
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
 profile_image: ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
-profile_images: &ref_0
+profile_images:
   - ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
 profile_image_local: ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1712854658_3343989705261608842_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1723059926_3429597692413126996_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1728949500_3479003027384950972_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1753220240_3682600743531590332_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1768234249_3808547386122196458_62303267586.jpg
+instagram_image_count: 5
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1712854658_3343989705261608842_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1723059926_3429597692413126996_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1728949500_3479003027384950972_62303267586.jpg
+  - >-
+    ../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1768234249_3808547386122196458_62303267586.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # prints.charming.studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/prints.charming.studio/profile/instagram-profile.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1712854658_3343989705261608842_62303267586.jpg)<br><!-- image:../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1712854658_3343989705261608842_62303267586.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1723059926_3429597692413126996_62303267586.jpg)<br><!-- image:../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1723059926_3429597692413126996_62303267586.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1728949500_3479003027384950972_62303267586.jpg)<br><!-- image:../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1728949500_3479003027384950972_62303267586.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1753220240_3682600743531590332_62303267586.jpg)<br><!-- image:../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1753220240_3682600743531590332_62303267586.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1768234249_3808547386122196458_62303267586.jpg)<br><!-- image:../../assets/designers/prints.charming.studio/instagram/prints.charming.studio_1768234249_3808547386122196458_62303267586.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Prints Charming Studio is a US-based pattern design studio led by Twila Yoder, producing whimsical art available for exclusive licensing. The studio operates a multi-artist model — contributing designers Tina and Renee are credited alongside Twila. Collections are presented by appointment only (password-protected online viewing or virtual meeting), with all work available for exclusive licensing or bespoke collaboration. Commissions are also accepted.
+
 ## Style and Aesthetic
+
+The studio's signature is whimsical, hand-rendered children's surface design with a warm, illustrative quality. Portfolio themes span woodland animals, florals, sea creatures (turtles, sharks, nautical), safari animals, botanical layette prints, and seasonal subjects. Selected pattern images reflect this range — soft, character-driven designs suited to children's apparel and nursery environments. Colour is presented in multiple colour story options.
 
 ## Techniques and Tools
 
+Hand-rendered illustration style; portfolio items are described as "hand rendered" and include "watercolour rendering," indicating traditional media input alongside digital preparation for licensing. Work is offered in multiple colourway groups and includes usage context (dress, pyjamas, layette, wallpaper, swimwear).
+
 ## Markets and Clients
+
+Primary market: childrenswear — layette, pyjamas, play clothes, swimwear. Secondary application in nursery wallpaper and home decor. Full collection available by appointment only, indicating a trade-facing licensing business model. Portfolio is positioned for textile buyers, garment manufacturers, and licensing clients in the children's category. Also open to commissions.
 
 ## Portfolio and Presence
 
+- Website: printscharmingstudio.com
+- Instagram: @prints.charming.studio (315 followers, 142 posts)
+
 ## Career Path
+
+Founded by Twila Yoder. The studio operates with multiple contributing designers; the website credits work samples by Twila, Tina, and Renee as distinct contributors within the shared portfolio.
 
 ## Pattern Focus
 
+Specialises in whimsical children's prints: woodland, safari, nautical, sea creature, floral, and farm animal themes. Range spans tight co-ordinated layette collections (multiple colourways) and individual statement prints. Works across repeat and placement formats; nursery wallpaper also included in portfolio.
+
 ## Connections
+
+- [[Kidswear]] (primary market)
+- [[Home Textiles]] (secondary market; nursery wallpaper)
+- [[Art Licensing]] (core business model)
+- [[Surface Pattern Design]] (core discipline)

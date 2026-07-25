@@ -24,7 +24,7 @@ bio: ''
 website: 'https://oyeah.fr'
 website_about: ''
 accepted: 08/10/2024
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/oyeah_studio
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Oyeah* • Print & pattern design studio
 website_meta_description: >-
   Oyeah is an independant pattern design & illustration studio. Welcome! • Oyeah
@@ -77,7 +80,7 @@ categories:
   - Womenswear
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -94,45 +97,213 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/549337888_18363386401153615_6234528553152964549_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQxLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEQ4jP0C08XrcEhztFr5Ej3bkPeJ1hXY0umiQ0y9qx2hqziD5cy_VceR84htbM56XE&_nc_ohc=RgAo9ydxvHIQ7kNvwEk_rlG&_nc_gid=c7onAXpfqlxdSshtaQBAzQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uQQf9AC89Ujo0ILNYMMzLkx38KT28kZikKLBZ9WeKEA&oe=6A13E4B0&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/549337888_18363386401153615_6234528553152964549_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQxLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEQ4jP0C08XrcEhztFr5Ej3bkPeJ1hXY0umiQ0y9qx2hqziD5cy_VceR84htbM56XE&_nc_ohc=RgAo9ydxvHIQ7kNvwEk_rlG&_nc_gid=c7onAXpfqlxdSshtaQBAzQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4uQQf9AC89Ujo0ILNYMMzLkx38KT28kZikKLBZ9WeKEA&oe=6A13E4B0&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4914
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/oyeah_studio/profile/549337888_18363386401153615_6234528553152964549_n.jpg
+instagram_profile_image_bytes: 65715
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/oyeah_studio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/oyeah_studio/profile/549337888_18363386401153615_6234528553152964549_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/oyeah_studio/profile/549337888_18363386401153615_6234528553152964549_n.jpg
+profile_image_local: >-
+  ../../assets/designers/oyeah_studio/profile/549337888_18363386401153615_6234528553152964549_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/oyeah_studio/profile/549337888_18363386401153615_6234528553152964549_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340650606335_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340667325375_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354478371081_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354486865541_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354503602738_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265749458310_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265757846143_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265766302096_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352571601722_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352739620723_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754380629_3692334792514917928_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339327319632_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339344221374_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339470004967_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975423196991_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975423385312_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975599386766_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975616320709_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416150463_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416161763_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416335045_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157003145738_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157187631441_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157195970084_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1756271100_3702745179110408139_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1756271100_3702745179286450222_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273549711661_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273558104237_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273793040307_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759819965_3737963249384855549_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759819965_3737963249602983330_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1760075400_3728829856156013849_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1760075400_3728829856390860588_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761280500_3750215154437741573_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441343192669_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441351604103_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441359982429_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761890400_3755331359863500019_4621961614.jpg
+instagram_image_count: 38
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340650606335_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354486865541_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265749458310_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265766302096_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352571601722_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339327319632_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975616320709_4621961614.jpg
+  - >-
+    ../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416335045_4621961614.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # oyeah_studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/oyeah_studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/oyeah_studio/profile/549337888_18363386401153615_6234528553152964549_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340650606335_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340650606335_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340667325375_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1743491998_3600994340667325375_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354478371081_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354478371081_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354486865541_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354486865541_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354503602738_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1747154348_3631716354503602738_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265749458310_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265749458310_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265757846143_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265757846143_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265766302096_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1750515205_3659909265766302096_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352571601722_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352571601722_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352739620723_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754208200_3690888352739620723_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754380629_3692334792514917928_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754380629_3692334792514917928_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339327319632_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339327319632_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339344221374_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339344221374_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339470004967_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754558700_3693792339470004967_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975423196991_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975423196991_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975423385312_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975423385312_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975599386766_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975599386766_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975616320709_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1754721900_3693873975616320709_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416150463_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416150463_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416161763_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416161763_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416335045_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755756300_3693866917416335045_4621961614.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157003145738_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157003145738_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157187631441_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157187631441_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157195970084_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1755931500_3702736157195970084_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1756271100_3702745179110408139_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1756271100_3702745179110408139_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1756271100_3702745179286450222_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1756271100_3702745179286450222_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273549711661_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273549711661_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273558104237_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273558104237_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273793040307_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759647900_3728812273793040307_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759819965_3737963249384855549_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759819965_3737963249384855549_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759819965_3737963249602983330_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1759819965_3737963249602983330_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1760075400_3728829856156013849_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1760075400_3728829856156013849_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1760075400_3728829856390860588_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1760075400_3728829856390860588_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761280500_3750215154437741573_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761280500_3750215154437741573_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441343192669_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441343192669_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441351604103_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441351604103_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441359982429_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761714900_3741927441359982429_4621961614.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761890400_3755331359863500019_4621961614.jpg)<br><!-- image:../../assets/designers/oyeah_studio/instagram/oyeah_studio_1761890400_3755331359863500019_4621961614.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marion Rousseau is a Paris-based surface pattern designer and illustrator operating the independent Oyeah studio. A graduate in Textile Design from the Duperré school (2009), she offers print and pattern design to professionals in fashion, stationery, and decoration, alongside illustration for greeting cards, birth announcements, and similar occasions. An online pattern catalogue is available to trade clients on request.
+
 ## Style and Aesthetic
+
+Selected images suggest a generous, vibrant aesthetic built around everyday subjects — boats, mermaids, rabbits, cats, stripes, dots, fruits, flowers, birds, and vegetables. As described on her site, she finds pattern inspiration in "miscellaneous and ordinary things," resulting in work that is cheerful, colourful, and optimistic. The visual register is fun and commercially accessible, suited to fashion and stationery markets.
 
 ## Techniques and Tools
 
+Combines illustration and surface pattern design as overlapping disciplines. Offers access to an online pattern catalogue for trade licensing enquiries. Also produces bespoke illustration for personal print occasions (greeting cards, birth announcements, event communications).
+
 ## Markets and Clients
+
+Fashion, stationery, and decoration sectors. Commissions and licensing enquiries via hello@oyeah.fr. Notable project: Jake Studio x Petit Bateau — a finalist proposal for an interactive retail playground using primary colours and character illustration with Kinect digital technology.
 
 ## Portfolio and Presence
 
+- Instagram: @oyeah_studio
+- Website: oyeah.fr
+- Contact: hello@oyeah.fr
+
 ## Career Path
+
+Graduated in Textile Design from the Duperré school, Paris, in 2009. Launched Oyeah studio to offer pattern and illustration services to fashion, stationery, and decoration professionals. Has built a body of work spanning commercial print patterns and occasion illustration over more than 15 years.
 
 ## Pattern Focus
 
+Whimsical repeat patterns drawn from everyday objects and nature — food, flora, fauna, maritime themes. Style is generous and colour-saturated, calibrated for fashion and stationery applications. Pattern catalogue available for licensing to trade clients.
+
 ## Connections
+
+- [[Fashion]] market
+- [[Stationery]] market
+- [[Petit Bateau]]
+- [[Surface Pattern Design]]
+- [[Duperré School]]

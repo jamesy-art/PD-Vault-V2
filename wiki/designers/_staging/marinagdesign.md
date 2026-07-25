@@ -26,7 +26,7 @@ bio: ''
 website: 'https://marinagdesign.com'
 website_about: ''
 accepted: 10/02/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/marinagdesign
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Marina Prints - Kids Design & Surface Pattern Studio
 website_meta_description: Kids Design Studio - Licensing- Custom Designs - PrintsandPatterns
 website_about_raw: >-
@@ -176,7 +179,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: >-
   I’m Marina, founder of Marina Prints, a Paris-based boutique studio
   specialising in surface pattern design and illustration for children’s fashion
@@ -232,45 +235,162 @@ instagram_profile_pic_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/543603303_18364475047155918_5848595390435142754_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTIuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG_iMGaSZrtXtfG66geoddlF7_Gp0wCfCtg-b_E679sVZB0XgagmJkVnVdmc5JFovY&_nc_ohc=Lqw4Tt07VVwQ7kNvwGpEgTX&_nc_gid=BChfYJUxvFOtMqY27ZZTbA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5UKj6vi2eQsf1I_huKI4vHIzL3j0kXhd4XUP3QgKoKGw&oe=6A13F3BF&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lax3-2.cdninstagram.com/v/t51.82787-19/543603303_18364475047155918_5848595390435142754_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MTIuYzIifQ&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gG_iMGaSZrtXtfG66geoddlF7_Gp0wCfCtg-b_E679sVZB0XgagmJkVnVdmc5JFovY&_nc_ohc=Lqw4Tt07VVwQ7kNvwGpEgTX&_nc_gid=BChfYJUxvFOtMqY27ZZTbA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5UKj6vi2eQsf1I_huKI4vHIzL3j0kXhd4XUP3QgKoKGw&oe=6A13F3BF&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5230
+instagram_profile_image_local: >-
+  ../../assets/designers/marinagdesign/profile/543603303_18364475047155918_5848595390435142754_n.jpg
+instagram_profile_image_bytes: 25653
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/marinagdesign/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/marinagdesign/profile/543603303_18364475047155918_5848595390435142754_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/marinagdesign/profile/543603303_18364475047155918_5848595390435142754_n.jpg
+profile_image_local: >-
+  ../../assets/designers/marinagdesign/profile/543603303_18364475047155918_5848595390435142754_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/marinagdesign/profile/543603303_18364475047155918_5848595390435142754_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1491400141_1486294570866437308_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1494665510_1513686467867900876_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1494933820_1515937217545244384_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1528729699_1799437601988563855_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1530795259_1816764769357663012_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206635840996730_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206636293795647_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1553119524_2004034277030602991_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1560524480_2066151551210643360_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1576067522_2196536039976971390_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971487701964_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971504483097_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971504517955_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621257020914439_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621258589633542_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1772036257_3840439320771859679_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1772036257_3840439321291936646_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1773168712_3849936884756434584_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1773735281_3854691862183733785_4783115917.jpg
+instagram_image_count: 19
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1491400141_1486294570866437308_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1494933820_1515937217545244384_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1528729699_1799437601988563855_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206635840996730_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1576067522_2196536039976971390_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971487701964_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621257020914439_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1773168712_3849936884756434584_4783115917.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1494665510_1513686467867900876_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1553119524_2004034277030602991_4783115917.jpg
+  - >-
+    ../../assets/designers/marinagdesign/instagram/marinagdesign_1560524480_2066151551210643360_4783115917.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 3
+trash_image_count: 0
 ---
-
 # marinagdesign
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/marinagdesign/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/marinagdesign/profile/543603303_18364475047155918_5848595390435142754_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1491400141_1486294570866437308_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1491400141_1486294570866437308_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1494665510_1513686467867900876_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1494665510_1513686467867900876_4783115917.jpg --> | [ ] | [x] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1494933820_1515937217545244384_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1494933820_1515937217545244384_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1528729699_1799437601988563855_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1528729699_1799437601988563855_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1530795259_1816764769357663012_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1530795259_1816764769357663012_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206635840996730_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206635840996730_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206636293795647_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1540503886_1898206636293795647_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1553119524_2004034277030602991_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1553119524_2004034277030602991_4783115917.jpg --> | [ ] | [x] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1560524480_2066151551210643360_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1560524480_2066151551210643360_4783115917.jpg --> | [ ] | [x] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1576067522_2196536039976971390_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1576067522_2196536039976971390_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971487701964_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971487701964_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971504483097_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971504483097_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971504517955_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1623440451_2593928971504517955_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621257020914439_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621257020914439_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621258589633542_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1770984891_3831621258589633542_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1772036257_3840439320771859679_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1772036257_3840439320771859679_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1772036257_3840439321291936646_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1772036257_3840439321291936646_4783115917.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1773168712_3849936884756434584_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1773168712_3849936884756434584_4783115917.jpg --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/marinagdesign/instagram/marinagdesign_1773735281_3854691862183733785_4783115917.jpg)<br><!-- image:../../assets/designers/marinagdesign/instagram/marinagdesign_1773735281_3854691862183733785_4783115917.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Marina González Leanza is the founder of Marina Prints, a Paris-based surface pattern design studio specialising in children's fashion and lifestyle. With over 15 years' experience across illustration, graphic design, and art direction, she develops floral and decorative motif collections for licensing and bespoke brand commissions.
+
 ## Style and Aesthetic
+
+Selected Instagram pattern images suggest a playful, softly nostalgic aesthetic consistent with the kidswear market — florals and decorative motifs executed with hand-drawn warmth refined into production-ready precision. Strong sense of colour, repeat structure, and seasonal colour stories. Selected placement images indicate children's apparel and lifestyle product contexts.
 
 ## Techniques and Tools
 
+Hand-drawn illustration digitised for production-ready delivery. Background spans illustration, graphic design, and art direction over 15+ years. Standard output includes production-ready files, seamless repeat tiles, and multiple colorways.
+
 ## Markets and Clients
+
+Kidswear prints and colour stories are the studio's primary market. Marina Prints collaborates with independent and international brands on exclusive prints and ready-to-license collections, tailored to different brand identities and product needs. Also operates @morecandy_shop (unverified scope).
 
 ## Portfolio and Presence
 
+- Website: https://marinagdesign.com
+- Instagram: @marinagdesign
+- Shop: @morecandy_shop
+
 ## Career Path
+
+Over 15 years in illustration, graphic design, and art direction. Founded Marina Prints as a boutique studio focused on surface pattern design for children's fashion and lifestyle markets. Based in Paris.
 
 ## Pattern Focus
 
+Florals and decorative motifs with production-ready precision. Collections are trend-aware and developed with a strong sense of colour, repeat structure, and product application across kidswear and lifestyle categories. Selected patterns reflect a consistently playful, softly nostalgic sensibility.
+
 ## Connections
+
+- [[Flower Pattern]]
+- [[Kidswear]]
+- [[Art Licensing]]
+- [[Illustration]]
+- [[France]]

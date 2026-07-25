@@ -26,7 +26,7 @@ bio: ''
 website: 'https://svetlanalerie.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/svetlanalerie
 profile_url: ''
 instagram_images:
@@ -43,9 +43,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: HOME
 website_meta_description: >-
   I’m Svetlana, a surface pattern designer creating work with structure, depth,
@@ -261,7 +264,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -281,45 +284,232 @@ instagram_profile_pic_url: >-
   https://instagram.fmem1-1.fna.fbcdn.net/v/t51.82787-19/670631707_18104576002931628_3207219812627544245_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=instagram.fmem1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gF2Se3Ui4mM6CEk9BY7uyVPOvSG4p7-mvuw7zoaTfK319FfMrv_jcRm5RLP2wEyF28&_nc_ohc=SC7mKD8A5wIQ7kNvwEWV5N2&_nc_gid=h1FqIJ1wUZQofAuE5Dd0kg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NVRXbEqQmm_QL7Cafp7r2QrKQXzQWUsH3z4tZuPhcng&oe=6A13E79E&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.fmem1-1.fna.fbcdn.net/v/t51.82787-19/670631707_18104576002931628_3207219812627544245_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=instagram.fmem1-1.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2gF2Se3Ui4mM6CEk9BY7uyVPOvSG4p7-mvuw7zoaTfK319FfMrv_jcRm5RLP2wEyF28&_nc_ohc=SC7mKD8A5wIQ7kNvwEWV5N2&_nc_gid=h1FqIJ1wUZQofAuE5Dd0kg&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af7NVRXbEqQmm_QL7Cafp7r2QrKQXzQWUsH3z4tZuPhcng&oe=6A13E79E&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/svetlanalerie/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4829
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/svetlanalerie/profile/670631707_18104576002931628_3207219812627544245_n.jpg
+instagram_profile_image_bytes: 103263
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/svetlanalerie/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/svetlanalerie/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/svetlanalerie/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/svetlanalerie/profile/670631707_18104576002931628_3207219812627544245_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/svetlanalerie/profile/670631707_18104576002931628_3207219812627544245_n.jpg
+profile_image_local: >-
+  ../../assets/designers/svetlanalerie/profile/670631707_18104576002931628_3207219812627544245_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/svetlanalerie/profile/670631707_18104576002931628_3207219812627544245_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327320691_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327323804_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080478457267_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080637870737_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080646156786_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780924263071_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932482673_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932485849_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932541261_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628529796_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628538718_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628603953_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401687455393_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050267880_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050268001_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329209599834_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152190989565_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152191008463_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152199417292_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102567458006_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102651339045_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102777164028_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1756820784_3712804299261646990_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146268555066_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146276926760_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146335608533_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759689990694572_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759689999065901_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759690175248854_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672067283291595_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672067283335193_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672068097020816_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1772782513_3846700939390518464_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773215365_3850331657010506660_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773215365_3850331661993329725_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885190044269784_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885192552424719_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885198080542273_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1774426982_3860495503691975962_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1774426982_3860495508599307300_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775466002_3869211428163247754_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775466002_3869211431392875635_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775647291_3870732137813325773_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775647291_3870732140254460774_28030051627.webp
+instagram_image_count: 44
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327323804_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780924263071_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932482673_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050267880_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050268001_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152191008463_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146268555066_28030051627.webp
+  - >-
+    ../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885192552424719_28030051627.webp
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # svetlanalerie
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/svetlanalerie/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/svetlanalerie/profile/670631707_18104576002931628_3207219812627544245_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327320691_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327320691_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327323804_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080327323804_28030051627.webp --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080478457267_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080478457267_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080637870737_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080637870737_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080646156786_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1748947819_3646761080646156786_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780924263071_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780924263071_28030051627.webp --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932482673_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932482673_28030051627.webp --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932485849_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932485849_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932541261_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1749203368_3648904780932541261_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628529796_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628529796_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628538718_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628538718_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628603953_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401628603953_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401687455393_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752052544_3672805401687455393_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050267880_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050267880_28030051627.webp --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050268001_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329050268001_28030051627.webp --> | [x] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329209599834_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1752488126_3676459329209599834_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152190989565_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152190989565_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152191008463_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152191008463_28030051627.webp --> | [x] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152199417292_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1753268806_3683008152199417292_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102567458006_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102567458006_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102651339045_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102651339045_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102777164028_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1755083404_3698230102777164028_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1756820784_3712804299261646990_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1756820784_3712804299261646990_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146268555066_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146268555066_28030051627.webp --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146276926760_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146276926760_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146335608533_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1760690061_3745262146335608533_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759689990694572_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759689990694572_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759689999065901_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759689999065901_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759690175248854_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1762775931_3762759690175248854_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672067283291595_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672067283291595_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672067283335193_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672067283335193_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672068097020816_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1763123113_3765672068097020816_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1772782513_3846700939390518464_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1772782513_3846700939390518464_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773215365_3850331657010506660_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773215365_3850331657010506660_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773215365_3850331661993329725_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773215365_3850331661993329725_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885190044269784_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885190044269784_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885192552424719_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885192552424719_28030051627.webp --> | [x] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885198080542273_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1773996616_3856885198080542273_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1774426982_3860495503691975962_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1774426982_3860495503691975962_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1774426982_3860495508599307300_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1774426982_3860495508599307300_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775466002_3869211428163247754_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775466002_3869211428163247754_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775466002_3869211431392875635_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775466002_3869211431392875635_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775647291_3870732137813325773_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775647291_3870732137813325773_28030051627.webp --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775647291_3870732140254460774_28030051627.webp)<br><!-- image:../../assets/designers/svetlanalerie/instagram/svetlanalerie_1775647291_3870732140254460774_28030051627.webp --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Surface pattern designer and illustrator based in Kazakhstan. Creates elegant prints for textiles, interiors, slow fashion, and stationery. Work spans retro geometry and hand-crafted florals, combining expressive form with technical clarity. Transitioned from an academic and scientific career. Available on Spoonflower and Patternbank; open to licensing and commissions. 240 posts; 303 followers.
+
 ## Style and Aesthetic
+
+Elegant, structured, and tactile. Instagram positions the work as "elegant patterns for textiles & interiors / inspired by botanicals, textures & crafted simplicity." Selected patterns suggest two distinct registers: retro geometric compositions and botanical-textured florals — both sharing a considered, unhurried aesthetic with visible layering.
 
 ## Techniques and Tools
 
+Blends traditional media with digital techniques. Works in both vector and raster formats. Combines layered textures, botanical elements, and geometric structure. Practice spans hand-drawn florals to modular geometric compositions.
+
 ## Markets and Clients
+
+Home textiles, apparel, interior spaces, and stationery. Slow fashion and thoughtful brand positioning. Available on [[Spoonflower]] and [[Patternbank]]. Open to licensing inquiries and commissions.
 
 ## Portfolio and Presence
 
+- Website: https://svetlanalerie.com
+- Instagram: @svetlanalerie (303 followers, 240 posts)
+- Spoonflower: svetlanalerie
+- Patternbank: svetlanalerie
+
 ## Career Path
+
+Former academic and scientist who made a deliberate transition to creative practice. What began as a creative outlet evolved into a full surface pattern design practice rooted in curiosity and craftsmanship. Based in Kazakhstan; designs marketed internationally through Spoonflower, Patternbank, and direct licensing.
 
 ## Pattern Focus
 
+Selected patterns suggest work across two streams: retro-inspired geometric structures (modular, grid-based) and botanical compositions with layered tactile texture. Both demonstrate a strong sense of composition and intentional mark-making.
+
 ## Connections
+
+- [[Spoonflower]] — marketplace presence
+- [[Patternbank]] — marketplace presence
+- [[Botanical Pattern]] — key design register
+- [[Slow Fashion]] — target market
+- [[Home Textiles]] — target market

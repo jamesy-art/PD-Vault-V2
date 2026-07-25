@@ -27,7 +27,7 @@ bio: ''
 website: 'https://fedevolpato.com'
 website_about: ''
 accepted: 01/04/2025
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/fede.volpato.studio
 profile_url: ''
 instagram_images:
@@ -44,9 +44,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Fede Volpato | Pattern Designer and Illustrator
 website_meta_description: >-
   Let's create something unique together! I'm Fede, a pattern designer
@@ -268,7 +271,7 @@ categories:
   - Kidswear
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -288,45 +291,169 @@ instagram_profile_pic_url: >-
   https://instagram.ffsd2-1.fna.fbcdn.net/v/t51.2885-19/355488628_1156917308574189_5688662120516294030_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjIuYzIifQ&_nc_ht=instagram.ffsd2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gF9FjVFdQzCP8MS97vg1RXZYS3zfLeVV0SbVEgSXElE3JLY-4pTrRS_ToQX6wgpmNU&_nc_ohc=t-JKqEQad34Q7kNvwE7QsDt&_nc_gid=W_2jJAlv365WSaT99hiBGA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4x72wcBCQcf2VWaDaF7e-QvfRAa0FjGw-xqIX10j8mrQ&oe=6A13D4DB&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://instagram.ffsd2-1.fna.fbcdn.net/v/t51.2885-19/355488628_1156917308574189_5688662120516294030_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MjIuYzIifQ&_nc_ht=instagram.ffsd2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2gF9FjVFdQzCP8MS97vg1RXZYS3zfLeVV0SbVEgSXElE3JLY-4pTrRS_ToQX6wgpmNU&_nc_ohc=t-JKqEQad34Q7kNvwE7QsDt&_nc_gid=W_2jJAlv365WSaT99hiBGA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4x72wcBCQcf2VWaDaF7e-QvfRAa0FjGw-xqIX10j8mrQ&oe=6A13D4DB&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/fede.volpato.studio/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4660
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/fede.volpato.studio/profile/355488628_1156917308574189_5688662120516294030_n.jpg
+instagram_profile_image_bytes: 100765
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/fede.volpato.studio/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/fede.volpato.studio/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/fede.volpato.studio/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/fede.volpato.studio/profile/355488628_1156917308574189_5688662120516294030_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/fede.volpato.studio/profile/355488628_1156917308574189_5688662120516294030_n.jpg
+profile_image_local: >-
+  ../../assets/designers/fede.volpato.studio/profile/355488628_1156917308574189_5688662120516294030_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/fede.volpato.studio/profile/355488628_1156917308574189_5688662120516294030_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1749818800_3654067403587408310_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1750680170_3661293096712799803_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1750680170_3661293096897531792_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410169475214_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410177909569_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768191285265_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768409389721_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931431386899_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931607515661_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931859230639_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932177948965_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932379305913_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657945599769266_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311431481608344_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311432127529759_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311432312127247_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311433620725986_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311434820284103_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311436196034547_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749210569003682_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749210761971718_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749211307208421_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749218294904964_54855351926.jpg
+instagram_image_count: 23
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1749818800_3654067403587408310_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410177909569_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768409389721_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931607515661_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932177948965_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932379305913_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657945599769266_54855351926.jpg
+  - >-
+    ../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311431481608344_54855351926.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # fede.volpato.studio
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/fede.volpato.studio/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/fede.volpato.studio/profile/355488628_1156917308574189_5688662120516294030_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1749818800_3654067403587408310_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1749818800_3654067403587408310_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1750680170_3661293096712799803_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1750680170_3661293096712799803_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1750680170_3661293096897531792_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1750680170_3661293096897531792_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410169475214_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410169475214_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410177909569_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1754078030_3689796410177909569_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768191285265_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768191285265_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768409389721_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1757348341_3717229768409389721_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931431386899_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931431386899_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931607515661_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931607515661_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931859230639_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657931859230639_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932177948965_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932177948965_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932379305913_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657932379305913_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657945599769266_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1770035594_3823657945599769266_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311431481608344_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311431481608344_54855351926.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311432127529759_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311432127529759_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311432312127247_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311432312127247_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311433620725986_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311433620725986_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311434820284103_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311434820284103_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311436196034547_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1773212943_3850311436196034547_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749210569003682_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749210569003682_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749210761971718_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749210761971718_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749211307208421_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749211307208421_54855351926.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749218294904964_54855351926.jpg)<br><!-- image:../../assets/designers/fede.volpato.studio/instagram/fede.volpato.studio_1779106384_3899749218294904964_54855351926.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Federica Volpato (Fede) is an Italian pattern designer and illustrator specialising in children's and baby markets. Based in Italy, she creates delicate watercolour patterns and illustrations for textiles, wallpapers, and baby products. Her portfolio is available for licensing and she has worked with international brands including Natural Roots, Everett Park, Loomwell, and Carriage House Printery.
+
 ## Style and Aesthetic
+
+Volpato's work combines a soft watercolour medium with whimsical, childhood-focused subject matter — nature, animals, woodland, and gentle imaginative scenes. Selected patterns suggest all-over repeat compositions with tender, detailed motifs rendered in quiet, harmonious colour palettes. The aesthetic celebrates tenderness, curiosity, and timeless charm, aimed at both parents and children.
 
 ## Techniques and Tools
 
+Watercolour illustration is the primary medium. Her practice encompasses delicate hand-painted-style patterns and illustrations, described as capturing "the magic of childhood and the quiet wonders of the natural world." Skills include illustration, painting, pattern design, colour theory, and market adaptation.
+
 ## Markets and Clients
+
+Specialises in children's and baby markets: textiles, wallpapers, and baby product design. Confirmed collaborations with Natural Roots, Everett Park, Loomwell, and Carriage House Printery. Open to commissions and licensing.
 
 ## Portfolio and Presence
 
+- Website: [fedevolpato.com](https://fedevolpato.com)
+- Instagram: [@fede.volpato.studio](https://instagram.com/fede.volpato.studio) — 583 followers, 389 posts
+
 ## Career Path
+
+Volpato initially pursued scientific studies and a career in veterinary medicine before returning to her creative practice after starting a family. She reoriented her career around illustration and pattern design, focusing on children's work inspired by her two children. She frames her mission as surrounding children with "dreamy and playful designs that are beautiful, timeless, and thoughtfully created."
 
 ## Pattern Focus
 
+Whimsical watercolour nature and childhood motifs — animals, botanicals, woodland scenes — in soft, dreamy colour palettes. Designed primarily for children's textiles, wallpaper, and baby goods. Selected patterns (8 confirmed) confirm consistent all-over repeat compositions with a tender, illustrative quality well-suited to nursery and early-childhood markets. Licensing catalogue available for art buyers.
+
 ## Connections
+
+- [[Watercolour Illustration]]
+- [[Children's Textiles]]
+- [[Wallpaper]]
+- [[Surface Pattern Design]]
+- [[Licensing]]
+- [[Baby Products]]
+- [[Botanical Patterns]]

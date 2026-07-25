@@ -29,7 +29,7 @@ bio: ''
 website: 'https://sussecollection.com'
 website_about: ''
 accepted: 11/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/sussecollection
 profile_url: ''
 instagram_images:
@@ -46,9 +46,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Susse Collection
 website_meta_description: >-
   Susse Collection is the website and home of illustrator and surface pattern
@@ -291,7 +294,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -308,45 +311,314 @@ instagram_profile_pic_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/366931980_251018864503006_5850985095035663683_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHDnqgAzm_e-fzt65TWff-kMNRNmoWXQHwVyq8E4DIFzEixTcbocjAzAllKF0l-aZwLlcto5BMrr95pWJSOWRfp&_nc_ohc=hWp2TiGK2NMQ7kNvwFi5h9n&_nc_gid=wUa6_mvRUbIuOx69Hb0RKQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5s3p7lREiA1IWkGvjjXzF1XiJaJZT2qDC5BOxheQi9QA&oe=6A13E9EA&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/366931980_251018864503006_5850985095035663683_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHDnqgAzm_e-fzt65TWff-kMNRNmoWXQHwVyq8E4DIFzEixTcbocjAzAllKF0l-aZwLlcto5BMrr95pWJSOWRfp&_nc_ohc=hWp2TiGK2NMQ7kNvwFi5h9n&_nc_gid=wUa6_mvRUbIuOx69Hb0RKQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5s3p7lREiA1IWkGvjjXzF1XiJaJZT2qDC5BOxheQi9QA&oe=6A13E9EA&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/sussecollection/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3752
+instagram_profile_image_local: >-
+  ../../assets/designers/sussecollection/profile/366931980_251018864503006_5850985095035663683_n.jpg
+instagram_profile_image_bytes: 14560
 instagram_profile_image_quality: thumbnail
 instagram_profile_imported: true
-profile_image: ../../assets/designers/sussecollection/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/sussecollection/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/sussecollection/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/sussecollection/profile/366931980_251018864503006_5850985095035663683_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/sussecollection/profile/366931980_251018864503006_5850985095035663683_n.jpg
+profile_image_local: >-
+  ../../assets/designers/sussecollection/profile/366931980_251018864503006_5850985095035663683_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/sussecollection/profile/366931980_251018864503006_5850985095035663683_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477890809513_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899087027_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899098583_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899111138_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899208841_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899251967_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477924401607_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477924428944_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103478142307442_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103478159321922_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924933324175_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941554291_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941649770_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941680952_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941715430_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924950051563_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924958365172_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924958505571_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924966724405_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337458885991_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467278917_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467354118_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475607809_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475630544_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475778794_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337483998418_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337786197181_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445727849846_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445736143528_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445744599864_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445744630634_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327446063399861_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374390629_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374397552_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553382677346_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553390998076_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391013207_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391041350_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391151357_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391179470_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391205329_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391216625_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978113933_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978120312_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978140938_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978190217_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417986483066_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074418280164399_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080011153871_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080271105882_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080304684359_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310371630786_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310765891840_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310841339056_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310841382338_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310942029255_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252311487279635_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1761906041_3755462529389172977_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1761906041_3755462529422781622_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815209168_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815245739_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394823602454_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394823642575_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395142387204_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395603764066_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395704418113_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395914158212_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799409301994_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799417678046_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799426093113_42133464.jpg
+instagram_image_count: 70
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899111138_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924933324175_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924966724405_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467278917_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337483998418_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374397552_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074418280164399_42133464.jpg
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815245739_42133464.jpg
+selected_placements:
+  - >-
+    ../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899251967_42133464.jpg
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 1
+trash_image_count: 0
 ---
-
 # sussecollection
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/sussecollection/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/sussecollection/profile/366931980_251018864503006_5850985095035663683_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477890809513_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477890809513_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899087027_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899087027_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899098583_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899098583_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899111138_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899111138_42133464.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899208841_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899208841_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899251967_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477899251967_42133464.jpg --> | [ ] | [x] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477924401607_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477924401607_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477924428944_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103477924428944_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103478142307442_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103478142307442_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103478159321922_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1744816311_3612103478159321922_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924933324175_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924933324175_42133464.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941554291_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941554291_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941649770_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941649770_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941680952_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941680952_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941715430_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924941715430_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924950051563_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924950051563_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924958365172_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924958365172_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924958505571_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924958505571_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924966724405_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1745578588_3618497924966724405_42133464.jpg --> | [x] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337458885991_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337458885991_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467278917_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467278917_42133464.jpg --> | [x] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467354118_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337467354118_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475607809_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475607809_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475630544_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475630544_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475778794_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337475778794_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337483998418_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337483998418_42133464.jpg --> | [x] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337786197181_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746185532_3623589337786197181_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445727849846_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445727849846_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445736143528_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445736143528_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445744599864_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445744599864_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445744630634_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327445744630634_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327446063399861_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746631149_3627327446063399861_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374390629_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374390629_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 34<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374397552_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553374397552_42133464.jpg --> | [x] | [ ] | [ ] |
+| 35<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553382677346_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553382677346_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 36<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553390998076_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553390998076_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 37<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391013207_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391013207_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 38<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391041350_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391041350_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 39<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391151357_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391151357_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 40<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391179470_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391179470_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 41<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391205329_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391205329_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 42<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391216625_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1746772186_3628510553391216625_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 43<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978113933_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978113933_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 44<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978120312_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978120312_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 45<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978140938_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978140938_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 46<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978190217_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417978190217_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 47<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417986483066_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074417986483066_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 48<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074418280164399_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1750773311_3662074418280164399_42133464.jpg --> | [x] | [ ] | [ ] |
+| 49<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080011153871_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080011153871_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 50<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080271105882_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080271105882_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 51<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080304684359_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1752826770_3679300080304684359_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 52<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310371630786_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310371630786_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 53<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310765891840_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310765891840_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 54<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310841339056_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310841339056_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 55<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310841382338_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310841382338_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 56<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310942029255_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252310942029255_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 57<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252311487279635_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1760092842_3740252311487279635_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 58<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1761906041_3755462529389172977_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1761906041_3755462529389172977_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 59<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1761906041_3755462529422781622_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1761906041_3755462529422781622_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 60<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815209168_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815209168_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 61<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815245739_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394815245739_42133464.jpg --> | [x] | [ ] | [ ] |
+| 62<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394823602454_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394823602454_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 63<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394823642575_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027394823642575_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 64<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395142387204_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395142387204_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 65<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395603764066_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395603764066_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 66<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395704418113_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395704418113_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 67<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395914158212_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1765192029_3783027395914158212_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 68<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799409301994_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799409301994_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 69<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799417678046_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799417678046_42133464.jpg --> | [ ] | [ ] | [ ] |
+| 70<br>![pd-review\|180](../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799426093113_42133464.jpg)<br><!-- image:../../assets/designers/sussecollection/instagram/sussecollection_1769011305_3815065799426093113_42133464.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Illustrator and surface pattern designer based in south Sweden, originally from Scotland, trading as Susse Collection. Over 20 years of industry experience working both in-house for print studios and as a freelancer. Represented by Creative Sparrow in the UK. Designs licensed globally across Europe, UK, and USA, with work on major UK supermarket shelves. Also active as an educator in illustration and surface pattern design. 2,536 posts; 2,405 followers.
+
 ## Style and Aesthetic
+
+Colourful, playful, and whimsical — "cute and happy" by self-description. Selected patterns suggest character-driven illustrations and coordinating collections in bright, cheerful palettes suited to giftware and greeting card contexts.
 
 ## Techniques and Tools
 
+Works across both analogue and digital methods. Delivers seamless repeat patterns in fully editable files. Produces short animated GIFs for social media and e-cards. Custom design service includes mood board interpretation and full art direction throughout.
+
 ## Markets and Clients
+
+Giftware, greeting cards, gift wrap, baby products, pillows, wall art, mugs, packaging, and editorial. Work on shelves of major UK supermarkets. Licensed across Europe, UK, and USA. Documented e-card client: Funky Pigeon. Work published in Print & Pattern blog and Uppercase magazine. One selected placement image confirms product application context.
 
 ## Portfolio and Presence
 
+- Website: https://sussecollection.com
+- Instagram: @sussecollection (2,405 followers, 2,536 posts)
+- Agent: Creative Sparrow (UK)
+- Brand book available on Issuu
+
 ## Career Path
+
+Originally from Scotland; now based in south Sweden near a forest. Has worked in-house for print studios and as a freelance designer. Member of Svenska Tecknare and Illustratör Centrum. Work featured in Print & Pattern blog book and Uppercase magazine. Also teaches illustration and surface pattern design with emphasis on the giftware market.
 
 ## Pattern Focus
 
+Selected patterns suggest coordinating character illustration collections — bright illustrated motifs in the giftware tradition, suitable for seasonal and everyday gifting. Main specialty is licensing for giftware, greeting cards, and gift wrap.
+
 ## Connections
+
+- [[Creative Sparrow]] — UK licensing agent
+- [[Funky Pigeon]] — documented e-card client
+- [[Giftware]] — primary market
+- [[Greeting Cards]] — primary market
+- [[Gift Wrap]] — primary market
+- [[Print & Pattern]] — featured in blog/book
+- [[Uppercase Magazine]] — featured

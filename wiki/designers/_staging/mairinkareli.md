@@ -20,12 +20,12 @@ skills:
 country: United States
 can_use: 'Yes'
 instagram_handle: mairinkareli
-instagram: 'https://instagram.com/@mairinkareli'
+instagram: 'https://instagram.com/mairinkareli'
 bio: ''
 website: 'https://mairinkarelidesign.com'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/mairinkareli
 profile_url: ''
 instagram_images:
@@ -42,9 +42,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Mairin Kareli Design | Surface Pattern Designer
 website_meta_description: >-
   At Mairin Kareli Design, we create patterns and illustrations for wallpaper,
@@ -286,7 +289,7 @@ open_to:
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -305,45 +308,198 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/476133654_1400848267745359_3834185580398380154_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjcuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGo7RUqX5SeQVFH7a8zGRbWM_mlQtqRJ16mNt6CMT8bUb2lGkHYw8-KqrBsGqrF528&_nc_ohc=xNkfTO9Uv54Q7kNvwG1uUF-&_nc_gid=Nz4yl_kyc5ar4GRifv-dGw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5qsDxlqLfs5PmMiDP16p6z4PO56qnDTNQU9wggD7vT-A&oe=6A13D2B7&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/476133654_1400848267745359_3834185580398380154_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjcuYzIifQ&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGo7RUqX5SeQVFH7a8zGRbWM_mlQtqRJ16mNt6CMT8bUb2lGkHYw8-KqrBsGqrF528&_nc_ohc=xNkfTO9Uv54Q7kNvwG1uUF-&_nc_gid=Nz4yl_kyc5ar4GRifv-dGw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5qsDxlqLfs5PmMiDP16p6z4PO56qnDTNQU9wggD7vT-A&oe=6A13D2B7&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 3893
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/mairinkareli/profile/476133654_1400848267745359_3834185580398380154_n.jpg
+instagram_profile_image_bytes: 75330
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/mairinkareli/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/mairinkareli/profile/476133654_1400848267745359_3834185580398380154_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/mairinkareli/profile/476133654_1400848267745359_3834185580398380154_n.jpg
+profile_image_local: >-
+  ../../assets/designers/mairinkareli/profile/476133654_1400848267745359_3834185580398380154_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/mairinkareli/profile/476133654_1400848267745359_3834185580398380154_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129133480584719_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129138094318898_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418835174750289_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418835501883887_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837280412346_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837817156744_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418843404027429_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418870574819219_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418870641757816_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418876027271332_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378189100636527_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378201280882584_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451534762479052_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451535962070730_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451536691911630_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451537279102368_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451551439055929_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451588021789731_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451588147618169_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091132800518002_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091134662779404_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091136063729377_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906474201166_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906935548086_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906994304344_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330946659852308_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330947498731874_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330948824129477_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330949184816490_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330957179145454_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684574646344_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684935344407_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275685145036111_6924395707.jpg
+instagram_image_count: 33
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129138094318898_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837817156744_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378201280882584_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451551439055929_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906474201166_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906935548086_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330947498731874_6924395707.jpg
+  - >-
+    ../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684574646344_6924395707.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # mairinkareli
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/mairinkareli/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/mairinkareli/profile/476133654_1400848267745359_3834185580398380154_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129133480584719_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129133480584719_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129138094318898_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1746011478_3622129138094318898_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418835174750289_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418835174750289_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418835501883887_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418835501883887_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837280412346_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837280412346_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837817156744_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418837817156744_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418843404027429_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418843404027429_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418870574819219_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418870574819219_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418870641757816_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418870641757816_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418876027271332_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1748430200_3642418876027271332_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378189100636527_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378189100636527_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378201280882584_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757127631_3715378201280882584_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451534762479052_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451534762479052_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451535962070730_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451535962070730_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451536691911630_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451536691911630_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451537279102368_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451537279102368_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451551439055929_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451551439055929_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451588021789731_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451588021789731_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451588147618169_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1757732429_3720451588147618169_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091132800518002_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091132800518002_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 21<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091134662779404_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091134662779404_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 22<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091136063729377_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1770206465_3825091136063729377_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 23<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906474201166_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906474201166_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 24<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906935548086_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906935548086_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 25<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906994304344_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1770638796_3828717906994304344_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 26<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330946659852308_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330946659852308_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 27<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330947498731874_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330947498731874_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 28<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330948824129477_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330948824129477_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 29<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330949184816490_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330949184816490_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 30<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330957179145454_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1772023178_3840330957179145454_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 31<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684574646344_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684574646344_6924395707.jpg --> | [x] | [ ] | [ ] |
+| 32<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684935344407_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275684935344407_6924395707.jpg --> | [ ] | [ ] | [ ] |
+| 33<br>![pd-review\|180](../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275685145036111_6924395707.jpg)<br><!-- image:../../assets/designers/mairinkareli/instagram/mairinkareli_1775473662_3869275685145036111_6924395707.jpg --> | [ ] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Mairin Kareli is a US-based surface pattern designer working under the name Mairin Kareli Design. With a background in fine art and studio art, she designs patterns and illustrations for wallpaper, fabric, and art prints. Her focus is interior applications — transforming living spaces through artful surface design. She distributes through Spoonflower and is open to direct licensing collaborations.
+
 ## Style and Aesthetic
+
+Kareli's designs draw from organic forms and patterns found in nature and history, blending timeless aesthetics with a contemporary edge. Named patterns include Borage Stripe, Apothecary Vintage Bottles, and Cottage Core Witch's Toile — pointing to a decorative, botanical, and vintage-inflected sensibility. Selected Instagram pattern images suggest intricate, detailed surface work with strong ornamental character suited to wallpaper and interior fabric.
 
 ## Techniques and Tools
 
+Background in fine art and studio art; traditional artistic principles applied to contemporary print design. Works across wallpaper, fabric, and art print formats. Distributes through Spoonflower.
+
 ## Markets and Clients
+
+Home decor: wallpaper (primary focus), kitchen and dining, bedding, wall murals. Licensing-ready designs available through Spoonflower. Open to direct licensing collaborations.
 
 ## Portfolio and Presence
 
+- Website: https://mairinkarelidesign.com
+- Instagram: @mairinkareli
+
 ## Career Path
+
+Trained in fine art in college after an early interest in architecture. Describes designing for interiors as the convergence of two long-standing interests — art and the spaces we live in. Building a licensing-ready portfolio through Spoonflower and direct engagement.
 
 ## Pattern Focus
 
+Nature and history-inspired prints for interior applications. Decorative and botanical themes with vintage and artisanal reference. Named pattern collections suggest a cohesive product-ready range. Selected Instagram images suggest detailed wallpaper-scale compositions with intricate motif construction.
+
 ## Connections
+
+- [[Spoonflower]]
+- [[Wallpaper Market]]
+- [[Home Decor Market]]
+- [[Botanical Print]]
+- [[Fine Art]]
+- [[United States]]

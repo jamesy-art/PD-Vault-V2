@@ -23,7 +23,7 @@ bio: ''
 website: 'https://kp2946.wixsite.com/thegoldenmole'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/goldenmole_artworks
 profile_url: ''
 instagram_images:
@@ -40,9 +40,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: Illustrator | The Golden Mole
 website_meta_description: >-
   The Golden Mole's artist portfolio. Here you can peruse personal artworks, as
@@ -235,7 +238,7 @@ open_to:
   - Commissions
 categories: []
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -252,45 +255,122 @@ instagram_profile_pic_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/119893061_745206502927860_9124309489338003024_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEZvoTy4Sr3rt8ZWurltDAb8oszg-vBntzaJUO4B6cYELWAbhFVaUVXDuFATiQQHvE&_nc_ohc=2HYmfSOtyiEQ7kNvwGZOsmY&_nc_gid=mi3h9qVQKRfS3WRJMnGaTw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Jjkdn1johzk0bd7nxXDtPBcLQcf9cZt3h-0Lj9oiOyg&oe=6A13FF83&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-ord5-3.cdninstagram.com/v/t51.2885-19/119893061_745206502927860_9124309489338003024_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-3.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEZvoTy4Sr3rt8ZWurltDAb8oszg-vBntzaJUO4B6cYELWAbhFVaUVXDuFATiQQHvE&_nc_ohc=2HYmfSOtyiEQ7kNvwGZOsmY&_nc_gid=mi3h9qVQKRfS3WRJMnGaTw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af6Jjkdn1johzk0bd7nxXDtPBcLQcf9cZt3h-0Lj9oiOyg&oe=6A13FF83&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/goldenmole_artworks/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 6845
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/goldenmole_artworks/profile/119893061_745206502927860_9124309489338003024_n.jpg
+instagram_profile_image_bytes: 122661
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/goldenmole_artworks/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/goldenmole_artworks/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/goldenmole_artworks/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/goldenmole_artworks/profile/119893061_745206502927860_9124309489338003024_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/goldenmole_artworks/profile/119893061_745206502927860_9124309489338003024_n.jpg
+profile_image_local: >-
+  ../../assets/designers/goldenmole_artworks/profile/119893061_745206502927860_9124309489338003024_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/goldenmole_artworks/profile/119893061_745206502927860_9124309489338003024_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1657951530_2883428885629233258_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1658040987_2884179301434355468_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1683250642_3095653217594705567_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694536517_3190325996126015823_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827034768072_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827135633505_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827160613374_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827194158298_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1696430741_3206215905286114926_7629879772.jpg
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1746431622_3625653693057791904_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1748876160_3646159964785604575_7629879772.jpg
+instagram_image_count: 11
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1657951530_2883428885629233258_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1683250642_3095653217594705567_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827034768072_7629879772.webp
+  - >-
+    ../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1748876160_3646159964785604575_7629879772.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 4
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # goldenmole_artworks
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/goldenmole_artworks/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/goldenmole_artworks/profile/119893061_745206502927860_9124309489338003024_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1657951530_2883428885629233258_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1657951530_2883428885629233258_7629879772.webp --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1658040987_2884179301434355468_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1658040987_2884179301434355468_7629879772.webp --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1683250642_3095653217594705567_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1683250642_3095653217594705567_7629879772.webp --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694536517_3190325996126015823_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694536517_3190325996126015823_7629879772.webp --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827034768072_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827034768072_7629879772.webp --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827135633505_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827135633505_7629879772.webp --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827160613374_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827160613374_7629879772.webp --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827194158298_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1694743682_3192063827194158298_7629879772.webp --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1696430741_3206215905286114926_7629879772.jpg)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1696430741_3206215905286114926_7629879772.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1746431622_3625653693057791904_7629879772.webp)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1746431622_3625653693057791904_7629879772.webp --> | [ ] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1748876160_3646159964785604575_7629879772.jpg)<br><!-- image:../../assets/designers/goldenmole_artworks/instagram/goldenmole_artworks_1748876160_3646159964785604575_7629879772.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Faith Ee is a Singapore-based illustrator working as The Golden Mole, creating cute, fun, and whimsical character-driven artwork. Her practice spans characters and stories, food design, nature and abstract work, animation, and traditional art. She is available for commissions and collaborations via direct contact. With 323 Instagram posts and a developing following, The Golden Mole is an early-career illustrator building a portfolio across character illustration and commercial design.
+
 ## Style and Aesthetic
+
+Whimsical, cute, and character-led. Selected pattern images suggest illustrative work with charm and warmth — expressive rendering and playful subject matter with strong decorative appeal. The aesthetic prioritises visual warmth and approachability, suited to children's products, gifting, and character licensing applications.
 
 ## Techniques and Tools
 
+Works across digital and traditional media. Portfolio categories include animation and traditional art alongside digital illustration, suggesting a practice comfortable with multiple production methods. Available for commission via direct email contact.
+
 ## Markets and Clients
+
+Commission-based illustration and collaboration. Portfolio subjects — characters and stories, food design, nature and abstract — are applicable to children's books, gifting, stationery, and character licensing. No specific commercial clients are documented at time of ingestion.
 
 ## Portfolio and Presence
 
+- Website: [thegoldenmole (Wix)](https://kp2946.wixsite.com/thegoldenmole)
+- Instagram: [@goldenmole_artworks](https://instagram.com/goldenmole_artworks) — 133 followers, 323 posts
+
 ## Career Path
+
+Based in Singapore. Building an illustration practice under the Golden Mole brand, organising work by subject matter (characters, food, nature, animation, traditional art). Available for commissions and collaboration.
 
 ## Pattern Focus
 
+Primarily character and subject illustration rather than surface pattern repeat work. Selected images suggest whimsical standalone illustrations with strong decorative character. SPD relevance lies in potential character motif and spot illustration licensing for children's products, gifting, and stationery.
+
 ## Connections
+
+- [[Illustration]]
+- [[Children's Textiles]]
+- [[Character Licensing]]
+- [[Stationery]]

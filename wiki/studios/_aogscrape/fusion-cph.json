@@ -1,0 +1,40 @@
+{
+  "slug": "fusion-cph",
+  "name": "Fusion CPH",
+  "website": "https://fusioncph.com/home.php",
+  "source_md": "wiki/studios/_pending-patterncloud/fusion-cph.md",
+  "scraped_at": "2026-06-05T23:22:15.360Z",
+  "status": "scraped",
+  "website_title": "Tahlullah",
+  "website_meta_description": "",
+  "pages": [
+    {
+      "url": "https://fusioncph.com/home.php",
+      "text": "Tahlullah SIGN UP LOG IN LOG IN CUSTOMER LOG IN Email Password Remember me Forgot password? PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY",
+      "images": [
+        "https://fusioncph.com/img/mobile/hamburger.png",
+        "https://fusioncph.com/img/required.png",
+        "https://fusioncph.com/img/social/facebookB.png",
+        "https://fusioncph.com/img/social/instagramB.png",
+        "https://fusioncph.com/img/social/pinterestB.png",
+        "https://fusioncph.com/img/social/twitterB.png"
+      ]
+    }
+  ],
+  "website_about_raw": "SOURCE: https://fusioncph.com/home.php\nTahlullah SIGN UP LOG IN LOG IN CUSTOMER LOG IN Email Password Remember me Forgot password? PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY",
+  "website_about_clean": "SOURCE: https://fusioncph.com/home.php\nTahlullah SIGN UP LOG IN LOG IN CUSTOMER LOG IN Email Password Remember me Forgot password? PRESS SUPPLIER INFORMATION TERMS AND CONDITIONS COOKIE & PRIVACY POLICY",
+  "website_images": [
+    "https://fusioncph.com/img/mobile/hamburger.png",
+    "https://fusioncph.com/img/required.png",
+    "https://fusioncph.com/img/social/facebookB.png",
+    "https://fusioncph.com/img/social/instagramB.png",
+    "https://fusioncph.com/img/social/pinterestB.png",
+    "https://fusioncph.com/img/social/twitterB.png"
+  ],
+  "scrape_quality": "partial",
+  "scrape_quality_score": 55,
+  "usable_for_claude": true,
+  "enrichment_status": "ready_for_claude",
+  "website_images_usable": [],
+  "website_images_local": []
+}

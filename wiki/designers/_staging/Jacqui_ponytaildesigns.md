@@ -24,7 +24,7 @@ bio: ''
 website: 'https://ponytaildesigns.com.au'
 website_about: ''
 accepted: ''
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/jacqui_ponytaildesigns
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: 'Ponytail Designs — Australian Shorebird Art, Prints & Children''s Book'
 website_meta_description: >-
   Hand-illustrated Australian wildlife art, shorebird prints, children's
@@ -176,7 +179,7 @@ categories:
   - Home Decor
   - Stationery
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -193,45 +196,129 @@ instagram_profile_pic_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/505734239_18355744567148575_6876128638833484269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFFc2P01JjBHu9aOX2Nvm07n630p5ezgVGc7md6XC9hVnTY7t_of9DQ061Yjhc1qG4&_nc_ohc=M5mFdIVitnEQ7kNvwH6A90v&_nc_gid=pF4yxle-FbFbejUpD_Rdjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4TcsqrxSOwt_zlbcbS8WaZqDWmh_7cYBrM19wxNBGBVg&oe=6A13DAD4&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/505734239_18355744567148575_6876128638833484269_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFFc2P01JjBHu9aOX2Nvm07n630p5ezgVGc7md6XC9hVnTY7t_of9DQ061Yjhc1qG4&_nc_ohc=M5mFdIVitnEQ7kNvwH6A90v&_nc_gid=pF4yxle-FbFbejUpD_Rdjw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4TcsqrxSOwt_zlbcbS8WaZqDWmh_7cYBrM19wxNBGBVg&oe=6A13DAD4&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 5074
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/jacqui_ponytaildesigns/profile/505734239_18355744567148575_6876128638833484269_n.jpg
+instagram_profile_image_bytes: 58277
+instagram_profile_image_quality: medium
 instagram_profile_imported: true
-profile_image: ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/jacqui_ponytaildesigns/profile/505734239_18355744567148575_6876128638833484269_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/profile/505734239_18355744567148575_6876128638833484269_n.jpg
+profile_image_local: >-
+  ../../assets/designers/jacqui_ponytaildesigns/profile/505734239_18355744567148575_6876128638833484269_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/jacqui_ponytaildesigns/profile/505734239_18355744567148575_6876128638833484269_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942055626219_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080584881_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080650555_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1704602309_3274763979597882979_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1736658553_3543671249148862028_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1740891517_3579179925586639863_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1746944615_3629956993261519215_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748756960_3645160040757590620_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748757328_3645163128755091849_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1757820049_3721186737390838189_4396220574.jpg
+instagram_image_count: 10
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942055626219_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080650555_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1736658553_3543671249148862028_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1740891517_3579179925586639863_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1746944615_3629956993261519215_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748756960_3645160040757590620_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748757328_3645163128755091849_4396220574.jpg
+  - >-
+    ../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1757820049_3721186737390838189_4396220574.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # jacqui_ponytaildesigns
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/jacqui_ponytaildesigns/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/jacqui_ponytaildesigns/profile/505734239_18355744567148575_6876128638833484269_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942055626219_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942055626219_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080584881_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080584881_4396220574.jpg --> | [ ] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080650555_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1691555563_3165319942080650555_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1704602309_3274763979597882979_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1704602309_3274763979597882979_4396220574.jpg --> | [ ] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1736658553_3543671249148862028_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1736658553_3543671249148862028_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1740891517_3579179925586639863_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1740891517_3579179925586639863_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1746944615_3629956993261519215_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1746944615_3629956993261519215_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748756960_3645160040757590620_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748756960_3645160040757590620_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748757328_3645163128755091849_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1748757328_3645163128755091849_4396220574.jpg --> | [x] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1757820049_3721186737390838189_4396220574.jpg)<br><!-- image:../../assets/designers/jacqui_ponytaildesigns/instagram/jacqui_ponytaildesigns_1757820049_3721186737390838189_4396220574.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Jacqui Hewlett is an Australian surface pattern designer and illustrator based in Cleveland, Queensland. Under the Ponytail Designs label she creates hand-drawn wildlife and botanical art specialising in Australian shorebirds and native fauna. Products span art prints, nursery wall art, illustrated tea towels, greeting cards, fabric, and children's books, with surface pattern designs available for licensing.
+
 ## Style and Aesthetic
+
+Selected Instagram images suggest a gentle, nature-focused aesthetic built around Australian coastal wildlife. Shorebirds are a recurring motif, depicted in a soft illustrative style suited to calm, nature-inspired interiors. A minimalist botanical strand runs alongside the wildlife work. The overall palette leans coastal and muted — warm and domestic rather than bold or graphic.
 
 ## Techniques and Tools
 
+All work originates as hand-drawn illustration. Jacqui translates these drawings into surface patterns applied across print and textile products. Skills include illustration, colour theory, repeat construction, and pattern design. The website explicitly invites surface pattern design licensing and collaboration enquiries.
+
 ## Markets and Clients
+
+Primary categories: home decor, kidswear, and stationery. Products include art prints, nursery wall art, tea towels, greeting cards, and fabric. The brand is positioned as a gift and home product label for Australian wildlife lovers, with licensing available to trade buyers.
 
 ## Portfolio and Presence
 
+- Website: https://ponytaildesigns.com.au
+- Instagram: @Jacqui_ponytaildesigns
+- Email: jac@ponytaildesigns.com.au
+
 ## Career Path
+
+Jacqui Hewlett runs Ponytail Designs as an Australian small business from Cleveland, QLD. Her practice centres on celebrating Australian native fauna through illustration, extending into licensable surface pattern design alongside direct-to-consumer product sales.
 
 ## Pattern Focus
 
+Selected images suggest shorebird and coastal wildlife motifs alongside botanical elements. Designs appear suited to all-over print applications on homewares and nursery goods. The aesthetic bridges Australian naturalist illustration with decorative surface design.
+
 ## Connections
+
+- [[Australian Wildlife]]
+- [[Kidswear]]
+- [[Home Decor]]
+- [[Stationery]]
+- [[Illustration]]

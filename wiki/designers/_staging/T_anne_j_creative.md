@@ -24,7 +24,7 @@ bio: ''
 website: 'https://tannejcreative.com'
 website_about: ''
 accepted: 12/06/25
-level: level_3
+level: level_5
 asset_folder: wiki/assets/designers/t_anne_j_creative
 profile_url: ''
 instagram_images:
@@ -41,9 +41,12 @@ website_images:
   - ''
 tags:
   - pattern_designer
-  - level_3
   - has_instagram_profile
   - has_profile_image
+  - level_4
+  - has_selected_instagram_images
+  - image_reviewed
+  - ready_for_claude
 website_title: T Anne J Creative
 website_meta_description: >-
   T Anne J Creative- Local Pattern Designer in Blair, Nebraska specializing in
@@ -93,7 +96,7 @@ open_to: []
 categories:
   - Home Decor
 source_status: scraped
-enrichment_status: needs_claude
+enrichment_status: enriched
 manual_about_raw: ''
 manual_reviewed: false
 manual_quality: ''
@@ -114,45 +117,159 @@ instagram_profile_pic_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/670161953_17989293047957106_7989990145692353360_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gH5wGn5_QtqJwlwVSDF_vqROIMQicgyE_XaZgv17zb22wYJVV_JN2kl2s6JMpL5fTE&_nc_ohc=TZthlw5yFXMQ7kNvwHleVxy&_nc_gid=LMpa2Cnodw3mlAT8W5FsNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5uvUmIbHqxIRbxH08V_QCYXmPpij587N8WF1THxRMsuA&oe=6A13D9B8&_nc_sid=8b3546
 instagram_profile_pic_best_url: >-
   https://scontent-lga3-3.cdninstagram.com/v/t51.82787-19/670161953_17989293047957106_7989990145692353360_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lga3-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gH5wGn5_QtqJwlwVSDF_vqROIMQicgyE_XaZgv17zb22wYJVV_JN2kl2s6JMpL5fTE&_nc_ohc=TZthlw5yFXMQ7kNvwHleVxy&_nc_gid=LMpa2Cnodw3mlAT8W5FsNA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af5uvUmIbHqxIRbxH08V_QCYXmPpij587N8WF1THxRMsuA&oe=6A13D9B8&_nc_sid=8b3546
-instagram_profile_image_local: ../../assets/designers/t_anne_j_creative/profile/instagram-profile.jpg
-instagram_profile_image_bytes: 4987
-instagram_profile_image_quality: thumbnail
+instagram_profile_image_local: >-
+  ../../assets/designers/t_anne_j_creative/profile/670161953_17989293047957106_7989990145692353360_n.jpg
+instagram_profile_image_bytes: 228757
+instagram_profile_image_quality: large
 instagram_profile_imported: true
-profile_image: ../../assets/designers/t_anne_j_creative/profile/instagram-profile.jpg
-profile_images: &ref_0
-  - ../../assets/designers/t_anne_j_creative/profile/instagram-profile.jpg
-profile_image_local: ../../assets/designers/t_anne_j_creative/profile/instagram-profile.jpg
+profile_image: >-
+  ../../assets/designers/t_anne_j_creative/profile/670161953_17989293047957106_7989990145692353360_n.jpg
+profile_images:
+  - >-
+    ../../assets/designers/t_anne_j_creative/profile/670161953_17989293047957106_7989990145692353360_n.jpg
+profile_image_local: >-
+  ../../assets/designers/t_anne_j_creative/profile/670161953_17989293047957106_7989990145692353360_n.jpg
 images:
-  profile: *ref_0
+  profile:
+    - >-
+      ../../assets/designers/t_anne_j_creative/profile/670161953_17989293047957106_7989990145692353360_n.jpg
 enrichment_stats:
   profile_total: 1
   profile_valid: 1
 profile_image_synced: true
+instagram_images_selected:
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1742834518_3595478999897606982_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014301_3680873201995378482_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014451_3680874467081439951_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765711703_3787386730417588278_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896638392620_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896663574871_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896671948141_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508085860768_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508094277737_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508102654119_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196060440182_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196152695745_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238150345403245_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238151477879990_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238152618726613_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238153616966849_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238154833352294_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1774930958_3864723451194266612_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1774930958_3864723451244602250_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1776194400_3875321972649983960_58617805105.jpg
+instagram_image_count: 20
+image_reviewed: true
+selected_patterns:
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1742834518_3595478999897606982_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014301_3680873201995378482_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014451_3680874467081439951_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765711703_3787386730417588278_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508102654119_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196060440182_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238151477879990_58617805105.jpg
+  - >-
+    ../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1776194400_3875321972649983960_58617805105.jpg
+selected_placements: []
+trash_images: []
+selected_pattern_count: 8
+selected_placement_count: 0
+trash_image_count: 0
 ---
-
 # t_anne_j_creative
 
 ## Profile Image
 
-<img class="pd-profile-image pd-profile-image-md" src="../../assets/designers/t_anne_j_creative/profile/instagram-profile.jpg" loading="lazy" alt="Profile image">
+![pd-profile|160](../../assets/designers/t_anne_j_creative/profile/670161953_17989293047957106_7989990145692353360_n.jpg)
 
 ## Instagram Images
 
-## Website Images
+| Image | Pattern | Placement | Trash |
+|---|---:|---:|---:|
+| 01<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1742834518_3595478999897606982_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1742834518_3595478999897606982_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 02<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014301_3680873201995378482_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014301_3680873201995378482_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 03<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014451_3680874467081439951_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1753014451_3680874467081439951_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 04<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765711703_3787386730417588278_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765711703_3787386730417588278_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 05<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896638392620_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896638392620_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 06<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896663574871_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896663574871_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 07<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896671948141_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1765976009_3789603896671948141_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 08<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508085860768_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508085860768_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 09<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508094277737_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508094277737_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 10<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508102654119_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1766408693_3793233508102654119_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 11<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196060440182_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196060440182_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 12<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196152695745_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1771603677_3836812196152695745_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 13<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238150345403245_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238150345403245_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 14<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238151477879990_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238151477879990_58617805105.jpg --> | [x] | [ ] | [ ] |
+| 15<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238152618726613_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238152618726613_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 16<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238153616966849_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238153616966849_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 17<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238154833352294_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1772369918_3843238154833352294_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 18<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1774930958_3864723451194266612_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1774930958_3864723451194266612_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 19<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1774930958_3864723451244602250_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1774930958_3864723451244602250_58617805105.jpg --> | [ ] | [ ] | [ ] |
+| 20<br>![pd-review\|180](../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1776194400_3875321972649983960_58617805105.jpg)<br><!-- image:../../assets/designers/t_anne_j_creative/instagram/t_anne_j_creative_1776194400_3875321972649983960_58617805105.jpg --> | [x] | [ ] | [ ] |
 
+## Website Images
 
 ## Overview
 
+Surface pattern designer and artist based in Blair, Nebraska. Specialises in vintage-inspired designs for wallpaper, fabrics, and art, targeting interior designers and home renovators. Works with small business owners on bespoke prints. Designs available via Spoonflower and Raspberry Creek Fabrics. 528 posts; 734 followers (business account).
+
 ## Style and Aesthetic
+
+Vintage, heritage, and Midwestern farmhouse. Draws inspiration from wildflowers, weathered textures, pressed florals, and the rural landscape outside Blair, Nebraska. Selected patterns suggest hand-crafted botanical repeats with a nostalgic, country character — timeless rather than trend-driven.
 
 ## Techniques and Tools
 
+Hand-drawn illustration and painting, with nature as primary source material. Documents pressed florals as plant studies and pattern source material. Works across wallpaper and home textile formats.
+
 ## Markets and Clients
+
+Interior design and home renovation market. Wallpaper, fabrics, and art. Documented platforms: [[Spoonflower]] (fabrics and wallpaper) and Raspberry Creek Fabrics.
 
 ## Portfolio and Presence
 
+- Website: https://tannejcreative.com
+- Instagram: @T_anne_j_creative (734 followers, 528 posts, business account)
+- Spoonflower: t_anne_j_creative
+
 ## Career Path
+
+Midwestern artist and mother of two working from Blair, Nebraska. Creative inspiration drawn from farmlands, wild prairies, and wildflowers outside her door. Self-taught practice rooted in nature observation and vintage aesthetic. Documents the creative process on social media, including sample day content on Spoonflower.
 
 ## Pattern Focus
 
+Selected patterns suggest botanical and heritage-inspired repeats — wildflowers, nature motifs, and hand-crafted florals in earthy, vintage-inflected palettes. Wallpaper is a primary output format. Country farmhouse and modern cottage aesthetics referenced.
+
 ## Connections
+
+- [[Spoonflower]] — primary platform
+- [[Raspberry Creek Fabrics]] — documented client
+- [[Wallpaper]] — primary output format
+- [[Vintage Pattern]] — core aesthetic
+- [[Botanical Pattern]] — recurring motif
