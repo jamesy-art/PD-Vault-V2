@@ -576,5 +576,5 @@ Selected patterns (8 images) indicate tropical and botanical character — consi
 - [[Farm Rio]]
 - [[Tropical Pattern 5]]
 - [[Womenswear]]
-- [[Procreate]]
+- [[procreate]]
 - [[Brazil]]

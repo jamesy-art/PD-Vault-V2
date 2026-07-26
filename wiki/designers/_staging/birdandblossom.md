@@ -219,7 +219,7 @@ Hurley works in collections rather than individual prints — each set structure
 ## Connections
 
 - [[Illustrate It Agency]] — licensing representation
-- [[Procreate]] — primary digital tool
+- [[procreate]] — primary digital tool
 - [[Stationery]] — confirmed market category
 - [[Home Decor]] — confirmed market category
 - [[Womenswear]] — confirmed market category

@@ -1,0 +1,40 @@
+{
+  "csvRows": 128,
+  "products": 45,
+  "created": 45,
+  "overwritten": 0,
+  "skippedExisting": 0,
+  "missingImages": [
+    {
+      "product": "Posca Paint Markers",
+      "image": "posca paint-markers.jpg"
+    }
+  ],
+  "missingUsUrls": [],
+  "missingUkUrls": [
+    "Clip Studio Paint",
+    "Rebelle 8",
+    "Fonts",
+    "FreshBooks",
+    "Notion",
+    "QuickBooks",
+    "Shopify",
+    "WooCommerce",
+    "Squarespace",
+    "Wix",
+    "Elementor",
+    "Procreate",
+    "Procreate Dreams",
+    "Affinity",
+    "Asana"
+  ],
+  "productsWithVariants": 45,
+  "duplicateVariantLabels": [
+    {
+      "product": "Paper",
+      "labels": [
+        "arches"
+      ]
+    }
+  ]
+}

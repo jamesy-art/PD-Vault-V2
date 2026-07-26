@@ -431,6 +431,6 @@ Selected images suggest structured all-over repeat patterns in a colourful, acce
 - [[Spoonflower]] — primary fabric and wallpaper platform
 - [[Carriage House Printery]] — print platform
 - [[Raspberry Creek Fabrics]] — fabric platform
-- [[Procreate]] — primary design tool
+- [[procreate]] — primary design tool
 - [[Home Decor Market]] — key market
 - [[Kidswear Market]] — key market

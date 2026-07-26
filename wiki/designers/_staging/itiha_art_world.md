@@ -286,6 +286,6 @@ Heritage-inspired floral and geometric patterns drawing on Mughal and Persian ae
 
 - [[Flower Pattern]]
 - [[Geometric Pattern]]
-- [[Procreate]]
+- [[procreate]]
 - [[Stationery]]
 - [[Mughal Pattern Heritage]]

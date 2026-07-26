@@ -506,7 +506,7 @@ Bold botanical and abstract food-art illustration patterns; traditional subjects
 - [[Godiva]] — confectionery licensing client
 - [[Barnardo's]] — artist collaboration
 - [[raw/companies/anthropologie]] — retail placement
-- [[Procreate]] — primary creative tool
+- [[procreate]] — primary creative tool
 - [[Stationery]] — core market
 - [[Botanical Pattern]] — primary aesthetic category
 - [[Licensing]] — primary commercial model

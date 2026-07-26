@@ -184,7 +184,7 @@ Procreate-native practice with selected patterns suggesting a commercially acces
 
 ## Techniques and Tools
 
-[[Procreate]] (primary tool, explicitly listed). Digital workflow with emphasis on seamless repeat construction. PatternPAL is her own free online pattern testing tool.
+[[procreate]] (primary tool, explicitly listed). Digital workflow with emphasis on seamless repeat construction. PatternPAL is her own free online pattern testing tool.
 
 ## Markets and Clients
 
@@ -204,10 +204,10 @@ Came to surface pattern design in her 40s following a 25-year technology career.
 
 ## Pattern Focus
 
-Seamless repeat patterns produced in [[Procreate]]. Selected patterns suggest a broad, licensable aesthetic covering floral and decorative motifs. Work positioned for multi-market licensing across [[Stationery]], home, and gift categories.
+Seamless repeat patterns produced in [[procreate]]. Selected patterns suggest a broad, licensable aesthetic covering floral and decorative motifs. Work positioned for multi-market licensing across [[Stationery]], home, and gift categories.
 
 ## Connections
 
-- [[Procreate]] — primary tool
+- [[procreate]] — primary tool
 - [[Licensing]]
 - [[Stationery]] market

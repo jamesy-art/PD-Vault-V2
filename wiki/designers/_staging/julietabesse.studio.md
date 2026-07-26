@@ -360,4 +360,4 @@ Fashion textile prints and embroidery designs in a contemporary womenswear regis
 
 - [[Womenswear]] — primary market
 - [[Embroidery]] — secondary design practice
-- [[Procreate]] — stated tool
+- [[procreate]] — stated tool

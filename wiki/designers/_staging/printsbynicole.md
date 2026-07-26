@@ -494,6 +494,6 @@ Specialises in nature-inspired surface prints: tropical botanicals, florals, fru
 
 - [[Savage x Fenty]] (former client)
 - [[Minted]] (former client)
-- [[Procreate]] (primary digital tool)
+- [[procreate]] (primary digital tool)
 - [[Botanical]] (dominant motif category)
 - [[Surface Pattern Design]] (core discipline)

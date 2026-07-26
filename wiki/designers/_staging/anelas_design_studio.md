@@ -395,4 +395,4 @@ Produces both seamless all-over patterns and placement illustrations. Core seaso
 - [[Spoonflower]] — fabric and wallpaper marketplace
 - [[Stationery Market]] — primary client sector
 - [[Gift Wrap Market]] — key application
-- [[Procreate]] — primary design tool
+- [[procreate]] — primary design tool

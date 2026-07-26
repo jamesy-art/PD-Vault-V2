@@ -264,6 +264,6 @@ Selected patterns suggest illustrative print work suited to womenswear and swimw
 - [[Surface Pattern Design]]
 - [[Swimwear]]
 - [[Womenswear]]
-- [[Procreate]]
+- [[procreate]]
 - [[Watercolour]]
 - [[Textile Design]]

@@ -221,6 +221,6 @@ Blanck's pattern vocabulary spans seasonal themes, lifestyle motifs, and bold de
 - [[raw/companies/anthropologie]] — confirmed licensing client
 - [[Target]] — confirmed licensing client
 - [[American Greetings]] — confirmed licensing client
-- [[Procreate]] — primary digital tool
+- [[procreate]] — primary digital tool
 - [[Adobe After Effects]] — current motion design exploration
 - [[Licensing]] — primary business model

@@ -453,7 +453,7 @@ Extensive pattern catalogue spanning floral, tropical, abstract, ethnic, animal,
 ## Connections
 
 - [[Patternbank]] — early print platform for her work
-- [[Procreate]] — primary digital tool; she also sells brushes
+- [[procreate]] — primary digital tool; she also sells brushes
 - [[Flower Pattern]] — core pattern category
 - [[Tropical Pattern 5]] — active pattern category
 - [[Geometric Pattern]] — geo category in portfolio

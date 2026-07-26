@@ -521,7 +521,7 @@ Selected Instagram images suggest a colourful floral and botanical portfolio acr
 ## Connections
 
 - [[Surface Pattern Design]]
-- [[Procreate]]
+- [[procreate]]
 - [[Licensing]]
 - [[Home Decor]]
 - [[Stationery]]

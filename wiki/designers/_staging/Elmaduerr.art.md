@@ -165,5 +165,5 @@ No selected pattern images in the image review. Elma's portfolio is primarily si
 
 - [[Map Illustration]]
 - [[Whimsical Illustration]]
-- [[Procreate]]
+- [[procreate]]
 - [[Commissioned Art]]

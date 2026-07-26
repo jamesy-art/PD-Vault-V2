@@ -369,4 +369,4 @@ Botanical and abstract pattern work, primarily ink-based with digital rendering 
 - [[Surface Pattern Design]]
 - [[Fabric Design]]
 - [[Home Decor]]
-- [[Procreate]]
+- [[procreate]]
