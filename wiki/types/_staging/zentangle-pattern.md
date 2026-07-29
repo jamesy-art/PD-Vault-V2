@@ -1,8 +1,8 @@
 ---
-name: "types-of-repeat-pattern"
-slug: "types-of-repeat-pattern"
-status: "draft"
-type_group: "structure"
+name: zentangle-pattern
+slug: zentangle-pattern
+status: draft
+type_group: structure
 summary: ""
 motifs: []
 structures: []
@@ -10,11 +10,11 @@ styles: []
 categories: []
 source_count: 1
 source_files:
-  - "types-of-repeat-pattern.md"
-image_status: "needs_images"
-enrichment_status: "needs_claude"
-created: "2026-07-17"
-updated: "2026-07-17"
+  - types-of-repeat-pattern.md
+image_status: needs_images
+enrichment_status: needs_claude
+created: 2026-07-17
+updated: 2026-07-17
 ---
 
 # types-of-repeat-pattern

@@ -28,11 +28,11 @@ manual_reviewed: false
 manual_quality: ""
 manual_review_note: ""
 tags:
-profile_image: ../../assets/studios/alxndr/profile/338281724_688523519691926_7889053416012636387_n.jpg
-profile_image_local: ../../assets/studios/alxndr/profile/338281724_688523519691926_7889053416012636387_n.jpg
-instagram_profile_image_local: ../../assets/studios/alxndr/profile/338281724_688523519691926_7889053416012636387_n.jpg
+profile_image: ../../assets/studios/alxndr/profile/alxndr-profile-pattern-designers.jpg
+profile_image_local: ../../assets/studios/alxndr/profile/alxndr-profile-pattern-designers.jpg
+instagram_profile_image_local: ../../assets/studios/alxndr/profile/alxndr-profile-pattern-designers.jpg
 profile_images:
-  - ../../assets/studios/alxndr/profile/338281724_688523519691926_7889053416012636387_n.jpg
+  - ../../assets/studios/alxndr/profile/alxndr-profile-pattern-designers.jpg
 selected_patterns:
   - ../../assets/studios/alxndr/patterns/alxndr-pattern-1-pattern-designers.jpg
   - ../../assets/studios/alxndr/patterns/alxndr-pattern-2-pattern-designers.jpg
@@ -54,7 +54,7 @@ trash_image_count: 0
 image_reviewed: true
 images:
   profile:
-    - ../../assets/studios/alxndr/profile/338281724_688523519691926_7889053416012636387_n.jpg
+    - ../../assets/studios/alxndr/profile/alxndr-profile-pattern-designers.jpg
   patterns:
     - ../../assets/studios/alxndr/patterns/alxndr-pattern-1-pattern-designers.jpg
     - ../../assets/studios/alxndr/patterns/alxndr-pattern-2-pattern-designers.jpg
@@ -70,14 +70,14 @@ images:
 
 ## Profile Image
 
-![pd-profile|160](../../assets/studios/alxndr/profile/338281724_688523519691926_7889053416012636387_n.jpg)
+![pd-profile|160](../../assets/studios/alxndr/profile/alxndr-profile-pattern-designers.jpg)
 
 ## Selected Pattern Images
 
-| Pattern | Image |
-|---|---|
-| Pattern 1 | <img src="../../assets/studios/alxndr/patterns/alxndr-pattern-1-pattern-designers.jpg" width="160"> |
-| Pattern 2 | <img src="../../assets/studios/alxndr/patterns/alxndr-pattern-2-pattern-designers.jpg" width="160"> |
+| Pattern   | Image                                                                                                 |
+| --------- | ----------------------------------------------------------------------------------------------------- |
+| Pattern 1 | <img src="../../assets/studios/alxndr/patterns/alxndr-pattern-1-pattern-designers.jpg" width="160">   |
+| Pattern 2 | <img src="../../assets/studios/alxndr/patterns/alxndr-pattern-2-pattern-designers.jpg" width="160">   |
 | Pattern 3 | <img src="../../assets/studios/alxndr/patterns/alxndr-placement-6-pattern-designers.jpg" width="160"> |
 | Pattern 4 | <img src="../../assets/studios/alxndr/patterns/alxndr-placement-7-pattern-designers.jpg" width="160"> |
 

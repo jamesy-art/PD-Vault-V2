@@ -2,68 +2,58 @@
 name: Paper
 slug: paper
 category: art
-software_group: ''
-status: draft
+software_group: ""
+status: published
 asset_folder: wiki/assets/equipment
 profile_image: assets/equipment/art/paper.jpg
 image_alt: Paper
 default_variant: Jacksons
 markets:
   us:
-    url: >-
-      https://www.jacksonsart.com/en-us/jackson-s-two-rivers-watercolor-paper-not-sheets
+    url: https://www.jacksonsart.com/en-us/jackson-s-two-rivers-watercolor-paper-not-sheets
   uk:
-    url: >-
-      https://www.jacksonsart.com/jackson-s-two-rivers-watercolour-paper-not-sheets
+    url: https://www.jacksonsart.com/jackson-s-two-rivers-watercolour-paper-not-sheets
 variants:
   - label: Jacksons
     slug: jacksons
     sort_order: 0
     markets:
       us:
-        url: >-
-          https://www.jacksonsart.com/en-us/jackson-s-two-rivers-watercolor-paper-not-sheets
+        url: https://www.jacksonsart.com/en-us/jackson-s-two-rivers-watercolor-paper-not-sheets
       uk:
-        url: >-
-          https://www.jacksonsart.com/jackson-s-two-rivers-watercolour-paper-not-sheets
+        url: https://www.jacksonsart.com/jackson-s-two-rivers-watercolour-paper-not-sheets
   - label: Arches
     slug: arches
     sort_order: 1
     markets:
       us:
-        url: >-
-          https://www.jacksonsart.com/en-us/arches-aquarelle-watercolor-paper-sheets
+        url: https://www.jacksonsart.com/en-us/arches-aquarelle-watercolor-paper-sheets
       uk:
-        url: 'https://www.jacksonsart.com/arches-aquarelle-watercolour-paper-sheets'
+        url: https://www.jacksonsart.com/arches-aquarelle-watercolour-paper-sheets
   - label: Canson
     slug: canson
     sort_order: 2
     markets:
       us:
-        url: >-
-          https://www.jacksonsart.com/en-us/canson-moulin-du-roy-watercolor-paper-sheets
+        url: https://www.jacksonsart.com/en-us/canson-moulin-du-roy-watercolor-paper-sheets
       uk:
-        url: >-
-          https://www.jacksonsart.com/canson-moulin-du-roy-watercolour-paper-sheets
-  - label: Arches
-    slug: arches
+        url: https://www.jacksonsart.com/canson-moulin-du-roy-watercolour-paper-sheets
+  - label: Arches 2
+    slug: arches-2
     sort_order: 3
     markets:
       us:
-        url: >-
-          https://www.jacksonsart.com/en-us/arches-aquarelle-watercolor-paper-sheets
+        url: https://www.jacksonsart.com/en-us/arches-aquarelle-watercolor-paper-sheets
       uk:
-        url: 'https://www.jacksonsart.com/arches-aquarelle-watercolour-paper-sheets'
+        url: https://www.jacksonsart.com/arches-aquarelle-watercolour-paper-sheets
   - label: Fabriano
     slug: fabriano
     sort_order: 4
     markets:
       us:
-        url: >-
-          https://www.jacksonsart.com/en-us/fabriano-artistico-watercolor-paper-sheets
+        url: https://www.jacksonsart.com/en-us/fabriano-artistico-watercolor-paper-sheets
       uk:
-        url: >-
-          https://www.jacksonsart.com/fabriano-artistico-watercolour-paper-sheets
+        url: https://www.jacksonsart.com/fabriano-artistico-watercolour-paper-sheets
 tags:
   - affiliate_product
   - art
@@ -90,7 +80,7 @@ tags:
 | 0 | Jacksons | ✓ | ✓ |
 | 1 | Arches | ✓ | ✓ |
 | 2 | Canson | ✓ | ✓ |
-| 3 | Arches | ✓ | ✓ |
+| 3 | Arches 2| ✓ | ✓ |
 | 4 | Fabriano | ✓ | ✓ |
 
 ## Overview

@@ -18,7 +18,7 @@ markets:
 variants:
   - label: AOC
     slug: aoc
-    sort_order: 1
+    sort_order: 0
     markets:
       us:
         url: >-
@@ -28,7 +28,7 @@ variants:
           https://www.amazon.co.uk/AOC-24B3HA2-monitor-FlickerFree-Adaptive/dp/B0CV3TM2WH
   - label: Samsung
     slug: samsung
-    sort_order: 2
+    sort_order: 1
     markets:
       us:
         url: >-
@@ -38,7 +38,7 @@ variants:
           https://www.amazon.co.uk/Samsung-LS24F330EAUXXU-Full-100Hz-Monitor/dp/B0FRMSDZGK
   - label: Koorui
     slug: koorui
-    sort_order: 3
+    sort_order: 2
     markets:
       us:
         url: 'https://www.amazon.com/KOORUI-27-Inch-Monitor-Computer/dp/B0B3DS23NB'
@@ -47,7 +47,7 @@ variants:
           https://www.amazon.co.uk/KOORUI-Monitor-Adaptive-Adjustable-Mountable/dp/B0FMFGRTLG
   - label: Acer
     slug: acer
-    sort_order: 4
+    sort_order: 3
     markets:
       us:
         url: >-
@@ -75,12 +75,12 @@ tags:
 
 ## Variants
 
-| Order | Variant | US | UK |
-| ---: | --- | :---: | :---: |
-| 1 | AOC | ✓ | ✓ |
-| 2 | Samsung | ✓ | ✓ |
-| 3 | Koorui | ✓ | ✓ |
-| 4 | Acer | ✓ | ✓ |
+| Order | Variant | US  | UK  |
+| ----: | ------- | :-: | :-: |
+|     0 | AOC     |  ✓  |  ✓  |
+|     1 | Samsung |  ✓  |  ✓  |
+|     2 | Koorui  |  ✓  |  ✓  |
+|     3 | Acer    |  ✓  |  ✓  |
 
 ## Overview
 

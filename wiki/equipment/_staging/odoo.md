@@ -1,8 +1,8 @@
 ---
-name: Acrylic Brushes
-slug: acrylic-brushes
-category: art
-software_group: ""
+name: odoo
+slug: odoo
+category: software
+software_group: ecommerce
 status: published
 asset_folder: wiki/assets/equipment
 profile_image: assets/equipment/art/acrylic-brushes.jpg
