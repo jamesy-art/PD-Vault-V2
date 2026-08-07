@@ -5,27 +5,16 @@ status: active
 type_group: heraldic
 summary: Surface pattern based on the fleur-de-lis — a highly stylised symmetrical motif derived from the lily flower or yellow flag iris. One of Western design's most durable decorative symbols, used continuously in textiles, wallpaper, and home décor since the Middle Ages.
 motifs:
-  - fleur-de-lis
-  - lily-motif
-  - heraldic-flower
-  - three-petal-form
+  - Emblem
 structures:
-  - all-over
-  - semé
-  - trellis
-  - damask
-  - grid
+  - Scatter
+  - Lattice
 styles:
-  - classical
-  - heritage
-  - heraldic
-  - French-heritage
-  - luxury
+  - Damask
 categories:
-  - heraldic
-  - historical
-  - floral
-  - classical
+  - Heritage
+colour_family: Metallic
+technique: []
 source_count: 2
 source_files:
   - Fleur-de-lis Pattern 2.md
@@ -33,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/fleur-de-lis-pattern/fleur-de-lis-pattern-1-pattern-designers.jpg
@@ -64,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=i5cnzAw6oPc
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: fleur-de-lis-pattern-1-pattern-designers.jpg
+    title: Elegant navy blue fleurdelis pattern sophisticated repeating design ideal for backgrounds textiles and website design conveys luxury heritage and french style | Premium Vector
+    alt: Elegant navy blue fleurdelis pattern sophisticated repeating design ideal for backgrounds textiles and website design conveys luxury heritage and french style | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/elegant-navy-blue-fleurdelis-pattern-sophisticated-repeating-design-ideal-backgrounds-textiles-website-design-conveys-luxury-heritage-french-style_420125211.htm"
+      image_url: "https://img.magnific.com/premium-vector/elegant-navy-blue-fleurdelis-pattern-sophisticated-repeating-design-ideal-backgrounds-textiles-website-design-conveys-luxury-heritage-french-style_1211661-16228.jpg"
+      title: Elegant navy blue fleurdelis pattern sophisticated repeating design ideal for backgrounds textiles and website design conveys luxury heritage and french style | Premium Vector
+      description: Download this Premium vector of Elegant navy blue fleurdelis pattern sophisticated repeating design ideal for backgrounds textiles and website design conveys luxury heritage and french style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: fleur-de-lis-pattern-2-pattern-designers.jpg
+    title: Fleur de lis pattern | Premium Vector
+    alt: Fleur de lis pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/fleur-de-lis-pattern_1425054.htm"
+      image_url: "https://img.magnific.com/premium-vector/fleur-de-lis-pattern_3616-3.jpg"
+      title: Fleur de lis pattern | Premium Vector
+      description: Download this Premium vector of Fleur de lis pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: fleur-de-lis-pattern-3-pattern-designers.jpg
+    title: Ornamental graphic for decoration rich flourish delicate as vintage france elegant repeating a monarchy print | Premium Vector
+    alt: Ornamental graphic for decoration rich flourish delicate as vintage france elegant repeating a monarchy print | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/ornamental-graphic-decoration-rich-flourish-delicate-as-vintage-france-elegant-repeating-monarchy-print_396816522.htm"
+      image_url: "https://img.magnific.com/premium-vector/ornamental-graphic-decoration-rich-flourish-delicate-as-vintage-france-elegant-repeating-monarchy-print_1211661-13181.jpg"
+      title: Ornamental graphic for decoration rich flourish delicate as vintage france elegant repeating a monarchy print | Premium Vector
+      description: Download this Premium vector of Ornamental graphic for decoration rich flourish delicate as vintage france elegant repeating a monarchy print and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: fleur-de-lis-pattern-4-pattern-designers.jpg
+    title: Pale beige fleur de lys on soft pastel blue background vector seamless pattern | Premium Vector
+    alt: Pale beige fleur de lys on soft pastel blue background vector seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pale-beige-fleur-de-lys-soft-pastel-blue-background-vector-seamless-pattern_387717247.htm"
+      image_url: "https://img.magnific.com/premium-vector/pale-beige-fleur-de-lys-soft-pastel-blue-background-vector-seamless-pattern_822686-2993.jpg"
+      title: Pale beige fleur de lys on soft pastel blue background vector seamless pattern | Premium Vector
+      description: Download this Premium vector of Pale beige fleur de lys on soft pastel blue background vector seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Fleur-de-lis Pattern

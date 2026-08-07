@@ -4,33 +4,23 @@ slug: ice-cream-pattern
 status: active
 type_group: novelty
 summary: Novelty/conversational surface pattern using ice cream cone, scoop, popsicle, and soft-serve motifs; associated with summer, children's products, and confectionery branding
-motifs:
-  - ice cream cone
-  - scoop
-  - popsicle
-  - soft serve
-  - waffle cone
+motifs: []
 structures:
-  - tossed
-  - all-over
-  - random-scatter
+  - Scatter
 styles:
-  - novelty
-  - conversational
-  - playful
-  - retro
+  - Kawaii
+  - Retro
 categories:
-  - novelty
-  - food-pattern
-  - children's
-  - summer
+  - Food
+colour_family: Pink
+technique: []
 source_count: 1
 source_files:
   - Ice Cream Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ice-cream-pattern/ice-cream-pattern-1-pattern-designers.jpg
@@ -61,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=cBYxmcWOh9k
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ice-cream-pattern-1-pattern-designers.jpg
+    title: Ice cream pattern background
+    alt: Ice cream pattern background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/ice-cream-pattern-background_1165719.htm"
+      image_url: "https://img.magnific.com/free-vector/ice-cream-pattern-background_1012-319.jpg"
+      title: Ice cream pattern background
+      description: Download this free vector of Ice cream pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ice-cream-pattern-2-pattern-designers.jpg
+    title: Hand drawn summer duotone pattern design
+    alt: Hand drawn summer duotone pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-summer-duotone-pattern-design_28473619.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-summer-duotone-pattern-design_23-2149479520.jpg"
+      title: Hand drawn summer duotone pattern design
+      description: Download this free vector of Hand drawn summer duotone pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ice-cream-pattern-3-pattern-designers.jpg
+    title: Ice cream pattern background
+    alt: Ice cream pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/ice-cream-pattern-background_1185384.htm"
+      image_url: "https://img.magnific.com/free-vector/ice-cream-pattern-background_1340-859.jpg"
+      title: Ice cream pattern background
+      description: Download this free vector of Ice cream pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ice-cream-pattern-4-pattern-designers.jpg
+    title: Ice cream seamless pattern background | Premium Vector
+    alt: Ice cream seamless pattern background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/ice-cream-seamless-pattern-background_2473051.htm"
+      image_url: "https://img.magnific.com/premium-vector/ice-cream-seamless-pattern-background_39663-137.jpg"
+      title: Ice cream seamless pattern background | Premium Vector
+      description: Download this Premium vector of Ice cream seamless pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ice Cream Pattern

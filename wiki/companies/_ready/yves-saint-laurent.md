@@ -1,225 +1,106 @@
 ---
+company_uid: d13c3a1b-21c0-4f59-a9b1-06f43efbcb76
+schema_version: 1
 name: Yves Saint Laurent
 slug: yves-saint-laurent
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
-type_slugs: []
-website: https://www.ysl.com
-instagram: https://www.instagram.com/ysl
-linkedin: https://www.linkedin.com/company/yves-saint-laurent/
-facebook: https://www.facebook.com/ysl
-founded: "1961"
-headquarters: France
-employees: 2,800
-revenue: $3.1B
-category_images:
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/yves-saint-laurent/cat/yves-saint-laurent-mens.jpg"
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/yves-saint-laurent/cat/yves-saint-laurent-womens.jpg"
-parent_company: kering
-source_file: kering.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-12
-updated: 2026-06-12
-retail_categories:
-  - Shoes
-  - Clothing
-  - Tops
-  - Bottoms
-  - Dresses & Jumpsuits
-  - Coats & Jackets
-  - Accessories
-  - Bags
-  - Jewellery
-  - Fragrance
-  - Eyewear
-  - Swimwear
-  - Lingerie
-  - Kidswear
-market_categories:
-  - Womenswear
-  - Menswear
-  - Kidswear
-  - Lifestyle
-collections: []
-tiktok: https://www.tiktok.com/@ysl
-pinterest: https://www.pinterest.com/ysl
-youtube: https://www.youtube.com/ysl
-store_locator_url: https://www.ysl.com/en-en/stores
-profile_image: ../../assets/companies/yves-saint-laurent/profile/450600454_769717255334520_5543926848233322375_n.jpg
-profile_image_local: ../../assets/companies/yves-saint-laurent/profile/450600454_769717255334520_5543926848233322375_n.jpg
-company_logo_selected: ../../assets/companies/yves-saint-laurent/profile/450600454_769717255334520_5543926848233322375_n.jpg
-logo_image_selected: ../../assets/companies/yves-saint-laurent/profile/450600454_769717255334520_5543926848233322375_n.jpg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/yves-saint-laurent/profile/450600454_769717255334520_5543926848233322375_n.jpg
+  - accessories
+  - eyewear
+  - fashion
+  - jewellery
+  - kids
+  - luxury
+markets:
+  - womenswear
+  - menswear
+  - kidswear
+  - lifestyle
+products:
+  - footwear
+  - apparel
+  - accessories
+  - bags
+  - jewellery
+  - fragrance
+  - eyewear
+  - swimwear
+  - lingerie
+  - kidswear
+hq_country_code: FR
+location: France
+founded_year: 1961
+employee_count_text: 2,800
+revenue_text: $3.1B
+website_url: https://www.ysl.com
+instagram_url: https://www.instagram.com/ysl
+linkedin_url: https://www.linkedin.com/company/yves-saint-laurent/
+facebook_url: https://www.facebook.com/ysl
+tiktok_url: https://www.tiktok.com/@ysl
+pinterest_url: https://www.pinterest.com/ysl
+youtube_url: https://www.youtube.com/ysl
+parent_company_uid: 0b910007-d63a-4b6f-80de-38fedfd17b22
+type_slugs:
+  - geometric-print
+  - art-inspired-print
+  - colour-block
+  - printed-silk
+  - floral-print
 images:
-  profile:
-    - ../../assets/companies/yves-saint-laurent/profile/450600454_769717255334520_5543926848233322375_n.jpg
-trk_reviewed: false
-trk_notes: ""
-trk_new: https://www.ysl.com/en-en/ca/new-arrivals/gifts
-trk_women: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear
-trk_women_new: https://www.ysl.com/en-en/ca/new-arrivals/highlights/gaby-women
-trk_women_clothing: ""
-trk_women_dresses: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear/dresses-and-skirts
-trk_women_tops: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear/knitwear
-trk_women_bottoms: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear/denim-women
-trk_women_outerwear: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear/coats
-trk_women_activewear: ""
-trk_women_swimwear: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear/lingerie-and-swimwear
-trk_women_shoes: https://www.ysl.com/en-en/ca/shop-women/shoes
-trk_women_bags: https://www.ysl.com/en-en/ca/shop-women/handbags
-trk_women_acc: https://www.ysl.com/en-en/ca/shop-women/accessories
-trk_men: https://www.ysl.com/en-en/ca/shop-men/ready-to-wear
-trk_men_new: https://www.ysl.com/en-en/ca/new-arrivals/summer-resort/men-resort
-trk_men_clothing: ""
-trk_men_tops: https://www.ysl.com/en-en/ca/shop-men/ready-to-wear/shirts
-trk_men_bottoms: https://www.ysl.com/en-en/ca/shop-men/ready-to-wear/denim-men
-trk_men_outerwear: https://www.ysl.com/en-en/ca/shop-men/ready-to-wear/outerwear
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: https://www.ysl.com/en-en/ca/shop-men/shoes
-trk_men_bags: https://www.ysl.com/en-en/ca/shop-men/bags
-trk_men_acc: https://www.ysl.com/en-en/ca/shop-men/accessories
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://public.cj.com/signup/publisher?advertiserId=6388542
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/yves-saint-laurent/profile/yves-saint-laurent-logo.jpg
+    alt: Yves Saint Laurent logo
+    width: 933
+    height: 933
+  gallery:
+    - title: Mens
+      alt: Yves Saint Laurent mens collection
+      path: ../../assets/companies/yves-saint-laurent/gallery/yves-saint-laurent-mens.jpg
+      width: 1200
+      height: 1500
+      source:
+        title: Mens
+        page_url: https://www.ysl.com/en-en/ca/shop-men/ready-to-wear
+      affiliate:
+        enabled: false
+        url: null
+    - title: Womens
+      alt: Yves Saint Laurent womens collection
+      path: ../../assets/companies/yves-saint-laurent/gallery/yves-saint-laurent-womens.jpg
+      width: 1200
+      height: 1500
+      source:
+        title: Womens
+        page_url: https://www.ysl.com/en-en/ca/shop-women/ready-to-wear
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Yves Saint Laurent
 
 ## Profile Image
 
-![pd-profile|160](450600454_769717255334520_5543926848233322375_n.jpg)
+![Profile](../../assets/companies/yves-saint-laurent/profile/yves-saint-laurent-logo.jpg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Mens | <img src="../../assets/companies/yves-saint-laurent/cat/yves-saint-laurent-mens.jpg" width="160"> |
-| Womens | <img src="../../assets/companies/yves-saint-laurent/cat/yves-saint-laurent-womens.jpg" width="160"> |
-
-
-French luxury fashion house established in 1962, internationally recognised for art-to-surface design translation, ready-to-wear, leather goods, and footwear. Part of [[wiki/companies/_staging/holding/kering]] since 1999. Revenue: €2.9 billion (2024).
+| Title | Preview |
+|-------|---------|
+| Mens | ![](../../assets/companies/yves-saint-laurent/gallery/yves-saint-laurent-mens.jpg) |
+| Womens | ![](../../assets/companies/yves-saint-laurent/gallery/yves-saint-laurent-womens.jpg) |
 
 ## Overview
 
 Yves Saint Laurent — also trading as Saint Laurent and YSL — is a French luxury fashion house established in 1962 by designer Yves Saint Laurent and his partner Pierre Bergé. The house's logos were designed in 1963 by A.M. Cassandre. During the 1960s and 1970s, YSL pioneered luxury ready-to-wear with the 1966 launch of *Rive Gauche* — widely credited as the first luxury RTW concept from a couture house — introduced *Le Smoking* (the women's tuxedo), and produced a sustained series of art homage collections that applied fine art motifs directly onto garment surfaces.
 
-The house was sold to Sanofi in 1993 and acquired by [[wiki/companies/_staging/holding/kering]] in 1999. Creative directors have included Tom Ford (2000–2004), Stefano Pilati (2005–2011), Hedi Slimane (2012–2016, who rebranded RTW as "Saint Laurent"), and Anthony Vaccarello (2016–present). Yves Saint Laurent died in 2008. YSL Beauty is separately operated by L'Oréal. The house reported €2.9 billion in revenue in 2024 and operates 282 boutiques across 48 countries.
-
-## Company Profile
-
-- **Founded:** 1962, Paris, France
-- **Parent company:** [[wiki/companies/_staging/holding/kering]] (since 1999)
-- **CEO:** Cédric Charbit (since November 2024)
-- **Creative director:** Anthony Vaccarello (since 2016)
-- **Revenue:** €2.9 billion (2024)
-- **Retail:** 282 boutiques in 48 countries (as of May 2026)
-- **Cosmetics:** YSL Beauty operated by L'Oréal
-
-## Market Position
-
-Tier-one French luxury. YSL competes across RTW, leather goods, footwear, and fragrance at the top end of the global luxury market. Revenue ranged from €2.5 billion (2021) to €3.3 billion (2022) and stood at €2.9 billion in 2024. Boutiques are concentrated in Asia (104), Europe (76), and North America (71).
-
-## Products and Categories
-
-- Ready-to-wear — womenswear and menswear (branded "Saint Laurent" since 2012)
-- Couture (private; haute couture atelier revived 2015)
-- Leather accessories and handbags
-- Footwear
-- Eyewear
-- Fragrance (YSL Beauty, L'Oréal-operated)
-
-## Pattern and Surface Design Relevance
-
-Yves Saint Laurent holds fashion's most documented record of translating fine art directly into garment surface design. The 1965 *Hommage à Piet Mondrian* collection — geometric colour-block dresses rendered in wool jersey — is a canonical reference in art-to-fabric translation. Subsequent art homage collections included Henri Matisse (S/S 1970, A/W 1981, S/S 1982), Fernand Léger (A/W 1981), Georges Braque (S/S 1988), and Vincent van Gogh (S/S 1988). Tom Ford's A/W 2004 printed silk evening dress for YSL was named Fashion Museum Dress of the Year.
-
-YSL's broader design vocabulary drew on Chinese textiles, Pop Art, the Ballets Russes, and Picasso — a reference library that maps closely onto print motif and surface pattern history. The *Rive Gauche* RTW line (1966) extended this aesthetic vocabulary to a wider commercial market.
-
-## Design Direction
+The house was sold to Sanofi in 1993 and acquired by Kering in 1999. Creative directors have included Tom Ford (2000–2004), Stefano Pilati (2005–2011), Hedi Slimane (2012–2016, who rebranded RTW as "Saint Laurent"), and Anthony Vaccarello (2016–present). Yves Saint Laurent died in 2008. YSL Beauty is separately operated by L'Oréal. The house reported €2.9 billion in revenue in 2024 and operates 282 boutiques across 48 countries.
 
 Art-informed and historically referential. YSL's print identity is built on sustained art world cross-pollination — Mondrian geometric blocks, Matisse-derived florals and figurals, painterly surface graphics — interpreted through successive creative directors. Hedi Slimane shifted toward rock subculture references; Anthony Vaccarello has positioned the house toward overtly sensual luxury. Surface design operates at the level of editorial statement rather than commercial print volume.
-
-## Retail and Licensing Context
-
-Yves Saint Laurent operates 282 branded boutiques globally, supplemented by luxury department store distribution. YSL Beauty (fragrances and cosmetics) is separately licensed to L'Oréal. In April 2023, the house launched Saint Laurent Productions — a film production company whose costumes are designed by Anthony Vaccarello — extending the brand's aesthetic practice into cinema.
-
-## Related Pattern Types
-
-- [[Geometric print]]
-- [[Art-inspired print]]
-- [[Colour-block]]
-- [[Printed silk]]
-- [[Floral print]]
-
-## Related Companies
-
-- [[wiki/companies/_staging/holding/kering]] — parent company since 1999
-- [[L'Oréal]] — operates YSL Beauty cosmetics
-
-## Source Notes
-
-- Wikipedia: Yves Saint Laurent (fashion house)
-- Stub generated from kering.md
-
-<!-- RAW WIKIPEDIA SOURCE START: yves-saint-laurent.md -->
-
-## Raw Wikipedia Source: Yves Saint Laurent (fashion house)
-
----
-title: "Yves Saint Laurent (fashion house)"
-source: "https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(fashion_house)"
-author:
-  - "[[Wikipedia]]"
-published: 2007-10-09
-created: 2026-06-12
-description:
-tags:
-  - "clippings"
----
-**Yves Saint Laurent SAS** [^4] ([/ ˌ iː v ˌ s æ̃ l ɔː ˈ r ɒ̃ /](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"), also [UK](https://en.wikipedia.org/wiki/British_English "British English"): [/- l ɒ -/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"), [US](https://en.wikipedia.org/wiki/American_English "American English"): [/- l oʊ -/](https://en.wikipedia.org/wiki/Help:IPA/English "Help:IPA/English"); French: [\[iv sɛ̃ lɔʁɑ̃\]](https://en.wikipedia.org/wiki/Help:IPA/French "Help:IPA/French") ), also known as **Saint Laurent** and **YSL**, is a French luxury [fashion house](https://en.wikipedia.org/wiki/Fashion_house "Fashion house") founded in 1961 by [Yves Saint Laurent](https://en.wikipedia.org/wiki/Yves_Saint_Laurent_\(designer\) "Yves Saint Laurent (designer)") and his partner, [Pierre Bergé](https://en.wikipedia.org/wiki/Pierre_Berg%C3%A9 "Pierre Bergé"). The company specialises in *[couture](https://en.wikipedia.org/wiki/Haute_couture "Haute couture")*, [ready-to-wear](https://en.wikipedia.org/wiki/Ready-to-wear "Ready-to-wear"), leather accessories, and footwear.[^5] Its cosmetics line, YSL Beauty, is owned by [L'Oréal](https://en.wikipedia.org/wiki/L%27Or%C3%A9al "L'Oréal").[^6] [^7] Cédric Charbit has been CEO of Yves Saint Laurent since 2024,[^8] and [Anthony Vaccarello](https://en.wikipedia.org/wiki/Anthony_Vaccarello "Anthony Vaccarello") creative director since 2016.[^9] In 2024, Yves Saint Laurent reported 2.9 billion euros in sales.[^10]
 
 ## History
 
@@ -305,176 +186,37 @@ Yves Saint Laurent Archive Gallery
 	A/W 2004 by Tom Ford, Fashion Museum's Dress of the Year
 	A/W 2004 by Tom Ford, [Fashion Museum](https://en.wikipedia.org/wiki/Fashion_Museum,_Bath "Fashion Museum, Bath") 's Dress of the Year
 
-## Governance
+- **Founded:** 1962, Paris, France
+- **Parent company:** Kering (since 1999)
+- **CEO:** Cédric Charbit (since November 2024)
+- **Creative director:** Anthony Vaccarello (since 2016)
+- **Revenue:** €2.9 billion (2024)
+- **Retail:** 282 boutiques in 48 countries (as of May 2026)
+- **Cosmetics:** YSL Beauty operated by L'Oréal
 
-### CEOs
+## Products
 
-- 2013–2024: Francesca Bellettini [^41]
-- Since 2024: Cédric Charbit [^8]
+- Ready-to-wear — womenswear and menswear (branded "Saint Laurent" since 2012)
+- Couture (private; haute couture atelier revived 2015)
+- Leather accessories and handbags
+- Footwear
+- Eyewear
+- Fragrance (YSL Beauty, L'Oréal-operated)
 
-### Creative directors
+## Services
 
-- 1998–2000: [Alber Elbaz](https://en.wikipedia.org/wiki/Alber_Elbaz "Alber Elbaz") [^21]
-- 2000–2004: [Tom Ford](https://en.wikipedia.org/wiki/Tom_Ford "Tom Ford") [^22]
-- 2005–2011: [Stefano Pilati](https://en.wikipedia.org/wiki/Stefano_Pilati "Stefano Pilati") [^42]
-- 2012–2016: [Hedi Slimane](https://en.wikipedia.org/wiki/Hedi_Slimane "Hedi Slimane") [^34]
-- 2016–present: [Anthony Vaccarello](https://en.wikipedia.org/wiki/Anthony_Vaccarello "Anthony Vaccarello") [^9]
+Yves Saint Laurent operates 282 branded boutiques globally, supplemented by luxury department store distribution. YSL Beauty (fragrances and cosmetics) is separately licensed to L'Oréal. In April 2023, the house launched Saint Laurent Productions — a film production company whose costumes are designed by Anthony Vaccarello — extending the brand's aesthetic practice into cinema.
 
-## Retail locations
+## Markets
 
-A total of 282 boutiques are in operation across 48 countries, as of May 2026:[^43]
+Tier-one French luxury. YSL competes across RTW, leather goods, footwear, and fragrance at the top end of the global luxury market. Revenue ranged from €2.5 billion (2021) to €3.3 billion (2022) and stood at €2.9 billion in 2024. Boutiques are concentrated in Asia (104), Europe (76), and North America (71).
 
-- Asia: 104 boutiques
-- Africa: 1 boutique
-- Central America: 2 boutiques
-- Central Asia: 1 boutique
-- Europe: 76 boutiques
-- Middle East: 14 boutiques
-- North America: 71 boutiques
-- Oceania: 10 boutique
-- South America: 3 boutiques
+## Pattern and Surface Design Relevance
 
-## Financial results
+Yves Saint Laurent holds fashion's most documented record of translating fine art directly into garment surface design. The 1965 *Hommage à Piet Mondrian* collection — geometric colour-block dresses rendered in wool jersey — is a canonical reference in art-to-fabric translation. Subsequent art homage collections included Henri Matisse (S/S 1970, A/W 1981, S/S 1982), Fernand Léger (A/W 1981), Georges Braque (S/S 1988), and Vincent van Gogh (S/S 1988). Tom Ford's A/W 2004 printed silk evening dress for YSL was named Fashion Museum Dress of the Year.
 
-| Year | Revenue (billion €) |
-| --- | --- |
-| 2021 | 2.5 [^44] |
-| 2022 | 3.3 [^44] |
-| 2023 | 3.2 [^42] |
-| 2024 | 2.9 [^10] |
+YSL's broader design vocabulary drew on Chinese textiles, Pop Art, the Ballets Russes, and Picasso — a reference library that maps closely onto print motif and surface pattern history. The *Rive Gauche* RTW line (1966) extended this aesthetic vocabulary to a wider commercial market.
 
-### Tax evasion
+## Official Resources
 
-According to an investigation by Mediapart and the European Investigative Collaborations (EIC) network, the company Yves Saint Laurent evaded approximately €180 million in taxes in France between 2009 and 2017, through an offshore scheme organised by its parent company [Kering](https://en.wikipedia.org/wiki/Kering "Kering").[^45] Between 2009 and 2017, the journalists detail, €550 million in profits were thus returned to a Swiss subsidiary of Kering, called Luxury Goods International (LGI), whose profits were taxed at around 8% by the canton of Ticino with the help of a tax agreement (while the corporate tax rate is 33% in [France](https://en.wikipedia.org/wiki/France "France")), while the company officially only realised €7 million in cumulative profits in [France](https://en.wikipedia.org/wiki/France "France") between 2009 and 2016 (resulting in an imposition of €430,000).[^46] [^47]
-
-## Advertising and criticism
-
-In June 2015, the company was criticised for an advertisement published in the Elle UK magazine that was banned by the UK advertising regulator, which ruled that the model featured in it was "unhealthily thin".[^48] [^49] [^50] [^51] On March 8, 2017, a new advertisement for the Fall 2017 collection offended internet users who saw it as a "degrading vision of women" and again the use of [anorexic](https://en.wikipedia.org/wiki/Anorexic "Anorexic") models.[^52] The company was ordered to remove two posters from this campaign by the French Advertising Standards Authority (ARPP),[^53] [^54] which ruled them "degrading".[^55]
-
-In February 2025, Yves Saint Laurent faced controversy in response to the inclusion of Palestinian rapper [Saint Levant](https://en.wikipedia.org/wiki/Saint_Levant "Saint Levant") in a promotional video for an YSL-branded [omakase](https://en.wikipedia.org/wiki/Omakase "Omakase") restaurant in Paris, with [pro-Israel](https://en.wikipedia.org/wiki/Pro-Israel "Pro-Israel") groups and media calling for a boycott of the brand over Saint Levant's alleged " [antisemitism](https://en.wikipedia.org/wiki/Antisemitism "Antisemitism") ".[^56] [^57]
-
-## Notes
-
-## References
-
-## External links
-
-- [Official website](http://www.ysl.com/)
-
-[^1]: The haute couture division (although defunct) is under the control of Fondation Pierre Bergé-Yves Saint Laurent. Even though Yves Saint Laurent Couture operates as a traditional haute couture atelier, there is a legal distinction, and Saint Laurent is not allowed to use the term 'haute couture' when referring to the couture division.  
-Yves Saint Laurent couture is also not shown on the runway and is only available to ‘friends of the house.’ [^30]
-
-[^2]: [Saint Laurent store directory](https://www.ysl.com/en-en/stores).
-
-[^3]: ["Kering: 2024 Annual Results"](https://www.globenewswire.com/news-release/2025/02/11/3023901/0/en/Kering-Press-release-2024-Annual-Results.html). 11 February 2025.
-
-[^4]: ["Yves Saint Laurent SAS: Private Company Information"](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=6490488). *www.bloomberg.com*. Retrieved 1 January 2018.
-
-[^5]: Garside, Juliette (21 June 2012). ["Saint Laurent label drops Yves name for ready-to-wear collection"](https://www.theguardian.com/fashion/2012/jun/21/saint-laurent-hedi-slimane-paris). *The Guardian*. Retrieved 1 September 2022.
-
-[^6]: Born, Pete (15 December 2008). ["L'Oreal Gains YSL Beaute"](https://wwd.com/business-news/financial/loreal-gains-ysl-beaute-1892463/). *Women's Wear Daily*. Retrieved 1 September 2022.
-
-[^7]: Pyle, Ally (1 May 2008). ["Beauty Sale"](https://www.vogue.co.uk/article/ysl-sold-to-loreal). *[British Vogue](https://en.wikipedia.org/wiki/British_Vogue "British Vogue")*. Retrieved 30 September 2022.
-
-[^8]: Guilbault, Laure (18 November 2024). ["YSL appoints Balenciaga's Cédric Charbit as CEO"](https://www.voguebusiness.com/story/fashion/ysl-appoints-balenciagas-cedric-charbit-as-ceo). *Vogue Business*. Retrieved 7 February 2025.
-
-[^9]: ["How Will Anthony Vaccarello Change YSL?"](http://www.highsnobiety.com/2016/04/07/anthony-vaccarello-saint-laurent/). *Highsnobiety.com*. 7 April 2016. Retrieved 21 June 2016.
-
-[^10]: ["Kering: 2024 Annual Results"](https://www.globenewswire.com/news-release/2025/02/11/3023901/0/en/Kering-Press-release-2024-Annual-Results.html). *GlobeNewswire News Room*. 11 February 2025. Retrieved 22 February 2025.
-
-[^11]: Henri Mouron (1986). *Cassandre: Posters, Typography, Stage Designs*. London: Thames and Hudson. pp. 147–148. [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-0-500-23450-1](https://en.wikipedia.org/wiki/Special:BookSources/978-0-500-23450-1 "Special:BookSources/978-0-500-23450-1").
-
-[^12]: [Alicia Drake](https://en.wikipedia.org/wiki/Alicia_Drake "Alicia Drake"). *The Beautiful Fall: Lagerfeld, Saint Laurent, and Glorious Excess in 1970s Paris*. Little, Brown and Company, 2006. p.49.
-
-[^13]: Donovan, Carrie (12 November 1978). ["Why the Big Change Now"](https://www.nytimes.com/1978/11/12/archives/why-the-big-change-now.html). *The New York Times*. p. 226. Retrieved 18 November 2021. What Saint Laurent sprang on the fashion world last January when he introduced man‐tailored suit jackets with shoulders squared out with padding...has now become staple fashion in Italy, France and America.
-
-[^14]: de Berker, Elsa (1 August 2020). ["YSL Muses Throughout History"](https://web.archive.org/web/20220831144405/https://crfashionbook.com/fashion-g13987059-ysl-muses-throughout-history/). *CR Fashionbook*. Archived from [the original](https://crfashionbook.com/fashion-g13987059-ysl-muses-throughout-history/) on 31 August 2022. Retrieved 31 August 2022.
-
-[^15]: ["The Saint Laurent women"](https://museeyslparis.com/en/stories/new-entry-1). *[Musée Yves Saint Laurent Paris](https://en.wikipedia.org/wiki/Mus%C3%A9e_Yves_Saint_Laurent_Paris "Musée Yves Saint Laurent Paris")*. Retrieved 2 May 2023.
-
-[^16]: ["Sleek Revival"](https://archive.org/details/sim_progressive-architecture_1979-09_60_9/page/162/mode/2up?q=yves). *Progressive Architecture*. **60** (9): 162. September 1979.
-
-[^17]: ["Yves Saint Laurent"](https://web.archive.org/web/20140809204250/http://www.vogue.com/voguepedia/Yves_Saint_Laurent_\(Brand\)). Voguepedia. Archived from [the original](http://www.vogue.com/voguepedia/Yves_Saint_Laurent_%28Brand%29) on 9 August 2014. Retrieved 21 March 2014.
-
-[^18]: ["Sale of the Groupe YSL to Elf-Sanofi"](https://museeyslparis.com/en/biography/cession-du-groupe-ysl-a-elf-sanofi). *Musée Yves Saint Laurent Paris*. Retrieved 1 September 2022.
-
-[^19]: Dinh, Duc (2 April 2016). ["Hedi Slimane Is Leaving Saint Laurent, Again"](https://web.archive.org/web/20220901032451/https://peacockplume.fr/fashion/hedi-slimane-leaving-saint-laurent-again). *Peacock Plume*. Archived from [the original](https://peacockplume.fr/fashion/hedi-slimane-leaving-saint-laurent-again) on 1 September 2022. Retrieved 1 September 2022.
-
-[^20]: Chan, AuthorTsuya (22 May 2021). ["Looking Back on Hedi Slimane's Dior Homme"](https://tokion.jp/en/2021/05/22/shockwaves-in-contemporary-music-and-fashion-vol9/). *TOKION*. Retrieved 1 September 2022.
-
-[^21]: [Levy, Ariel](https://en.wikipedia.org/wiki/Ariel_Levy_\(writer\) "Ariel Levy (writer)") (9 March 2009). ["Ladies' Man"](https://www.newyorker.com/magazine/2009/03/16/ladies-man). *The New Yorker*. [Archived](https://web.archive.org/web/20210126003006/https://www.newyorker.com/magazine/2009/03/16/ladies-man) from the original on 26 January 2021. Retrieved 25 April 2021.
-
-[^22]: Glass, Joshua (1 August 2019). ["Looking Back at Tom Ford's Beef with Yves Saint Laurent"](https://web.archive.org/web/20220901032543/https://crfashionbook.com/fashion-a28567578-tom-ford-ysl-saint-laurent-feud-fashion/). *CR Fashionbook - CR Fashion Site*. Archived from [the original](https://crfashionbook.com/fashion-a28567578-tom-ford-ysl-saint-laurent-feud-fashion/) on 1 September 2022. Retrieved 1 September 2022.
-
-[^23]: ["Dress of the Year"](https://web.archive.org/web/20220901155530/https://www.fashionmuseum.co.uk/galleries/dress-year). *The Fashion Museum*. 10 November 2014. Archived from [the original](https://www.fashionmuseum.co.uk/galleries/dress-year) on 1 September 2022. Retrieved 1 September 2022.
-
-[^24]: Menkes, Suzy; Tribune, International Herald (7 January 2002). ["High-Fashion House to Close, but YSL Brand Will Remain: Saint Laurent to Take Last Bow"](https://www.nytimes.com/2002/01/07/news/highfashion-house-to-close-but-ysl-brand-will-remain-saint-laurent-to.html). *[The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times "The New York Times")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 4 June 2025.
-
-[^25]: Carreon, Blue (8 May 2012). ["Stefano Pilati's Greatest Hits At Yves Saint Laurent"](https://www.forbes.com/sites/bluecarreon/2012/03/08/stefano-pilatis-greatest-hits-at-yves-saint-laurent/). *Forbes*. Retrieved 1 September 2022.
-
-[^26]: O'Sullivan, John-Michael (2 March 2014). ["Yves Saint Laurent: the battle for his life story"](https://www.theguardian.com/fashion/2014/mar/02/yves-saint-laurent-battle-life-story). *The Guardian*. Retrieved 1 September 2022.
-
-[^27]: ["Yves Saint Laurent Hands Over Their Oak Street Lease"](http://chicago.racked.com/archives/2011/09/02/breaking-yves-saint-laurent-hands-over-their-oak-street-lease.php). Racked Chicago. 2 September 2011. Retrieved 21 March 2014.
-
-[^28]: Fraser, Kristopher (28 July 2015). ["Saint Laurent announces revival of couture"](https://fashionunited.uk/news/fashion/saint-laurent-announces-revival-of-couture/2015072817165). *[FashionUnited](https://en.wikipedia.org/wiki/FashionUnited "FashionUnited")*. Retrieved 30 July 2015.
-
-[^29]: Tablang, Kristin (29 July 2015). ["Yves Saint Laurent Is Returning to Couture for the First Time in Over a Decade"](https://www.forbes.com/sites/kristintablang/2015/07/29/yves-saint-laurent-unveils-first-couture-collection-in-over-a-decade/). *Forbes*. Retrieved 1 September 2022.
-
-[^30]: Friedman, Vanessa (28 July 2015). ["Saint Laurent Is Creating a Line Even More Exclusive Than Couture"](https://www.nytimes.com/2015/07/29/fashion/saint-laurent-is-creating-a-line-even-more-exclusive-than-couture.html). *[The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times "The New York Times")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0362-4331](https://search.worldcat.org/issn/0362-4331). Retrieved 4 June 2025.
-
-[^31]: ["Name Change Ahead at Yves Saint Laurent – Designer Luxury – Markets – WWD.com"](https://www.wwd.com/markets-news/designer-luxury/name-change-ahead-at-yves-saint-laurent-5979076?src=nl/mornReport/20120621). wwd.com. 21 June 2012. Retrieved 21 March 2014.
-
-[^32]: ["SAINT LAURENT rive gauche"](https://museeyslparis.com/en/biography/saint-laurent-rive-gauche). *Musée Yves Saint Laurent Paris*. Retrieved 23 February 2022.
-
-[^33]: ["Saint Laurent withdraw from Colette over parody T-shirt"](http://fashion.telegraph.co.uk/news-features/TMG10347584/Saint-Laurent-withdraw-from-Colette-over-parody-T-shirt.html). Telegraph. Retrieved 21 March 2014.
-
-[^34]: Socha, Miles (April 2016). ["Saint Laurent Confirms Hedi Slimane Exit"](https://wwd.com/fashion-news/designer-luxury/hedi-slimane-exit-saint-laurent-10401083/). *WWD*. Retrieved 21 June 2016.
-
-[^35]: ["My Idea of YSL Lies in the Attitude"—Anthony Vaccarello Talks Saint Laurent](https://www.vogue.com/article/yves-saint-laurent-anthony-vaccarello-interview) *[Vogue](https://en.wikipedia.org/wiki/Vogue_\(magazine\) "Vogue (magazine)")* September 27, 2016
-
-[^36]: hero-magazine.com [Charlotte Gainsbourg is the new face of Saint Laurent](https://hero-magazine.com/article/96537/charlotte-gainsbourg-is-the-new-face-of-saint-laurent/), ALEX JAMES TAYLOR, 18 MAY 2017
-
-[^37]: ["Blackpink's Rosé is a Saint Laurent Ambassador for a New Era"](https://www.vogue.co.uk/miss-vogue/gallery/rose-blackpink-yves-saint-laurent). *British Vogue*. 3 July 2020.
-
-[^38]: Keslassy, Elsa (13 April 2023). ["Saint Laurent Launches Production Banner With Cannes-Bound Movies by Pedro Almodóvar, David Cronenberg's New Film"](https://variety.com/2023/film/global/saint-laurent-production-company-pedro-almodovar-cannes-1235581051/). *Variety*. Retrieved 14 April 2023.
-
-[^39]: Socha, Miles (13 April 2023). ["EXCLUSIVE: Saint Laurent Creates Film Production Subsidiary"](https://wwd.com/fashion-news/designer-luxury/saint-laurent-film-production-cannes-movies-fashion-1235611453/). *WWD*. Retrieved 14 April 2023.
-
-[^40]: Ntim, Zac (13 April 2023). ["French Fashion House Saint Laurent Launches Production Banner With Films By Pedro Almodóvar And David Cronenberg"](https://deadline.com/2023/04/saint-laurent-film-pedro-almodovar-and-david-cronenberg-1235324285/). *Deadline*. Retrieved 14 April 2023.
-
-[^41]: Alexander, Ella (2 July 2013). ["Yves Saint Laurent Names New Boss"](https://www.vogue.co.uk/article/yves-saint-laurent-hires-new-ceo-francesca-bellettini). *British Vogue*. Retrieved 7 February 2025.
-
-[^42]: Hogarth, Tom (8 February 2024). ["Revenue decline for Kering in full 2023 results"](https://internationalleathermaker.com/revenue-decline-for-kering-in-full-2023-results/). *International Leather Maker*. Retrieved 7 February 2025.
-
-[^43]: ["Saint Laurent Stores | Saint Laurent GB | YSL"](https://www.ysl.com/en-gb/stores). *www.ysl.com*. Retrieved 28 May 2026.
-
-[^44]: ["Kering announces a 15% increase in sales for 2022"](https://www.luxurytribune.com/en/kering-groups-results-for-the-year-2022-are-more-than-encouraging). *Luxury Tribune*. 15 February 2023. Retrieved 7 February 2025.
-
-[^45]: Philippin, Yann; Malagutti, Vittorio; Rosenberg, Esther (19 March 2018). ["Le système Pinault: une évasion à 2,5 milliards d'euros"](https://www.mediapart.fr/journal/economie/160318/le-systeme-pinault-une-evasion-25-milliards-deuros). *Mediapart*. Retrieved 19 March 2018.
-
-[^46]: Philippin, Yann (19 March 2018). ["Yves Saint Laurent déshabille le fisc"](https://www.mediapart.fr/journal/france/160318/yves-saint-laurent-deshabille-le-fisc). *Mediapart*. Retrieved 19 March 2018.
-
-[^47]: ["YSL, trois lettres qui valent de l'or"](https://www.lefigaro.fr/societes-francaises/2008/06/03/04010-20080603ARTFIG00265-ysl-trois-lettres-qui-valent-de-l-or-.php). *Le Figaro* (in French). 3 June 2008. Retrieved 15 October 2023.
-
-[^48]: ["'Unhealthily underweight model' Yves Saint Laurent advert banned"](https://www.bbc.com/news/uk-32987228). [BBC News](https://en.wikipedia.org/wiki/BBC_News "BBC News"). 3 June 2015. Retrieved 10 May 2020..
-
-[^49]: ["Warehouse ad showed unhealthily thin model, ASA finds"](https://www.bbc.com/news/uk-england-manchester-65972341). *BBC News*. 21 June 2023. Retrieved 15 October 2023.
-
-[^50]: Mackay, Mairi (3 June 2015). ["Yves Saint Laurent ad featuring 'unhealthily' thin model banned in UK"](https://www.cnn.com/2015/06/03/world/skinny-model-yves-saint-laurent-ban/index.html). *CNN*. Retrieved 15 October 2023.
-
-[^51]: Rucki, Alexandra (3 June 2015). ["Yves Saint Laurent advert banned for showing 'unhealthily underweight'"](https://www.standard.co.uk/news/london/yves-saint-laurent-advert-banned-for-showing-unhealthily-underweight-model-10293600.html). *Evening Standard*. Retrieved 15 October 2023.
-
-[^52]: Thompson, Rachel (7 March 2017). ["People are calling for this 'sexist' and 'degrading' advert to be removed"](https://mashable.com/article/yves-saint-laurent-advert-sexist). *Mashable*. Retrieved 15 October 2023.
-
-[^53]: ARPP (8 September 2016). ["08.03.2017 - Réunis en Conseil d'Administration, les membres de l'ARPP réitèrent leur position concernant la campagne Yves Saint Laurent"](https://www.arpp.org/actualite/campagne-yves-saint-laurent/). *ARPP* (in French). Retrieved 15 October 2023.
-
-[^54]: ["Saint Laurent told to modify ad campaign after uproar in France"](https://www.reuters.com/article/centertainment-us-fashion-saintlaurent-a-idCAKBN16D1YM). *Reuters*. 6 March 2017. Retrieved 15 October 2023.
-
-[^55]: ["French regulator tells Saint Laurent to remove degrading posters"](https://www.theguardian.com/media/2017/mar/08/saint-laurent-remove-degrading-posters-french-regulator-thin-models). *The Guardian*. Agence France-Presse. 8 March 2017. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 15 October 2023.
-
-[^56]: Ghermezian, Shiryn (18 February 2025). ["YSL Criticized for Featuring Palestinian Rapper, 'Vile Antisemite' Saint Levant in New Campaign"](https://www.algemeiner.com/2025/02/18/ysl-criticized-featuring-palestinian-rapper-vile-antisemite-saint-levant-new-campaign/). *[the Algemeiner](https://en.wikipedia.org/wiki/Algemeiner_Journal "Algemeiner Journal")*. Retrieved 26 February 2025.
-
-[^57]: Yaacov, Itay (18 February 2025). ["Palestinian rapper, Israel critic stars in Saint Laurent campaign"](https://www.ynetnews.com/culture/article/rjalzjz91l). *[Ynet](https://en.wikipedia.org/wiki/Ynet "Ynet")*. Retrieved 26 February 2025.
-
-<!-- RAW WIKIPEDIA SOURCE END: yves-saint-laurent.md -->
-
+- [Store locator](https://www.ysl.com/en-en/stores)

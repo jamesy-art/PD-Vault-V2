@@ -1,0 +1,289 @@
+{
+  "ok": true,
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 88,
+  "quality_status": "pass_with_warnings",
+  "capture_id": "cap-clip-aa7baa48b72a87c5",
+  "canonical_id": "can-clip-aa7baa48b72a87c5",
+  "canonical_path": "wiki/jobs/_staging/qvc-group-apparel-print-designer-west-chester-pa",
+  "scores": {
+    "structure": 100,
+    "metadata": 97,
+    "relationships": 55,
+    "provenance": 100,
+    "overall": 88
+  },
+  "blocking_errors": [],
+  "warnings": [
+    {
+      "severity": "warning",
+      "code": "section_responsibilities_missing",
+      "message": "Missing or empty ## Responsibilities",
+      "path": "body.## Responsibilities",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "section_requirements_missing",
+      "message": "Missing or empty ## Requirements",
+      "path": "body.## Requirements",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: company:QVC Group",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: software:NedGraphics",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: software:PLM",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:Colour Management",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:Colour",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:CAD",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:PLM",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: location:West Chester",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: location:West Chester, PA, United States",
+      "path": "resolution.needs_review",
+      "blocking": false
+    }
+  ],
+  "infos": [
+    {
+      "severity": "info",
+      "code": "url_duplicate",
+      "message": "Duplicate URL: https://www.indeed.com/viewjob?jk=2b064509817243e2&from=shareddesktop_copy",
+      "path": "body",
+      "blocking": false
+    }
+  ],
+  "validator_results": [
+    {
+      "validator": "attachments",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "completeness",
+      "version": "1.0.0",
+      "score": 90,
+      "scoreBucket": "metadata",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "section_responsibilities_missing",
+          "message": "Missing or empty ## Responsibilities",
+          "path": "body.## Responsibilities",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "section_requirements_missing",
+          "message": "Missing or empty ## Requirements",
+          "path": "body.## Requirements",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 1
+    },
+    {
+      "validator": "job_contract",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "metadata",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "links",
+      "version": "1.0.0",
+      "score": 99,
+      "scoreBucket": "metadata",
+      "issues": [
+        {
+          "severity": "info",
+          "code": "url_duplicate",
+          "message": "Duplicate URL: https://www.indeed.com/viewjob?jk=2b064509817243e2&from=shareddesktop_copy",
+          "path": "body",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "ocr",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "provenance",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "relationships",
+      "version": "1.0.0",
+      "score": 55,
+      "scoreBucket": "relationships",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: company:QVC Group",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: software:NedGraphics",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: software:PLM",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:Colour Management",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:Colour",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:CAD",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:PLM",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: location:West Chester",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: location:West Chester, PA, United States",
+          "path": "resolution.needs_review",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "structure",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "structure",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "template",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "structure",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "yaml",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "metadata",
+      "issues": [],
+      "duration_ms": 1
+    }
+  ],
+  "validator_timings": {
+    "attachments": 0,
+    "completeness": 1,
+    "job_contract": 0,
+    "links": 0,
+    "ocr": 0,
+    "provenance": 0,
+    "relationships": 0,
+    "structure": 0,
+    "template": 0,
+    "yaml": 1
+  },
+  "duration_ms": 3,
+  "message": "Pass with warnings — eligible for Editorial Review"
+}

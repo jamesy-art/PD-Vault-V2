@@ -5,9 +5,14 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Check
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Brown
+technique:
+  - Woven
 source_count: 2
 source_files:
   - Basket Weave Pattern.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/basket-weave-pattern/basket-weave-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=3gZziuaXu3w
 learn_more_youtube_2: https://www.youtube.com/watch?v=ihaU9W3ndog
 learn_more_youtube_3: https://www.youtube.com/watch?v=XGFaakWWagI
+gallery_images:
+  - path: basket-weave-pattern-1-pattern-designers.jpg
+    title: Structure of basketweave fabric, with each thread traveling over two, then under two threads of the opposing direction.
+    alt: Structure of basketweave fabric, with each thread traveling over two, then under two threads of the opposing direction.
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Basketsm.png"
+      title: Structure of basketweave fabric, with each thread traveling over two, then under two threads of the opposing direction.
+      description: Structure of basketweave fabric, with each thread traveling over two, then under two threads of the opposing direction.
+    affiliate:
+      enabled: false
+      url: null
+  - path: basket-weave-pattern-2-pattern-designers.jpg
+    title: A close up of a woven basket weave pattern with a white background | Premium AI-generated image
+    alt: A close up of a woven basket weave pattern with a white background | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/close-up-woven-basket-weave-pattern-with-white-background_403472854.htm"
+      image_url: "https://img.magnific.com/premium-photo/close-up-woven-basket-weave-pattern-with-white-background_1034043-115764.jpg"
+      title: A close up of a woven basket weave pattern with a white background | Premium AI-generated image
+      description: Download this Premium AI-generated image about A close up of a woven basket weave pattern with a white background, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: basket-weave-pattern-3-pattern-designers.jpg
+    title: Horizontally and vertically repeatable monochrome seamless japanese vintage pattern
+    alt: Horizontally and vertically repeatable monochrome seamless japanese vintage pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/horizontally-vertically-repeatable-monochrome-seamless-japanese-vintage-pattern_77953434.htm"
+      image_url: "https://img.magnific.com/free-vector/horizontally-vertically-repeatable-monochrome-seamless-japanese-vintage-pattern_8130-2754.jpg"
+      title: Horizontally and vertically repeatable monochrome seamless japanese vintage pattern
+      description: Download this free vector of Horizontally and vertically repeatable monochrome seamless japanese vintage pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: basket-weave-pattern-4-pattern-designers.jpg
+    title: Seamless pattern geometric.black and white background. | Premium Vector
+    alt: Seamless pattern geometric.black and white background. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-geometric-black-white-background_6632937.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-geometric-black-white-background_35695-194.jpg"
+      title: Seamless pattern geometric.black and white background. | Premium Vector
+      description: Download this Premium vector of Seamless pattern geometric.black and white background. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Basket Weave Pattern

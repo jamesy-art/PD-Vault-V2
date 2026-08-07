@@ -4,30 +4,21 @@ slug: watermelon-pattern
 status: active
 type_group: novelty
 summary: Novelty surface pattern using watermelon fruit motifs — rind stripes, seed-studded flesh triangles, and botanical details — in bold summer colour palettes.
-motifs:
-  - fruit
-  - watermelon
-  - seeds
-  - rind-stripes
+motifs: []
 structures:
-  - tossed
-  - half-drop
-  - full-drop
-styles:
-  - novelty
-  - conversational
-  - summer
+  - Scatter
+styles: []
 categories:
-  - novelty
-  - food
-  - seasonal
+  - Food
+colour_family: Red
+technique: []
 source_count: 1
 source_files:
   - Watermelon Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/watermelon-pattern/watermelon-pattern-1-pattern-designers.jpg
@@ -58,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=me7YrWPe--0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: watermelon-pattern-1-pattern-designers.jpg
+    title: Hand painted summer tropical pattern
+    alt: Hand painted summer tropical pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-painted-summer-tropical-pattern_13991183.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-painted-summer-tropical-pattern_52683-62786.jpg"
+      title: Hand painted summer tropical pattern
+      description: Download this free vector of Hand painted summer tropical pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: watermelon-pattern-2-pattern-designers.jpg
+    title: Minimal watermelon seeds pattern on red background vector | Premium Vector
+    alt: Minimal watermelon seeds pattern on red background vector | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/minimal-watermelon-seeds-pattern-red-background-vector_417743563.htm"
+      image_url: "https://img.magnific.com/premium-vector/minimal-watermelon-seeds-pattern-red-background-vector_712219-2556.jpg"
+      title: Minimal watermelon seeds pattern on red background vector | Premium Vector
+      description: Download this Premium vector of Minimal watermelon seeds pattern on red background vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: watermelon-pattern-3-pattern-designers.jpg
+    title: Watermelon pattern
+    alt: Watermelon pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watermelon-pattern_1050093.htm"
+      image_url: "https://img.magnific.com/free-vector/watermelon-pattern_1069-131.jpg"
+      title: Watermelon pattern
+      description: Download this free vector of Watermelon pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: watermelon-pattern-4-pattern-designers.jpg
+    title: Watermelon pink fruit pattern background
+    alt: Watermelon pink fruit pattern background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watermelon-pink-fruit-pattern-background_4713585.htm"
+      image_url: "https://img.magnific.com/free-vector/watermelon-pink-fruit-pattern-background_18591-51305.jpg"
+      title: Watermelon pink fruit pattern background
+      description: Download this free vector of Watermelon pink fruit pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Watermelon Pattern

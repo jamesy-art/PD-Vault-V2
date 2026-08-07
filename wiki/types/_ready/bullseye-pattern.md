@@ -5,30 +5,22 @@ status: active
 type_group: general
 summary: Concentric ring pattern radiating from a solid central circle, associated with Op Art optical illusion effects and bold graphic design.
 motifs:
-  - circle
-  - concentric-ring
-  - bullseye
-  - target
+  - Geometric
 structures:
-  - radial
-  - spot
-  - geometric
+  - Radial
 styles:
-  - geometric
-  - op-art
-  - graphic
-  - bold
+  - Pop Art
 categories:
-  - geometric
-  - optical
-  - circular
+  - Geometric
+colour_family: Black
+technique: []
 source_count: 1
 source_files:
   - Bullseye Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/bullseye-pattern/bullseye-pattern-1-pattern-designers.jpg
@@ -59,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=zaT9nWG8x0E
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: bullseye-pattern-1-pattern-designers.jpg
+    title: Abstract pattern design
+    alt: Abstract pattern design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-pattern-design_966990.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-pattern-design_1040-1019.jpg"
+      title: Abstract pattern design
+      description: Download this free vector of Abstract pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bullseye-pattern-2-pattern-designers.jpg
+    title: Abstract vector beckgraund | Premium Vector
+    alt: Abstract vector beckgraund | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-vector-beckgraund_75537995.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-vector-beckgraund_780309-124.jpg"
+      title: Abstract vector beckgraund | Premium Vector
+      description: Download this Premium vector of Abstract vector beckgraund and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bullseye-pattern-3-pattern-designers.jpg
+    title: Colorful abstract art print with geometric designs | Premium AI-generated image
+    alt: Colorful abstract art print with geometric designs | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/colorful-abstract-art-print-with-geometric-designs_164254985.htm"
+      image_url: "https://img.magnific.com/premium-photo/colorful-abstract-art-print-with-geometric-designs_899449-312518.jpg"
+      title: Colorful abstract art print with geometric designs | Premium AI-generated image
+      description: Download this Premium AI-generated image about Colorful abstract art print with geometric designs, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: bullseye-pattern-4-pattern-designers.jpg
+    title: Cute abstract contemporary seamless pattern hand drawn unique print | Premium Vector
+    alt: Cute abstract contemporary seamless pattern hand drawn unique print | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/cute-abstract-contemporary-seamless-pattern-hand-drawn-unique-print_157485531.htm"
+      image_url: "https://img.magnific.com/premium-vector/cute-abstract-contemporary-seamless-pattern-hand-drawn-unique-print_463633-81.jpg"
+      title: Cute abstract contemporary seamless pattern hand drawn unique print | Premium Vector
+      description: Download this Premium vector of Cute abstract contemporary seamless pattern hand drawn unique print and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Bullseye Pattern

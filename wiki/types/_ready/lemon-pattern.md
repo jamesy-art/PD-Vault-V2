@@ -5,28 +5,15 @@ status: active
 type_group: novelty
 summary: Surface pattern built from lemon and citrus fruit motifs; Mediterranean and Italian lifestyle associations; commercially active in fashion, homeware, wallpaper, and ceramics
 motifs:
-  - lemon
-  - citrus slice
-  - lemon blossom
-  - citrus leaf
-  - rind
-  - orange
-  - lime
+  - Botanical
 structures:
-  - tossed
-  - all-over
-  - trellis
-  - stripe
+  - Scatter
 styles:
-  - Mediterranean
-  - botanical
-  - illustrative
-  - conversational
+  - Maximalist
 categories:
-  - fruit-pattern
-  - novelty
-  - food-pattern
-  - Mediterranean
+  - Food
+colour_family: Yellow
+technique: []
 source_count: 2
 source_files:
   - Lemon Pattern 2.md
@@ -34,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/lemon-pattern/lemon-pattern-1-pattern-designers.jpg
@@ -65,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=iGatvL_S7rU
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: lemon-pattern-1-pattern-designers.jpg
+    title: Lemon patterned pattern
+    alt: Lemon patterned pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/lemon-patterned-pattern_4561128.htm"
+      image_url: "https://img.magnific.com/free-vector/lemon-patterned-pattern_53876-93883.jpg"
+      title: Lemon patterned pattern
+      description: Download this free vector of Lemon patterned pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: lemon-pattern-2-pattern-designers.jpg
+    title: Seamless lemon pattern pastel background
+    alt: Seamless lemon pattern pastel background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-lemon-pattern-pastel-background_14551169.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-lemon-pattern-pastel-background_53876-99172.jpg"
+      title: Seamless lemon pattern pastel background
+      description: Download this free vector of Seamless lemon pattern pastel background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: lemon-pattern-3-pattern-designers.jpg
+    title: Seamless lemon pattern with tropic fruits, leaves, flowers background. hand drawn vector illustration in watercolor style for summer romantic cover, tropical wallpaper, vintage texture | Premium Vector
+    alt: Seamless lemon pattern with tropic fruits, leaves, flowers background. hand drawn vector illustration in watercolor style for summer romantic cover, tropical wallpaper, vintage texture | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-lemon-pattern-with-tropic-fruits-leaves-flowers-background-hand-drawn-vector-illustration-watercolor-style-summer-romantic-cover-tropical-wallpaper-vintage-texture_17507007.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-lemon-pattern-with-tropic-fruits-leaves-flowers-background-hand-drawn-vector-illustration-watercolor-style-summer-romantic-cover-tropical-wallpaper-vintage-texture_1016-8120.jpg"
+      title: Seamless lemon pattern with tropic fruits, leaves, flowers background. hand drawn vector illustration in watercolor style for summer romantic cover, tropical wallpaper, vintage texture | Premium Vector
+      description: Download this Premium vector of Seamless lemon pattern with tropic fruits, leaves, flowers background. hand drawn vector illustration in watercolor style for summer romantic cover, tropical wallpaper, vintage texture and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: lemon-pattern-4-pattern-designers.jpg
+    title: Vector seamless pattern of yellow lemon slices | Premium Vector
+    alt: Vector seamless pattern of yellow lemon slices | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vector-seamless-pattern-yellow-lemon-slices_41666533.htm"
+      image_url: "https://img.magnific.com/premium-vector/vector-seamless-pattern-yellow-lemon-slices_842925-91.jpg"
+      title: Vector seamless pattern of yellow lemon slices | Premium Vector
+      description: Download this Premium vector of Vector seamless pattern of yellow lemon slices and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Lemon Pattern

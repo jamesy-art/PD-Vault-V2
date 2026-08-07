@@ -1,0 +1,176 @@
+{
+  "capture_id": "cap-clip-3c8497c3beb007b9",
+  "canonical_id": "can-clip-3c8497c3beb007b9",
+  "editorial_slug": "new-look-design-assistant-print-and-colour-new-look",
+  "content_hash": "2e52efafaaf554112b25b754835ed0f75945fb6720d61c6a5ca0bcd9f86a2b05",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Design Assistant - Print & Colour | New Look",
+  "company": "New Look",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-3c8497c3beb007b9"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/Design Assistant - Print & Colour   New Look.md"
+    ],
+    "original_title": "Design Assistant - Print & Colour  | New Look",
+    "original_url": "https://www.linkedin.com/jobs/view/4441435530/",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "a86eec2d4bacc4fdc14ffa6839a88440c6d6f9f59f399402eff0b7a3a532334b",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": null,
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/Design Assistant - Print & Colour   New Look.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": {
+      "id": "34776a2b-2965-46ca-9774-f8a1517fb053",
+      "slug": "new-look",
+      "label": "New Look",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "company",
+        "source_location": "yaml.company",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-print-design",
+        "slug": "print-design",
+        "label": "Print Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sk-trend-research",
+        "slug": "trend-research",
+        "label": "Trend Research",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [
+      {
+        "id": "mk-fashion",
+        "slug": "fashion",
+        "label": "Fashion",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-gb",
+      "slug": "gb",
+      "label": "United Kingdom",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": {
+      "id": "ci-london",
+      "slug": "london",
+      "label": "London",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 95,
+        "matched_on": "slug",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.city",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 93,
+  "quality_status": "pass_with_warnings"
+}

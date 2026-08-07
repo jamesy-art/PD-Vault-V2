@@ -5,24 +5,14 @@ status: active
 type_group: geometric
 summary: Surface pattern in which individual motifs or shapes fit together without gaps, each element defined as much by the negative space it occupies as by its own positive form
 motifs:
-  - puzzle-fit shapes
-  - tessellating forms
-  - positive-negative contrast
-  - modular units
+  - Geometric
 structures:
-  - tessellation
-  - all-over
-  - no-background
-  - seamless
-styles:
-  - geometric
-  - graphic
-  - structured
-  - Escher-influenced
+  - Tessellation
+styles: []
 categories:
-  - geometric
-  - tessellation
-  - technique
+  - Geometric
+colour_family: Black
+technique: []
 source_count: 2
 source_files:
   - Interlocking Pattern 2.md
@@ -30,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/interlocking-pattern/interlocking-pattern-1-pattern-designers.jpg
@@ -60,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=dMfUbKI1Y3A
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: interlocking-pattern-1-pattern-designers.jpg
+    title: "Image 1 from Key_pattern_detail.jpg (2048×1536).md"
+    alt: "Image 1 from Key_pattern_detail.jpg (2048×1536).md"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/6/61/Key_pattern_detail.jpg"
+      title: "Image 1 from Key_pattern_detail.jpg (2048×1536).md"
+      description: null
+    affiliate:
+      enabled: false
+      url: null
+  - path: interlocking-pattern-2-pattern-designers.jpg
+    title: Herringbone pattern background
+    alt: Herringbone pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/herringbone-pattern-background_177781679.htm"
+      image_url: "https://img.magnific.com/free-vector/herringbone-pattern-background_78370-5455.jpg"
+      title: Herringbone pattern background
+      description: Download this free vector of Herringbone pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: interlocking-pattern-3-pattern-designers.jpg
+    title: Seamless geometric pattern of perpendicular lines geometric background template for interior design covers panels packaging and creative ideas | Premium Vector
+    alt: Seamless geometric pattern of perpendicular lines geometric background template for interior design covers panels packaging and creative ideas | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-geometric-pattern-perpendicular-lines-geometric-background-template-interior-design-covers-panels-packaging-creative-ideas_387421109.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-geometric-pattern-perpendicular-lines-geometric-background-template-interior-design-covers-panels-packaging-creative-ideas_888684-12644.jpg"
+      title: Seamless geometric pattern of perpendicular lines geometric background template for interior design covers panels packaging and creative ideas | Premium Vector
+      description: Download this Premium vector of Seamless geometric pattern of perpendicular lines geometric background template for interior design covers panels packaging and creative ideas and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: interlocking-pattern-4-pattern-designers.jpg
+    title: Vector geometric pattern | Premium Vector
+    alt: Vector geometric pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vector-geometric-pattern_2974836.htm"
+      image_url: "https://img.magnific.com/premium-vector/vector-geometric-pattern_6073-446.jpg"
+      title: Vector geometric pattern | Premium Vector
+      description: Download this Premium vector of Vector geometric pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Interlocking Pattern

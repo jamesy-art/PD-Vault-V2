@@ -4,24 +4,16 @@ slug: madras-pattern
 status: active
 type_group: check
 summary: Lightweight handwoven cotton plaid from Chennai (formerly Madras), India; characterised by bold intersecting checks and stripes in bright colours with irregular slub texture; associated with summer and preppy fashion
-motifs:
-  - check
-  - plaid
-  - stripe
-  - intersecting bands
+motifs: []
 structures:
-  - check
-  - plaid
-  - woven-grid
+  - Check
 styles:
-  - preppy
-  - summer
-  - traditional
-  - tropical
+  - Tartan
 categories:
-  - check-pattern
-  - plaid
-  - heritage-textile
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 2
 source_files:
   - Madras Pattern 2.md
@@ -29,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/madras-pattern/madras-pattern-1-pattern-designers.jpg
@@ -60,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=jS6vRlb9R0s
 learn_more_youtube_2: https://www.youtube.com/watch?v=5-soAt22_A8
 learn_more_youtube_3: ""
+gallery_images:
+  - path: madras-pattern-1-pattern-designers.jpg
+    title: Diagonal corner banner abstract wallpaper | Free Photo
+    alt: Diagonal corner banner abstract wallpaper | Free Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/diagonal-corner-banner-abstract-wallpaper_1047330.htm"
+      image_url: "https://img.magnific.com/free-photo/diagonal-corner-banner-abstract-wallpaper_1172-199.jpg"
+      title: Diagonal corner banner abstract wallpaper | Free Photo
+      description: Download this free photo of Diagonal corner banner abstract wallpaper and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: madras-pattern-2-pattern-designers.jpg
+    title: Flat christmas plaid pattern design
+    alt: Flat christmas plaid pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-christmas-plaid-pattern-design_20550298.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-christmas-plaid-pattern-design_23-2149180165.jpg"
+      title: Flat christmas plaid pattern design
+      description: Download this free vector of Flat christmas plaid pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: madras-pattern-3-pattern-designers.jpg
+    title: Madras color check plaid seamless pattern | Premium Vector
+    alt: Madras color check plaid seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/madras-color-check-plaid-seamless-pattern_6372491.htm"
+      image_url: "https://img.magnific.com/premium-vector/madras-color-check-plaid-seamless-pattern_87543-1919.jpg"
+      title: Madras color check plaid seamless pattern | Premium Vector
+      description: Download this Premium vector of Madras color check plaid seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: madras-pattern-4-pattern-designers.jpg
+    title: Plaid seamless pattern in orange check fabric texture vector textile print | Premium Vector
+    alt: Plaid seamless pattern in orange check fabric texture vector textile print | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/plaid-seamless-pattern-orange-check-fabric-texture-vector-textile-print_38793841.htm"
+      image_url: "https://img.magnific.com/premium-vector/plaid-seamless-pattern-orange-check-fabric-texture-vector-textile-print_87543-15409.jpg"
+      title: Plaid seamless pattern in orange check fabric texture vector textile print | Premium Vector
+      description: Download this Premium vector of Plaid seamless pattern in orange check fabric texture vector textile print and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Madras Pattern

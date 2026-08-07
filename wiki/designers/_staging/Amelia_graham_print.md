@@ -380,6 +380,6 @@ Geometric and arithmetic print with an architectural, structured quality. Select
 - [[Geometric Pattern]] — primary design vocabulary
 - [[Chelsea College of Art and Design]] — graduate
 - [[raw/companies processed/LVMH]] — documented client
-- [[wiki/companies/_ready/nike]] — documented client
+- [[wiki/companies/_staging/nike]] — documented client
 - [[Interiors Market]] — active alongside fashion market
 - [[Tate Modern]] — retail stockist

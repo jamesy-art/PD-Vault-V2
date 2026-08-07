@@ -5,16 +5,22 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Radial
+styles:
+  - Oriental
+  - Bohemian
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Radial Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/radial-pattern/radial-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=XqnUIT3y9ZE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: radial-pattern-1-pattern-designers.jpg
+    title: Circular ripple pattern hypnotic line illusion geometric vector design abstract concentric graphic | Premium Vector
+    alt: Circular ripple pattern hypnotic line illusion geometric vector design abstract concentric graphic | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/circular-ripple-pattern-hypnotic-line-illusion-geometric-vector-design-abstract-concentric-graphic_419513787.htm"
+      image_url: "https://img.magnific.com/premium-vector/circular-ripple-pattern-hypnotic-line-illusion-geometric-vector-design-abstract-concentric-graphic_797523-7106.jpg"
+      title: Circular ripple pattern hypnotic line illusion geometric vector design abstract concentric graphic | Premium Vector
+      description: Download this Premium vector of Circular ripple pattern hypnotic line illusion geometric vector design abstract concentric graphic and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: radial-pattern-2-pattern-designers.jpg
+    title: Flat design optical illusion background
+    alt: Flat design optical illusion background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-optical-illusion-background_66068454.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-optical-illusion-background_23-2150792650.jpg"
+      title: Flat design optical illusion background
+      description: Download this free vector of Flat design optical illusion background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: radial-pattern-3-pattern-designers.jpg
+    title: Red sunbursta background design
+    alt: Red sunbursta background design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/red-sunbursta-background-design_1118916.htm"
+      image_url: "https://img.magnific.com/free-vector/red-sunbursta-background-design_1164-838.jpg"
+      title: Red sunbursta background design
+      description: Download this free vector of Red sunbursta background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: radial-pattern-4-pattern-designers.jpg
+    title: Sunburst pattern
+    alt: Sunburst pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/sunburst-pattern_5190656.htm"
+      image_url: "https://img.magnific.com/free-vector/sunburst-pattern_24877-52092.jpg"
+      title: Sunburst pattern
+      description: Download this free vector of Sunburst pattern  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Radial Pattern

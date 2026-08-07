@@ -4,17 +4,23 @@ slug: diamond-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Diamond
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Diamond Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/diamond-pattern/diamond-pattern-1-pattern-designers.jpg
@@ -44,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=UkPmayADnAM
 learn_more_youtube_2: https://www.youtube.com/watch?v=w1qw6jwNN0A
 learn_more_youtube_3: ""
+gallery_images:
+  - path: diamond-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Lozenge_flag_of_Monaco.svg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Lozenge_flag_of_Monaco.svg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Lozenge_flag_of_Monaco.svg/960px-Lozenge_flag_of_Monaco.svg.png"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Lozenge_flag_of_Monaco.svg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Lozenge_flag_of_Monaco.svg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: diamond-pattern-2-pattern-designers.jpg
+    title: Minimal criss cross geometric pattern banner in abstract style
+    alt: Minimal criss cross geometric pattern banner in abstract style
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/minimal-criss-cross-geometric-pattern-banner-abstract-style_38713918.htm"
+      image_url: "https://img.magnific.com/free-vector/minimal-criss-cross-geometric-pattern-banner-abstract-style_1017-43233.jpg"
+      title: Minimal criss cross geometric pattern banner in abstract style
+      description: Download this free vector of Minimal criss cross geometric pattern banner in abstract style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: diamond-pattern-3-pattern-designers.jpg
+    title: Oktoberfest blue seamless rhombus background vector illustration
+    alt: Oktoberfest blue seamless rhombus background vector illustration
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/oktoberfest-blue-seamless-rhombus-background-vector-illustration_24450729.htm"
+      image_url: "https://img.magnific.com/free-vector/oktoberfest-blue-seamless-rhombus-background-vector-illustration_90220-760.jpg"
+      title: Oktoberfest blue seamless rhombus background vector illustration
+      description: Download this free vector of Oktoberfest blue seamless rhombus background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: diamond-pattern-4-pattern-designers.jpg
+    title: Pattern background with argyle design
+    alt: Pattern background with argyle design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pattern-background-with-argyle-design_155988284.htm"
+      image_url: "https://img.magnific.com/free-vector/pattern-background-with-argyle-design_1048-19971.jpg"
+      title: Pattern background with argyle design
+      description: Download this free vector of Pattern background with argyle design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Diamond Pattern

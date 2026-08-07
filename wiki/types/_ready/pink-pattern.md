@@ -6,8 +6,12 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Kawaii
+categories:
+  - Colour
+colour_family: Pink
+technique: []
 source_count: 2
 source_files:
   - Pink Pattern 2.md
@@ -15,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pink-pattern/pink-pattern-1-pattern-designers.jpg
@@ -48,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=bjf1FRcAJH4
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pink-pattern-1-pattern-designers.jpg
+    title: Photo by Pawel Czerwinski on Unsplash
+    alt: Photo by Pawel Czerwinski on Unsplash
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: unsplash
+      page_url: "https://unsplash.com/photos/pink-and-white-abstract-painting-d7iIvTyzccY"
+      image_url: "https://images.unsplash.com/photo-1589307004173-3c95204d00ee?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&crop=faces%2Cedges&blend-w=1&blend=000000&blend-mode=normal&blend-alpha=10&auto=format&fit=crop&q=60&ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzgzNTQzMTE5fA&ixlib=rb-4.1.0"
+      title: Photo by Pawel Czerwinski on Unsplash
+      description: "Download this free HD photo of background, abstract, texture, and pink wallpaper by Pawel Czerwinski (@pawel_czerwinski)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: pink-pattern-2-pattern-designers.jpg
+    title: Pink toile de jouy floral seamless pattern | Premium Vector
+    alt: Pink toile de jouy floral seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pink-toile-de-jouy-floral-seamless-pattern_426558010.htm"
+      image_url: "https://img.magnific.com/premium-vector/pink-toile-de-jouy-floral-seamless-pattern_525160-25690.jpg"
+      title: Pink toile de jouy floral seamless pattern | Premium Vector
+      description: Download this Premium vector of Pink toile de jouy floral seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pink-pattern-3-pattern-designers.jpg
+    title: Seamless diagonal gingham pattern pale pink and white slanted vichy cage background checked tweed | Premium Vector
+    alt: Seamless diagonal gingham pattern pale pink and white slanted vichy cage background checked tweed | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-diagonal-gingham-pattern-pale-pink-white-slanted-vichy-cage-background-checked-tweed_44674218.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-diagonal-gingham-pattern-pale-pink-white-slanted-vichy-cage-background-checked-tweed_497399-1435.jpg"
+      title: Seamless diagonal gingham pattern pale pink and white slanted vichy cage background checked tweed | Premium Vector
+      description: Download this Premium vector of Seamless diagonal gingham pattern pale pink and white slanted vichy cage background checked tweed and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pink-pattern-4-pattern-designers.jpg
+    title: Soft pink watercolor floral seamless pattern
+    alt: Soft pink watercolor floral seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/soft-pink-watercolor-floral-seamless-pattern_27575841.htm"
+      image_url: "https://img.magnific.com/free-vector/soft-pink-watercolor-floral-seamless-pattern_41066-3367.jpg"
+      title: Soft pink watercolor floral seamless pattern
+      description: Download this free vector of Soft pink watercolor floral seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Pink Pattern

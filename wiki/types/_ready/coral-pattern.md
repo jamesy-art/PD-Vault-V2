@@ -5,29 +5,16 @@ status: active
 type_group: general
 summary: Surface pattern style centred on the warm pinkish-orange coral colour and/or marine coral organism motifs, applied to tropical, reef-inspired, botanical, and abstract vocabularies. Strongly associated with coastal, lifestyle, and resort aesthetics.
 motifs:
-  - marine-coral
-  - sea-fan
-  - reef-structure
-  - tropical-botanical
-  - underwater-life
-  - abstract-organic
-  - geometric
+  - Marine
 structures:
-  - all-over
-  - tossed
-  - scattered
-  - placement
+  - Scatter
 styles:
-  - tropical
-  - coastal
-  - nautical
-  - resort
-  - contemporary-lifestyle
+  - Tropical
+  - Nautical
 categories:
-  - colour-themed
-  - nautical
-  - tropical
-  - conversational
+  - Colour
+colour_family: Orange
+technique: []
 source_count: 2
 source_files:
   - Coral Pattern 2.md
@@ -35,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/coral-pattern/coral-pattern-1-pattern-designers.jpg
@@ -66,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=TWC7RrNo2-g
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: coral-pattern-1-pattern-designers.jpg
+    title: A close up of a tia with a purple stone and diamonds generative ai | Premium Photo
+    alt: A close up of a tia with a purple stone and diamonds generative ai | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/close-up-tia-with-purple-stone-diamonds-generative-ai_166330445.htm"
+      image_url: "https://img.magnific.com/premium-photo/close-up-tia-with-purple-stone-diamonds-generative-ai_902846-129713.jpg"
+      title: A close up of a tia with a purple stone and diamonds generative ai | Premium Photo
+      description: Download this Premium photo of A close up of a tia with a purple stone and diamonds generative ai and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: coral-pattern-2-pattern-designers.jpg
+    title: Colorful hand drawn coral pattern
+    alt: Colorful hand drawn coral pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/colorful-hand-drawn-coral-pattern_4414097.htm"
+      image_url: "https://img.magnific.com/free-vector/colorful-hand-drawn-coral-pattern_23-2148158043.jpg"
+      title: Colorful hand drawn coral pattern
+      description: Download this free vector of Colorful hand drawn coral pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: coral-pattern-3-pattern-designers.jpg
+    title: Decorative cute coral pattern
+    alt: Decorative cute coral pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/decorative-cute-coral-pattern_9260203.htm"
+      image_url: "https://img.magnific.com/free-vector/decorative-cute-coral-pattern_52683-42679.jpg"
+      title: Decorative cute coral pattern
+      description: Download this free vector of Decorative cute coral pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: coral-pattern-4-pattern-designers.jpg
+    title: Pastel coral reef abstract seamless pattern texture | Premium AI-generated image
+    alt: Pastel coral reef abstract seamless pattern texture | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/pastel-coral-reef-abstract-seamless-pattern-texture_159384569.htm"
+      image_url: "https://img.magnific.com/premium-photo/pastel-coral-reef-abstract-seamless-pattern-texture_872147-72719.jpg"
+      title: Pastel coral reef abstract seamless pattern texture | Premium AI-generated image
+      description: Download this Premium AI-generated image about Pastel coral reef abstract seamless pattern texture, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Coral Pattern

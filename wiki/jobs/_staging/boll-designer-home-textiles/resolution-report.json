@@ -1,0 +1,51 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-2aba8fd695acf8a2",
+  "canonical_id": "can-clip-2aba8fd695acf8a2",
+  "canonical_path": "wiki/jobs/_staging/boll-designer-home-textiles",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Surface Design",
+    "skills:Textile Design",
+    "skills:Surface Pattern Design",
+    "markets:Fashion",
+    "location:United States"
+  ],
+  "needs_review": [
+    "company:Boll",
+    "software:Adobe Creative Suite",
+    "software:PLM",
+    "software:Excel",
+    "software:Gemini",
+    "skills:Pattern Design",
+    "skills:Colour",
+    "skills:Product Development",
+    "skills:PLM",
+    "location:Summit",
+    "location:Summit, NJ, United States"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 9,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 209,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 291,
+  "resolution_quality": 45,
+  "message": "Resolved"
+}

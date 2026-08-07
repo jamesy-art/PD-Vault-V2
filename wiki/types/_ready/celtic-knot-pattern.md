@@ -4,17 +4,24 @@ slug: celtic-knot-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Emblem
+structures:
+  - Tessellation
+  - Border
+styles:
+  - Gothic
+categories:
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Celtic knot Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/celtic-knot-pattern/celtic-knot-pattern-1-pattern-designers.jpg
@@ -44,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=J-MG4MrnrXA
 learn_more_youtube_2: https://www.youtube.com/watch?v=oBHGNjv44Ig
 learn_more_youtube_3: ""
+gallery_images:
+  - path: celtic-knot-pattern-1-pattern-designers.jpg
+    title: New SVG image
+    alt: New SVG image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Celtic-knot-basic-rectangular.svg/250px-Celtic-knot-basic-rectangular.svg.png"
+      title: New SVG image
+      description: New SVG image
+    affiliate:
+      enabled: false
+      url: null
+  - path: celtic-knot-pattern-2-pattern-designers.jpg
+    title: Celtic ornament | Premium Vector
+    alt: Celtic ornament | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/celtic-ornament_1462120.htm"
+      image_url: "https://img.magnific.com/premium-vector/celtic-ornament_1159-3653.jpg"
+      title: Celtic ornament | Premium Vector
+      description: Download this Premium vector of Celtic ornament and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: celtic-knot-pattern-3-pattern-designers.jpg
+    title: Hand drawn celtic borders ornament collection
+    alt: Hand drawn celtic borders ornament collection
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-celtic-borders-ornament-collection_31842356.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-celtic-borders-ornament-collection_23-2149690759.jpg"
+      title: Hand drawn celtic borders ornament collection
+      description: Download this free vector of Hand drawn celtic borders ornament collection and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: celtic-knot-pattern-4-pattern-designers.jpg
+    title: Mosaic harmonious seamles patterns are cotton pattern surface closeup | Premium Vector
+    alt: Mosaic harmonious seamles patterns are cotton pattern surface closeup | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/mosaic-harmonious-seamles-patterns-are-cotton-pattern-surface-closeup_381758583.htm"
+      image_url: "https://img.magnific.com/premium-vector/mosaic-harmonious-seamles-patterns-are-cotton-pattern-surface-closeup_800847-4491.jpg"
+      title: Mosaic harmonious seamles patterns are cotton pattern surface closeup | Premium Vector
+      description: Download this Premium vector of Mosaic harmonious seamles patterns are cotton pattern surface closeup and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Celtic Knot Pattern

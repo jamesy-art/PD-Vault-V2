@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-09929c82f0a3feb7",
+  "canonical_id": "can-clip-09929c82f0a3feb7",
+  "canonical_path": "wiki/jobs/_staging/ulster-weavers-textile-homeware-designer",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United Kingdom"
+  ],
+  "needs_review": [
+    "company:Ulster Weavers",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:Pattern Design",
+    "location:MANCHESTER",
+    "location:MANCHESTER, United Kingdom"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 7,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 63,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 64,
+  "resolution_quality": 54,
+  "message": "Resolved"
+}

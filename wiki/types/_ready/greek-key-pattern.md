@@ -4,17 +4,24 @@ slug: greek-key-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Emblem
+structures:
+  - Border
+  - Tessellation
+styles:
+  - Art Deco
+categories:
+  - Heritage
+colour_family: Metallic
+technique: []
 source_count: 1
 source_files:
   - Greek Key Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/greek-key-pattern/greek-key-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=PqyGPFPzqao
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: greek-key-pattern-1-pattern-designers.jpg
+    title: Greek circular ornament pattern
+    alt: Greek circular ornament pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/greek-circular-ornament-pattern_843245.htm"
+      image_url: "https://img.magnific.com/free-vector/greek-circular-ornament-pattern_1060-86.jpg"
+      title: Greek circular ornament pattern
+      description: Download this free vector of Greek circular ornament pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: greek-key-pattern-2-pattern-designers.jpg
+    title: Greek key seamless pattern
+    alt: Greek key seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/greek-key-seamless-pattern_16279714.htm"
+      image_url: "https://img.magnific.com/free-vector/greek-key-seamless-pattern_53876-112711.jpg"
+      title: Greek key seamless pattern
+      description: Download this free vector of Greek key seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: greek-key-pattern-3-pattern-designers.jpg
+    title: Hand drawn greek border set
+    alt: Hand drawn greek border set
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-greek-border-set_22062317.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-greek-border-set_23-2149251796.jpg"
+      title: Hand drawn greek border set
+      description: Download this free vector of Hand drawn greek border set and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: greek-key-pattern-4-pattern-designers.jpg
+    title: Seamless greek key luxury background pattern texture | Premium Vector
+    alt: Seamless greek key luxury background pattern texture | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-greek-key-luxury-background-pattern-texture_30740487.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-greek-key-luxury-background-pattern-texture_231786-8798.jpg"
+      title: Seamless greek key luxury background pattern texture | Premium Vector
+      description: Download this Premium vector of Seamless greek key luxury background pattern texture and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Greek Key Pattern

@@ -5,16 +5,22 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Grey
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Herringbone Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/herringbone-pattern/herringbone-pattern-1-pattern-designers.jpg
@@ -44,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=HrtilI0Mup0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: herringbone-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/4/49/Wallpaper_group-pg-1.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/4/49/Wallpaper_group-pg-1.jpg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Wallpaper_group-pg-1.jpg/960px-Wallpaper_group-pg-1.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/4/49/Wallpaper_group-pg-1.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/4/49/Wallpaper_group-pg-1.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: herringbone-pattern-2-pattern-designers.jpg
+    title: Blue herringbone pattern | Premium AI-generated image
+    alt: Blue herringbone pattern | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/blue-herringbone-pattern_307129667.htm"
+      image_url: "https://img.magnific.com/premium-photo/blue-herringbone-pattern_303714-17650.jpg"
+      title: Blue herringbone pattern | Premium AI-generated image
+      description: Download this Premium AI-generated image about Blue herringbone pattern, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: herringbone-pattern-3-pattern-designers.jpg
+    title: Herringbone pattern background
+    alt: Herringbone pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/herringbone-pattern-background_177781679.htm"
+      image_url: "https://img.magnific.com/free-vector/herringbone-pattern-background_78370-5455.jpg"
+      title: Herringbone pattern background
+      description: Download this free vector of Herringbone pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: herringbone-pattern-4-pattern-designers.jpg
+    title: Minimalist herringbone seamless pattern with dotted diagonal lines modern geometric black and white abstract background for fabric wallpaper textile wrapping paper interior design templates | Premium Vector
+    alt: Minimalist herringbone seamless pattern with dotted diagonal lines modern geometric black and white abstract background for fabric wallpaper textile wrapping paper interior design templates | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/minimalist-herringbone-seamless-pattern-with-dotted-diagonal-lines-modern-geometric-black-white-abstract-background-fabric-wallpaper-textile-wrapping-paper-interior-design-templates_424498454.htm"
+      image_url: "https://img.magnific.com/premium-vector/minimalist-herringbone-seamless-pattern-with-dotted-diagonal-lines-modern-geometric-black-white-abstract-background-fabric-wallpaper-textile-wrapping-paper-interior-design-templates_1079892-581.jpg"
+      title: Minimalist herringbone seamless pattern with dotted diagonal lines modern geometric black and white abstract background for fabric wallpaper textile wrapping paper interior design templates | Premium Vector
+      description: Download this Premium vector of Minimalist herringbone seamless pattern with dotted diagonal lines modern geometric black and white abstract background for fabric wallpaper textile wrapping paper interior design templates and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Herringbone Pattern

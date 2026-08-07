@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9dc3d7e5368c957c",
+        "id": "ced3f3884bf29e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f0d5caf11c4beb18",
+            "id": "309449a0c117fbc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/designers/_staging/cinnamonclouds.za.md",
-                "mode": "preview",
+                "file": "wiki/jobs/_ready/new-look-design-assistant-print-and-colour-new-look/new-look-design-assistant-print-and-colour-new-look.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cinnamonclouds.za"
+              "title": "new-look-design-assistant-print-and-colour-new-look"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"type: studio\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 306.50390243530273
+    "width": 560.5039024353027
   },
   "right": {
     "id": "29cbb5d4098ef23b",
@@ -185,53 +184,53 @@
       "css-editor:Open CSS editor quick switcher": false
     }
   },
-  "active": "6d19b1f65923971b",
+  "active": "309449a0c117fbc9",
   "lastOpenFiles": [
-    "scripts/test/designerApprovedDecisions.test.js",
-    "reports/designers/cleanup-dry-run/approved-exclusions.csv",
-    "wiki/designers/_staging/ckf_design_studio.md",
-    "wiki/designers/_staging/cinnamonclouds.za.md",
-    "wiki/studios/_staging/alxndr.md",
-    "wiki/designers/_staging/full.mistica.md",
-    "wiki/designers/_staging/fullmistica.shop.md",
-    "wiki/designers/_staging/topalelifsude.md",
-    "wiki/designers/_staging/topaleli-fsude.md",
-    "wiki/studios/_staging/sarah-biggs.md",
-    "wiki/studios/_staging/elenaromerodesign.md",
-    "wiki/designers/_staging/thegraphicpatternstudio.md",
-    "wiki/studios/_staging/prints-of-orange.md",
-    "wiki/studios/_staging/a3-design-solutions.md",
-    "wiki/studios/_staging/alexsollydesign.md",
-    "wiki/studios/_staging/esti-studio-inc.md",
-    "wiki/studios/_staging/estudio-icertain.md",
-    "wiki/designers/_staging/andreal.printsstudio.md",
-    "scripts/test/designerTypeResolution.test.js",
-    "wiki/designers/_staging/andreaelias_estudio.md",
-    "wiki/designers/_staging/ameriyadesign.md",
-    "wiki/designers/_staging/alma_otreus_design.md",
-    "wiki/designers/_staging/alloveru_by_gretacapelli.md",
-    "wiki/designers/_staging/alisonmporter.md",
-    "wiki/designers/_staging/ainamsnape_print_patterns.md",
-    "wiki/designers/_staging/ahlbergdesign.md",
-    "wiki/designers/_staging/_studiofantasy_.md",
-    "wiki/designers/_staging/_selfcornered_.md",
-    "reports/designers/review-checklist.csv",
-    "scripts/test/designerReviewChecklist.test.js",
-    "scripts/generateDesignerReviewChecklist.js",
-    "scripts/lib/designerCleanup/reviewChecklist.js",
-    "reports/designers/type-review/insufficient-evidence.csv",
-    "reports/designers/type-review/unsupported-agencies.csv",
-    "reports/designers/type-review/human-confirmation-required.csv",
-    "reports/designers/type-review/high-confidence-recommendations.csv",
-    "wiki/assets/equipment/software/ecommerce/woocommerce.jpg",
-    "wiki/assets/equipment/software/ecommerce/wix.jpg",
-    "wiki/assets/equipment/art/watercolour-paint.jpg",
-    "wiki/assets/equipment/art/watercolour-brushes.jpg",
-    "wiki/assets/equipment/software/ecommerce/squarespace.jpg",
-    "wiki/assets/equipment/art/sketchpads.jpg",
-    "wiki/assets/equipment/software/ecommerce/shopify.jpg",
-    "wiki/assets/equipment/art/sharpies.jpg",
-    "wiki/assets/equipment/software/graphic-design/rebelle-8.jpg",
-    "wiki/assets/equipment/software/graphic-design/procreate.jpg"
+    "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in/vera-bradley-associate-surface-designer-roanoke-in.md",
+    "wiki/jobs/_ready/boll-designer-home-textiles/boll-designer-home-textiles.md",
+    "wiki/jobs/_ready/whistlefish-middleweight-illustrator/whistlefish-middleweight-illustrator.md",
+    "wiki/jobs/_ready/whistlefish-middleweight-illustrator/promotion-report.md",
+    "wiki/jobs/_ready/whistlefish-middleweight-illustrator/ready.json",
+    "wiki/jobs/_ready/whistlefish-middleweight-illustrator/promotion-report.json",
+    "wiki/jobs/_ready/whistlefish-middleweight-illustrator/promotion-history.jsonl",
+    "wiki/jobs/_ready/whistlefish-middleweight-illustrator",
+    "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in/promotion-report.md",
+    "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in/ready.json",
+    "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in/promotion-report.json",
+    "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in/promotion-history.jsonl",
+    "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in",
+    "wiki/jobs/_ready/ulster-weavers-textile-homeware-designer/ulster-weavers-textile-homeware-designer.md",
+    "wiki/jobs/_ready/ulster-weavers-textile-homeware-designer/promotion-report.md",
+    "wiki/jobs/_ready/ulster-weavers-textile-homeware-designer/ready.json",
+    "wiki/jobs/_ready/ulster-weavers-textile-homeware-designer/promotion-report.json",
+    "wiki/jobs/_ready/qvc-group-apparel-print-designer-west-chester-pa/qvc-group-apparel-print-designer-west-chester-pa.md",
+    "wiki/jobs/_ready/qvc-group-apparel-print-designer-west-chester-pa/promotion-report.md",
+    "wiki/jobs/_ready/nike-inc-lead-designer-tennis-apparel-color-design/promotion-report.md",
+    "wiki/jobs/_ready/nike-inc-lead-designer-tennis-apparel-color-design/nike-inc-lead-designer-tennis-apparel-color-design.md",
+    "wiki/jobs/_ready/new-look-design-assistant-print-and-colour-new-look/promotion-report.md",
+    "wiki/jobs/_ready/new-look-design-assistant-print-and-colour-new-look/new-look-design-assistant-print-and-colour-new-look.md",
+    "wiki/jobs/_ready/lands-end-cad-designer-hybrid-ny-or-wi/lands-end-cad-designer-hybrid-ny-or-wi.md",
+    "wiki/jobs/_ready/lands-end-cad-designer-hybrid-ny-or-wi/promotion-report.md",
+    "wiki/jobs/_ready/iliv-textiles-designer/promotion-report.md",
+    "wiki/jobs/_ready/iliv-textiles-designer/iliv-textiles-designer.md",
+    "wiki/jobs/_ready/home-bargains-creative-designer/promotion-report.md",
+    "wiki/jobs/_ready/home-bargains-creative-designer/home-bargains-creative-designer.md",
+    "wiki/jobs/_ready/gap-inc-associate-textile-designer-women-s/promotion-report.md",
+    "wiki/jobs/_ready/gap-inc-associate-textile-designer-women-s/gap-inc-associate-textile-designer-women-s.md",
+    "wiki/jobs/_ready/gap-inc-associate-textile-designer/promotion-report.md",
+    "wiki/jobs/_ready/gap-inc-associate-textile-designer/gap-inc-associate-textile-designer.md",
+    "wiki/jobs/_ready/culp-inc-textile-designer/promotion-report.md",
+    "wiki/jobs/_ready/culp-inc-textile-designer/culp-inc-textile-designer.md",
+    "wiki/jobs/_ready/burberry-designer-textiles-and-graphics-burberry/promotion-report.md",
+    "wiki/assets/companies/iliv/profile/iliv-logo-preview.webp",
+    "wiki/assets/companies/iliv/profile/iliv-logo.webp",
+    "wiki/assets/companies/iliv/profile/iliv-logo.png",
+    "wiki/assets/companies/whistlefish/profile/whistlefish-logo-preview.webp",
+    "wiki/assets/companies/whistlefish/profile/whistlefish-logo.webp",
+    "wiki/assets/companies/whistlefish/profile/whistlefish-logo.png",
+    "wiki/assets/companies/ulster-weavers/profile/ulster-weavers-logo-preview.webp",
+    "wiki/assets/companies/ulster-weavers/profile/ulster-weavers-logo.webp",
+    "wiki/assets/companies/ulster-weavers/profile/ulster-weavers-logo.png",
+    "wiki/assets/companies/home-bargains/profile/home-bargains-logo-preview.webp"
   ]
 }

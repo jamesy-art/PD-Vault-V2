@@ -1,137 +1,86 @@
 ---
+company_uid: 0f57a72d-3483-4955-b1c2-91d352763142
+schema_version: 1
 name: Marc O'Polo
 slug: marc-o-polo
-status: draft
-company_type: Brand
-location: France
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
+  - accessories
+  - fashion
+  - kids
+markets:
+  - womenswear
+  - menswear
+products:
+  - footwear
+  - apparel
+  - accessories
+  - bags
+hq_country_code: DE
+location: Germany
+founded_year: 1967
+employee_count_text: 2,300
+revenue_text: €602M
+website_url: https://www.marc-o-polo.com
+instagram_url: https://www.instagram.com/marcopolo/
+linkedin_url: https://www.linkedin.com/company/marc-o-polo/
+facebook_url: https://www.facebook.com/marcopolo/
 type_slugs: []
-website: https://www.marc-o-polo.com
-instagram: https://www.instagram.com/marcopolo/
-linkedin: https://www.linkedin.com/company/marc-o-polo/
-facebook: https://www.facebook.com/marcopolo/
-founded: "1967"
-headquarters: Germany
-employees: 2,300
-revenue: €602M
-category_images:
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/marc-o-polo/cat/marc-o-polo-mens.jpg"
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/marc-o-polo/cat/marc-o-polo-womens.jpg"
-source_file: Marc O'Polo.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-10
-updated: 2026-06-11
-sustainability_url: https://www.marc-o-polo.com/en-us/women/sustainability
-retail_categories:
-  - Shoes
-  - Clothing
-  - Accessories
-  - Bags
-market_categories:
-  - Womenswear
-  - Menswear
-collections: []
-profile_image: ../../assets/companies/marc-o-polo/profile/company-logo.svg
-profile_image_local: ../../assets/companies/marc-o-polo/profile/company-logo.svg
-company_logo_selected: ../../assets/companies/marc-o-polo/profile/company-logo.svg
-logo_image_selected: ../../assets/companies/marc-o-polo/profile/company-logo.svg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/marc-o-polo/profile/company-logo.svg
 images:
-  profile:
-    - ../../assets/companies/marc-o-polo/profile/company-logo.svg
-trk_reviewed: false
-trk_notes: ""
-trk_new: ""
-trk_women: https://www.marc-o-polo.com/en-us/women
-trk_women_new: https://www.marc-o-polo.com/en-us/women/new-in
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: ""
-trk_women_bottoms: ""
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: https://www.marc-o-polo.com/en-us/women/shoes
-trk_women_bags: https://www.marc-o-polo.com/en-us/women/bags
-trk_women_acc: https://www.marc-o-polo.com/en-us/women/accessories
-trk_men: https://www.marc-o-polo.com/en-us/men
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: ""
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/marc-o-polo/profile/marc-o-polo-logo.svg
+    alt: Marc O'Polo logo
+    width: 700
+    height: 700
+  gallery:
+    - title: Mens
+      alt: Marc O'Polo mens collection
+      path: ../../assets/companies/marc-o-polo/gallery/marc-o-polo-mens.jpg
+      width: 2000
+      height: 2814
+      source:
+        title: Mens
+        page_url: https://www.marc-o-polo.com/en-us/men
+      affiliate:
+        enabled: false
+        url: null
+    - title: Womens
+      alt: Marc O'Polo womens collection
+      path: ../../assets/companies/marc-o-polo/gallery/marc-o-polo-womens.jpg
+      width: 2000
+      height: 2814
+      source:
+        title: Womens
+        page_url: https://www.marc-o-polo.com/en-us/women
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Marc O'Polo
 
 ## Profile Image
 
-![pd-profile|160](wiki/assets/companies/marc-o-polo/profile/company-logo.svg)
+![Profile](../../assets/companies/marc-o-polo/profile/marc-o-polo-logo.svg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Mens | <img src="../../assets/companies/marc-o-polo/cat/marc-o-polo-mens.jpg" width="160"> |
-| Womens | <img src="../../assets/companies/marc-o-polo/cat/marc-o-polo-womens.jpg" width="160"> |
-
-
-Swedish-German fashion label. Founded Stockholm 1967 by Rolf Lind, Göte Huss, and Jerry O'Sheets. Headquarters relocated to Stephanskirchen, Bavaria (district of Rosenheim) in 1997. Casualwear brand operating in Europe and Asia. First store Düsseldorf 1979; Asian expansion from 2008. Co-created seasonal collections with fashion illustrator Garance Doré (2013–2014) and graffiti artist André Saraiva (2014). Marc O'Polo Design Award at Beckmans College of Design, Stockholm (since 2011).
+| Title | Preview |
+|-------|---------|
+| Mens | ![](../../assets/companies/marc-o-polo/gallery/marc-o-polo-mens.jpg) |
+| Womens | ![](../../assets/companies/marc-o-polo/gallery/marc-o-polo-womens.jpg) |
 
 ## Overview
 
 Marc O'Polo is a Swedish-German fashion label founded in Stockholm in 1967 by Rolf Lind, Göte Huss, and Jerry O'Sheets. The brand is positioned in the European casualwear and lifestyle apparel segment. In 1997, Werner Böck — the company's original German distribution partner — expanded his shareholdings and established Marc O'Polo International GmbH, taking responsibility for all design, production, distribution, and marketing operations. Headquarters moved from Stockholm to Stephanskirchen in the Rosenheim district of Bavaria at the same time. As of 2014, the brand operates stores in Germany, China, Russia, Singapore, and other markets. The brand tagline introduced in 2013 is "Follow your Nature."
 
-## Company Profile
+"Follow your Nature" brand claim introduced 2013 signals a natural-lifestyle aesthetic positioning — consistent with natural fibres, earthy tones, and Scandinavian-influenced low-key design. Celebrity campaign imagery (Jeff Bridges for menswear; Amber Valletta, Uma Thurman) was photographed by Mario Sorrenti. Brand-supported cultural programming spans fashion illustration (Garance Doré), graffiti/street art (André Saraiva), botanical floral installation (Thierry Boutemy's "A Piece of Art," Art Brussels 2014, Brussels store), and art photography (photo::vienna, Museum of Applied Arts MAK, Vienna, 2014) — indicating a brand creative culture that engages across applied and fine art disciplines, with a consistent thread of craft and illustration-based visual languages.
+
+## History
 
 Marc O'Polo was founded in Stockholm in 1967. In 1972, the label introduced logo-imprinted cotton T-shirts and a unisex sweatshirt — early products that *Elle* magazine later credited in marking Marc O'Polo as one of the "fathers of the casual look." The first standalone store opened in Düsseldorf in 1979.
 
@@ -139,13 +88,17 @@ The 1997 restructuring established Marc O'Polo International GmbH under Werner B
 
 International expansion began in 2008 with the first Asian store (Singapore, Changi Airport). First China stores opened in 2014, following a stated expansion strategy into Germany, Russia, and China announced in 2014. A brand letter of intent calling on the Australian wool industry to end mulesing was signed in 2025.
 
-## Market Position
-
-European lifestyle casualwear brand occupying the mid-to-premium fashion segment. The brand's Germanic operational base (HQ Bavaria) and multi-country European retail network suggest a primary European market with secondary international presence (Asia, Middle East implied by Singapore airport store). Comparable in positioning to other European "natural lifestyle" fashion brands. The Marc O'Polo Design Award (since 2011), awarded to students at Beckmans College of Design in Stockholm, links the brand to Scandinavian design education and keeps a connection to its Swedish founding identity.
-
-## Products and Categories
+## Products
 
 Casualwear for men and women; beachwear (from 1998); children's clothing (from 1998); bags and small leather goods (from 1997). The core product origin is logo-imprinted cotton T-shirts and unisex sweatshirts (from 1972). The product range covers apparel, accessories, and (implied by the "Follow your Nature" positioning) natural material fabrications.
+
+## Services
+
+Own-retail model: proprietary boutiques in Germany (Munich Theatinerstraße flagship, Düsseldorf, Münster, others), Singapore (from 2008), China (from 2014), and implied European network. Online store from 2003. No wholesale or outbound licensing is documented in the source material. The Marc O'Polo Design Award (since 2011, Beckmans College of Design, Stockholm) is an ongoing institutional partnership with a Scandinavian design school — functioning as both a talent pipeline and a brand-education relationship.
+
+## Markets
+
+European lifestyle casualwear brand occupying the mid-to-premium fashion segment. The brand's Germanic operational base (HQ Bavaria) and multi-country European retail network suggest a primary European market with secondary international presence (Asia, Middle East implied by Singapore airport store). Comparable in positioning to other European "natural lifestyle" fashion brands. The Marc O'Polo Design Award (since 2011), awarded to students at Beckmans College of Design in Stockholm, links the brand to Scandinavian design education and keeps a connection to its Swedish founding identity.
 
 ## Pattern and Surface Design Relevance
 
@@ -160,26 +113,7 @@ Marc O'Polo's SPD relevance is anchored in two areas:
 
 **Beachwear category (from 1998)**: Beachwear is an inherently print-intensive product category; the documented expansion into beachwear from 1998 extends Marc O'Polo's product range into a domain where surface pattern is a primary design driver.
 
-## Design Direction
+## Official Resources
 
-"Follow your Nature" brand claim introduced 2013 signals a natural-lifestyle aesthetic positioning — consistent with natural fibres, earthy tones, and Scandinavian-influenced low-key design. Celebrity campaign imagery (Jeff Bridges for menswear; Amber Valletta, Uma Thurman) was photographed by Mario Sorrenti. Brand-supported cultural programming spans fashion illustration (Garance Doré), graffiti/street art (André Saraiva), botanical floral installation (Thierry Boutemy's "A Piece of Art," Art Brussels 2014, Brussels store), and art photography (photo::vienna, Museum of Applied Arts MAK, Vienna, 2014) — indicating a brand creative culture that engages across applied and fine art disciplines, with a consistent thread of craft and illustration-based visual languages.
-
-## Retail and Licensing Context
-
-Own-retail model: proprietary boutiques in Germany (Munich Theatinerstraße flagship, Düsseldorf, Münster, others), Singapore (from 2008), China (from 2014), and implied European network. Online store from 2003. No wholesale or outbound licensing is documented in the source material. The Marc O'Polo Design Award (since 2011, Beckmans College of Design, Stockholm) is an ongoing institutional partnership with a Scandinavian design school — functioning as both a talent pipeline and a brand-education relationship.
-
-## Related Pattern Types
-
-- Logo-imprinted graphic casualwear (T-shirts and sweatshirts, from 1972)
-- Fashion illustration applied to seasonal apparel (Garance Doré collections)
-- Graffiti-derived graphic print (André Saraiva collection)
-- Beachwear surface pattern (category from 1998)
-
-## Related Companies
-
-- Beckmans College of Design, Stockholm (Design Award partner, since 2011)
-
-## Source Notes
-
-- Wikipedia: Marc O'Polo — https://en.wikipedia.org/wiki/Marc_O%27Polo
-
+- [Sustainability](https://www.marc-o-polo.com/en-us/women/sustainability)
+- [Wikipedia](https://en.wikipedia.org/wiki/Marc_O%27Polo)

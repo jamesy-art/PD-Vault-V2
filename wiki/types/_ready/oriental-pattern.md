@@ -5,30 +5,17 @@ status: active
 type_group: heritage
 summary: Broad industry term for decorative patterns derived from East Asian, Middle Eastern, and Central Asian textile traditions; encompassing oriental rug design, Chinese decorative motifs, and Eastern-influenced Western design styles
 motifs:
-  - medallion
-  - arabesque
-  - palmette
-  - dragon
-  - phoenix
-  - cloud band
-  - geometric star
-  - floral lattice
+  - Emblem
 structures:
-  - medallion-and-field
-  - all-over
-  - border-and-field
-  - directional
+  - Radial
+  - Border
 styles:
-  - traditional
-  - formal
-  - rich
-  - heritage
-  - luxurious
+  - Oriental
 categories:
-  - heritage
-  - ethnic
-  - rug-tradition
-  - decorative
+  - Heritage
+colour_family: Red
+technique:
+  - Woven
 source_count: 3
 source_files:
   - Oriental Pattern 2.md
@@ -37,7 +24,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/oriental-pattern/oriental-pattern-1-pattern-designers.jpg
@@ -68,6 +55,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=DzTkx5gNFOA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: oriental-pattern-1-pattern-designers.jpg
+    title: Abstract japanese wave pattern design
+    alt: Abstract japanese wave pattern design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-japanese-wave-pattern-design_28158188.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-japanese-wave-pattern-design_1048-16036.jpg"
+      title: Abstract japanese wave pattern design
+      description: Download this free vector of Abstract japanese wave pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: oriental-pattern-2-pattern-designers.jpg
+    title: Chinese art cloud pattern png background | Premium Photo
+    alt: Chinese art cloud pattern png background | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/chinese-art-cloud-pattern-png-background_414487057.htm"
+      image_url: "https://img.magnific.com/premium-photo/chinese-art-cloud-pattern-png-background_53876-1025776.jpg"
+      title: Chinese art cloud pattern png background | Premium Photo
+      description: Download this Premium photo of Chinese art cloud pattern png background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: oriental-pattern-3-pattern-designers.jpg
+    title: Cloud background, seamless chinese oriental pattern vector
+    alt: Cloud background, seamless chinese oriental pattern vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/cloud-background-seamless-chinese-oriental-pattern-vector_18705022.htm"
+      image_url: "https://img.magnific.com/free-vector/cloud-background-seamless-chinese-oriental-pattern-vector_53876-140202.jpg"
+      title: Cloud background, seamless chinese oriental pattern vector
+      description: Download this free vector of Cloud background, seamless chinese oriental pattern vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: oriental-pattern-4-pattern-designers.jpg
+    title: Japanese themed red and gold wave pattern
+    alt: Japanese themed red and gold wave pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/japanese-themed-red-gold-wave-pattern_49256455.htm"
+      image_url: "https://img.magnific.com/free-vector/japanese-themed-red-gold-wave-pattern_1048-18986.jpg"
+      title: Japanese themed red and gold wave pattern
+      description: Download this free vector of Japanese themed red and gold wave pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Oriental Pattern

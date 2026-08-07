@@ -6,8 +6,13 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Festive
+  - Retro
+categories:
+  - Colour
+colour_family: Orange
+technique: []
 source_count: 2
 source_files:
   - Orange Pattern 2.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/orange-pattern/orange-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=RdnodK0Y7DE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: orange-pattern-1-pattern-designers.jpg
+    title: Abstract colorful geometric pattern, orange, yellow and red stoneware mosaic texture background, modern style wall background. | Free Photo
+    alt: Abstract colorful geometric pattern, orange, yellow and red stoneware mosaic texture background, modern style wall background. | Free Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/abstract-colorful-geometric-pattern-orange-yellow-red-stoneware-mosaic-texture-background-modern-style-wall-background_18487864.htm"
+      image_url: "https://img.magnific.com/free-photo/abstract-colorful-geometric-pattern-orange-yellow-red-stoneware-mosaic-texture-background-modern-style-wall-background_1258-72199.jpg"
+      title: Abstract colorful geometric pattern, orange, yellow and red stoneware mosaic texture background, modern style wall background. | Free Photo
+      description: Download this free photo of Abstract colorful geometric pattern, orange, yellow and red stoneware mosaic texture background, modern style wall background. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: orange-pattern-2-pattern-designers.jpg
+    title: Flat design fruit and floral pattern design
+    alt: Flat design fruit and floral pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-fruit-floral-pattern-design_28926645.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-fruit-floral-pattern-design_23-2149496908.jpg"
+      title: Flat design fruit and floral pattern design
+      description: Download this free vector of Flat design fruit and floral pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: orange-pattern-3-pattern-designers.jpg
+    title: Hand drawn orange fruit seamless pattern
+    alt: Hand drawn orange fruit seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-orange-fruit-seamless-pattern_27390167.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-orange-fruit-seamless-pattern_21799-9633.jpg"
+      title: Hand drawn orange fruit seamless pattern
+      description: Download this free vector of Hand drawn orange fruit seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: orange-pattern-4-pattern-designers.jpg
+    title: Png orange pattern abstract zebra | Premium AI-generated PSD
+    alt: Png orange pattern abstract zebra | Premium AI-generated PSD
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-psd/png-orange-pattern-abstract-zebra_369333052.htm"
+      image_url: "https://img.magnific.com/premium-psd/png-orange-pattern-abstract-zebra_53876-570880.jpg"
+      title: Png orange pattern abstract zebra | Premium AI-generated PSD
+      description: Download this Premium AI-generated PSD about Png orange pattern abstract zebra, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Orange Pattern

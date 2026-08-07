@@ -4,17 +4,22 @@ slug: puzzle-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
 styles: []
-categories: []
+categories:
+  - Novelty
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - puzzle-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/puzzle-pattern/puzzle-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=1lCfgRBz8t0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: puzzle-pattern-1-pattern-designers.jpg
+    title: Black background vector illustration jigsaw puzzle | Premium Vector
+    alt: Black background vector illustration jigsaw puzzle | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-background-vector-illustration-jigsaw-puzzle_45142389.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-background-vector-illustration-jigsaw-puzzle_769373-7272.jpg"
+      title: Black background vector illustration jigsaw puzzle | Premium Vector
+      description: Download this Premium vector of Black background vector illustration jigsaw puzzle and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: puzzle-pattern-2-pattern-designers.jpg
+    title: Jigsaw puzzle pattern vector autism awareness puzzle pieces illustration | Premium Vector
+    alt: Jigsaw puzzle pattern vector autism awareness puzzle pieces illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/jigsaw-puzzle-pattern-vector-autism-awareness-puzzle-pieces-illustration_415492264.htm"
+      image_url: "https://img.magnific.com/premium-vector/jigsaw-puzzle-pattern-vector-autism-awareness-puzzle-pieces-illustration_735377-966.jpg"
+      title: Jigsaw puzzle pattern vector autism awareness puzzle pieces illustration | Premium Vector
+      description: Download this Premium vector of Jigsaw puzzle pattern vector autism awareness puzzle pieces illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: puzzle-pattern-3-pattern-designers.jpg
+    title: Puzzle pieces background pastel colours
+    alt: Puzzle pieces background pastel colours
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/puzzle-pieces-background-pastel-colours_81409340.htm"
+      image_url: "https://img.magnific.com/free-vector/puzzle-pieces-background-pastel-colours_78370-3565.jpg"
+      title: Puzzle pieces background pastel colours
+      description: Download this free vector of Puzzle pieces background pastel colours and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: puzzle-pattern-4-pattern-designers.jpg
+    title: Puzzle pieces pattern
+    alt: Puzzle pieces pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/puzzle-pieces-pattern_833745.htm"
+      image_url: "https://img.magnific.com/free-vector/puzzle-pieces-pattern_1053-123.jpg"
+      title: Puzzle pieces pattern
+      description: Download this free vector of Puzzle pieces pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # puzzle-pattern

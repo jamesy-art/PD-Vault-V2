@@ -5,33 +5,24 @@ status: active
 type_group: novelty
 summary: Seasonal novelty surface pattern featuring stylised, cute, or whimsical ghost motifs in seamless all-over repeat. A dominant Halloween-themed print category for apparel, textiles, gifting, and stationery. Also denotes a faint, low-contrast background pattern in graphic and digital design.
 motifs:
-  - ghost
-  - cute-ghost
-  - cartoon-ghost
-  - friendly-ghost
+  - Mythical
 structures:
-  - all-over
-  - tossed
-  - scattered
+  - Scatter
 styles:
-  - novelty
-  - cute
-  - halloween
-  - kawaii
-  - whimsical
-  - seasonal
+  - Kawaii
+  - Festive
+  - Gothic
 categories:
-  - novelty
-  - seasonal
-  - halloween
-  - conversational
+  - Seasonal
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Ghost Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ghost-pattern/ghost-pattern-1-pattern-designers.jpg
@@ -62,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=Vte9Nh_tY-w
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ghost-pattern-1-pattern-designers.jpg
+    title: Halloween ghost pattern illustration | AI-generated image
+    alt: Halloween ghost pattern illustration | AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/halloween-ghost-pattern-illustration_342631174.htm"
+      image_url: "https://img.magnific.com/free-photo/halloween-ghost-pattern-illustration_23-2151839454.jpg"
+      title: Halloween ghost pattern illustration | AI-generated image
+      description: Download this free AI-generated image about Halloween ghost pattern illustration, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: ghost-pattern-2-pattern-designers.jpg
+    title: Halloween ghost pattern with cats and devils vector | Premium Vector
+    alt: Halloween ghost pattern with cats and devils vector | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/halloween-ghost-pattern-with-cats-devils-vector_380874567.htm"
+      image_url: "https://img.magnific.com/premium-vector/halloween-ghost-pattern-with-cats-devils-vector_656853-3073.jpg"
+      title: Halloween ghost pattern with cats and devils vector | Premium Vector
+      description: Download this Premium vector of Halloween ghost pattern with cats and devils vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ghost-pattern-3-pattern-designers.jpg
+    title: Hand drawn flat ghost halloween pattern
+    alt: Hand drawn flat ghost halloween pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-flat-ghost-halloween-pattern_33784573.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-flat-ghost-halloween-pattern_23-2149675933.jpg"
+      title: Hand drawn flat ghost halloween pattern
+      description: Download this free vector of Hand drawn flat ghost halloween pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ghost-pattern-4-pattern-designers.jpg
+    title: Happy halloween seamless design of white ghost. watercolor. | Premium Photo
+    alt: Happy halloween seamless design of white ghost. watercolor. | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/happy-halloween-seamless-design-white-ghost-watercolor_5420411.htm"
+      image_url: "https://img.magnific.com/premium-photo/happy-halloween-seamless-design-white-ghost-watercolor_98599-182.jpg"
+      title: Happy halloween seamless design of white ghost. watercolor. | Premium Photo
+      description: Download this Premium photo of Happy halloween seamless design of white ghost. watercolor. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ghost Pattern

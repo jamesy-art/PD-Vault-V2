@@ -1,0 +1,105 @@
+{
+  "capture_id": "cap-clip-9451cacca5d382b8",
+  "canonical_id": "can-clip-9451cacca5d382b8",
+  "editorial_slug": "nike-inc-lead-designer-tennis-apparel-color-design",
+  "content_hash": "50c148a8e45084ed776d51a1041195cf1ea888148f3e407eaca5324cf09b7c1a",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Lead Designer, Tennis Apparel Color Design",
+  "company": "Nike",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-9451cacca5d382b8"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/Lead Designer, Tennis Apparel Color Design.md"
+    ],
+    "original_title": "Lead Designer, Tennis Apparel Color Design",
+    "original_url": "https://fashionunited.com/fashion-jobs/lead-designer-tennis-apparel-color-design-beaverton-1958274",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "3506da299a45bf430dfbf631022e92bec70e8f7241a87f56282056ec353cf9c2",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": "June 15, 2026 - Lead Designer, Tennis Apparel Color Design - Beaverton, Oregon",
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/Lead Designer, Tennis Apparel Color Design.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": {
+      "id": "c6ea7f54-bcfe-4fdb-9f63-721b9898f402",
+      "slug": "nike",
+      "label": "Nike,",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 92,
+        "matched_on": "normalized",
+        "resolver_version": "1.0.0",
+        "resolver_name": "company",
+        "source_location": "yaml.company",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "designer": null,
+    "types": [],
+    "skills": [],
+    "software": [],
+    "markets": [
+      {
+        "id": "mk-fashion",
+        "slug": "fashion",
+        "label": "Fashion",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-us",
+      "slug": "us",
+      "label": "United States",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": null,
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 91,
+  "quality_status": "pass_with_warnings"
+}

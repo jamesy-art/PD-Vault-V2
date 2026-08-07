@@ -5,31 +5,21 @@ status: active
 type_group: structure
 summary: Stripe pattern where colour bands run at an angle across the design surface, creating a sense of movement, energy, and directionality. A versatile and commercially enduring repeat structure used across fashion, home textiles, graphic design, and interior applications.
 motifs:
-  - diagonal-band
-  - angled-stripe
-  - bias-stripe
+  - Geometric
 structures:
-  - stripe
-  - diagonal
-  - linear
-  - bias
-styles:
-  - dynamic
-  - graphic
-  - sporty
-  - contemporary
-  - classic
+  - Stripe
+styles: []
 categories:
-  - structure
-  - stripe
-  - geometric
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Diagonal Stripes.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/diagonal-stripes/diagonal-stripes-1-pattern-designers.jpg
@@ -60,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=HbxACRmWdRI
 learn_more_youtube_2: https://www.youtube.com/watch?v=WQvWsW1fvFM&t=9s
 learn_more_youtube_3: ""
+gallery_images:
+  - path: diagonal-stripes-1-pattern-designers.jpg
+    title: Abstract hand drawn striped pattern background
+    alt: Abstract hand drawn striped pattern background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-hand-drawn-striped-pattern-background_381824667.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-hand-drawn-striped-pattern-background_1048-20774.jpg"
+      title: Abstract hand drawn striped pattern background
+      description: Download this free vector of Abstract hand drawn striped pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: diagonal-stripes-2-pattern-designers.jpg
+    title: Gold glittery seamless stripes, lines pattern on brown background.  | Premium Vector
+    alt: Gold glittery seamless stripes, lines pattern on brown background.  | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/gold-glittery-seamless-stripes-lines-pattern-brown-background_8147092.htm"
+      image_url: "https://img.magnific.com/premium-vector/gold-glittery-seamless-stripes-lines-pattern-brown-background_219144-795.jpg"
+      title: Gold glittery seamless stripes, lines pattern on brown background.  | Premium Vector
+      description: Download this Premium vector of Gold glittery seamless stripes, lines pattern on brown background.  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: diagonal-stripes-3-pattern-designers.jpg
+    title: Scratches seamless pattern | Premium Vector
+    alt: Scratches seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/scratches-seamless-pattern_67389827.htm"
+      image_url: "https://img.magnific.com/premium-vector/scratches-seamless-pattern_947198-25.jpg"
+      title: Scratches seamless pattern | Premium Vector
+      description: Download this Premium vector of Scratches seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: diagonal-stripes-4-pattern-designers.jpg
+    title: Seamless pattern rough background diagonal structure black and white | Premium Vector
+    alt: Seamless pattern rough background diagonal structure black and white | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-rough-background-diagonal-structure-black-white_424792999.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-rough-background-diagonal-structure-black-white_149326-12915.jpg"
+      title: Seamless pattern rough background diagonal structure black and white | Premium Vector
+      description: Download this Premium vector of Seamless pattern rough background diagonal structure black and white and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Diagonal Stripes

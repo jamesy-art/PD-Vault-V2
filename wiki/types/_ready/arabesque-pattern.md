@@ -4,17 +4,24 @@ slug: arabesque-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Emblem
+  - Botanical
+structures:
+  - Tessellation
+styles:
+  - Oriental
+categories:
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Arabesque Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/arabesque-pattern/arabesque-pattern-1-pattern-designers.jpg
@@ -44,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=pg1NpMmPv48
 learn_more_youtube_2: https://www.youtube.com/watch?v=27iVbB656a0
 learn_more_youtube_3: https://www.youtube.com/watch?v=bBebDLiKwpM
+gallery_images:
+  - path: arabesque-pattern-1-pattern-designers.jpg
+    title: Stone relief with arabesques of tendrils, palmettes and half-palmettes in the Umayyad Mosque, Damascus Syria
+    alt: Stone relief with arabesques of tendrils, palmettes and half-palmettes in the Umayyad Mosque, Damascus Syria
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flickr_-_jemasmith_-_Umayyad_Mosque%2C_Damascus%2C_Detail..jpg/500px-Flickr_-_jemasmith_-_Umayyad_Mosque%2C_Damascus%2C_Detail..jpg"
+      title: Stone relief with arabesques of tendrils, palmettes and half-palmettes in the Umayyad Mosque, Damascus Syria
+      description: Stone relief with arabesques of tendrils, palmettes and half-palmettes in the Umayyad Mosque, Damascus Syria
+    affiliate:
+      enabled: false
+      url: null
+  - path: arabesque-pattern-2-pattern-designers.jpg
+    title: Arabic pattern | Premium Photo
+    alt: Arabic pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/arabic-pattern_2693712.htm"
+      image_url: "https://img.magnific.com/premium-photo/arabic-pattern_52137-6279.jpg"
+      title: Arabic pattern | Premium Photo
+      description: Download this Premium photo of Arabic pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: arabesque-pattern-3-pattern-designers.jpg
+    title: Ceramic tiles with traditional oriental arabic uzbek patterns decorated asian ornaments in uzbekistan | Premium Photo
+    alt: Ceramic tiles with traditional oriental arabic uzbek patterns decorated asian ornaments in uzbekistan | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/ceramic-tiles-with-traditional-oriental-arabic-uzbek-patterns-decorated-asian-ornaments-uzbekistan_411674450.htm"
+      image_url: "https://img.magnific.com/premium-photo/ceramic-tiles-with-traditional-oriental-arabic-uzbek-patterns-decorated-asian-ornaments-uzbekistan_811250-14555.jpg"
+      title: Ceramic tiles with traditional oriental arabic uzbek patterns decorated asian ornaments in uzbekistan | Premium Photo
+      description: Download this Premium photo of Ceramic tiles with traditional oriental arabic uzbek patterns decorated asian ornaments in uzbekistan and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: arabesque-pattern-4-pattern-designers.jpg
+    title: Vector abstract geometric islamic background. based on ethnic muslim ornaments. intertwined paper stripes. elegant background for cards, invitations etc.
+    alt: Vector abstract geometric islamic background. based on ethnic muslim ornaments. intertwined paper stripes. elegant background for cards, invitations etc.
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vector-abstract-geometric-islamic-background-based-ethnic-muslim-ornaments-intertwined-paper-stripes-elegant-background-cards-invitations-etc_1283594.htm"
+      image_url: "https://img.magnific.com/free-vector/vector-abstract-geometric-islamic-background-based-ethnic-muslim-ornaments-intertwined-paper-stripes-elegant-background-cards-invitations-etc_1217-633.jpg"
+      title: Vector abstract geometric islamic background. based on ethnic muslim ornaments. intertwined paper stripes. elegant background for cards, invitations etc.
+      description: Download this free vector of Vector abstract geometric islamic background. based on ethnic muslim ornaments. intertwined paper stripes. elegant background for cards, invitations etc. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Arabesque Pattern

@@ -5,30 +5,17 @@ status: active
 type_group: general
 summary: Eclectic surface pattern style drawing from Moroccan, Indian, African, and folk embroidery textile traditions, characterized by earthy palettes, global motifs, and a hand-crafted aesthetic.
 motifs:
-  - mandala
-  - paisley
-  - medallion
-  - mudcloth-geometric
-  - stepped-diamond
-  - folk-floral
-  - star-pattern
-  - eight-point-motif
+  - Emblem
 structures:
-  - all-over
-  - scattered
-  - medallion-grid
-  - asymmetric
+  - Radial
+  - Scatter
 styles:
-  - earthy
-  - eclectic
-  - global-folk
-  - hand-drawn
-  - maximalist
+  - Bohemian
+  - Maximalist
 categories:
-  - folk
-  - global
-  - eclectic
-  - mixed-cultural
+  - Heritage
+colour_family: Brown
+technique: []
 source_count: 2
 source_files:
   - Bohemian Pattern 2.md
@@ -36,7 +23,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/bohemian-pattern/bohemian-pattern-1-pattern-designers.jpg
@@ -67,6 +54,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=_PK7p8WhJzI
 learn_more_youtube_2: https://www.youtube.com/watch?v=VCIdM4cGf0I
 learn_more_youtube_3: ""
+gallery_images:
+  - path: bohemian-pattern-1-pattern-designers.jpg
+    title: A close up of a pattern of feathers and feathers on a white background generative ai | Premium AI-generated image
+    alt: A close up of a pattern of feathers and feathers on a white background generative ai | Premium AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/close-up-pattern-feathers-feathers-white-background-generative-ai_65336310.htm"
+      image_url: "https://img.magnific.com/premium-photo/close-up-pattern-feathers-feathers-white-background-generative-ai_900814-17667.jpg"
+      title: A close up of a pattern of feathers and feathers on a white background generative ai | Premium AI-generated image
+      description: Download this Premium AI-generated image about A close up of a pattern of feathers and feathers on a white background generative ai, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: bohemian-pattern-2-pattern-designers.jpg
+    title: Seamless pattern ethnic abstract background round ikat patterngeometric curve vector design for fashion clothes textile wrapping decoration background | Premium Vector
+    alt: Seamless pattern ethnic abstract background round ikat patterngeometric curve vector design for fashion clothes textile wrapping decoration background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-ethnic-abstract-background-round-ikat-patterngeometric-curve-vector-design-fashion-clothes-textile-wrapping-decoration-background_212768634.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-ethnic-abstract-background-round-ikat-patterngeometric-curve-vector-design-fashion-clothes-textile-wrapping-decoration-background_38689-6922.jpg"
+      title: Seamless pattern ethnic abstract background round ikat patterngeometric curve vector design for fashion clothes textile wrapping decoration background | Premium Vector
+      description: Download this Premium vector of Seamless pattern ethnic abstract background round ikat patterngeometric curve vector design for fashion clothes textile wrapping decoration background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bohemian-pattern-3-pattern-designers.jpg
+    title: Traditional abstract geometric ikat pattern seamless | Premium Vector
+    alt: Traditional abstract geometric ikat pattern seamless | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/traditional-abstract-geometric-ikat-pattern-seamless_419852620.htm"
+      image_url: "https://img.magnific.com/premium-vector/traditional-abstract-geometric-ikat-pattern-seamless_1269664-575.jpg"
+      title: Traditional abstract geometric ikat pattern seamless | Premium Vector
+      description: Download this Premium vector of Traditional abstract geometric ikat pattern seamless and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bohemian-pattern-4-pattern-designers.jpg
+    title: Watercolor boho tribal pattern
+    alt: Watercolor boho tribal pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watercolor-boho-tribal-pattern_25865668.htm"
+      image_url: "https://img.magnific.com/free-vector/watercolor-boho-tribal-pattern_1188-693.jpg"
+      title: Watercolor boho tribal pattern
+      description: Download this free vector of Watercolor boho tribal pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Bohemian Pattern

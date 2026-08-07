@@ -4,17 +4,23 @@ slug: guilloche-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Metallic
+technique:
+  - Engraved
 source_count: 1
 source_files:
   - Guilloché Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/guilloche-pattern/guilloche-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=OhLIWWBaymA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: guilloche-pattern-1-pattern-designers.jpg
+    title: Abstract background with a wavy pattern
+    alt: Abstract background with a wavy pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-with-wavy-pattern_1081140.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-with-wavy-pattern_1319-70.jpg"
+      title: Abstract background with a wavy pattern
+      description: Download this free vector of Abstract background with a wavy pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: guilloche-pattern-2-pattern-designers.jpg
+    title: Gradient money texture detail
+    alt: Gradient money texture detail
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/gradient-money-texture-detail_25910602.htm"
+      image_url: "https://img.magnific.com/free-vector/gradient-money-texture-detail_23-2149394645.jpg"
+      title: Gradient money texture detail
+      description: Download this free vector of Gradient money texture detail and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: guilloche-pattern-3-pattern-designers.jpg
+    title: Illusive continuous colorful pattern, decorative abstract background with 3d geometric figures. bright transparent ornamental seamless backdrop, can be used for design and textile. | Premium Vector
+    alt: Illusive continuous colorful pattern, decorative abstract background with 3d geometric figures. bright transparent ornamental seamless backdrop, can be used for design and textile. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/illusive-continuous-colorful-pattern-decorative-abstract-background-with-3d-geometric-figures-bright-transparent-ornamental-seamless-backdrop-can-be-used-design-textile_31448330.htm"
+      image_url: "https://img.magnific.com/premium-vector/illusive-continuous-colorful-pattern-decorative-abstract-background-with-3d-geometric-figures-bright-transparent-ornamental-seamless-backdrop-can-be-used-design-textile_570429-28149.jpg"
+      title: Illusive continuous colorful pattern, decorative abstract background with 3d geometric figures. bright transparent ornamental seamless backdrop, can be used for design and textile. | Premium Vector
+      description: Download this Premium vector of Illusive continuous colorful pattern, decorative abstract background with 3d geometric figures. bright transparent ornamental seamless backdrop, can be used for design and textile. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: guilloche-pattern-4-pattern-designers.jpg
+    title: Soft rainbow color linear background design elements poligonal lines guilloche the protective layer for banknotes diplomas and certificates template vector illustration eps 10 | Premium Vector
+    alt: Soft rainbow color linear background design elements poligonal lines guilloche the protective layer for banknotes diplomas and certificates template vector illustration eps 10 | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/soft-rainbow-color-linear-background-design-elements-poligonal-lines-guilloche-protective-layer-banknotes-diplomas-certificates-template-vector-illustration-eps-10_212126334.htm"
+      image_url: "https://img.magnific.com/premium-vector/soft-rainbow-color-linear-background-design-elements-poligonal-lines-guilloche-protective-layer-banknotes-diplomas-certificates-template-vector-illustration-eps-10_299644-21839.jpg"
+      title: Soft rainbow color linear background design elements poligonal lines guilloche the protective layer for banknotes diplomas and certificates template vector illustration eps 10 | Premium Vector
+      description: Download this Premium vector of Soft rainbow color linear background design elements poligonal lines guilloche the protective layer for banknotes diplomas and certificates template vector illustration eps 10 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Guilloché Pattern

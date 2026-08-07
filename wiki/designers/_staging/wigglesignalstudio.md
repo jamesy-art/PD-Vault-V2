@@ -444,7 +444,7 @@ Seasonal print and woven concepts with commercial colour development. Selected p
 
 ## Connections
 
-- [[wiki/companies/_ready/nike]] — prior employer
+- [[wiki/companies/_staging/nike]] — prior employer
 - [[raw/companies processed/Allbirds]] — prior employer
 - [[Textile Design]] — primary discipline
 - [[United States]] — based

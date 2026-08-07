@@ -1,0 +1,82 @@
+{
+  "cleaner": "indeed",
+  "rules_applied": [
+    "strip_ads_and_footer",
+    "emit_labeled_metadata",
+    "extract_employer_company",
+    "extract_location_block",
+    "extract_job_type",
+    "promote_apply_url",
+    "extract_workplace",
+    "tidy_whitespace"
+  ],
+  "sections_removed": [],
+  "sections_omitted": [],
+  "urls_decoded": [],
+  "warnings": [],
+  "location_fields": {
+    "street": "",
+    "city": "West Chester",
+    "state": "PA",
+    "postcode": "",
+    "country": "United States",
+    "location": "West Chester, PA, United States"
+  },
+  "benefits_extracted": [
+    "Health insurance",
+    "401k",
+    "PTO",
+    "Employee discount",
+    "Tuition reimbursement",
+    "Paid parental leave",
+    "Employee assistance programme",
+    "Volunteer days"
+  ],
+  "skills_extracted": [
+    "Textile Design",
+    "Colour Management",
+    "Colour",
+    "CAD",
+    "PLM"
+  ],
+  "software_extracted": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "NedGraphics",
+    "PLM"
+  ],
+  "experience_extracted": "Mid-Weight",
+  "summary_generated": false,
+  "promotional_sections_removed": [],
+  "company_profile_trimmed": false,
+  "images_removed": 0,
+  "platform_metadata_removed": 9,
+  "empty_sections_removed": 3,
+  "company_profile_shortened": false,
+  "location_normalised": true,
+  "ocr_confidence": "",
+  "metadata_merged": false,
+  "jobs_detected": "",
+  "jobs_detected_count": 0,
+  "contacts_extracted": [],
+  "closing_date_extracted": "",
+  "images_ignored": 0,
+  "editorial_sections_produced": [],
+  "editorial_title_selected": "Apparel Print Designer - West Chester, PA",
+  "company_identity_source": "explicit_reference",
+  "filename_fallback_used": false,
+  "employment_mapping": "Full-time",
+  "skills_expanded": [
+    "Textile Design",
+    "Colour Management",
+    "Colour",
+    "CAD",
+    "PLM"
+  ],
+  "software_expanded": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "NedGraphics",
+    "PLM"
+  ]
+}

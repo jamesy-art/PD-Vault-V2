@@ -4,17 +4,24 @@ slug: argyle-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Diamond
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Argyle Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/argyle-pattern/argyle-pattern-1-pattern-designers.jpg
@@ -44,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=XnFfNaYroFQ
 learn_more_youtube_2: https://www.youtube.com/watch?v=JwHoUXABeLM
 learn_more_youtube_3: https://www.youtube.com/watch?v=_1Pkc4tNClk
+gallery_images:
+  - path: argyle-pattern-1-pattern-designers.jpg
+    title: An example of an Argyle style pattern
+    alt: An example of an Argyle style pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PinkArgyle.svg/250px-PinkArgyle.svg.png"
+      title: An example of an Argyle style pattern
+      description: An example of an Argyle style pattern
+    affiliate:
+      enabled: false
+      url: null
+  - path: argyle-pattern-2-pattern-designers.jpg
+    title: Flat design argyle pattern
+    alt: Flat design argyle pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-argyle-pattern_21251798.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-argyle-pattern_23-2149208958.jpg"
+      title: Flat design argyle pattern
+      description: Download this free vector of Flat design argyle pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: argyle-pattern-3-pattern-designers.jpg
+    title: Rendered photo of plaid pattern design on plain background | Premium Photo
+    alt: Rendered photo of plaid pattern design on plain background | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/rendered-photo-plaid-pattern-design-plain-background_230519382.htm"
+      image_url: "https://img.magnific.com/premium-photo/rendered-photo-plaid-pattern-design-plain-background_1269188-1501.jpg"
+      title: Rendered photo of plaid pattern design on plain background | Premium Photo
+      description: Download this Premium photo of Rendered photo of plaid pattern design on plain background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: argyle-pattern-4-pattern-designers.jpg
+    title: Vibrant green and white diagonal plaid fabric texture | Premium Photo
+    alt: Vibrant green and white diagonal plaid fabric texture | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/vibrant-green-white-diagonal-plaid-fabric-texture_423278142.htm"
+      image_url: "https://img.magnific.com/premium-photo/vibrant-green-white-diagonal-plaid-fabric-texture_1257676-1570.jpg"
+      title: Vibrant green and white diagonal plaid fabric texture | Premium Photo
+      description: Download this Premium photo of Vibrant green and white diagonal plaid fabric texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Argyle Pattern

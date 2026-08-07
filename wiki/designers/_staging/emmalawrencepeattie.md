@@ -272,7 +272,7 @@ Eight selected Instagram images confirmed as surface patterns. The pattern work 
 
 - [[Tigerprint]]
 - [[Calvin Klein]]
-- [[wiki/companies/_ready/gap]]
+- [[wiki/companies/_staging/gap]]
 - [[Conversational Print]]
 - [[Surface Pattern Design]]
 - [[Licensing]]

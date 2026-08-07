@@ -1,0 +1,46 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-dfbd60099f6bded0",
+  "canonical_id": "can-clip-dfbd60099f6bded0",
+  "canonical_path": "wiki/jobs/_staging/culp-inc-textile-designer",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "skills:Trend Research",
+    "location:United States"
+  ],
+  "needs_review": [
+    "company:Culp, Inc.",
+    "software:Adobe Creative Suite",
+    "software:EAT CAD",
+    "skills:Colour",
+    "skills:CAD",
+    "location:Stokesdale",
+    "location:Stokesdale, NC, United States"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 7,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 58,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates",
+    "No markets candidates"
+  ],
+  "errors": [],
+  "duration_ms": 59,
+  "resolution_quality": 50,
+  "message": "Resolved"
+}

@@ -5,16 +5,22 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Check Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/check-pattern/check-pattern-1-pattern-designers.jpg
@@ -44,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=A36ADyMVMTc
 learn_more_youtube_2: https://www.youtube.com/watch?v=K-x6aRIvCZc
 learn_more_youtube_3: ""
+gallery_images:
+  - path: check-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Checkerboard_pattern.svg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Checkerboard_pattern.svg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Checkerboard_pattern.svg/500px-Checkerboard_pattern.svg.png"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Checkerboard_pattern.svg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/7/70/Checkerboard_pattern.svg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: check-pattern-2-pattern-designers.jpg
+    title: Flat christmas plaid pattern design
+    alt: Flat christmas plaid pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-christmas-plaid-pattern-design_20875574.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-christmas-plaid-pattern-design_23-2149199276.jpg"
+      title: Flat christmas plaid pattern design
+      description: Download this free vector of Flat christmas plaid pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: check-pattern-3-pattern-designers.jpg
+    title: Quality check vector plaid indoor texture pattern background diagonal textile fabric tartan seamless in yellow and blue colors | Premium Vector
+    alt: Quality check vector plaid indoor texture pattern background diagonal textile fabric tartan seamless in yellow and blue colors | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/quality-check-vector-plaid-indoor-texture-pattern-background-diagonal-textile-fabric-tartan-seamless-yellow-blue-colors_336756806.htm"
+      image_url: "https://img.magnific.com/premium-vector/quality-check-vector-plaid-indoor-texture-pattern-background-diagonal-textile-fabric-tartan-seamless-yellow-blue-colors_87543-57459.jpg"
+      title: Quality check vector plaid indoor texture pattern background diagonal textile fabric tartan seamless in yellow and blue colors | Premium Vector
+      description: Download this Premium vector of Quality check vector plaid indoor texture pattern background diagonal textile fabric tartan seamless in yellow and blue colors and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: check-pattern-4-pattern-designers.jpg
+    title: Seamless tartan plaid of texture pattern check with a textile fabric background vector | Premium Vector
+    alt: Seamless tartan plaid of texture pattern check with a textile fabric background vector | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-tartan-plaid-texture-pattern-check-with-textile-fabric-background-vector_138420190.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-tartan-plaid-texture-pattern-check-with-textile-fabric-background-vector_87543-31775.jpg"
+      title: Seamless tartan plaid of texture pattern check with a textile fabric background vector | Premium Vector
+      description: Download this Premium vector of Seamless tartan plaid of texture pattern check with a textile fabric background vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Check Pattern

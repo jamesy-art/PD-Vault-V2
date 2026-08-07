@@ -5,16 +5,21 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Lattice
+styles:
+  - Oriental
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Lattice Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/lattice-pattern/lattice-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=OZc0qPSecBM
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: lattice-pattern-1-pattern-designers.jpg
+    title: Abstract lattice mesh lines pattern background
+    alt: Abstract lattice mesh lines pattern background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-lattice-mesh-lines-pattern-background_421047733.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-lattice-mesh-lines-pattern-background_1017-60910.jpg"
+      title: Abstract lattice mesh lines pattern background
+      description: Download this free vector of Abstract lattice mesh lines pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: lattice-pattern-2-pattern-designers.jpg
+    title: Geometric lattice diagonal square pattern background
+    alt: Geometric lattice diagonal square pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/geometric-lattice-diagonal-square-pattern-background_421047767.htm"
+      image_url: "https://img.magnific.com/free-vector/geometric-lattice-diagonal-square-pattern-background_1017-60944.jpg"
+      title: Geometric lattice diagonal square pattern background
+      description: Download this free vector of Geometric lattice diagonal square pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: lattice-pattern-3-pattern-designers.jpg
+    title: Lattice style pattern background
+    alt: Lattice style pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/lattice-style-pattern-background_31912913.htm"
+      image_url: "https://img.magnific.com/free-vector/lattice-style-pattern-background_1048-16881.jpg"
+      title: Lattice style pattern background
+      description: Download this free vector of Lattice style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: lattice-pattern-4-pattern-designers.jpg
+    title: Minimal lattice geometric lines pattern white backdrop
+    alt: Minimal lattice geometric lines pattern white backdrop
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/minimal-lattice-geometric-lines-pattern-white-backdrop_421047722.htm"
+      image_url: "https://img.magnific.com/free-vector/minimal-lattice-geometric-lines-pattern-white-backdrop_1017-60899.jpg"
+      title: Minimal lattice geometric lines pattern white backdrop
+      description: Download this free vector of Minimal lattice geometric lines pattern white backdrop and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Lattice Pattern

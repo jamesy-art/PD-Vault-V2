@@ -1,0 +1,1336 @@
+{
+  "schema": "company-uid-registry/v1",
+  "updated": "2026-07-31",
+  "entries": {
+    "abercrombie-and-fitch": {
+      "company_uid": "a65a9d91-2f89-4bd1-bb9c-ee1df0f9e026",
+      "name": "Abercrombie & Fitch",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "about-you": {
+      "company_uid": "297b3578-554c-4730-a877-1a46752902a6",
+      "name": "About You",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "adidas": {
+      "company_uid": "ee194a90-8ee4-4c62-b4dc-5578f9e17b66",
+      "name": "Adidas",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "adolfo-dominguez": {
+      "company_uid": "e4f9cf90-1816-4921-8538-81f11995717e",
+      "name": "Adolfo Domínguez",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "aeffe": {
+      "company_uid": "c5a6589a-ba72-482b-a44b-279be83de6f1",
+      "name": "Aeffe",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "alberta-ferretti": {
+      "company_uid": "435f59a1-e1db-4016-a13e-f993a4459379",
+      "name": "Alberta Ferretti",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "aldo": {
+      "company_uid": "cb80b8d1-cfb5-413f-a5de-8e5d3e9bce7c",
+      "name": "Aldo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "alexander-mcqueen": {
+      "company_uid": "734b5673-6047-4786-ba8d-b6a0c71988f4",
+      "name": "Alexander McQueen",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "amer-sports": {
+      "company_uid": "a14cf695-6572-4f86-ab52-3eb3894fe58d",
+      "name": "Amer Sports",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "american-eagle-outfitters": {
+      "company_uid": "b4e7879e-fedc-4df7-b2c3-9a90dedd1ef6",
+      "name": "American Eagle Outfitters",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "amiri": {
+      "company_uid": "8144bb2f-b5ca-4edb-bc75-3b179d9f9fd0",
+      "name": "AMIRI",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "ann-taylor": {
+      "company_uid": "5568ed63-ad8e-4cee-a415-90b626766545",
+      "name": "Ann Taylor",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "anne-klein": {
+      "company_uid": "ec3dc7b7-4679-4823-a7ff-d2fc547992d0",
+      "name": "Anne Klein",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "anta-sports": {
+      "company_uid": "46364802-1572-4afd-856d-d2d35d6cea6c",
+      "name": "Anta Sports",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "anthropologie": {
+      "company_uid": "1f3fb491-3658-4b80-80a7-7d8ce971b44c",
+      "name": "Anthropologie",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "aritzia": {
+      "company_uid": "2ae87b89-59e1-4cc8-8a1f-c1f70df4486c",
+      "name": "Aritzia",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "armani": {
+      "company_uid": "4b94af93-e951-4fa7-a1b2-359091e56685",
+      "name": "Armani",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "arnotts": {
+      "company_uid": "9b07482b-6a79-438a-ba7d-bdc03652918c",
+      "name": "Arnotts",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "asics": {
+      "company_uid": "d1e5de45-1a81-4d89-b367-a72a495e3af2",
+      "name": "Asics",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "asos": {
+      "company_uid": "c77347d2-c576-4694-8ffe-455fb17f8395",
+      "name": "ASOS",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "atmos": {
+      "company_uid": "0e3eb143-7854-47a0-a442-c4102d469d51",
+      "name": "Atmos",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "audemars-piguet": {
+      "company_uid": "23bf29c1-4163-4283-b575-0c382c4d9f9e",
+      "name": "Audemars Piguet",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "authentic-brands-group": {
+      "company_uid": "c24c34e2-48a9-4486-87a0-57a6347fe0f3",
+      "name": "Authentic Brands Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "awwg": {
+      "company_uid": "ca54673f-6112-4969-83e8-320bb2e39e39",
+      "name": "awwg",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "babochka": {
+      "company_uid": "b3d9eed4-75f6-46cf-b311-70e0fb50489a",
+      "name": "Babochka",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "balenciaga": {
+      "company_uid": "7f744c34-124c-469a-b329-a91738873436",
+      "name": "Balenciaga",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bally": {
+      "company_uid": "b6552fe6-f987-46e1-b2ed-b647030dbad4",
+      "name": "Bally",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "barbour": {
+      "company_uid": "e13959a5-76af-473b-8145-138bfe799fd5",
+      "name": "Barbour",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "basso-and-brooke": {
+      "company_uid": "f8fbacc6-b763-4016-957f-1c800d537ee8",
+      "name": "Basso & Brooke",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bebe-stores": {
+      "company_uid": "4dd68795-b368-4dbd-8f70-3c44adf30462",
+      "name": "Bebe Stores",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bell-and-ross": {
+      "company_uid": "ae8acdcf-6b49-4ba9-b354-b247f525a03f",
+      "name": "Bell & Ross",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "benetton-group": {
+      "company_uid": "18f5e95a-7ea9-412b-b8f4-b65dd777fcac",
+      "name": "Benetton Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bestseller": {
+      "company_uid": "b71fd618-2fd8-4cda-8db6-bb05bf485019",
+      "name": "Bestseller",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "betsey-johnson": {
+      "company_uid": "3c96e8a7-12af-4519-b5a9-ed2ba75d08bc",
+      "name": "Betsey Johnson",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "billabong": {
+      "company_uid": "28bfc138-d9c8-40a9-8c98-bc766bf15547",
+      "name": "Billabong",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bimba-y-lola": {
+      "company_uid": "459e586b-3d3a-431b-826c-540956617e03",
+      "name": "Bimba y Lola",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "birkenstock": {
+      "company_uid": "f2a918c0-2c58-4b56-b635-a3e1982d41fe",
+      "name": "Birkenstock",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bjorn-borg": {
+      "company_uid": "61a82847-882b-478d-adf0-279537a8060c",
+      "name": "Björn Borg",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bluestar-alliance": {
+      "company_uid": "6ac5802a-efbb-4ebc-a634-4c10acdada35",
+      "name": "Bluestar Alliance",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bosco-di-ciliegi": {
+      "company_uid": "578a4602-4a08-4a6a-9e6b-fc66f12446e1",
+      "name": "Bosco di Ciliegi",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "bottega-veneta": {
+      "company_uid": "aa18cc7c-103f-4d5e-aa07-85edfa3bc1bf",
+      "name": "Bottega Veneta",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "breitling": {
+      "company_uid": "387faa2f-eb16-4e9b-a166-4a136ee0d074",
+      "name": "Breitling",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "breuninger": {
+      "company_uid": "402551d9-cceb-4928-ad62-aa7592ec1117",
+      "name": "Breuninger",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "brooks-brothers": {
+      "company_uid": "a6cd3819-3082-46dd-9fd9-9f9283903c55",
+      "name": "Brooks Brothers",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "brown-thomas": {
+      "company_uid": "82891ed1-826a-43dc-959a-6226446fdf03",
+      "name": "Brown Thomas",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "brunello-cucinelli": {
+      "company_uid": "16b67616-f8be-4b78-8f2a-5b21999c82bd",
+      "name": "Brunello Cucinelli",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "burberry": {
+      "company_uid": "134ae63c-b5d0-46f1-a8b1-faaaf522c83d",
+      "name": "Burberry",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "calvin-klein": {
+      "company_uid": "0ba0c66f-2bf5-44bc-aaea-4222018ff1ce",
+      "name": "Calvin Klein",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "camper": {
+      "company_uid": "ba7c6edc-e529-4b82-8ace-c78f799e66de",
+      "name": "Camper",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "canali": {
+      "company_uid": "50d5e098-1cb9-414c-8de7-db65b16ddec5",
+      "name": "Canali",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "canda": {
+      "company_uid": "08a28003-ecd9-4296-a04c-cb4bf14fc668",
+      "name": "C&A",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "capri-holdings": {
+      "company_uid": "a2950ae4-95c3-46a6-9a2f-3eb923185015",
+      "name": "Capri Holdings",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "carter-s": {
+      "company_uid": "7c212cce-78d5-495b-9e01-cd76b0a04d7f",
+      "name": "Carter's",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "cartier": {
+      "company_uid": "09c80636-5112-4b1d-b6b5-25f247a24d3a",
+      "name": "Cartier",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "cato": {
+      "company_uid": "c2b2c458-dad9-4e88-bae5-c8c933b6cfbb",
+      "name": "Cato",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "celine": {
+      "company_uid": "f86efaf7-930c-4a0e-a826-00b98efb337b",
+      "name": "Celine",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "central-group": {
+      "company_uid": "d1f964c6-41f7-44db-a0a5-fe379cc87bb9",
+      "name": "Central Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "champion": {
+      "company_uid": "6bf5b7b5-3d43-405f-a0e1-7170bb28c85e",
+      "name": "Champion",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "chanel": {
+      "company_uid": "973609c1-9ef3-408f-8e57-97cc78015b07",
+      "name": "Chanel",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "charlotte-tilbury": {
+      "company_uid": "f1a24859-9d21-4fec-acae-8213470da9ba",
+      "name": "Charlotte Tilbury",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "chloe": {
+      "company_uid": "d252c0b8-85e0-46a8-95c0-d4244c05a153",
+      "name": "Chloé",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "chopard": {
+      "company_uid": "cd1c3968-8aab-493c-b4e2-ea85f35cb58e",
+      "name": "Chopard",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "christian-louboutin": {
+      "company_uid": "b35e10ac-a680-4bfd-bc25-ba3cb5f0f822",
+      "name": "Christian Louboutin",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "claudie-pierlot": {
+      "company_uid": "da473cda-3dd1-456e-82b7-01ed887ec4dd",
+      "name": "Claudie Pierlot",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "coach-new-york": {
+      "company_uid": "f50b7743-7f6e-4ae4-9a92-d11ff30b297e",
+      "name": "Coach New York",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "columbia-sportswear": {
+      "company_uid": "63308038-aebf-46ac-b442-54428c41f637",
+      "name": "Columbia Sportswear",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "courir": {
+      "company_uid": "24d6eeb1-947b-42d5-b1cf-fff34ddd5823",
+      "name": "Courir",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "de-bijenkorf": {
+      "company_uid": "3644b544-8ca1-4e4d-8eee-77316c886320",
+      "name": "De Bijenkorf",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "de-fursac": {
+      "company_uid": "0100d15c-f6c2-41f2-880b-a3f24dfb6fb0",
+      "name": "De Fursac",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "decathlon": {
+      "company_uid": "18277e96-d2ff-411e-a93c-97460a78d67a",
+      "name": "Decathlon",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "deckers-brands": {
+      "company_uid": "07ef946f-04a9-40a5-8f2d-e30af681bbe1",
+      "name": "Deckers Brands",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "designer-brands": {
+      "company_uid": "167c6fa5-fb8b-4256-9b12-5eb2c8f201ba",
+      "name": "Designer Brands",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "desigual": {
+      "company_uid": "8c96055f-efda-46d1-8046-21e658afe2db",
+      "name": "Desigual",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "diane-von-furstenberg": {
+      "company_uid": "d8131e86-6074-42f0-9099-daa25c9ae66d",
+      "name": "Diane von Fürstenberg",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "diesel": {
+      "company_uid": "e16c1017-d9eb-49c7-b131-239ccdecdf1b",
+      "name": "Diesel",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dillard-s": {
+      "company_uid": "0fdc53a4-afa1-446d-bd8f-dae7e7adccc9",
+      "name": "Dillard's",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dior": {
+      "company_uid": "851f74d3-2a1d-4648-8d19-c67601fc00d4",
+      "name": "Dior",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dk-company": {
+      "company_uid": "4b4a9dec-1306-4bf7-9ff0-eac4bcc5f3ed",
+      "name": "DK Company",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dkny": {
+      "company_uid": "2ba94f4a-f15f-4224-bf59-0b22c5302416",
+      "name": "DKNY",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dolce-and-gabbana": {
+      "company_uid": "08f5a190-c5ea-4ce1-909d-21c805d89c5f",
+      "name": "Dolce & Gabbana",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dolce-vita": {
+      "company_uid": "dae73b0d-f854-4805-9b84-dcb3c0f3c2fa",
+      "name": "Dolce Vita",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dr-martens": {
+      "company_uid": "f4c29518-8bf7-4fa0-b47b-812e50c8e441",
+      "name": "Dr. Martens",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "dries-van-noten": {
+      "company_uid": "ca3f3845-55cf-4200-b856-88045ad9fe33",
+      "name": "Dries Van Noten",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "eddie-bauer": {
+      "company_uid": "6f8c403f-28a0-415b-9420-8616d788b6f9",
+      "name": "Eddie Bauer",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "el-corte-ingles": {
+      "company_uid": "02f492aa-a871-4751-bdb5-a1845005d47f",
+      "name": "El Corte Inglés",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "elie-tahari": {
+      "company_uid": "49073293-76c9-4f3d-9124-e57a66d2990b",
+      "name": "Elie Tahari",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "emporio-armani": {
+      "company_uid": "a636e5ef-839b-495a-98da-7c7943e79ce4",
+      "name": "Emporio Armani",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "eres": {
+      "company_uid": "4a5fb543-33f0-43c4-89fd-8d6fcea1592b",
+      "name": "Eres",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "escada": {
+      "company_uid": "75aea57d-f3ac-4f98-a99c-91b129b490f2",
+      "name": "Escada",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "essilorluxottica": {
+      "company_uid": "25a034d2-6b83-494b-bade-2ac4af874d59",
+      "name": "EssilorLuxottica",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "etam-group": {
+      "company_uid": "31527969-eb3c-4493-94e3-abcf15367acd",
+      "name": "Etam Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "faconnable": {
+      "company_uid": "594c7b21-00ce-4144-90c3-7ad13b9fc85e",
+      "name": "Façonnable",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "fashion-box": {
+      "company_uid": "0849e216-3732-43bd-8a08-2300360d3c0c",
+      "name": "Fashion Box",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "fast-retailing": {
+      "company_uid": "d429d254-38d5-4082-9720-8dda282daf1e",
+      "name": "Fast Retailing",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "figs": {
+      "company_uid": "31258759-a762-4f3b-be04-27beac00a7fe",
+      "name": "Figs",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "foot-locker": {
+      "company_uid": "ede78e89-6f97-4ad2-80d7-3261463d93cf",
+      "name": "Foot Locker",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "fossil-group": {
+      "company_uid": "4bea10a1-cf6d-4b0f-b028-480def53a4bd",
+      "name": "Fossil Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "frederique-constant": {
+      "company_uid": "206934a2-c870-4d90-a24b-cbc1b2899957",
+      "name": "Frédérique Constant",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "g-iii-apparel-group": {
+      "company_uid": "9b722528-30a1-4b19-a96e-b9b0a65e2ad6",
+      "name": "G-III Apparel Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "g-star": {
+      "company_uid": "f71eb727-7a10-49e9-b544-f45339f00d7d",
+      "name": "G-Star",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "galeria-kaufhof": {
+      "company_uid": "93a6106f-6e4a-4ce1-89aa-74765677b837",
+      "name": "Galeria Kaufhof",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "gap": {
+      "company_uid": "eb384c34-ae23-479d-8bd4-38d8d41b897e",
+      "name": "Gap",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "gildan": {
+      "company_uid": "b24bd842-0f4c-49f6-bb41-e1c90903f731",
+      "name": "Gildan",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "global-fashion-group": {
+      "company_uid": "73e448dd-1d92-49e0-98b0-8bb0d717300d",
+      "name": "Global Fashion Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "goat": {
+      "company_uid": "4a20516a-3683-49f6-8ec6-ab68849ad78a",
+      "name": "GOAT",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "golden-lady": {
+      "company_uid": "ffc8e65d-68b5-4311-833f-70d55ab46f16",
+      "name": "Golden Lady",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "groupe-artemis": {
+      "company_uid": "81227bfb-a627-43c8-9ae8-0af2136b0780",
+      "name": "Groupe Artémis",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "groupe-dynamite": {
+      "company_uid": "bff201e0-41c9-4ca6-a711-af47d3e687ab",
+      "name": "Groupe Dynamite",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "gucci": {
+      "company_uid": "1f484830-6d5e-49d8-ac4a-866ec1080b22",
+      "name": "Gucci",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "guess": {
+      "company_uid": "16bab570-61a7-44b1-bea6-d43caa4e6f6c",
+      "name": "Guess",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "gymshark": {
+      "company_uid": "420a286a-19b5-411b-b461-de0188b3e2bd",
+      "name": "Gymshark",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "hackett-london": {
+      "company_uid": "806cf65e-879b-4c66-a7a4-05d155652259",
+      "name": "Hackett London",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "hanes-australasia": {
+      "company_uid": "0c5f3812-7a62-4ed9-888d-79f61e5bc25f",
+      "name": "Pacific Brands",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "hermes": {
+      "company_uid": "2f368b98-025b-467d-bf03-8211c124fcd9",
+      "name": "Hermès",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "hugo-boss": {
+      "company_uid": "02864060-be0e-49d9-bc22-98e7083a5c21",
+      "name": "Hugo Boss",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "hunkemoller": {
+      "company_uid": "b126748f-492d-49c8-9b79-f6703067e44a",
+      "name": "Hunkemöller",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "ic-group": {
+      "company_uid": "47ecb318-0d55-4ba7-977d-86592dd06562",
+      "name": "IC Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "inditex": {
+      "company_uid": "824c5d56-8971-44db-b4f0-43b787d051b1",
+      "name": "Inditex",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "inter-parfums": {
+      "company_uid": "cd98332b-1a61-4502-8b67-297f9b158877",
+      "name": "Inter Parfums",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "intersport": {
+      "company_uid": "11f88045-bc16-498b-90a5-7c214f8c140a",
+      "name": "Intersport",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "j-crew": {
+      "company_uid": "559d6290-159b-4150-b78e-5f0edaca9527",
+      "name": "J.Crew",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "j-press": {
+      "company_uid": "e1600b7f-d297-44f2-ad92-ff9121ef131d",
+      "name": "J. Press",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "jack-and-jones": {
+      "company_uid": "acd44ef4-e3a5-4d90-82d0-5df42e85da08",
+      "name": "Jack & Jones",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "jcpenney": {
+      "company_uid": "5b812f5e-05f2-4bc6-ba1c-0ae71e80abe4",
+      "name": "JCPenney",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "jd-sports": {
+      "company_uid": "c0d5b11d-1453-4301-afa5-b3cc6f360b27",
+      "name": "JD Sports",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "jil-sander": {
+      "company_uid": "10fb2b78-3c5d-4d53-92da-4dba13785300",
+      "name": "Jil Sander",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "jimmy-choo": {
+      "company_uid": "250a877f-c29a-4da9-bbc4-8d0e8d42694c",
+      "name": "Jimmy Choo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "joop": {
+      "company_uid": "eb3863ba-ac24-41f3-8df3-0115c40c4cb0",
+      "name": "JOOP!",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "kering": {
+      "company_uid": "0b910007-d63a-4b6f-80de-38fedfd17b22",
+      "name": "Kering",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "kkr": {
+      "company_uid": "d7df2017-ae44-4614-abb0-b949509a6f06",
+      "name": "KKR",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "knitwell-group": {
+      "company_uid": "b72ac93e-9ada-4985-a797-b513a3548dde",
+      "name": "KnitWell Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "kontoor-brands": {
+      "company_uid": "478d8c82-10fc-4b84-a8b1-643366a21843",
+      "name": "Kontoor Brands",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "kurt-geiger": {
+      "company_uid": "670a77c8-be14-4ea8-8ca1-4d858346dd7b",
+      "name": "Kurt Geiger",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lanerossi": {
+      "company_uid": "fac4ff88-d0b8-4ebb-8ba5-9624975fc8a6",
+      "name": "Lanerossi",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lanvin": {
+      "company_uid": "52ba29d0-8d41-4ccd-9cb2-dddc9f3e9d94",
+      "name": "Lanvin",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lcatterton": {
+      "company_uid": "07ac230c-6234-491a-af96-4d767dd8e708",
+      "name": "lcatterton",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lee": {
+      "company_uid": "38e45380-35bf-4e98-86e7-d92f7613d413",
+      "name": "Lee",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "levi-strauss-and-co": {
+      "company_uid": "56b95db0-0c07-4f35-9c15-20897d8c293f",
+      "name": "Levi Strauss & Co.",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lilly-pulitzer": {
+      "company_uid": "fe628db9-ac4c-4681-8681-03da24952329",
+      "name": "Lilly Pulitzer",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lindex": {
+      "company_uid": "bea80e55-e02e-4589-b17f-9a31d29b2f90",
+      "name": "Lindex",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "liu-jo": {
+      "company_uid": "8b2b5418-035c-4de3-bcb1-93973a1d5d34",
+      "name": "Liu Jo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "loft": {
+      "company_uid": "310dbdfb-c9e2-436a-b111-4d5b68ff6ae5",
+      "name": "LOFT",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "longchamp": {
+      "company_uid": "cab76d2a-dcf3-4874-b371-c2b9927180c9",
+      "name": "Longchamp",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "loreal": {
+      "company_uid": "397f9530-c9ce-458d-bf7d-6f1c65c09819",
+      "name": "L'Oréal",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "luxottica": {
+      "company_uid": "ee46c937-2222-4650-b8d0-16c3605e30f9",
+      "name": "Luxottica",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "lvmh": {
+      "company_uid": "147038bf-f01b-44f0-b240-916081af74ec",
+      "name": "LVMH",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "macy-s": {
+      "company_uid": "eb42b5c0-16be-4f83-848c-f41b5448f7f6",
+      "name": "Macy's",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "maison-margiela": {
+      "company_uid": "d264fb61-f07b-4fef-950a-dd20cd96df34",
+      "name": "Maison Margiela",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "maje": {
+      "company_uid": "d3140446-6665-479a-9a3a-fee3ba4cf6fe",
+      "name": "Maje",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "mango-retailer": {
+      "company_uid": "5be7fdb8-55cf-4d00-aa77-08e544721f87",
+      "name": "Mango (retailer)",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "manolo-blahnik": {
+      "company_uid": "5b83f9d2-b43b-4759-90f1-e089abf92563",
+      "name": "Manolo Blahnik",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "marc-cain": {
+      "company_uid": "256c19ed-d6be-4ef1-ba9d-3cfdb4ba6371",
+      "name": "Marc Cain",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "marc-o-polo": {
+      "company_uid": "0f57a72d-3483-4955-b1c2-91d352763142",
+      "name": "Marc O'Polo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "marimekko": {
+      "company_uid": "582249fb-3276-443e-a3dc-07c9c01691b6",
+      "name": "Marimekko",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "marks-and-spencer": {
+      "company_uid": "bd3635d7-18ec-4085-83f0-df1f29ff2706",
+      "name": "Marks & Spencer",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "marni": {
+      "company_uid": "92248351-5905-48da-a456-a2457a18800f",
+      "name": "Marni",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "marzotto-group": {
+      "company_uid": "7d152317-876f-47e7-8e05-f34685b7fa6b",
+      "name": "Marzotto Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "max-mara": {
+      "company_uid": "6e3ab2b5-8717-4fa8-b383-edcc21f4aa62",
+      "name": "Max Mara",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "mb-and-f": {
+      "company_uid": "c21f6c42-d98b-483a-9ea1-a35297b924b3",
+      "name": "MB&F",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "mf-brands": {
+      "company_uid": "736a8cf2-bd9e-4cc2-aea6-1f7ff3717fcd",
+      "name": "MF Brands",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "michael-kors": {
+      "company_uid": "118c8918-8ace-4a9f-8c0b-522b031160ce",
+      "name": "Michael Kors",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "mikimoto": {
+      "company_uid": "849b2a47-7a6d-4de0-880d-dce39bd2c847",
+      "name": "Mikimoto",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "moncler": {
+      "company_uid": "6d81922c-50b9-4544-9bfb-a1a89f99d8c2",
+      "name": "Moncler",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "monsoon-accessorize": {
+      "company_uid": "3c6fb2c9-e6e0-46c8-b9c9-12d59d1cda00",
+      "name": "Monsoon Accessorize",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "montblanc": {
+      "company_uid": "820c63e8-726d-48d4-a319-95f16cc51a6b",
+      "name": "Montblanc",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "moschino": {
+      "company_uid": "e8f4f513-5a99-497a-b0e3-c2791b5e6a37",
+      "name": "Moschino",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "movado": {
+      "company_uid": "9af409ea-e744-48eb-8aba-171a48358aff",
+      "name": "Movado",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "mvmt": {
+      "company_uid": "759902ef-f294-463e-8a38-b50cb2ccfd3a",
+      "name": "MVMT",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "nautica": {
+      "company_uid": "eaae207b-5674-4c6f-b393-41ddc8111556",
+      "name": "Nautica",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "new-balance": {
+      "company_uid": "55ab020d-22bb-4aaf-a682-5d3e4d28e2ee",
+      "name": "New Balance",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "new-era-cap-company": {
+      "company_uid": "2eeb541e-b8d7-433a-96d0-35ab0576acf1",
+      "name": "New Era Cap Company",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "new-look": {
+      "company_uid": "34776a2b-2965-46ca-9774-f8a1517fb053",
+      "name": "New Look",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "new-yorker-clothing": {
+      "company_uid": "fa4c29f8-1ed6-4027-b4d4-0ffbbc90a62a",
+      "name": "New Yorker (clothing)",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "next": {
+      "company_uid": "cd20b3c8-fb5a-4719-8bb5-1e77423c0cc4",
+      "name": "Next",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "nike": {
+      "company_uid": "c6ea7f54-bcfe-4fdb-9f63-721b9898f402",
+      "name": "Nike,",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "nordstrom": {
+      "company_uid": "78514b08-018f-449f-bd0e-0ecb08b0ed72",
+      "name": "Nordstrom",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "on": {
+      "company_uid": "379f89f9-0e9d-4e84-8e38-3eadf83c6774",
+      "name": "On",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "oniverse": {
+      "company_uid": "2567f834-555c-4d92-b11a-7b8ec0a10ff4",
+      "name": "Oniverse",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "only": {
+      "company_uid": "16a5e64d-6c3d-4525-9ad9-ba5f5500149c",
+      "name": "ONLY",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "orlebar-brown": {
+      "company_uid": "167db87f-e7b8-4f06-81f3-14f5198e2f6f",
+      "name": "Orlebar Brown",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "otb-group": {
+      "company_uid": "e38fd9c1-e4e0-45f3-9c0f-c26197ab8b02",
+      "name": "OTB Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "oxford-industries": {
+      "company_uid": "051c77f7-6cbd-41ec-b0fe-42b618815301",
+      "name": "Oxford Industries",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "patagonia": {
+      "company_uid": "ee1d18b4-ceb7-45eb-95c3-ea2b23049150",
+      "name": "Patagonia,",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "patek-philippe": {
+      "company_uid": "b6df6111-f9c2-40a9-8c5a-c52ab6338a8f",
+      "name": "Patek Philippe",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "paul-smith-fashion-designer": {
+      "company_uid": "1fbc452e-a041-46dc-8437-62a865e7562f",
+      "name": "Paul Smith (fashion designer)",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "peek-and-cloppenburg": {
+      "company_uid": "95a95cf2-807f-4f7d-a4d1-d3d30f38f843",
+      "name": "Peek & Cloppenburg",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "pentland-group": {
+      "company_uid": "ee787959-5b95-4df3-bcc8-63b2eb9bb810",
+      "name": "Pentland Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "pepe-jeans": {
+      "company_uid": "fb86d751-838e-4e94-9feb-53f79a67be1f",
+      "name": "Pepe Jeans",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "pollini": {
+      "company_uid": "ad83e972-d431-4010-89fe-10b39dfa7007",
+      "name": "Pollini",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "prada": {
+      "company_uid": "df24ca1d-8b1d-4a08-aff3-562bd3e8c486",
+      "name": "Prada",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "primark": {
+      "company_uid": "a2ee8a0e-ba5c-436b-85ff-3eb3ab5c81fa",
+      "name": "Primark",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "puig": {
+      "company_uid": "19f08b61-713c-43b3-9a24-3cebc9003461",
+      "name": "Puig",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "puma": {
+      "company_uid": "4daa24dc-c78b-4fe9-aa6e-43d097d17aa8",
+      "name": "Puma",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "pvh-corp": {
+      "company_uid": "5ef6ea99-629c-438a-aecc-c2414e19d09c",
+      "name": "PVH Corp.",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "quiksilver": {
+      "company_uid": "70704c5e-cf5b-45c1-b49e-86516766fe53",
+      "name": "Quiksilver",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "ralph-lauren": {
+      "company_uid": "1dadd9c9-f9cb-493e-8f11-1351634a5942",
+      "name": "Ralph Lauren",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "reebok": {
+      "company_uid": "473e4ee2-d950-44a7-834f-9387ac599cee",
+      "name": "Reebok",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "rent-the-runway": {
+      "company_uid": "fd4826e9-e3d8-48d9-a96a-6ebc8a4b2957",
+      "name": "Rent the Runway",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "reusch": {
+      "company_uid": "d58c3070-5702-4bac-8da9-d6f232dd450c",
+      "name": "Reusch",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "richemont": {
+      "company_uid": "871e10bd-8f67-42c4-86b5-b6d24ad68d53",
+      "name": "Richemont",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "rocky-brands": {
+      "company_uid": "fdc90b74-e830-4878-8966-594c18fa8768",
+      "name": "Rocky Brands",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "rolex": {
+      "company_uid": "372427b4-9f25-4e8c-be08-178ae5258f95",
+      "name": "Rolex",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "s-oliver": {
+      "company_uid": "2ba7c859-2b52-4563-9d4e-c13bcf04e7f5",
+      "name": "s.Oliver",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "safilo": {
+      "company_uid": "2051aeec-dfec-490a-aed9-25b9c77c1975",
+      "name": "Safilo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "salvatore-ferragamo": {
+      "company_uid": "93deb314-8b73-4be7-a96c-3a381492b0e6",
+      "name": "Salvatore Ferragamo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "sandro": {
+      "company_uid": "7438c42e-a408-442c-ac28-9b7c88601d12",
+      "name": "Sandro",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "schneider-group": {
+      "company_uid": "e4629bb2-3c6a-42eb-82eb-8d9c52692d07",
+      "name": "Schneider Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "selfridges": {
+      "company_uid": "6ff75171-8458-40e3-8bc1-8fb126d3bb43",
+      "name": "Selfridges",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "selfridges-group": {
+      "company_uid": "9c48a1f3-3f8c-4b7c-a142-40fdceca0d6b",
+      "name": "Selfridges Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "sergio-rossi": {
+      "company_uid": "f0333804-c710-47e7-9343-378064ac87a2",
+      "name": "Sergio Rossi",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "shandong-ruyi": {
+      "company_uid": "47219e63-a41c-410a-a00c-4e37b2e5664a",
+      "name": "Shandong Ruyi",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "shopko": {
+      "company_uid": "9b4ec0d5-6ebd-4667-ac26-2567e30064d4",
+      "name": "Shopko",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "skagen-denmark": {
+      "company_uid": "bbc2031f-8dbf-42b7-a090-a9a306340f07",
+      "name": "Skagen Denmark",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "skechers": {
+      "company_uid": "67a2f2cf-8889-4867-afcd-56bf87b8f8b2",
+      "name": "Skechers",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "smcp-group": {
+      "company_uid": "b8f9f164-7e86-4570-bef6-0e361f354d54",
+      "name": "SMCP Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "sociedad-textil-lonia": {
+      "company_uid": "c77ddf38-2687-45d6-9b2b-adb64395302b",
+      "name": "Sociedad Textil lonia",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "st-john-knits": {
+      "company_uid": "04ce7de9-b0eb-48a7-b923-eb8ee6be5773",
+      "name": "St. John Knits",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "steve-madden": {
+      "company_uid": "7849d138-f2d3-4c61-af0e-3bc47ffcb76a",
+      "name": "Steve Madden",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "suitsupply": {
+      "company_uid": "18fdab44-9bce-48e0-a637-89c92667e180",
+      "name": "Suitsupply",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "superdry-and-co": {
+      "company_uid": "e111882e-0de1-44a8-aac6-978bd55e02c1",
+      "name": "Superdry & Co",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "swarovski": {
+      "company_uid": "aa33209d-69c1-4d5d-acd1-7954267523d4",
+      "name": "Swarovski",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "sycamore-partners": {
+      "company_uid": "d763f936-a8e1-4d9b-afb0-de04d60f9fcf",
+      "name": "Sycamore Partners",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "takko": {
+      "company_uid": "724d8069-82ea-4e1a-8398-62b59da7e81a",
+      "name": "Takko",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "talbots": {
+      "company_uid": "6f026b87-fdda-43e6-80d3-424130a297f7",
+      "name": "Talbots",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tapestry-inc": {
+      "company_uid": "f539e6d6-a890-449c-9eac-4a6f2c30c00c",
+      "name": "Tapestry Inc",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "ted-baker": {
+      "company_uid": "3421d0c8-6760-4d00-819d-652cba40731d",
+      "name": "Ted Baker",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tendam": {
+      "company_uid": "568c52bd-bd9a-4a0d-897f-5a89f8e6a279",
+      "name": "Tendam",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "the-children-s-place": {
+      "company_uid": "677849c4-204a-4e37-a165-05973f363bcb",
+      "name": "The Children's Place",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "the-de-rigo-group": {
+      "company_uid": "2a0484cd-5faa-425e-9acb-798440950379",
+      "name": "The De Rigo Group Vision, Heritage and Innovation",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "the-ocean-cleanup": {
+      "company_uid": "e4378b76-aba4-413d-b323-c49855cdd9a0",
+      "name": "The Ocean Cleanup",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "the-realreal": {
+      "company_uid": "9119a132-c824-4b5a-898e-b0dcff565dd7",
+      "name": "The RealReal",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "the-swatch-group": {
+      "company_uid": "abad014e-e164-408a-9ad5-1209b04ff525",
+      "name": "The Swatch Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "thredup": {
+      "company_uid": "35717b62-0306-4f36-8022-7be9b72744e0",
+      "name": "ThredUp",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tjx": {
+      "company_uid": "aee549ec-1697-4f12-9775-e832387e6c92",
+      "name": "TJX",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tommy-bahama": {
+      "company_uid": "326971c0-5fdd-486a-8255-215c919531eb",
+      "name": "Tommy Bahama",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tommy-hilfiger": {
+      "company_uid": "02e65b14-220d-4777-ac1e-c24e711f50f0",
+      "name": "Tommy Hilfiger",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "topshop": {
+      "company_uid": "e3eb01fd-fa66-4250-a8d8-f6360b484333",
+      "name": "Topshop",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tory-burch": {
+      "company_uid": "42363dfb-3930-49e0-aec3-0763967e0669",
+      "name": "Tory Burch",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "tous": {
+      "company_uid": "c68c0b79-fb7c-4c6d-9791-0ce4f050fa14",
+      "name": "Tous",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "triumph-international": {
+      "company_uid": "4d4761cf-1148-4560-9681-d99f6b1985c6",
+      "name": "Triumph International",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "ulysse-nardin": {
+      "company_uid": "986c689a-36fe-4392-b24a-a489db52b6f9",
+      "name": "Ulysse Nardin",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "under-armour": {
+      "company_uid": "948cecb3-1c5d-4111-8f23-a04e03d6d33a",
+      "name": "Under Armour",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "uniqlo": {
+      "company_uid": "aa44d678-1c37-4ecc-aae1-5f7749d3138d",
+      "name": "Uniqlo",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "united-arrows": {
+      "company_uid": "23c4a51e-66b2-45fc-a387-e0d15078d771",
+      "name": "United Arrows",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "valentino": {
+      "company_uid": "03f06f29-10da-4b8e-a8d6-3353c59b8525",
+      "name": "Valentino",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "van-cleef-and-arpels": {
+      "company_uid": "856529a4-eb6b-4102-bfc8-d9403fd1bf59",
+      "name": "Van Cleef & Arpels",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "van-de-velde-n-v": {
+      "company_uid": "50079a8a-e59b-476e-aada-e6ae286c0f66",
+      "name": "Van de Velde N.V.",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "vera-bradley": {
+      "company_uid": "5103502f-99f2-4a26-97ae-39e2537efd08",
+      "name": "Vera Bradley",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "vera-wang": {
+      "company_uid": "7f37c53d-bb27-49f3-af15-fa4625efd0e1",
+      "name": "Vera Wang",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "vero-moda": {
+      "company_uid": "9b7c3f51-e716-48db-8317-f7bde8e531b6",
+      "name": "Vero Moda",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "versace": {
+      "company_uid": "99b60ace-4a14-491e-839a-a221a0f6e9bd",
+      "name": "Versace",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "vf": {
+      "company_uid": "7335712f-8601-4613-b7ec-cb67dd132b2b",
+      "name": "VF",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "victoria-s-secret": {
+      "company_uid": "7a15f689-351c-4235-b160-31a51d678adf",
+      "name": "Victoria's Secret",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "viktor-and-rolf": {
+      "company_uid": "03d9b88e-0327-4ae0-a262-5ea49ed5f1d4",
+      "name": "Viktor & Rolf",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "vilebrequin": {
+      "company_uid": "2ee865bb-76db-4188-8d42-a4b97dad14ce",
+      "name": "Vilebrequin",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "watches-of-switzerland": {
+      "company_uid": "bbc04cec-0a85-4253-b414-856451bb67a3",
+      "name": "Watches of Switzerland",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "weyco-group": {
+      "company_uid": "add2e52d-7416-4a31-a9a4-8c1f4486333c",
+      "name": "Weyco Group",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "wolford": {
+      "company_uid": "a98a10b3-c89b-406c-a57a-e37eef87ec53",
+      "name": "Wolford",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "wolverine-world-wide": {
+      "company_uid": "353528d6-7ac9-4e07-a16f-7ae7bb51048c",
+      "name": "Wolverine World Wide",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "woolrich": {
+      "company_uid": "0e1d1171-b408-47d8-a7b9-f9826b80a192",
+      "name": "Woolrich",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "wortmann": {
+      "company_uid": "119003cc-d917-4620-bbb6-052bd5c43036",
+      "name": "Wortmann",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "wrangler": {
+      "company_uid": "22bf75d7-1408-4498-90a9-b9a1eaef80b6",
+      "name": "Wrangler",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "yves-saint-laurent": {
+      "company_uid": "d13c3a1b-21c0-4f59-a9b1-06f43efbcb76",
+      "name": "Yves Saint Laurent",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "zadigandvoltaire": {
+      "company_uid": "381bc998-d262-4f76-ab38-8929bb177a98",
+      "name": "Zadig&Voltaire",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "zalando": {
+      "company_uid": "90d0a54e-1552-4849-b6ef-f1f673646592",
+      "name": "Zalando",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    },
+    "zegna": {
+      "company_uid": "6e6c30bf-77fe-4322-8e7a-f761c1ad1cc1",
+      "name": "Zegna",
+      "assigned_at": "2026-07-31T00:00:00.000Z"
+    }
+  }
+}

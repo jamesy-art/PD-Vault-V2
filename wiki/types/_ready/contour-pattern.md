@@ -5,26 +5,16 @@ status: active
 type_group: general
 summary: Surface pattern referencing topographic map contour lines or contour drawing techniques, creating layered linear compositions that suggest terrain, depth, and three-dimensional form.
 motifs:
-  - contour-line
-  - topographic-line
-  - elevation-band
-  - outline
-  - cross-contour
+  - Abstract
 structures:
-  - linear
-  - layered
-  - all-over
-  - concentric
-styles:
-  - topographic
-  - linear
-  - map-inspired
-  - technical
-  - art-inspired
+  - Stripe
+  - Radial
+styles: []
 categories:
-  - linear
-  - structure
-  - cartographic
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Sketch
 source_count: 2
 source_files:
   - Contour Pattern 2.md
@@ -32,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/contour-pattern/contour-pattern-1-pattern-designers.jpg
@@ -63,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=qFxTxQ1Y_co
 learn_more_youtube_2: https://www.youtube.com/watch?v=VDzL7-atpfk
 learn_more_youtube_3: ""
+gallery_images:
+  - path: contour-pattern-1-pattern-designers.jpg
+    title: Abstract hand drawn organic lines design background
+    alt: Abstract hand drawn organic lines design background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-hand-drawn-organic-lines-design-background_413434553.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-hand-drawn-organic-lines-design-background_1048-21107.jpg"
+      title: Abstract hand drawn organic lines design background
+      description: Download this free vector of Abstract hand drawn organic lines design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: contour-pattern-2-pattern-designers.jpg
+    title: Abstract swirl line pattern
+    alt: Abstract swirl line pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-swirl-line-pattern_358029085.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-swirl-line-pattern_1409-9478.jpg"
+      title: Abstract swirl line pattern
+      description: Download this free vector of Abstract swirl line pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: contour-pattern-3-pattern-designers.jpg
+    title: Hand drawn abstract outline background
+    alt: Hand drawn abstract outline background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-abstract-outline-background_60872663.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-abstract-outline-background_23-2150717268.jpg"
+      title: Hand drawn abstract outline background
+      description: Download this free vector of Hand drawn abstract outline background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: contour-pattern-4-pattern-designers.jpg
+    title: Topographic map with colored lines | Premium Vector
+    alt: Topographic map with colored lines | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/topographic-map-with-colored-lines_9336907.htm"
+      image_url: "https://img.magnific.com/premium-vector/topographic-map-with-colored-lines_23-2148613731.jpg"
+      title: Topographic map with colored lines | Premium Vector
+      description: Download this Premium vector of Topographic map with colored lines and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Contour Pattern

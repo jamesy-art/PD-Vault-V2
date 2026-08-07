@@ -1,141 +1,78 @@
 ---
+company_uid: b6df6111-f9c2-40a9-8c5a-c52ab6338a8f
+schema_version: 1
 name: Patek Philippe
 slug: patek-philippe
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
-  - Accessories
-type_slugs: []
-website: https://www.patek.com
-instagram: https://www.instagram.com/patekphilippe
-linkedin: https://www.linkedin.com/company/patek-philippe/
-facebook: https://www.facebook.com/patekphilippe/
-founded: "1839"
-headquarters: Switzerland
-employees: 2,400
-revenue: $2B
-category_images:
-  - label: "Watches"
-    category: "watches"
-    image: "../../assets/companies/patek-philippe/cat/patek-philippe-watches.jpg"
-source_file: Patek Philippe.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-10
-updated: 2026-06-11
-about_url: https://www.patek.com/en/manufacture/a-story-of-independence/our-values
-careers_url: https://www.patek.com/en/careers
-contact_url: https://www.patek.com/en/service/frequently-asked-questions/watch-theft/contact
-store_locator_url: https://www.patek.com/en/points-of-sale
-retail_categories:
-  - Jewellery
-  - Watches
-market_categories: []
-collections: []
-profile_image: ../../assets/companies/patek-philippe/profile/28435845_561295217588223_5385259505892196352_n.jpg
-profile_image_local: ../../assets/companies/patek-philippe/profile/28435845_561295217588223_5385259505892196352_n.jpg
-company_logo_selected: ../../assets/companies/patek-philippe/profile/28435845_561295217588223_5385259505892196352_n.jpg
-logo_image_selected: ../../assets/companies/patek-philippe/profile/28435845_561295217588223_5385259505892196352_n.jpg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/patek-philippe/profile/28435845_561295217588223_5385259505892196352_n.jpg
+  - accessories
+  - fashion
+  - jewellery
+  - luxury
+  - watches
+products:
+  - jewellery
+  - watches
+hq_country_code: CH
+location: Switzerland
+founded_year: 1839
+employee_count_text: 2,400
+revenue_text: $2B
+website_url: https://www.patek.com
+instagram_url: https://www.instagram.com/patekphilippe
+linkedin_url: https://www.linkedin.com/company/patek-philippe/
+facebook_url: https://www.facebook.com/patekphilippe/
+type_slugs:
+  - guilloch
+  - engraving
+  - bouquet-of-flowers
 images:
-  profile:
-    - ../../assets/companies/patek-philippe/profile/28435845_561295217588223_5385259505892196352_n.jpg
-trk_reviewed: false
-trk_notes: ""
-trk_new: ""
-trk_women: ""
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: ""
-trk_women_bottoms: ""
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: ""
-trk_men: ""
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: https://www.patek.com/en/collection/watch-finder
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://www.exquisitetimepieces.com/blog/patek-philippe-affiliate-program
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/patek-philippe/profile/patek-philippe-logo.jpg
+    alt: Patek Philippe logo
+    width: 605
+    height: 605
+  gallery:
+    - title: Watches
+      alt: Patek Philippe watches collection
+      path: ../../assets/companies/patek-philippe/gallery/patek-philippe-watches.jpg
+      width: 1920
+      height: 2691
+      source:
+        title: Watches
+        page_url: https://www.patek.com/en/collection/watch-finder
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Patek Philippe
 
 ## Profile Image
 
-![pd-profile|160](28435845_561295217588223_5385259505892196352_n.jpg)
+![Profile](../../assets/companies/patek-philippe/profile/patek-philippe-logo.jpg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Watches | <img src="../../assets/companies/patek-philippe/cat/patek-philippe-watches.jpg" width="160"> |
-
-
-Swiss luxury watchmaker established in Geneva in 1839 — the last family-owned independent watch manufacturer in Geneva, widely regarded as the world's most prestigious timepiece brand.
+| Title | Preview |
+|-------|---------|
+| Watches | ![](../../assets/companies/patek-philippe/gallery/patek-philippe-watches.jpg) |
 
 ## Overview
 
 Patek Philippe SA is located in the Canton of Geneva and the Vallée de Joux. Named for founders Antoni Patek and Adrien Philippe, the company has been owned by the Stern family since 1932. It operates more than 400 retail locations globally and produces approximately 58,000–62,000 timepieces annually. Nine of the world's top ten most expensive watches ever sold at auction are Patek Philippe pieces; the Grandmaster Chime Ref. 6300A-010 holds the world record at US$31 million (2019). The company is an active member of the Federation of the Swiss Watch Industry FH and opened the Patek Philippe Museum in Geneva in 2001.
 
-## Company Profile
+Patek Philippe's design language is defined by restraint, mechanical precision, and historical continuity. The Calatrava line is Bauhaus-derived minimalism applied to precious metals. The Nautilus applies industrial porthole geometry to steel and gold. The Sky Moon Tourbillon and Grand Complications prioritise functional decorative complexity. The company does not operate seasonal trend cycles; design changes are evolutionary. Dials may incorporate guilloché, enamel painting, or stone inlay as enduring techniques, not trend-responsive choices.
+
+## History
 
 The company was founded 1 May 1839 as Patek, Czapek & Cie. After the original partnership dissolved in 1845, Antoni Patek joined with French watchmaker Adrien Philippe — inventor of the keyless winding mechanism — to form Patek & Cie, renamed Patek, Philippe & Cie on 1 January 1851. In the same year, Queen Victoria acquired a keyless pendant watch from Patek Philippe at the Great Exhibition in London — the watch was embellished with rose-cut diamonds set in the pattern of a bouquet of flowers. Charles and Jean Stern, whose company had supplied watch dials to Patek Philippe, acquired it in 1932 during the Great Depression. The business has passed through the Stern family across four generations: Charles → Henri (president 1958) → Philippe (president 1993) → Thierry (president 2009). The "Generations" advertising campaign, launched in 1996 with the slogan "You never actually own a Patek Philippe. You merely look after it for the next generation," remains one of the most recognised statements in luxury marketing. Patek Philippe Magazine, a semi-annual publication for watch owners, has featured contributions from Nobel Laureates.
 
-## Market Position
-
-Patek Philippe occupies the apex of the global luxury watch market, competing with Audemars Piguet, Rolex, and Vacheron Constantin, but distinguished by low production volumes, family ownership, and auction dominance. Among the top 58 watches sold at auction for over US$2 million, 46 are Patek Philippe pieces. The company limits annual production growth to 1–3% per year. It actively purchases at auction to build the Patek Philippe Museum collection. American market entry occurred in 1935 through New York's Henri Stern Watch Agency, where the brand was sold alongside Universal Genève.
-
-## Products and Categories
+## Products
 
 Key collections:
 - **Calatrava** (1932): flagship dress watch; designed by English horologist David Penney, influenced by the Bauhaus movement; in production for more than 40 years (original Ref. 96); the Calatrava Cross has been the company's registered logo since 1887.
@@ -148,6 +85,14 @@ Key collections:
 
 The company holds over 100 patents and has invented more than 20 calibres.
 
+## Services
+
+Patek Philippe sells exclusively through authorised retailers and company boutiques (400+ globally). Its close partnership with Tiffany & Co. is longstanding — Tiffany is an authorised retailer and has commissioned exclusive models, including the Ref. 5396G. Purchase of ultra-complicated models requires direct application to and approval by President Thierry Stern. The brand does not license its name to third parties for apparel or fashion accessories. Production is intentionally limited to sustain exclusivity.
+
+## Markets
+
+Patek Philippe occupies the apex of the global luxury watch market, competing with Audemars Piguet, Rolex, and Vacheron Constantin, but distinguished by low production volumes, family ownership, and auction dominance. Among the top 58 watches sold at auction for over US$2 million, 46 are Patek Philippe pieces. The company limits annual production growth to 1–3% per year. It actively purchases at auction to build the Patek Philippe Museum collection. American market entry occurred in 1935 through New York's Henri Stern Watch Agency, where the brand was sold alongside Universal Genève.
+
 ## Pattern and Surface Design Relevance
 
 Patek Philippe is relevant to the luxury accessories market as a practitioner of artisanal surface decoration applied to watch dials, cases, and movements. From source material:
@@ -159,28 +104,9 @@ Patek Philippe is relevant to the luxury accessories market as a practitioner of
 
 The brand represents the ultra-luxury accessories market where surface decoration and pattern applied to objects is directly value-generating.
 
-## Design Direction
+## Official Resources
 
-Patek Philippe's design language is defined by restraint, mechanical precision, and historical continuity. The Calatrava line is Bauhaus-derived minimalism applied to precious metals. The Nautilus applies industrial porthole geometry to steel and gold. The Sky Moon Tourbillon and Grand Complications prioritise functional decorative complexity. The company does not operate seasonal trend cycles; design changes are evolutionary. Dials may incorporate guilloché, enamel painting, or stone inlay as enduring techniques, not trend-responsive choices.
-
-## Retail and Licensing Context
-
-Patek Philippe sells exclusively through authorised retailers and company boutiques (400+ globally). Its close partnership with Tiffany & Co. is longstanding — Tiffany is an authorised retailer and has commissioned exclusive models, including the Ref. 5396G. Purchase of ultra-complicated models requires direct application to and approval by President Thierry Stern. The brand does not license its name to third parties for apparel or fashion accessories. Production is intentionally limited to sustain exclusivity.
-
-## Related Pattern Types
-
-- [[Guilloché]]
-- [[Engraving]]
-- [[Bouquet of flowers]]
-
-## Related Companies
-
-- [[Tiffany & Co.]]
-- [[Audemars Piguet]]
-- [[wiki/companies/_ready/rolex]]
-- [[Vacheron Constantin]]
-
-## Source Notes
-
-- Source: Wikipedia / Patek Philippe.md (accessed 2026-06-10)
-
+- [About](https://www.patek.com/en/manufacture/a-story-of-independence/our-values)
+- [Contact](https://www.patek.com/en/service/frequently-asked-questions/watch-theft/contact)
+- [Store locator](https://www.patek.com/en/points-of-sale)
+- [Careers](https://www.patek.com/en/careers)

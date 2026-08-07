@@ -5,34 +5,16 @@ status: active
 type_group: floral
 summary: Surface pattern derived from the tradition of botanical illustration, depicting plants with detailed, illustrative precision. Distinguished from tropical pattern by its focus on temperate flora, careful rendering, and heritage aesthetic.
 motifs:
-  - rose
-  - peony
-  - lily
-  - fern
-  - herb
-  - leaf
-  - blossom
-  - botanical-specimen
-  - seed-pod
-  - stem-detail
+  - Botanical
 structures:
-  - all-over
-  - tossed
-  - placement
-  - trailing-vine
-  - scattered
+  - Scatter
 styles:
-  - illustrative
-  - heritage
-  - watercolour
-  - arts-and-crafts
-  - art-nouveau
-  - naturalistic
+  - Arts & Crafts
 categories:
-  - floral
-  - botanical
-  - nature-inspired
-  - historical
+  - Botanical
+colour_family: Green
+technique:
+  - Watercolour
 source_count: 2
 source_files:
   - Botanical Pattern 2.md
@@ -40,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/botanical-pattern/botanical-pattern-1-pattern-designers.jpg
@@ -70,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=a4LAXqBgiqk
 learn_more_youtube_2: https://www.youtube.com/watch?v=UnuW2mI76kE
 learn_more_youtube_3: https://www.youtube.com/watch?v=KJhcIwHsPsQ
+gallery_images:
+  - path: botanical-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg/500px-Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg?_=20150816184217"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: botanical-pattern-2-pattern-designers.jpg
+    title: Cold blue flowers decorative seamless pattern repeating background tileable wallpaper print | Premium Photo
+    alt: Cold blue flowers decorative seamless pattern repeating background tileable wallpaper print | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/cold-blue-flowers-decorative-seamless-pattern-repeating-background-tileable-wallpaper-print_136711071.htm"
+      image_url: "https://img.magnific.com/premium-photo/cold-blue-flowers-decorative-seamless-pattern-repeating-background-tileable-wallpaper-print_153302-419.jpg"
+      title: Cold blue flowers decorative seamless pattern repeating background tileable wallpaper print | Premium Photo
+      description: Download this Premium photo of Cold blue flowers decorative seamless pattern repeating background tileable wallpaper print and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: botanical-pattern-3-pattern-designers.jpg
+    title: Natural seamless pattern with miracle tree or moringa oleifera leaves and blooming flowers. botanical backdrop with foliage and inflorescences of tropical exotic plant. realistic vector illustration. | Premium Vector
+    alt: Natural seamless pattern with miracle tree or moringa oleifera leaves and blooming flowers. botanical backdrop with foliage and inflorescences of tropical exotic plant. realistic vector illustration. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/natural-seamless-pattern-with-miracle-tree-moringa-oleifera-leaves-blooming-flowers-botanical-backdrop-with-foliage-inflorescences-tropical-exotic-plant-realistic-vector-illustration_16309102.htm"
+      image_url: "https://img.magnific.com/premium-vector/natural-seamless-pattern-with-miracle-tree-moringa-oleifera-leaves-blooming-flowers-botanical-backdrop-with-foliage-inflorescences-tropical-exotic-plant-realistic-vector-illustration_198278-5968.jpg"
+      title: Natural seamless pattern with miracle tree or moringa oleifera leaves and blooming flowers. botanical backdrop with foliage and inflorescences of tropical exotic plant. realistic vector illustration. | Premium Vector
+      description: Download this Premium vector of Natural seamless pattern with miracle tree or moringa oleifera leaves and blooming flowers. botanical backdrop with foliage and inflorescences of tropical exotic plant. realistic vector illustration. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: botanical-pattern-4-pattern-designers.jpg
+    title: Pink flowers decorative seamless pattern repeating background tileable wallpaper print | Premium Photo
+    alt: Pink flowers decorative seamless pattern repeating background tileable wallpaper print | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/pink-flowers-decorative-seamless-pattern-repeating-background-tileable-wallpaper-print_135130859.htm"
+      image_url: "https://img.magnific.com/premium-photo/pink-flowers-decorative-seamless-pattern-repeating-background-tileable-wallpaper-print_153302-233.jpg"
+      title: Pink flowers decorative seamless pattern repeating background tileable wallpaper print | Premium Photo
+      description: Download this Premium photo of Pink flowers decorative seamless pattern repeating background tileable wallpaper print and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Botanical Pattern

@@ -5,31 +5,21 @@ status: active
 type_group: general
 summary: Small-scale all-over floral or geometric cotton print with roots in Indian chintz and hand-block printing traditions; foundational to the European textile trade and quilting markets.
 motifs:
-  - small-floral
-  - sprig
-  - leaf
-  - vine
-  - geometric-fill
+  - Botanical
 structures:
-  - all-over
-  - tossed
-  - grid
-styles:
-  - folk
-  - country
-  - heritage
-  - printed-cotton
+  - Scatter
+styles: []
 categories:
-  - floral
-  - printed-cotton
-  - historical
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Calico Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/calico-pattern/calico-pattern-1-pattern-designers.jpg
@@ -60,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=wgRYt45A5IY
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: calico-pattern-1-pattern-designers.jpg
+    title: Canvas texture background and color trends | Premium AI-generated image
+    alt: Canvas texture background and color trends | Premium AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/canvas-texture-background-color-trends_398095159.htm"
+      image_url: "https://img.magnific.com/premium-photo/canvas-texture-background-color-trends_1203509-14039.jpg"
+      title: Canvas texture background and color trends | Premium AI-generated image
+      description: Download this Premium AI-generated image about Canvas texture background and color trends, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: calico-pattern-2-pattern-designers.jpg
+    title: Checkered fabric texture background checkered fabric texture for background horizontal | Premium AI-generated image
+    alt: Checkered fabric texture background checkered fabric texture for background horizontal | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/checkered-fabric-texture-background-checkered-fabric-texture-background-horizontal_250921123.htm"
+      image_url: "https://img.magnific.com/premium-photo/checkered-fabric-texture-background-checkered-fabric-texture-background-horizontal_1028938-165513.jpg"
+      title: Checkered fabric texture background checkered fabric texture for background horizontal | Premium AI-generated image
+      description: Download this Premium AI-generated image about Checkered fabric texture background checkered fabric texture for background horizontal, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: calico-pattern-3-pattern-designers.jpg
+    title: Fabric texture as background | Premium Photo
+    alt: Fabric texture as background | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/fabric-texture-as-background_38210781.htm"
+      image_url: "https://img.magnific.com/premium-photo/fabric-texture-as-background_392895-187594.jpg"
+      title: Fabric texture as background | Premium Photo
+      description: Download this Premium photo of Fabric texture as background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: calico-pattern-4-pattern-designers.jpg
+    title: Fabric textured | Free Photo
+    alt: Fabric textured | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/fabric-textured_11307134.htm"
+      image_url: "https://img.magnific.com/free-photo/fabric-textured_53876-94966.jpg"
+      title: Fabric textured | Free Photo
+      description: Download this free photo of Fabric textured and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Calico Pattern

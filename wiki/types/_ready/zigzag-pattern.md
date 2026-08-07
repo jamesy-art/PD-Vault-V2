@@ -4,17 +4,22 @@ slug: zigzag-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+structures:
+  - Stripe
 styles: []
-categories: []
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Zigzag Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/zigzag-pattern/zigzag-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=QbjPsdK7f_A
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: zigzag-pattern-1-pattern-designers.jpg
+    title: A black and white zigzag pattern with a zigzag pattern | Premium Vector
+    alt: A black and white zigzag pattern with a zigzag pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-white-zigzag-pattern-with-zigzag-pattern_207794724.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-white-zigzag-pattern-with-zigzag-pattern_440834-4653.jpg"
+      title: A black and white zigzag pattern with a zigzag pattern | Premium Vector
+      description: Download this Premium vector of A black and white zigzag pattern with a zigzag pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: zigzag-pattern-2-pattern-designers.jpg
+    title: Abstract triangle pattern background
+    alt: Abstract triangle pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-triangle-pattern-background_1109401.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-triangle-pattern-background_1319-155.jpg"
+      title: Abstract triangle pattern background
+      description: Download this free vector of Abstract triangle pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: zigzag-pattern-3-pattern-designers.jpg
+    title: Black zigzag background, simple pattern design vector
+    alt: Black zigzag background, simple pattern design vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_19597325.htm"
+      image_url: "https://img.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_53876-151273.jpg"
+      title: Black zigzag background, simple pattern design vector
+      description: Download this free vector of Black zigzag background, simple pattern design vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: zigzag-pattern-4-pattern-designers.jpg
+    title: Turquoise seamless zigzag pattern vector
+    alt: Turquoise seamless zigzag pattern vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/turquoise-seamless-zigzag-pattern-vector_4168464.htm"
+      image_url: "https://img.magnific.com/free-vector/turquoise-seamless-zigzag-pattern-vector_53876-89883.jpg"
+      title: Turquoise seamless zigzag pattern vector
+      description: Download this free vector of Turquoise seamless zigzag pattern vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Zigzag Pattern

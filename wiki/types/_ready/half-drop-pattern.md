@@ -6,16 +6,12 @@ type_group: structure
 summary: Repeat layout offsetting each column of tiles by 50% of the tile height; the textile industry standard for organic and floral patterns
 motifs: []
 structures:
-  - half-drop
-  - column-offset
-  - vertical-offset
-styles:
-  - organic
-  - floral
-  - botanical
+  - Half-Drop
+styles: []
 categories:
-  - repeat-structure
-  - technique
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Half Drop Pattern 2.md
@@ -23,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/half-drop-pattern/half-drop-pattern-1-pattern-designers.jpg
@@ -54,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=HVqk7XW7Bug
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: half-drop-pattern-1-pattern-designers.jpg
+    title: Flat scandinavian design pattern
+    alt: Flat scandinavian design pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-scandinavian-design-pattern_13756360.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-scandinavian-design-pattern_23-2148945769.jpg"
+      title: Flat scandinavian design pattern
+      description: Download this free vector of Flat scandinavian design pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: half-drop-pattern-2-pattern-designers.jpg
+    title: Modern fashion boho chic trendy seamless pattern vector repetitive abstract background | Premium Vector
+    alt: Modern fashion boho chic trendy seamless pattern vector repetitive abstract background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/modern-fashion-boho-chic-trendy-seamless-pattern-vector-repetitive-abstract-background_21763018.htm"
+      image_url: "https://img.magnific.com/premium-vector/modern-fashion-boho-chic-trendy-seamless-pattern-vector-repetitive-abstract-background_87538-2189.jpg"
+      title: Modern fashion boho chic trendy seamless pattern vector repetitive abstract background | Premium Vector
+      description: Download this Premium vector of Modern fashion boho chic trendy seamless pattern vector repetitive abstract background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: half-drop-pattern-3-pattern-designers.jpg
+    title: Seamless decorative floral background
+    alt: Seamless decorative floral background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-decorative-floral-background_712087.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-decorative-floral-background_23-2147489829.jpg"
+      title: Seamless decorative floral background
+      description: Download this free vector of Seamless decorative floral background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: half-drop-pattern-4-pattern-designers.jpg
+    title: Water droplets background thick to thin
+    alt: Water droplets background thick to thin
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/water-droplets-background-thick-thin_166267553.htm"
+      image_url: "https://img.magnific.com/free-vector/water-droplets-background-thick-thin_78370-5254.jpg"
+      title: Water droplets background thick to thin
+      description: Download this free vector of Water droplets background thick to thin and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Half Drop Pattern

@@ -1,0 +1,135 @@
+{
+  "capture_id": "cap-clip-dfbd60099f6bded0",
+  "canonical_id": "can-clip-dfbd60099f6bded0",
+  "editorial_slug": "culp-inc-textile-designer",
+  "content_hash": "b128d20ba4dddf4f053cb79996dfd8b91f4afd30969c22d5eac154aa66cb5847",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Textile Designer",
+  "company": "Culp, Inc.",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-dfbd60099f6bded0"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/Textile Designer - Stokesdale, NC 27357.md"
+    ],
+    "original_title": "Textile Designer - Stokesdale, NC 27357",
+    "original_url": "https://www.indeed.com/viewjob?jk=f9a7fd51b4fe531b&from=shareddesktop_copy",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "cf9fd7f6d8cd9611eb1669615740ea9cf57ea719c48078e5f731883ca0b5414d",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": "Culp, Inc.",
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/Textile Designer - Stokesdale, NC 27357.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": null,
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-textile-design",
+        "slug": "textile-design",
+        "label": "Textile Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sk-trend-research",
+        "slug": "trend-research",
+        "label": "Trend Research",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [],
+    "country": {
+      "id": "ct-us",
+      "slug": "us",
+      "label": "United States",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": null,
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 90,
+  "quality_status": "pass_with_warnings"
+}

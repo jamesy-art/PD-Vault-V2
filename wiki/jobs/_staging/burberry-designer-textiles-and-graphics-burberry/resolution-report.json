@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-490d229cfe0e2db0",
+  "canonical_id": "can-clip-490d229cfe0e2db0",
+  "canonical_path": "wiki/jobs/_staging/burberry-designer-textiles-and-graphics-burberry",
+  "resolved": [
+    "company:Burberry",
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United Kingdom",
+    "location:London"
+  ],
+  "needs_review": [
+    "software:Adobe Creative Suite",
+    "skills:Graphic Design",
+    "skills:Illustration"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 9,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 56,
+    "software": 1,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 59,
+  "resolution_quality": 75,
+  "message": "Resolved"
+}

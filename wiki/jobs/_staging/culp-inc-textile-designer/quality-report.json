@@ -1,0 +1,290 @@
+{
+  "ok": true,
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 90,
+  "quality_status": "pass_with_warnings",
+  "capture_id": "cap-clip-dfbd60099f6bded0",
+  "canonical_id": "can-clip-dfbd60099f6bded0",
+  "canonical_path": "wiki/jobs/_staging/culp-inc-textile-designer",
+  "scores": {
+    "structure": 100,
+    "metadata": 96,
+    "relationships": 65,
+    "provenance": 100,
+    "overall": 90
+  },
+  "blocking_errors": [],
+  "warnings": [
+    {
+      "severity": "warning",
+      "code": "section_overview_missing",
+      "message": "Missing or empty ## Overview",
+      "path": "body.## Overview",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "section_responsibilities_missing",
+      "message": "Missing or empty ## Responsibilities",
+      "path": "body.## Responsibilities",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "section_requirements_missing",
+      "message": "Missing or empty ## Requirements",
+      "path": "body.## Requirements",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: company:Culp, Inc.",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: software:Adobe Creative Suite",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: software:EAT CAD",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:Colour",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:CAD",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: location:Stokesdale",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: location:Stokesdale, NC, United States",
+      "path": "resolution.needs_review",
+      "blocking": false
+    }
+  ],
+  "infos": [
+    {
+      "severity": "info",
+      "code": "url_duplicate",
+      "message": "Duplicate URL: https://www.indeed.com/viewjob?jk=f9a7fd51b4fe531b&from=shareddesktop_copy",
+      "path": "body",
+      "blocking": false
+    },
+    {
+      "severity": "info",
+      "code": "section_empty",
+      "message": "Empty section: Overview",
+      "path": "body.## Overview",
+      "blocking": false
+    }
+  ],
+  "validator_results": [
+    {
+      "validator": "attachments",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "completeness",
+      "version": "1.0.0",
+      "score": 85,
+      "scoreBucket": "metadata",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "section_overview_missing",
+          "message": "Missing or empty ## Overview",
+          "path": "body.## Overview",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "section_responsibilities_missing",
+          "message": "Missing or empty ## Responsibilities",
+          "path": "body.## Responsibilities",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "section_requirements_missing",
+          "message": "Missing or empty ## Requirements",
+          "path": "body.## Requirements",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "job_contract",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "metadata",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "links",
+      "version": "1.0.0",
+      "score": 99,
+      "scoreBucket": "metadata",
+      "issues": [
+        {
+          "severity": "info",
+          "code": "url_duplicate",
+          "message": "Duplicate URL: https://www.indeed.com/viewjob?jk=f9a7fd51b4fe531b&from=shareddesktop_copy",
+          "path": "body",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "ocr",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "provenance",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "relationships",
+      "version": "1.0.0",
+      "score": 65,
+      "scoreBucket": "relationships",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: company:Culp, Inc.",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: software:Adobe Creative Suite",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: software:EAT CAD",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:Colour",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:CAD",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: location:Stokesdale",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: location:Stokesdale, NC, United States",
+          "path": "resolution.needs_review",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "structure",
+      "version": "1.0.0",
+      "score": 99,
+      "scoreBucket": "structure",
+      "issues": [
+        {
+          "severity": "info",
+          "code": "section_empty",
+          "message": "Empty section: Overview",
+          "path": "body.## Overview",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "template",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "structure",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "yaml",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "metadata",
+      "issues": [],
+      "duration_ms": 1
+    }
+  ],
+  "validator_timings": {
+    "attachments": 0,
+    "completeness": 0,
+    "job_contract": 0,
+    "links": 0,
+    "ocr": 0,
+    "provenance": 0,
+    "relationships": 0,
+    "structure": 0,
+    "template": 0,
+    "yaml": 1
+  },
+  "duration_ms": 3,
+  "message": "Pass with warnings — eligible for Editorial Review"
+}

@@ -4,17 +4,23 @@ slug: trellis-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+structures:
+  - Lattice
+styles:
+  - Arts & Crafts
+categories:
+  - Botanical
+colour_family: Green
+technique: []
 source_count: 1
 source_files:
   - Trellis Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/trellis-pattern/trellis-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=BjNaDfs4AcM
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: trellis-pattern-1-pattern-designers.jpg
+    title: Beige seamless pattern
+    alt: Beige seamless pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/beige-seamless-pattern_1110543.htm"
+      image_url: "https://img.magnific.com/free-vector/beige-seamless-pattern_1069-143.jpg"
+      title: Beige seamless pattern
+      description: Download this free vector of Beige seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: trellis-pattern-2-pattern-designers.jpg
+    title: Simple geometric pattern design template | Premium Vector
+    alt: Simple geometric pattern design template | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/simple-geometric-pattern-design-template_36187718.htm"
+      image_url: "https://img.magnific.com/premium-vector/simple-geometric-pattern-design-template_794493-8.jpg"
+      title: Simple geometric pattern design template | Premium Vector
+      description: Download this Premium vector of Simple geometric pattern design template and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: trellis-pattern-3-pattern-designers.jpg
+    title: Vintage stylish trellis decorative seamless pattern, geometric background. | Premium Vector
+    alt: Vintage stylish trellis decorative seamless pattern, geometric background. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vintage-stylish-trellis-decorative-seamless-pattern-geometric-background_20410631.htm"
+      image_url: "https://img.magnific.com/premium-vector/vintage-stylish-trellis-decorative-seamless-pattern-geometric-background_231786-4890.jpg"
+      title: Vintage stylish trellis decorative seamless pattern, geometric background. | Premium Vector
+      description: Download this Premium vector of Vintage stylish trellis decorative seamless pattern, geometric background. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: trellis-pattern-4-pattern-designers.jpg
+    title: Vintage_pattern_5
+    alt: Vintage_pattern_5
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vintage-pattern-5_69110457.htm"
+      image_url: "https://img.magnific.com/free-vector/vintage-pattern-5_8130-2732.jpg"
+      title: Vintage_pattern_5
+      description: Download this free vector of Vintage_pattern_5 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Trellis Pattern

@@ -6,8 +6,12 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Minimalist
+categories:
+  - Colour
+colour_family: White
+technique: []
 source_count: 2
 source_files:
   - White Pattern 2.md
@@ -15,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/white-pattern/white-pattern-1-pattern-designers.jpg
@@ -46,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=KmvMGgL88Ms
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: white-pattern-1-pattern-designers.jpg
+    title: Abstract background with a monochrome low poly design
+    alt: Abstract background with a monochrome low poly design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-with-monochrome-low-poly-design_16704224.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-with-monochrome-low-poly-design_1048-14453.jpg"
+      title: Abstract background with a monochrome low poly design
+      description: Download this free vector of Abstract background with a monochrome low poly design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: white-pattern-2-pattern-designers.jpg
+    title: Abstract seamless geometric shape lines pattern design background
+    alt: Abstract seamless geometric shape lines pattern design background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-seamless-geometric-shape-lines-pattern-design-background_386291308.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-seamless-geometric-shape-lines-pattern-design-background_84443-23990.jpg"
+      title: Abstract seamless geometric shape lines pattern design background
+      description: Download this free vector of Abstract seamless geometric shape lines pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: white-pattern-3-pattern-designers.jpg
+    title: Geometric background vector in white cube patterns
+    alt: Geometric background vector in white cube patterns
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/geometric-background-vector-white-cube-patterns_17225059.htm"
+      image_url: "https://img.magnific.com/free-vector/geometric-background-vector-white-cube-patterns_53876-126683.jpg"
+      title: Geometric background vector in white cube patterns
+      description: Download this free vector of Geometric background vector in white cube patterns and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: white-pattern-4-pattern-designers.jpg
+    title: Hexagonal patterned background | Premium Vector
+    alt: Hexagonal patterned background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/hexagonal-patterned-background_65290053.htm"
+      image_url: "https://img.magnific.com/premium-vector/hexagonal-patterned-background_129696-569.jpg"
+      title: Hexagonal patterned background | Premium Vector
+      description: Download this Premium vector of Hexagonal patterned background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # White Pattern

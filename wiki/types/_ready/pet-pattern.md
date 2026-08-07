@@ -5,34 +5,22 @@ status: active
 type_group: novelty
 summary: Surface pattern using domestic animal companion motifs — primarily cats, dogs, and birds — as repeating decorative elements; commercially active in gifting, stationery, children's products, and custom merchandise
 motifs:
-  - cat
-  - dog
-  - rabbit
-  - bird
-  - paw print
-  - pet portrait
-  - animal face
+  - Animal
 structures:
-  - tossed
-  - all-over
-  - portrait-grid
+  - Scatter
 styles:
-  - novelty
-  - conversational
-  - playful
-  - cute
+  - Kawaii
 categories:
-  - novelty
-  - animal-pattern
-  - children's
-  - gifting
+  - Animal
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Pet Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pet-pattern/pet-pattern-1-pattern-designers.jpg
@@ -63,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=MLgztbkq6Rk
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pet-pattern-1-pattern-designers.jpg
+    title: Adorable cat pattern vector purrfectly cute designs cute pet pattern | Premium Vector
+    alt: Adorable cat pattern vector purrfectly cute designs cute pet pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/adorable-cat-pattern-vector-purrfectly-cute-designs-cute-pet-pattern_72664150.htm"
+      image_url: "https://img.magnific.com/premium-vector/adorable-cat-pattern-vector-purrfectly-cute-designs-cute-pet-pattern_751796-576.jpg"
+      title: Adorable cat pattern vector purrfectly cute designs cute pet pattern | Premium Vector
+      description: Download this Premium vector of Adorable cat pattern vector purrfectly cute designs cute pet pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pet-pattern-2-pattern-designers.jpg
+    title: Adorable dog pattern | Premium PSD
+    alt: Adorable dog pattern | Premium PSD
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-psd/adorable-dog-pattern_415007870.htm"
+      image_url: "https://img.magnific.com/premium-psd/adorable-dog-pattern_737135-847.jpg"
+      title: Adorable dog pattern | Premium PSD
+      description: Download this Premium PSD of Adorable dog pattern and explore millions of professional PSD files on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pet-pattern-3-pattern-designers.jpg
+    title: Childish seamless pattern with funny dogs | Premium Vector
+    alt: Childish seamless pattern with funny dogs | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/childish-seamless-pattern-with-funny-dogs_24465818.htm"
+      image_url: "https://img.magnific.com/premium-vector/childish-seamless-pattern-with-funny-dogs_263670-953.jpg"
+      title: Childish seamless pattern with funny dogs | Premium Vector
+      description: Download this Premium vector of Childish seamless pattern with funny dogs and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pet-pattern-4-pattern-designers.jpg
+    title: Seamless dog pattern with paw prints bones hearts and balls cat foot texture pattern with doggy | Premium Vector
+    alt: Seamless dog pattern with paw prints bones hearts and balls cat foot texture pattern with doggy | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-dog-pattern-with-paw-prints-bones-hearts-balls-cat-foot-texture-pattern-with-doggy_23406725.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-dog-pattern-with-paw-prints-bones-hearts-balls-cat-foot-texture-pattern-with-doggy_192280-793.jpg"
+      title: Seamless dog pattern with paw prints bones hearts and balls cat foot texture pattern with doggy | Premium Vector
+      description: Download this Premium vector of Seamless dog pattern with paw prints bones hearts and balls cat foot texture pattern with doggy and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Pet Pattern

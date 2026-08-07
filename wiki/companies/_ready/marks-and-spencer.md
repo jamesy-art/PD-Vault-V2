@@ -1,173 +1,136 @@
 ---
+company_uid: bd3635d7-18ec-4085-83f0-df1f29ff2706
+schema_version: 1
 name: Marks & Spencer
 slug: marks-and-spencer
-status: draft
-company_type: Brand
-location: United Kingdom
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
+  - accessories
+  - beauty
+  - eyewear
+  - fashion
+  - home
+  - jewellery
+  - kids
+  - luxury
+  - outdoor
+  - retail
+  - sport
+markets:
+  - womenswear
+  - menswear
+  - kidswear
+  - running
+  - outdoor
+  - gym_training
+  - lifestyle
+  - workwear
+  - luxury
+products:
+  - footwear
+  - apparel
+  - activewear
+  - accessories
+  - bags
+  - jewellery
+  - beauty
+  - fragrance
+  - home
+  - eyewear
+  - swimwear
+  - lingerie
+  - kidswear
+hq_country_code: GB
+location: United Kingdom
+founded_year: 1884
+employee_count_text: 65,000
+revenue_text: $16B
+website_url: https://www.marksandspencer.com
+instagram_url: https://www.instagram.com/marksandspencer
+linkedin_url: https://www.linkedin.com/company/marks-and-spencer/
+facebook_url: https://www.facebook.com/MarksandSpencer
+pinterest_url: https://www.pinterest.com/marksandspencer
+youtube_url: https://www.youtube.com/marksandspencertv
 type_slugs: []
-website: https://www.marksandspencer.com
-instagram: https://www.instagram.com/marksandspencer
-linkedin: https://www.linkedin.com/company/marks-and-spencer/
-facebook: https://www.facebook.com/MarksandSpencer
-founded: "1884"
-headquarters: United Kingdom
-employees: 65,000
-revenue: $16B
-category_images:
-  - label: "Boys"
-    category: "boys"
-    image: "../../assets/companies/marks-and-spencer/cat/marks-and-spencer-boys.jpg"
-  - label: "Girls"
-    category: "girls"
-    image: "../../assets/companies/marks-and-spencer/cat/marks-and-spencer-girls.jpg"
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/marks-and-spencer/cat/marks-and-spencer-mens.jpg"
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/marks-and-spencer/cat/marks-and-spencer-womens.jpg"
-source_file: Marks & Spencer.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-10
-updated: 2026-06-11
-about_url: https://www.marksandspencer.com/l/kids/all-characters/fs5/toy-story-tm
-sustainability_url: https://www.marksandspencer.com/content/look-behind-the-label
-contact_url: https://www.marksandspencer.com/c/help-and-support
-store_locator_url: https://www.marksandspencer.com/webapp/wcs/stores/servlet/MSMyAccountView
-returns_url: https://www.marksandspencer.com/help-and-support/returns-and-refunds
-shipping_url: https://www.marksandspencer.com/help-and-support/collection-and-delivery
-pinterest: https://www.pinterest.com/marksandspencer
-youtube: https://www.youtube.com/marksandspencertv
-retail_categories:
-  - Shoes
-  - Clothing
-  - Tops
-  - Bottoms
-  - Dresses & Jumpsuits
-  - Coats & Jackets
-  - Activewear
-  - Matching Sets
-  - Accessories
-  - Bags
-  - Jewellery
-  - Beauty
-  - Fragrance
-  - Home
-  - Eyewear
-  - Swimwear
-  - Lingerie
-  - Kidswear
-market_categories:
-  - Womenswear
-  - Menswear
-  - Kidswear
-  - Running
-  - Outdoor
-  - Gym & Training
-  - Lifestyle
-  - Workwear
-  - Luxury
-collections: []
-profile_image: ../../assets/companies/marks-and-spencer/profile/1781530240842.jpeg
-profile_image_local: ../../assets/companies/marks-and-spencer/profile/1781530240842.jpeg
-company_logo_selected: ../../assets/companies/marks-and-spencer/profile/1781530240842.jpeg
-logo_image_selected: ../../assets/companies/marks-and-spencer/profile/1781530240842.jpeg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/marks-and-spencer/profile/1781530240842.jpeg
 images:
-  profile:
-    - ../../assets/companies/marks-and-spencer/profile/1781530240842.jpeg
-trk_reviewed: false
-trk_notes: ""
-trk_new: https://www.marksandspencer.com/food/l/new-in
-trk_women: https://www.marksandspencer.com/c/women
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: https://www.marksandspencer.com/l/women/dresses
-trk_women_tops: https://www.marksandspencer.com/l/women/tops
-trk_women_bottoms: https://www.marksandspencer.com/l/women/jeans
-trk_women_outerwear: https://www.marksandspencer.com/l/women/coats-and-jackets
-trk_women_activewear: https://www.marksandspencer.com/l/women/sportswear
-trk_women_swimwear: https://www.marksandspencer.com/l/women/swimwear
-trk_women_shoes: https://www.marksandspencer.com/l/women/shoes
-trk_women_bags: https://www.marksandspencer.com/l/women/handbags
-trk_women_acc: https://www.marksandspencer.com/l/women/accessories
-trk_men: https://www.marksandspencer.com/c/men
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: https://www.marksandspencer.com/l/men/mens-tops
-trk_men_bottoms: https://www.marksandspencer.com/l/men/mens-jeans
-trk_men_outerwear: https://www.marksandspencer.com/l/men/mens-coats-and-jackets
-trk_men_activewear: https://www.marksandspencer.com/l/men/mens-sportswear
-trk_men_swimwear: https://www.marksandspencer.com/l/men/mens-swimwear
-trk_men_shoes: https://www.marksandspencer.com/l/men/mens-shoes
-trk_men_bags: https://www.marksandspencer.com/l/men/mens-accessories/mens-bags
-trk_men_acc: https://www.marksandspencer.com/l/men/mens-accessories
-trk_girls: https://www.marksandspencer.com/l/kids/girls
-trk_girls_new: ""
-trk_girls_clothing: https://www.marksandspencer.com/l/kids/girls/coats
-trk_girls_dresses: https://www.marksandspencer.com/l/kids/girls/dresses
-trk_girls_tops: https://www.marksandspencer.com/l/kids/girls/tops
-trk_girls_bottoms: https://www.marksandspencer.com/l/kids/girls/jeans
-trk_girls_shoes: https://www.marksandspencer.com/l/kids/girls/footwear/sandals
-trk_boys: https://www.marksandspencer.com/l/kids/boys
-trk_boys_new: ""
-trk_boys_clothing: https://www.marksandspencer.com/l/kids/boys/coats
-trk_boys_tops: https://www.marksandspencer.com/l/kids/boys/tops
-trk_boys_bottoms: https://www.marksandspencer.com/l/kids/boys/jeans
-trk_boys_shoes: https://www.marksandspencer.com/l/kids/boys/footwear/sandals
-trk_baby_girls: https://www.marksandspencer.com/l/kids/baby/fs5/girls
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: https://www.marksandspencer.com/l/kids/baby/fs5/boys
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: https://www.marksandspencer.com/c/home-and-furniture
-trk_home_new: https://www.marksandspencer.com/l/gifts/plants/fs5/new-home-1
-trk_home_bedding: https://www.marksandspencer.com/l/home-and-furniture/bedding
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: https://www.marksandspencer.com/c/beauty
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://ui.awin.com/merchant-profile/1402
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/marks-and-spencer/profile/marks-and-spencer-logo.jpeg
+    alt: Marks & Spencer logo
+    width: 1106
+    height: 1106
+  gallery:
+    - title: Boys
+      alt: Marks & Spencer boys collection
+      path: ../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-boys.jpg
+      width: 2560
+      height: 3328
+      source:
+        title: Boys
+        page_url: https://www.marksandspencer.com/l/kids/boys
+      affiliate:
+        enabled: false
+        url: null
+    - title: Girls
+      alt: Marks & Spencer girls collection
+      path: ../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-girls.jpg
+      width: 2560
+      height: 3328
+      source:
+        title: Girls
+        page_url: https://www.marksandspencer.com/l/kids/girls
+      affiliate:
+        enabled: false
+        url: null
+    - title: Mens
+      alt: Marks & Spencer mens collection
+      path: ../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-mens.jpg
+      width: 2560
+      height: 3328
+      source:
+        title: Mens
+        page_url: https://www.marksandspencer.com/c/men
+      affiliate:
+        enabled: false
+        url: null
+    - title: Womens
+      alt: Marks & Spencer womens collection
+      path: ../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-womens.jpg
+      width: 2560
+      height: 3328
+      source:
+        title: Womens
+        page_url: https://www.marksandspencer.com/c/women
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Marks & Spencer
 
 ## Profile Image
 
-![pd-profile|160](1781530240842.jpeg)
+![Profile](../../assets/companies/marks-and-spencer/profile/marks-and-spencer-logo.jpeg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Boys | <img src="../../assets/companies/marks-and-spencer/cat/marks-and-spencer-boys.jpg" width="160"> |
-| Girls | <img src="../../assets/companies/marks-and-spencer/cat/marks-and-spencer-girls.jpg" width="160"> |
-| Mens | <img src="../../assets/companies/marks-and-spencer/cat/marks-and-spencer-mens.jpg" width="160"> |
-| Womens | <img src="../../assets/companies/marks-and-spencer/cat/marks-and-spencer-womens.jpg" width="160"> |
-
-
-Major British multinational retailer. Founded Leeds 1884 (Michael Marks + Thomas Spencer). Specialises in clothing, beauty, home, and food. Listed on the London Stock Exchange; FTSE 100 constituent. HQ Paddington Basin, London. Revenue £13.8 billion (2025); target estate 180 full-line and 420 food stores in the UK. Global franchise presence across Asia, Middle East, Europe.
+| Title | Preview |
+|-------|---------|
+| Boys | ![](../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-boys.jpg) |
+| Girls | ![](../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-girls.jpg) |
+| Mens | ![](../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-mens.jpg) |
+| Womens | ![](../../assets/companies/marks-and-spencer/gallery/marks-and-spencer-womens.jpg) |
 
 ## Overview
 
 Marks and Spencer plc (M&S) is a major British multinational retailer headquartered in London. Founded in 1884 as a penny bazaar on Kirkgate Market in Leeds by Michael Marks (Polish-Jewish immigrant from Slonim, Belarus) and Thomas Spencer (cashier from Skipton, North Yorkshire), M&S grew from market stalls into one of the UK's largest retailers. The company built its reputation on a policy of selling 99% British-made goods, maintained until the 1990s, supported by long-term relationships with British manufacturers. Textiles were first sold in 1926; food followed in 1931. M&S became the first British retailer to make a pre-tax profit of more than £1 billion in 1998. Turnover for the 52 weeks ended 29 March 2025 was £13.8 billion. The company targets a UK estate of 180 full-line and 420 food stores. An April 2025 ransomware cyber attack (attributed to Scattered Spider) caused estimated losses of up to £300 million; online ordering was restored June 2025.
 
-## Company Profile
+Own-brand clothing design across multiple sub-brands (Per Una, Autograph, Indigo, Best of British, Limited Edition). No single named creative director for clothing is documented; the Per Una range had George Davies as its original designer-director (2001–2004). The 2002 introduction of Per Una is documented as the primary mechanism by which M&S attempted to reintroduce distinct fashion design into its clothing range after womenswear sales hit a 10-year low in 2010. Current CEO Stuart Machin has led a recovery strategy that includes fabric quality and clothing design investment alongside food transformation.
+
+## History
 
 Simon Marks (son of Michael) became chairman in 1916 and transformed penny bazaars into a national retail chain. The "St Michael" own brand was introduced in 1928 and extended to food in 1941, replacing all other brands by 1956. The brand was retired in 2000 and partially restored as an emblem in 2021. By 1950, virtually all goods were sold under the St Michael label.
 
@@ -175,13 +138,17 @@ Key corporate events: Brooks Brothers (American clothing company) acquired 1988;
 
 CEO succession: Stuart Rose 2004–2010; Marc Bolland 2010–2016; Steve Rowe 2016–2022; Stuart Machin 2022–present.
 
-## Market Position
-
-UK's largest standalone clothing and food retailer by a range of measures. Historical reputation for British quality goods, value for money, and long-term supplier relationships (99% British-made goods policy until 1990s). Ongoing strategic shift: closing lower-performing full-line stores while opening food-only and food convenience formats; 150 full-line stores identified for closure by end 2026. International presence through franchise in 40+ overseas markets (Turkey 45 stores; India 85; Hong Kong 22; Greece 27; Saudi Arabia 17). Lingerie notable: lingerie accounts for more than a fifth of M&S sales in the Indian market (as of late 2013). Sub-brands: Per Una (womenswear), Autograph, Limited Edition, Classic Collection, Best of British (launched 2013).
-
-## Products and Categories
+## Products
 
 Clothing (women's, men's, children's — including school uniform and activewear); beauty products; home furnishings; food. Clothing sub-brands include Per Una, Autograph, Indigo, Best of British, and the Holly Willoughby 'Must Have' collection (launched September 2018). Dedicated home furnishings stores launched 2007 (Cheltenham, Royal Tunbridge Wells, Lisburn Sprucefield, Trafford Centre Manchester). Food sold through full-line stores, M&S Foodhall supermarkets, Simply Food convenience format (franchised via SSP Group, Moto, BP, Applegreen), and Ocado online. M&S also provides M&S Bank (operated by HSBC UK), M&S Travel Money (Eurochange), and M&S Opticians.
+
+## Services
+
+Own-retail model (full-line stores, Foodhall, Simply Food convenience format) supplemented by franchise in 40+ international markets. Ocado joint venture for online food delivery. No outbound clothing or textile licensing is documented in the source material. The Jaeger brand acquisition (2021) and Thread IP acquisition (2022) are inbound brand/technology acquisitions, not licensing. Sub-brand buying programme: M&S built brand equity through own-brand commissioning rather than external licensing, maintaining the St Michael and subsequent labels as internal design and sourcing marks.
+
+## Markets
+
+UK's largest standalone clothing and food retailer by a range of measures. Historical reputation for British quality goods, value for money, and long-term supplier relationships (99% British-made goods policy until 1990s). Ongoing strategic shift: closing lower-performing full-line stores while opening food-only and food convenience formats; 150 full-line stores identified for closure by end 2026. International presence through franchise in 40+ overseas markets (Turkey 45 stores; India 85; Hong Kong 22; Greece 27; Saudi Arabia 17). Lingerie notable: lingerie accounts for more than a fifth of M&S sales in the Indian market (as of late 2013). Sub-brands: Per Una (womenswear), Autograph, Limited Edition, Classic Collection, Best of British (launched 2013).
 
 ## Pattern and Surface Design Relevance
 
@@ -208,33 +175,10 @@ Each represents M&S commissioning or pioneering new fabric technologies as part 
 
 **Sourcing offices**: M&S maintains overseas sourcing offices in Malaysia, Hong Kong, Thailand, India, Bangladesh, Turkey, mainland China, Ireland, Italy, Indonesia, and Sri Lanka — the complete geography of global textile production, confirming that fabric and garment sourcing is a core operational discipline.
 
-## Design Direction
+## Official Resources
 
-Own-brand clothing design across multiple sub-brands (Per Una, Autograph, Indigo, Best of British, Limited Edition). No single named creative director for clothing is documented; the Per Una range had George Davies as its original designer-director (2001–2004). The 2002 introduction of Per Una is documented as the primary mechanism by which M&S attempted to reintroduce distinct fashion design into its clothing range after womenswear sales hit a 10-year low in 2010. Current CEO Stuart Machin has led a recovery strategy that includes fabric quality and clothing design investment alongside food transformation.
-
-## Retail and Licensing Context
-
-Own-retail model (full-line stores, Foodhall, Simply Food convenience format) supplemented by franchise in 40+ international markets. Ocado joint venture for online food delivery. No outbound clothing or textile licensing is documented in the source material. The Jaeger brand acquisition (2021) and Thread IP acquisition (2022) are inbound brand/technology acquisitions, not licensing. Sub-brand buying programme: M&S built brand equity through own-brand commissioning rather than external licensing, maintaining the St Michael and subsequent labels as internal design and sourcing marks.
-
-## Related Pattern Types
-
-- British own-brand textile and clothing design (St Michael label, 1928–2000)
-- Synthetic fabric innovation applied to clothing (Tricell 1957, Courtelle 1960)
-- Machine-washable wool garment construction (1972)
-- Lycra hosiery (1986)
-- Womenswear decorative print direction (Per Una, from 2001)
-- Home textile surface design (home furnishings division, from 2007)
-
-## Related Companies
-
-- Ocado (food delivery joint venture, 50% stake from 2019)
-- George Davies / Next (Per Una design partnership 2001–2004)
-- Jaeger (fashion brand acquired January 2021)
-- Thread (fashion marketplace IP acquired November 2022)
-- Reliance Retail (India franchise partner)
-- Brooks Brothers (acquired 1988; sold separately)
-
-## Source Notes
-
-- Wikipedia: Marks & Spencer — https://en.wikipedia.org/wiki/Marks_%26_Spencer
-
+- [About](https://www.marksandspencer.com/l/kids/all-characters/fs5/toy-story-tm)
+- [Contact](https://www.marksandspencer.com/c/help-and-support)
+- [Sustainability](https://www.marksandspencer.com/content/look-behind-the-label)
+- [Store locator](https://www.marksandspencer.com/webapp/wcs/stores/servlet/MSMyAccountView)
+- [Wikipedia](https://en.wikipedia.org/wiki/Marks_%26_Spencer)

@@ -5,16 +5,21 @@ status: draft
 type_group: general
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Tessellation
+  - Symmetry
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Patterns in nature.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/patterns-in-nature/patterns-in-nature-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=IGKLZ3NO9Qk
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: patterns-in-nature-1-pattern-designers.jpg
+    title: Brown crocodile texture | Free Photo
+    alt: Brown crocodile texture | Free Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/brown-crocodile-texture_26093903.htm"
+      image_url: "https://img.magnific.com/free-photo/brown-crocodile-texture_628469-300.jpg"
+      title: Brown crocodile texture | Free Photo
+      description: Download this free photo of Brown crocodile texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: patterns-in-nature-2-pattern-designers.jpg
+    title: Detail of a green leaf | Free Photo
+    alt: Detail of a green leaf | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/detail-green-leaf_4872282.htm"
+      image_url: "https://img.magnific.com/free-photo/detail-green-leaf_23-2148211956.jpg"
+      title: Detail of a green leaf | Free Photo
+      description: Download this free photo of Detail of a green leaf and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: patterns-in-nature-3-pattern-designers.jpg
+    title: "Reptilian scales pattern | AI-generated image"
+    alt: "Reptilian scales pattern | AI-generated image"
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/reptilian-scales-pattern_413157829.htm"
+      image_url: "https://img.magnific.com/free-photo/reptilian-scales-pattern_23-2151938535.jpg"
+      title: "Reptilian scales pattern | AI-generated image"
+      description: "Download this free AI-generated image about Reptilian scales pattern, and discover more than 150 million professional graphic resources on Magnific"
+    affiliate:
+      enabled: false
+      url: null
+  - path: patterns-in-nature-4-pattern-designers.jpg
+    title: Vertical shot of the patterns on the sands in the desert | Free Photo
+    alt: Vertical shot of the patterns on the sands in the desert | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/vertical-shot-patterns-sands-desert_13006833.htm"
+      image_url: "https://img.magnific.com/free-photo/vertical-shot-patterns-sands-desert_181624-29789.jpg"
+      title: Vertical shot of the patterns on the sands in the desert | Free Photo
+      description: Download this free photo of Vertical shot of the patterns on the sands in the desert and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Patterns in nature
@@ -113,7 +179,7 @@ The study of pattern in nature connects mathematical science to design practice.
 
 ## Related Pattern Types
 
-[[Geometric Pattern]], [[Animal Print]], [[Floral Pattern]], [[Botanical Print]], [[Wave Pattern]], [[Leopard Pattern]], [[Fractal Pattern]], [[wiki/types/_staging/pattern]]
+[[Geometric Pattern]], [[Animal Print]], [[Floral Pattern]], [[Botanical Print]], [[Wave Pattern]], [[Leopard Pattern]], [[Fractal Pattern]], [[wiki/types/_ready/pattern]]
 
 ## Source Notes
 

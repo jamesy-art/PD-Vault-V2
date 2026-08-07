@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-6381ed772c3ff783",
+  "canonical_id": "can-clip-6381ed772c3ff783",
+  "ready_id": "ready-clip-6381ed772c3ff783",
+  "ready_slug": "whistlefish-middleweight-illustrator",
+  "canonical_path": "wiki/jobs/_staging/whistlefish-middleweight-illustrator",
+  "ready_path": "wiki/jobs/_ready/whistlefish-middleweight-illustrator",
+  "export_source": "wiki/jobs/_ready/whistlefish-middleweight-illustrator",
+  "idempotent_hit": false,
+  "validations": [
+    "yaml_valid",
+    "canonical_id_present",
+    "capture_id_present",
+    "provenance_present",
+    "markdown_present",
+    "quality_pass",
+    "resolution_report_present",
+    "resolution_complete",
+    "editorial_review_complete",
+    "attachments_checked"
+  ],
+  "warnings": [
+    "Quality Report contains warnings (allowed)",
+    "Resolution needs review: 3 item(s)"
+  ],
+  "errors": [],
+  "duration_ms": 4,
+  "editorial_hash": "d8ebf2b21e1022bf0a778d454b45fb26e9c7e882bd6a0ad9de9a82eb1938642c",
+  "ready_version": "1.d8ebf2b2",
+  "promotion_version": "1.0.0",
+  "mode": "changed",
+  "legacy_cli": false,
+  "rewritten_links_count": 1,
+  "rewritten_image_count": 0,
+  "rewritten_markdown_links": 0,
+  "rewritten_frontmatter_paths": 1,
+  "rewritten_wikilinks": 0,
+  "message": "Promoted to Ready"
+}

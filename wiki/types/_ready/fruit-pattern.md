@@ -4,17 +4,24 @@ slug: fruit-pattern
 status: draft
 type_group: floral
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+structures:
+  - Scatter
+  - Stripe
+styles:
+  - Arts & Crafts
+categories:
+  - Food
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Fruit Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/fruit-pattern/fruit-pattern-1-pattern-designers.jpg
@@ -44,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=gryrZ7CXcG8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: fruit-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00016.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00016.jpg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00016.jpg/500px-Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00016.jpg?_=20181210063423"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00016.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/8/8c/Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00016.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: fruit-pattern-2-pattern-designers.jpg
+    title: Colorful drawn fruits pattern
+    alt: Colorful drawn fruits pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/colorful-drawn-fruits-pattern_9260198.htm"
+      image_url: "https://img.magnific.com/free-vector/colorful-drawn-fruits-pattern_52683-42826.jpg"
+      title: Colorful drawn fruits pattern
+      description: Download this free vector of Colorful drawn fruits pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: fruit-pattern-3-pattern-designers.jpg
+    title: Seamless pattern with cute summer fruit background | Premium Vector
+    alt: Seamless pattern with cute summer fruit background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-cute-summer-fruit-background_28544169.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-cute-summer-fruit-background_263670-1379.jpg"
+      title: Seamless pattern with cute summer fruit background | Premium Vector
+      description: Download this Premium vector of Seamless pattern with cute summer fruit background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: fruit-pattern-4-pattern-designers.jpg
+    title: Seamless vector pattern with fruit and berry fruits wallpaper with strawberry lemon cherry | Premium Vector
+    alt: Seamless vector pattern with fruit and berry fruits wallpaper with strawberry lemon cherry | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-vector-pattern-with-fruit-berry-fruits-wallpaper-with-strawberry-lemon-cherry_77333584.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-vector-pattern-with-fruit-berry-fruits-wallpaper-with-strawberry-lemon-cherry_631222-385.jpg"
+      title: Seamless vector pattern with fruit and berry fruits wallpaper with strawberry lemon cherry | Premium Vector
+      description: Download this Premium vector of Seamless vector pattern with fruit and berry fruits wallpaper with strawberry lemon cherry and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Fruit Pattern

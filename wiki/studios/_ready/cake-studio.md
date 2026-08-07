@@ -1,23 +1,25 @@
 ---
-name: "Cake Studio"
-slug: "cake-studio"
-email: "info@cakestudios.co.uk"
-description: >-
-  Cake Studio is a London-based printed textile design studio producing original prints for womenswear and lifestyle markets. The studio works with fashion houses, retailers, and manufacturers across the UK, Europe, the US, South America, Australia, and the Far East.
-website_url: "http://cakestudios.co.uk/"
-instagram_url: "https://www.instagram.com/cakestudioslondon"
+name: Cake Studio
+slug: cake-studio
+email: info@cakestudios.co.uk
+description: Cake Studio is a London-based printed textile design studio
+  producing original prints for womenswear and lifestyle markets. The studio
+  works with fashion houses, retailers, and manufacturers across the UK, Europe,
+  the US, South America, Australia, and the Far East.
+website_url: http://cakestudios.co.uk/
+instagram_url: https://www.instagram.com/cakestudioslondon
 is_active: true
-designer_type: "Textile Design Studio"
+designer_type: Textile Design Studio
 experience: ""
-timezone: "United Kingdom"
+timezone: United Kingdom
 open_to: []
 pricing: []
 categories:
-  - "Womenswear"
+  - Womenswear
 skills: []
 links:
   linkedin: ""
-  twitter: "https://twitter.com/cakestudios"
+  twitter: https://twitter.com/cakestudios
   behance: ""
   spoonflower: ""
   patternbank: ""
@@ -25,16 +27,16 @@ current_company_slug: ""
 client_company_slugs: []
 images:
   avatar:
-    image_path: "../../assets/studios/cake-studio/profile/cake-studio-profile-pattern-designers.jpg"
+    image_path: ../../../exports/designers-images/designers/cake-studio/profile/cake-studio-profile.png
   patterns:
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-1-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-2-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-3-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-4-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-5-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-6-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-7-pattern-designers.jpg"
-    - image_path: "../../assets/studios/cake-studio/patterns/cake-studio-pattern-8-pattern-designers.jpg"
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-1.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-2.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-3.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-4.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-5.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-6.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-7.jpg
+    - image_path: ../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-8.jpg
   placements: []
 equipment:
   art: []
@@ -46,24 +48,22 @@ equipment:
 
 ## Profile Image
 
-![Profile](../../assets/studios/cake-studio/profile/cake-studio-profile-pattern-designers.jpg)
+![Profile](../../../exports/designers-images/designers/cake-studio/profile/cake-studio-profile.png)
 
 ## Selected Pattern Images
 
 | # | Preview |
 | --- | --- |
-| Pattern 1 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-1-pattern-designers.jpg) |
-| Pattern 2 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-2-pattern-designers.jpg) |
-| Pattern 3 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-3-pattern-designers.jpg) |
-| Pattern 4 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-4-pattern-designers.jpg) |
-| Pattern 5 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-5-pattern-designers.jpg) |
-| Pattern 6 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-6-pattern-designers.jpg) |
-| Pattern 7 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-7-pattern-designers.jpg) |
-| Pattern 8 | ![](../../assets/studios/cake-studio/patterns/cake-studio-pattern-8-pattern-designers.jpg) |
+| Pattern 1 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-1.jpg) |
+| Pattern 2 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-2.jpg) |
+| Pattern 3 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-3.jpg) |
+| Pattern 4 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-4.jpg) |
+| Pattern 5 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-5.jpg) |
+| Pattern 6 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-6.jpg) |
+| Pattern 7 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-7.jpg) |
+| Pattern 8 | ![](../../../exports/designers-images/designers/cake-studio/patterns/cake-studio-pattern-8.jpg) |
 
 ## Selected Placement Images
-
-No placement images selected.
 
 ## Overview
 
@@ -98,3 +98,9 @@ Cake Studio is based in London and operates as a team studio. The studio has est
 ## Pattern Focus
 
 Trend-led womenswear and lifestyle prints produced to commercial standards, delivered as layered PSD production-ready files. Catwalk and trend research drives the studio's seasonal output.
+
+## Connections
+
+- The Pattern Cloud
+- Fashion
+- Womenswear

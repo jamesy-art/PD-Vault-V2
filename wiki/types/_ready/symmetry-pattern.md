@@ -5,16 +5,21 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Symmetry
+styles:
+  - Oriental
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Symmetry Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/symmetry-pattern/symmetry-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=tU0xtssI3xE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: symmetry-pattern-1-pattern-designers.jpg
+    title: Colorful abstract symmetrical geometric pattern | Premium Vector
+    alt: Colorful abstract symmetrical geometric pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/colorful-abstract-symmetrical-geometric-pattern_427302148.htm"
+      image_url: "https://img.magnific.com/premium-vector/colorful-abstract-symmetrical-geometric-pattern_743855-77860.jpg"
+      title: Colorful abstract symmetrical geometric pattern | Premium Vector
+      description: Download this Premium vector of Colorful abstract symmetrical geometric pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: symmetry-pattern-2-pattern-designers.jpg
+    title: Geometric line pattern background design
+    alt: Geometric line pattern background design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/geometric-line-pattern-background-design_1111683.htm"
+      image_url: "https://img.magnific.com/free-vector/geometric-line-pattern-background-design_1017-8396.jpg"
+      title: Geometric line pattern background design
+      description: Download this free vector of Geometric line pattern background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: symmetry-pattern-3-pattern-designers.jpg
+    title: Monochrome star pattern - geometric abstract background design
+    alt: Monochrome star pattern - geometric abstract background design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/monochrome-star-pattern-geometric-abstract-background-design_1258596.htm"
+      image_url: "https://img.magnific.com/free-vector/monochrome-star-pattern-geometric-abstract-background-design_1164-1288.jpg"
+      title: Monochrome star pattern - geometric abstract background design
+      description: Download this free vector of Monochrome star pattern - geometric abstract background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: symmetry-pattern-4-pattern-designers.jpg
+    title: Monogram line seamless pattern
+    alt: Monogram line seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/monogram-line-seamless-pattern_25862913.htm"
+      image_url: "https://img.magnific.com/free-vector/monogram-line-seamless-pattern_8830-625.jpg"
+      title: Monogram line seamless pattern
+      description: Download this free vector of Monogram line seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Symmetry Pattern

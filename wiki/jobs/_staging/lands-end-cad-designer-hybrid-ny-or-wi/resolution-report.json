@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-fa03e8a8847530ca",
+  "canonical_id": "can-clip-fa03e8a8847530ca",
+  "canonical_path": "wiki/jobs/_staging/lands-end-cad-designer-hybrid-ny-or-wi",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United States",
+    "location:New York"
+  ],
+  "needs_review": [
+    "company:Lands' End",
+    "software:Kaledo",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:Presentation",
+    "skills:Hand Painting"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 8,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 58,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 59,
+  "resolution_quality": 57,
+  "message": "Resolved"
+}

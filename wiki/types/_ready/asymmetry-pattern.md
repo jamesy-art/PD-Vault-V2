@@ -4,24 +4,16 @@ slug: asymmetry-pattern
 status: active
 type_group: structure
 summary: Compositional approach in surface pattern design where elements are deliberately placed without mirror symmetry, creating dynamic balance through contrast, visual weight, and negative space.
-motifs:
-  - non-mirrored-composition
-  - off-centre-element
-  - scattered-placement
-  - free-form
+motifs: []
 structures:
-  - asymmetric
-  - free-placement
-  - editorial
-  - scattered
+  - Scatter
+  - Symmetry
 styles:
-  - dynamic
-  - art-nouveau
-  - contemporary
-  - editorial
+  - Art Nouveau
 categories:
-  - structure
-  - composition
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Asymmetry Pattern 2.md
@@ -29,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/asymmetry-pattern/asymmetry-pattern-1-pattern-designers.jpg
@@ -59,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=fXo7l5JceA4
 learn_more_youtube_2: https://www.youtube.com/watch?v=YhZ79n06kCc
 learn_more_youtube_3: ""
+gallery_images:
+  - path: asymmetry-pattern-1-pattern-designers.jpg
+    title: "In geometry and other fields, **asymmetry** is an absence or violation of [symmetry](https://en.wikipedia.org/wiki/Symmetry 'Symmetry') in an object or process, such that some transformation (such as reflection in space) results in an observable difference.[^1] Symmetry is an important property of both physical and abstract systems and it may be displayed in precise terms or in more aesthetic terms.[^2] The absence of or violation of symmetry that are either expected or desired can have important consequences for a system."
+    alt: "In geometry and other fields, **asymmetry** is an absence or violation of [symmetry](https://en.wikipedia.org/wiki/Symmetry 'Symmetry') in an object or process, such that some transformation (such as reflection in space) results in an observable difference.[^1] Symmetry is an important property of both physical and abstract systems and it may be displayed in precise terms or in more aesthetic terms.[^2] The absence of or violation of symmetry that are either expected or desired can have important consequences for a system."
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Asymmetric_%28PSF%29.svg/250px-Asymmetric_%28PSF%29.svg.png"
+      title: "In geometry and other fields, **asymmetry** is an absence or violation of [symmetry](https://en.wikipedia.org/wiki/Symmetry \"Symmetry\") in an object or process, such that some transformation (such as reflection in space) results in an observable difference.[^1] Symmetry is an important property of both physical and abstract systems and it may be displayed in precise terms or in more aesthetic terms.[^2] The absence of or violation of symmetry that are either expected or desired can have important consequences for a system."
+      description: "In geometry and other fields, **asymmetry** is an absence or violation of [symmetry](https://en.wikipedia.org/wiki/Symmetry \"Symmetry\") in an object or process, such that some transformation (such as reflection in space) results in an observable difference.[^1] Symmetry is an important property of both physical and abstract systems and it may be displayed in precise terms or in more aesthetic terms.[^2] The absence of or violation of symmetry that are either expected or desired can have important consequences for a system."
+    affiliate:
+      enabled: false
+      url: null
+  - path: asymmetry-pattern-2-pattern-designers.jpg
+    title: Abstract background with an organic turing pattern design
+    alt: Abstract background with an organic turing pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-with-organic-turing-pattern-design_37167887.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-with-organic-turing-pattern-design_1048-17852.jpg"
+      title: Abstract background with an organic turing pattern design
+      description: Download this free vector of Abstract background with an organic turing pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: asymmetry-pattern-3-pattern-designers.jpg
+    title: Abstract geometric black and white line pattern texture background | Premium AI-generated image
+    alt: Abstract geometric black and white line pattern texture background | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/abstract-geometric-black-white-line-pattern-texture-background_408111797.htm"
+      image_url: "https://img.magnific.com/premium-photo/abstract-geometric-black-white-line-pattern-texture-background_1132516-944.jpg"
+      title: Abstract geometric black and white line pattern texture background | Premium AI-generated image
+      description: Download this Premium AI-generated image about Abstract geometric black and white line pattern texture background, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: asymmetry-pattern-4-pattern-designers.jpg
+    title: Seamless abstract geometric pattern of quadrangular shapes of different sizes and shapes for texture textiles banners and simple backgrounds | Premium Vector
+    alt: Seamless abstract geometric pattern of quadrangular shapes of different sizes and shapes for texture textiles banners and simple backgrounds | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-abstract-geometric-pattern-quadrangular-shapes-different-sizes-shapes-texture-textiles-banners-simple-backgrounds_44179124.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-abstract-geometric-pattern-quadrangular-shapes-different-sizes-shapes-texture-textiles-banners-simple-backgrounds_888684-3038.jpg"
+      title: Seamless abstract geometric pattern of quadrangular shapes of different sizes and shapes for texture textiles banners and simple backgrounds | Premium Vector
+      description: Download this Premium vector of Seamless abstract geometric pattern of quadrangular shapes of different sizes and shapes for texture textiles banners and simple backgrounds and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Asymmetry Pattern

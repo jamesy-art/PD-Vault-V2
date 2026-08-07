@@ -6,23 +6,22 @@ type_group: general
 summary: Term describing a surface pattern created through deliberate design — a repeating motif arranged in a seamless mathematical sequence for application to fabric, wallpaper, stationery, or packaging. Covers the discipline, process, and commercial practice of surface pattern design.
 motifs: []
 structures:
-  - seamless-repeat
-  - grid
-  - half-drop
-  - tossed
-  - brick-repeat
+  - Block
+  - Half-Drop
+  - Brick
 styles: []
 categories:
-  - definition
-  - terminology
-  - general
+  - Fundamentals
+colour_family: Multicolour
+technique:
+  - Digital
 source_count: 1
 source_files:
   - Designer Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/designer-pattern/designer-pattern-1-pattern-designers.jpg
@@ -53,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=f3_6ZEgrfSI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: designer-pattern-1-pattern-designers.jpg
+    title: A floral design with blue flowers and a white cross | Premium Vector
+    alt: A floral design with blue flowers and a white cross | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/floral-design-with-blue-flowers-white-cross_383131674.htm"
+      image_url: "https://img.magnific.com/premium-vector/floral-design-with-blue-flowers-white-cross_1141449-6169.jpg"
+      title: A floral design with blue flowers and a white cross | Premium Vector
+      description: Download this Premium vector of A floral design with blue flowers and a white cross and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: designer-pattern-2-pattern-designers.jpg
+    title: Seamless pattern with blue leaves watercolor | Premium Vector
+    alt: Seamless pattern with blue leaves watercolor | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-blue-leaves-watercolor_10459359.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-blue-leaves-watercolor_65186-1549.jpg"
+      title: Seamless pattern with blue leaves watercolor | Premium Vector
+      description: Download this Premium vector of Seamless pattern with blue leaves watercolor and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: designer-pattern-3-pattern-designers.jpg
+    title: Stone wall with geometric shapes pattern | Free Photo
+    alt: Stone wall with geometric shapes pattern | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/stone-wall-with-geometric-shapes-pattern_4688908.htm"
+      image_url: "https://img.magnific.com/free-photo/stone-wall-with-geometric-shapes-pattern_23-2148189582.jpg"
+      title: Stone wall with geometric shapes pattern | Free Photo
+      description: Download this free photo of Stone wall with geometric shapes pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: designer-pattern-4-pattern-designers.jpg
+    title: Watercolor seamless pattern with different wild flowers on black background. | Premium Photo
+    alt: Watercolor seamless pattern with different wild flowers on black background. | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/watercolor-seamless-pattern-with-different-wild-flowers-black-background_15917838.htm"
+      image_url: "https://img.magnific.com/premium-photo/watercolor-seamless-pattern-with-different-wild-flowers-black-background_158123-60.jpg"
+      title: Watercolor seamless pattern with different wild flowers on black background. | Premium Photo
+      description: Download this Premium photo of Watercolor seamless pattern with different wild flowers on black background. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Designer Pattern

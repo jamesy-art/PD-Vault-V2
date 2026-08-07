@@ -5,16 +5,21 @@ status: draft
 type_group: texture
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Check
+  - Stripe
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Grey
+technique: []
 source_count: 1
 source_files:
   - Stone Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/stone-pattern/stone-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=qNqGDiPEeZg
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: stone-pattern-1-pattern-designers.jpg
+    title: Grunge wall texture | Free Photo
+    alt: Grunge wall texture | Free Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/grunge-wall-texture_1034776.htm"
+      image_url: "https://img.magnific.com/free-photo/grunge-wall-texture_1194-6108.jpg"
+      title: Grunge wall texture | Free Photo
+      description: Download this free photo of Grunge wall texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stone-pattern-2-pattern-designers.jpg
+    title: Rough architect structure stonewall superb | Free Photo
+    alt: Rough architect structure stonewall superb | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/rough-architect-structure-stonewall-superb_1089951.htm"
+      image_url: "https://img.magnific.com/free-photo/rough-architect-structure-stonewall-superb_1323-42.jpg"
+      title: Rough architect structure stonewall superb | Free Photo
+      description: Download this free photo of Rough architect structure stonewall superb and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stone-pattern-3-pattern-designers.jpg
+    title: Sand stone or marble pattern texture background,colorful marble texture with natural pattern | Premium Photo
+    alt: Sand stone or marble pattern texture background,colorful marble texture with natural pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/sand-stone-marble-pattern-texture-background-colorful-marble-texture-with-natural-pattern_4127667.htm"
+      image_url: "https://img.magnific.com/premium-photo/sand-stone-marble-pattern-texture-background-colorful-marble-texture-with-natural-pattern_38161-1061.jpg"
+      title: Sand stone or marble pattern texture background,colorful marble texture with natural pattern | Premium Photo
+      description: Download this Premium photo of Sand stone or marble pattern texture background,colorful marble texture with natural pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stone-pattern-4-pattern-designers.jpg
+    title: Warm limestone texture | Free Photo
+    alt: Warm limestone texture | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/warm-limestone-texture_1035015.htm"
+      image_url: "https://img.magnific.com/free-photo/warm-limestone-texture_1194-6312.jpg"
+      title: Warm limestone texture | Free Photo
+      description: Download this free photo of Warm limestone texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Stone Pattern

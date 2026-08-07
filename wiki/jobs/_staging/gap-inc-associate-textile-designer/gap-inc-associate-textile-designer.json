@@ -1,0 +1,149 @@
+{
+  "capture_id": "cap-clip-da8e3330417838a4",
+  "canonical_id": "can-clip-da8e3330417838a4",
+  "editorial_slug": "gap-inc-associate-textile-designer",
+  "content_hash": "250625c80b1699b05d290bbecdd6ff185b39c5dc29e5174f07cd8113f2c11d72",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Associate Textile Designer",
+  "company": "Gap",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-da8e3330417838a4"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/Associate Textile Designer.md"
+    ],
+    "original_title": "Associate Textile Designer",
+    "original_url": "https://fashionunited.com/fashion-jobs/associate-textile-designer-san-francisco-1782294",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "ee266fe51e3fab7ad80c12f6a9524f23716aaa4496005111adf17c37583ab974",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": "June 12, 2026 - Associate Textile Designer - San Francisco, California, 94105",
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/Associate Textile Designer.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": {
+      "id": "eb384c34-ae23-479d-8bd4-38d8d41b897e",
+      "slug": "gap",
+      "label": "Gap",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "company",
+        "source_location": "yaml.company",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-textile-design",
+        "slug": "textile-design",
+        "label": "Textile Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [
+      {
+        "id": "mk-fashion",
+        "slug": "fashion",
+        "label": "Fashion",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-us",
+      "slug": "us",
+      "label": "United States",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": null,
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 86,
+  "quality_status": "pass_with_warnings"
+}

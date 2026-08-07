@@ -4,17 +4,22 @@ slug: leopard-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Hide
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Brown
+technique: []
 source_count: 1
 source_files:
   - Leopard pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/leopard-pattern/leopard-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=ecQKUOJBd1s&t=8s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: leopard-pattern-1-pattern-designers.jpg
+    title: Dotted leopard pattern vector | Premium Vector
+    alt: Dotted leopard pattern vector | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/dotted-leopard-pattern-vector_135529947.htm"
+      image_url: "https://img.magnific.com/premium-vector/dotted-leopard-pattern-vector_1058532-10737.jpg"
+      title: Dotted leopard pattern vector | Premium Vector
+      description: Download this Premium vector of Dotted leopard pattern vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: leopard-pattern-2-pattern-designers.jpg
+    title: Glittery gold animal print pattern background
+    alt: Glittery gold animal print pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/glittery-gold-animal-print-pattern-background_28456172.htm"
+      image_url: "https://img.magnific.com/free-vector/glittery-gold-animal-print-pattern-background_1048-16101.jpg"
+      title: Glittery gold animal print pattern background
+      description: Download this free vector of Glittery gold animal print pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: leopard-pattern-3-pattern-designers.jpg
+    title: Seamless leopard print pattern | Premium Vector
+    alt: Seamless leopard print pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-leopard-print-pattern_63544090.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-leopard-print-pattern_408735-162.jpg"
+      title: Seamless leopard print pattern | Premium Vector
+      description: Download this Premium vector of Seamless leopard print pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: leopard-pattern-4-pattern-designers.jpg
+    title: Seamless leopard print. | Premium Vector
+    alt: Seamless leopard print. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-leopard-print_8244948.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-leopard-print_44665-432.jpg"
+      title: Seamless leopard print. | Premium Vector
+      description: Download this Premium vector of Seamless leopard print. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Leopard Pattern

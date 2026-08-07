@@ -5,32 +5,18 @@ status: active
 type_group: botanical
 summary: Continuous flowing stem pattern with curling, spiralling, or branching tendrils derived from plant growth; one of the oldest and most continuous motif traditions in decorative art, spanning Minoan Crete through Islamic arabesque to Victorian revival
 motifs:
-  - scroll
-  - tendril
-  - spiral stem
-  - acanthus
-  - rinceau
-  - arabesque
-  - vine
-  - volute
+  - Botanical
+  - Emblem
 structures:
-  - all-over
-  - flowing-repeat
-  - meander
-  - border
-  - trellis
+  - Border
+  - Scatter
 styles:
-  - classical
-  - heritage
-  - botanical
-  - ornate
-  - Arts and Crafts
-  - Art Nouveau
+  - Arts & Crafts
+  - Oriental
 categories:
-  - botanical
-  - heritage
-  - classical
-  - architectural
+  - Botanical
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Scroll Pattern.md
@@ -38,7 +24,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/scroll-pattern/scroll-pattern-1-pattern-designers.jpg
@@ -69,6 +55,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=gS_5LhHP66A
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: scroll-pattern-1-pattern-designers.jpg
+    title: Damask seamless pattern
+    alt: Damask seamless pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/damask-seamless-pattern_9136728.htm"
+      image_url: "https://img.magnific.com/free-vector/damask-seamless-pattern_1217-1965.jpg"
+      title: Damask seamless pattern
+      description: Download this free vector of Damask seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: scroll-pattern-2-pattern-designers.jpg
+    title: Green and white swirling pattern
+    alt: Green and white swirling pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/green-white-swirling-pattern_417400834.htm"
+      image_url: "https://img.magnific.com/free-vector/green-white-swirling-pattern_8130-3139.jpg"
+      title: Green and white swirling pattern
+      description: Download this free vector of Green and white swirling pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: scroll-pattern-3-pattern-designers.jpg
+    title: Vector damask seamless pattern element
+    alt: Vector damask seamless pattern element
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vector-damask-seamless-pattern-element_9662894.htm"
+      image_url: "https://img.magnific.com/free-vector/vector-damask-seamless-pattern-element_1217-2123.jpg"
+      title: Vector damask seamless pattern element
+      description: Download this free vector of Vector damask seamless pattern element and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: scroll-pattern-4-pattern-designers.jpg
+    title: Vintage baroque victorian frame border flower pattern vector floral engraved scroll ornament leaf retro decorative design filigree calligraphic heraldic shield swirl | Premium Vector
+    alt: Vintage baroque victorian frame border flower pattern vector floral engraved scroll ornament leaf retro decorative design filigree calligraphic heraldic shield swirl | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vintage-baroque-victorian-frame-border-flower-pattern-vector-floral-engraved-scroll-ornament-leaf-retro-decorative-design-filigree-calligraphic-heraldic-shield-swirl_420723953.htm"
+      image_url: "https://img.magnific.com/premium-vector/vintage-baroque-victorian-frame-border-flower-pattern-vector-floral-engraved-scroll-ornament-leaf-retro-decorative-design-filigree-calligraphic-heraldic-shield-swirl_5773-2136.jpg"
+      title: Vintage baroque victorian frame border flower pattern vector floral engraved scroll ornament leaf retro decorative design filigree calligraphic heraldic shield swirl | Premium Vector
+      description: Download this Premium vector of Vintage baroque victorian frame border flower pattern vector floral engraved scroll ornament leaf retro decorative design filigree calligraphic heraldic shield swirl and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Scroll Pattern

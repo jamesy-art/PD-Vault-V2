@@ -4,10 +4,17 @@ slug: art-deco-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Radial
+  - Border
+styles:
+  - Art Deco
+categories:
+  - Heritage
+colour_family: Metallic
+technique: []
 source_count: 2
 source_files:
   - Art Deco Pattern 2.md
@@ -15,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/art-deco-pattern/art-deco-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=9PKPEcJYmfI
 learn_more_youtube_2: https://www.youtube.com/watch?v=RKHGDW1aDVA
 learn_more_youtube_3: https://www.youtube.com/watch?v=N-U53dawpmA
+gallery_images:
+  - path: art-deco-pattern-1-pattern-designers.jpg
+    title: Cigarette case of leather and gold leaf by Pierre Legrain (1922), presenting a polychrome geometric decoration, Metropolitan Museum of Art, New York City
+    alt: Cigarette case of leather and gold leaf by Pierre Legrain (1922), presenting a polychrome geometric decoration, Metropolitan Museum of Art, New York City
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cigarette_Case_MET_DP291206.jpg/500px-Cigarette_Case_MET_DP291206.jpg"
+      title: Cigarette case of leather and gold leaf by Pierre Legrain (1922), presenting a polychrome geometric decoration, Metropolitan Museum of Art, New York City
+      description: Cigarette case of leather and gold leaf by Pierre Legrain (1922), presenting a polychrome geometric decoration, Metropolitan Museum of Art, New York City
+    affiliate:
+      enabled: false
+      url: null
+  - path: art-deco-pattern-2-pattern-designers.jpg
+    title: A gold wall with a gold pattern that says  gold | Premium Photo
+    alt: A gold wall with a gold pattern that says  gold | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/gold-wall-with-gold-pattern-that-says-gold_248135132.htm"
+      image_url: "https://img.magnific.com/premium-photo/gold-wall-with-gold-pattern-that-says-gold_605423-155657.jpg"
+      title: A gold wall with a gold pattern that says  gold | Premium Photo
+      description: Download this Premium photo of A gold wall with a gold pattern that says  gold and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: art-deco-pattern-3-pattern-designers.jpg
+    title: Art deco pattern seamless black and gold background metallic shells or scales lace ornament minimalistic geometric design vector lines 192030s motifs luxury vintage illustration | Premium Vector
+    alt: Art deco pattern seamless black and gold background metallic shells or scales lace ornament minimalistic geometric design vector lines 192030s motifs luxury vintage illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/art-deco-pattern-seamless-black-gold-background-metallic-shells-scales-lace-ornament-minimalistic-geometric-design-vector-lines-192030s-motifs-luxury-vintage-illustration_61480489.htm"
+      image_url: "https://img.magnific.com/premium-vector/art-deco-pattern-seamless-black-gold-background-metallic-shells-scales-lace-ornament-minimalistic-geometric-design-vector-lines-192030s-motifs-luxury-vintage-illustration_983154-3568.jpg"
+      title: Art deco pattern seamless black and gold background metallic shells or scales lace ornament minimalistic geometric design vector lines 192030s motifs luxury vintage illustration | Premium Vector
+      description: Download this Premium vector of Art deco pattern seamless black and gold background metallic shells or scales lace ornament minimalistic geometric design vector lines 192030s motifs luxury vintage illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: art-deco-pattern-4-pattern-designers.jpg
+    title: Stripes pattern on carved grunge white background seamless texture panel wood texture 3d render | Premium Photo
+    alt: Stripes pattern on carved grunge white background seamless texture panel wood texture 3d render | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/stripes-pattern-carved-grunge-white-background-seamless-texture-panel-wood-texture-3d-render_58321558.htm"
+      image_url: "https://img.magnific.com/premium-photo/stripes-pattern-carved-grunge-white-background-seamless-texture-panel-wood-texture-3d-render_916371-141.jpg"
+      title: Stripes pattern on carved grunge white background seamless texture panel wood texture 3d render | Premium Photo
+      description: Download this Premium photo of Stripes pattern on carved grunge white background seamless texture panel wood texture 3d render and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Art Deco Pattern

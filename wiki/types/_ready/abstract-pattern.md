@@ -4,17 +4,26 @@ slug: abstract-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Abstract
+structures:
+  - Scatter
+  - Block
+styles:
+  - Pop Art
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Digital
+  - Watercolour
 source_count: 1
 source_files:
   - Abstract Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/abstract-pattern/abstract-pattern-1-pattern-designers.jpg
@@ -44,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=UdKvzI24NzQ
 learn_more_youtube_2: https://www.youtube.com/watch?v=gUM4tdNAmMU
 learn_more_youtube_3: https://www.youtube.com/watch?v=KmvMGgL88Ms
+gallery_images:
+  - path: abstract-pattern-1-pattern-designers.jpg
+    title: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+    alt: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Piet_Mondriaan%2C_1939-1942_-_Composition_10.jpg/250px-Piet_Mondriaan%2C_1939-1942_-_Composition_10.jpg"
+      title: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+      description: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+    affiliate:
+      enabled: false
+      url: null
+  - path: abstract-pattern-2-pattern-designers.jpg
+    title: Abstract organic pattern design background
+    alt: Abstract organic pattern design background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-organic-pattern-design-background_60913917.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-organic-pattern-design-background_1048-19286.jpg"
+      title: Abstract organic pattern design background
+      description: Download this free vector of Abstract organic pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: abstract-pattern-3-pattern-designers.jpg
+    title: Abstract pattern background with a turin design
+    alt: Abstract pattern background with a turin design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-pattern-background-with-turin-design_221852830.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-pattern-background-with-turin-design_1048-20264.jpg"
+      title: Abstract pattern background with a turin design
+      description: Download this free vector of Abstract pattern background with a turin design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: abstract-pattern-4-pattern-designers.jpg
+    title: Organic flat abstract element pattern
+    alt: Organic flat abstract element pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/organic-flat-abstract-element-pattern_13817660.htm"
+      image_url: "https://img.magnific.com/free-vector/organic-flat-abstract-element-pattern_23-2148950504.jpg"
+      title: Organic flat abstract element pattern
+      description: Download this free vector of Organic flat abstract element pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Abstract Pattern

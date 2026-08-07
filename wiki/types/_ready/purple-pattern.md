@@ -7,7 +7,10 @@ summary: ""
 motifs: []
 structures: []
 styles: []
-categories: []
+categories:
+  - Colour
+colour_family: Purple
+technique: []
 source_count: 2
 source_files:
   - Purple Pattern 2.md
@@ -15,7 +18,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/purple-pattern/purple-pattern-1-pattern-designers.jpg
@@ -46,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=JcCf8FE4cxQ
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: purple-pattern-1-pattern-designers.jpg
+    title: Decorative background with a purple damask pattern
+    alt: Decorative background with a purple damask pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/decorative-background-with-purple-damask-pattern_956821.htm"
+      image_url: "https://img.magnific.com/free-vector/decorative-background-with-purple-damask-pattern_1048-3458.jpg"
+      title: Decorative background with a purple damask pattern
+      description: Download this free vector of Decorative background with a purple damask pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: purple-pattern-2-pattern-designers.jpg
+    title: Flat design polygonal background
+    alt: Flat design polygonal background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-polygonal-background_13164435.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-polygonal-background_23-2148900724.jpg"
+      title: Flat design polygonal background
+      description: Download this free vector of Flat design polygonal background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: purple-pattern-3-pattern-designers.jpg
+    title: Flat drawn purple striped background
+    alt: Flat drawn purple striped background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-drawn-purple-striped-background_30238368.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-drawn-purple-striped-background_23-2149592142.jpg"
+      title: Flat drawn purple striped background
+      description: Download this free vector of Flat drawn purple striped background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: purple-pattern-4-pattern-designers.jpg
+    title: Liquid marbling paint texture background. fluid painting abstract texture, intensive color mix wallpaper. | Free Photo
+    alt: Liquid marbling paint texture background. fluid painting abstract texture, intensive color mix wallpaper. | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_20044074.htm"
+      image_url: "https://img.magnific.com/free-photo/liquid-marbling-paint-texture-background-fluid-painting-abstract-texture-intensive-color-mix-wallpaper_1258-82940.jpg"
+      title: Liquid marbling paint texture background. fluid painting abstract texture, intensive color mix wallpaper. | Free Photo
+      description: Download this free photo of Liquid marbling paint texture background. fluid painting abstract texture, intensive color mix wallpaper. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Purple Pattern

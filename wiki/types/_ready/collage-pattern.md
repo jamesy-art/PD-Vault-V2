@@ -5,25 +5,15 @@ status: active
 type_group: general
 summary: Surface pattern technique built from assembled, cut, and layered image fragments — physical mixed-media or digital — with roots in early 20th-century avant-garde art practice.
 motifs:
-  - cut-paper
-  - photograph
-  - found-image
-  - hand-texture
-  - layered-fragment
+  - Abstract
 structures:
-  - free-form
-  - all-over
-  - editorial
-styles:
-  - mixed-media
-  - avant-garde
-  - digital
-  - photomontage
-  - eclectic
+  - Scatter
+styles: []
 categories:
-  - mixed-media
-  - technique
-  - art-influenced
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Collage
 source_count: 2
 source_files:
   - Collage Pattern 2.md
@@ -31,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/collage-pattern/collage-pattern-1-pattern-designers.jpg
@@ -61,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=PF1Nn1JTCC8
 learn_more_youtube_2: https://www.youtube.com/watch?v=gK-5CNCjZEo
 learn_more_youtube_3: ""
+gallery_images:
+  - path: collage-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DasUndbild.jpg/500px-DasUndbild.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: collage-pattern-2-pattern-designers.jpg
+    title: Hand drawn collage design
+    alt: Hand drawn collage design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-collage-design_29925640.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-collage-design_23-2149564496.jpg"
+      title: Hand drawn collage design
+      description: Download this free vector of Hand drawn collage design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: collage-pattern-3-pattern-designers.jpg
+    title: Hand drawn cutout collage background
+    alt: Hand drawn cutout collage background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-cutout-collage-background_32303640.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-cutout-collage-background_23-2149724604.jpg"
+      title: Hand drawn cutout collage background
+      description: Download this free vector of Hand drawn cutout collage background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: collage-pattern-4-pattern-designers.jpg
+    title: Vibrant abstract collage art with geometric shapes and bold patterns in a modern pop art style | Premium AI-generated image
+    alt: Vibrant abstract collage art with geometric shapes and bold patterns in a modern pop art style | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/vibrant-abstract-collage-art-with-geometric-shapes-bold-patterns-modern-pop-art-style_324822900.htm"
+      image_url: "https://img.magnific.com/premium-photo/vibrant-abstract-collage-art-with-geometric-shapes-bold-patterns-modern-pop-art-style_43969-58689.jpg"
+      title: Vibrant abstract collage art with geometric shapes and bold patterns in a modern pop art style | Premium AI-generated image
+      description: Download this Premium AI-generated image about Vibrant abstract collage art with geometric shapes and bold patterns in a modern pop art style, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Collage Pattern

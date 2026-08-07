@@ -4,17 +4,24 @@ slug: wave-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Marine
+structures:
+  - Stripe
+  - Tessellation
+styles:
+  - Nautical
+categories:
+  - Nature
+colour_family: Blue
+technique: []
 source_count: 1
 source_files:
   - Wave Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/wave-pattern/wave-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=DzTkx5gNFOA&t=1s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: wave-pattern-1-pattern-designers.jpg
+    title: Blue lines maze on a white background
+    alt: Blue lines maze on a white background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-lines-maze-white-background_361060160.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-lines-maze-white-background_1409-9685.jpg"
+      title: Blue lines maze on a white background
+      description: Download this free vector of Blue lines maze on a white background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: wave-pattern-2-pattern-designers.jpg
+    title: Japanese blue wave pattern vector, remix of artwork by watanabe seitei
+    alt: Japanese blue wave pattern vector, remix of artwork by watanabe seitei
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/japanese-blue-wave-pattern-vector-remix-artwork-by-watanabe-seitei_18701999.htm"
+      image_url: "https://img.magnific.com/free-vector/japanese-blue-wave-pattern-vector-remix-artwork-by-watanabe-seitei_53876-140044.jpg"
+      title: Japanese blue wave pattern vector, remix of artwork by watanabe seitei
+      description: Download this free vector of Japanese blue wave pattern vector, remix of artwork by watanabe seitei and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: wave-pattern-3-pattern-designers.jpg
+    title: Pasta background vector ramen noodle blue and white seamless wave pattern oriental asian food
+    alt: Pasta background vector ramen noodle blue and white seamless wave pattern oriental asian food
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pasta-background-vector-ramen-noodle-blue-white-seamless-wave-pattern-oriental-asian-food_402896722.htm"
+      image_url: "https://img.magnific.com/free-vector/pasta-background-vector-ramen-noodle-blue-white-seamless-wave-pattern-oriental-asian-food_88138-2071.jpg"
+      title: Pasta background vector ramen noodle blue and white seamless wave pattern oriental asian food
+      description: Download this free vector of Pasta background vector ramen noodle blue and white seamless wave pattern oriental asian food and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: wave-pattern-4-pattern-designers.jpg
+    title: Pastel blue wave pattern design background
+    alt: Pastel blue wave pattern design background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pastel-blue-wave-pattern-design-background_416800017.htm"
+      image_url: "https://img.magnific.com/free-vector/pastel-blue-wave-pattern-design-background_1048-21264.jpg"
+      title: Pastel blue wave pattern design background
+      description: Download this free vector of Pastel blue wave pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Wave Pattern

@@ -6,8 +6,13 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Chinoiserie
+  - Nautical
+categories:
+  - Colour
+colour_family: Blue
+technique: []
 source_count: 3
 source_files:
   - Blue Pattern 2.md
@@ -16,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/blue-pattern/blue-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=99XGx_BKO_I
 learn_more_youtube_2: https://www.youtube.com/watch?v=iElHX0m9E3g
 learn_more_youtube_3: https://www.youtube.com/watch?v=Zi-5TXahbTw
+gallery_images:
+  - path: blue-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/c/cf/Color_icon_azure.svg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/c/cf/Color_icon_azure.svg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Color_icon_azure.svg/500px-Color_icon_azure.svg.png"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/c/cf/Color_icon_azure.svg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/c/cf/Color_icon_azure.svg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: blue-pattern-2-pattern-designers.jpg
+    title: 4k abstract papercut background design | Premium Photo
+    alt: 4k abstract papercut background design | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/4k-abstract-papercut-background-design_79333425.htm"
+      image_url: "https://img.magnific.com/premium-photo/4k-abstract-papercut-background-design_851755-4172.jpg"
+      title: 4k abstract papercut background design | Premium Photo
+      description: Download this Premium photo of 4k abstract papercut background design and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: blue-pattern-3-pattern-designers.jpg
+    title: Retro abstract wavy backgrounds | Premium Photo
+    alt: Retro abstract wavy backgrounds | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/retro-abstract-wavy-backgrounds_96743207.htm"
+      image_url: "https://img.magnific.com/premium-photo/retro-abstract-wavy-backgrounds_1089697-1635.jpg"
+      title: Retro abstract wavy backgrounds | Premium Photo
+      description: Download this Premium photo of Retro abstract wavy backgrounds and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: blue-pattern-4-pattern-designers.jpg
+    title: Seamless blue geometric pattern background with repeating isometric shapes for modern design | Premium Vector
+    alt: Seamless blue geometric pattern background with repeating isometric shapes for modern design | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-blue-geometric-pattern-background-with-repeating-isometric-shapes-modern-design_427055319.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-blue-geometric-pattern-background-with-repeating-isometric-shapes-modern-design_340123-917.jpg"
+      title: Seamless blue geometric pattern background with repeating isometric shapes for modern design | Premium Vector
+      description: Download this Premium vector of Seamless blue geometric pattern background with repeating isometric shapes for modern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Blue Pattern

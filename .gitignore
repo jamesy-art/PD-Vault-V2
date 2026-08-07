@@ -23,6 +23,9 @@ csv/
 htmls/
 data/
 txt/
+exports/
+reports/
+tests/source-corpus/
 
 # optional large local folders
 DESIGNERS/

@@ -4,10 +4,15 @@ slug: zebra-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Hide
+structures:
+  - Stripe
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Black
+technique: []
 source_count: 2
 source_files:
   - Zebra Pattern 2.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/zebra-pattern/zebra-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=91KjtnullOQ
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: zebra-pattern-1-pattern-designers.jpg
+    title: Black and white pattern on a black and white background | Premium Vector
+    alt: Black and white pattern on a black and white background | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-white-pattern-black-white-background_274229324.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-white-pattern-black-white-background_859523-3653.jpg"
+      title: Black and white pattern on a black and white background | Premium Vector
+      description: Download this Premium vector of Black and white pattern on a black and white background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: zebra-pattern-2-pattern-designers.jpg
+    title: Black and white zebra spot pattern | Premium AI-generated PSD
+    alt: Black and white zebra spot pattern | Premium AI-generated PSD
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-psd/black-white-zebra-spot-pattern_387435605.htm"
+      image_url: "https://img.magnific.com/premium-psd/black-white-zebra-spot-pattern_1297446-3369.jpg"
+      title: Black and white zebra spot pattern | Premium AI-generated PSD
+      description: Download this Premium AI-generated PSD about Black and white zebra spot pattern, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: zebra-pattern-3-pattern-designers.jpg
+    title: High detail hand drawn vector illustration of zebra fur texture, print, seamless pattern, black and | Premium Vector
+    alt: High detail hand drawn vector illustration of zebra fur texture, print, seamless pattern, black and | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/high-detail-hand-drawn-vector-illustration-zebra-fur-texture-print-seamless-pattern-black_35427931.htm"
+      image_url: "https://img.magnific.com/premium-vector/high-detail-hand-drawn-vector-illustration-zebra-fur-texture-print-seamless-pattern-black_668947-2447.jpg"
+      title: High detail hand drawn vector illustration of zebra fur texture, print, seamless pattern, black and | Premium Vector
+      description: Download this Premium vector of High detail hand drawn vector illustration of zebra fur texture, print, seamless pattern, black and and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: zebra-pattern-4-pattern-designers.jpg
+    title: Zebra print background
+    alt: Zebra print background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/zebra-print-background_59539316.htm"
+      image_url: "https://img.magnific.com/free-vector/zebra-print-background_78370-2976.jpg"
+      title: Zebra print background
+      description: Download this free vector of Zebra print background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Zebra Pattern

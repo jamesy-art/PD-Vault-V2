@@ -6,15 +6,19 @@ type_group: texture
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Minimalist
+categories:
+  - Fundamentals
+colour_family: Grey
+technique: []
 source_count: 1
 source_files:
   - Concrete Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/concrete-pattern/concrete-pattern-1-pattern-designers.jpg
@@ -45,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=jRlB1qi16yE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: concrete-pattern-1-pattern-designers.jpg
+    title: Bump texture old brick floor bump mapping brick floor | Premium Photo
+    alt: Bump texture old brick floor bump mapping brick floor | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/bump-texture-old-brick-floor-bump-mapping-brick-floor_43789339.htm"
+      image_url: "https://img.magnific.com/premium-photo/bump-texture-old-brick-floor-bump-mapping-brick-floor_220166-5124.jpg"
+      title: Bump texture old brick floor bump mapping brick floor | Premium Photo
+      description: Download this Premium photo of Bump texture old brick floor bump mapping brick floor and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: concrete-pattern-2-pattern-designers.jpg
+    title: Grunge wall texture | Free Photo
+    alt: Grunge wall texture | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/grunge-wall-texture_1034776.htm"
+      image_url: "https://img.magnific.com/free-photo/grunge-wall-texture_1194-6108.jpg"
+      title: Grunge wall texture | Free Photo
+      description: Download this free photo of Grunge wall texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: concrete-pattern-3-pattern-designers.jpg
+    title: Painted gray wall | Free Photo
+    alt: Painted gray wall | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/painted-gray-wall_1035416.htm"
+      image_url: "https://img.magnific.com/free-photo/painted-gray-wall_1194-6445.jpg"
+      title: Painted gray wall | Free Photo
+      description: Download this free photo of Painted gray wall and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: concrete-pattern-4-pattern-designers.jpg
+    title: White planks with black spots | Free Photo
+    alt: White planks with black spots | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/white-planks-with-black-spots_932609.htm"
+      image_url: "https://img.magnific.com/free-photo/white-planks-with-black-spots_1154-695.jpg"
+      title: White planks with black spots | Free Photo
+      description: Download this free photo of White planks with black spots and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Concrete Pattern

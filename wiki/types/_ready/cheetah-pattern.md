@@ -4,10 +4,15 @@ slug: cheetah-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Hide
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Brown
+technique: []
 source_count: 2
 source_files:
   - Cheetah Pattern 2.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/cheetah-pattern/cheetah-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=fLhmNoo06xY&t=6s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: cheetah-pattern-1-pattern-designers.jpg
+    title: Cheetah pattern  fur texture | AI-generated image
+    alt: Cheetah pattern  fur texture | AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/cheetah-pattern-fur-texture_42087955.htm"
+      image_url: "https://img.magnific.com/free-photo/cheetah-pattern-fur-texture_23-2150404489.jpg"
+      title: Cheetah pattern  fur texture | AI-generated image
+      description: Download this free AI-generated image about Cheetah pattern  fur texture, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: cheetah-pattern-2-pattern-designers.jpg
+    title: Chic cheetah print pattern | Premium AI-generated image
+    alt: Chic cheetah print pattern | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/chic-cheetah-print-pattern_348217430.htm"
+      image_url: "https://img.magnific.com/premium-photo/chic-cheetah-print-pattern_1259978-1672.jpg"
+      title: Chic cheetah print pattern | Premium AI-generated image
+      description: Download this Premium AI-generated image about Chic cheetah print pattern, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: cheetah-pattern-3-pattern-designers.jpg
+    title: Seamless soft fluffy leopard print cheetah spots african safari wildlife camouflage pattern | Premium Photo
+    alt: Seamless soft fluffy leopard print cheetah spots african safari wildlife camouflage pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-soft-fluffy-leopard-print-cheetah-spots-african-safari-wildlife-camouflage-pattern_232195775.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-soft-fluffy-leopard-print-cheetah-spots-african-safari-wildlife-camouflage-pattern_866214-18238.jpg"
+      title: Seamless soft fluffy leopard print cheetah spots african safari wildlife camouflage pattern | Premium Photo
+      description: Download this Premium photo of Seamless soft fluffy leopard print cheetah spots african safari wildlife camouflage pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: cheetah-pattern-4-pattern-designers.jpg
+    title: Vector pattern of cheetah leopard wild cat skin animal print background | Premium Vector
+    alt: Vector pattern of cheetah leopard wild cat skin animal print background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vector-pattern-cheetah-leopard-wild-cat-skin-animal-print-background_420542158.htm"
+      image_url: "https://img.magnific.com/premium-vector/vector-pattern-cheetah-leopard-wild-cat-skin-animal-print-background_885462-183.jpg"
+      title: Vector pattern of cheetah leopard wild cat skin animal print background | Premium Vector
+      description: Download this Premium vector of Vector pattern of cheetah leopard wild cat skin animal print background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Cheetah Pattern

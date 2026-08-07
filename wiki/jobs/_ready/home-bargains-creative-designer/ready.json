@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-f87d6446741a951e",
+  "editorial_slug": "home-bargains-creative-designer",
+  "canonical_id": "can-clip-f87d6446741a951e",
+  "capture_id": "cap-clip-f87d6446741a951e",
+  "ready_status": "ready",
+  "ready_at": "2026-08-07T16:20:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.b9f4d780",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "b9f4d780a96819e53d6280344cd88e0375599e875b5f3e0ed9b2e9c2f759090b",
+  "title": "Creative Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 1,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 1,
+    "rewritten_wikilinks": 0
+  }
+}

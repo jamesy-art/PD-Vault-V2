@@ -4,10 +4,17 @@ slug: strawberry-pattern
 status: draft
 type_group: floral
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+structures:
+  - Scatter
+  - Half-Drop
+styles:
+  - Arts & Crafts
+categories:
+  - Food
+colour_family: Red
+technique: []
 source_count: 2
 source_files:
   - Strawberry Pattern 2.md
@@ -15,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/strawberry-pattern/strawberry-pattern-1-pattern-designers.jpg
@@ -46,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=XTH4qwvaxeY
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: strawberry-pattern-1-pattern-designers.jpg
+    title: Cute strawberry pattern pastel background
+    alt: Cute strawberry pattern pastel background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/cute-strawberry-pattern-pastel-background_16326838.htm"
+      image_url: "https://img.magnific.com/free-vector/cute-strawberry-pattern-pastel-background_53876-114637.jpg"
+      title: Cute strawberry pattern pastel background
+      description: Download this free vector of Cute strawberry pattern pastel background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: strawberry-pattern-2-pattern-designers.jpg
+    title: Flat design fruit and floral pattern illustration
+    alt: Flat design fruit and floral pattern illustration
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-fruit-floral-pattern-illustration_28492526.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-fruit-floral-pattern-illustration_23-2149481422.jpg"
+      title: Flat design fruit and floral pattern illustration
+      description: Download this free vector of Flat design fruit and floral pattern illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: strawberry-pattern-3-pattern-designers.jpg
+    title: Hand drawn cottagecore pattern
+    alt: Hand drawn cottagecore pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-cottagecore-pattern_171733206.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-cottagecore-pattern_52683-152301.jpg"
+      title: Hand drawn cottagecore pattern
+      description: Download this free vector of Hand drawn cottagecore pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: strawberry-pattern-4-pattern-designers.jpg
+    title: Strawberry seamless pattern
+    alt: Strawberry seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/strawberry-seamless-pattern_4526616.htm"
+      image_url: "https://img.magnific.com/free-vector/strawberry-seamless-pattern_98292-3703.jpg"
+      title: Strawberry seamless pattern
+      description: Download this free vector of Strawberry seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Strawberry Pattern

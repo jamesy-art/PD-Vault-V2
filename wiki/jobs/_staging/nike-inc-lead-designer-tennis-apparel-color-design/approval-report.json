@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "message": "Approved for Ready promotion",
+  "idempotent_hit": false,
+  "canonical_id": "can-clip-9451cacca5d382b8",
+  "capture_id": "cap-clip-9451cacca5d382b8",
+  "editorial_status": "approved",
+  "approved_at": "2026-08-07T15:00:00.000Z",
+  "approved_by": "editor:audit",
+  "warnings": [],
+  "errors": []
+}

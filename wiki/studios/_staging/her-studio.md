@@ -125,8 +125,8 @@ Saturated hand-painted florals, tonal ink-and-wash botanicals, checkerboard/madr
 
 ## Connections
 
-- [[ralph-lauren]] — documented client
+- [[wiki/companies/_staging/ralph-lauren]] — documented client
 - [[asos]] — documented client
-- [[dkny]] — documented client
-- [[victoria-s-secret]] — documented client
+- [[raw/companies/dkny]] — documented client
+- [[wiki/companies/_staging/victoria-s-secret]] — documented client
 - [[The Pattern Cloud]] — source platform and studio directory listing

@@ -5,16 +5,22 @@ status: draft
 type_group: historical
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Tartan Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/tartan-pattern/tartan-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=kxzGCrt6ryI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: tartan-pattern-1-pattern-designers.jpg
+    title: Christmas background with tartan style design
+    alt: Christmas background with tartan style design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/christmas-background-with-tartan-style-design_386293471.htm"
+      image_url: "https://img.magnific.com/free-vector/christmas-background-with-tartan-style-design_1048-20802.jpg"
+      title: Christmas background with tartan style design
+      description: Download this free vector of Christmas background with tartan style design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tartan-pattern-2-pattern-designers.jpg
+    title: Plaid style pattern background
+    alt: Plaid style pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/plaid-style-pattern-background_32947106.htm"
+      image_url: "https://img.magnific.com/free-vector/plaid-style-pattern-background_1048-17047.jpg"
+      title: Plaid style pattern background
+      description: Download this free vector of Plaid style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tartan-pattern-3-pattern-designers.jpg
+    title: Seamless pattern of scottish tartan plaid. repeatable background with check fabric texture. | Premium Vector
+    alt: Seamless pattern of scottish tartan plaid. repeatable background with check fabric texture. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-scottish-tartan-plaid-repeatable-background-with-check-fabric-texture_13984657.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-scottish-tartan-plaid-repeatable-background-with-check-fabric-texture_87543-5038.jpg"
+      title: Seamless pattern of scottish tartan plaid. repeatable background with check fabric texture. | Premium Vector
+      description: Download this Premium vector of Seamless pattern of scottish tartan plaid. repeatable background with check fabric texture. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tartan-pattern-4-pattern-designers.jpg
+    title: Seamless retro vintage tartan pattern 22 january 2025 | Premium Vector
+    alt: Seamless retro vintage tartan pattern 22 january 2025 | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-retro-vintage-tartan-pattern-22-january-2025_412652261.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-retro-vintage-tartan-pattern-22-january-2025_762508-940.jpg"
+      title: Seamless retro vintage tartan pattern 22 january 2025 | Premium Vector
+      description: Download this Premium vector of Seamless retro vintage tartan pattern 22 january 2025 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Tartan Pattern

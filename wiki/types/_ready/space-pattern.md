@@ -5,35 +5,23 @@ status: active
 type_group: novelty
 summary: Novelty surface pattern using outer space and astronomy motifs — stars, planets, rockets, astronauts, nebulae — typically on dark backgrounds with glowing celestial elements.
 motifs:
-  - stars
-  - planets
-  - rockets
-  - astronauts
-  - nebulae
-  - moons
-  - galaxies
+  - Celestial
+  - Novelty
 structures:
-  - tossed
-  - full-drop
-  - half-drop
+  - Scatter
 styles:
-  - novelty
-  - conversational
-  - retro
-  - children
-  - sci-fi
+  - Retro
 categories:
-  - novelty
-  - children
-  - astronomical
-  - retro-futurism
+  - Novelty
+colour_family: Black
+technique: []
 source_count: 1
 source_files:
   - Space Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/space-pattern/space-pattern-1-pattern-designers.jpg
@@ -64,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=YJgZagI0iW8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: space-pattern-1-pattern-designers.jpg
+    title: Hand drawn space pattern design
+    alt: Hand drawn space pattern design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184791.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150513469.jpg"
+      title: Hand drawn space pattern design
+      description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: space-pattern-2-pattern-designers.jpg
+    title: Hand drawn space pattern design
+    alt: Hand drawn space pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184779.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150516749.jpg"
+      title: Hand drawn space pattern design
+      description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: space-pattern-3-pattern-designers.jpg
+    title: Hand drawn space pattern design
+    alt: Hand drawn space pattern design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184780.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150493446.jpg"
+      title: Hand drawn space pattern design
+      description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: space-pattern-4-pattern-designers.jpg
+    title: Seamless pattern with bright multicolored texture of cosmos small stars in space | Premium Photo
+    alt: Seamless pattern with bright multicolored texture of cosmos small stars in space | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-pattern-with-bright-multicolored-texture-cosmos-small-stars-space_29992215.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-pattern-with-bright-multicolored-texture-cosmos-small-stars-space_343283-929.jpg"
+      title: Seamless pattern with bright multicolored texture of cosmos small stars in space | Premium Photo
+      description: Download this Premium photo of Seamless pattern with bright multicolored texture of cosmos small stars in space and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Space Pattern

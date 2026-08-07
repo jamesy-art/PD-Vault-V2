@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-aa7baa48b72a87c5",
+  "canonical_id": "can-clip-aa7baa48b72a87c5",
+  "canonical_path": "wiki/jobs/_staging/qvc-group-apparel-print-designer-west-chester-pa",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "skills:Print Design",
+    "markets:Fashion",
+    "location:United States"
+  ],
+  "needs_review": [
+    "company:QVC Group",
+    "software:NedGraphics",
+    "software:PLM",
+    "skills:Colour Management",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:PLM",
+    "location:West Chester",
+    "location:West Chester, PA, United States"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 8,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 74,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 76,
+  "resolution_quality": 47,
+  "message": "Resolved"
+}

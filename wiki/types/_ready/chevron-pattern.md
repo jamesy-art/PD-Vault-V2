@@ -4,17 +4,24 @@ slug: chevron-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Stripe
+  - Border
+styles:
+  - Art Deco
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - chevron-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/chevron-pattern/chevron-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=agHcT2t-zhI
 learn_more_youtube_2: https://www.youtube.com/watch?v=hohIVhE7oKo
 learn_more_youtube_3: ""
+gallery_images:
+  - path: chevron-pattern-1-pattern-designers.jpg
+    title: A black and white chevron zigzag pattern background | Premium Vector
+    alt: A black and white chevron zigzag pattern background | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-white-chevron-zigzag-pattern-background_387542513.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-white-chevron-zigzag-pattern-background_729988-9706.jpg"
+      title: A black and white chevron zigzag pattern background | Premium Vector
+      description: Download this Premium vector of A black and white chevron zigzag pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: chevron-pattern-2-pattern-designers.jpg
+    title: Abstract triangle pattern background
+    alt: Abstract triangle pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-triangle-pattern-background_1109401.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-triangle-pattern-background_1319-155.jpg"
+      title: Abstract triangle pattern background
+      description: Download this free vector of Abstract triangle pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: chevron-pattern-3-pattern-designers.jpg
+    title: Black dotted decorative pattern | Premium Vector
+    alt: Black dotted decorative pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-dotted-decorative-pattern_21139965.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-dotted-decorative-pattern_547648-709.jpg"
+      title: Black dotted decorative pattern | Premium Vector
+      description: Download this Premium vector of Black dotted decorative pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: chevron-pattern-4-pattern-designers.jpg
+    title: Black zigzag background, simple pattern design vector
+    alt: Black zigzag background, simple pattern design vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_19597325.htm"
+      image_url: "https://img.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_53876-151273.jpg"
+      title: Black zigzag background, simple pattern design vector
+      description: Download this free vector of Black zigzag background, simple pattern design vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # chevron-pattern

@@ -1,129 +1,72 @@
 ---
+company_uid: 6e6c30bf-77fe-4322-8e7a-f761c1ad1cc1
+schema_version: 1
 name: Zegna
 slug: zegna
-status: draft
-company_type: Brand
-location: Italy
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
-type_slugs: []
-website: https://www.zegna.com
-instagram: https://www.instagram.com/zegna
-linkedin: https://www.linkedin.com/company/ermenegildo-zegna/
-facebook: https://www.facebook.com/ZegnaOfficial
-founded: "1910"
-headquarters: Italy
-employees: 6,300
-revenue: $2.1B
-category_images:
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/zegna/cat/zegna-mens.jpg"
-source_file: Zegna.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-11
-updated: 2026-06-12
-youtube: https://www.youtube.com/user/EZegnaOfficial
-about_url: https://www.zegna.com/ww-en/zegna-world
-contact_url: https://www.zegna.com/ww-en/customer-care/contact-us
-store_locator_url: https://www.zegna.com/ww-en/store-locator
-retail_categories:
-  - Shoes
-  - Clothing
-  - Accessories
-  - Eyewear
-market_categories:
-  - Menswear
-collections: []
-profile_image: ../../assets/companies/zegna/profile/260107072_915892909036403_2643256627520040904_n.jpg
-profile_image_local: ../../assets/companies/zegna/profile/260107072_915892909036403_2643256627520040904_n.jpg
-company_logo_selected: ../../assets/companies/zegna/profile/260107072_915892909036403_2643256627520040904_n.jpg
-logo_image_selected: ../../assets/companies/zegna/profile/260107072_915892909036403_2643256627520040904_n.jpg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/zegna/profile/260107072_915892909036403_2643256627520040904_n.jpg
+  - accessories
+  - beauty
+  - eyewear
+  - fashion
+  - luxury
+markets:
+  - menswear
+products:
+  - footwear
+  - apparel
+  - accessories
+  - eyewear
+hq_country_code: IT
+location: Italy
+founded_year: 1910
+employee_count_text: 6,300
+revenue_text: $2.1B
+website_url: https://www.zegna.com
+instagram_url: https://www.instagram.com/zegna
+linkedin_url: https://www.linkedin.com/company/ermenegildo-zegna/
+facebook_url: https://www.facebook.com/ZegnaOfficial
+youtube_url: https://www.youtube.com/user/EZegnaOfficial
+type_slugs:
+  - tweed-textile-surface-design
+  - jacquard-weave-surface-pattern
+  - wool-flannel-suiting-surface
+  - silk-weave-surface-design
 images:
-  profile:
-    - ../../assets/companies/zegna/profile/260107072_915892909036403_2643256627520040904_n.jpg
-trk_reviewed: false
-trk_notes: ""
-trk_new: ""
-trk_women: ""
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: ""
-trk_women_bottoms: ""
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: ""
-trk_men: https://www.zegna.com/ww-en/mens-summer-outfits
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://www.viglink.com/merchants/46274/zegna-affiliate-program
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/zegna/profile/zegna-logo.jpg
+    alt: Zegna logo
+    width: 1065
+    height: 1065
+  gallery:
+    - title: Mens
+      alt: Zegna mens collection
+      path: ../../assets/companies/zegna/gallery/zegna-mens.jpg
+      width: 2250
+      height: 3000
+      source:
+        title: Mens
+        page_url: https://www.zegna.com/ww-en/mens-summer-outfits
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Zegna
 
 ## Profile Image
 
-![pd-profile|160](260107072_915892909036403_2643256627520040904_n.jpg)
+![Profile](../../assets/companies/zegna/profile/zegna-logo.jpg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Mens | <img src="../../assets/companies/zegna/cat/zegna-mens.jpg" width="160"> |
-
-
-Italian luxury fashion house and textile manufacturer; founded 1910 by Ermenegildo Zegna as a wool mill (Lanificio Zegna) in Trivero, Biella, Piedmont; headquartered in Milan; NYSE: ZGN (listed December 2021); world's largest men's luxury fashion brand by revenue; three consumer brands: ZEGNA, Thom Browne, TOM FORD FASHION; Filiera = company-controlled chain of nine Italian textile producers; 2023 revenues €1.9B; artistic director ZEGNA: Alessandro Sartori (since June 2016).
+| Title | Preview |
+|-------|---------|
+| Mens | ![](../../assets/companies/zegna/gallery/zegna-mens.jpg) |
 
 ## Overview
 
@@ -131,7 +74,9 @@ Ermenegildo Zegna N.V. (Zegna Group) is an Italian luxury fashion house headquar
 
 The Zegna family retains 60.3% control; Gianluca Tagliabue became Group CEO on 1 January 2026 (succeeding Gildo Zegna, CEO since 1997). The group operates three consumer brands: ZEGNA (men's luxury ready-to-wear and made-to-measure; 66% of 2021 revenues); Thom Browne (85% acquired 2018, US$500M valuation; 20% of 2021 revenues); and TOM FORD FASHION (license from Estée Lauder effective April 2023; 20+10 year term; men's and women's clothing, accessories, lingerie, fine jewellery, children's, home textiles, and design products). The Filiera — a vertically integrated chain of nine company-controlled Italian textile producers — underpins the group's supply chain from raw material to finished fabric. 2023 revenues: €1.9B; net profit €135.7M; ~500 retail stores worldwide.
 
-## Company Profile
+Alessandro Sartori is the artistic director of ZEGNA (since June 2016), responsible for creative direction across all ZEGNA brands. Thom Browne remains Chief Creative Officer of the Thom Browne brand. No named creative director for TOM FORD FASHION is identified in the source under the Zegna license.
+
+## History
 
 - 1892–1910: Angelo Zegna (watchmaker, Trivero) opens textile factory in Flecchia
 - 1910: Zegna & Giardino wool mill founded in Trivero, Biella (Piedmont Alps) by Ermenegildo Zegna and partners; sourcing wool from Mongolia, Australia, South Africa
@@ -164,11 +109,7 @@ The Zegna family retains 60.3% control; Gianluca Tagliabue became Group CEO on 1
 - 2023: Luigi Fedeli e Figlio minority acquired jointly with Prada (high-quality knitwear; Monza; founded 1934)
 - 2026 (January 1): Gianluca Tagliabue becomes Group CEO
 
-## Market Position
-
-Zegna Group is the largest men's luxury fashion brand in the world by revenue. 2023 revenues: €1.9B; net profit €135.7M. Revenue breakdown: APAC 41%, EMEA 35%, North America 22%, Latin America 2%. Over 500 retail stores worldwide. Thom Browne is present in approximately 300 stores across 40 countries and contributes a distinct American luxury aesthetic. TOM FORD FASHION (licensed from 2023) adds a second globally recognised brand. The Filiera positions Zegna as the most vertically integrated luxury group in Italian menswear — controlling supply chain from raw wool sourcing through textile production and retail.
-
-## Products and Categories
+## Products
 
 **ZEGNA brand:** luxury men's ready-to-wear tailoring, suits, knitwear, sportswear, footwear, accessories, fragrance (since 2003), eyewear (Marcolin license since 2014); Su Misura made-to-measure service (since 1972)
 
@@ -186,6 +127,14 @@ Zegna Group is the largest men's luxury fashion brand in the world by revenue. 2
 - Dondi (65% stake 2019) — high-end knitwear and jersey fabrics
 - Tessitura Ubertino (60% stake 2021) — womenswear fabrics: tweed and jacquard
 - Filati Biagioli Modesto (majority stake with Prada 2021) — cashmere and noble yarns
+
+## Services
+
+Zegna Group operates 500+ retail stores worldwide. Zegna was the first luxury brand to enter China (Beijing flagship, 1991). TOM FORD FASHION license from Estée Lauder (effective April 29, 2023): 20-year term with automatic 10-year renewal; covers men's and women's fashion, accessories, lingerie, fine jewellery, children's clothing, home textiles, and design products — the full commercial fashion and licensing scope of the Tom Ford brand. The Marcolin eyewear license (since 2014) and documented partnerships with Maserati and Real Madrid illustrate Zegna's use of licensing for brand extension. Zegna entered the fragrance market in 2003.
+
+## Markets
+
+Zegna Group is the largest men's luxury fashion brand in the world by revenue. 2023 revenues: €1.9B; net profit €135.7M. Revenue breakdown: APAC 41%, EMEA 35%, North America 22%, Latin America 2%. Over 500 retail stores worldwide. Thom Browne is present in approximately 300 stores across 40 countries and contributes a distinct American luxury aesthetic. TOM FORD FASHION (licensed from 2023) adds a second globally recognised brand. The Filiera positions Zegna as the most vertically integrated luxury group in Italian menswear — controlling supply chain from raw wool sourcing through textile production and retail.
 
 ## Pattern and Surface Design Relevance
 
@@ -205,45 +154,8 @@ Zegna is fundamentally a textile company: the Lanificio Ermenegildo Zegna wool m
 
 **TOM FORD FASHION** (licensed 2023) — includes "home textiles and design products," which directly involves surface pattern design for interior applications.
 
-## Design Direction
+## Official Resources
 
-Alessandro Sartori is the artistic director of ZEGNA (since June 2016), responsible for creative direction across all ZEGNA brands. Thom Browne remains Chief Creative Officer of the Thom Browne brand. No named creative director for TOM FORD FASHION is identified in the source under the Zegna license.
-
-## Retail and Licensing Context
-
-Zegna Group operates 500+ retail stores worldwide. Zegna was the first luxury brand to enter China (Beijing flagship, 1991). TOM FORD FASHION license from Estée Lauder (effective April 29, 2023): 20-year term with automatic 10-year renewal; covers men's and women's fashion, accessories, lingerie, fine jewellery, children's clothing, home textiles, and design products — the full commercial fashion and licensing scope of the Tom Ford brand. The Marcolin eyewear license (since 2014) and documented partnerships with Maserati and Real Madrid illustrate Zegna's use of licensing for brand extension. Zegna entered the fragrance market in 2003.
-
-## Related Pattern Types
-
-- [[Tweed textile surface design]] — woven woollen fabric with complex colour pattern; Tessitura Ubertino (Filiera) specialises in tweed for womenswear; a foundational woven surface pattern in luxury fashion
-- [[Jacquard weave surface pattern]] — decorative woven surface with elaborate figural or geometric motif; Tessitura Ubertino (Filiera); used across luxury tailoring and womenswear
-- [[Wool flannel suiting surface]] — the foundation fabric of ZEGNA and Thom Browne tailoring; colourway and texture variation as surface design
-- [[Silk weave surface design]] — Tessitura di Novara (Filiera); woven silk and cashmere surface patterns for luxury fashion fabrics
-
-## Related Companies
-
-- [[Thom Browne]] — American luxury menswear and womenswear brand; Zegna Group acquired 85% stake August 2018 (US$500M valuation); signature grey flannel, grosgrain trim, and madras check surface design
-- [[Prada Group]] — Italian luxury fashion group; joint acquisition partner with Zegna in Filati Biagioli Modesto (majority 2021) and Luigi Fedeli e Figlio (minority 2023)
-- [[Loro Piana]] — Italian luxury wool and cashmere brand; joint 15% stake with Zegna and Marzotto in Pettinatura di Verrone (2009)
-- [[Marzotto]] — Italian textile and fashion group; joint 15% stake with Zegna and Loro Piana in Pettinatura di Verrone
-- [[Estée Lauder Companies]] — American cosmetics and luxury goods group; licensor of TOM FORD FASHION to Zegna Group (effective April 2023; 20+10 year term)
-
-## Source Notes
-
-- Source: Wikipedia, "Zegna" (first published 2005-01-29; updated through 2025)
-- Founded 1910 by Ermenegildo Zegna in Trivero, Biella; original company Zegna & Giardino wool mill confirmed
-- Wool sourced from Mongolia, Australia, South Africa from the outset confirmed
-- NYSE IPO December 20, 2021; US$3.1B valuation; US$2.4B market cap confirmed
-- Zegna family ~60.3% capital; Temasek 10%; Investindustrial 11%; legal HQ Netherlands since 2022; operational HQ Milan confirmed
-- Filiera = nine Italian textile producers confirmed; all individual acquisitions and stakes verified
-- Thom Browne 85% stake acquired August 2018 (US$500M valuation); founder retained CCO role confirmed
-- TOM FORD FASHION license from Estée Lauder effective April 29, 2023; 20+10 year term; scope: men's/women's fashion, accessories, lingerie, fine jewellery, children's, home textiles, design products confirmed
-- Alessandro Sartori artistic director ZEGNA since June 2016 confirmed
-- Gianluca Tagliabue Group CEO from January 1, 2026 confirmed
-- Agnona majority (1990–2020) sold to Aimone family; Zegna retained 30% confirmed
-- 2023 revenues €1.9B; net profit €135.7M; EMEA 35%, APAC 41%, North America 22% confirmed
-- Su Misura made-to-measure since 1972; first China store 1991 confirmed
-- Oasi Zegna (100 km², 500,000+ conifers) and Casa Zegna historical archive (documents, photographs, technical drawings, sample books; since 2007) noted
-- YAML location field updated from "United States" to "Italy" — Zegna is an Italian company (founded Trivero 1910; HQ Milan); NYSE-listed but not US-based; "United States" was an incorrect placeholder
-- YAML founded updated from blank to "1910"
-- YAML headquarters updated from blank to "Milan, Italy"
+- [About](https://www.zegna.com/ww-en/zegna-world)
+- [Contact](https://www.zegna.com/ww-en/customer-care/contact-us)
+- [Store locator](https://www.zegna.com/ww-en/store-locator)

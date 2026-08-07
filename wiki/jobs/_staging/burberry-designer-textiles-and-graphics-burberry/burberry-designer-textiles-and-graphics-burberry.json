@@ -1,0 +1,162 @@
+{
+  "capture_id": "cap-clip-490d229cfe0e2db0",
+  "canonical_id": "can-clip-490d229cfe0e2db0",
+  "editorial_slug": "burberry-designer-textiles-and-graphics-burberry",
+  "content_hash": "6ac16c2507c601920a6910d4eecbfdf659d4158d7878628a5d9e47383bc6a62b",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Designer, Textiles and Graphics | Burberry",
+  "company": "Burberry",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-490d229cfe0e2db0"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/Designer, Textiles and Graphics  Burberry.md"
+    ],
+    "original_title": "Designer, Textiles and Graphics | Burberry",
+    "original_url": "https://www.linkedin.com/jobs/view/4446808896/",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "6b9ae29a52327e2b1fe2b5d637dd1c231c62a410b7f9bb7fe9808c96d782bb21",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": null,
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/Designer, Textiles and Graphics  Burberry.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": {
+      "id": "134ae63c-b5d0-46f1-a8b1-faaaf522c83d",
+      "slug": "burberry",
+      "label": "Burberry",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "company",
+        "source_location": "yaml.company",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-textile-design",
+        "slug": "textile-design",
+        "label": "Textile Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [
+      {
+        "id": "mk-fashion",
+        "slug": "fashion",
+        "label": "Fashion",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-gb",
+      "slug": "gb",
+      "label": "United Kingdom",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": {
+      "id": "ci-london",
+      "slug": "london",
+      "label": "London",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 95,
+        "matched_on": "slug",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.city",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 96,
+  "quality_status": "pass_with_warnings"
+}

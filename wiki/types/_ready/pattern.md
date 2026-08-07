@@ -5,16 +5,21 @@ status: draft
 type_group: general
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Symmetry
+  - Radial
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pattern/pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=d_ZTXDingzA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pattern-1-pattern-designers.jpg
+    title: Abstract geometric pattern | Premium Vector
+    alt: Abstract geometric pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-geometric-pattern_412982882.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-geometric-pattern_525160-12228.jpg"
+      title: Abstract geometric pattern | Premium Vector
+      description: Download this Premium vector of Abstract geometric pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pattern-2-pattern-designers.jpg
+    title: Abstract organic pattern design background
+    alt: Abstract organic pattern design background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-organic-pattern-design-background_60913917.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-organic-pattern-design-background_1048-19286.jpg"
+      title: Abstract organic pattern design background
+      description: Download this free vector of Abstract organic pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pattern-3-pattern-designers.jpg
+    title: Neutral coloured turin style pattern background
+    alt: Neutral coloured turin style pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/neutral-coloured-turin-style-pattern-background_256037451.htm"
+      image_url: "https://img.magnific.com/free-vector/neutral-coloured-turin-style-pattern-background_1048-20375.jpg"
+      title: Neutral coloured turin style pattern background
+      description: Download this free vector of Neutral coloured turin style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pattern-4-pattern-designers.jpg
+    title: Yellow doodle seamless pattern
+    alt: Yellow doodle seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/yellow-doodle-seamless-pattern_356360367.htm"
+      image_url: "https://img.magnific.com/free-vector/yellow-doodle-seamless-pattern_1409-9227.jpg"
+      title: Yellow doodle seamless pattern
+      description: Download this free vector of Yellow doodle seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Pattern

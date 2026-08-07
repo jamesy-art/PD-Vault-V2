@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-8e712cee5dabaf2b",
+  "editorial_slug": "iliv-textiles-designer",
+  "canonical_id": "can-clip-8e712cee5dabaf2b",
+  "capture_id": "cap-clip-8e712cee5dabaf2b",
+  "ready_status": "ready",
+  "ready_at": "2026-08-07T16:20:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.074a69a3",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "074a69a3fdf40074b1de2f40978b19a0e65426c24adf760ccc0c100d1a009b6c",
+  "title": "Textiles Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 1,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 1,
+    "rewritten_wikilinks": 0
+  }
+}

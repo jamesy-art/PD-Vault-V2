@@ -4,17 +4,23 @@ slug: star-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+  - Emblem
+structures:
+  - Radial
 styles: []
-categories: []
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - star-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/star-pattern/star-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=IM7acFXEq_M
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: star-pattern-1-pattern-designers.jpg
+    title: 4 point stars background
+    alt: 4 point stars background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/4-point-stars-background_59538920.htm"
+      image_url: "https://img.magnific.com/free-vector/4-point-stars-background_78370-2797.jpg"
+      title: 4 point stars background
+      description: Download this free vector of 4 point stars background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: star-pattern-2-pattern-designers.jpg
+    title: Black stars whtie background
+    alt: Black stars whtie background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-stars-whtie-background_166267616.htm"
+      image_url: "https://img.magnific.com/free-vector/black-stars-whtie-background_78370-5263.jpg"
+      title: Black stars whtie background
+      description: Download this free vector of Black stars whtie background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: star-pattern-3-pattern-designers.jpg
+    title: Flat design silver stars pattern
+    alt: Flat design silver stars pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-silver-stars-pattern_35238593.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-silver-stars-pattern_23-2149988776.jpg"
+      title: Flat design silver stars pattern
+      description: Download this free vector of Flat design silver stars pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: star-pattern-4-pattern-designers.jpg
+    title: Gold stars on navy background
+    alt: Gold stars on navy background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/gold-stars-navy-background_177781477.htm"
+      image_url: "https://img.magnific.com/free-vector/gold-stars-navy-background_78370-5451.jpg"
+      title: Gold stars on navy background
+      description: Download this free vector of Gold stars on navy background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # star-pattern

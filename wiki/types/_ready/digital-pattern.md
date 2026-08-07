@@ -5,16 +5,23 @@ status: draft
 type_group: general
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Block
+  - Half-Drop
+  - Diamond
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique:
+  - Digital
 source_count: 1
 source_files:
   - Digital Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/digital-pattern/digital-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=DSE9lnOjljg
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: digital-pattern-1-pattern-designers.jpg
+    title: Digital technology background digital data square blue pattern pixel background | Premium Vector
+    alt: Digital technology background digital data square blue pattern pixel background | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/digital-technology-background-digital-data-square-blue-pattern-pixel-background_419822308.htm"
+      image_url: "https://img.magnific.com/premium-vector/digital-technology-background-digital-data-square-blue-pattern-pixel-background_322958-8735.jpg"
+      title: Digital technology background digital data square blue pattern pixel background | Premium Vector
+      description: Download this Premium vector of Digital technology background digital data square blue pattern pixel background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: digital-pattern-2-pattern-designers.jpg
+    title: Pixels halftone pattern abstract digital technology background | Premium Vector
+    alt: Pixels halftone pattern abstract digital technology background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pixels-halftone-pattern-abstract-digital-technology-background_424096361.htm"
+      image_url: "https://img.magnific.com/premium-vector/pixels-halftone-pattern-abstract-digital-technology-background_202284-1116.jpg"
+      title: Pixels halftone pattern abstract digital technology background | Premium Vector
+      description: Download this Premium vector of Pixels halftone pattern abstract digital technology background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: digital-pattern-3-pattern-designers.jpg
+    title: Technology vector seamless pattern banner geometric striped ornament monochrome linear background
+    alt: Technology vector seamless pattern banner geometric striped ornament monochrome linear background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/technology-vector-seamless-pattern-banner-geometric-striped-ornament-monochrome-linear-background_34481714.htm"
+      image_url: "https://img.magnific.com/free-vector/technology-vector-seamless-pattern-banner-geometric-striped-ornament-monochrome-linear-background_1142-14646.jpg"
+      title: Technology vector seamless pattern banner geometric striped ornament monochrome linear background
+      description: Download this free vector of Technology vector seamless pattern banner geometric striped ornament monochrome linear background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: digital-pattern-4-pattern-designers.jpg
+    title: Texture swimming pool mosaic tile background. wallpaper, banner, backdrop. | Free Photo
+    alt: Texture swimming pool mosaic tile background. wallpaper, banner, backdrop. | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/texture-swimming-pool-mosaic-tile-background-wallpaper-banner-backdrop_18486006.htm"
+      image_url: "https://img.magnific.com/free-photo/texture-swimming-pool-mosaic-tile-background-wallpaper-banner-backdrop_1258-72029.jpg"
+      title: Texture swimming pool mosaic tile background. wallpaper, banner, backdrop. | Free Photo
+      description: Download this free photo of Texture swimming pool mosaic tile background. wallpaper, banner, backdrop. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Digital Pattern

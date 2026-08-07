@@ -1,0 +1,80 @@
+{
+  "cleaner": "indeed",
+  "rules_applied": [
+    "strip_ads_and_footer",
+    "emit_labeled_metadata",
+    "extract_employer_company",
+    "extract_location_block",
+    "extract_job_type",
+    "extract_pay_block",
+    "promote_apply_url",
+    "strip_indeed_chrome_links",
+    "tidy_whitespace"
+  ],
+  "sections_removed": [],
+  "sections_omitted": [],
+  "urls_decoded": [],
+  "warnings": [],
+  "location_fields": {
+    "street": "",
+    "city": "Roanoke",
+    "state": "IN",
+    "postcode": "",
+    "country": "United States",
+    "location": "Roanoke, IN, United States"
+  },
+  "benefits_extracted": [],
+  "skills_extracted": [
+    "Surface Design",
+    "Textile Design",
+    "Colour",
+    "CAD",
+    "Product Development",
+    "Presentation",
+    "PLM",
+    "Pattern Design"
+  ],
+  "software_extracted": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "CLO3D",
+    "FlexPLM"
+  ],
+  "experience_extracted": "Junior",
+  "summary_generated": false,
+  "promotional_sections_removed": [],
+  "company_profile_trimmed": false,
+  "images_removed": 1,
+  "platform_metadata_removed": 8,
+  "empty_sections_removed": 2,
+  "company_profile_shortened": false,
+  "location_normalised": true,
+  "ocr_confidence": "",
+  "metadata_merged": false,
+  "jobs_detected": "",
+  "jobs_detected_count": 0,
+  "contacts_extracted": [],
+  "closing_date_extracted": "",
+  "images_ignored": 0,
+  "editorial_sections_produced": [],
+  "editorial_title_selected": "Associate Surface Designer - Roanoke, IN",
+  "company_identity_source": "explicit_reference",
+  "filename_fallback_used": false,
+  "employment_mapping": "Full-time",
+  "skills_expanded": [
+    "Surface Design",
+    "Textile Design",
+    "Colour",
+    "CAD",
+    "Product Development",
+    "Presentation",
+    "PLM",
+    "Pattern Design"
+  ],
+  "software_expanded": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "CLO3D",
+    "FlexPLM"
+  ]
+}

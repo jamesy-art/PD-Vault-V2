@@ -6,8 +6,12 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Festive
+categories:
+  - Colour
+colour_family: Red
+technique: []
 source_count: 2
 source_files:
   - Red Pattern 2.md
@@ -15,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/red-pattern/red-pattern-1-pattern-designers.jpg
@@ -46,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=Gp_06q1j5fo
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: red-pattern-1-pattern-designers.jpg
+    title: Coloured polygonal background design
+    alt: Coloured polygonal background design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/coloured-polygonal-background-design_913229.htm"
+      image_url: "https://img.magnific.com/free-vector/coloured-polygonal-background-design_1164-33.jpg"
+      title: Coloured polygonal background design
+      description: Download this free vector of Coloured polygonal background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: red-pattern-2-pattern-designers.jpg
+    title: Red background template with wave patterns
+    alt: Red background template with wave patterns
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/red-background-template-with-wave-patterns_6409088.htm"
+      image_url: "https://img.magnific.com/free-vector/red-background-template-with-wave-patterns_1308-36899.jpg"
+      title: Red background template with wave patterns
+      description: Download this free vector of Red background template with wave patterns and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: red-pattern-3-pattern-designers.jpg
+    title: Red ceramic glass colorful tiles mosaic composition pattern background. | Free Photo
+    alt: Red ceramic glass colorful tiles mosaic composition pattern background. | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/red-ceramic-glass-colorful-tiles-mosaic-composition-pattern-background_18488783.htm"
+      image_url: "https://img.magnific.com/free-photo/red-ceramic-glass-colorful-tiles-mosaic-composition-pattern-background_1258-72252.jpg"
+      title: Red ceramic glass colorful tiles mosaic composition pattern background. | Free Photo
+      description: Download this free photo of Red ceramic glass colorful tiles mosaic composition pattern background. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: red-pattern-4-pattern-designers.jpg
+    title: Red geometrical halftone curved star pattern background
+    alt: Red geometrical halftone curved star pattern background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/red-geometrical-halftone-curved-star-pattern-background_1464888.htm"
+      image_url: "https://img.magnific.com/free-vector/red-geometrical-halftone-curved-star-pattern-background_1164-1624.jpg"
+      title: Red geometrical halftone curved star pattern background
+      description: Download this free vector of Red geometrical halftone curved star pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Red Pattern

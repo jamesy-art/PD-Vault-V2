@@ -4,26 +4,14 @@ slug: gradation-pattern
 status: active
 type_group: structure
 summary: Design technique and surface pattern structure where elements — colour, size, shape, or direction — gradually transition from one state to another. Creates depth, rhythm, and visual movement through continuous change. Most commonly expressed in surface pattern as colour gradient (ombré) or progressive size change.
-motifs:
-  - gradient-field
-  - ombré-wash
-  - progressive-size-motif
-  - fading-element
+motifs: []
 structures:
-  - gradient
-  - ombré
-  - progressive-repeat
-  - fading-repeat
-styles:
-  - contemporary
-  - editorial
-  - abstract
-  - painterly
-  - digital
+  - Gradient
+styles: []
 categories:
-  - structure
-  - colour-technique
-  - abstract
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Gradation Pattern 2.md
@@ -31,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/gradation-pattern/gradation-pattern-1-pattern-designers.jpg
@@ -62,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=6UK6Fh854Hw
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: gradation-pattern-1-pattern-designers.jpg
+    title: Black dotted diamonds background
+    alt: Black dotted diamonds background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-dotted-diamonds-background_63885339.htm"
+      image_url: "https://img.magnific.com/free-vector/black-dotted-diamonds-background_78370-3043.jpg"
+      title: Black dotted diamonds background
+      description: Download this free vector of Black dotted diamonds background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: gradation-pattern-2-pattern-designers.jpg
+    title: Black wave halftone background
+    alt: Black wave halftone background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-wave-halftone-background_4036848.htm"
+      image_url: "https://img.magnific.com/free-vector/black-wave-halftone-background_1199-199.jpg"
+      title: Black wave halftone background
+      description: Download this free vector of Black wave halftone background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: gradation-pattern-3-pattern-designers.jpg
+    title: Halftone dots on blur gradient background
+    alt: Halftone dots on blur gradient background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/halftone-dots-blur-gradient-background_3752200.htm"
+      image_url: "https://img.magnific.com/free-vector/halftone-dots-blur-gradient-background_1048-9732.jpg"
+      title: Halftone dots on blur gradient background
+      description: Download this free vector of Halftone dots on blur gradient background  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: gradation-pattern-4-pattern-designers.jpg
+    title: Radiant pleated color waves background | Premium Photo
+    alt: Radiant pleated color waves background | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/radiant-pleated-color-waves-background_422699739.htm"
+      image_url: "https://img.magnific.com/premium-photo/radiant-pleated-color-waves-background_85212-4504.jpg"
+      title: Radiant pleated color waves background | Premium Photo
+      description: Download this Premium photo of Radiant pleated color waves background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Gradation Pattern

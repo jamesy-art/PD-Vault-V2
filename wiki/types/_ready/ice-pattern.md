@@ -5,25 +5,15 @@ status: active
 type_group: nature
 summary: Surface pattern drawing on frost crystal formations, ice crystal geometry, and frozen water structures; associated with winter themes, geometric precision, and crystalline aesthetics
 motifs:
-  - ice crystal
-  - frost fern
-  - snowflake
-  - crystalline
-  - fractal
+  - Celestial
 structures:
-  - radial
-  - branching
-  - all-over
-  - geometric
-styles:
-  - nature
-  - geometric
-  - winter
-  - crystalline
+  - Scatter
+  - Radial
+styles: []
 categories:
-  - nature-pattern
-  - winter
-  - geometric
+  - Nature
+colour_family: Blue
+technique: []
 source_count: 2
 source_files:
   - Ice Pattern 2.md
@@ -31,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ice-pattern/ice-pattern-1-pattern-designers.jpg
@@ -62,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=wxO8adoRDp4
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ice-pattern-1-pattern-designers.jpg
+    title: A blue background with a pattern of ice cubes | Premium AI-generated vector
+    alt: A blue background with a pattern of ice cubes | Premium AI-generated vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/blue-background-with-pattern-ice-cubes_339275436.htm"
+      image_url: "https://img.magnific.com/premium-vector/blue-background-with-pattern-ice-cubes_135595-120938.jpg"
+      title: A blue background with a pattern of ice cubes | Premium AI-generated vector
+      description: Download this Premium AI-generated vector about A blue background with a pattern of ice cubes, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: ice-pattern-2-pattern-designers.jpg
+    title: Blue texture marble wallpaper background | Free Photo
+    alt: Blue texture marble wallpaper background | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/blue-texture-marble-wallpaper-background_13299824.htm"
+      image_url: "https://img.magnific.com/free-photo/blue-texture-marble-wallpaper-background_53876-96715.jpg"
+      title: Blue texture marble wallpaper background | Free Photo
+      description: Download this free photo of Blue texture marble wallpaper background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ice-pattern-3-pattern-designers.jpg
+    title: Detailed orange grunge background with splats and stains | Free Photo
+    alt: Detailed orange grunge background with splats and stains | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/detailed-orange-grunge-background-with-splats-stains_10167167.htm"
+      image_url: "https://img.magnific.com/free-photo/detailed-orange-grunge-background-with-splats-stains_1048-12955.jpg"
+      title: Detailed orange grunge background with splats and stains | Free Photo
+      description: Download this free photo of Detailed orange grunge background with splats and stains and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ice-pattern-4-pattern-designers.jpg
+    title: Light blue background ice crystal pattern vector illustration flat style | Premium AI-generated image
+    alt: Light blue background ice crystal pattern vector illustration flat style | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/light-blue-background-ice-crystal-pattern-vector-illustration-flat-style_380545995.htm"
+      image_url: "https://img.magnific.com/premium-photo/light-blue-background-ice-crystal-pattern-vector-illustration-flat-style_647795-492.jpg"
+      title: Light blue background ice crystal pattern vector illustration flat style | Premium AI-generated image
+      description: Download this Premium AI-generated image about Light blue background ice crystal pattern vector illustration flat style, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ice Pattern

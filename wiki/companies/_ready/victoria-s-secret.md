@@ -1,137 +1,72 @@
 ---
+company_uid: 7a15f689-351c-4235-b160-31a51d678adf
+schema_version: 1
 name: Victoria's Secret
 slug: victoria-s-secret
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
-type_slugs: []
-website: https://www.victoriassecret.com
-instagram: https://www.instagram.com/victoriassecret
-linkedin: https://www.linkedin.com/company/victoria-s-secret
-facebook: https://www.facebook.com/VictoriasSecret
-founded: "1977"
-headquarters: United States
-employees: 30,000
-revenue: $6.2B
-category_images:
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/victoria-s-secret/cat/victoria-s-secret-womens.jpg"
-source_file: Victoria's Secret.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-11
-updated: 2026-06-12
-tiktok: https://www.tiktok.com/@victoriassecret
-youtube: https://www.youtube.com/@victoriassecret
-about_url: https://www.victoriassecret.com/us/pink/pink-about
-careers_url: https://www.victoriassecret.com/us/vsco/pages/careers
-sustainability_url: https://www.victoriassecret.com/us/vsco/pages/sustainability
-press_url: https://www.victoriassecret.com/us/vsco/pages/investor-relations
-contact_url: https://www.victoriassecret.com/us/vsco/pages/contact-us
-returns_url: https://www.victoriassecret.com/us/vsco/pages/returns
-store_locator_url: https://www.victoriassecret.com/us/store-finder
-accessibility_url: https://www.victoriassecret.com/us/vsco/pages/accessibility
-shipping_url: https://www.victoriassecret.com/us/vsco/pages/shipping-information
-retail_categories:
-  - Lingerie
-  - Activewear
-  - Swimwear
-  - Clothing
-  - Beauty
-market_categories:
-  - Womenswear
-collections: []
-profile_image: ../../assets/companies/victoria-s-secret/profile/461141954_1986752081787043_6590466804140817819_n.jpg
-profile_image_local: ../../assets/companies/victoria-s-secret/profile/461141954_1986752081787043_6590466804140817819_n.jpg
-company_logo_selected: ../../assets/companies/victoria-s-secret/profile/461141954_1986752081787043_6590466804140817819_n.jpg
-logo_image_selected: ../../assets/companies/victoria-s-secret/profile/461141954_1986752081787043_6590466804140817819_n.jpg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/victoria-s-secret/profile/461141954_1986752081787043_6590466804140817819_n.jpg
+  - beauty
+  - fashion
+  - retail
+markets:
+  - womenswear
+products:
+  - lingerie
+  - activewear
+  - swimwear
+  - apparel
+  - beauty
+hq_country_code: US
+location: United States
+founded_year: 1977
+employee_count_text: 30,000
+revenue_text: $6.2B
+website_url: https://www.victoriassecret.com
+instagram_url: https://www.instagram.com/victoriassecret
+linkedin_url: https://www.linkedin.com/company/victoria-s-secret
+facebook_url: https://www.facebook.com/VictoriasSecret
+tiktok_url: https://www.tiktok.com/@victoriassecret
+youtube_url: https://www.youtube.com/@victoriassecret
+type_slugs:
+  - lace-textile-pattern
+  - printed-jersey-and-activewear-surface-design
+  - animal-print-in-fashion-textiles
+  - floral-surface-design
 images:
-  profile:
-    - ../../assets/companies/victoria-s-secret/profile/461141954_1986752081787043_6590466804140817819_n.jpg
-trk_reviewed: false
-trk_notes: ""
-trk_new: ""
-trk_women: ""
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: https://www.victoriassecret.com/tt/vs/loungewear/tops
-trk_women_bottoms: https://www.victoriassecret.com/tt/vs/loungewear/bottoms
-trk_women_outerwear: https://www.victoriassecret.com/tt/vs/loungewear/jackets
-trk_women_activewear: ""
-trk_women_swimwear: https://www.victoriassecret.com/tt/vs/swimwear
-trk_women_shoes: ""
-trk_women_bags: https://www.victoriassecret.com/tt/vs/accessories/all-bags
-trk_women_acc: https://www.victoriassecret.com/tt/vs/accessories
-trk_men: ""
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: https://www.victoriassecret.com/tt/vs/accessories/jewelry
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: https://www.victoriassecret.com/tt/vs/beauty
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://www.sovrn.com/victorias-secret-affiliate-program-sovrn-commerce/
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/victoria-s-secret/profile/victoria-s-secret-logo.jpg
+    alt: Victoria's Secret logo
+    width: 813
+    height: 813
+  gallery:
+    - title: Womens
+      alt: Victoria's Secret womens collection
+      path: ../../assets/companies/victoria-s-secret/gallery/victoria-s-secret-womens.jpg
+      width: 750
+      height: 1000
+      source:
+        title: null
+        page_url: null
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Victoria's Secret
 
 ## Profile Image
 
-![pd-profile|160](461141954_1986752081787043_6590466804140817819_n.jpg)
+![Profile](../../assets/companies/victoria-s-secret/profile/victoria-s-secret-logo.jpg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Womens | <img src="../../assets/companies/victoria-s-secret/cat/victoria-s-secret-womens.jpg" width="160"> |
-
-
-American specialty retailer of women's lingerie, clothing, and beauty products; founded June 12, 1977 by Roy Raymond in Palo Alto, California; acquired by Les Wexner (Limited Stores Inc.) in 1982; headquartered in Columbus, Ohio; NYSE: VSXY (independent from L Brands as Victoria's Secret & Co. August 3, 2021); PINK brand launched 2002; one of the largest US lingerie retailers with 1,000+ stores globally.
+| Title | Preview |
+|-------|---------|
+| Womens | ![](../../assets/companies/victoria-s-secret/gallery/victoria-s-secret-womens.jpg) |
 
 ## Overview
 
@@ -141,7 +76,9 @@ Les Wexner purchased the brand and catalogue in 1982 for US$1M and grew it rapid
 
 Victoria's Secret & Co. became an independent public company (NYSE: VSXY) on August 3, 2021 following its spin-off from L Brands. CEO Martin Waters leads the company from 2021. Adore Me was acquired in November 2022 for approximately US$400M. Peak worldwide net sales reached US$7.78B in 2016 (US$6.81B in 2019). Creative director Raul Martinez (formerly of Condé Nast) was appointed December 2020.
 
-## Company Profile
+Creative director Raul Martinez (formerly Condé Nast) was appointed December 2020. The brand's design history includes the Victoria's Secret Fashion Show (1995–2018) as a major creative platform producing themed seasonal costumes with cultural and pattern references. The PINK brand maintains an active print and graphic design programme. No named head of textile or surface print design is identified in the source.
+
+## History
 
 - June 12, 1977: Victoria's Secret founded by Roy Raymond and wife Gaye; first store Stanford Shopping Center, Palo Alto, California; English floral wallpaper design; concept positioned around feminine, welcoming lingerie retail
 - 1979: Catalogue launched; four stores
@@ -158,13 +95,7 @@ Victoria's Secret & Co. became an independent public company (NYSE: VSXY) on Aug
 - 2025 (May): Website security incident disclosed
 - Scale (as of 2016): 370+ VSBA franchise shops worldwide; three divisions: VS Lingerie/Stores, VS Direct, VS Beauty
 
-## Market Position
-
-Victoria's Secret is the largest US specialty lingerie retailer. The brand's commercial scale — US$7.78B peak revenue (2016), 1,000+ US stores, 370+ international franchise shops — reflects dominance in accessible luxury lingerie and intimate apparel at mid-price. The brand has sustained a high-fashion adjacency through its annual Fashion Show (1995–2018; revival planned) and designer and photographer partnerships that positioned the product in aspirational categories. The PINK brand extends the commercial footprint into patterned casual apparel and loungewear for a younger consumer. Adore Me (acquired 2022) brings a digital-native lingerie brand within the portfolio.
-
-Competitor context: the brand's 2000 catalogue repositioning was specifically framed as moving upmarket toward customers who had shifted to La Perla and [[wiki/companies/_ready/wolford]] lingerie, confirming Victoria's Secret's reference point in the accessible-to-premium lingerie transition.
-
-## Products and Categories
+## Products
 
 **Victoria's Secret Lingerie and Stores** — core women's lingerie (bras, underwear, bodysuits); seasonal patterned and printed styles; lace and print constructions across the range
 
@@ -179,6 +110,16 @@ Competitor context: the brand's 2000 catalogue repositioning was specifically fr
 **Adore Me** (acquired November 2022, ~US$400M) — digital-native lingerie brand
 
 **International:** Canada (since 2010); UK (since 2012); China; 370+ VSBA franchise shops worldwide (as of 2016)
+
+## Services
+
+Victoria's Secret operates through company-owned US stores (1,000+ as of 2016), direct-to-consumer e-commerce, and 370+ VSBA (Victoria's Secret Beauty and Accessories) franchise shops worldwide (as of 2016). The catalogue business (launched 1979) was discontinued in 2016. International retail includes Canada (from 2010), UK (from 2012), and China. Victoria's Secret & Co. (NYSE: VSXY) became independent from L Brands on August 3, 2021. The brand does not document external licensing of its print or surface design intellectual property for third-party products.
+
+## Markets
+
+Victoria's Secret is the largest US specialty lingerie retailer. The brand's commercial scale — US$7.78B peak revenue (2016), 1,000+ US stores, 370+ international franchise shops — reflects dominance in accessible luxury lingerie and intimate apparel at mid-price. The brand has sustained a high-fashion adjacency through its annual Fashion Show (1995–2018; revival planned) and designer and photographer partnerships that positioned the product in aspirational categories. The PINK brand extends the commercial footprint into patterned casual apparel and loungewear for a younger consumer. Adore Me (acquired 2022) brings a digital-native lingerie brand within the portfolio.
+
+Competitor context: the brand's 2000 catalogue repositioning was specifically framed as moving upmarket toward customers who had shifted to La Perla and Wolford lingerie, confirming Victoria's Secret's reference point in the accessible-to-premium lingerie transition.
 
 ## Pattern and Surface Design Relevance
 
@@ -196,50 +137,11 @@ Victoria's Secret is a significant commercial platform for surface pattern desig
 
 **Reptile and animal print** — the 2000 catalogue repositioning reference to "reptile-print underthings" confirms printed-surface lingerie construction as a documented commercial category within VS product history.
 
-## Design Direction
+## Official Resources
 
-Creative director Raul Martinez (formerly Condé Nast) was appointed December 2020. The brand's design history includes the Victoria's Secret Fashion Show (1995–2018) as a major creative platform producing themed seasonal costumes with cultural and pattern references. The PINK brand maintains an active print and graphic design programme. No named head of textile or surface print design is identified in the source.
-
-## Retail and Licensing Context
-
-Victoria's Secret operates through company-owned US stores (1,000+ as of 2016), direct-to-consumer e-commerce, and 370+ VSBA (Victoria's Secret Beauty and Accessories) franchise shops worldwide (as of 2016). The catalogue business (launched 1979) was discontinued in 2016. International retail includes Canada (from 2010), UK (from 2012), and China. Victoria's Secret & Co. (NYSE: VSXY) became independent from L Brands on August 3, 2021. The brand does not document external licensing of its print or surface design intellectual property for third-party products.
-
-## Related Pattern Types
-
-- [[Lace textile pattern]] — lace-effect knit construction as surface design in lingerie; bra cups, brief panels, and bodysuit surfaces; core commercial category for Victoria's Secret
-- [[Printed jersey and activewear surface design]] — PINK seasonal print programmes on cotton, jersey, and activewear fabrics; graphic and pattern print applied to casual apparel
-- [[Animal print in fashion textiles]] — reptile print and animal-print lingerie and swimwear documented in VS product history; a persistent commercial motif in the lingerie and swimwear category
-- [[Floral surface design]] — original store interior design employed English floral wallpaper as brand environment; floral lace and printed floral are persistent seasonal print categories in lingerie
-
-## Related Companies
-
-- [[L Brands]] — American retail holding company; parent of Victoria's Secret from 1982 until the VS&Co. spin-off August 2021; also parent of Bath & Body Works
-- [[Adore Me]] — digital-native lingerie brand; acquired by Victoria's Secret & Co. November 2022 (~US$400M)
-- [[wiki/companies/_ready/wolford]] — Austrian luxury hosiery and bodywear brand; cited as luxury lingerie benchmark that VS customers had migrated to in 2000 catalogue repositioning narrative
-
-## Source Notes
-
-- Source: Wikipedia, "Victoria's Secret" (first published 2005-02-13; updated through 2025)
-- Founded June 12, 1977 by Roy Raymond and wife Gaye; Stanford Shopping Center, Palo Alto, California confirmed
-- First store: English floral wallpaper, dark wood décor; Victorian domestic interior concept confirmed
-- Acquired by Les Wexner (Limited Stores Inc.) 1982 for US$1M; five stores and US$6M sales at time of sale confirmed
-- Largest US lingerie retailer by early 1990s confirmed
-- Fashion Show 1995–2018 confirmed; planned revival 2024 noted in source
-- PINK brand launched 2002; swimwear launched 2002 confirmed
-- Catalogue discontinued 2016; US swimwear discontinued 2016; swimwear relaunched 2018/2019 confirmed
-- 1,000+ US stores (as of 2010/2016 source period) confirmed
-- 370+ VSBA franchise shops worldwide (as of 2016) confirmed
-- Canada (2010), UK (2012), China international expansion confirmed
-- Designer Collection launched 2012 ("first high end lingerie line") confirmed
-- Peak worldwide net sales US$7.78B (2016); US$6.81B (2019) confirmed
-- Victoria's Secret & Co. independent spin-off from L Brands August 3, 2021 (NYSE: VSXY) confirmed
-- CEO Martin Waters from 2021 confirmed
-- Adore Me acquired November 2022 (~US$400M) confirmed
-- Raul Martinez (creative director, formerly Condé Nast) appointed December 2020 confirmed
-- 2000 catalogue repositioning / "reptile-print underthings" / Wolford reference confirmed in source
-- Fashion Show costume themes: 'Go East', 'Nomadic Adventures', 'Asian Legends', Native American headdress with animal print confirmed in source
-- Website security incident May 2025 noted in source
-- YAML founded updated from blank to "1977"
-- YAML headquarters updated from blank to "Columbus, Ohio, United States"
-- YAML location "United States" confirmed correct
-
+- [About](https://www.victoriassecret.com/us/pink/pink-about)
+- [Press](https://www.victoriassecret.com/us/vsco/pages/investor-relations)
+- [Contact](https://www.victoriassecret.com/us/vsco/pages/contact-us)
+- [Sustainability](https://www.victoriassecret.com/us/vsco/pages/sustainability)
+- [Store locator](https://www.victoriassecret.com/us/store-finder)
+- [Careers](https://www.victoriassecret.com/us/vsco/pages/careers)

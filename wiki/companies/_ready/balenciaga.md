@@ -1,154 +1,100 @@
 ---
+company_uid: 7f744c34-124c-469a-b329-a91738873436
+schema_version: 1
 name: Balenciaga
 slug: balenciaga
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
+  - accessories
+  - eyewear
+  - fashion
+  - jewellery
+  - luxury
+  - sport
+markets:
+  - womenswear
+  - menswear
+  - football
+  - running
+  - luxury
+products:
+  - footwear
+  - apparel
+  - accessories
+  - bags
+  - jewellery
+  - fragrance
+  - eyewear
+hq_country_code: FR
+location: France
+founded_year: 1919
+employee_count_text: 3,000
+revenue_text: $2B
+website_url: https://www.balenciaga.com
+instagram_url: https://www.instagram.com/Balenciaga
+linkedin_url: https://www.linkedin.com/company/balenciaga/
+facebook_url: https://www.facebook.com/Balenciaga
+tiktok_url: https://www.tiktok.com/@balenciaga
+pinterest_url: https://www.pinterest.com/balenciaga
+parent_company_uid: 0b910007-d63a-4b6f-80de-38fedfd17b22
 type_slugs: []
-website: https://www.balenciaga.com
-instagram: https://www.instagram.com/Balenciaga
-linkedin: https://www.linkedin.com/company/balenciaga/
-facebook: https://www.facebook.com/Balenciaga
-founded: "1919"
-headquarters: France
-employees: 3,000
-revenue: $2B
-category_images:
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/balenciaga/cat/balenciaga-mens.jpg"
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/balenciaga/cat/balenciaga-womens.jpg"
-parent_company: kering
-source_file: kering.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-12
-updated: 2026-06-12
-retail_categories:
-  - Shoes
-  - Clothing
-  - Tops
-  - Bottoms
-  - Dresses & Jumpsuits
-  - Coats & Jackets
-  - Accessories
-  - Bags
-  - Jewellery
-  - Fragrance
-  - Eyewear
-market_categories:
-  - Womenswear
-  - Menswear
-  - Football
-  - Running
-  - Luxury
-collections: []
-tiktok: https://www.tiktok.com/@balenciaga
-pinterest: https://www.pinterest.com/balenciaga
-about_url: https://www.balenciaga.com/en-en/about
-press_url: https://www.balenciaga.com/en-en/le-city-bag-medium-light-espresso-8657602ACNB2308.html
-contact_url: https://www.balenciaga.com/en-en/contactus
-profile_image: ../../assets/companies/balenciaga/profile/company-logo.svg
-profile_image_local: ../../assets/companies/balenciaga/profile/company-logo.svg
-company_logo_selected: ../../assets/companies/balenciaga/profile/company-logo.svg
-logo_image_selected: ../../assets/companies/balenciaga/profile/company-logo.svg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/balenciaga/profile/company-logo.svg
 images:
-  profile:
-    - ../../assets/companies/balenciaga/profile/company-logo.svg
-trk_reviewed: false
-trk_notes: ""
-trk_new: https://www.balenciaga.com/en-en/bags/new-arrivals-bags
-trk_women: https://www.balenciaga.com/en-en/gifts/gifts-for-women
-trk_women_new: https://www.balenciaga.com/en-en/women/discover-women/new-arrivals-for-women
-trk_women_clothing: ""
-trk_women_dresses: https://www.balenciaga.com/en-en/women/ready-to-wear-for-women/dresses-and-skirts-for-women
-trk_women_tops: https://www.balenciaga.com/en-en/women/ready-to-wear-for-women/knitwear-for-women
-trk_women_bottoms: https://www.balenciaga.com/en-en/women/ready-to-wear-for-women/pants-for-women
-trk_women_outerwear: https://www.balenciaga.com/en-en/women/ready-to-wear-for-women/coats-and-jackets
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: https://www.balenciaga.com/en-en/women/shoes-for-women/heels-for-women
-trk_women_bags: https://www.balenciaga.com/en-en/women/bags-for-women/handbags
-trk_women_acc: https://www.balenciaga.com/en-en/women/accessories/belts-for-women
-trk_men: https://www.balenciaga.com/en-en/gifts/gifts-for-men
-trk_men_new: https://www.balenciaga.com/en-en/men/discover-men/new-arrivals-for-men
-trk_men_clothing: ""
-trk_men_tops: https://www.balenciaga.com/en-en/men/ready-to-wear%C2%A0for-men/knitwear
-trk_men_bottoms: https://www.balenciaga.com/en-en/men/ready-to-wear%C2%A0for-men/pants
-trk_men_outerwear: https://www.balenciaga.com/en-en/men/ready-to-wear%C2%A0for-men/coats-and-jackets%C2%A0for-men
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: https://www.balenciaga.com/en-en/men/shoes-for-men/boots-for-men
-trk_men_bags: https://www.balenciaga.com/en-en/men/bags-for-men/backpacks
-trk_men_acc: https://www.balenciaga.com/en-en/men/accessories-for-men/belts%C2%A0for-men
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: https://www.balenciaga.com/en-en/gifts/gifts-for-home
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: https://www.balenciaga.com/en-en/fragrances
-aff_has_program: ""
-aff_network: https://www.viglink.com/merchants/46273/balenciaga-affiliate-program
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/balenciaga/profile/balenciaga-logo.svg
+    alt: Balenciaga logo
+    width: 128
+    height: 15
+  gallery:
+    - title: Mens
+      alt: Balenciaga mens collection
+      path: ../../assets/companies/balenciaga/gallery/balenciaga-mens.jpg
+      width: 3000
+      height: 3000
+      source:
+        title: Mens
+        page_url: https://www.balenciaga.com/en-en/gifts/gifts-for-men
+      affiliate:
+        enabled: false
+        url: null
+    - title: Womens
+      alt: Balenciaga womens collection
+      path: ../../assets/companies/balenciaga/gallery/balenciaga-womens.jpg
+      width: 3000
+      height: 3000
+      source:
+        title: Womens
+        page_url: https://www.balenciaga.com/en-en/gifts/gifts-for-women
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Balenciaga
 
 ## Profile Image
 
-![pd-profile|160](wiki/assets/companies/balenciaga/profile/company-logo.svg)
+![Profile](../../assets/companies/balenciaga/profile/balenciaga-logo.svg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Mens | <img src="../../assets/companies/balenciaga/cat/balenciaga-mens.jpg" width="160"> |
-| Womens | <img src="../../assets/companies/balenciaga/cat/balenciaga-womens.jpg" width="160"> |
-
-
-Spanish luxury fashion house founded 1919 San Sebastián by Cristóbal Balenciaga; Paris couture from 1937; [[wiki/companies/_staging/holding/kering]] subsidiary since 2001; creative director Pierpaolo Piccioli (from July 2025); estimated revenue $2 billion (2022).
+| Title | Preview |
+|-------|---------|
+| Mens | ![](../../assets/companies/balenciaga/gallery/balenciaga-mens.jpg) |
+| Womens | ![](../../assets/companies/balenciaga/gallery/balenciaga-womens.jpg) |
 
 ## Overview
 
-Balenciaga SA is a Spanish luxury fashion house headquartered in Paris, founded in San Sebastián in 1919 by the Spanish couturier Cristóbal Balenciaga (1895–1972). The house relocated to Paris in 1937 following the Spanish Civil War, opening on Avenue George V. Cristóbal Balenciaga is considered one of the most technically influential couturiers of the twentieth century, credited with redefining the modern silhouette through innovations in construction, fabric manipulation, and garment architecture. The house closed in 1968 and was revived in 1986. [[wiki/companies/_staging/holding/kering]] (then Gucci Group/PPR) acquired a controlling stake in 2001. Estimated revenue reached approximately $2 billion in 2022. Current CEO is Gianfranco Gianangeli (from November 2024); creative director is Pierpaolo Piccioli (from July 2025).
+Balenciaga SA is a Spanish luxury fashion house headquartered in Paris, founded in San Sebastián in 1919 by the Spanish couturier Cristóbal Balenciaga (1895–1972). The house relocated to Paris in 1937 following the Spanish Civil War, opening on Avenue George V. Cristóbal Balenciaga is considered one of the most technically influential couturiers of the twentieth century, credited with redefining the modern silhouette through innovations in construction, fabric manipulation, and garment architecture. The house closed in 1968 and was revived in 1986. Kering (then Gucci Group/PPR) acquired a controlling stake in 2001. Estimated revenue reached approximately $2 billion in 2022. Current CEO is Gianfranco Gianangeli (from November 2024); creative director is Pierpaolo Piccioli (from July 2025).
 
 Note: YAML location field shows "United States" — Balenciaga is a Spanish-founded house headquartered in Paris, France. This is a data placeholder error. YAML preserved as found.
 
-## Company Profile
+Balenciaga's design identity has shifted significantly across creative directors. Cristóbal Balenciaga's founding language was architectural silhouette and structural fabric manipulation. Nicolas Ghesquière's tenure (1997–2012) modernised the silhouette through body-garment tension and introduced commercial accessories. Alexander Wang (2013–2015) brought sportswear influence. Demna Gvasalia (2015–2025) pursued conceptual deconstructivism, trompe-l'œil surface illusion, logo saturation, and luxury-meets-irony positioning — resulting in the brand's highest commercial performance period. Pierpaolo Piccioli (from July 2025) brings a haute couture and haute artisanal background from his long tenure at Valentino.
+
+## History
 
 Cristóbal Balenciaga opened his first boutique in San Sebastián in 1917, expanding to Madrid and Barcelona. The Spanish Civil War forced the closure of his Spanish operations; he relocated to Paris and opened his couture house on Avenue George V in August 1937. The first Paris collection was heavily influenced by the Spanish Renaissance. Within two years the press described him as a revolutionary. Clients included the Spanish Royal Family, Bunny Mellon, Marella Agnelli, Gloria Guinness, Mona von Bismarck, Jackie Kennedy, and Queen Fabiola of Belgium (wedding dress, 1960).
 
@@ -156,11 +102,7 @@ Cristóbal Balenciaga closed the house in 1968 and died in 1972. Nephews ran the
 
 Protégés of Cristóbal Balenciaga who subsequently opened their own houses: Hubert de Givenchy, Oscar de la Renta, André Courrèges, and Emanuel Ungaro.
 
-## Market Position
-
-Balenciaga is a global luxury fashion house within the [[wiki/companies/_staging/holding/kering]] portfolio, which also includes Gucci, Saint Laurent, Bottega Veneta, Alexander McQueen, Brioni, Boucheron, and others. The brand occupies the avant-garde luxury segment, known for experimental silhouettes, deconstructivist aesthetics, and provocative commercial strategies. Under Demna Gvasalia, the brand's commercial position strengthened significantly, with analysts estimating approximately $2 billion in revenue by 2022.
-
-## Products and Categories
+## Products
 
 - Ready-to-wear: womenswear, menswear
 - Footwear: shoes (including the Speed Trainer, Triple S sneaker)
@@ -168,6 +110,14 @@ Balenciaga is a global luxury fashion house within the [[wiki/companies/_staging
 - Accessories and jewellery
 - Fragrance (licensed to Coty)
 - Eyewear
+
+## Services
+
+Balenciaga is owned by Kering (Gucci Group acquired controlling stake 2001). The brand operates a global network of freestanding boutiques: flagship stores include a Tokyo flagship (opened May 2024) and first Mexico store in Cancún (opened June 2024). Fragrance licence is held by Coty. Revenue was estimated at approximately $2 billion for 2022.
+
+## Markets
+
+Balenciaga is a global luxury fashion house within the Kering portfolio, which also includes Gucci, Saint Laurent, Bottega Veneta, Alexander McQueen, Brioni, Boucheron, and others. The brand occupies the avant-garde luxury segment, known for experimental silhouettes, deconstructivist aesthetics, and provocative commercial strategies. Under Demna Gvasalia, the brand's commercial position strengthened significantly, with analysts estimating approximately $2 billion in revenue by 2022.
 
 ## Pattern and Surface Design Relevance
 
@@ -185,28 +135,8 @@ Balenciaga is a global luxury fashion house within the [[wiki/companies/_staging
 
 **Spanish Renaissance embroidery:** Cristóbal Balenciaga's first Paris collection (1937) drew on Spanish Renaissance design, including embroidery and richly surfaced fabrics from the Spanish decorative tradition.
 
-## Design Direction
+## Official Resources
 
-Balenciaga's design identity has shifted significantly across creative directors. Cristóbal Balenciaga's founding language was architectural silhouette and structural fabric manipulation. Nicolas Ghesquière's tenure (1997–2012) modernised the silhouette through body-garment tension and introduced commercial accessories. Alexander Wang (2013–2015) brought sportswear influence. Demna Gvasalia (2015–2025) pursued conceptual deconstructivism, trompe-l'œil surface illusion, logo saturation, and luxury-meets-irony positioning — resulting in the brand's highest commercial performance period. Pierpaolo Piccioli (from July 2025) brings a haute couture and haute artisanal background from his long tenure at Valentino.
-
-## Retail and Licensing Context
-
-Balenciaga is owned by [[wiki/companies/_staging/holding/kering]] (Gucci Group acquired controlling stake 2001). The brand operates a global network of freestanding boutiques: flagship stores include a Tokyo flagship (opened May 2024) and first Mexico store in Cancún (opened June 2024). Fragrance licence is held by Coty. Revenue was estimated at approximately $2 billion for 2022.
-
-## Related Pattern Types
-
-- Structural silhouette construction (cocoon, balloon, chemise, Empire line)
-- Trompe-l'œil printed surface illusion (plaid boxer sweatpants, 2021)
-- Spanish Renaissance embroidery (founding collection, 1937)
-- Intricate embroidery and heavy fabric surface (1960s couture)
-- Plant-based leather material surface (Lunaform, 2023)
-
-## Related Companies
-
-- [[wiki/companies/_staging/holding/kering]] — parent company (since 2001)
-
-## Source Notes
-
-- Primary source: Wikipedia, "Balenciaga" — enriched 2026-06-12
-- Kering cross-reference: `source_file: kering.md`
-- YAML location "United States" flagged as incorrect placeholder; correct HQ: Paris, France (Spanish-founded house); YAML preserved as found
+- [About](https://www.balenciaga.com/en-en/about)
+- [Press](https://www.balenciaga.com/en-en/le-city-bag-medium-light-espresso-8657602ACNB2308.html)
+- [Contact](https://www.balenciaga.com/en-en/contactus)

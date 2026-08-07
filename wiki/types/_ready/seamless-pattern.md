@@ -5,16 +5,23 @@ status: draft
 type_group: seasonal
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Block
+  - Half-Drop
+  - Brick
+styles:
+  - Arts & Crafts
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Seamless Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/seamless-pattern/seamless-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=uB0IG2x2wPc
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: seamless-pattern-1-pattern-designers.jpg
+    title: Abstract seamless pattern with circles | Premium Vector
+    alt: Abstract seamless pattern with circles | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-seamless-pattern-with-circles_5475325.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-seamless-pattern-with-circles_118877-160.jpg"
+      title: Abstract seamless pattern with circles | Premium Vector
+      description: Download this Premium vector of Abstract seamless pattern with circles and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: seamless-pattern-2-pattern-designers.jpg
+    title: Blue green leaves watercolor seamless pattern
+    alt: Blue green leaves watercolor seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-green-leaves-watercolor-seamless-pattern_20161560.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-green-leaves-watercolor-seamless-pattern_65186-3033.jpg"
+      title: Blue green leaves watercolor seamless pattern
+      description: Download this free vector of Blue green leaves watercolor seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: seamless-pattern-3-pattern-designers.jpg
+    title: Seamless pattern of colorful leaves
+    alt: Seamless pattern of colorful leaves
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-pattern-colorful-leaves_14685668.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-pattern-colorful-leaves_1108-583.jpg"
+      title: Seamless pattern of colorful leaves
+      description: Download this free vector of Seamless pattern of colorful leaves and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: seamless-pattern-4-pattern-designers.jpg
+    title: Zigzag background
+    alt: Zigzag background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/zigzag-background_354893077.htm"
+      image_url: "https://img.magnific.com/free-vector/zigzag-background_1409-8998.jpg"
+      title: Zigzag background
+      description: Download this free vector of Zigzag background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Seamless Pattern

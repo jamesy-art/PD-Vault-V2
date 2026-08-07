@@ -1,127 +1,65 @@
 ---
+company_uid: 986c689a-36fe-4392-b24a-a489db52b6f9
+schema_version: 1
 name: Ulysse Nardin
 slug: ulysse-nardin
-status: draft
-company_type: Brand
-location: Switzerland
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
-type_slugs: []
-website: https://www.ulysse-nardin.com
-instagram: https://www.instagram.com/ulyssenardinofficial
-linkedin: https://www.linkedin.com/company/ulyssenardin/
-facebook: https://www.facebook.com/UlysseNardinwatches
-founded: "1846"
-headquarters: Switzerland
-employees: "200"
-revenue: $200M
-category_images:
-  - label: "Watches"
-    category: "watches"
-    image: "../../assets/companies/ulysse-nardin/cat/ulysse-nardin-watches.jpg"
-source_file: Ulysse Nardin.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-11
-updated: 2026-06-12
-youtube: https://www.youtube.com/user/UlysseNardinWatches
-about_url: https://www.ulysse-nardin.com/about-us/heritage
-careers_url: https://www.ulysse-nardin.com/careers
-press_url: https://www.ulysse-nardin.com/newsletter/subscribe
-contact_url: https://www.ulysse-nardin.com/contact-us
-retail_categories:
-  - Watches
-market_categories:
-  - Menswear
-collections: []
-profile_image: ../../assets/companies/ulysse-nardin/profile/722562581_18594370060013216_835899359640570047_n.jpg
-profile_image_local: ../../assets/companies/ulysse-nardin/profile/722562581_18594370060013216_835899359640570047_n.jpg
-company_logo_selected: ../../assets/companies/ulysse-nardin/profile/722562581_18594370060013216_835899359640570047_n.jpg
-logo_image_selected: ../../assets/companies/ulysse-nardin/profile/722562581_18594370060013216_835899359640570047_n.jpg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/ulysse-nardin/profile/722562581_18594370060013216_835899359640570047_n.jpg
+  - fashion
+  - luxury
+  - watches
+markets:
+  - menswear
+products:
+  - watches
+hq_country_code: CH
+location: Switzerland
+founded_year: 1846
+employee_count_text: '200'
+revenue_text: $200M
+website_url: https://www.ulysse-nardin.com
+instagram_url: https://www.instagram.com/ulyssenardinofficial
+linkedin_url: https://www.linkedin.com/company/ulyssenardin/
+facebook_url: https://www.facebook.com/UlysseNardinwatches
+youtube_url: https://www.youtube.com/user/UlysseNardinWatches
+type_slugs:
+  - enamel-dial-surface-design
+  - guilloch-and-engraved-movement-surface-patterns
 images:
-  profile:
-    - ../../assets/companies/ulysse-nardin/profile/722562581_18594370060013216_835899359640570047_n.jpg
-trk_reviewed: false
-trk_notes: ""
-trk_new: https://www.ulysse-nardin.com/watches/latest-creations
-trk_women: ""
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: ""
-trk_women_bottoms: ""
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: ""
-trk_men: ""
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: https://www.ulysse-nardin.com/watches
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: ""
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/ulysse-nardin/profile/ulysse-nardin-logo.jpg
+    alt: Ulysse Nardin logo
+    width: 872
+    height: 872
+  gallery:
+    - title: Watches
+      alt: Ulysse Nardin watches collection
+      path: ../../assets/companies/ulysse-nardin/gallery/ulysse-nardin-watches.jpg
+      width: 1920
+      height: 1920
+      source:
+        title: Watches
+        page_url: https://www.ulysse-nardin.com/watches
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Ulysse Nardin
 
 ## Profile Image
 
-![pd-profile|160](722562581_18594370060013216_835899359640570047_n.jpg)
+![Profile](../../assets/companies/ulysse-nardin/profile/ulysse-nardin-logo.jpg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Watches | <img src="../../assets/companies/ulysse-nardin/cat/ulysse-nardin-watches.jpg" width="160"> |
-
-
-Swiss luxury watchmaking company; founded 1846 in Le Locle, Switzerland; specialist in marine chronometers and highly complicated timepieces; supplied navigational instruments to 50+ world navies; headquarters in Le Locle since 1865; current owner: Sowind Group SA (management buyout from Kering, announced January 2022); member of the Fondation de la Haute Horlogerie; CEO Patrick Pruniaux (from 2017).
+| Title | Preview |
+|-------|---------|
+| Watches | ![](../../assets/companies/ulysse-nardin/gallery/ulysse-nardin-watches.jpg) |
 
 ## Overview
 
@@ -129,7 +67,9 @@ Ulysse Nardin SA is a Swiss luxury watchmaking company founded in 1846 in Le Loc
 
 Following Ulysse Nardin's death in 1876, the company was inherited by his son Paul-David Nardin. The quartz crisis threatened the brand's viability in the late 1970s and early 1980s; in 1983, businessman Rolf W. Schnyder acquired the company and revived it in partnership with watchmaker Ludwig Oechslin. The renewed company produced landmark complications including the Trilogy of Time astronomical watches (1985–1992) and the Freak (2001), which introduced silicon escapement components — an industry first. Ulysse Nardin has occupied its original Le Locle headquarters since 1865 and operates manufacturing plants in Le Locle (enamel dials via Donzé Cadrans, acquired 2011), La Chaux-de-Fonds (R&D and movement production), and Sion (Sigatec; micromechanics in silicon). Following Schnyder's sudden death in 2011, his wife Chai Schnyder managed the company until its acquisition by the French luxury group Kering in 2014. In January 2022, Kering announced the sale of Ulysse Nardin and Girard-Perregaux to Sowind Group SA via management buyout. Patrick Pruniaux (formerly of Apple) has served as CEO since 2017.
 
-## Company Profile
+Watchmaker Ludwig Oechslin is the key documented design collaborator in Ulysse Nardin's modern revival — responsible for the Trilogy of Time complications (1985–1992) and the 150th anniversary watches (1996). No group-level creative director is identified for the contemporary period. The Freak collection's design brief — eliminating conventional dial, crown, and hands to expose the movement as the visual element — represents a foundational design direction decision. The Donzé Cadrans acquisition (2011) signals in-house investment in dial surface craftsmanship as a design differentiator.
+
+## History
 
 **Early history:**
 - 1823: Ulysse Nardin born in Le Locle, Switzerland
@@ -161,11 +101,7 @@ Following Ulysse Nardin's death in 1876, the company was inherited by his son Pa
 - October 2025: Freak S Enamel released (brushed/polished titanium case; ruby red and turquoise blue colourways)
 - November 2025: UR-FREAK unveiled — collaboration with URWERK; new movement UN-241 (based on UN-240)
 
-## Market Position
-
-Ulysse Nardin occupies a defined position in the Swiss luxury watch market within haute horlogerie — known for technical innovation (silicon escapement as industry first in 2001) and craft traditions (enamel dials, astronomical complications). The brand's marine chronometer heritage and the Freak collection's engineering distinction give it dual credentials of precision craft and avant-garde design. Post-Kering independence (2022), Ulysse Nardin and Girard-Perregaux operate under Sowind Group SA as independent companies. The brand is a member of the Fondation de la Haute Horlogerie. Distribution is through a global network of authorised retailers and boutiques across Europe, Americas, Middle East, Asia, Africa, Australia, and Russia.
-
-## Products and Categories
+## Products
 
 **Marine chronometers** — the brand's founding category; precision navigational instruments; supplied to 50+ navies historically; Marine collection is the brand's heritage anchor and continues as a commercial line
 
@@ -181,6 +117,14 @@ Ulysse Nardin occupies a defined position in the Swiss luxury watch market withi
 
 **Only Watch charity timepieces** — biennial participation; unique limited-edition pieces created for charity auction under patronage of Prince Albert II (neuromuscular disease research); "Only Watch Stranger" (2015, music box mechanism playing Queen's "We are the Champions")
 
+## Services
+
+Ulysse Nardin sells through a global distribution network of authorised retailers plus directly through boutiques in key markets (documented boutiques include New York, in the Ritz-Carlton). Distribution spans Europe, Americas, Middle East, Asia, Africa, Australia, China, and Russia. No licensing programmes are documented in the source. The brand was part of Kering's luxury group 2014–2022 and is now independent under Sowind Group SA alongside Girard-Perregaux. The biennial Only Watch charity auction (patronage of Monaco's Prince Albert II) provides a high-visibility unique-piece platform.
+
+## Markets
+
+Ulysse Nardin occupies a defined position in the Swiss luxury watch market within haute horlogerie — known for technical innovation (silicon escapement as industry first in 2001) and craft traditions (enamel dials, astronomical complications). The brand's marine chronometer heritage and the Freak collection's engineering distinction give it dual credentials of precision craft and avant-garde design. Post-Kering independence (2022), Ulysse Nardin and Girard-Perregaux operate under Sowind Group SA as independent companies. The brand is a member of the Fondation de la Haute Horlogerie. Distribution is through a global network of authorised retailers and boutiques across Europe, Americas, Middle East, Asia, Africa, Australia, and Russia.
+
 ## Pattern and Surface Design Relevance
 
 Ulysse Nardin's surface design relevance is concentrated in the watch dial as a hand-crafted applied surface art form, the engraving of plates and bridges with distinctive patterns, and the material innovation traditions of the Freak collection.
@@ -195,45 +139,9 @@ Ulysse Nardin's surface design relevance is concentrated in the watch dial as a 
 
 **Marine motif and nautical surface language** — Ulysse Nardin's marine chronometer heritage is a recurring design reference across the brand's watch collections; the Marine collection uses nautical and navigation imagery as applied surface motifs.
 
-## Design Direction
+## Official Resources
 
-Watchmaker Ludwig Oechslin is the key documented design collaborator in Ulysse Nardin's modern revival — responsible for the Trilogy of Time complications (1985–1992) and the 150th anniversary watches (1996). No group-level creative director is identified for the contemporary period. The Freak collection's design brief — eliminating conventional dial, crown, and hands to expose the movement as the visual element — represents a foundational design direction decision. The Donzé Cadrans acquisition (2011) signals in-house investment in dial surface craftsmanship as a design differentiator.
-
-## Retail and Licensing Context
-
-Ulysse Nardin sells through a global distribution network of authorised retailers plus directly through boutiques in key markets (documented boutiques include New York, in the Ritz-Carlton). Distribution spans Europe, Americas, Middle East, Asia, Africa, Australia, China, and Russia. No licensing programmes are documented in the source. The brand was part of Kering's luxury group 2014–2022 and is now independent under Sowind Group SA alongside Girard-Perregaux. The biennial Only Watch charity auction (patronage of Monaco's Prince Albert II) provides a high-visibility unique-piece platform.
-
-## Related Pattern Types
-
-- [[Enamel dial surface design]] — Grand Feu enamel and cloisonné techniques applied to watch dials; Donzé Cadrans as in-house and third-party enamel dial producer; enamel dial as applied surface art object
-- [[Guilloché and engraved movement surface patterns]] — engraving of plates, bridges, and movement components with decorative patterns; a classical haute horlogerie surface discipline
-
-## Related Companies
-
-- [[wiki/companies/_staging/RFI/kering]] — French luxury goods group; owned Ulysse Nardin 2014–2022; sold to Sowind Group SA via management buyout January 2022
-- [[Girard-Perregaux]] — Swiss watch brand co-owned under Sowind Group SA post-2022; departed Kering alongside Ulysse Nardin
-- [[Sowind Group SA]] — current parent entity; holds Ulysse Nardin and Girard-Perregaux
-- [[The Swatch Group]] — world's largest watch group; operates in comparable haute horlogerie and precision watchmaking segments
-
-## Source Notes
-
-- Source: Wikipedia, "Ulysse Nardin" (first published 2005-07-04; updated through 2026)
-- Founded 1846 in Le Locle, Switzerland; Le Locle headquarters since 1865 confirmed
-- Marine chronometers: 50+ navies; US Navy from 1902; Washington Naval Observatory competitions confirmed
-- Neuchâtel Observatory final report 1975: 4,324 certificates / 4,504 submitted (95%); 18 gold medals confirmed
-- Ulysse Nardin born 1823; died 1876 age 53; Paul-David Nardin succeeded confirmed
-- Rolf Schnyder acquisition 1983; Ludwig Oechslin partnership confirmed
-- Trilogy of Time: Astrolabium 1985 (21 functions; Guinness record 1989); Planetarium Copernicus 1988; Tellurium Johannes Kepler 1992 confirmed
-- Tellurium cloisonné dial: 54 processes, 12 baking operations, 50+ hours, each unique confirmed
-- Marine Chronometer 1846 + Perpetual Ludwig (1996; 150th anniversary; Oechslin) confirmed
-- Freak (2001): carrousel-tourbillon; silicon escapement (industry first); Watch of the Year 2002 confirmed
-- Donzé Cadrans acquired 2011; enamel heated to 850°C / 1500°F confirmed
-- UN-118 first in-house automatic caliber 2012 confirmed
-- Kering acquisition 2014 (100%); Patrick Pruniaux CEO 2017 (formerly Apple) confirmed
-- Kering MBO announced January 24, 2022; Sowind Group SA formed confirmed
-- Freak S Enamel October 2025; UR-FREAK collaboration with URWERK November 2025 confirmed
-- Decorators "engrave plates and bridges with distinctive patterns" confirmed from source text
-- Only Watch biennial participation; "Only Watch Stranger" 2015 (music box, Queen's "We are the Champions") confirmed
-- YAML location field updated from "United States" to "Switzerland" — Ulysse Nardin is a Swiss company headquartered in Le Locle, Switzerland since 1865
-- YAML founded updated from blank to "1846"
-- YAML headquarters updated from blank to "Le Locle, Switzerland"
+- [About](https://www.ulysse-nardin.com/about-us/heritage)
+- [Press](https://www.ulysse-nardin.com/newsletter/subscribe)
+- [Contact](https://www.ulysse-nardin.com/contact-us)
+- [Careers](https://www.ulysse-nardin.com/careers)

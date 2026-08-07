@@ -398,7 +398,7 @@ Selected Instagram pattern images suggest organic, surface-oriented print work i
 
 ## Connections
 
-- [[wiki/companies/_ready/next]] — student placement (kidswear)
+- [[wiki/companies/_staging/next]] — student placement (kidswear)
 - [[Kidswear]] — NEXT placement context
 - [[Sustainable Textiles]] — bio-materials research focus
 - [[Print and Pattern Design]] — stated career direction

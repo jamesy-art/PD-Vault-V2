@@ -4,17 +4,24 @@ slug: hello-kitty-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Novelty
+structures:
+  - Scatter
+  - Block
+styles:
+  - Kawaii
+categories:
+  - Novelty
+colour_family: Pink
+technique: []
 source_count: 1
 source_files:
   - Hello Kitty Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/hello-kitty-pattern/hello-kitty-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=GKl4vlHYBPA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: hello-kitty-pattern-1-pattern-designers.jpg
+    title: Adorable cat seamless pattern | Premium Vector
+    alt: Adorable cat seamless pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/adorable-cat-seamless-pattern_9414214.htm"
+      image_url: "https://img.magnific.com/premium-vector/adorable-cat-seamless-pattern_42349-780.jpg"
+      title: Adorable cat seamless pattern | Premium Vector
+      description: Download this Premium vector of Adorable cat seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hello-kitty-pattern-2-pattern-designers.jpg
+    title: Baby girl editable pattern
+    alt: Baby girl editable pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/baby-girl-editable-pattern_1091710.htm"
+      image_url: "https://img.magnific.com/free-vector/baby-girl-editable-pattern_1108-199.jpg"
+      title: Baby girl editable pattern
+      description: Download this free vector of Baby girl editable pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hello-kitty-pattern-3-pattern-designers.jpg
+    title: Love valentine pattern vector illustration
+    alt: Love valentine pattern vector illustration
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/love-valentine-pattern-vector-illustration_33818506.htm"
+      image_url: "https://img.magnific.com/free-vector/love-valentine-pattern-vector-illustration_271628-961.jpg"
+      title: Love valentine pattern vector illustration
+      description: Download this free vector of Love valentine pattern vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hello-kitty-pattern-4-pattern-designers.jpg
+    title: Valentines day doodles seamless pattern light background | Premium Vector
+    alt: Valentines day doodles seamless pattern light background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/valentines-day-doodles-seamless-pattern-light-background_413007448.htm"
+      image_url: "https://img.magnific.com/premium-vector/valentines-day-doodles-seamless-pattern-light-background_1105619-333.jpg"
+      title: Valentines day doodles seamless pattern light background | Premium Vector
+      description: Download this Premium vector of Valentines day doodles seamless pattern light background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Hello Kitty Pattern

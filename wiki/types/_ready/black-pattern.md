@@ -6,15 +6,19 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Gothic
+categories:
+  - Colour
+colour_family: Black
+technique: []
 source_count: 1
 source_files:
   - Black Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/black-pattern/black-pattern-1-pattern-designers.jpg
@@ -45,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=9vntypeV5QU
 learn_more_youtube_2: https://www.youtube.com/watch?v=_EUObh0W4CU
 learn_more_youtube_3: ""
+gallery_images:
+  - path: black-pattern-1-pattern-designers.jpg
+    title: 3d cube art seamless pattern in black colors | Premium Vector
+    alt: 3d cube art seamless pattern in black colors | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/3d-cube-art-seamless-pattern-black-colors_62358053.htm"
+      image_url: "https://img.magnific.com/premium-vector/3d-cube-art-seamless-pattern-black-colors_573652-2209.jpg"
+      title: 3d cube art seamless pattern in black colors | Premium Vector
+      description: Download this Premium vector of 3d cube art seamless pattern in black colors and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: black-pattern-2-pattern-designers.jpg
+    title: Broken black eyeshadow powder background | Free Photo
+    alt: Broken black eyeshadow powder background | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/broken-black-eyeshadow-powder-background_15438856.htm"
+      image_url: "https://img.magnific.com/free-photo/broken-black-eyeshadow-powder-background_53876-101326.jpg"
+      title: Broken black eyeshadow powder background | Free Photo
+      description: Download this free photo of Broken black eyeshadow powder background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: black-pattern-3-pattern-designers.jpg
+    title: Grey metallic minimal lines abstract corporate background | Premium Vector
+    alt: Grey metallic minimal lines abstract corporate background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/grey-metallic-minimal-lines-abstract-corporate-background_418648149.htm"
+      image_url: "https://img.magnific.com/premium-vector/grey-metallic-minimal-lines-abstract-corporate-background_88343-19011.jpg"
+      title: Grey metallic minimal lines abstract corporate background | Premium Vector
+      description: Download this Premium vector of Grey metallic minimal lines abstract corporate background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: black-pattern-4-pattern-designers.jpg
+    title: Grunge abstract element pattern
+    alt: Grunge abstract element pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/grunge-abstract-element-pattern_358029180.htm"
+      image_url: "https://img.magnific.com/free-vector/grunge-abstract-element-pattern_1409-9484.jpg"
+      title: Grunge abstract element pattern
+      description: Download this free vector of Grunge abstract element pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Black Pattern

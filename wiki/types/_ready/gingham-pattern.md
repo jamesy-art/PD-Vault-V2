@@ -5,16 +5,22 @@ status: draft
 type_group: general
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Blue
+technique:
+  - Woven
 source_count: 1
 source_files:
   - gingham-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/gingham-pattern/gingham-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=2b-dRs2cUZ8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: gingham-pattern-1-pattern-designers.jpg
+    title: Dark geometric ethnic pattern traditional design pattern used for skirt, carpet, wallpaper | Premium Vector
+    alt: Dark geometric ethnic pattern traditional design pattern used for skirt, carpet, wallpaper | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/dark-geometric-ethnic-pattern-traditional-design-pattern-used-skirt-carpet-wallpaper_31714276.htm"
+      image_url: "https://img.magnific.com/premium-vector/dark-geometric-ethnic-pattern-traditional-design-pattern-used-skirt-carpet-wallpaper_293525-884.jpg"
+      title: Dark geometric ethnic pattern traditional design pattern used for skirt, carpet, wallpaper | Premium Vector
+      description: Download this Premium vector of Dark geometric ethnic pattern traditional design pattern used for skirt, carpet, wallpaper and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: gingham-pattern-2-pattern-designers.jpg
+    title: Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy | Premium Vector
+    alt: Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/gingham-seamless-pattern-seamless-checkered-pattern-texture-cherry-blue-yellow-green-white-vichy_418267630.htm"
+      image_url: "https://img.magnific.com/premium-vector/gingham-seamless-pattern-seamless-checkered-pattern-texture-cherry-blue-yellow-green-white-vichy_190068-12084.jpg"
+      title: Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy | Premium Vector
+      description: Download this Premium vector of Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: gingham-pattern-3-pattern-designers.jpg
+    title: Red and white gingham pattern
+    alt: Red and white gingham pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/red-white-gingham-pattern_2602853.htm"
+      image_url: "https://img.magnific.com/free-vector/red-white-gingham-pattern_1048-8291.jpg"
+      title: Red and white gingham pattern
+      description: Download this free vector of Red and white gingham pattern  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: gingham-pattern-4-pattern-designers.jpg
+    title: Retro colour plaid background
+    alt: Retro colour plaid background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/retro-colour-plaid-background_59533856.htm"
+      image_url: "https://img.magnific.com/free-vector/retro-colour-plaid-background_78370-2764.jpg"
+      title: Retro colour plaid background
+      description: Download this free vector of Retro colour plaid background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # gingham-pattern

@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-0e2e3186df252f17",
+  "canonical_id": "can-clip-0e2e3186df252f17",
+  "ready_id": "ready-clip-0e2e3186df252f17",
+  "ready_slug": "vera-bradley-associate-surface-designer-roanoke-in",
+  "canonical_path": "wiki/jobs/_staging/vera-bradley-associate-surface-designer-roanoke-in",
+  "ready_path": "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in",
+  "export_source": "wiki/jobs/_ready/vera-bradley-associate-surface-designer-roanoke-in",
+  "idempotent_hit": false,
+  "validations": [
+    "yaml_valid",
+    "canonical_id_present",
+    "capture_id_present",
+    "provenance_present",
+    "markdown_present",
+    "quality_pass",
+    "resolution_report_present",
+    "resolution_complete",
+    "editorial_review_complete",
+    "attachments_checked"
+  ],
+  "warnings": [
+    "Quality Report contains warnings (allowed)",
+    "Resolution needs review: 9 item(s)"
+  ],
+  "errors": [],
+  "duration_ms": 8,
+  "editorial_hash": "a6a096560e7c407d65c27a586cc8a697c630e45531edb9e228ea93c30a68f6be",
+  "ready_version": "1.a6a09656",
+  "promotion_version": "1.0.0",
+  "mode": "changed",
+  "legacy_cli": false,
+  "rewritten_links_count": 3,
+  "rewritten_image_count": 0,
+  "rewritten_markdown_links": 0,
+  "rewritten_frontmatter_paths": 3,
+  "rewritten_wikilinks": 0,
+  "message": "Promoted to Ready"
+}

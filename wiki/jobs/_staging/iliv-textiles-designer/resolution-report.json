@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-8e712cee5dabaf2b",
+  "canonical_id": "can-clip-8e712cee5dabaf2b",
+  "canonical_path": "wiki/jobs/_staging/iliv-textiles-designer",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Adobe InDesign",
+    "software:Photoshop",
+    "software:Illustrator",
+    "software:InDesign",
+    "location:United Kingdom"
+  ],
+  "needs_review": [
+    "company:ILIV",
+    "software:Adobe Creative Suite",
+    "software:AVA",
+    "skills:Sampling",
+    "location:Preston",
+    "location:Preston, United Kingdom"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 7,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 58,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates",
+    "No markets candidates"
+  ],
+  "errors": [],
+  "duration_ms": 60,
+  "resolution_quality": 54,
+  "message": "Resolved"
+}

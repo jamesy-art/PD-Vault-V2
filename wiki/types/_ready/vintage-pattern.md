@@ -4,17 +4,25 @@ slug: vintage-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Block
+  - Half-Drop
+styles:
+  - Retro
+  - Art Deco
+categories:
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Vintage Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/vintage-pattern/vintage-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=Wk8vFqMi5rU
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: vintage-pattern-1-pattern-designers.jpg
+    title: Art nouveau vintage pattern seamless flower butterfly motif antique baroque bohemian folk background | Premium Vector
+    alt: Art nouveau vintage pattern seamless flower butterfly motif antique baroque bohemian folk background | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/art-nouveau-vintage-pattern-seamless-flower-butterfly-motif-antique-baroque-bohemian-folk-background_418140289.htm"
+      image_url: "https://img.magnific.com/premium-vector/art-nouveau-vintage-pattern-seamless-flower-butterfly-motif-antique-baroque-bohemian-folk-background_658151-4815.jpg"
+      title: Art nouveau vintage pattern seamless flower butterfly motif antique baroque bohemian folk background | Premium Vector
+      description: Download this Premium vector of Art nouveau vintage pattern seamless flower butterfly motif antique baroque bohemian folk background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: vintage-pattern-2-pattern-designers.jpg
+    title: Floral vintage seamless pattern retro plants style psley motif colorful damask ornament | Premium AI-generated image
+    alt: Floral vintage seamless pattern retro plants style psley motif colorful damask ornament | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/floral-vintage-seamless-pattern-retro-plants-style-psley-motif-colorful-damask-ornament_329154925.htm"
+      image_url: "https://img.magnific.com/premium-photo/floral-vintage-seamless-pattern-retro-plants-style-psley-motif-colorful-damask-ornament_926199-4262450.jpg"
+      title: Floral vintage seamless pattern retro plants style psley motif colorful damask ornament | Premium AI-generated image
+      description: Download this Premium AI-generated image about Floral vintage seamless pattern retro plants style psley motif colorful damask ornament, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: vintage-pattern-3-pattern-designers.jpg
+    title: Green tulip flower pattern vector
+    alt: Green tulip flower pattern vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/green-tulip-flower-pattern-vector_16175441.htm"
+      image_url: "https://img.magnific.com/free-vector/green-tulip-flower-pattern-vector_53876-108906.jpg"
+      title: Green tulip flower pattern vector
+      description: Download this free vector of Green tulip flower pattern vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: vintage-pattern-4-pattern-designers.jpg
+    title: Seamless background of light blue color in damascus style
+    alt: Seamless background of light blue color in damascus style
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-background-light-blue-color-damascus-style_11059655.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-background-light-blue-color-damascus-style_1284-47122.jpg"
+      title: Seamless background of light blue color in damascus style
+      description: Download this free vector of Seamless background of light blue color in damascus style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Vintage Pattern

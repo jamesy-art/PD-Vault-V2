@@ -4,10 +4,20 @@ slug: halloween-pattern
 status: draft
 type_group: seasonal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Novelty
+  - Mythical
+structures:
+  - Scatter
+styles:
+  - Festive
+  - Gothic
+  - Kawaii
+  - Retro
+categories:
+  - Seasonal
+colour_family: Orange
+technique: []
 source_count: 2
 source_files:
   - Halloween Pattern 2.md
@@ -15,7 +25,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/halloween-pattern/halloween-pattern-1-pattern-designers.jpg
@@ -46,6 +56,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=D_pAakIsfmE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: halloween-pattern-1-pattern-designers.jpg
+    title: Funny hand drawn halloween pattern
+    alt: Funny hand drawn halloween pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/funny-hand-drawn-halloween-pattern_3149237.htm"
+      image_url: "https://img.magnific.com/free-vector/funny-hand-drawn-halloween-pattern_69286-10.jpg"
+      title: Funny hand drawn halloween pattern
+      description: Download this free vector of Funny hand drawn halloween pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: halloween-pattern-2-pattern-designers.jpg
+    title: Halloween pattern background design
+    alt: Halloween pattern background design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/halloween-pattern-background-design_32227115.htm"
+      image_url: "https://img.magnific.com/free-vector/halloween-pattern-background-design_1048-16899.jpg"
+      title: Halloween pattern background design
+      description: Download this free vector of Halloween pattern background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: halloween-pattern-3-pattern-designers.jpg
+    title: Hand drawn flat halloween patterns collection
+    alt: Hand drawn flat halloween patterns collection
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-flat-halloween-patterns-collection_18894623.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-flat-halloween-patterns-collection_23-2149117359.jpg"
+      title: Hand drawn flat halloween patterns collection
+      description: Download this free vector of Hand drawn flat halloween patterns collection and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: halloween-pattern-4-pattern-designers.jpg
+    title: Hand drawn halloween pattern
+    alt: Hand drawn halloween pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-halloween-pattern_9467717.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-halloween-pattern_23-2148627461.jpg"
+      title: Hand drawn halloween pattern
+      description: Download this free vector of Hand drawn halloween pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Halloween Pattern

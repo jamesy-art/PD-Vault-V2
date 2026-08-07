@@ -1,19 +1,21 @@
 ---
-name: "LOOOK Studio"
-slug: "loook-studio"
-email: "lea@loook-studio.com"
-description: >-
-  LOOOK Studio is a small Berlin-based textile and surface design studio founded in 2018 by Lea Leiner, offering original designs for home and fashion. The studio combines bold creativity with a technical, business-oriented approach to textile design.
-website_url: "https://loook-studio.com/home.php"
-instagram_url: "http://www.instagram.com/loookstudio"
+name: LOOOK Studio
+slug: loook-studio
+email: lea@loook-studio.com
+description: LOOOK Studio is a small Berlin-based textile and surface design
+  studio founded in 2018 by Lea Leiner, offering original designs for home and
+  fashion. The studio combines bold creativity with a technical,
+  business-oriented approach to textile design.
+website_url: https://loook-studio.com/home.php
+instagram_url: http://www.instagram.com/loookstudio
 is_active: true
-designer_type: "Textile Design Studio"
+designer_type: Textile Design Studio
 experience: ""
-timezone: "Germany"
+timezone: Germany
 open_to: []
 pricing: []
 categories:
-  - "Home Decor"
+  - Home Decor
 skills: []
 links:
   linkedin: ""
@@ -25,16 +27,16 @@ current_company_slug: ""
 client_company_slugs: []
 images:
   avatar:
-    image_path: "../../assets/studios/loook-studio/profile/loook-studio-profile-pattern-designers.jpg"
+    image_path: ../../../exports/designers-images/designers/loook-studio/profile/loook-studio-profile.jpg
   patterns:
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-1-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-2-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-3-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-4-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-5-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-6-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-7-pattern-designers.jpg"
-    - image_path: "../../assets/studios/loook-studio/patterns/loook-studio-pattern-8-pattern-designers.jpg"
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-1.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-2.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-3.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-4.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-5.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-6.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-7.jpg
+    - image_path: ../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-8.jpg
   placements: []
 equipment:
   art: []
@@ -46,24 +48,22 @@ equipment:
 
 ## Profile Image
 
-![Profile](../../assets/studios/loook-studio/profile/loook-studio-profile-pattern-designers.jpg)
+![Profile](../../../exports/designers-images/designers/loook-studio/profile/loook-studio-profile.jpg)
 
 ## Selected Pattern Images
 
 | # | Preview |
 | --- | --- |
-| Pattern 1 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-1-pattern-designers.jpg) |
-| Pattern 2 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-2-pattern-designers.jpg) |
-| Pattern 3 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-3-pattern-designers.jpg) |
-| Pattern 4 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-4-pattern-designers.jpg) |
-| Pattern 5 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-5-pattern-designers.jpg) |
-| Pattern 6 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-6-pattern-designers.jpg) |
-| Pattern 7 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-7-pattern-designers.jpg) |
-| Pattern 8 | ![](../../assets/studios/loook-studio/patterns/loook-studio-pattern-8-pattern-designers.jpg) |
+| Pattern 1 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-1.jpg) |
+| Pattern 2 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-2.jpg) |
+| Pattern 3 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-3.jpg) |
+| Pattern 4 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-4.jpg) |
+| Pattern 5 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-5.jpg) |
+| Pattern 6 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-6.jpg) |
+| Pattern 7 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-7.jpg) |
+| Pattern 8 | ![](../../../exports/designers-images/designers/loook-studio/patterns/loook-studio-pattern-8.jpg) |
 
 ## Selected Placement Images
-
-No placement images selected.
 
 ## Overview
 
@@ -71,7 +71,7 @@ LOOOK Studio is a small Berlin-based textile and surface design studio founded i
 
 ## Studio Style and Aesthetic
 
-Selected pattern images show a deliberately wide stylistic range: ornate paisley/damask wallcovering motifs in muted earth tones, botanical illustrated leaves and white florals in soft sage and grey, bold graphic tropical florals in saturated mustard-and-blue or navy-and-tan, and abstract geometric shape compositions in muted watercolor tones. This range supports the studio's own description of offering "artistic developments combined with a profound knowledge of the print design business."
+The portfolio shows a deliberately wide stylistic range: ornate paisley/damask wallcovering motifs in muted earth tones, botanical illustrated leaves and white florals in soft sage and grey, bold graphic tropical florals in saturated mustard-and-blue or navy-and-tan, and abstract geometric shape compositions in muted watercolor tones. This range supports the studio's own description of offering "artistic developments combined with a profound knowledge of the print design business."
 
 ## Markets and Specialties
 
@@ -82,7 +82,7 @@ Selected pattern images lean toward interior applications (wallcovering-style pa
 
 ## Techniques and Artwork Process
 
-Every design is described as exclusively created and fully digitalized, available in seamless repeat. Selected pattern images show both painterly botanical illustration and flatter, graphic digital construction (geometric shapes, bold outlined tropical florals).
+Every design is described as exclusively created and fully digitalized, available in seamless repeat. The portfolio shows both painterly botanical illustration and flatter, graphic digital construction (geometric shapes, bold outlined tropical florals).
 
 ## Clients and Commercial Positioning
 

@@ -4,17 +4,25 @@ slug: hawaiian-pattern
 status: draft
 type_group: seasonal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+  - Marine
+structures:
+  - Scatter
+styles:
+  - Tropical
+categories:
+  - Seasonal
+colour_family: Multicolour
+technique:
+  - Resist-Dye
 source_count: 1
 source_files:
   - Hawaiian Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/hawaiian-pattern/hawaiian-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=nFuQmO_rgCc
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: hawaiian-pattern-1-pattern-designers.jpg
+    title: Hand drawn hawaiian shirt pattern illustration
+    alt: Hand drawn hawaiian shirt pattern illustration
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-hawaiian-shirt-pattern-illustration_29431204.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-hawaiian-shirt-pattern-illustration_23-2149504253.jpg"
+      title: Hand drawn hawaiian shirt pattern illustration
+      description: Download this free vector of Hand drawn hawaiian shirt pattern illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hawaiian-pattern-2-pattern-designers.jpg
+    title: Blue hawaiian plant leaves pattern illustration blue background | Premium Vector
+    alt: Blue hawaiian plant leaves pattern illustration blue background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/blue-hawaiian-plant-leaves-pattern-illustration-blue-background_418810878.htm"
+      image_url: "https://img.magnific.com/premium-vector/blue-hawaiian-plant-leaves-pattern-illustration-blue-background_525160-17919.jpg"
+      title: Blue hawaiian plant leaves pattern illustration blue background | Premium Vector
+      description: Download this Premium vector of Blue hawaiian plant leaves pattern illustration blue background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hawaiian-pattern-3-pattern-designers.jpg
+    title: Hand drawn hawaiian shirt pattern illustration
+    alt: Hand drawn hawaiian shirt pattern illustration
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-hawaiian-shirt-pattern-illustration_29431185.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-hawaiian-shirt-pattern-illustration_23-2149504259.jpg"
+      title: Hand drawn hawaiian shirt pattern illustration
+      description: Download this free vector of Hand drawn hawaiian shirt pattern illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hawaiian-pattern-4-pattern-designers.jpg
+    title: Teal and white hawaiian floral pattern with flowers and tropical leaves | Premium Vector
+    alt: Teal and white hawaiian floral pattern with flowers and tropical leaves | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/teal-white-hawaiian-floral-pattern-with-flowers-tropical-leaves_262359745.htm"
+      image_url: "https://img.magnific.com/premium-vector/teal-white-hawaiian-floral-pattern-with-flowers-tropical-leaves_1090704-234.jpg"
+      title: Teal and white hawaiian floral pattern with flowers and tropical leaves | Premium Vector
+      description: Download this Premium vector of Teal and white hawaiian floral pattern with flowers and tropical leaves and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Hawaiian Pattern

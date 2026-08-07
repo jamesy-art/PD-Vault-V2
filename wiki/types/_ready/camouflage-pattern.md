@@ -5,16 +5,21 @@ status: draft
 type_group: seasonal
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Scatter
+styles:
+  - Camouflage
+categories:
+  - Geometric
+colour_family: Brown
+technique: []
 source_count: 1
 source_files:
   - Camouflage Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/camouflage-pattern/camouflage-pattern-1-pattern-designers.jpg
@@ -44,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=0IhRsD7JtkI&t
 learn_more_youtube_2: https://www.youtube.com/watch?v=wJfRfqqfKwo
 learn_more_youtube_3: https://www.youtube.com/watch?v=N3i6btsd2KE
+gallery_images:
+  - path: camouflage-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/c/cd/MM14.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/c/cd/MM14.jpg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/MM14.jpg/500px-MM14.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/c/cd/MM14.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/c/cd/MM14.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: camouflage-pattern-2-pattern-designers.jpg
+    title: Camouflage seamless pattern trendy style camo repeat print vector illustration khaki texture | Premium Vector
+    alt: Camouflage seamless pattern trendy style camo repeat print vector illustration khaki texture | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/camouflage-seamless-pattern-trendy-style-camo-repeat-print-vector-illustration-khaki-texture_61505207.htm"
+      image_url: "https://img.magnific.com/premium-vector/camouflage-seamless-pattern-trendy-style-camo-repeat-print-vector-illustration-khaki-texture_667453-583.jpg"
+      title: Camouflage seamless pattern trendy style camo repeat print vector illustration khaki texture | Premium Vector
+      description: Download this Premium vector of Camouflage seamless pattern trendy style camo repeat print vector illustration khaki texture and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: camouflage-pattern-3-pattern-designers.jpg
+    title: Digital desert camouflage seamless texture | Premium PSD
+    alt: Digital desert camouflage seamless texture | Premium PSD
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-psd/digital-desert-camouflage-seamless-texture_422645810.htm"
+      image_url: "https://img.magnific.com/premium-psd/digital-desert-camouflage-seamless-texture_1046006-257.jpg"
+      title: Digital desert camouflage seamless texture | Premium PSD
+      description: Download this Premium PSD of Digital desert camouflage seamless texture and explore millions of professional PSD files on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: camouflage-pattern-4-pattern-designers.jpg
+    title: Flat design digital camo pattern
+    alt: Flat design digital camo pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-digital-camo-pattern_22183677.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-digital-camo-pattern_23-2149257077.jpg"
+      title: Flat design digital camo pattern
+      description: Download this free vector of Flat design digital camo pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Camouflage Pattern

@@ -4,10 +4,16 @@ slug: tiger-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Hide
+structures:
+  - Scatter
+styles:
+  - Camouflage
+categories:
+  - Animal
+colour_family: Orange
+technique: []
 source_count: 2
 source_files:
   - Tiger Pattern 2.md
@@ -15,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/tiger-pattern/tiger-pattern-1-pattern-designers.jpg
@@ -46,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=gH98Tax8bSo
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: tiger-pattern-1-pattern-designers.jpg
+    title: Seamless animal pattern with zebra skin vector illustration | Premium Photo
+    alt: Seamless animal pattern with zebra skin vector illustration | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-animal-pattern-with-zebra-skin-vector-illustration_167194490.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-animal-pattern-with-zebra-skin-vector-illustration_861724-38097.jpg"
+      title: Seamless animal pattern with zebra skin vector illustration | Premium Photo
+      description: Download this Premium photo of Seamless animal pattern with zebra skin vector illustration and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tiger-pattern-2-pattern-designers.jpg
+    title: Tiger skin background tiger skin pattern tiger stripes pattern tiger skin texture animals skin background tiger skin print wild animal hide ai generative | Premium Photo
+    alt: Tiger skin background tiger skin pattern tiger stripes pattern tiger skin texture animals skin background tiger skin print wild animal hide ai generative | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/tiger-skin-background-tiger-skin-pattern-tiger-stripes-pattern-tiger-skin-texture-animals-skin-background-tiger-skin-print-wild-animal-hide-ai-generative_245762385.htm"
+      image_url: "https://img.magnific.com/premium-photo/tiger-skin-background-tiger-skin-pattern-tiger-stripes-pattern-tiger-skin-texture-animals-skin-background-tiger-skin-print-wild-animal-hide-ai-generative_703884-41927.jpg"
+      title: Tiger skin background tiger skin pattern tiger stripes pattern tiger skin texture animals skin background tiger skin print wild animal hide ai generative | Premium Photo
+      description: Download this Premium photo of Tiger skin background tiger skin pattern tiger stripes pattern tiger skin texture animals skin background tiger skin print wild animal hide ai generative and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tiger-pattern-3-pattern-designers.jpg
+    title: Tiger stripes background | Premium Vector
+    alt: Tiger stripes background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/tiger-stripes-background_3421233.htm"
+      image_url: "https://img.magnific.com/premium-vector/tiger-stripes-background_23-2147995343.jpg"
+      title: Tiger stripes background | Premium Vector
+      description: Download this Premium vector of Tiger stripes background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tiger-pattern-4-pattern-designers.jpg
+    title: Zebra print background
+    alt: Zebra print background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/zebra-print-background_59539316.htm"
+      image_url: "https://img.magnific.com/free-vector/zebra-print-background_78370-2976.jpg"
+      title: Zebra print background
+      description: Download this free vector of Zebra print background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Tiger Pattern

@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-8e712cee5dabaf2b",
+  "canonical_id": "can-clip-8e712cee5dabaf2b",
+  "ready_id": "ready-clip-8e712cee5dabaf2b",
+  "ready_slug": "iliv-textiles-designer",
+  "canonical_path": "wiki/jobs/_staging/iliv-textiles-designer",
+  "ready_path": "wiki/jobs/_ready/iliv-textiles-designer",
+  "export_source": "wiki/jobs/_ready/iliv-textiles-designer",
+  "idempotent_hit": false,
+  "validations": [
+    "yaml_valid",
+    "canonical_id_present",
+    "capture_id_present",
+    "provenance_present",
+    "markdown_present",
+    "quality_pass",
+    "resolution_report_present",
+    "resolution_complete",
+    "editorial_review_complete",
+    "attachments_checked"
+  ],
+  "warnings": [
+    "Quality Report contains warnings (allowed)",
+    "Resolution needs review: 6 item(s)"
+  ],
+  "errors": [],
+  "duration_ms": 3,
+  "editorial_hash": "074a69a3fdf40074b1de2f40978b19a0e65426c24adf760ccc0c100d1a009b6c",
+  "ready_version": "1.074a69a3",
+  "promotion_version": "1.0.0",
+  "mode": "changed",
+  "legacy_cli": false,
+  "rewritten_links_count": 1,
+  "rewritten_image_count": 0,
+  "rewritten_markdown_links": 0,
+  "rewritten_frontmatter_paths": 1,
+  "rewritten_wikilinks": 0,
+  "message": "Promoted to Ready"
+}

@@ -5,31 +5,21 @@ status: active
 type_group: texture
 summary: Surface pattern or textile texture mimicking the distinctive scale and scute structure of crocodile skin. A faux-exotic reptile texture used in fashion accessories, apparel, and luxury home textiles as an alternative to actual crocodile leather.
 motifs:
-  - crocodile-scale
-  - reptile-scute
-  - irregular-tile
-  - scale-texture
+  - Hide
 structures:
-  - all-over
-  - texture
-  - interlocking-tile
-styles:
-  - luxury
-  - exotic
-  - fashion-forward
-  - reptile-print
+  - Tessellation
+styles: []
 categories:
-  - texture
-  - animal-skin
-  - luxury
-  - fashion
+  - Animal
+colour_family: Brown
+technique: []
 source_count: 1
 source_files:
   - Crocodile Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/crocodile-pattern/crocodile-pattern-1-pattern-designers.jpg
@@ -60,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=KTNygwLZdmE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: crocodile-pattern-1-pattern-designers.jpg
+    title: Blue grey snake skin texture design | Premium Photo
+    alt: Blue grey snake skin texture design | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/blue-grey-snake-skin-texture-design_13729387.htm"
+      image_url: "https://img.magnific.com/premium-photo/blue-grey-snake-skin-texture-design_397933-98.jpg"
+      title: Blue grey snake skin texture design | Premium Photo
+      description: Download this Premium photo of Blue grey snake skin texture design and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: crocodile-pattern-2-pattern-designers.jpg
+    title: Brown crocodile texture | Free Photo
+    alt: Brown crocodile texture | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/brown-crocodile-texture_26093903.htm"
+      image_url: "https://img.magnific.com/free-photo/brown-crocodile-texture_628469-300.jpg"
+      title: Brown crocodile texture | Free Photo
+      description: Download this free photo of Brown crocodile texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: crocodile-pattern-3-pattern-designers.jpg
+    title: Distressed overlay animal skin texture | Premium Vector
+    alt: Distressed overlay animal skin texture | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/distressed-overlay-animal-skin-texture_134922589.htm"
+      image_url: "https://img.magnific.com/premium-vector/distressed-overlay-animal-skin-texture_615910-7431.jpg"
+      title: Distressed overlay animal skin texture | Premium Vector
+      description: Download this Premium vector of Distressed overlay animal skin texture and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: crocodile-pattern-4-pattern-designers.jpg
+    title: Seamless pattern with crocodile texture skin fabric leather wallpaper background design generative ai | Premium Photo
+    alt: Seamless pattern with crocodile texture skin fabric leather wallpaper background design generative ai | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-pattern-with-crocodile-texture-skin-fabric-leather-wallpaper-background-design-generative-ai_44654430.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-pattern-with-crocodile-texture-skin-fabric-leather-wallpaper-background-design-generative-ai_159242-20710.jpg"
+      title: Seamless pattern with crocodile texture skin fabric leather wallpaper background design generative ai | Premium Photo
+      description: Download this Premium photo of Seamless pattern with crocodile texture skin fabric leather wallpaper background design generative ai and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Crocodile Pattern

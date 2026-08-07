@@ -4,17 +4,23 @@ slug: flower-pattern
 status: draft
 type_group: floral
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Botanical
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Botanical
+colour_family: Multicolour
+technique:
+  - Watercolour
 source_count: 1
 source_files:
   - Flower Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/flower-pattern/flower-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=ed8jSMmLiAo
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: flower-pattern-1-pattern-designers.jpg
+    title: A colorful background with floral pattern wallpaper flower | Premium Vector
+    alt: A colorful background with floral pattern wallpaper flower | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/colorful-background-with-floral-pattern-wallpaper-flower_306034028.htm"
+      image_url: "https://img.magnific.com/premium-vector/colorful-background-with-floral-pattern-wallpaper-flower_1267494-12190.jpg"
+      title: A colorful background with floral pattern wallpaper flower | Premium Vector
+      description: Download this Premium vector of A colorful background with floral pattern wallpaper flower and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: flower-pattern-2-pattern-designers.jpg
+    title: Beautiful blue floral watercolor seamless pattern
+    alt: Beautiful blue floral watercolor seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/beautiful-blue-floral-watercolor-seamless-pattern_23217558.htm"
+      image_url: "https://img.magnific.com/free-vector/beautiful-blue-floral-watercolor-seamless-pattern_65186-3244.jpg"
+      title: Beautiful blue floral watercolor seamless pattern
+      description: Download this free vector of Beautiful blue floral watercolor seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: flower-pattern-3-pattern-designers.jpg
+    title: Seamless classic flower pattern | Premium Photo
+    alt: Seamless classic flower pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-classic-flower-pattern_393277394.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-classic-flower-pattern_1048403-17008.jpg"
+      title: Seamless classic flower pattern | Premium Photo
+      description: Download this Premium photo of Seamless classic flower pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: flower-pattern-4-pattern-designers.jpg
+    title: Seamless geometric pattern seamless floral pattern abstract seamless pattern vibrant multicolor s | Premium Photo
+    alt: Seamless geometric pattern seamless floral pattern abstract seamless pattern vibrant multicolor s | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-geometric-pattern-seamless-floral-pattern-abstract-seamless-pattern-vibrant-multicolor-s_272784076.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-geometric-pattern-seamless-floral-pattern-abstract-seamless-pattern-vibrant-multicolor-s_980117-3069.jpg"
+      title: Seamless geometric pattern seamless floral pattern abstract seamless pattern vibrant multicolor s | Premium Photo
+      description: Download this Premium photo of Seamless geometric pattern seamless floral pattern abstract seamless pattern vibrant multicolor s and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Flower Pattern

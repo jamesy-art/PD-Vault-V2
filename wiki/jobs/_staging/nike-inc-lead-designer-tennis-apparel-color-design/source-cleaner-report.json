@@ -1,0 +1,65 @@
+{
+  "cleaner": "fashionunited",
+  "rules_applied": [
+    "remove_related_and_newsletter",
+    "emit_labeled_metadata",
+    "extract_company",
+    "extract_location",
+    "promote_apply_url",
+    "extract_category",
+    "strip_fu_chrome_links",
+    "tidy_whitespace"
+  ],
+  "sections_removed": [
+    "Related News"
+  ],
+  "sections_omitted": [],
+  "urls_decoded": [],
+  "warnings": [],
+  "location_fields": {
+    "street": "",
+    "city": "Beaverton",
+    "state": "OR",
+    "postcode": "",
+    "country": "United States",
+    "location": "Beaverton, OR, United States"
+  },
+  "benefits_extracted": [],
+  "skills_extracted": [
+    "Pattern Design",
+    "Colour",
+    "Presentation",
+    "Colour Design",
+    "Apparel Design"
+  ],
+  "software_extracted": [],
+  "experience_extracted": "Director",
+  "summary_generated": true,
+  "promotional_sections_removed": [],
+  "company_profile_trimmed": false,
+  "images_removed": 0,
+  "platform_metadata_removed": 11,
+  "empty_sections_removed": 0,
+  "company_profile_shortened": false,
+  "location_normalised": true,
+  "ocr_confidence": "",
+  "metadata_merged": false,
+  "jobs_detected": "",
+  "jobs_detected_count": 0,
+  "contacts_extracted": [],
+  "closing_date_extracted": "",
+  "images_ignored": 0,
+  "editorial_sections_produced": [],
+  "editorial_title_selected": "Lead Designer, Tennis Apparel Color Design",
+  "company_identity_source": "explicit_reference",
+  "filename_fallback_used": false,
+  "employment_mapping": "unknown",
+  "skills_expanded": [
+    "Pattern Design",
+    "Colour",
+    "Presentation",
+    "Colour Design",
+    "Apparel Design"
+  ],
+  "software_expanded": []
+}

@@ -4,17 +4,23 @@ slug: ethnic-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Emblem
+structures:
+  - Check
+  - Tessellation
 styles: []
-categories: []
+categories:
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Ethnic Pattern 2.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ethnic-pattern/ethnic-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=87f-Nxm4z5Y&t=149s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ethnic-pattern-1-pattern-designers.jpg
+    title: Abstract shapes pattern in ethnic style
+    alt: Abstract shapes pattern in ethnic style
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-shapes-pattern-ethnic-style_953061.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-shapes-pattern-ethnic-style_1110-384.jpg"
+      title: Abstract shapes pattern in ethnic style
+      description: Download this free vector of Abstract shapes pattern in ethnic style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ethnic-pattern-2-pattern-designers.jpg
+    title: Seamless aztec pattern repeating tribal designs geometric traditional continiuous wallpaper | Premium Photo
+    alt: Seamless aztec pattern repeating tribal designs geometric traditional continiuous wallpaper | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-aztec-pattern-repeating-tribal-designs-geometric-traditional-continiuous-wallpaper_169589429.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-aztec-pattern-repeating-tribal-designs-geometric-traditional-continiuous-wallpaper_934871-47476.jpg"
+      title: Seamless aztec pattern repeating tribal designs geometric traditional continiuous wallpaper | Premium Photo
+      description: Download this Premium photo of Seamless aztec pattern repeating tribal designs geometric traditional continiuous wallpaper and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ethnic-pattern-3-pattern-designers.jpg
+    title: Traditional tribal seamless ethnic pattern | Premium Vector
+    alt: Traditional tribal seamless ethnic pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/traditional-tribal-seamless-ethnic-pattern_32278984.htm"
+      image_url: "https://img.magnific.com/premium-vector/traditional-tribal-seamless-ethnic-pattern_601658-184.jpg"
+      title: Traditional tribal seamless ethnic pattern | Premium Vector
+      description: Download this Premium vector of Traditional tribal seamless ethnic pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ethnic-pattern-4-pattern-designers.jpg
+    title: Tribal indian borders. black white geometric pattern, seamless ethnic print for textile or tattoo, mexican and aztec vector ornament. decoration traditional line elements, culture illustration | Premium Vector
+    alt: Tribal indian borders. black white geometric pattern, seamless ethnic print for textile or tattoo, mexican and aztec vector ornament. decoration traditional line elements, culture illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/tribal-indian-borders-black-white-geometric-pattern-seamless-ethnic-print-textile-tattoo-mexican-aztec-vector-ornament-decoration-traditional-line-elements-culture-illustration_16801714.htm"
+      image_url: "https://img.magnific.com/premium-vector/tribal-indian-borders-black-white-geometric-pattern-seamless-ethnic-print-textile-tattoo-mexican-aztec-vector-ornament-decoration-traditional-line-elements-culture-illustration_102902-3554.jpg"
+      title: Tribal indian borders. black white geometric pattern, seamless ethnic print for textile or tattoo, mexican and aztec vector ornament. decoration traditional line elements, culture illustration | Premium Vector
+      description: Download this Premium vector of Tribal indian borders. black white geometric pattern, seamless ethnic print for textile or tattoo, mexican and aztec vector ornament. decoration traditional line elements, culture illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ethnic Pattern

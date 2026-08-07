@@ -6,8 +6,12 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Minimalist
+categories:
+  - Colour
+colour_family: Grey
+technique: []
 source_count: 2
 source_files:
   - Grey Pattern 2.md
@@ -15,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/grey-pattern/grey-pattern-1-pattern-designers.jpg
@@ -46,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=_omGSRpYKlI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: grey-pattern-1-pattern-designers.jpg
+    title: Abstract colorful geometric design
+    alt: Abstract colorful geometric design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-colorful-geometric-design_6690965.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-colorful-geometric-design_1035-18029.jpg"
+      title: Abstract colorful geometric design
+      description: Download this free vector of Abstract colorful geometric design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: grey-pattern-2-pattern-designers.jpg
+    title: Abstract organic grey pattern design background | Premium Vector
+    alt: Abstract organic grey pattern design background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-organic-grey-pattern-design-background_173584482.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-organic-grey-pattern-design-background_1091888-18.jpg"
+      title: Abstract organic grey pattern design background | Premium Vector
+      description: Download this Premium vector of Abstract organic grey pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: grey-pattern-3-pattern-designers.jpg
+    title: Abstract organic lines turing pattern background design | Premium Photo
+    alt: Abstract organic lines turing pattern background design | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/abstract-organic-lines-turing-pattern-background-design_378654210.htm"
+      image_url: "https://img.magnific.com/premium-photo/abstract-organic-lines-turing-pattern-background-design_1308217-683.jpg"
+      title: Abstract organic lines turing pattern background design | Premium Photo
+      description: Download this Premium photo of Abstract organic lines turing pattern background design and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: grey-pattern-4-pattern-designers.jpg
+    title: Simple thin grey zig zag lines abstract background design
+    alt: Simple thin grey zig zag lines abstract background design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/simple-thin-grey-zig-zag-lines-abstract-background-design_410547376.htm"
+      image_url: "https://img.magnific.com/free-vector/simple-thin-grey-zig-zag-lines-abstract-background-design_1017-57650.jpg"
+      title: Simple thin grey zig zag lines abstract background design
+      description: Download this free vector of Simple thin grey zig zag lines abstract background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Grey Pattern

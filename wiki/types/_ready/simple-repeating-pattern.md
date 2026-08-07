@@ -6,17 +6,18 @@ type_group: structure
 summary: Foundational surface pattern structure in which one or more motifs tile seamlessly across a surface using a defined repeat layout.
 motifs: []
 structures:
-  - full-drop
-  - half-drop
-  - brick
-  - diamond
-  - ogee
-  - tossed
-  - stripe
+  - Block
+  - Half-Drop
+  - Brick
+  - Diamond
+  - Ogee
+  - Scatter
+  - Stripe
 styles: []
 categories:
-  - structure
-  - technique
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Simple Repeating Pattern 2.md
@@ -24,7 +25,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/simple-repeating-pattern/simple-repeating-pattern-1-pattern-designers.jpg
@@ -55,6 +56,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=sTMk1jW24w8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: simple-repeating-pattern-1-pattern-designers.jpg
+    title: Abstract pattern design
+    alt: Abstract pattern design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-pattern-design_1003167.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-pattern-design_1298-6.jpg"
+      title: Abstract pattern design
+      description: Download this free vector of Abstract pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: simple-repeating-pattern-2-pattern-designers.jpg
+    title: Abstract patterns design
+    alt: Abstract patterns design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-patterns-design_933530.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-patterns-design_1164-301.jpg"
+      title: Abstract patterns design
+      description: Download this free vector of Abstract patterns design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: simple-repeating-pattern-3-pattern-designers.jpg
+    title: Lattice style pattern background
+    alt: Lattice style pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/lattice-style-pattern-background_31912913.htm"
+      image_url: "https://img.magnific.com/free-vector/lattice-style-pattern-background_1048-16881.jpg"
+      title: Lattice style pattern background
+      description: Download this free vector of Lattice style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: simple-repeating-pattern-4-pattern-designers.jpg
+    title: Minimal abstract lattice cross pattern backdrop design
+    alt: Minimal abstract lattice cross pattern backdrop design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/minimal-abstract-lattice-cross-pattern-backdrop-design_421047763.htm"
+      image_url: "https://img.magnific.com/free-vector/minimal-abstract-lattice-cross-pattern-backdrop-design_1017-60940.jpg"
+      title: Minimal abstract lattice cross pattern backdrop design
+      description: Download this free vector of Minimal abstract lattice cross pattern backdrop design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Simple Repeating Pattern

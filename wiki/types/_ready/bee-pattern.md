@@ -5,32 +5,21 @@ status: active
 type_group: general
 summary: Surface pattern drawing on bee motifs and honeycomb geometry, commercially associated with sustainability, nature, and craft aesthetics.
 motifs:
-  - bee
-  - honeycomb
-  - hexagon
-  - stripe
-  - wing
-  - beehive
+  - Animal
 structures:
-  - geometric
-  - hexagonal-grid
-  - all-over
-  - tossed
-styles:
-  - geometric
-  - illustrated
-  - nature-inspired
+  - Tessellation
+styles: []
 categories:
-  - nature
-  - insect
-  - geometric
+  - Animal
+colour_family: Yellow
+technique: []
 source_count: 1
 source_files:
   - Bee Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/bee-pattern/bee-pattern-1-pattern-designers.jpg
@@ -61,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=9WMDtbMNWro
 learn_more_youtube_2: https://www.youtube.com/watch?v=toK0Tv4jio4
 learn_more_youtube_3: https://www.youtube.com/watch?v=Ho4aUHY6fss
+gallery_images:
+  - path: bee-pattern-1-pattern-designers.jpg
+    title: Abstract hexagonal pattern colorful
+    alt: Abstract hexagonal pattern colorful
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-hexagonal-pattern-colorful_10172439.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-hexagonal-pattern-colorful_1035-19482.jpg"
+      title: Abstract hexagonal pattern colorful
+      description: Download this free vector of Abstract hexagonal pattern colorful and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bee-pattern-2-pattern-designers.jpg
+    title: Honey bee seamless pattern, sketch illustration with bee hives in vintage style
+    alt: Honey bee seamless pattern, sketch illustration with bee hives in vintage style
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/honey-bee-seamless-pattern-sketch-illustration-with-bee-hives-vintage-style_4102384.htm"
+      image_url: "https://img.magnific.com/free-vector/honey-bee-seamless-pattern-sketch-illustration-with-bee-hives-vintage-style_79020-48.jpg"
+      title: Honey bee seamless pattern, sketch illustration with bee hives in vintage style
+      description: Download this free vector of Honey bee seamless pattern, sketch illustration with bee hives in vintage style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bee-pattern-3-pattern-designers.jpg
+    title: Pattern with flowers and bees
+    alt: Pattern with flowers and bees
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pattern-with-flowers-bees_1585968.htm"
+      image_url: "https://img.magnific.com/free-vector/pattern-with-flowers-bees_1191-151.jpg"
+      title: Pattern with flowers and bees
+      description: Download this free vector of Pattern with flowers and bees and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: bee-pattern-4-pattern-designers.jpg
+    title: Seamless honeycomb pattern swett yellow background vector bee pattern simple template | Premium Vector
+    alt: Seamless honeycomb pattern swett yellow background vector bee pattern simple template | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-honeycomb-pattern-swett-yellow-background-vector-bee-pattern-simple-template_27612625.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-honeycomb-pattern-swett-yellow-background-vector-bee-pattern-simple-template_166089-1915.jpg"
+      title: Seamless honeycomb pattern swett yellow background vector bee pattern simple template | Premium Vector
+      description: Download this Premium vector of Seamless honeycomb pattern swett yellow background vector bee pattern simple template and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Bee Pattern

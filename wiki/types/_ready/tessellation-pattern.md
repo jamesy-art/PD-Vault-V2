@@ -4,17 +4,23 @@ slug: tessellation-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
+styles:
+  - Oriental
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - tessellation-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/tessellation-pattern/tessellation-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=5FIOF8xsPas&t=39s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: tessellation-pattern-1-pattern-designers.jpg
+    title: Abstract black and white hexagonal pattern geometric pattern | Premium Vector
+    alt: Abstract black and white hexagonal pattern geometric pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-black-white-hexagonal-pattern-geometric-pattern_418691629.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-black-white-hexagonal-pattern-geometric-pattern_793518-520.jpg"
+      title: Abstract black and white hexagonal pattern geometric pattern | Premium Vector
+      description: Download this Premium vector of Abstract black and white hexagonal pattern geometric pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tessellation-pattern-2-pattern-designers.jpg
+    title: Arabic linear black white pattern background | Premium Vector
+    alt: Arabic linear black white pattern background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/arabic-linear-black-white-pattern-background_244063705.htm"
+      image_url: "https://img.magnific.com/premium-vector/arabic-linear-black-white-pattern-background_34480-1207.jpg"
+      title: Arabic linear black white pattern background | Premium Vector
+      description: Download this Premium vector of Arabic linear black white pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tessellation-pattern-3-pattern-designers.jpg
+    title: Black and white seamless isometric cube pattern background | Premium Vector
+    alt: Black and white seamless isometric cube pattern background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-white-seamless-isometric-cube-pattern-background_418146977.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-white-seamless-isometric-cube-pattern-background_203034-206.jpg"
+      title: Black and white seamless isometric cube pattern background | Premium Vector
+      description: Download this Premium vector of Black and white seamless isometric cube pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tessellation-pattern-4-pattern-designers.jpg
+    title: Hand drawn lattice pattern design
+    alt: Hand drawn lattice pattern design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-lattice-pattern-design_30929392.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-lattice-pattern-design_23-2149627448.jpg"
+      title: Hand drawn lattice pattern design
+      description: Download this free vector of Hand drawn lattice pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # tessellation-pattern

@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-f87d6446741a951e",
+  "canonical_id": "can-clip-f87d6446741a951e",
+  "canonical_path": "wiki/jobs/_staging/home-bargains-creative-designer",
+  "resolved": [
+    "skills:Trend Forecasting",
+    "skills:Print Design",
+    "markets:Licensing",
+    "location:United Kingdom"
+  ],
+  "needs_review": [
+    "company:Home Bargains",
+    "software:Adobe Creative Suite",
+    "skills:Licensing",
+    "skills:Packaging",
+    "skills:Brand Guidelines",
+    "skills:Pattern Design",
+    "skills:Product Development",
+    "location:Liverpool",
+    "location:Liverpool, United Kingdom"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 4,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 115,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 116,
+  "resolution_quality": 31,
+  "message": "Resolved"
+}

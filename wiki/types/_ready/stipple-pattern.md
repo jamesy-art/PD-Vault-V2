@@ -4,29 +4,21 @@ slug: stipple-pattern
 status: active
 type_group: technique
 summary: Surface texture technique using small dots to simulate shading, tonal variation, or decorative texture; applied in printmaking, illustration, ceramics, and as a surface pattern aesthetic in its own right.
-motifs:
-  - dots
-  - texture
-  - tonal-shading
-structures:
-  - all-over
-  - tossed
-styles:
-  - illustrative
-  - textural
-  - fine-line
-  - monochrome
+motifs: []
+structures: []
+styles: []
 categories:
-  - technique
-  - texture
-  - printmaking
+  - Fundamentals
+colour_family: Black
+technique:
+  - Stipple
 source_count: 1
 source_files:
   - Stipple Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/stipple-pattern/stipple-pattern-1-pattern-designers.jpg
@@ -57,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=vFqNSEsQzhk&t
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: stipple-pattern-1-pattern-designers.jpg
+    title: Black and white background with a pattern of dots seamless pattern | Premium Vector
+    alt: Black and white background with a pattern of dots seamless pattern | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/black-white-background-with-pattern-dots-seamless-pattern_407683110.htm"
+      image_url: "https://img.magnific.com/premium-vector/black-white-background-with-pattern-dots-seamless-pattern_1273540-1186.jpg"
+      title: Black and white background with a pattern of dots seamless pattern | Premium Vector
+      description: Download this Premium vector of Black and white background with a pattern of dots seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stipple-pattern-2-pattern-designers.jpg
+    title: Hand drawn stippled circles white black texture abstract seamless pattern | Premium Vector
+    alt: Hand drawn stippled circles white black texture abstract seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/hand-drawn-stippled-circles-white-black-texture-abstract-seamless-pattern_18805121.htm"
+      image_url: "https://img.magnific.com/premium-vector/hand-drawn-stippled-circles-white-black-texture-abstract-seamless-pattern_87538-1851.jpg"
+      title: Hand drawn stippled circles white black texture abstract seamless pattern | Premium Vector
+      description: Download this Premium vector of Hand drawn stippled circles white black texture abstract seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stipple-pattern-3-pattern-designers.jpg
+    title: Seamless grunge speckle texture. stippled grain background. grungy dotted repeated effect. | Premium Vector
+    alt: Seamless grunge speckle texture. stippled grain background. grungy dotted repeated effect. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-grunge-speckle-texture-stippled-grain-background-grungy-dotted-repeated-effect_32793349.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-grunge-speckle-texture-stippled-grain-background-grungy-dotted-repeated-effect_497399-656.jpg"
+      title: Seamless grunge speckle texture. stippled grain background. grungy dotted repeated effect. | Premium Vector
+      description: Download this Premium vector of Seamless grunge speckle texture. stippled grain background. grungy dotted repeated effect. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stipple-pattern-4-pattern-designers.jpg
+    title: Vintage comic style dots texture | Free Photo
+    alt: Vintage comic style dots texture | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/vintage-comic-style-dots-texture_2256770.htm"
+      image_url: "https://img.magnific.com/free-photo/vintage-comic-style-dots-texture_22448-22.jpg"
+      title: Vintage comic style dots texture | Free Photo
+      description: Download this free photo of Vintage comic style dots texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Stipple Pattern

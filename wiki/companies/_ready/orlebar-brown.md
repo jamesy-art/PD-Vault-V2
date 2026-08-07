@@ -1,156 +1,94 @@
 ---
+company_uid: 167db87f-e7b8-4f06-81f3-14f5198e2f6f
+schema_version: 1
 name: Orlebar Brown
 slug: orlebar-brown
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
+  - accessories
+  - eyewear
+  - fashion
+  - kids
+  - sport
+markets:
+  - menswear
+  - kidswear
+  - running
+products:
+  - footwear
+  - apparel
+  - accessories
+  - eyewear
+  - swimwear
+  - kidswear
+hq_country_code: GB
+location: United Kingdom
+founded_year: 2007
+employee_count_text: '200'
+revenue_text: $20M
+website_url: https://www.orlebarbrown.com
+instagram_url: https://www.instagram.com/orlebarbrown
+linkedin_url: https://uk.linkedin.com/company/orlebar-brown
+facebook_url: https://www.facebook.com/orlebarbrown
+parent_company_uid: 973609c1-9ef3-408f-8e57-97cc78015b07
 type_slugs: []
-website: https://www.orlebarbrown.com
-instagram: https://www.instagram.com/orlebarbrown
-linkedin: https://uk.linkedin.com/company/orlebar-brown
-facebook: https://www.facebook.com/orlebarbrown
-founded: "2007"
-headquarters: United Kingdom
-employees: "200"
-revenue: $20M
-category_images:
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/orlebar-brown/cat/orlebar-brown-mens.jpg"
-parent_company: chanel
-source_file: chanel.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-12
-updated: 2026-06-12
-retail_categories:
-  - Shoes
-  - Clothing
-  - Tops
-  - Bottoms
-  - Coats & Jackets
-  - Accessories
-  - Eyewear
-  - Swimwear
-  - Kidswear
-market_categories:
-  - Menswear
-  - Kidswear
-  - Running
-collections: []
-about_url: https://orlebarbrown.com/pages/about
-sustainability_url: https://orlebarbrown.com/pages/sustainability
-contact_url: https://orlebarbrown.com/pages/help
-store_locator_url: https://orlebarbrown.com/pages/store-locator
-accessibility_url: https://orlebarbrown.com/pages/accessibility-statement
-returns_url: https://orlebarbrown.com/pages/delivery-and-returns
-shipping_url: https://orlebarbrown.com/pages/delivery-and-returns
-profile_image: ../../assets/companies/orlebar-brown/profile/company-logo.png
-profile_image_local: ../../assets/companies/orlebar-brown/profile/company-logo.png
-company_logo_selected: ../../assets/companies/orlebar-brown/profile/company-logo.png
-logo_image_selected: ../../assets/companies/orlebar-brown/profile/company-logo.png
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/orlebar-brown/profile/company-logo.png
 images:
-  profile:
-    - ../../assets/companies/orlebar-brown/profile/company-logo.png
-trk_reviewed: false
-trk_notes: ""
-trk_new: https://orlebarbrown.com/collections/new
-trk_women: ""
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: https://orlebarbrown.com/collections/shirts
-trk_women_bottoms: https://orlebarbrown.com/collections/trousers
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: https://orlebarbrown.com/collections/swim-shorts
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: https://orlebarbrown.com/collections/sunglasses
-trk_men: https://orlebarbrown.com/pages/mens
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: https://orlebarbrown.com/collections/mens-silk-shirts
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://orlebarbrown.com/en-us/pages/affiliates
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/orlebar-brown/profile/orlebar-brown-logo.svg
+    alt: Orlebar Brown logo
+    width: 240
+    height: 22
+  gallery:
+    - title: Mens
+      alt: Orlebar Brown mens collection
+      path: ../../assets/companies/orlebar-brown/gallery/orlebar-brown-mens.jpg
+      width: 2048
+      height: 2561
+      source:
+        title: Mens
+        page_url: https://orlebarbrown.com/pages/mens
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Orlebar Brown
 
 ## Profile Image
 
-![pd-profile|160](wiki/assets/companies/orlebar-brown/profile/company-logo.png)
+![Profile](../../assets/companies/orlebar-brown/profile/orlebar-brown-logo.png)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Mens | <img src="../../assets/companies/orlebar-brown/cat/orlebar-brown-mens.jpg" width="160"> |
-
-
-British luxury menswear brand specialising in tailored swim shorts; founded March 2007 by photographer Adam Brown in West London; acquired by [[wiki/companies/_staging/holding/chanel]] September 2018; Adam Brown retained as creative director; 300+ wholesale accounts globally.
+| Title | Preview |
+|-------|---------|
+| Mens | ![](../../assets/companies/orlebar-brown/gallery/orlebar-brown-mens.jpg) |
 
 ## Overview
 
 Orlebar Brown was conceived by photographer Adam Brown during a holiday in India in summer 2006 and developed with co-founder Julia Simpson-Orlebar (who left the business amicably in 2008, retaining a shareholder stake). The brand launched online in March 2007, available in 105 countries. Paul Donoghue was appointed global commercial director in 2013 following a £8 million private-equity investment from Piper. Revenue reached £12M in 2014 (from £7M in 2013), with £20M projected for 2016. Chanel acquired the company in September 2018; Adam Brown retained the creative director role. The company is based in West London and employs over 50 people. YAML parent_company "chanel" is correct (Chanel acquired September 2018). YAML location "United States" is incorrect — Orlebar Brown is a British brand, West London HQ; YAML preserved as found. YAML market_categories "Running" is incorrect for a brand focused on swimwear and resort menswear; YAML preserved as found.
 
-## Company Profile
+Adam Brown's background as a photographer informs Orlebar Brown's visual approach — strong colorway, image-conscious styling, and print direction on the swim short as seasonal creative canvas. The construction logic (suit-trouser pattern applied to swimwear) is a structural proposition; the surface — print, colorway, trim — is the season-to-season design output. Chanel's acquisition (September 2018) positions the brand alongside Chanel's broader luxury accessories portfolio.
 
-Orlebar Brown. Founded March 2007, West London, UK. Owner: [[wiki/companies/_staging/holding/chanel]] (acquired September 2018). Founder and Creative Director: Adam Brown (photographer). CEO: Paul Donoghue (appointed global commercial director 2013). Website: orlebarbrown.com. Instagram: @orlebarbrown. LinkedIn, Facebook documented in YAML. About, sustainability, contact, store locator, accessibility, returns/delivery URLs documented in YAML. Manufacturing: Petratex factory, Portugal (minimum 12-stage process). European logistics: Torque (from 2013); 550,000 sq ft distribution centre, Wortley, Leeds.
+## History
 
-## Market Position
+Orlebar Brown. Founded March 2007, West London, UK. Owner: Chanel (acquired September 2018). Founder and Creative Director: Adam Brown (photographer). CEO: Paul Donoghue (appointed global commercial director 2013). Website: orlebarbrown.com. Instagram: @orlebarbrown. LinkedIn, Facebook documented in YAML. About, sustainability, contact, store locator, accessibility, returns/delivery URLs documented in YAML. Manufacturing: Petratex factory, Portugal (minimum 12-stage process). European logistics: Torque (from 2013); 550,000 sq ft distribution centre, Wortley, Leeds.
 
-Orlebar Brown occupies the premium/luxury end of men's resort and swimwear. 300+ wholesale accounts include [[wiki/companies/_ready/selfridges]], Bergdorf Goodman, and [[Barneys New York]]. Retail footprint spans UK (Notting Hill/first store 2011, Mayfair, Canary Wharf, Wimbledon, Sloane Avenue, Harrods, Bicester Village), France (Cannes, St Tropez), Greece (Mykonos), USA (NYC Soho, East Hampton, Miami, Palm Beach), Turkey, Australia (Noosa, Bondi Beach, Brisbane), Kuwait, and Dubai. US sales account for 30% of revenue. Swimwear accounts for 45% of sales; non-swimwear (polo shirts, shirts, rash guards, shorts, jumpers, sweatshirts, waterproof shoes) accounts for 55%.
-
-## Products and Categories
+## Products
 
 Core product: tailored swim shorts constructed from a 17-piece pattern derived from men's suit trousers; four-part shaped waistband, zip fly closure, and side fasteners; Italian zippers on the fly and back pocket are hand-applied; manufactured by Petratex in Portugal (12+ stage manufacturing process). Non-swimwear (55% of revenue): rash guards, shorts, polo shirts, long- and short-sleeve shirts, jumpers, sweatshirts, waterproof shoes. 2018: Summer Sport capsule collection — technical fabrics for beach volleyball and surfing; campaign fronted by Jeremy Jauncey (Beautiful Destinations). #SnapShorts app: customers upload a photograph to design a bespoke pair of swim shorts or share designs on social media. YAML retail categories: shoes, clothing, tops, bottoms, coats and jackets, accessories, eyewear, swimwear, kidswear.
+
+## Services
+
+YAML parent_company "chanel" is correct — Chanel acquired Orlebar Brown in September 2018; Adam Brown retained as creative director. YAML location "United States" is incorrect — British brand, West London HQ; YAML preserved as found. YAML market_categories "Running" is incorrect; YAML preserved as found. Prior investor: Piper private equity (£8M minority stake, August 2013; Donoghue appointed). Manufacturing: Petratex, Portugal. EON Productions licensed James Bond film poster artwork for July 2018 collection.
+
+## Markets
+
+Orlebar Brown occupies the premium/luxury end of men's resort and swimwear. 300+ wholesale accounts include Selfridges, Bergdorf Goodman, and Barneys New York. Retail footprint spans UK (Notting Hill/first store 2011, Mayfair, Canary Wharf, Wimbledon, Sloane Avenue, Harrods, Bicester Village), France (Cannes, St Tropez), Greece (Mykonos), USA (NYC Soho, East Hampton, Miami, Palm Beach), Turkey, Australia (Noosa, Bondi Beach, Brisbane), Kuwait, and Dubai. US sales account for 30% of revenue. Swimwear accounts for 45% of sales; non-swimwear (polo shirts, shirts, rash guards, shorts, jumpers, sweatshirts, waterproof shoes) accounts for 55%.
 
 ## Pattern and Surface Design Relevance
 
@@ -163,33 +101,9 @@ Orlebar Brown's core SPD relevance lies in the seasonal print and surface direct
 - **#SnapShorts app**: Allows customers to upload a photograph for application to swim short fabric — a direct consumer-facing tool for custom photographic print on garments; an unusually accessible form of custom garment surface design
 - **Daniel Craig / James Bond (Skyfall, 2012)**: Craig wore Orlebar Brown sky blue "Setter" shorts in the film; established the brand at the intersection of film costume and resort menswear surface identity, driving significant commercial profile
 
-## Design Direction
+## Official Resources
 
-Adam Brown's background as a photographer informs Orlebar Brown's visual approach — strong colorway, image-conscious styling, and print direction on the swim short as seasonal creative canvas. The construction logic (suit-trouser pattern applied to swimwear) is a structural proposition; the surface — print, colorway, trim — is the season-to-season design output. Chanel's acquisition (September 2018) positions the brand alongside Chanel's broader luxury accessories portfolio.
-
-## Retail and Licensing Context
-
-YAML parent_company "chanel" is correct — Chanel acquired Orlebar Brown in September 2018; Adam Brown retained as creative director. YAML location "United States" is incorrect — British brand, West London HQ; YAML preserved as found. YAML market_categories "Running" is incorrect; YAML preserved as found. Prior investor: Piper private equity (£8M minority stake, August 2013; Donoghue appointed). Manufacturing: Petratex, Portugal. EON Productions licensed James Bond film poster artwork for July 2018 collection.
-
-## Related Pattern Types
-
-- Seasonal resort print on swim shorts (tropical, floral, stripe, graphic)
-- Licensed IP artwork applied to garment surface (EON Productions James Bond)
-- Photographic print on garment surface (#SnapShorts)
-- Italian archival print (La Double J collaboration)
-
-## Related Companies
-
-- [[wiki/companies/_staging/holding/chanel]] — parent company (acquired September 2018)
-- [[wiki/companies/_ready/selfridges]] — key wholesale account
-- [[Barneys New York]] — key wholesale account
-
-## Source Notes
-
-- Primary source: Wikipedia (en), "Orlebar Brown" — enriched 2026-06-13
-- YAML parent_company "chanel" is correct (Chanel acquired September 2018)
-- YAML location "United States" is incorrect — British brand, West London HQ; YAML preserved as found
-- YAML market_categories "Running" is incorrect for a swimwear/resort brand; YAML preserved as found
-- Piper private equity: £8M minority stake August 2013 (prior to Chanel acquisition)
-- Manufacturing: Petratex factory, Portugal (12+ stage process)
-- EON Productions James Bond collection: July 2018 (Dr. No, Thunderball, You Only Live Twice, Live and Let Die poster art)
+- [About](https://orlebarbrown.com/pages/about)
+- [Contact](https://orlebarbrown.com/pages/help)
+- [Sustainability](https://orlebarbrown.com/pages/sustainability)
+- [Store locator](https://orlebarbrown.com/pages/store-locator)

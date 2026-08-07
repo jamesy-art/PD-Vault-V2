@@ -7,7 +7,10 @@ summary: ""
 motifs: []
 structures: []
 styles: []
-categories: []
+categories:
+  - Colour
+colour_family: Yellow
+technique: []
 source_count: 2
 source_files:
   - Yellow Pattern 2.md
@@ -15,7 +18,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/yellow-pattern/yellow-pattern-1-pattern-designers.jpg
@@ -46,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=_LjNGtrT-b0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: yellow-pattern-1-pattern-designers.jpg
+    title: Abstract colorful halftone design background
+    alt: Abstract colorful halftone design background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-colorful-halftone-design-background_16242609.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-colorful-halftone-design-background_1055-10570.jpg"
+      title: Abstract colorful halftone design background
+      description: Download this free vector of Abstract colorful halftone design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: yellow-pattern-2-pattern-designers.jpg
+    title: Detail of yellow gold mosiac texture abstract ceramic mosaic adorned building. abstract seamless pattern. abstract colored ceramic stones. | Free Photo
+    alt: Detail of yellow gold mosiac texture abstract ceramic mosaic adorned building. abstract seamless pattern. abstract colored ceramic stones. | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/detail-yellow-gold-mosiac-texture-abstract-ceramic-mosaic-adorned-building-abstract-seamless-pattern-abstract-colored-ceramic-stones_18489127.htm"
+      image_url: "https://img.magnific.com/free-photo/detail-yellow-gold-mosiac-texture-abstract-ceramic-mosaic-adorned-building-abstract-seamless-pattern-abstract-colored-ceramic-stones_1258-72276.jpg"
+      title: Detail of yellow gold mosiac texture abstract ceramic mosaic adorned building. abstract seamless pattern. abstract colored ceramic stones. | Free Photo
+      description: Download this free photo of Detail of yellow gold mosiac texture abstract ceramic mosaic adorned building. abstract seamless pattern. abstract colored ceramic stones. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: yellow-pattern-3-pattern-designers.jpg
+    title: Yellow maze abstract pattern wallpaper
+    alt: Yellow maze abstract pattern wallpaper
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/yellow-maze-abstract-pattern-wallpaper_354893083.htm"
+      image_url: "https://img.magnific.com/free-vector/yellow-maze-abstract-pattern-wallpaper_1409-8999.jpg"
+      title: Yellow maze abstract pattern wallpaper
+      description: Download this free vector of Yellow maze abstract pattern wallpaper and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: yellow-pattern-4-pattern-designers.jpg
+    title: Zigzag pattern yellow background in geometric style
+    alt: Zigzag pattern yellow background in geometric style
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/zigzag-pattern-yellow-background-geometric-style_34532141.htm"
+      image_url: "https://img.magnific.com/free-vector/zigzag-pattern-yellow-background-geometric-style_1017-41286.jpg"
+      title: Zigzag pattern yellow background in geometric style
+      description: Download this free vector of Zigzag pattern yellow background in geometric style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Yellow Pattern

@@ -7,14 +7,17 @@ summary: ""
 motifs: []
 structures: []
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Scale Patterns.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/scale-pattern/scale-pattern-1-pattern-designers.jpg
@@ -45,6 +48,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=S6OU34CRefU
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: scale-pattern-1-pattern-designers.jpg
+    title: Classic fabric seamless pattern scale geometric seamless pattern | Premium Photo
+    alt: Classic fabric seamless pattern scale geometric seamless pattern | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/classic-fabric-seamless-pattern-scale-geometric-seamless-pattern_425347632.htm"
+      image_url: "https://img.magnific.com/premium-photo/classic-fabric-seamless-pattern-scale-geometric-seamless-pattern_250841-2897.jpg"
+      title: Classic fabric seamless pattern scale geometric seamless pattern | Premium Photo
+      description: Download this Premium photo of Classic fabric seamless pattern scale geometric seamless pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: scale-pattern-2-pattern-designers.jpg
+    title: Close up on  pattern of scales | AI-generated image
+    alt: Close up on  pattern of scales | AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/close-up-pattern-scales_160575328.htm"
+      image_url: "https://img.magnific.com/free-photo/close-up-pattern-scales_23-2151365720.jpg"
+      title: Close up on  pattern of scales | AI-generated image
+      description: Download this free AI-generated image about Close up on  pattern of scales, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: scale-pattern-3-pattern-designers.jpg
+    title: Line art minimal fish scale pattern on white background design
+    alt: Line art minimal fish scale pattern on white background design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/line-art-minimal-fish-scale-pattern-white-background-design_426841134.htm"
+      image_url: "https://img.magnific.com/free-vector/line-art-minimal-fish-scale-pattern-white-background-design_1017-63209.jpg"
+      title: Line art minimal fish scale pattern on white background design
+      description: Download this free vector of Line art minimal fish scale pattern on white background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: scale-pattern-4-pattern-designers.jpg
+    title: Tie dye seamless pattern | Premium Photo
+    alt: Tie dye seamless pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/tie-dye-seamless-pattern_69962800.htm"
+      image_url: "https://img.magnific.com/premium-photo/tie-dye-seamless-pattern_332989-7121.jpg"
+      title: Tie dye seamless pattern | Premium Photo
+      description: Download this Premium photo of Tie dye seamless pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Scale Pattern

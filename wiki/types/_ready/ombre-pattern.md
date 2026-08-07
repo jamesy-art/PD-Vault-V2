@@ -6,24 +6,19 @@ type_group: colour
 summary: Surface pattern technique using a gradual transition from one colour or tone to another; applied in fashion textiles, wallpaper, homeware, and digital print
 motifs: []
 structures:
-  - gradient
-  - tonal-transition
-  - directional
-styles:
-  - contemporary
-  - soft
-  - atmospheric
-  - gradient
+  - Gradient
+styles: []
 categories:
-  - colour-technique
-  - gradient
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Ombré Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ombre-pattern/ombre-pattern-2-pattern-designers.jpg
@@ -50,6 +45,52 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=lnmTIZ4YYmQ
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ombre-pattern-2-pattern-designers.jpg
+    title: Abstract background in purple and pink tones
+    alt: Abstract background in purple and pink tones
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-purple-pink-tones_849207.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-purple-pink-tones_1095-276.jpg"
+      title: Abstract background in purple and pink tones
+      description: Download this free vector of Abstract background in purple and pink tones and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ombre-pattern-3-pattern-designers.jpg
+    title: Abstract wavy pattern background in blue and red gradient | Premium Photo
+    alt: Abstract wavy pattern background in blue and red gradient | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/abstract-wavy-pattern-background-blue-red-gradient_421967453.htm"
+      image_url: "https://img.magnific.com/premium-photo/abstract-wavy-pattern-background-blue-red-gradient_439195-145.jpg"
+      title: Abstract wavy pattern background in blue and red gradient | Premium Photo
+      description: Download this Premium photo of Abstract wavy pattern background in blue and red gradient and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ombre-pattern-4-pattern-designers.jpg
+    title: Modern colorful square gradient pink background with lines | Premium Photo
+    alt: Modern colorful square gradient pink background with lines | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/modern-colorful-square-gradient-pink-background-with-lines_43814413.htm"
+      image_url: "https://img.magnific.com/premium-photo/modern-colorful-square-gradient-pink-background-with-lines_7954-29962.jpg"
+      title: Modern colorful square gradient pink background with lines | Premium Photo
+      description: Download this Premium photo of Modern colorful square gradient pink background with lines and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ombré Pattern

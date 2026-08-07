@@ -4,10 +4,19 @@ slug: tropical-pattern
 status: draft
 type_group: seasonal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+  - Animal
+structures:
+  - Scatter
+  - Half-Drop
+styles:
+  - Tropical
+  - Maximalist
+categories:
+  - Seasonal
+colour_family: Multicolour
+technique: []
 source_count: 5
 source_files:
   - Tropical Pattern 5.md
@@ -18,7 +27,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/tropical-pattern/tropical-pattern-1-pattern-designers.jpg
@@ -49,6 +58,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=VI9POnQJTcs
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: tropical-pattern-1-pattern-designers.jpg
+    title: Blooming hibiscus and palm seamless pattern
+    alt: Blooming hibiscus and palm seamless pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blooming-hibiscus-palm-seamless-pattern_10120988.htm"
+      image_url: "https://img.magnific.com/free-vector/blooming-hibiscus-palm-seamless-pattern_1182-1452.jpg"
+      title: Blooming hibiscus and palm seamless pattern
+      description: Download this free vector of Blooming hibiscus and palm seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tropical-pattern-2-pattern-designers.jpg
+    title: Floral seamless pattern with leaves tropical background | Premium Vector
+    alt: Floral seamless pattern with leaves tropical background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/floral-seamless-pattern-with-leaves-tropical-background_400675010.htm"
+      image_url: "https://img.magnific.com/premium-vector/floral-seamless-pattern-with-leaves-tropical-background_57516-3266.jpg"
+      title: Floral seamless pattern with leaves tropical background | Premium Vector
+      description: Download this Premium vector of Floral seamless pattern with leaves tropical background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tropical-pattern-3-pattern-designers.jpg
+    title: Tropical flowers pattern
+    alt: Tropical flowers pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/tropical-flowers-pattern_2686657.htm"
+      image_url: "https://img.magnific.com/free-vector/tropical-flowers-pattern_52683-51.jpg"
+      title: Tropical flowers pattern
+      description: Download this free vector of Tropical flowers pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: tropical-pattern-4-pattern-designers.jpg
+    title: Tropical leaves background
+    alt: Tropical leaves background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/tropical-leaves-background_8269318.htm"
+      image_url: "https://img.magnific.com/free-vector/tropical-leaves-background_23-2148544464.jpg"
+      title: Tropical leaves background
+      description: Download this free vector of Tropical leaves background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Tropical Pattern

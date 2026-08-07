@@ -4,17 +4,24 @@ slug: chinoiserie-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Animal
+  - Botanical
+structures:
+  - Border
+styles:
+  - Chinoiserie
+categories:
+  - Heritage
+colour_family: Blue
+technique: []
 source_count: 1
 source_files:
   - Chinoiserie Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/chinoiserie-pattern/chinoiserie-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=OJAakh5CBvc
 learn_more_youtube_2: https://www.youtube.com/watch?v=XbaxG9uBdVQ&t
 learn_more_youtube_3: ""
+gallery_images:
+  - path: chinoiserie-pattern-1-pattern-designers.jpg
+    title: A blue flowers on a white background | Premium Photo
+    alt: A blue flowers on a white background | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/blue-flowers-white-background_190622918.htm"
+      image_url: "https://img.magnific.com/premium-photo/blue-flowers-white-background_379823-32618.jpg"
+      title: A blue flowers on a white background | Premium Photo
+      description: Download this Premium photo of A blue flowers on a white background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: chinoiserie-pattern-2-pattern-designers.jpg
+    title: Blue and white floral bird pattern chinoiserie wallpaper design | Premium AI-generated image
+    alt: Blue and white floral bird pattern chinoiserie wallpaper design | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/blue-white-floral-bird-pattern-chinoiserie-wallpaper-design_397961322.htm"
+      image_url: "https://img.magnific.com/premium-photo/blue-white-floral-bird-pattern-chinoiserie-wallpaper-design_1001890-6761.jpg"
+      title: Blue and white floral bird pattern chinoiserie wallpaper design | Premium AI-generated image
+      description: Download this Premium AI-generated image about Blue and white floral bird pattern chinoiserie wallpaper design, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: chinoiserie-pattern-3-pattern-designers.jpg
+    title: Chinoiserie floral seamless pattern with birds and flowers | Premium Photo
+    alt: Chinoiserie floral seamless pattern with birds and flowers | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/chinoiserie-floral-seamless-pattern-with-birds-flowers_418540143.htm"
+      image_url: "https://img.magnific.com/premium-photo/chinoiserie-floral-seamless-pattern-with-birds-flowers_174146-6956.jpg"
+      title: Chinoiserie floral seamless pattern with birds and flowers | Premium Photo
+      description: Download this Premium photo of Chinoiserie floral seamless pattern with birds and flowers and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: chinoiserie-pattern-4-pattern-designers.jpg
+    title: Elegant blue rose botanical print for fabric and decor | Premium Photo
+    alt: Elegant blue rose botanical print for fabric and decor | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/elegant-blue-rose-botanical-print-fabric-decor_425132192.htm"
+      image_url: "https://img.magnific.com/premium-photo/elegant-blue-rose-botanical-print-fabric-decor_525160-23150.jpg"
+      title: Elegant blue rose botanical print for fabric and decor | Premium Photo
+      description: Download this Premium photo of Elegant blue rose botanical print for fabric and decor and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Chinoiserie Pattern

@@ -1,150 +1,93 @@
 ---
+company_uid: 759902ef-f294-463e-8a38-b50cb2ccfd3a
+schema_version: 1
 name: MVMT
 slug: mvmt
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
+  - eyewear
+  - fashion
+  - jewellery
+  - watches
+markets:
+  - womenswear
+  - menswear
+products:
+  - apparel
+  - activewear
+  - jewellery
+  - watches
+  - eyewear
+hq_country_code: US
+location: United States
+founded_year: 2013
+employee_count_text: '100'
+revenue_text: $27.5M
+website_url: https://www.mvmt.com
+instagram_url: https://www.instagram.com/mvmt
+linkedin_url: https://www.linkedin.com/company/mvmt-watches-inc/
+facebook_url: https://www.facebook.com/mvmt
+tiktok_url: https://www.tiktok.com/@mvmt
+youtube_url: https://www.youtube.com/user/mvmtwatches
+parent_company_uid: 9af409ea-e744-48eb-8aba-171a48358aff
 type_slugs: []
-website: https://www.mvmt.com
-instagram: https://www.instagram.com/mvmt
-linkedin: https://www.linkedin.com/company/mvmt-watches-inc/
-facebook: https://www.facebook.com/mvmt
-founded: "2013"
-headquarters: United States
-employees: "100"
-revenue: $27.5M
-category_images:
-  - label: "Watches"
-    category: "watches"
-    image: "../../assets/companies/mvmt/cat/mvmt-watches.jpg"
-parent_company: movado
-source_file: movado.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-12
-updated: 2026-06-12
-retail_categories:
-  - Clothing
-  - Activewear
-  - Jewellery
-  - Watches
-  - Eyewear
-market_categories:
-  - Womenswear
-  - Menswear
-collections: []
-tiktok: https://www.tiktok.com/@mvmt
-youtube: https://www.youtube.com/user/mvmtwatches
-about_url: https://www.mvmt.com/about-us
-contact_url: https://www.mvmt.com/on/demandware.store/Sites-MVMTUS-Site/en_US/FAQ-Show
-store_locator_url: https://www.mvmt.com/stores-find
-accessibility_url: https://www.mvmt.com/accessibility
-profile_image: ../../assets/companies/mvmt/profile/32135554_907351702791333_5344036010353229824_n.jpg
-profile_image_local: ../../assets/companies/mvmt/profile/32135554_907351702791333_5344036010353229824_n.jpg
-company_logo_selected: ../../assets/companies/mvmt/profile/32135554_907351702791333_5344036010353229824_n.jpg
-logo_image_selected: ../../assets/companies/mvmt/profile/32135554_907351702791333_5344036010353229824_n.jpg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/mvmt/profile/32135554_907351702791333_5344036010353229824_n.jpg
 images:
-  profile:
-    - ../../assets/companies/mvmt/profile/32135554_907351702791333_5344036010353229824_n.jpg
-trk_reviewed: false
-trk_notes: ""
-trk_new: http://www.mvmt.com/new-arrivals-3
-trk_women: https://www.mvmt.com/best-sellers/womens
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: ""
-trk_women_bottoms: ""
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: http://www.mvmt.com/sunglasses-1
-trk_men: https://www.mvmt.com/view-all
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: https://www.mvmt.com/mens-sunglasses
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: https://www.mvmt.com/home
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: https://www.mvmt.com/jewelry-1
-trk_watches: https://www.mvmt.com/watches-2
-trk_eyewear: https://www.mvmt.com/eyewear-1
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://www.mvmt.com/ca-affiliates-page.html
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/mvmt/profile/mvmt-logo.jpg
+    alt: MVMT logo
+    width: 620
+    height: 620
+  gallery:
+    - title: Watches
+      alt: MVMT watches collection
+      path: ../../assets/companies/mvmt/gallery/mvmt-watches.jpg
+      width: 1660
+      height: 1660
+      source:
+        title: Watches
+        page_url: https://www.mvmt.com/watches-2
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # MVMT
 
 ## Profile Image
 
-![pd-profile|160](32135554_907351702791333_5344036010353229824_n.jpg)
+![Profile](../../assets/companies/mvmt/profile/mvmt-logo.jpg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Watches | <img src="../../assets/companies/mvmt/cat/mvmt-watches.jpg" width="160"> |
-
-
-American DTC quartz watch and accessories brand (pronounced "movement"); co-founded June 2013 by Jake Kassan and Kramer LaPlante; acquired by [[wiki/companies/_ready/movado]] in August 2018 for over $100 million.
+| Title | Preview |
+|-------|---------|
+| Watches | ![](../../assets/companies/mvmt/gallery/mvmt-watches.jpg) |
 
 ## Overview
 
-MVMT Watches Inc. (pronounced "movement") was co-founded in June 2013 by Jake Kassan and Kramer LaPlante, both college dropouts. The brand raised over $290,000 through two Indiegogo crowdfunding campaigns. MVMT's name denotes both the movement of time and people and the movement component of a watch. The brand launched sunglasses in 2016. [[wiki/companies/_ready/movado]] Group acquired MVMT in August 2018 for over $100 million (potentially reaching $200 million depending on performance). YAML parent_company "movado" is correct. YAML location "United States" is correct. YAML retail_categories list "Clothing, Activewear" — clothing and activewear are not core MVMT product categories; the brand primarily sells watches, sunglasses, and accessories; YAML preserved as found.
+MVMT Watches Inc. (pronounced "movement") was co-founded in June 2013 by Jake Kassan and Kramer LaPlante, both college dropouts. The brand raised over $290,000 through two Indiegogo crowdfunding campaigns. MVMT's name denotes both the movement of time and people and the movement component of a watch. The brand launched sunglasses in 2016. Movado Group acquired MVMT in August 2018 for over $100 million (potentially reaching $200 million depending on performance). YAML parent_company "movado" is correct. YAML location "United States" is correct. YAML retail_categories list "Clothing, Activewear" — clothing and activewear are not core MVMT product categories; the brand primarily sells watches, sunglasses, and accessories; YAML preserved as found.
 
-## Company Profile
+MVMT's aesthetic is minimalist and accessible — its market position was built on offering clean, unbranded-looking watch designs at competitive price points via DTC. The brand's design approach is consumer-data and social-media-led rather than creative-director-led.
 
-MVMT Watches Inc. Co-founded June 2013, United States. Owner: [[wiki/companies/_ready/movado]] Group (acquired August 2018). Website: mvmt.com. Instagram: @mvmt. Facebook, TikTok, YouTube documented in YAML. About, contact, store locator, accessibility URLs documented in YAML. Product range: quartz watches, sunglasses, jewellery, accessories. YAML retail_categories: clothing, activewear, jewellery, watches, eyewear — clothing and activewear appear incorrect for MVMT's core business; YAML preserved as found.
+## History
 
-## Market Position
+MVMT Watches Inc. Co-founded June 2013, United States. Owner: Movado Group (acquired August 2018). Website: mvmt.com. Instagram: @mvmt. Facebook, TikTok, YouTube documented in YAML. About, contact, store locator, accessibility URLs documented in YAML. Product range: quartz watches, sunglasses, jewellery, accessories. YAML retail_categories: clothing, activewear, jewellery, watches, eyewear — clothing and activewear appear incorrect for MVMT's core business; YAML preserved as found.
 
-MVMT built a DTC millennial-focused watch brand via social media and crowdfunding before acquisition. In 2017: 88% of users were under 34 years old; 45% were under 24. By December 2016: 600,000+ watches sold; over 1 million by September 2018. The brand disrupted the accessible end of the watch market through direct-to-consumer pricing, social media marketing, and a minimalist aesthetic. Movado's acquisition positioned MVMT as a growth vehicle for a younger audience within the Movado Group portfolio.
-
-## Products and Categories
+## Products
 
 Quartz watches (primary product; minimalist design aesthetic), sunglasses (from 2016), jewellery, accessories. YAML retail categories: watches, eyewear, jewellery (correct); clothing, activewear (likely YAML scrape artefacts; YAML preserved).
+
+## Services
+
+YAML parent_company "movado" is correct — Movado Group acquired MVMT in August 2018 for over $100M. YAML location "United States" is correct. DTC model with own website (mvmt.com); documented store locator suggests some retail presence.
+
+## Markets
+
+MVMT built a DTC millennial-focused watch brand via social media and crowdfunding before acquisition. In 2017: 88% of users were under 34 years old; 45% were under 24. By December 2016: 600,000+ watches sold; over 1 million by September 2018. The brand disrupted the accessible end of the watch market through direct-to-consumer pricing, social media marketing, and a minimalist aesthetic. Movado's acquisition positioned MVMT as a growth vehicle for a younger audience within the Movado Group portfolio.
 
 ## Pattern and Surface Design Relevance
 
@@ -155,27 +98,8 @@ MVMT's relevance to SPD is minimal. The brand's design language is deliberately 
 - **Sunglass frame colour and finish**: Frame colourways and lens tint selection in MVMT's sunglasses line
 - The brand's commercial success was driven by social media marketing of affordable minimalist accessory surface aesthetics rather than by pattern or textile design innovation
 
-## Design Direction
+## Official Resources
 
-MVMT's aesthetic is minimalist and accessible — its market position was built on offering clean, unbranded-looking watch designs at competitive price points via DTC. The brand's design approach is consumer-data and social-media-led rather than creative-director-led.
-
-## Retail and Licensing Context
-
-YAML parent_company "movado" is correct — [[wiki/companies/_ready/movado]] Group acquired MVMT in August 2018 for over $100M. YAML location "United States" is correct. DTC model with own website (mvmt.com); documented store locator suggests some retail presence.
-
-## Related Pattern Types
-
-- Minimalist watch face layout (hour markers, hands, sub-dials)
-- Watch strap surface (leather, silicone; colour and texture)
-- Sunglass frame colourway design
-
-## Related Companies
-
-- [[wiki/companies/_ready/movado]] — parent company (acquired August 2018)
-
-## Source Notes
-
-- Primary source: Wikipedia (en), "MVMT Watches" — enriched 2026-06-13
-- YAML parent_company "movado" is correct
-- YAML location "United States" is correct
-- YAML retail_categories list "Clothing, Activewear" — not core MVMT products (primarily watches, sunglasses, accessories); YAML preserved as found
+- [About](https://www.mvmt.com/about-us)
+- [Contact](https://www.mvmt.com/on/demandware.store/Sites-MVMTUS-Site/en_US/FAQ-Show)
+- [Store locator](https://www.mvmt.com/stores-find)

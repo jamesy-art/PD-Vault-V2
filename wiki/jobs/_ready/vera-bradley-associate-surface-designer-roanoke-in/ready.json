@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-0e2e3186df252f17",
+  "editorial_slug": "vera-bradley-associate-surface-designer-roanoke-in",
+  "canonical_id": "can-clip-0e2e3186df252f17",
+  "capture_id": "cap-clip-0e2e3186df252f17",
+  "ready_status": "ready",
+  "ready_at": "2026-08-07T16:20:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.a6a09656",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "a6a096560e7c407d65c27a586cc8a697c630e45531edb9e228ea93c30a68f6be",
+  "title": "Associate Surface Designer - Roanoke, IN",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 3,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 3,
+    "rewritten_wikilinks": 0
+  }
+}

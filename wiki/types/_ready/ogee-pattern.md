@@ -5,25 +5,16 @@ status: active
 type_group: geometric
 summary: Repeating pattern built from S-shaped double curves, creating interlocking teardrop, onion, or diamond-like shapes; one of the oldest and most commercially durable motifs in wallpaper, damask, and furnishing textiles
 motifs:
-  - ogee
-  - S-curve
-  - teardrop
-  - onion dome
-  - Venetian arch
+  - Geometric
 structures:
-  - all-over
-  - interlocking
-  - grid-based
+  - Ogee
 styles:
-  - traditional
-  - Venetian
+  - Damask
   - Gothic
-  - damask
-  - luxe
 categories:
-  - geometric
-  - heritage
-  - architectural
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Ogee Pattern 2.md
@@ -31,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ogee-pattern/ogee-pattern-1-pattern-designers.jpg
@@ -62,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=RdG7i6bYLxA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ogee-pattern-1-pattern-designers.jpg
+    title: Abstract background with a retro wallpaper design
+    alt: Abstract background with a retro wallpaper design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-with-retro-wallpaper-design_50500193.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-with-retro-wallpaper-design_1048-19059.jpg"
+      title: Abstract background with a retro wallpaper design
+      description: Download this free vector of Abstract background with a retro wallpaper design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ogee-pattern-2-pattern-designers.jpg
+    title: Flat design retro renew pattern
+    alt: Flat design retro renew pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-retro-renew-pattern_31725886.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-retro-renew-pattern_23-2149685187.jpg"
+      title: Flat design retro renew pattern
+      description: Download this free vector of Flat design retro renew pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ogee-pattern-3-pattern-designers.jpg
+    title: Geometric groovy pattern
+    alt: Geometric groovy pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/geometric-groovy-pattern_12187182.htm"
+      image_url: "https://img.magnific.com/free-vector/geometric-groovy-pattern_23-2148831561.jpg"
+      title: Geometric groovy pattern
+      description: Download this free vector of Geometric groovy pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ogee-pattern-4-pattern-designers.jpg
+    title: "Monochrome light brown art deco seamless pattern"
+    alt: "Monochrome light brown art deco seamless pattern"
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/monochrome-light-brown-art-deco-seamless-pattern_10270899.htm"
+      image_url: "https://img.magnific.com/free-vector/monochrome-light-brown-art-deco-seamless-pattern_23-2148684314.jpg"
+      title: "Monochrome light brown art deco seamless pattern"
+      description: "Download this free vector of Monochrome light brown art deco seamless pattern and explore millions of professional vectors on Magnific."
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ogee Pattern

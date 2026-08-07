@@ -5,16 +5,21 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Check
+  - Brick
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Brown
+technique: []
 source_count: 1
 source_files:
   - Brickwork Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/brickwork-pattern/brickwork-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=bTayumkd5uE
 learn_more_youtube_2: https://www.youtube.com/watch?v=eo7fSnn-ok4
 learn_more_youtube_3: ""
+gallery_images:
+  - path: brickwork-pattern-1-pattern-designers.jpg
+    title: A geometric design with orange and brown squares | Premium Photo
+    alt: A geometric design with orange and brown squares | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/geometric-design-with-orange-brown-squares_382849690.htm"
+      image_url: "https://img.magnific.com/premium-photo/geometric-design-with-orange-brown-squares_1093168-373.jpg"
+      title: A geometric design with orange and brown squares | Premium Photo
+      description: Download this Premium photo of A geometric design with orange and brown squares and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: brickwork-pattern-2-pattern-designers.jpg
+    title: Full frame shot of pattern | Premium Photo
+    alt: Full frame shot of pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/full-frame-shot-pattern_108082349.htm"
+      image_url: "https://img.magnific.com/premium-photo/full-frame-shot-pattern_1622117-166.jpg"
+      title: Full frame shot of pattern | Premium Photo
+      description: Download this Premium photo of Full frame shot of pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: brickwork-pattern-3-pattern-designers.jpg
+    title: Photo of wall texture pattern | Free Photo
+    alt: Photo of wall texture pattern | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/photo-wall-texture-pattern_228180415.htm"
+      image_url: "https://img.magnific.com/free-photo/photo-wall-texture-pattern_58702-14877.jpg"
+      title: Photo of wall texture pattern | Free Photo
+      description: Download this free photo of Photo of wall texture pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: brickwork-pattern-4-pattern-designers.jpg
+    title: Seamless pattern of natural red brick wall with textured bricks brickwork stone wall old garden | Premium Photo
+    alt: Seamless pattern of natural red brick wall with textured bricks brickwork stone wall old garden | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-pattern-natural-red-brick-wall-with-textured-bricks-brickwork-stone-wall-old-garden_417966611.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-pattern-natural-red-brick-wall-with-textured-bricks-brickwork-stone-wall-old-garden_671792-1603.jpg"
+      title: Seamless pattern of natural red brick wall with textured bricks brickwork stone wall old garden | Premium Photo
+      description: Download this Premium photo of Seamless pattern of natural red brick wall with textured bricks brickwork stone wall old garden and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Brickwork Pattern

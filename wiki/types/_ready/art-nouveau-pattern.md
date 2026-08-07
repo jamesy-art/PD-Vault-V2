@@ -4,10 +4,17 @@ slug: art-nouveau-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+structures:
+  - Scatter
+  - Border
+styles:
+  - Art Nouveau
+categories:
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Art Nouveau Pattern 2.md
@@ -15,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/art-nouveau-pattern/art-nouveau-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=VQM3uRIot6Y
 learn_more_youtube_2: https://www.youtube.com/watch?v=LettuxcTmtw
 learn_more_youtube_3: https://www.youtube.com/watch?v=6krIoHh1EjU
+gallery_images:
+  - path: art-nouveau-pattern-1-pattern-designers.jpg
+    title: Swan, rush and iris wallpaper design by Walter Crane (1883)
+    alt: Swan, rush and iris wallpaper design by Walter Crane (1883)
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Swan_and_Rush_and_Iris_wallpaper_Walter_Crane.jpg/330px-Swan_and_Rush_and_Iris_wallpaper_Walter_Crane.jpg"
+      title: Swan, rush and iris wallpaper design by Walter Crane (1883)
+      description: Swan, rush and iris wallpaper design by Walter Crane (1883)
+    affiliate:
+      enabled: false
+      url: null
+  - path: art-nouveau-pattern-2-pattern-designers.jpg
+    title: Art nouveau architecture wallpaper pattern line | Premium AI-generated image
+    alt: Art nouveau architecture wallpaper pattern line | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/art-nouveau-architecture-wallpaper-pattern-line_267160290.htm"
+      image_url: "https://img.magnific.com/premium-photo/art-nouveau-architecture-wallpaper-pattern-line_53876-329847.jpg"
+      title: Art nouveau architecture wallpaper pattern line | Premium AI-generated image
+      description: Download this Premium AI-generated image about Art nouveau architecture wallpaper pattern line, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: art-nouveau-pattern-3-pattern-designers.jpg
+    title: Art nouveau card back abstract pattern stylish | Premium Photo
+    alt: Art nouveau card back abstract pattern stylish | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/art-nouveau-card-back-abstract-pattern-stylish_245317678.htm"
+      image_url: "https://img.magnific.com/premium-photo/art-nouveau-card-back-abstract-pattern-stylish_470419-253.jpg"
+      title: Art nouveau card back abstract pattern stylish | Premium Photo
+      description: Download this Premium photo of Art nouveau card back abstract pattern stylish and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: art-nouveau-pattern-4-pattern-designers.jpg
+    title: Art nouveau poppy flower pattern background
+    alt: Art nouveau poppy flower pattern background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/art-nouveau-poppy-flower-pattern-background_14549396.htm"
+      image_url: "https://img.magnific.com/free-vector/art-nouveau-poppy-flower-pattern-background_53876-99101.jpg"
+      title: Art nouveau poppy flower pattern background
+      description: Download this free vector of Art nouveau poppy flower pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Art Nouveau Pattern

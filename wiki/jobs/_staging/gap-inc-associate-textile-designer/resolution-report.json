@@ -1,0 +1,49 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-da8e3330417838a4",
+  "canonical_id": "can-clip-da8e3330417838a4",
+  "canonical_path": "wiki/jobs/_staging/gap-inc-associate-textile-designer",
+  "resolved": [
+    "company:Gap",
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United States"
+  ],
+  "needs_review": [
+    "software:NedGraphics",
+    "software:Excel",
+    "software:MS Office",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:Product Development",
+    "skills:Embroidery",
+    "skills:Pattern Design",
+    "location:San Francisco",
+    "location:San Francisco, CA, United States"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 8,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 56,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 57,
+  "resolution_quality": 44,
+  "message": "Resolved"
+}

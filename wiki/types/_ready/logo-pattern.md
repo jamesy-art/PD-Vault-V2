@@ -4,17 +4,24 @@ slug: logo-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Logo
+structures:
+  - Block
+  - Half-Drop
 styles: []
-categories: []
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Digital
 source_count: 1
 source_files:
   - Logo Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/logo-pattern/logo-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=m0WvEa--XUI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: logo-pattern-1-pattern-designers.jpg
+    title: Abstract geometric seamless pattern. tile background. infinity wrapping paper with different shapes. | Premium Vector
+    alt: Abstract geometric seamless pattern. tile background. infinity wrapping paper with different shapes. | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-geometric-seamless-pattern-tile-background-infinity-wrapping-paper-with-different-shapes_38448144.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-geometric-seamless-pattern-tile-background-infinity-wrapping-paper-with-different-shapes_657999-9055.jpg"
+      title: Abstract geometric seamless pattern. tile background. infinity wrapping paper with different shapes. | Premium Vector
+      description: Download this Premium vector of Abstract geometric seamless pattern. tile background. infinity wrapping paper with different shapes. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: logo-pattern-2-pattern-designers.jpg
+    title: Seamless pattern with social media vector illustration for wallpaper | Premium Vector
+    alt: Seamless pattern with social media vector illustration for wallpaper | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-social-media-vector-illustration-wallpaper_51378933.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-social-media-vector-illustration-wallpaper_153454-6330.jpg"
+      title: Seamless pattern with social media vector illustration for wallpaper | Premium Vector
+      description: Download this Premium vector of Seamless pattern with social media vector illustration for wallpaper and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: logo-pattern-3-pattern-designers.jpg
+    title: Social media icon seamless pattern vector background | Premium Vector
+    alt: Social media icon seamless pattern vector background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/social-media-icon-seamless-pattern-vector-background_43064330.htm"
+      image_url: "https://img.magnific.com/premium-vector/social-media-icon-seamless-pattern-vector-background_153454-5098.jpg"
+      title: Social media icon seamless pattern vector background | Premium Vector
+      description: Download this Premium vector of Social media icon seamless pattern vector background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: logo-pattern-4-pattern-designers.jpg
+    title: The geometric pattern by the points | Premium Photo
+    alt: The geometric pattern by the points | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/geometric-pattern-by-points_191206658.htm"
+      image_url: "https://img.magnific.com/premium-photo/geometric-pattern-by-points_525160-1787.jpg"
+      title: The geometric pattern by the points | Premium Photo
+      description: Download this Premium photo of The geometric pattern by the points and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Logo Pattern

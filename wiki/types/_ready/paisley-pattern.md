@@ -4,17 +4,26 @@ slug: paisley-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Emblem
+structures:
+  - Scatter
+  - Border
+styles:
+  - Bohemian
+  - Oriental
+categories:
+  - Heritage
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Paisley Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/paisley-pattern/paisley-pattern-1-pattern-designers.jpg
@@ -45,6 +54,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=2vtKELmA-v8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: paisley-pattern-1-pattern-designers.jpg
+    title: Free vector blue drawn paisley pattern | Premium AI-generated vector
+    alt: Free vector blue drawn paisley pattern | Premium AI-generated vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/free-vector-blue-drawn-paisley-pattern_275280257.htm"
+      image_url: "https://img.magnific.com/premium-vector/free-vector-blue-drawn-paisley-pattern_714183-3278.jpg"
+      title: Free vector blue drawn paisley pattern | Premium AI-generated vector
+      description: Download this Premium AI-generated vector about Free vector blue drawn paisley pattern, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: paisley-pattern-2-pattern-designers.jpg
+    title: Pink paisley pattern
+    alt: Pink paisley pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pink-paisley-pattern_802865.htm"
+      image_url: "https://img.magnific.com/free-vector/pink-paisley-pattern_23-2147519431.jpg"
+      title: Pink paisley pattern
+      description: Download this free vector of Pink paisley pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: paisley-pattern-3-pattern-designers.jpg
+    title: Vector floral seamless pattern background in arabian style. arabesque pattern. eastern ethnic ornament. elegant texture for backgrounds.
+    alt: Vector floral seamless pattern background in arabian style. arabesque pattern. eastern ethnic ornament. elegant texture for backgrounds.
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vector-floral-seamless-pattern-background-arabian-style-arabesque-pattern-eastern-ethnic-ornament-elegant-texture-backgrounds_1283688.htm"
+      image_url: "https://img.magnific.com/free-vector/vector-floral-seamless-pattern-background-arabian-style-arabesque-pattern-eastern-ethnic-ornament-elegant-texture-backgrounds_1217-726.jpg"
+      title: Vector floral seamless pattern background in arabian style. arabesque pattern. eastern ethnic ornament. elegant texture for backgrounds.
+      description: Download this free vector of Vector floral seamless pattern background in arabian style. arabesque pattern. eastern ethnic ornament. elegant texture for backgrounds. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: paisley-pattern-4-pattern-designers.jpg
+    title: Vibrant floral paisley pattern design | Premium AI-generated image
+    alt: Vibrant floral paisley pattern design | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/vibrant-floral-paisley-pattern-design_359260744.htm"
+      image_url: "https://img.magnific.com/premium-photo/vibrant-floral-paisley-pattern-design_1352954-371.jpg"
+      title: Vibrant floral paisley pattern design | Premium AI-generated image
+      description: Download this Premium AI-generated image about Vibrant floral paisley pattern design, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Paisley Pattern

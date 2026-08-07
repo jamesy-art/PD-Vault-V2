@@ -4,17 +4,25 @@ slug: butterfly-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Animal
+structures:
+  - Radial
+  - Scatter
+styles:
+  - Art Deco
+  - Art Nouveau
+categories:
+  - Animal
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Butterfly Patterns.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/butterfly-pattern/butterfly-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=xOwpNYeW66E
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: butterfly-pattern-1-pattern-designers.jpg
+    title: A pattern of butterflies from different angles | Premium Vector
+    alt: A pattern of butterflies from different angles | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pattern-butterflies-from-different-angles_26710582.htm"
+      image_url: "https://img.magnific.com/premium-vector/pattern-butterflies-from-different-angles_641360-143.jpg"
+      title: A pattern of butterflies from different angles | Premium Vector
+      description: Download this Premium vector of A pattern of butterflies from different angles and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: butterfly-pattern-2-pattern-designers.jpg
+    title: Flat  design butterfly pattern
+    alt: Flat  design butterfly pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-butterfly-pattern_150363349.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-butterfly-pattern_23-2151074749.jpg"
+      title: Flat  design butterfly pattern
+      description: Download this free vector of Flat  design butterfly pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: butterfly-pattern-3-pattern-designers.jpg
+    title: Flat design butterfly pattern
+    alt: Flat design butterfly pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-butterfly-pattern_88496951.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-butterfly-pattern_23-2151018688.jpg"
+      title: Flat design butterfly pattern
+      description: Download this free vector of Flat design butterfly pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: butterfly-pattern-4-pattern-designers.jpg
+    title: Hand drawn butterfly pattern design
+    alt: Hand drawn butterfly pattern design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-butterfly-pattern-design_144642634.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-butterfly-pattern-design_23-2151088679.jpg"
+      title: Hand drawn butterfly pattern design
+      description: Download this free vector of Hand drawn butterfly pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Butterfly Pattern

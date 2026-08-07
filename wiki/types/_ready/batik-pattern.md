@@ -4,17 +4,25 @@ slug: batik-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Emblem
+structures:
+  - Scatter
+  - Check
+styles:
+  - Batik
+categories:
+  - Heritage
+colour_family: Brown
+technique:
+  - Resist-Dye
 source_count: 1
 source_files:
   - Batik Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/batik-pattern/batik-pattern-1-pattern-designers.jpg
@@ -41,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=rdkqGIGMGD8
 learn_more_youtube_2: https://www.youtube.com/watch?v=Iuz7sUGTq8s
 learn_more_youtube_3: https://www.youtube.com/watch?v=PLTmu5m5bFU&t
+gallery_images:
+  - path: batik-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/c/cc/Batik_Besurek_Bengkulu.jpg) | 902 × 850 (1.24 MB) | [Gunkarta](https://en.wikipedia.org/wiki/User:Gunkarta 'User:Gunkarta') | User created page with UploadWizard |"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/c/cc/Batik_Besurek_Bengkulu.jpg) | 902 × 850 (1.24 MB) | [Gunkarta](https://en.wikipedia.org/wiki/User:Gunkarta 'User:Gunkarta') | User created page with UploadWizard |"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Batik_Besurek_Bengkulu.jpg/120px-Batik_Besurek_Bengkulu.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/c/cc/Batik_Besurek_Bengkulu.jpg) | 902 × 850 (1.24 MB) | [Gunkarta](https://en.wikipedia.org/wiki/User:Gunkarta \"User:Gunkarta\") | User created page with UploadWizard |"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/c/cc/Batik_Besurek_Bengkulu.jpg) | 902 × 850 (1.24 MB) | [Gunkarta](https://en.wikipedia.org/wiki/User:Gunkarta \"User:Gunkarta\") | User created page with UploadWizard |"
+    affiliate:
+      enabled: false
+      url: null
+  - path: batik-pattern-2-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/e/e7/Batik_Indonesia.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/e/e7/Batik_Indonesia.jpg)"
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Batik_Indonesia.jpg/500px-Batik_Indonesia.jpg?_=20070425144332"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/e/e7/Batik_Indonesia.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/e/e7/Batik_Indonesia.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: batik-pattern-3-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/f/fa/Batik_pattern_-_kawung.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/f/fa/Batik_pattern_-_kawung.jpg)"
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Batik_pattern_-_kawung.jpg/960px-Batik_pattern_-_kawung.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/f/fa/Batik_pattern_-_kawung.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/f/fa/Batik_pattern_-_kawung.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: batik-pattern-4-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/7/76/De_inlandsche_kunstnijverheid_in_Nederlandsch_Indi%C3%AB_%281912%29_%2814580812278%29.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/7/76/De_inlandsche_kunstnijverheid_in_Nederlandsch_Indi%C3%AB_%281912%29_%2814580812278%29.jpg)"
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/De_inlandsche_kunstnijverheid_in_Nederlandsch_Indi%C3%AB_%281912%29_%2814580812278%29.jpg/500px-De_inlandsche_kunstnijverheid_in_Nederlandsch_Indi%C3%AB_%281912%29_%2814580812278%29.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/7/76/De_inlandsche_kunstnijverheid_in_Nederlandsch_Indi%C3%AB_%281912%29_%2814580812278%29.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/7/76/De_inlandsche_kunstnijverheid_in_Nederlandsch_Indi%C3%AB_%281912%29_%2814580812278%29.jpg)"
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Batik Pattern

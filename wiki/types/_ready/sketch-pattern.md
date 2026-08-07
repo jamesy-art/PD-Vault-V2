@@ -4,26 +4,14 @@ slug: sketch-pattern
 status: active
 type_group: technique
 summary: Surface pattern aesthetic using the visual qualities of hand-drawn sketching — pencil, pen, or ink line work with visible mark-making — as a defining design characteristic.
-motifs:
-  - line-drawing
-  - botanical
-  - animals
-  - conversational
-  - abstract
-structures:
-  - tossed
-  - half-drop
-  - full-drop
-styles:
-  - illustrative
-  - hand-drawn
-  - artisanal
-  - fine-line
-  - editorial
+motifs: []
+structures: []
+styles: []
 categories:
-  - technique
-  - style
-  - illustrative
+  - Fundamentals
+colour_family: Black
+technique:
+  - Sketch
 source_count: 2
 source_files:
   - Sketch Pattern 2.md
@@ -31,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/sketch-pattern/sketch-pattern-1-pattern-designers.jpg
@@ -62,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=vWhQuIumEiE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: sketch-pattern-1-pattern-designers.jpg
+    title: Abstract scribble background
+    alt: Abstract scribble background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-scribble-background_386298322.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-scribble-background_474888-5815.jpg"
+      title: Abstract scribble background
+      description: Download this free vector of Abstract scribble background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sketch-pattern-2-pattern-designers.jpg
+    title: Blue background white doodles set
+    alt: Blue background white doodles set
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-background-white-doodles-set_73336011.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-background-white-doodles-set_78370-3164.jpg"
+      title: Blue background white doodles set
+      description: Download this free vector of Blue background white doodles set and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sketch-pattern-3-pattern-designers.jpg
+    title: Geometric grunge line pattern
+    alt: Geometric grunge line pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/geometric-grunge-line-pattern_27312117.htm"
+      image_url: "https://img.magnific.com/free-vector/geometric-grunge-line-pattern_1409-1964.jpg"
+      title: Geometric grunge line pattern
+      description: Download this free vector of Geometric grunge line pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sketch-pattern-4-pattern-designers.jpg
+    title: Seamless hand draw sketch geometric pattern monochrome geometry | Premium AI-generated image
+    alt: Seamless hand draw sketch geometric pattern monochrome geometry | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/seamless-hand-draw-sketch-geometric-pattern-monochrome-geometry_385405832.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-hand-draw-sketch-geometric-pattern-monochrome-geometry_1074281-28616.jpg"
+      title: Seamless hand draw sketch geometric pattern monochrome geometry | Premium AI-generated image
+      description: Download this Premium AI-generated image about Seamless hand draw sketch geometric pattern monochrome geometry, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Sketch Pattern

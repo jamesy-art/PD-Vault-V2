@@ -4,17 +4,26 @@ slug: ikat-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Emblem
+  - Geometric
+structures:
+  - Stripe
+  - Diamond
+styles:
+  - Ikat
+categories:
+  - Heritage
+colour_family: Brown
+technique:
+  - Resist-Dye
 source_count: 1
 source_files:
   - Ikat Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/ikat-pattern/ikat-pattern-1-pattern-designers.jpg
@@ -44,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=ZsPOfvAkMZ4
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: ikat-pattern-1-pattern-designers.jpg
+    title: "Image 1 from Double_ikat_weaving_from_Sulu,_Philippines,_East-West_Center.JPG (2146×2487).md"
+    alt: "Image 1 from Double_ikat_weaving_from_Sulu,_Philippines,_East-West_Center.JPG (2146×2487).md"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/6/68/Double_ikat_weaving_from_Sulu%2C_Philippines%2C_East-West_Center.JPG"
+      title: "Image 1 from Double_ikat_weaving_from_Sulu,_Philippines,_East-West_Center.JPG (2146×2487).md"
+      description: null
+    affiliate:
+      enabled: false
+      url: null
+  - path: ikat-pattern-2-pattern-designers.jpg
+    title: Abstract ethnic ikat pattern design for textile fabric background wallpaper vector illustration | Premium Vector
+    alt: Abstract ethnic ikat pattern design for textile fabric background wallpaper vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-ethnic-ikat-pattern-design-textile-fabric-background-wallpaper-vector-illustration_414968711.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-ethnic-ikat-pattern-design-textile-fabric-background-wallpaper-vector-illustration_752602-574.jpg"
+      title: Abstract ethnic ikat pattern design for textile fabric background wallpaper vector illustration | Premium Vector
+      description: Download this Premium vector of Abstract ethnic ikat pattern design for textile fabric background wallpaper vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ikat-pattern-3-pattern-designers.jpg
+    title: Abstract ikat style pattern background
+    alt: Abstract ikat style pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-ikat-style-pattern-background_38661547.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-ikat-style-pattern-background_1048-18228.jpg"
+      title: Abstract ikat style pattern background
+      description: Download this free vector of Abstract ikat style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: ikat-pattern-4-pattern-designers.jpg
+    title: Ikat styled pattern design background 2003
+    alt: Ikat styled pattern design background 2003
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/ikat-styled-pattern-design-background-2003_50500631.htm"
+      image_url: "https://img.magnific.com/free-vector/ikat-styled-pattern-design-background-2003_1048-19077.jpg"
+      title: Ikat styled pattern design background 2003
+      description: Download this free vector of Ikat styled pattern design background 2003 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Ikat Pattern

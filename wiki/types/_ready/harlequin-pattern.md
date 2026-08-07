@@ -4,17 +4,23 @@ slug: harlequin-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Diamond
+styles:
+  - Maximalist
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Harlequin Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/harlequin-pattern/harlequin-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=QoVvc4n6C4o
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: harlequin-pattern-1-pattern-designers.jpg
+    title: Harlequin seamless pattern rhombus background vector | Premium AI-generated vector
+    alt: Harlequin seamless pattern rhombus background vector | Premium AI-generated vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/harlequin-seamless-pattern-rhombus-background-vector_207898529.htm"
+      image_url: "https://img.magnific.com/premium-vector/harlequin-seamless-pattern-rhombus-background-vector_926199-3745126.jpg"
+      title: Harlequin seamless pattern rhombus background vector | Premium AI-generated vector
+      description: Download this Premium AI-generated vector about Harlequin seamless pattern rhombus background vector, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: harlequin-pattern-2-pattern-designers.jpg
+    title: Abstract pattern design
+    alt: Abstract pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-pattern-design_966988.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-pattern-design_1040-1015.jpg"
+      title: Abstract pattern design
+      description: Download this free vector of Abstract pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: harlequin-pattern-3-pattern-designers.jpg
+    title: Circus harlequin clown carnival patterns seamless vector background with geometric rhombus harlequin pattern of mosaic or vintage italian tile ornament masquerade or joker abstract pattern | Premium Vector
+    alt: Circus harlequin clown carnival patterns seamless vector background with geometric rhombus harlequin pattern of mosaic or vintage italian tile ornament masquerade or joker abstract pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/circus-harlequin-clown-carnival-patterns-seamless-vector-background-with-geometric-rhombus-harlequin-pattern-mosaic-vintage-italian-tile-ornament-masquerade-joker-abstract-pattern_74354245.htm"
+      image_url: "https://img.magnific.com/premium-vector/circus-harlequin-clown-carnival-patterns-seamless-vector-background-with-geometric-rhombus-harlequin-pattern-mosaic-vintage-italian-tile-ornament-masquerade-joker-abstract-pattern_53500-3516.jpg"
+      title: Circus harlequin clown carnival patterns seamless vector background with geometric rhombus harlequin pattern of mosaic or vintage italian tile ornament masquerade or joker abstract pattern | Premium Vector
+      description: Download this Premium vector of Circus harlequin clown carnival patterns seamless vector background with geometric rhombus harlequin pattern of mosaic or vintage italian tile ornament masquerade or joker abstract pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: harlequin-pattern-4-pattern-designers.jpg
+    title: Harlequin seamless pattern rhombus background vector | Premium AI-generated vector
+    alt: Harlequin seamless pattern rhombus background vector | Premium AI-generated vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/harlequin-seamless-pattern-rhombus-background-vector_207379314.htm"
+      image_url: "https://img.magnific.com/premium-vector/harlequin-seamless-pattern-rhombus-background-vector_926199-3717887.jpg"
+      title: Harlequin seamless pattern rhombus background vector | Premium AI-generated vector
+      description: Download this Premium AI-generated vector about Harlequin seamless pattern rhombus background vector, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Harlequin Pattern

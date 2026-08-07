@@ -5,36 +5,23 @@ status: active
 type_group: conversational
 summary: Surface pattern using emoji as repeating motifs — standardised digital pictograms applied to textiles, stationery, and novelty products. A contemporary novelty print category with roots in Japanese mobile design and Unicode standardisation from the 2010s onward.
 motifs:
-  - smiley-face
-  - heart
-  - food-emoji
-  - expression-emoji
-  - symbol-emoji
-  - pictogram
-  - animal-emoji
+  - Novelty
 structures:
-  - all-over
-  - tossed
-  - scattered
+  - Scatter
 styles:
-  - novelty
-  - contemporary
-  - digital
-  - playful
-  - pop-culture
-  - kawaii
+  - Kawaii
 categories:
-  - conversational
-  - novelty
-  - digital-culture
-  - seasonal
+  - Novelty
+colour_family: Multicolour
+technique:
+  - Digital
 source_count: 1
 source_files:
   - Emoji Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/emoji-pattern/emoji-pattern-1-pattern-designers.jpg
@@ -65,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/shorts/F-J5pkbsVGA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: emoji-pattern-1-pattern-designers.jpg
+    title: Gradient emoji with face mask pattern
+    alt: Gradient emoji with face mask pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/gradient-emoji-with-face-mask-pattern_16635590.htm"
+      image_url: "https://img.magnific.com/free-vector/gradient-emoji-with-face-mask-pattern_23-2149047826.jpg"
+      title: Gradient emoji with face mask pattern
+      description: Download this free vector of Gradient emoji with face mask pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: emoji-pattern-2-pattern-designers.jpg
+    title: Seamless pattern with emoji smiles in love messages social media elements textile design vector illustration | Premium Vector
+    alt: Seamless pattern with emoji smiles in love messages social media elements textile design vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-emoji-smiles-love-messages-social-media-elements-textile-design-vector-illustration_249291764.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-emoji-smiles-love-messages-social-media-elements-textile-design-vector-illustration_551425-2112.jpg"
+      title: Seamless pattern with emoji smiles in love messages social media elements textile design vector illustration | Premium Vector
+      description: Download this Premium vector of Seamless pattern with emoji smiles in love messages social media elements textile design vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: emoji-pattern-3-pattern-designers.jpg
+    title: Smiling emoji black line smile icons seamless vector pattern isolated on yellow background | Premium Vector
+    alt: Smiling emoji black line smile icons seamless vector pattern isolated on yellow background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/smiling-emoji-black-line-smile-icons-seamless-vector-pattern-isolated-yellow-background_45162640.htm"
+      image_url: "https://img.magnific.com/premium-vector/smiling-emoji-black-line-smile-icons-seamless-vector-pattern-isolated-yellow-background_642540-876.jpg"
+      title: Smiling emoji black line smile icons seamless vector pattern isolated on yellow background | Premium Vector
+      description: Download this Premium vector of Smiling emoji black line smile icons seamless vector pattern isolated on yellow background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: emoji-pattern-4-pattern-designers.jpg
+    title: Smiling emoji smile icons seamless vector pattern isolated pink ackground | Premium Vector
+    alt: Smiling emoji smile icons seamless vector pattern isolated pink ackground | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/smiling-emoji-smile-icons-seamless-vector-pattern-isolated-pink-ackground_45162639.htm"
+      image_url: "https://img.magnific.com/premium-vector/smiling-emoji-smile-icons-seamless-vector-pattern-isolated-pink-ackground_642540-875.jpg"
+      title: Smiling emoji smile icons seamless vector pattern isolated pink ackground | Premium Vector
+      description: Download this Premium vector of Smiling emoji smile icons seamless vector pattern isolated pink ackground and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Emoji Pattern

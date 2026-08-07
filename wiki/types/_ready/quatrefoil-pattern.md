@@ -5,25 +5,16 @@ status: active
 type_group: geometric
 summary: Symmetrical four-lobed decorative shape formed by four overlapping circles; derived from Gothic and Renaissance architectural tracery; commercially active in wallpaper, textiles, tile, and luxury goods
 motifs:
-  - quatrefoil
-  - four-leaf clover
-  - four-petalled flower
-  - lobed shape
+  - Emblem
 structures:
-  - all-over
-  - grid
-  - trellis
-  - isolated motif
+  - Tessellation
+  - Lattice
 styles:
-  - heritage
   - Gothic
-  - formal
-  - luxury
 categories:
-  - geometric
-  - heritage
-  - architectural
-  - decorative
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Quatrefoil Pattern 2.md
@@ -31,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/quatrefoil-pattern/quatrefoil-pattern-1-pattern-designers.jpg
@@ -62,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=mQ30rpfeAQg
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: quatrefoil-pattern-1-pattern-designers.jpg
+    title: Abstract modern background. ceramic and tile pattern. vector | Premium Vector
+    alt: Abstract modern background. ceramic and tile pattern. vector | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-modern-background-ceramic-tile-pattern-vector_36273282.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-modern-background-ceramic-tile-pattern-vector_650923-287.jpg"
+      title: Abstract modern background. ceramic and tile pattern. vector | Premium Vector
+      description: Download this Premium vector of Abstract modern background. ceramic and tile pattern. vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: quatrefoil-pattern-2-pattern-designers.jpg
+    title: Decorative floral pattern
+    alt: Decorative floral pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/decorative-floral-pattern_6541416.htm"
+      image_url: "https://img.magnific.com/free-vector/decorative-floral-pattern_1217-1612.jpg"
+      title: Decorative floral pattern
+      description: Download this free vector of Decorative floral pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: quatrefoil-pattern-3-pattern-designers.jpg
+    title: Elegant quatrefoil geometric design for decorative and architectural applications | Premium Vector
+    alt: Elegant quatrefoil geometric design for decorative and architectural applications | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/elegant-quatrefoil-geometric-design-decorative-architectural-applications_419090236.htm"
+      image_url: "https://img.magnific.com/premium-vector/elegant-quatrefoil-geometric-design-decorative-architectural-applications_1250126-23527.jpg"
+      title: Elegant quatrefoil geometric design for decorative and architectural applications | Premium Vector
+      description: Download this Premium vector of Elegant quatrefoil geometric design for decorative and architectural applications and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: quatrefoil-pattern-4-pattern-designers.jpg
+    title: Vintage_pattern_5
+    alt: Vintage_pattern_5
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vintage-pattern-5_69110457.htm"
+      image_url: "https://img.magnific.com/free-vector/vintage-pattern-5_8130-2732.jpg"
+      title: Vintage_pattern_5
+      description: Download this free vector of Vintage_pattern_5 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Quatrefoil Pattern

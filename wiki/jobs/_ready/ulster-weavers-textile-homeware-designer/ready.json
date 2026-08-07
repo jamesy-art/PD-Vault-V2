@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-09929c82f0a3feb7",
+  "editorial_slug": "ulster-weavers-textile-homeware-designer",
+  "canonical_id": "can-clip-09929c82f0a3feb7",
+  "capture_id": "cap-clip-09929c82f0a3feb7",
+  "ready_status": "ready",
+  "ready_at": "2026-08-07T16:20:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.bf94ada2",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "bf94ada224a4284184291bd005652e3d9e7fccb1b04503437acc89d4faf5d8d0",
+  "title": "Textile Homeware Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 1,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 1,
+    "rewritten_wikilinks": 0
+  }
+}

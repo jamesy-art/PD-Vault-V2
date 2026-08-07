@@ -7,12 +7,12 @@ summary: Colour-category page for patterns using light blue as the dominant hue;
 motifs: []
 structures: []
 styles:
-  - coastal
-  - minimal
-  - Scandinavian
-  - traditional
+  - Nautical
+  - Minimalist
 categories:
-  - colour-pattern
+  - Colour
+colour_family: Blue
+technique: []
 source_count: 2
 source_files:
   - Light Blue Pattern 2.md
@@ -20,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/light-blue-pattern/light-blue-pattern-1-pattern-designers.jpg
@@ -51,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=f5DXYDsTwfo
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: light-blue-pattern-1-pattern-designers.jpg
+    title: Blue and white zig zag backgrounds
+    alt: Blue and white zig zag backgrounds
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-white-zig-zag-backgrounds_73335994.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-white-zig-zag-backgrounds_78370-3163.jpg"
+      title: Blue and white zig zag backgrounds
+      description: Download this free vector of Blue and white zig zag backgrounds and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: light-blue-pattern-2-pattern-designers.jpg
+    title: Blue polygonal shapes background
+    alt: Blue polygonal shapes background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-polygonal-shapes-background_893820.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-polygonal-shapes-background_1053-434.jpg"
+      title: Blue polygonal shapes background
+      description: Download this free vector of Blue polygonal shapes background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: light-blue-pattern-3-pattern-designers.jpg
+    title: Seamless pattern with blue stripes on light blue background vector illustration | Premium Vector
+    alt: Seamless pattern with blue stripes on light blue background vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-blue-stripes-light-blue-background-vector-illustration_129717969.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-blue-stripes-light-blue-background-vector-illustration_961004-1621.jpg"
+      title: Seamless pattern with blue stripes on light blue background vector illustration | Premium Vector
+      description: Download this Premium vector of Seamless pattern with blue stripes on light blue background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: light-blue-pattern-4-pattern-designers.jpg
+    title: Watercolour light blue background
+    alt: Watercolour light blue background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watercolour-light-blue-background_79642439.htm"
+      image_url: "https://img.magnific.com/free-vector/watercolour-light-blue-background_78370-3537.jpg"
+      title: Watercolour light blue background
+      description: Download this free vector of Watercolour light blue background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Light Blue Pattern

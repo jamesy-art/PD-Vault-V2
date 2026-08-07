@@ -4,10 +4,15 @@ slug: dinosaur-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Animal
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Green
+technique: []
 source_count: 2
 source_files:
   - Dinosaur Pattern 2.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/dinosaur-pattern/dinosaur-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=rcWUFyIUuXo
 learn_more_youtube_2: https://www.youtube.com/watch?v=qrRRR4AoANM
 learn_more_youtube_3: ""
+gallery_images:
+  - path: dinosaur-pattern-1-pattern-designers.jpg
+    title: 20sjr516 dinosaur | Premium Vector
+    alt: 20sjr516 dinosaur | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/20sjr516-dinosaur_174442421.htm"
+      image_url: "https://img.magnific.com/premium-vector/20sjr516-dinosaur_1116153-166.jpg"
+      title: 20sjr516 dinosaur | Premium Vector
+      description: Download this Premium vector of 20sjr516 dinosaur and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dinosaur-pattern-2-pattern-designers.jpg
+    title: Childish seamless pattern with hand drawn dinosaur. | Premium Vector
+    alt: Childish seamless pattern with hand drawn dinosaur. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/childish-seamless-pattern-with-hand-drawn-dinosaur_31979892.htm"
+      image_url: "https://img.magnific.com/premium-vector/childish-seamless-pattern-with-hand-drawn-dinosaur_263670-1678.jpg"
+      title: Childish seamless pattern with hand drawn dinosaur. | Premium Vector
+      description: Download this Premium vector of Childish seamless pattern with hand drawn dinosaur. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dinosaur-pattern-3-pattern-designers.jpg
+    title: Dinosaur seamless pattern with neon outline illustrations | Premium Vector
+    alt: Dinosaur seamless pattern with neon outline illustrations | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/dinosaur-seamless-pattern-with-neon-outline-illustrations_427663087.htm"
+      image_url: "https://img.magnific.com/premium-vector/dinosaur-seamless-pattern-with-neon-outline-illustrations_34955-1849.jpg"
+      title: Dinosaur seamless pattern with neon outline illustrations | Premium Vector
+      description: Download this Premium vector of Dinosaur seamless pattern with neon outline illustrations and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dinosaur-pattern-4-pattern-designers.jpg
+    title: Seamless sketch ink and watercolor patterns of the dinosaur world series | Premium Vector
+    alt: Seamless sketch ink and watercolor patterns of the dinosaur world series | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-sketch-ink-watercolor-patterns-dinosaur-world-series_416110958.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-sketch-ink-watercolor-patterns-dinosaur-world-series_216860-299.jpg"
+      title: Seamless sketch ink and watercolor patterns of the dinosaur world series | Premium Vector
+      description: Download this Premium vector of Seamless sketch ink and watercolor patterns of the dinosaur world series and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Dinosaur Pattern

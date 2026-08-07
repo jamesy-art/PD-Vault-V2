@@ -5,33 +5,22 @@ status: active
 type_group: novelty
 summary: Fantasy novelty pattern using unicorn motifs in pastel or rainbow palettes; peaked commercially in 2017 as part of a broader unicorn trend driven by social media aesthetics.
 motifs:
-  - unicorn
-  - horn
-  - rainbow
-  - sparkle
-  - fantasy
+  - Mythical
 structures:
-  - tossed
-  - full-drop
-  - half-drop
+  - Scatter
 styles:
-  - novelty
-  - fantasy
-  - pastel
-  - kawaii
-  - children
+  - Kawaii
 categories:
-  - novelty
-  - fantasy
-  - children
-  - trend
+  - Novelty
+colour_family: Pink
+technique: []
 source_count: 1
 source_files:
   - Unicorn Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/unicorn-pattern/unicorn-pattern-1-pattern-designers.jpg
@@ -62,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=uB0IG2x2wPc&t=43s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: unicorn-pattern-1-pattern-designers.jpg
+    title: Childish seamless pattern with unicorns | Premium Vector
+    alt: Childish seamless pattern with unicorns | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/childish-seamless-pattern-with-unicorns_11960285.htm"
+      image_url: "https://img.magnific.com/premium-vector/childish-seamless-pattern-with-unicorns_373337-23.jpg"
+      title: Childish seamless pattern with unicorns | Premium Vector
+      description: Download this Premium vector of Childish seamless pattern with unicorns and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: unicorn-pattern-2-pattern-designers.jpg
+    title: Childish seamless pattern with unicorns creative nursery background perfect for kids design | Premium Vector
+    alt: Childish seamless pattern with unicorns creative nursery background perfect for kids design | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/childish-seamless-pattern-with-unicorns-creative-nursery-background-perfect-kids-design_18380811.htm"
+      image_url: "https://img.magnific.com/premium-vector/childish-seamless-pattern-with-unicorns-creative-nursery-background-perfect-kids-design_373337-536.jpg"
+      title: Childish seamless pattern with unicorns creative nursery background perfect for kids design | Premium Vector
+      description: Download this Premium vector of Childish seamless pattern with unicorns creative nursery background perfect for kids design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: unicorn-pattern-3-pattern-designers.jpg
+    title: Unicorn patter
+    alt: Unicorn patter
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/unicorn-patter_4522496.htm"
+      image_url: "https://img.magnific.com/free-vector/unicorn-patter_23-2148174698.jpg"
+      title: Unicorn patter
+      description: Download this free vector of Unicorn patter and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: unicorn-pattern-4-pattern-designers.jpg
+    title: Unicorn seamless pattern background vector
+    alt: Unicorn seamless pattern background vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/unicorn-seamless-pattern-background-vector_3438251.htm"
+      image_url: "https://img.magnific.com/free-vector/unicorn-seamless-pattern-background-vector_53876-61450.jpg"
+      title: Unicorn seamless pattern background vector
+      description: Download this free vector of Unicorn seamless pattern background vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Unicorn Pattern

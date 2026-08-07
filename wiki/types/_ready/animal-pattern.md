@@ -4,17 +4,22 @@ slug: animal-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Hide
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Brown
+technique: []
 source_count: 1
 source_files:
   - Animal Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/animal-pattern/animal-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=UswxPDy6Vic
 learn_more_youtube_2: https://www.youtube.com/watch?v=ecQKUOJBd1s
 learn_more_youtube_3: https://www.youtube.com/watch?v=fLhmNoo06xY
+gallery_images:
+  - path: animal-pattern-1-pattern-designers.jpg
+    title: Watercolor animal print pattern
+    alt: Watercolor animal print pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watercolor-animal-print-pattern_12406488.htm"
+      image_url: "https://img.magnific.com/free-vector/watercolor-animal-print-pattern_23-2148854946.jpg"
+      title: Watercolor animal print pattern
+      description: Download this free vector of Watercolor animal print pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: animal-pattern-2-pattern-designers.jpg
+    title: Animal pattern template
+    alt: Animal pattern template
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/animal-pattern-template_32380186.htm"
+      image_url: "https://img.magnific.com/free-vector/animal-pattern-template_23-2149676447.jpg"
+      title: Animal pattern template
+      description: Download this free vector of Animal pattern template and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: animal-pattern-3-pattern-designers.jpg
+    title: Close up on  pattern of scales | AI-generated image
+    alt: Close up on  pattern of scales | AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/close-up-pattern-scales_160575529.htm"
+      image_url: "https://img.magnific.com/free-photo/close-up-pattern-scales_23-2151365703.jpg"
+      title: Close up on  pattern of scales | AI-generated image
+      description: Download this free AI-generated image about Close up on  pattern of scales, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: animal-pattern-4-pattern-designers.jpg
+    title: Watercolor animal print pattern
+    alt: Watercolor animal print pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watercolor-animal-print-pattern_12553762.htm"
+      image_url: "https://img.magnific.com/free-vector/watercolor-animal-print-pattern_23-2148862253.jpg"
+      title: Watercolor animal print pattern
+      description: Download this free vector of Watercolor animal print pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Animal Pattern

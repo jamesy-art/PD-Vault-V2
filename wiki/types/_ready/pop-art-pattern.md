@@ -4,17 +4,25 @@ slug: pop-art-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Logo
+  - Abstract
+structures:
+  - Block
+styles:
+  - Pop Art
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Digital
 source_count: 1
 source_files:
   - Pop art Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pop-art-pattern/pop-art-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=HmZNi4EZ5QE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pop-art-pattern-1-pattern-designers.jpg
+    title: 90s color abstract illustrations | Premium Photo
+    alt: 90s color abstract illustrations | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/90s-color-abstract-illustrations_149572505.htm"
+      image_url: "https://img.magnific.com/premium-photo/90s-color-abstract-illustrations_706163-4377.jpg"
+      title: 90s color abstract illustrations | Premium Photo
+      description: Download this Premium photo of 90s color abstract illustrations and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pop-art-pattern-2-pattern-designers.jpg
+    title: Flat design cutout collage pattern
+    alt: Flat design cutout collage pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-cutout-collage-pattern_32971012.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-cutout-collage-pattern_23-2149759169.jpg"
+      title: Flat design cutout collage pattern
+      description: Download this free vector of Flat design cutout collage pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pop-art-pattern-3-pattern-designers.jpg
+    title: Pink beautiful banner turquoise modern template | Premium Vector
+    alt: Pink beautiful banner turquoise modern template | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pink-beautiful-banner-turquoise-modern-template_38762568.htm"
+      image_url: "https://img.magnific.com/premium-vector/pink-beautiful-banner-turquoise-modern-template_160081-2964.jpg"
+      title: Pink beautiful banner turquoise modern template | Premium Vector
+      description: Download this Premium vector of Pink beautiful banner turquoise modern template and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pop-art-pattern-4-pattern-designers.jpg
+    title: Retro vintage 80s or 90s fashion style abstract pattern background. good for textile fabric design, wrapping paper and website wallpapers. vector illustration. | Premium Vector
+    alt: Retro vintage 80s or 90s fashion style abstract pattern background. good for textile fabric design, wrapping paper and website wallpapers. vector illustration. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/retro-vintage-80s-90s-fashion-style-abstract-pattern-background-good-textile-fabric-design-wrapping-paper-website-wallpapers-vector-illustration_20474229.htm"
+      image_url: "https://img.magnific.com/premium-vector/retro-vintage-80s-90s-fashion-style-abstract-pattern-background-good-textile-fabric-design-wrapping-paper-website-wallpapers-vector-illustration_117038-1236.jpg"
+      title: Retro vintage 80s or 90s fashion style abstract pattern background. good for textile fabric design, wrapping paper and website wallpapers. vector illustration. | Premium Vector
+      description: Download this Premium vector of Retro vintage 80s or 90s fashion style abstract pattern background. good for textile fabric design, wrapping paper and website wallpapers. vector illustration. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Pop Art Pattern

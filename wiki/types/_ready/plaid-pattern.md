@@ -5,16 +5,22 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Plaid Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/plaid-pattern/plaid-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=kZ-oWxCsXeA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: plaid-pattern-1-pattern-designers.jpg
+    title: Brightly coloured plaid style pattern background
+    alt: Brightly coloured plaid style pattern background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/brightly-coloured-plaid-style-pattern-background_37466512.htm"
+      image_url: "https://img.magnific.com/free-vector/brightly-coloured-plaid-style-pattern-background_1048-17921.jpg"
+      title: Brightly coloured plaid style pattern background
+      description: Download this free vector of Brightly coloured plaid style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: plaid-pattern-2-pattern-designers.jpg
+    title: Flat christmas plaid pattern design
+    alt: Flat christmas plaid pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-christmas-plaid-pattern-design_20286329.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-christmas-plaid-pattern-design_23-2149168881.jpg"
+      title: Flat christmas plaid pattern design
+      description: Download this free vector of Flat christmas plaid pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: plaid-pattern-3-pattern-designers.jpg
+    title: Plaid style pattern background
+    alt: Plaid style pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/plaid-style-pattern-background_32947106.htm"
+      image_url: "https://img.magnific.com/free-vector/plaid-style-pattern-background_1048-17047.jpg"
+      title: Plaid style pattern background
+      description: Download this free vector of Plaid style pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: plaid-pattern-4-pattern-designers.jpg
+    title: Seamless retro vintage tartan pattern 22 january 2025 | Premium Vector
+    alt: Seamless retro vintage tartan pattern 22 january 2025 | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-retro-vintage-tartan-pattern-22-january-2025_412652261.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-retro-vintage-tartan-pattern-22-january-2025_762508-940.jpg"
+      title: Seamless retro vintage tartan pattern 22 january 2025 | Premium Vector
+      description: Download this Premium vector of Seamless retro vintage tartan pattern 22 january 2025 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Plaid Pattern

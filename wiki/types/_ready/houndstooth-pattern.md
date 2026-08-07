@@ -5,16 +5,22 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Black
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Houndstooth Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/houndstooth-pattern/houndstooth-pattern-1-pattern-designers.jpg
@@ -44,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=dH8fi1DWz2o&t=1s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: houndstooth-pattern-1-pattern-designers.jpg
+    title: "Image 1 from Houndstooth.jpg (390×400).md"
+    alt: "Image 1 from Houndstooth.jpg (390×400).md"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Houndstooth.jpg"
+      title: "Image 1 from Houndstooth.jpg (390×400).md"
+      description: null
+    affiliate:
+      enabled: false
+      url: null
+  - path: houndstooth-pattern-2-pattern-designers.jpg
+    title: Blue houndstooth pattern
+    alt: Blue houndstooth pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-houndstooth-pattern_821025.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-houndstooth-pattern_1015-354.jpg"
+      title: Blue houndstooth pattern
+      description: Download this free vector of Blue houndstooth pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: houndstooth-pattern-3-pattern-designers.jpg
+    title: Houndstooth pixel, black and white fabric seamless pattern. vector illustration | Premium Vector
+    alt: Houndstooth pixel, black and white fabric seamless pattern. vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/houndstooth-pixel-black-white-fabric-seamless-pattern-vector-illustration_21544709.htm"
+      image_url: "https://img.magnific.com/premium-vector/houndstooth-pixel-black-white-fabric-seamless-pattern-vector-illustration_522680-63.jpg"
+      title: Houndstooth pixel, black and white fabric seamless pattern. vector illustration | Premium Vector
+      description: Download this Premium vector of Houndstooth pixel, black and white fabric seamless pattern. vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: houndstooth-pattern-4-pattern-designers.jpg
+    title: Tartan seamless pattern repeating design element for printing on fabric textile industry abstract | Premium Vector
+    alt: Tartan seamless pattern repeating design element for printing on fabric textile industry abstract | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/tartan-seamless-pattern-repeating-design-element-printing-fabric-textile-industry-abstract_148764418.htm"
+      image_url: "https://img.magnific.com/premium-vector/tartan-seamless-pattern-repeating-design-element-printing-fabric-textile-industry-abstract_118813-25191.jpg"
+      title: Tartan seamless pattern repeating design element for printing on fabric textile industry abstract | Premium Vector
+      description: Download this Premium vector of Tartan seamless pattern repeating design element for printing on fabric textile industry abstract and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Houndstooth Pattern

@@ -4,17 +4,24 @@ slug: square-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Block
+  - Check
+styles:
+  - Tartan
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Square Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/square-pattern/square-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=ERX5viDUxpk
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: square-pattern-1-pattern-designers.jpg
+    title: Abstract horizontal grid lines in graph style graphic design
+    alt: Abstract horizontal grid lines in graph style graphic design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-horizontal-grid-lines-graph-style-graphic-design_32237069.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-horizontal-grid-lines-graph-style-graphic-design_1017-39918.jpg"
+      title: Abstract horizontal grid lines in graph style graphic design
+      description: Download this free vector of Abstract horizontal grid lines in graph style graphic design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: square-pattern-2-pattern-designers.jpg
+    title: Abstract seamless pattern floor tiles square mosaic black and white checkered pattern background | Premium Vector
+    alt: Abstract seamless pattern floor tiles square mosaic black and white checkered pattern background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-seamless-pattern-floor-tiles-square-mosaic-black-white-checkered-pattern-background_113692786.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-seamless-pattern-floor-tiles-square-mosaic-black-white-checkered-pattern-background_484720-8432.jpg"
+      title: Abstract seamless pattern floor tiles square mosaic black and white checkered pattern background | Premium Vector
+      description: Download this Premium vector of Abstract seamless pattern floor tiles square mosaic black and white checkered pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: square-pattern-3-pattern-designers.jpg
+    title: Black white checkered chessboard pattern background
+    alt: Black white checkered chessboard pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-white-checkered-chessboard-pattern-background_420045765.htm"
+      image_url: "https://img.magnific.com/free-vector/black-white-checkered-chessboard-pattern-background_1017-60365.jpg"
+      title: Black white checkered chessboard pattern background
+      description: Download this free vector of Black white checkered chessboard pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: square-pattern-4-pattern-designers.jpg
+    title: Halftone square pattern vector background | Premium Vector
+    alt: Halftone square pattern vector background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/halftone-square-pattern-vector-background_23855717.htm"
+      image_url: "https://img.magnific.com/premium-vector/halftone-square-pattern-vector-background_604926-51.jpg"
+      title: Halftone square pattern vector background | Premium Vector
+      description: Download this Premium vector of Halftone square pattern vector background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Square Pattern

@@ -1,0 +1,150 @@
+{
+  "capture_id": "cap-clip-aa7baa48b72a87c5",
+  "canonical_id": "can-clip-aa7baa48b72a87c5",
+  "editorial_slug": "qvc-group-apparel-print-designer-west-chester-pa",
+  "content_hash": "8dc7604b0d8ff48f1c13904c6ba80b26f1a39b8a18fa6687b41338c7eeeae239",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Apparel Print Designer - West Chester, PA",
+  "company": "QVC Group",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-aa7baa48b72a87c5"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/Apparel Print Designer - West Chester, PA.md"
+    ],
+    "original_title": "Apparel Print Designer - West Chester, PA",
+    "original_url": "https://www.indeed.com/viewjob?jk=2b064509817243e2&from=shareddesktop_copy",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "ba4997c2da3c0bd16bbbb8936263c96ccba8941964c01a18cf5492397027160f",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": "Apply for the Apparel Print Designer job in West Chester, PA! Learn more about the job description, salary, and job details to see if you qualify on Indeed today.",
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/Apparel Print Designer - West Chester, PA.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": null,
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-print-design",
+        "slug": "print-design",
+        "label": "Print Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sk-textile-design",
+        "slug": "textile-design",
+        "label": "Textile Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [
+      {
+        "id": "mk-fashion",
+        "slug": "fashion",
+        "label": "Fashion",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-us",
+      "slug": "us",
+      "label": "United States",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": null,
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 88,
+  "quality_status": "pass_with_warnings"
+}

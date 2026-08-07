@@ -6,27 +6,26 @@ type_group: structure
 summary: "Overview of the primary repeat structure categories used in surface pattern design: block, brick, half-brick, drop, diamond, toss/random, stripe, dot, ogee, and plaid."
 motifs: []
 structures:
-  - block
-  - brick
-  - half-drop
-  - diamond
-  - toss
-  - stripe
-  - dot
-  - ogee
-  - plaid
+  - Block
+  - Half-Drop
+  - Brick
+  - Diamond
+  - Ogee
+  - Scatter
+  - Check
+  - Stripe
 styles: []
 categories:
-  - structure
-  - technique
-  - reference
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Types of Repeat Patterns.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/types-of-repeat-pattern/types-of-repeat-pattern-1-pattern-designers.jpg
@@ -57,6 +56,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=_bYF0fOicZ0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: types-of-repeat-pattern-1-pattern-designers.jpg
+    title: Abstract islamic mosque window frame pattern backdrop
+    alt: Abstract islamic mosque window frame pattern backdrop
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-islamic-mosque-window-frame-pattern-backdrop_427633923.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-islamic-mosque-window-frame-pattern-backdrop_1017-64013.jpg"
+      title: Abstract islamic mosque window frame pattern backdrop
+      description: Download this free vector of Abstract islamic mosque window frame pattern backdrop and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: types-of-repeat-pattern-2-pattern-designers.jpg
+    title: Blue droplets pattern background
+    alt: Blue droplets pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/blue-droplets-pattern-background_158726721.htm"
+      image_url: "https://img.magnific.com/free-vector/blue-droplets-pattern-background_78370-5158.jpg"
+      title: Blue droplets pattern background
+      description: Download this free vector of Blue droplets pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: types-of-repeat-pattern-3-pattern-designers.jpg
+    title: Christmas background with tartan style design
+    alt: Christmas background with tartan style design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/christmas-background-with-tartan-style-design_386293471.htm"
+      image_url: "https://img.magnific.com/free-vector/christmas-background-with-tartan-style-design_1048-20802.jpg"
+      title: Christmas background with tartan style design
+      description: Download this free vector of Christmas background with tartan style design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: types-of-repeat-pattern-4-pattern-designers.jpg
+    title: Dot abstract background isolated on white. vector
+    alt: Dot abstract background isolated on white. vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/dot-abstract-background-isolated-white-vector_16719914.htm"
+      image_url: "https://img.magnific.com/free-vector/dot-abstract-background-isolated-white-vector_90220-410.jpg"
+      title: Dot abstract background isolated on white. vector
+      description: Download this free vector of Dot abstract background isolated on white. vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Types of Repeat Pattern

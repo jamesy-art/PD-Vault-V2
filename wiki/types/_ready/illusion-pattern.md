@@ -5,24 +5,16 @@ status: active
 type_group: geometric
 summary: Surface pattern using geometric distortion, colour contrast, and calculated line arrangements to create visual effects of movement, depth, or three-dimensionality on a flat surface
 motifs:
-  - concentric circles
-  - checkerboard
-  - spiral
-  - radiating lines
-  - zigzag
+  - Abstract
 structures:
-  - geometric
-  - all-over
-  - radial
+  - Radial
+  - Check
 styles:
-  - op art
-  - geometric
-  - graphic
-  - optical
+  - Pop Art
 categories:
-  - geometric
-  - optical
-  - op-art
+  - Geometric
+colour_family: Black
+technique: []
 source_count: 2
 source_files:
   - Illusion Pattern 2.md
@@ -30,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/illusion-pattern/illusion-pattern-1-pattern-designers.jpg
@@ -60,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=CQ1oZtWCBfI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: illusion-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/d/dc/Grid_illusion.svg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/d/dc/Grid_illusion.svg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grid_illusion.svg/960px-Grid_illusion.svg.png"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/d/dc/Grid_illusion.svg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/d/dc/Grid_illusion.svg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: illusion-pattern-2-pattern-designers.jpg
+    title: Abstract black and white line swirl pattern design
+    alt: Abstract black and white line swirl pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-black-white-line-swirl-pattern-design_171068486.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-black-white-line-swirl-pattern-design_1048-20046.jpg"
+      title: Abstract black and white line swirl pattern design
+      description: Download this free vector of Abstract black and white line swirl pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: illusion-pattern-3-pattern-designers.jpg
+    title: Realistic optical illusion background
+    alt: Realistic optical illusion background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/realistic-optical-illusion-background_11797150.htm"
+      image_url: "https://img.magnific.com/free-vector/realistic-optical-illusion-background_52683-54383.jpg"
+      title: Realistic optical illusion background
+      description: Download this free vector of Realistic optical illusion background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: illusion-pattern-4-pattern-designers.jpg
+    title: Retro abstract pattern design in black and white
+    alt: Retro abstract pattern design in black and white
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/retro-abstract-pattern-design-black-white_25654581.htm"
+      image_url: "https://img.magnific.com/free-vector/retro-abstract-pattern-design-black-white_1048-15717.jpg"
+      title: Retro abstract pattern design in black and white
+      description: Download this free vector of Retro abstract pattern design in black and white and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Illusion Pattern

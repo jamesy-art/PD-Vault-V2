@@ -4,17 +4,24 @@ slug: polka-dot-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Block
+  - Half-Drop
+styles:
+  - Retro
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Polka dot Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/polka-dot-pattern/polka-dot-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=9v17wg-Pi1o
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: polka-dot-pattern-1-pattern-designers.jpg
+    title: Polka dot seamless pattern.  | Premium Vector
+    alt: Polka dot seamless pattern.  | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/polka-dot-seamless-pattern_16340119.htm"
+      image_url: "https://img.magnific.com/premium-vector/polka-dot-seamless-pattern_229933-156.jpg"
+      title: Polka dot seamless pattern.  | Premium Vector
+      description: Download this Premium vector of Polka dot seamless pattern.  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: polka-dot-pattern-2-pattern-designers.jpg
+    title: Simple pattern background, polka dot in black and white vector
+    alt: Simple pattern background, polka dot in black and white vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/simple-pattern-background-polka-dot-black-white-vector_19597366.htm"
+      image_url: "https://img.magnific.com/free-vector/simple-pattern-background-polka-dot-black-white-vector_53876-151289.jpg"
+      title: Simple pattern background, polka dot in black and white vector
+      description: Download this free vector of Simple pattern background, polka dot in black and white vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: polka-dot-pattern-3-pattern-designers.jpg
+    title: Vector polka background with small dots
+    alt: Vector polka background with small dots
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vector-polka-background-with-small-dots_2395528.htm"
+      image_url: "https://img.magnific.com/free-vector/vector-polka-background-with-small-dots_1017-13972.jpg"
+      title: Vector polka background with small dots
+      description: Download this free vector of Vector polka background with small dots and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: polka-dot-pattern-4-pattern-designers.jpg
+    title: White polka dot with colorful background | Free Photo
+    alt: White polka dot with colorful background | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/white-polka-dot-with-colorful-background_21283995.htm"
+      image_url: "https://img.magnific.com/free-photo/white-polka-dot-with-colorful-background_58702-5735.jpg"
+      title: White polka dot with colorful background | Free Photo
+      description: Download this free photo of White polka dot with colorful background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Polka Dot Pattern

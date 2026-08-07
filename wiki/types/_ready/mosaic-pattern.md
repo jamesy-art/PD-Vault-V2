@@ -4,17 +4,23 @@ slug: mosaic-pattern
 status: draft
 type_group: texture
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
+styles:
+  - Oriental
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Mosaic Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/mosaic-pattern/mosaic-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=zuJmfUMn6rA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: mosaic-pattern-1-pattern-designers.jpg
+    title: Colorful glass pattern
+    alt: Colorful glass pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/colorful-glass-pattern_1097237.htm"
+      image_url: "https://img.magnific.com/free-vector/colorful-glass-pattern_1048-5491.jpg"
+      title: Colorful glass pattern
+      description: Download this free vector of Colorful glass pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: mosaic-pattern-2-pattern-designers.jpg
+    title: Flat mosaic background
+    alt: Flat mosaic background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-mosaic-background_16389901.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-mosaic-background_23-2149034198.jpg"
+      title: Flat mosaic background
+      description: Download this free vector of Flat mosaic background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: mosaic-pattern-3-pattern-designers.jpg
+    title: Mosaic pattern wallpaper | Premium Photo
+    alt: Mosaic pattern wallpaper | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/mosaic-pattern-wallpaper_254020800.htm"
+      image_url: "https://img.magnific.com/premium-photo/mosaic-pattern-wallpaper_1134901-172257.jpg"
+      title: Mosaic pattern wallpaper | Premium Photo
+      description: Download this Premium photo of Mosaic pattern wallpaper and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: mosaic-pattern-4-pattern-designers.jpg
+    title: Seamless blue mosaic tile pattern background | Premium AI-generated vector
+    alt: Seamless blue mosaic tile pattern background | Premium AI-generated vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-blue-mosaic-tile-pattern-background_426992446.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-blue-mosaic-tile-pattern-background_501045-3588.jpg"
+      title: Seamless blue mosaic tile pattern background | Premium AI-generated vector
+      description: Download this Premium AI-generated vector about Seamless blue mosaic tile pattern background, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Mosaic Pattern

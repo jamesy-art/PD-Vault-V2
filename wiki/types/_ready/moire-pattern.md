@@ -4,17 +4,24 @@ slug: moire-pattern
 status: draft
 type_group: texture
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Abstract
+structures:
+  - Stripe
+styles:
+  - Pop Art
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique:
+  - Woven
 source_count: 1
 source_files:
   - Moiré Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/moire-pattern/moire-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=cvWF_Q5-Kt8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: moire-pattern-1-pattern-designers.jpg
+    title: Hand drawn abstract outline background
+    alt: Hand drawn abstract outline background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-abstract-outline-background_57429052.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-abstract-outline-background_23-2150663112.jpg"
+      title: Hand drawn abstract outline background
+      description: Download this free vector of Hand drawn abstract outline background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: moire-pattern-2-pattern-designers.jpg
+    title: Illusive background with black chaotic lines, moire style. contrast geometric trance pattern. | Premium Vector
+    alt: Illusive background with black chaotic lines, moire style. contrast geometric trance pattern. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/illusive-background-with-black-chaotic-lines-moire-style-contrast-geometric-trance-pattern_24642889.htm"
+      image_url: "https://img.magnific.com/premium-vector/illusive-background-with-black-chaotic-lines-moire-style-contrast-geometric-trance-pattern_570429-8468.jpg"
+      title: Illusive background with black chaotic lines, moire style. contrast geometric trance pattern. | Premium Vector
+      description: Download this Premium vector of Illusive background with black chaotic lines, moire style. contrast geometric trance pattern. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: moire-pattern-3-pattern-designers.jpg
+    title: Point wave diagonal texture abstract dot background technological cyberspace background
+    alt: Point wave diagonal texture abstract dot background technological cyberspace background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/point-wave-diagonal-texture-abstract-dot-background-technological-cyberspace-background_24283455.htm"
+      image_url: "https://img.magnific.com/free-vector/point-wave-diagonal-texture-abstract-dot-background-technological-cyberspace-background_1217-5114.jpg"
+      title: Point wave diagonal texture abstract dot background technological cyberspace background
+      description: Download this free vector of Point wave diagonal texture abstract dot background technological cyberspace background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: moire-pattern-4-pattern-designers.jpg
+    title: Warped lines background
+    alt: Warped lines background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/warped-lines-background_5575838.htm"
+      image_url: "https://img.magnific.com/free-vector/warped-lines-background_1217-1297.jpg"
+      title: Warped lines background
+      description: Download this free vector of Warped lines background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Moiré Pattern

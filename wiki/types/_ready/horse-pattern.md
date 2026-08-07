@@ -4,10 +4,16 @@ slug: horse-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Animal
+  - Hide
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Brown
+technique: []
 source_count: 2
 source_files:
   - Horse Pattern 2.md
@@ -15,7 +21,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/horse-pattern/horse-pattern-1-pattern-designers.jpg
@@ -46,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=wAsmiu5wh4Q
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: horse-pattern-1-pattern-designers.jpg
+    title: A colorful wall with the number 4 on it | Premium Photo
+    alt: A colorful wall with the number 4 on it | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/colorful-wall-with-number-4-it_246277718.htm"
+      image_url: "https://img.magnific.com/premium-photo/colorful-wall-with-number-4-it_854727-163173.jpg"
+      title: A colorful wall with the number 4 on it | Premium Photo
+      description: Download this Premium photo of A colorful wall with the number 4 on it and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: horse-pattern-2-pattern-designers.jpg
+    title: Hippodrome background
+    alt: Hippodrome background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hippodrome-background_818943.htm"
+      image_url: "https://img.magnific.com/free-vector/hippodrome-background_1015-252.jpg"
+      title: Hippodrome background
+      description: Download this free vector of Hippodrome background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: horse-pattern-3-pattern-designers.jpg
+    title: Seamless pattern with horses and horseshoes watercolor painted by hand | Premium Photo
+    alt: Seamless pattern with horses and horseshoes watercolor painted by hand | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-pattern-with-horses-horseshoes-watercolor-painted-by-hand_42169456.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-pattern-with-horses-horseshoes-watercolor-painted-by-hand_753388-896.jpg"
+      title: Seamless pattern with horses and horseshoes watercolor painted by hand | Premium Photo
+      description: Download this Premium photo of Seamless pattern with horses and horseshoes watercolor painted by hand and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: horse-pattern-4-pattern-designers.jpg
+    title: Serene equine motif minimalist horse walking pattern generative ai | Premium AI-generated image
+    alt: Serene equine motif minimalist horse walking pattern generative ai | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/serene-equine-motif-minimalist-horse-walking-pattern-generative-ai_193557021.htm"
+      image_url: "https://img.magnific.com/premium-photo/serene-equine-motif-minimalist-horse-walking-pattern-generative-ai_776674-890805.jpg"
+      title: Serene equine motif minimalist horse walking pattern generative ai | Premium AI-generated image
+      description: Download this Premium AI-generated image about Serene equine motif minimalist horse walking pattern generative ai, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Horse Pattern

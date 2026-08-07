@@ -1,0 +1,40 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-09929c82f0a3feb7",
+  "canonical_id": "can-clip-09929c82f0a3feb7",
+  "ready_id": "ready-clip-09929c82f0a3feb7",
+  "ready_slug": "ulster-weavers-textile-homeware-designer",
+  "canonical_path": "wiki/jobs/_staging/ulster-weavers-textile-homeware-designer",
+  "ready_path": "wiki/jobs/_ready/ulster-weavers-textile-homeware-designer",
+  "export_source": "wiki/jobs/_ready/ulster-weavers-textile-homeware-designer",
+  "idempotent_hit": false,
+  "validations": [
+    "yaml_valid",
+    "canonical_id_present",
+    "capture_id_present",
+    "provenance_present",
+    "markdown_present",
+    "quality_pass",
+    "resolution_report_present",
+    "resolution_complete",
+    "editorial_review_complete",
+    "attachments_checked"
+  ],
+  "warnings": [
+    "Quality Report contains warnings (allowed)",
+    "Resolution needs review: 6 item(s)"
+  ],
+  "errors": [],
+  "duration_ms": 5,
+  "editorial_hash": "bf94ada224a4284184291bd005652e3d9e7fccb1b04503437acc89d4faf5d8d0",
+  "ready_version": "1.bf94ada2",
+  "promotion_version": "1.0.0",
+  "mode": "changed",
+  "legacy_cli": false,
+  "rewritten_links_count": 1,
+  "rewritten_image_count": 0,
+  "rewritten_markdown_links": 0,
+  "rewritten_frontmatter_paths": 1,
+  "rewritten_wikilinks": 0,
+  "message": "Promoted to Ready"
+}

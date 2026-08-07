@@ -4,27 +4,14 @@ slug: vegetable-pattern
 status: active
 type_group: novelty
 summary: Surface pattern using garden and kitchen vegetable motifs — from hand-drawn watercolour illustrations to geometric mid-century forms — primarily for home textiles, kitchenware, and wallpaper.
-motifs:
-  - vegetables
-  - carrots
-  - tomatoes
-  - lettuce
-  - radishes
-  - botanical-produce
+motifs: []
 structures:
-  - tossed
-  - half-drop
-  - full-drop
-styles:
-  - novelty
-  - conversational
-  - botanical-illustration
-  - geometric
+  - Scatter
+styles: []
 categories:
-  - novelty
-  - food
-  - kitchen
-  - nature
+  - Food
+colour_family: Green
+technique: []
 source_count: 2
 source_files:
   - Vegetable Pattern 2.md
@@ -32,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/vegetable-pattern/vegetable-pattern-1-pattern-designers.jpg
@@ -63,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=BX6VZfKAI0g
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: vegetable-pattern-1-pattern-designers.jpg
+    title: Cute hand drawn vegetables pattern
+    alt: Cute hand drawn vegetables pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/cute-hand-drawn-vegetables-pattern_725673.htm"
+      image_url: "https://img.magnific.com/free-vector/cute-hand-drawn-vegetables-pattern_23-2147496167.jpg"
+      title: Cute hand drawn vegetables pattern
+      description: Download this free vector of Cute hand drawn vegetables pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: vegetable-pattern-2-pattern-designers.jpg
+    title: Hand drawn flat design abstract doodle pattern
+    alt: Hand drawn flat design abstract doodle pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-flat-design-abstract-doodle-pattern_22376464.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-flat-design-abstract-doodle-pattern_23-2149264401.jpg"
+      title: Hand drawn flat design abstract doodle pattern
+      description: Download this free vector of Hand drawn flat design abstract doodle pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: vegetable-pattern-3-pattern-designers.jpg
+    title: Seamless background  of vegetables radishes, peppers, cabbage, carrots, broccoli and peas.  vector illustration
+    alt: Seamless background  of vegetables radishes, peppers, cabbage, carrots, broccoli and peas.  vector illustration
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-background-vegetables-radishes-peppers-cabbage-carrots-broccoli-peas-vector-illustration_10601746.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-background-vegetables-radishes-peppers-cabbage-carrots-broccoli-peas-vector-illustration_1284-42027.jpg"
+      title: Seamless background  of vegetables radishes, peppers, cabbage, carrots, broccoli and peas.  vector illustration
+      description: Download this free vector of Seamless background  of vegetables radishes, peppers, cabbage, carrots, broccoli and peas.  vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: vegetable-pattern-4-pattern-designers.jpg
+    title: Vegetable fruit monochrome ink hand drawn set seamless pattern texture background vector | Premium Vector
+    alt: Vegetable fruit monochrome ink hand drawn set seamless pattern texture background vector | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vegetable-fruit-monochrome-ink-hand-drawn-set-seamless-pattern-texture-background-vector_27817291.htm"
+      image_url: "https://img.magnific.com/premium-vector/vegetable-fruit-monochrome-ink-hand-drawn-set-seamless-pattern-texture-background-vector_655504-227.jpg"
+      title: Vegetable fruit monochrome ink hand drawn set seamless pattern texture background vector | Premium Vector
+      description: Download this Premium vector of Vegetable fruit monochrome ink hand drawn set seamless pattern texture background vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Vegetable Pattern

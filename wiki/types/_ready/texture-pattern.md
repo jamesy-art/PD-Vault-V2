@@ -6,15 +6,19 @@ type_group: texture
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Minimalist
+categories:
+  - Fundamentals
+colour_family: Brown
+technique: []
 source_count: 1
 source_files:
   - Texture Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/texture-pattern/texture-pattern-1-pattern-designers.jpg
@@ -45,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=fmB04zY3d9E
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: texture-pattern-1-pattern-designers.jpg
+    title: Horizontally and vertically seamless abstract vector pattern
+    alt: Horizontally and vertically seamless abstract vector pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/horizontally-vertically-seamless-abstract-vector-pattern_149274070.htm"
+      image_url: "https://img.magnific.com/free-vector/horizontally-vertically-seamless-abstract-vector-pattern_8130-2835.jpg"
+      title: Horizontally and vertically seamless abstract vector pattern
+      description: Download this free vector of Horizontally and vertically seamless abstract vector pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: texture-pattern-2-pattern-designers.jpg
+    title: Monochrome grunge diagonal lines texture
+    alt: Monochrome grunge diagonal lines texture
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/monochrome-grunge-diagonal-lines-texture_29312231.htm"
+      image_url: "https://img.magnific.com/free-vector/monochrome-grunge-diagonal-lines-texture_1409-2154.jpg"
+      title: Monochrome grunge diagonal lines texture
+      description: Download this free vector of Monochrome grunge diagonal lines texture and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: texture-pattern-3-pattern-designers.jpg
+    title: Seamless background pattern imitation of a paper texture | Premium Photo
+    alt: Seamless background pattern imitation of a paper texture | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/seamless-background-pattern-imitation-paper-texture_152441591.htm"
+      image_url: "https://img.magnific.com/premium-photo/seamless-background-pattern-imitation-paper-texture_949601-352.jpg"
+      title: Seamless background pattern imitation of a paper texture | Premium Photo
+      description: Download this Premium photo of Seamless background pattern imitation of a paper texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: texture-pattern-4-pattern-designers.jpg
+    title: Stroke grunge hatching pattern background
+    alt: Stroke grunge hatching pattern background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/stroke-grunge-hatching-pattern-background_29196698.htm"
+      image_url: "https://img.magnific.com/free-vector/stroke-grunge-hatching-pattern-background_1409-2144.jpg"
+      title: Stroke grunge hatching pattern background
+      description: Download this free vector of Stroke grunge hatching pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Texture Pattern

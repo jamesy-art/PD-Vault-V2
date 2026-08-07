@@ -1,0 +1,247 @@
+{
+  "ok": true,
+  "quality_version": "1.0.0",
+  "quality_timestamp": "1970-01-01T00:00:00.000Z",
+  "quality_score": 92,
+  "quality_status": "pass_with_warnings",
+  "capture_id": "cap-clip-8e712cee5dabaf2b",
+  "canonical_id": "can-clip-8e712cee5dabaf2b",
+  "canonical_path": "wiki/jobs/_staging/iliv-textiles-designer",
+  "scores": {
+    "structure": 100,
+    "metadata": 98,
+    "relationships": 70,
+    "provenance": 98,
+    "overall": 92
+  },
+  "blocking_errors": [],
+  "warnings": [
+    {
+      "severity": "warning",
+      "code": "section_responsibilities_missing",
+      "message": "Missing or empty ## Responsibilities",
+      "path": "body.## Responsibilities",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "source_link_missing",
+      "message": "Missing source link",
+      "path": "yaml.source_url",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "source_url_missing",
+      "message": "Missing source URL",
+      "path": "yaml.source_url",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: company:ILIV",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: software:Adobe Creative Suite",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: software:AVA",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: skills:Sampling",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: location:Preston",
+      "path": "resolution.needs_review",
+      "blocking": false
+    },
+    {
+      "severity": "warning",
+      "code": "relationship_unresolved",
+      "message": "Needs review: location:Preston, United Kingdom",
+      "path": "resolution.needs_review",
+      "blocking": false
+    }
+  ],
+  "infos": [],
+  "validator_results": [
+    {
+      "validator": "attachments",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "completeness",
+      "version": "1.0.0",
+      "score": 95,
+      "scoreBucket": "metadata",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "section_responsibilities_missing",
+          "message": "Missing or empty ## Responsibilities",
+          "path": "body.## Responsibilities",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "job_contract",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "metadata",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "links",
+      "version": "1.0.0",
+      "score": 95,
+      "scoreBucket": "metadata",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "source_link_missing",
+          "message": "Missing source link",
+          "path": "yaml.source_url",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "ocr",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "provenance",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "provenance",
+      "version": "1.0.0",
+      "score": 95,
+      "scoreBucket": "provenance",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "source_url_missing",
+          "message": "Missing source URL",
+          "path": "yaml.source_url",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "relationships",
+      "version": "1.0.0",
+      "score": 70,
+      "scoreBucket": "relationships",
+      "issues": [
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: company:ILIV",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: software:Adobe Creative Suite",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: software:AVA",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: skills:Sampling",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: location:Preston",
+          "path": "resolution.needs_review",
+          "blocking": false
+        },
+        {
+          "severity": "warning",
+          "code": "relationship_unresolved",
+          "message": "Needs review: location:Preston, United Kingdom",
+          "path": "resolution.needs_review",
+          "blocking": false
+        }
+      ],
+      "duration_ms": 0
+    },
+    {
+      "validator": "structure",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "structure",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "template",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "structure",
+      "issues": [],
+      "duration_ms": 0
+    },
+    {
+      "validator": "yaml",
+      "version": "1.0.0",
+      "score": 100,
+      "scoreBucket": "metadata",
+      "issues": [],
+      "duration_ms": 1
+    }
+  ],
+  "validator_timings": {
+    "attachments": 0,
+    "completeness": 0,
+    "job_contract": 0,
+    "links": 0,
+    "ocr": 0,
+    "provenance": 0,
+    "relationships": 0,
+    "structure": 0,
+    "template": 0,
+    "yaml": 1
+  },
+  "duration_ms": 3,
+  "message": "Pass with warnings — eligible for Editorial Review"
+}

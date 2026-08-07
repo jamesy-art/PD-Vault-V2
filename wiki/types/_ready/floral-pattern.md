@@ -4,17 +4,26 @@ slug: floral-pattern
 status: draft
 type_group: floral
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+  - Emblem
+structures:
+  - Scatter
+  - Half-Drop
+styles:
+  - Arts & Crafts
+  - Chinoiserie
+categories:
+  - Botanical
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Floral Patterns.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/floral-pattern/floral-pattern-1-pattern-designers.jpg
@@ -45,6 +54,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=a4BU4oqOUbM
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: floral-pattern-1-pattern-designers.jpg
+    title: Floral seamless pattern png collage element coloring book design transparent background | Premium Photo
+    alt: Floral seamless pattern png collage element coloring book design transparent background | Premium Photo
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/floral-seamless-pattern-png-collage-element-coloring-book-design-transparent-background_414510478.htm"
+      image_url: "https://img.magnific.com/premium-photo/floral-seamless-pattern-png-collage-element-coloring-book-design-transparent-background_53876-1048162.jpg"
+      title: Floral seamless pattern png collage element coloring book design transparent background | Premium Photo
+      description: Download this Premium photo of Floral seamless pattern png collage element coloring book design transparent background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: floral-pattern-2-pattern-designers.jpg
+    title: Flower seamless pattern background. elegant texture for backgrounds.
+    alt: Flower seamless pattern background. elegant texture for backgrounds.
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flower-seamless-pattern-background-elegant-texture-backgrounds_4328360.htm"
+      image_url: "https://img.magnific.com/free-vector/flower-seamless-pattern-background-elegant-texture-backgrounds_1217-1158.jpg"
+      title: Flower seamless pattern background. elegant texture for backgrounds.
+      description: Download this free vector of Flower seamless pattern background. elegant texture for backgrounds.  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: floral-pattern-3-pattern-designers.jpg
+    title: Hand drawn flat design flower pattern
+    alt: Hand drawn flat design flower pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-flat-design-flower-pattern_25638235.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-flat-design-flower-pattern_23-2149379911.jpg"
+      title: Hand drawn flat design flower pattern
+      description: Download this free vector of Hand drawn flat design flower pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: floral-pattern-4-pattern-designers.jpg
+    title: Watercolor floral seamless pattern
+    alt: Watercolor floral seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/watercolor-floral-seamless-pattern_14400362.htm"
+      image_url: "https://img.magnific.com/free-vector/watercolor-floral-seamless-pattern_21799-6522.jpg"
+      title: Watercolor floral seamless pattern
+      description: Download this free vector of Watercolor floral seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Floral Pattern

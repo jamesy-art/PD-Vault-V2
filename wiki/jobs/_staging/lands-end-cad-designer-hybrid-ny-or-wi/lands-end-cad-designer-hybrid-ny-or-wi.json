@@ -1,0 +1,149 @@
+{
+  "capture_id": "cap-clip-fa03e8a8847530ca",
+  "canonical_id": "can-clip-fa03e8a8847530ca",
+  "editorial_slug": "lands-end-cad-designer-hybrid-ny-or-wi",
+  "content_hash": "f64cdb14bdbfd24f3680698775606f1394151496555d1fe5f688cbd9eed3d6df",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "CAD Designer (Hybrid NY or WI",
+  "company": "Lands' End",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-fa03e8a8847530ca"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "clipping",
+      "obsidian_clipper"
+    ],
+    "raw_paths": [
+      "raw/_jobs/CAD Designer (Hybrid NY or WI).md"
+    ],
+    "original_title": "CAD Designer (Hybrid NY or WI)",
+    "original_url": "https://fashionunited.com/fashion-jobs/cad-designer-hybrid-ny-or-wi-new-york-1937571",
+    "original_publication": null,
+    "capture_timestamp": "2026-08-06T00:00:00.000Z",
+    "adapter": "obsidian_clipper",
+    "adapter_version": null,
+    "content_hash": "7316040caa1f9b5c92240daa9a26e7c2dab0fda4afd99bfa2d3d9d360a79e9dc",
+    "capture_extra": {
+      "tags": [
+        "clippings"
+      ],
+      "description": "July 20, 2026 - CAD Designer (Hybrid NY or WI) - New York, New York, 10001",
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/CAD Designer (Hybrid NY or WI).md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": null,
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-textile-design",
+        "slug": "textile-design",
+        "label": "Textile Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [
+      {
+        "id": "mk-fashion",
+        "slug": "fashion",
+        "label": "Fashion",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "2026-08-06T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-us",
+      "slug": "us",
+      "label": "United States",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "city": {
+      "id": "ci-new-york",
+      "slug": "new-york",
+      "label": "New York",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 95,
+        "matched_on": "slug",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.city",
+        "resolved_at": "2026-08-06T00:00:00.000Z"
+      }
+    },
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "2026-08-06T00:00:00.000Z",
+  "quality_score": 92,
+  "quality_status": "pass_with_warnings"
+}

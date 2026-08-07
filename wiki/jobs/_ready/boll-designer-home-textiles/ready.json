@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-2aba8fd695acf8a2",
+  "editorial_slug": "boll-designer-home-textiles",
+  "canonical_id": "can-clip-2aba8fd695acf8a2",
+  "capture_id": "cap-clip-2aba8fd695acf8a2",
+  "ready_status": "ready",
+  "ready_at": "2026-08-07T16:10:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.2fac6880",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "2fac68800f0f95aee435b95f3983a7eeef0f102aa433dcd319e61824a5cd596e",
+  "title": "Designer - Home Textiles",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 1,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 1,
+    "rewritten_wikilinks": 0
+  }
+}

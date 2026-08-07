@@ -5,9 +5,14 @@ status: draft
 type_group: texture
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Stripe
+styles:
+  - Minimalist
+categories:
+  - Fundamentals
+colour_family: Brown
+technique: []
 source_count: 2
 source_files:
   - Wood Pattern 2.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/wood-pattern/wood-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=fCr6741pnLI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: wood-pattern-1-pattern-designers.jpg
+    title: Hand drawn wood plank seamless pattern wood texture black and white | Premium Vector
+    alt: Hand drawn wood plank seamless pattern wood texture black and white | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/hand-drawn-wood-plank-seamless-pattern-wood-texture-black-white_422454645.htm"
+      image_url: "https://img.magnific.com/premium-vector/hand-drawn-wood-plank-seamless-pattern-wood-texture-black-white_149326-12471.jpg"
+      title: Hand drawn wood plank seamless pattern wood texture black and white | Premium Vector
+      description: Download this Premium vector of Hand drawn wood plank seamless pattern wood texture black and white and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: wood-pattern-2-pattern-designers.jpg
+    title: Oak wood texture design background | Free Photo
+    alt: Oak wood texture design background | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/oak-wood-texture-design-background_21631776.htm"
+      image_url: "https://img.magnific.com/free-photo/oak-wood-texture-design-background_53876-160537.jpg"
+      title: Oak wood texture design background | Free Photo
+      description: Download this free photo of Oak wood texture design background and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: wood-pattern-3-pattern-designers.jpg
+    title: Wood vector texture template. pattern seamless, material hardwood, floor natural, light parquet, vector illustration
+    alt: Wood vector texture template. pattern seamless, material hardwood, floor natural, light parquet, vector illustration
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/wood-vector-texture-template-pattern-seamless-material-hardwood-floor-natural-light-parquet-vector-illustration_11059494.htm"
+      image_url: "https://img.magnific.com/free-vector/wood-vector-texture-template-pattern-seamless-material-hardwood-floor-natural-light-parquet-vector-illustration_1284-47074.jpg"
+      title: Wood vector texture template. pattern seamless, material hardwood, floor natural, light parquet, vector illustration
+      description: Download this free vector of Wood vector texture template. pattern seamless, material hardwood, floor natural, light parquet, vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: wood-pattern-4-pattern-designers.jpg
+    title: Wooden flooring textured background design | Free Photo
+    alt: Wooden flooring textured background design | Free Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-photo/wooden-flooring-textured-background-design_16014620.htm"
+      image_url: "https://img.magnific.com/free-photo/wooden-flooring-textured-background-design_53876-108357.jpg"
+      title: Wooden flooring textured background design | Free Photo
+      description: Download this free photo of Wooden flooring textured background design and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Wood Pattern

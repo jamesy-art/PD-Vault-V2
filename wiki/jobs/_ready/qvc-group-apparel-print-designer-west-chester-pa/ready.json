@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-aa7baa48b72a87c5",
+  "editorial_slug": "qvc-group-apparel-print-designer-west-chester-pa",
+  "canonical_id": "can-clip-aa7baa48b72a87c5",
+  "capture_id": "cap-clip-aa7baa48b72a87c5",
+  "ready_status": "ready",
+  "ready_at": "2026-08-07T16:20:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.a2ed000f",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "a2ed000f90218e2206700039b101929e6d3c230dd31b2b631f9e8753983bb77e",
+  "title": "Apparel Print Designer - West Chester, PA",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 1,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 1,
+    "rewritten_wikilinks": 0
+  }
+}

@@ -4,17 +4,24 @@ slug: swirl-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Abstract
+structures:
+  - Radial
+  - Scatter
+styles:
+  - Art Nouveau
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Swirl Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/swirl-pattern/swirl-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=mnFB0mBYp5s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: swirl-pattern-1-pattern-designers.jpg
+    title: Abstract organic pattern design background
+    alt: Abstract organic pattern design background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-organic-pattern-design-background_60913917.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-organic-pattern-design-background_1048-19286.jpg"
+      title: Abstract organic pattern design background
+      description: Download this free vector of Abstract organic pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: swirl-pattern-2-pattern-designers.jpg
+    title: Black and white abstract lines are shown in a seamless pattern | Premium Photo
+    alt: Black and white abstract lines are shown in a seamless pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/black-white-abstract-lines-are-shown-seamless-pattern_378463253.htm"
+      image_url: "https://img.magnific.com/premium-photo/black-white-abstract-lines-are-shown-seamless-pattern_463801-4646.jpg"
+      title: Black and white abstract lines are shown in a seamless pattern | Premium Photo
+      description: Download this Premium photo of Black and white abstract lines are shown in a seamless pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: swirl-pattern-3-pattern-designers.jpg
+    title: Pastel coloured abstract swirl background design
+    alt: Pastel coloured abstract swirl background design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pastel-coloured-abstract-swirl-background-design_366204686.htm"
+      image_url: "https://img.magnific.com/free-vector/pastel-coloured-abstract-swirl-background-design_1048-20700.jpg"
+      title: Pastel coloured abstract swirl background design
+      description: Download this free vector of Pastel coloured abstract swirl background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: swirl-pattern-4-pattern-designers.jpg
+    title: Psychedelic black white swirl pattern | Premium AI-generated image
+    alt: Psychedelic black white swirl pattern | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/psychedelic-black-white-swirl-pattern_422861440.htm"
+      image_url: "https://img.magnific.com/premium-photo/psychedelic-black-white-swirl-pattern_53876-1245476.jpg"
+      title: Psychedelic black white swirl pattern | Premium AI-generated image
+      description: Download this Premium AI-generated image about Psychedelic black white swirl pattern, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Swirl Pattern

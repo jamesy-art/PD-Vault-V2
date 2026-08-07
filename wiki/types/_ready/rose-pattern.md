@@ -4,10 +4,17 @@ slug: rose-pattern
 status: draft
 type_group: floral
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+structures:
+  - Scatter
+  - Half-Drop
+styles:
+  - Arts & Crafts
+categories:
+  - Botanical
+colour_family: Red
+technique: []
 source_count: 2
 source_files:
   - Rose Pattern 2.md
@@ -15,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/rose-pattern/rose-pattern-1-pattern-designers.jpg
@@ -46,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=kS80xQbLoH0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: rose-pattern-1-pattern-designers.jpg
+    title: A seamless pattern of floral wallpaper with a dark background and rose flowers | Premium AI-generated vector
+    alt: A seamless pattern of floral wallpaper with a dark background and rose flowers | Premium AI-generated vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-floral-wallpaper-with-dark-background-rose-flowers_56194453.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-floral-wallpaper-with-dark-background-rose-flowers_682303-275.jpg"
+      title: A seamless pattern of floral wallpaper with a dark background and rose flowers | Premium AI-generated vector
+      description: Download this Premium AI-generated vector about A seamless pattern of floral wallpaper with a dark background and rose flowers, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: rose-pattern-2-pattern-designers.jpg
+    title: Rose seamless background vector illustration
+    alt: Rose seamless background vector illustration
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/rose-seamless-background-vector-illustration_25717350.htm"
+      image_url: "https://img.magnific.com/free-vector/rose-seamless-background-vector-illustration_1182-2471.jpg"
+      title: Rose seamless background vector illustration
+      description: Download this free vector of Rose seamless background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rose-pattern-3-pattern-designers.jpg
+    title: Seamless pattern floral rose pink watercolor
+    alt: Seamless pattern floral rose pink watercolor
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-pattern-floral-rose-pink-watercolor_30757526.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-pattern-floral-rose-pink-watercolor_41066-3497.jpg"
+      title: Seamless pattern floral rose pink watercolor
+      description: Download this free vector of Seamless pattern floral rose pink watercolor and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rose-pattern-4-pattern-designers.jpg
+    title: Vintage floral colorful seamless pattern
+    alt: Vintage floral colorful seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vintage-floral-colorful-seamless-pattern_8135902.htm"
+      image_url: "https://img.magnific.com/free-vector/vintage-floral-colorful-seamless-pattern_225004-1282.jpg"
+      title: Vintage floral colorful seamless pattern
+      description: Download this free vector of Vintage floral colorful seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Rose Pattern

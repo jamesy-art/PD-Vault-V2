@@ -4,17 +4,23 @@ slug: circle-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
+  - Radial
 styles: []
-categories: []
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Circle pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/circle-pattern/circle-pattern-1-pattern-designers.jpg
@@ -44,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=mS7539EtfgQ
 learn_more_youtube_2: https://www.youtube.com/watch?v=n5Jyeuq3TOE
 learn_more_youtube_3: ""
+gallery_images:
+  - path: circle-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/a/ab/Wallpaper_group-p4m-5.jpg)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/a/ab/Wallpaper_group-p4m-5.jpg)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wallpaper_group-p4m-5.jpg/960px-Wallpaper_group-p4m-5.jpg"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/a/ab/Wallpaper_group-p4m-5.jpg)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/a/ab/Wallpaper_group-p4m-5.jpg)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: circle-pattern-2-pattern-designers.jpg
+    title: Abstract seamless pattern textured background illustration | Premium Vector
+    alt: Abstract seamless pattern textured background illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-seamless-pattern-textured-background-illustration_29666663.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-seamless-pattern-textured-background-illustration_665449-538.jpg"
+      title: Abstract seamless pattern textured background illustration | Premium Vector
+      description: Download this Premium vector of Abstract seamless pattern textured background illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: circle-pattern-3-pattern-designers.jpg
+    title: Circle black halftone vector background
+    alt: Circle black halftone vector background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/circle-black-halftone-vector-background_2478678.htm"
+      image_url: "https://img.magnific.com/free-vector/circle-black-halftone-vector-background_1017-14239.jpg"
+      title: Circle black halftone vector background
+      description: Download this free vector of Circle black halftone vector background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: circle-pattern-4-pattern-designers.jpg
+    title: Interwoven circle pattern link mesh vector geometric grid structure curved line set manual vector only no autotrace used | Premium Vector
+    alt: Interwoven circle pattern link mesh vector geometric grid structure curved line set manual vector only no autotrace used | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/interwoven-circle-pattern-link-mesh-vector-geometric-grid-structure-curved-line-set-manual-vector-only-no-autotrace-used_427069245.htm"
+      image_url: "https://img.magnific.com/premium-vector/interwoven-circle-pattern-link-mesh-vector-geometric-grid-structure-curved-line-set-manual-vector-only-no-autotrace-used_213497-6812.jpg"
+      title: Interwoven circle pattern link mesh vector geometric grid structure curved line set manual vector only no autotrace used | Premium Vector
+      description: Download this Premium vector of Interwoven circle pattern link mesh vector geometric grid structure curved line set manual vector only no autotrace used and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Circle Pattern

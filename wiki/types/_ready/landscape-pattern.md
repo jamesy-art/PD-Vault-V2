@@ -4,33 +4,21 @@ slug: landscape-pattern
 status: active
 type_group: directional
 summary: Surface pattern with a defined top and bottom, repeating only horizontally; engineered for specific horizontal orientations such as panels, privacy screens, shower curtains, and accent walls
-motifs:
-  - scenic
-  - panoramic
-  - horizon
-  - topographic
-  - environmental scene
+motifs: []
 structures:
-  - horizontal-repeat-only
-  - engineered
-  - panel
-  - directional
-styles:
-  - scenic
-  - environmental
-  - illustrative
-  - panoramic
+  - Border
+styles: []
 categories:
-  - directional-pattern
-  - scenic
-  - engineered
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Landscape Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/landscape-pattern/landscape-pattern-1-pattern-designers.jpg
@@ -61,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=ZpuFfjrpbKM
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: landscape-pattern-1-pattern-designers.jpg
+    title: A seamless pattern of landscape | Premium Vector
+    alt: A seamless pattern of landscape | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-landscape_411249672.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-landscape_737135-555.jpg"
+      title: A seamless pattern of landscape | Premium Vector
+      description: Download this Premium vector of A seamless pattern of landscape and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: landscape-pattern-2-pattern-designers.jpg
+    title: Abstract banner with a topography map design
+    alt: Abstract banner with a topography map design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-banner-with-topography-map-design_225716822.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-banner-with-topography-map-design_1048-20312.jpg"
+      title: Abstract banner with a topography map design
+      description: Download this free vector of Abstract banner with a topography map design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: landscape-pattern-3-pattern-designers.jpg
+    title: Green geometric plant shapes pattern
+    alt: Green geometric plant shapes pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/green-geometric-plant-shapes-pattern_418611552.htm"
+      image_url: "https://img.magnific.com/free-vector/green-geometric-plant-shapes-pattern_107791-34686.jpg"
+      title: Green geometric plant shapes pattern
+      description: Download this free vector of Green geometric plant shapes pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: landscape-pattern-4-pattern-designers.jpg
+    title: Landscape pattern wallpaper | Premium AI-generated image
+    alt: Landscape pattern wallpaper | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/landscape-pattern-wallpaper_339927155.htm"
+      image_url: "https://img.magnific.com/premium-photo/landscape-pattern-wallpaper_1134901-394967.jpg"
+      title: Landscape pattern wallpaper | Premium AI-generated image
+      description: Download this Premium AI-generated image about Landscape pattern wallpaper, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Landscape Pattern

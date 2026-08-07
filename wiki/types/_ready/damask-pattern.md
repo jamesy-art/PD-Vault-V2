@@ -4,10 +4,18 @@ slug: damask-pattern
 status: draft
 type_group: historical
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Botanical
+  - Emblem
+structures:
+  - Radial
+styles:
+  - Damask
+categories:
+  - Heritage
+colour_family: White
+technique:
+  - Woven
 source_count: 2
 source_files:
   - Damask Pattern 2.md
@@ -15,7 +23,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/damask-pattern/damask-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=4pYZzL-ArW0
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: damask-pattern-1-pattern-designers.jpg
+    title: "](https://upload.wikimedia.org/wikipedia/commons/f/f0/Damask_with_floral_sprigs%2C_Italy%2C_Baroque%2C_1600-1650%2C_silk_two-tone_damask_-_Royal_Ontario_Museum_-_DSC04376.JPG)"
+    alt: "](https://upload.wikimedia.org/wikipedia/commons/f/f0/Damask_with_floral_sprigs%2C_Italy%2C_Baroque%2C_1600-1650%2C_silk_two-tone_damask_-_Royal_Ontario_Museum_-_DSC04376.JPG)"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: wikimedia
+      page_url: null
+      image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Damask_with_floral_sprigs%2C_Italy%2C_Baroque%2C_1600-1650%2C_silk_two-tone_damask_-_Royal_Ontario_Museum_-_DSC04376.JPG/960px-Damask_with_floral_sprigs%2C_Italy%2C_Baroque%2C_1600-1650%2C_silk_two-tone_damask_-_Royal_Ontario_Museum_-_DSC04376.JPG"
+      title: "](https://upload.wikimedia.org/wikipedia/commons/f/f0/Damask_with_floral_sprigs%2C_Italy%2C_Baroque%2C_1600-1650%2C_silk_two-tone_damask_-_Royal_Ontario_Museum_-_DSC04376.JPG)"
+      description: "](https://upload.wikimedia.org/wikipedia/commons/f/f0/Damask_with_floral_sprigs%2C_Italy%2C_Baroque%2C_1600-1650%2C_silk_two-tone_damask_-_Royal_Ontario_Museum_-_DSC04376.JPG)"
+    affiliate:
+      enabled: false
+      url: null
+  - path: damask-pattern-2-pattern-designers.jpg
+    title: Blue and black floral wallpaper | Premium AI-generated image
+    alt: Blue and black floral wallpaper | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/blue-black-floral-wallpaper_388914466.htm"
+      image_url: "https://img.magnific.com/premium-photo/blue-black-floral-wallpaper_1322516-25373.jpg"
+      title: Blue and black floral wallpaper | Premium AI-generated image
+      description: Download this Premium AI-generated image about Blue and black floral wallpaper, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: damask-pattern-3-pattern-designers.jpg
+    title: Elegant grey damask pattern with distressed texture | Premium Photo
+    alt: Elegant grey damask pattern with distressed texture | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/elegant-grey-damask-pattern-with-distressed-texture_426382231.htm"
+      image_url: "https://img.magnific.com/premium-photo/elegant-grey-damask-pattern-with-distressed-texture_525160-24828.jpg"
+      title: Elegant grey damask pattern with distressed texture | Premium Photo
+      description: Download this Premium photo of Elegant grey damask pattern with distressed texture and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: damask-pattern-4-pattern-designers.jpg
+    title: damask seamless pattern background.
+    alt: damask seamless pattern background.
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/damask-seamless-pattern-background_5575769.htm"
+      image_url: "https://img.magnific.com/free-vector/damask-seamless-pattern-background_1217-1269.jpg"
+      title: damask seamless pattern background.
+      description: Download this free vector of  damask seamless pattern background.  and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Damask Pattern

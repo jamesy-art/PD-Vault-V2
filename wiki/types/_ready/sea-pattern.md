@@ -4,10 +4,19 @@ slug: sea-pattern
 status: draft
 type_group: seasonal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Marine
+  - Animal
+structures:
+  - Half-Drop
+  - Border
+styles:
+  - Nautical
+  - Tropical
+categories:
+  - Nature
+colour_family: Blue
+technique: []
 source_count: 2
 source_files:
   - Sea Pattern 2.md
@@ -15,7 +24,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/sea-pattern/sea-pattern-1-pattern-designers.jpg
@@ -46,6 +55,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=jBeUZIJYEPA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: sea-pattern-1-pattern-designers.jpg
+    title: Coral pattern concept
+    alt: Coral pattern concept
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/coral-pattern-concept_9469155.htm"
+      image_url: "https://img.magnific.com/free-vector/coral-pattern-concept_52683-43849.jpg"
+      title: Coral pattern concept
+      description: Download this free vector of Coral pattern concept and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sea-pattern-2-pattern-designers.jpg
+    title: Flat design summer duotone pattern design
+    alt: Flat design summer duotone pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-summer-duotone-pattern-design_28751973.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-summer-duotone-pattern-design_23-2149489380.jpg"
+      title: Flat design summer duotone pattern design
+      description: Download this free vector of Flat design summer duotone pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sea-pattern-3-pattern-designers.jpg
+    title: Japan sea waves ukiyoe seamless pattern | Premium Vector
+    alt: Japan sea waves ukiyoe seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/japan-sea-waves-ukiyoe-seamless-pattern_222728469.htm"
+      image_url: "https://img.magnific.com/premium-vector/japan-sea-waves-ukiyoe-seamless-pattern_763064-514.jpg"
+      title: Japan sea waves ukiyoe seamless pattern | Premium Vector
+      description: Download this Premium vector of Japan sea waves ukiyoe seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sea-pattern-4-pattern-designers.jpg
+    title: Sea stingray seamless pattern watercolor illustration | Premium Photo
+    alt: Sea stingray seamless pattern watercolor illustration | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/sea-stingray-seamless-pattern-watercolor-illustration_163202940.htm"
+      image_url: "https://img.magnific.com/premium-photo/sea-stingray-seamless-pattern-watercolor-illustration_505980-2702.jpg"
+      title: Sea stingray seamless pattern watercolor illustration | Premium Photo
+      description: Download this Premium photo of Sea stingray seamless pattern watercolor illustration and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Sea Pattern

@@ -4,17 +4,25 @@ slug: graphic-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Logo
+  - Geometric
+structures:
+  - Block
+styles:
+  - Pop Art
+categories:
+  - Geometric
+colour_family: Black
+technique:
+  - Digital
 source_count: 1
 source_files:
   - Graphic Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/graphic-pattern/graphic-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=PL763dhxUr4
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: graphic-pattern-1-pattern-designers.jpg
+    title: Abstract colored hand drawn bold brush strokes seamless pattern curved thick lines and arches | Premium Vector
+    alt: Abstract colored hand drawn bold brush strokes seamless pattern curved thick lines and arches | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-colored-hand-drawn-bold-brush-strokes-seamless-pattern-curved-thick-lines-arches_418461795.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-colored-hand-drawn-bold-brush-strokes-seamless-pattern-curved-thick-lines-arches_109313-1967.jpg"
+      title: Abstract colored hand drawn bold brush strokes seamless pattern curved thick lines and arches | Premium Vector
+      description: Download this Premium vector of Abstract colored hand drawn bold brush strokes seamless pattern curved thick lines and arches and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: graphic-pattern-2-pattern-designers.jpg
+    title: Abstract geometric doodle pattern vector illustration background vintage graphic design hand drawn | Premium Vector
+    alt: Abstract geometric doodle pattern vector illustration background vintage graphic design hand drawn | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-geometric-doodle-pattern-vector-illustration-background-vintage-graphic-design-hand-drawn_260250721.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-geometric-doodle-pattern-vector-illustration-background-vintage-graphic-design-hand-drawn_359398-2271.jpg"
+      title: Abstract geometric doodle pattern vector illustration background vintage graphic design hand drawn | Premium Vector
+      description: Download this Premium vector of Abstract geometric doodle pattern vector illustration background vintage graphic design hand drawn and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: graphic-pattern-3-pattern-designers.jpg
+    title: Abstract maze design pattern background in black and white
+    alt: Abstract maze design pattern background in black and white
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-maze-design-pattern-background-black-white_25439852.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-maze-design-pattern-background-black-white_1048-15662.jpg"
+      title: Abstract maze design pattern background in black and white
+      description: Download this free vector of Abstract maze design pattern background in black and white and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: graphic-pattern-4-pattern-designers.jpg
+    title: Abstract organic pattern design background
+    alt: Abstract organic pattern design background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-organic-pattern-design-background_60913917.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-organic-pattern-design-background_1048-19286.jpg"
+      title: Abstract organic pattern design background
+      description: Download this free vector of Abstract organic pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Graphic Pattern

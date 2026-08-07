@@ -4,24 +4,14 @@ slug: watercolor-pattern
 status: active
 type_group: technique
 summary: "Surface pattern type defined by the visual qualities of watercolour painting: soft transparent colour transitions, bleeding edges, granulation, and visible brushwork applied to repeating motif layouts."
-motifs:
-  - florals
-  - botanicals
-  - abstract
-  - loose-illustration
-structures:
-  - tossed
-  - half-drop
-  - placement
-styles:
-  - painterly
-  - illustrative
-  - soft
-  - artisanal
+motifs: []
+structures: []
+styles: []
 categories:
-  - technique
-  - style
-  - illustrative
+  - Fundamentals
+colour_family: Multicolour
+technique:
+  - Watercolour
 source_count: 2
 source_files:
   - Watercolor Pattern 2.md
@@ -29,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/watercolor-pattern/watercolor-pattern-1-pattern-designers.jpg
@@ -60,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=AzmnxaGIffE
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: watercolor-pattern-1-pattern-designers.jpg
+    title: Abstract watercolor pattern
+    alt: Abstract watercolor pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-watercolor-pattern_17896915.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-watercolor-pattern_23-2149088368.jpg"
+      title: Abstract watercolor pattern
+      description: Download this free vector of Abstract watercolor pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: watercolor-pattern-2-pattern-designers.jpg
+    title: Seamless pattern of watercolor leaves
+    alt: Seamless pattern of watercolor leaves
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-pattern-watercolor-leaves_20968386.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-pattern-watercolor-leaves_65186-3118.jpg"
+      title: Seamless pattern of watercolor leaves
+      description: Download this free vector of Seamless pattern of watercolor leaves and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: watercolor-pattern-3-pattern-designers.jpg
+    title: There is a watercolor painting of a pattern of leaves generative ai | Premium AI-generated image
+    alt: There is a watercolor painting of a pattern of leaves generative ai | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/there-is-watercolor-painting-pattern-leaves-generative-ai_73720289.htm"
+      image_url: "https://img.magnific.com/premium-photo/there-is-watercolor-painting-pattern-leaves-generative-ai_958124-42899.jpg"
+      title: There is a watercolor painting of a pattern of leaves generative ai | Premium AI-generated image
+      description: Download this Premium AI-generated image about There is a watercolor painting of a pattern of leaves generative ai, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: watercolor-pattern-4-pattern-designers.jpg
+    title: Yellow green leaves watercolor seamless pattern
+    alt: Yellow green leaves watercolor seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/yellow-green-leaves-watercolor-seamless-pattern_19956547.htm"
+      image_url: "https://img.magnific.com/free-vector/yellow-green-leaves-watercolor-seamless-pattern_65186-3019.jpg"
+      title: Yellow green leaves watercolor seamless pattern
+      description: Download this free vector of Yellow green leaves watercolor seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Watercolor Pattern

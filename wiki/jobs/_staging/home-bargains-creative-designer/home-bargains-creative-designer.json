@@ -1,0 +1,118 @@
+{
+  "capture_id": "cap-clip-f87d6446741a951e",
+  "canonical_id": "can-clip-f87d6446741a951e",
+  "editorial_slug": "home-bargains-creative-designer",
+  "content_hash": "b1e9417baf5de05581682f1359f04fc97bf538efc7c9fe4f6d3e5585723aa05b",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Creative Designer",
+  "company": "Home Bargains",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-f87d6446741a951e"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "print_and_pattern"
+    ],
+    "raw_paths": [
+      "raw/_jobs/creative-designer-home-bargains-pp.md"
+    ],
+    "original_title": "creative-designer-home-bargains-pp",
+    "original_url": null,
+    "original_publication": null,
+    "capture_timestamp": "1970-01-01T00:00:00.000Z",
+    "adapter": "print_and_pattern",
+    "adapter_version": null,
+    "content_hash": "e791eb45c067a9c400973f56f358291cec7f1edb4d878179f54ae339d6c4a079",
+    "capture_extra": {
+      "tags": [],
+      "description": null,
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/creative-designer-home-bargains-pp.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": null,
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-print-design",
+        "slug": "print-design",
+        "label": "Print Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sk-trend-research",
+        "slug": "trend-research",
+        "label": "Trend Research",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [],
+    "markets": [
+      {
+        "id": "mk-licensing",
+        "slug": "licensing",
+        "label": "Licensing",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "markets",
+          "source_location": "body.mention",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "country": {
+      "id": "ct-gb",
+      "slug": "gb",
+      "label": "United Kingdom",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "1970-01-01T00:00:00.000Z"
+      }
+    },
+    "city": null,
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "1970-01-01T00:00:00.000Z",
+  "quality_score": 87,
+  "quality_status": "pass_with_warnings"
+}

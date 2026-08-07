@@ -1,0 +1,39 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-6381ed772c3ff783",
+  "canonical_id": "can-clip-6381ed772c3ff783",
+  "canonical_path": "wiki/jobs/_staging/whistlefish-middleweight-illustrator",
+  "resolved": [
+    "software:Adobe Illustrator",
+    "software:Illustrator",
+    "location:United Kingdom"
+  ],
+  "needs_review": [
+    "company:Whistlefish",
+    "location:REDRUTH",
+    "location:REDRUTH, United Kingdom"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 3,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 55,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No skills candidates",
+    "No types candidates",
+    "No markets candidates"
+  ],
+  "errors": [],
+  "duration_ms": 56,
+  "resolution_quality": 50,
+  "message": "Resolved"
+}

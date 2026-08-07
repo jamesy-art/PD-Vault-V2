@@ -4,17 +4,23 @@ slug: triangle-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
+  - Diamond
 styles: []
-categories: []
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Triangle Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/triangle-pattern/triangle-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=rc29jjHYgAI
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: triangle-pattern-1-pattern-designers.jpg
+    title: Abstract triangle pattern background
+    alt: Abstract triangle pattern background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-triangle-pattern-background_1109401.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-triangle-pattern-background_1319-155.jpg"
+      title: Abstract triangle pattern background
+      description: Download this free vector of Abstract triangle pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: triangle-pattern-2-pattern-designers.jpg
+    title: Triangle pattern design halftone vector
+    alt: Triangle pattern design halftone vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/triangle-pattern-design-halftone-vector_1725115.htm"
+      image_url: "https://img.magnific.com/free-vector/triangle-pattern-design-halftone-vector_1017-12232.jpg"
+      title: Triangle pattern design halftone vector
+      description: Download this free vector of Triangle pattern design halftone vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: triangle-pattern-3-pattern-designers.jpg
+    title: Vector background abstract polygon triangles.
+    alt: Vector background abstract polygon triangles.
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/vector-background-abstract-polygon-triangles_1306609.htm"
+      image_url: "https://img.magnific.com/free-vector/vector-background-abstract-polygon-triangles_2065-346.jpg"
+      title: Vector background abstract polygon triangles.
+      description: Download this free vector of Vector background abstract polygon triangles. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: triangle-pattern-4-pattern-designers.jpg
+    title: Vector mosaic pattern black and white seamless background | Premium Vector
+    alt: Vector mosaic pattern black and white seamless background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vector-mosaic-pattern-black-white-seamless-background_26188241.htm"
+      image_url: "https://img.magnific.com/premium-vector/vector-mosaic-pattern-black-white-seamless-background_547648-2096.jpg"
+      title: Vector mosaic pattern black and white seamless background | Premium Vector
+      description: Download this Premium vector of Vector mosaic pattern black and white seamless background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Triangle Pattern

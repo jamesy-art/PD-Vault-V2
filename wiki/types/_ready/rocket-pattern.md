@@ -5,37 +5,23 @@ status: active
 type_group: novelty
 summary: Novelty surface pattern using rocket, spaceship, and space-age motifs — typically retro-futuristic or cartoon-style; commercially active in children's apparel, novelty stationery, and space-themed home products
 motifs:
-  - rocket
-  - spaceship
-  - planet
-  - star
-  - astronaut
-  - moon
-  - flame
-  - orbit
+  - Celestial
+  - Novelty
 structures:
-  - tossed
-  - all-over
-  - scatter
-  - mixed-element
+  - Scatter
 styles:
-  - retro-futuristic
-  - cartoon
-  - space-age
-  - novelty
-  - children's
+  - Retro
 categories:
-  - novelty
-  - transportation-pattern
-  - space-theme
-  - children's
+  - Novelty
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Rocket Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/rocket-pattern/rocket-pattern-1-pattern-designers.jpg
@@ -66,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=lz0F3mtqCjM
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: rocket-pattern-1-pattern-designers.jpg
+    title: Abstract background pattern minimalistic wave clean simple modern texture colorful shapes | Premium AI-generated image
+    alt: Abstract background pattern minimalistic wave clean simple modern texture colorful shapes | Premium AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/abstract-background-pattern-minimalistic-wave-clean-simple-modern-texture-colorful-shapes_241322957.htm"
+      image_url: "https://img.magnific.com/premium-photo/abstract-background-pattern-minimalistic-wave-clean-simple-modern-texture-colorful-shapes_941600-285248.jpg"
+      title: Abstract background pattern minimalistic wave clean simple modern texture colorful shapes | Premium AI-generated image
+      description: Download this Premium AI-generated image about Abstract background pattern minimalistic wave clean simple modern texture colorful shapes, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: rocket-pattern-2-pattern-designers.jpg
+    title: Hand drawn space pattern
+    alt: Hand drawn space pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern_45987053.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern_52683-120411.jpg"
+      title: Hand drawn space pattern
+      description: Download this free vector of Hand drawn space pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rocket-pattern-3-pattern-designers.jpg
+    title: Hand drawn space pattern design
+    alt: Hand drawn space pattern design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184790.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150493449.jpg"
+      title: Hand drawn space pattern design
+      description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rocket-pattern-4-pattern-designers.jpg
+    title: Rockets pattern design
+    alt: Rockets pattern design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/rockets-pattern-design_1072686.htm"
+      image_url: "https://img.magnific.com/free-vector/rockets-pattern-design_1270-55.jpg"
+      title: Rockets pattern design
+      description: Download this free vector of Rockets pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Rocket Pattern

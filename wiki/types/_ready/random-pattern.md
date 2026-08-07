@@ -5,9 +5,13 @@ status: draft
 type_group: general
 summary: ""
 motifs: []
-structures: []
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Random Pattern.md
@@ -15,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/random-pattern/random-pattern-1-pattern-designers.jpg
@@ -46,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=K1-vZQX5QsY
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: random-pattern-1-pattern-designers.jpg
+    title: A funny hand-drawn pattern of doodles
+    alt: A funny hand-drawn pattern of doodles
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/funny-hand-drawn-pattern-doodles_32699187.htm"
+      image_url: "https://img.magnific.com/free-vector/funny-hand-drawn-pattern-doodles_69286-374.jpg"
+      title: A funny hand-drawn pattern of doodles
+      description: Download this free vector of A funny hand-drawn pattern of doodles and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: random-pattern-2-pattern-designers.jpg
+    title: Abstract background with an organic turing pattern design
+    alt: Abstract background with an organic turing pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-with-organic-turing-pattern-design_37167887.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-with-organic-turing-pattern-design_1048-17852.jpg"
+      title: Abstract background with an organic turing pattern design
+      description: Download this free vector of Abstract background with an organic turing pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: random-pattern-3-pattern-designers.jpg
+    title: Abstract pastel coloured organic turin design
+    alt: Abstract pastel coloured organic turin design
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-pastel-coloured-organic-turin-design_174059454.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-pastel-coloured-organic-turin-design_1048-20058.jpg"
+      title: Abstract pastel coloured organic turin design
+      description: Download this free vector of Abstract pastel coloured organic turin design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: random-pattern-4-pattern-designers.jpg
+    title: Squiggles and doodles background
+    alt: Squiggles and doodles background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/squiggles-doodles-background_59539188.htm"
+      image_url: "https://img.magnific.com/free-vector/squiggles-doodles-background_78370-2914.jpg"
+      title: Squiggles and doodles background
+      description: Download this free vector of Squiggles and doodles background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Random Pattern

@@ -1,165 +1,126 @@
 ---
-name: Nike,
+company_uid: c6ea7f54-bcfe-4fdb-9f63-721b9898f402
+schema_version: 1
+name: 'Nike,'
 slug: nike
-status: draft
-company_type: Brand
-location: United States
+publication_status: published
+origin: vault
+company_type: brand
 categories:
-  - Fashion
+  - accessories
+  - fashion
+  - kids
+  - outdoor
+  - sport
+markets:
+  - womenswear
+  - menswear
+  - kidswear
+  - football
+  - basketball
+  - golf
+  - running
+  - tennis
+  - outdoor
+  - gym_training
+  - yoga
+  - lifestyle
+  - skateboarding
+products:
+  - footwear
+  - apparel
+  - activewear
+  - accessories
+  - bags
+  - swimwear
+  - lingerie
+  - kidswear
+hq_country_code: US
+location: United States
+founded_year: 1964
+employee_count_text: '79,400'
+revenue_text: $51.4B
+website_url: 'https://www.nike.com'
+instagram_url: 'https://www.instagram.com/nike'
+linkedin_url: 'https://www.linkedin.com/company/nike'
+facebook_url: 'https://www.facebook.com/nike'
+youtube_url: 'https://www.youtube.com/user/nike'
 type_slugs: []
-website: https://www.nike.com
-instagram: https://www.instagram.com/nike
-linkedin: https://www.linkedin.com/company/nike
-facebook: https://www.facebook.com/nike
-founded: "1964"
-headquarters: United States
-employees: 79,400
-revenue: $51.4B
-category_images:
-  - label: "Boys"
-    category: "boys"
-    image: "../../assets/companies/nike/cat/nike-boys.jpg"
-  - label: "Girls"
-    category: "girls"
-    image: "../../assets/companies/nike/cat/nike-girls.jpg"
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/nike/cat/nike-mens.jpg"
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/nike/cat/nike-womens.jpg"
-source_file: Nike, Inc..md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-10
-updated: 2026-06-11
-sustainability_url: https://www.nike.com/sustainability
-press_url: https://www.nike.com/gift-cards
-contact_url: https://www.nike.com/help
-accessibility_url: https://www.nike.com/us/en/accessibility
-returns_url: https://www.nike.com/help/a/returns-policy
-shipping_url: https://www.nike.com/help/a/shipping-delivery
-youtube: https://www.youtube.com/user/nike
-retail_categories:
-  - Shoes
-  - Clothing
-  - Tops
-  - Bottoms
-  - Dresses & Jumpsuits
-  - Coats & Jackets
-  - Activewear
-  - Matching Sets
-  - Accessories
-  - Bags
-  - Swimwear
-  - Lingerie
-  - Kidswear
-market_categories:
-  - Womenswear
-  - Menswear
-  - Kidswear
-  - Football
-  - Basketball
-  - Golf
-  - Running
-  - Tennis
-  - Outdoor
-  - Gym & Training
-  - Yoga
-  - Lifestyle
-  - Skateboarding
-collections: []
-profile_image: ../../assets/companies/nike/profile/company-logo.png
-profile_image_local: ../../assets/companies/nike/profile/company-logo.png
-company_logo_selected: ../../assets/companies/nike/profile/company-logo.png
-logo_image_selected: ../../assets/companies/nike/profile/company-logo.png
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/nike/profile/company-logo.png
 images:
-  profile:
-    - ../../assets/companies/nike/profile/company-logo.png
-trk_reviewed: false
-trk_notes: ""
-trk_new: https://www.nike.com/w/new-kids-3n82yzv4dh
-trk_women: https://www.nike.com/women
-trk_women_new: https://www.nike.com/w/new-womens-3n82yz5e1x6
-trk_women_clothing: ""
-trk_women_dresses: https://www.nike.com/w/womens-skirts-and-dresses-5e1x6z8y3qp
-trk_women_tops: https://www.nike.com/w/womens-tops-t-shirts-5e1x6z9om13
-trk_women_bottoms: https://www.nike.com/w/womens-shorts-38fphz5e1x6
-trk_women_outerwear: https://www.nike.com/w/nikeskims-jackets-vests-50r7yzb2asd
-trk_women_activewear: https://www.nike.com/w/womens-running-shoes-37v7jz5e1x6zy7ok
-trk_women_swimwear: https://www.nike.com/w/womens-surf-swimming-3c2djz5e1x6
-trk_women_shoes: https://www.nike.com/w/womens-shoes-5e1x6zy7ok
-trk_women_bags: https://www.nike.com/w/womens-bags-and-backpacks-5e1x6z9xy71
-trk_women_acc: https://www.nike.com/w/womens-accessories-equipment-5e1x6zawwpw
-trk_men: https://www.nike.com/men
-trk_men_new: https://www.nike.com/w/new-mens-3n82yznik1
-trk_men_clothing: ""
-trk_men_tops: https://www.nike.com/w/mens-tops-t-shirts-9om13znik1
-trk_men_bottoms: https://www.nike.com/w/mens-shorts-38fphznik1
-trk_men_outerwear: https://www.nike.com/w/mens-jackets-vests-50r7yznik1
-trk_men_activewear: https://www.nike.com/w/mens-running-shoes-37v7jznik1zy7ok
-trk_men_swimwear: https://www.nike.com/w/mens-surf-swimming-3c2djznik1
-trk_men_shoes: https://www.nike.com/w/mens-shoes-nik1zy7ok
-trk_men_bags: https://www.nike.com/w/mens-bags-and-backpacks-9xy71znik1
-trk_men_acc: https://www.nike.com/w/mens-accessories-equipment-awwpwznik1
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: ""
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://www.nike.com/help/a/nike-affiliate-program
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/nike/profile/nike-logo.webp
+    alt: 'Nike, logo'
+    width: 1169
+    height: 1169
+    preview: ../../assets/companies/nike/profile/nike-logo-preview.webp
+  gallery:
+    - title: Boys
+      alt: 'Nike, boys collection'
+      path: ../../assets/companies/nike/gallery/nike-boys.jpg
+      width: 1070
+      height: 1338
+      source:
+        title: null
+        page_url: null
+      affiliate:
+        enabled: false
+        url: null
+    - title: Girls
+      alt: 'Nike, girls collection'
+      path: ../../assets/companies/nike/gallery/nike-girls.jpg
+      width: 1070
+      height: 1338
+      source:
+        title: null
+        page_url: null
+      affiliate:
+        enabled: false
+        url: null
+    - title: Mens
+      alt: 'Nike, mens collection'
+      path: ../../assets/companies/nike/gallery/nike-mens.jpg
+      width: 1070
+      height: 1338
+      source:
+        title: Mens
+        page_url: 'https://www.nike.com/men'
+      affiliate:
+        enabled: false
+        url: null
+    - title: Womens
+      alt: 'Nike, womens collection'
+      path: ../../assets/companies/nike/gallery/nike-womens.jpg
+      width: 1070
+      height: 1338
+      source:
+        title: Womens
+        page_url: 'https://www.nike.com/women'
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
+logo:
+  production: nike-logo.webp
+  preview: nike-logo-preview.webp
+  width: 1169
+  height: 1169
 ---
+
 # Nike,
 
 ## Profile Image
 
-![pd-profile|160](wiki/assets/companies/nike/profile/company-logo.png)
+![Profile](../../assets/companies/nike/profile/nike-logo.png)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Boys | <img src="../../assets/companies/nike/cat/nike-boys.jpg" width="160"> |
-| Girls | <img src="../../assets/companies/nike/cat/nike-girls.jpg" width="160"> |
-| Mens | <img src="../../assets/companies/nike/cat/nike-mens.jpg" width="160"> |
-| Womens | <img src="../../assets/companies/nike/cat/nike-womens.jpg" width="160"> |
-
-
-American athletic footwear and apparel corporation. Founded January 25, 1964 as Blue Ribbon Sports (Phil Knight and Bill Bowerman); renamed Nike, Inc. May 30, 1971. World's largest supplier of athletic shoes and apparel. HQ near Beaverton, Oregon. Revenue $46.3B (FY2025); $51.3B (FY2024). 77,800 employees (FY2025). Listed on NYSE; member of the Dow Jones Industrial Average since 2013. Sole subsidiary as of 2020: Converse. CEO: Elliott Hill (from January 2026). Brand value exceeded $32 billion in 2020.
+| Title | Preview |
+|-------|---------|
+| Boys | ![](../../assets/companies/nike/gallery/nike-boys.jpg) |
+| Girls | ![](../../assets/companies/nike/gallery/nike-girls.jpg) |
+| Mens | ![](../../assets/companies/nike/gallery/nike-mens.jpg) |
+| Womens | ![](../../assets/companies/nike/gallery/nike-womens.jpg) |
 
 ## Overview
 
@@ -167,7 +128,9 @@ Nike, Inc. is an American athletic footwear and apparel corporation headquartere
 
 Nike markets products under its own brand and sub-brands including Nike Golf, Air Force 1, Nike Dunk, Air Max, Nike Blazers, Nike Skateboarding, and Nike CR7. It also owns the Air Jordan brand and Converse subsidiary (acquired 2003; sole remaining subsidiary as of 2020). Revenue $46.3 billion (FY2025). CEO Elliott Hill, returning to the company after a period away, took over from John Donahoe on January 13, 2020; Donahoe succeeded him in 2024 with Hill returning. Layoffs of approximately 2,200 positions were conducted across January and April 2026 as part of a turnaround plan.
 
-## Company Profile
+Nike's design culture is documented through several figures: Bill Bowerman (co-founder; performance product innovation); Carolyn Davidson (Swoosh graphic designer, 1971); Tinker Hatfield (named designer; signature shoe designer; University of Oregon uniforms). The company's "Move to Zero" sustainability programme (from 2019) includes design commitments: men's and women's collections contain at least 60% organic and recycled materials. Nike Grind programme (from 1993) recycles old shoes into sports surface materials. Water-free dyeing materials adopted in Southeast Asian factories (from 2016). In 2023, Nike committed to eliminate kangaroo leather in favour of synthetic alternatives.
+
+## History
 
 Blue Ribbon Sports initially operated in Eugene, Oregon as a distributor for Japanese shoemaker Onitsuka Tiger. Bowerman experimented with a waffle iron in 1971 to create a new rubber sole — producing the "Moon Shoe" in 1972 (named for waffle-tread footprints resembling astronaut moon prints), then the "Waffle Trainer" in 1974. The relationship with Onitsuka Tiger ended in 1972; BRS launched its own line bearing the Swoosh logo. Jeff Johnson coined the name "Nike." The Swoosh was first used on June 18, 1971, and registered with the US Patent and Trademark Office on January 22, 1974.
 
@@ -175,15 +138,19 @@ Wieden+Kennedy (W+K) has been Nike's primary ad agency since its first national 
 
 Key acquisitions and divestments: Cole Haan (1988, sold 2013); Bauer Hockey (1994, sold 2008); Hurley International (2002, sold); Converse (2003, $309M, retained); Starter (2004, sold 2007); Umbro (2007, sold 2012); RTFKT Studios (December 2021, virtual shoe/NFT company). Data acquisitions: Zodiac (consumer analytics, March 2018); Celect (predictive analytics, August 2019); Datalogue (digital sales/machine learning, February 2021). In November 2019, Nike ceased selling directly through Amazon, focusing on direct customer relationships.
 
-## Market Position
-
-World's largest athletic footwear and apparel brand. Revenue $51.3B (FY2024); $46.3B (FY2025). Brand value $32B+ (2020). North America accounts for 42.2% of revenue; EMEA 26.2%; Greater China 14.2%. Footwear is 64.7% of revenue; apparel 27.0%; Converse 4.7%. Nike ranked 239th on *Forbes* Global 2000 (2024). Competes with Adidas as primary rival. Marketing and endorsement spending was $11.5 billion in 2018 — nearly a third of sales.
-
-## Products and Categories
+## Products
 
 Athletic footwear across all major sports: running (Air Max from 1987, Vaporfly 2017), basketball (Air Jordan from 1984; signature shoes for Michael Jordan, LeBron James, Kobe Bryant, Kevin Durant, Giannis Antetokounmpo, Sabrina Ionescu), training, soccer (Air Zoom Yorker, Mercurial, Hypervenom), skateboarding (Nike SB), tennis, golf. Apparel: performance and lifestyle (including Nike Tempo compression shorts, tracksuits, jerseys). Nike Elite socks. NikeLab (premium streetwear line). Air Jordan sub-brand. Converse (Chuck Taylor All Stars and extensions).
 
 Virtual products: Dunk Genesis Cryptokicks NFT collection (RTFKT Studios, from December 2021); Takashi Murakami-designed NFT sold for $134,000 in April 2022. Niketown: retail stores in major cities.
+
+## Services
+
+Global distribution through Nike-owned retail (Niketown flagship stores), authorised retailers, and direct-to-consumer digital (nike.com). Nike ceased selling directly through Amazon in November 2019. Revenue split FY2026 (projected): online ~$3.9B vs in-store ~$3.0B for comparable periods. Colin Kaepernick was signed to a long-term advertising campaign in September 2018 (documented "wide endorsement" including a branded line: shoes, shirts, jerseys). Nike sponsors 85 men's and women's basketball teams in the NCAA tournament. Key sports uniform deals: NFL (sideline apparel), NBA/WNBA/NBA G League (official uniform through 2037), Premier League (official ball supplier since 2000–01 season), Indian cricket team kit (2005–2020). No outbound brand licensing documented; Nike is the licensor of the Nike brand name and Swoosh to itself.
+
+## Markets
+
+World's largest athletic footwear and apparel brand. Revenue $51.3B (FY2024); $46.3B (FY2025). Brand value $32B+ (2020). North America accounts for 42.2% of revenue; EMEA 26.2%; Greater China 14.2%. Footwear is 64.7% of revenue; apparel 27.0%; Converse 4.7%. Nike ranked 239th on *Forbes* Global 2000 (2024). Competes with Adidas as primary rival. Marketing and endorsement spending was $11.5 billion in 2018 — nearly a third of sales.
 
 ## Pattern and Surface Design Relevance
 
@@ -207,33 +174,9 @@ Nike's SPD relevance spans graphic identity, footwear surface design, uniform ma
 
 **University of Oregon football uniforms**: Nike designs unique combinations for the University of Oregon football program for every game day — confirmed as a live product design programme led by Tinker Hatfield.
 
-## Design Direction
+## Official Resources
 
-Nike's design culture is documented through several figures: Bill Bowerman (co-founder; performance product innovation); Carolyn Davidson (Swoosh graphic designer, 1971); Tinker Hatfield (named designer; signature shoe designer; University of Oregon uniforms). The company's "Move to Zero" sustainability programme (from 2019) includes design commitments: men's and women's collections contain at least 60% organic and recycled materials. Nike Grind programme (from 1993) recycles old shoes into sports surface materials. Water-free dyeing materials adopted in Southeast Asian factories (from 2016). In 2023, Nike committed to eliminate kangaroo leather in favour of synthetic alternatives.
-
-## Retail and Licensing Context
-
-Global distribution through Nike-owned retail (Niketown flagship stores), authorised retailers, and direct-to-consumer digital (nike.com). Nike ceased selling directly through Amazon in November 2019. Revenue split FY2026 (projected): online ~$3.9B vs in-store ~$3.0B for comparable periods. Colin Kaepernick was signed to a long-term advertising campaign in September 2018 (documented "wide endorsement" including a branded line: shoes, shirts, jerseys). Nike sponsors 85 men's and women's basketball teams in the NCAA tournament. Key sports uniform deals: NFL (sideline apparel), NBA/WNBA/NBA G League (official uniform through 2037), Premier League (official ball supplier since 2000–01 season), Indian cricket team kit (2005–2020). No outbound brand licensing documented; Nike is the licensor of the Nike brand name and Swoosh to itself.
-
-## Related Pattern Types
-
-- Swoosh graphic logo applied to all products as surface mark
-- Waffle sole texture (gripping surface pattern, from 1972)
-- Air Jordan colourway and graphic design language
-- Nike Elite sock bold abstract and digital print designs
-- Sports team uniform graphic identity (NBA, NFL, college)
-- Virtual footwear surface design (RTFKT / Cryptokicks NFTs)
-
-## Related Companies
-
-- Converse (sole subsidiary since 2020; acquired 2003)
-- Air Jordan (sub-brand since 1984; co-branded with Jordan)
-- RTFKT Studios (acquired December 2021; virtual shoes / NFTs)
-- Wieden+Kennedy (primary ad agency since 1982)
-- Adidas (primary competitor)
-- Onitsuka Tiger (original distributor relationship; terminated 1972)
-
-## Source Notes
-
-- Wikipedia: Nike, Inc. — https://en.wikipedia.org/wiki/Nike,_Inc.
-
+- [Press](https://www.nike.com/gift-cards)
+- [Contact](https://www.nike.com/help)
+- [Sustainability](https://www.nike.com/sustainability)
+- [Wikipedia](https://en.wikipedia.org/wiki/Nike,_Inc)

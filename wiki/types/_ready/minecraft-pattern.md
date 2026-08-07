@@ -4,17 +4,23 @@ slug: minecraft-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
 styles: []
-categories: []
+categories:
+  - Novelty
+colour_family: Multicolour
+technique:
+  - Digital
 source_count: 1
 source_files:
   - minecraft-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/minecraft-pattern/minecraft-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=fRnoAN40A9s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: minecraft-pattern-1-pattern-designers.jpg
+    title: Blue color pixel pattern or background in pixel art | Premium Vector
+    alt: Blue color pixel pattern or background in pixel art | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/blue-color-pixel-pattern-background-pixel-art_81156696.htm"
+      image_url: "https://img.magnific.com/premium-vector/blue-color-pixel-pattern-background-pixel-art_588783-208.jpg"
+      title: Blue color pixel pattern or background in pixel art | Premium Vector
+      description: Download this Premium vector of Blue color pixel pattern or background in pixel art and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: minecraft-pattern-2-pattern-designers.jpg
+    title: Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background | Premium Vector
+    alt: Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/fabric-pattern-design-soccer-jersey-football-kit-abstract-pattern-abstract-background_143706149.htm"
+      image_url: "https://img.magnific.com/premium-vector/fabric-pattern-design-soccer-jersey-football-kit-abstract-pattern-abstract-background_35735-655.jpg"
+      title: Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background | Premium Vector
+      description: Download this Premium vector of Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: minecraft-pattern-3-pattern-designers.jpg
+    title: Pixel background the concept of games background vector illustration | Premium Vector
+    alt: Pixel background the concept of games background vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pixel-background-concept-games-background-vector-illustration_173061899.htm"
+      image_url: "https://img.magnific.com/premium-vector/pixel-background-concept-games-background-vector-illustration_652575-1377.jpg"
+      title: Pixel background the concept of games background vector illustration | Premium Vector
+      description: Download this Premium vector of Pixel background the concept of games background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: minecraft-pattern-4-pattern-designers.jpg
+    title: Pixel pattern closeup green block mosaic vector seamless background abstract color style | Premium Vector
+    alt: Pixel pattern closeup green block mosaic vector seamless background abstract color style | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/pixel-pattern-closeup-green-block-mosaic-vector-seamless-background-abstract-color-style_417082971.htm"
+      image_url: "https://img.magnific.com/premium-vector/pixel-pattern-closeup-green-block-mosaic-vector-seamless-background-abstract-color-style_213497-5711.jpg"
+      title: Pixel pattern closeup green block mosaic vector seamless background abstract color style | Premium Vector
+      description: Download this Premium vector of Pixel pattern closeup green block mosaic vector seamless background abstract color style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # minecraft-pattern

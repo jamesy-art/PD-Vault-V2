@@ -4,34 +4,21 @@ slug: directional-pattern
 status: active
 type_group: structure
 summary: Surface pattern classification describing any design where motifs have a clear orientation — a distinct 'up' or 'down' — that must be respected during fabric cutting and layout. The opposite of a non-directional or tossed design.
-motifs:
-  - animal
-  - face
-  - stem-flower
-  - text
-  - raindrop
-  - figurative
-  - scenic-element
+motifs: []
 structures:
-  - one-way
-  - two-way
-  - four-way
-  - directional-repeat
-styles:
-  - figurative
-  - novelty
-  - conversational
+  - Symmetry
+styles: []
 categories:
-  - structure
-  - repeat-type
-  - layout
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Directional Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/directional-pattern/directional-pattern-1-pattern-designers.jpg
@@ -62,6 +49,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=08aZfPoSegI&t=1415s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: directional-pattern-1-pattern-designers.jpg
+    title: "Colorful japanese circles overlap pop-art background pattern\t | Premium Vector"
+    alt: "Colorful japanese circles overlap pop-art background pattern\t | Premium Vector"
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/colorful-japanese-circles-overlap-pop-art-background-pattern_39138538.htm"
+      image_url: "https://img.magnific.com/premium-vector/colorful-japanese-circles-overlap-pop-art-background-pattern_229280-246.jpg"
+      title: "Colorful japanese circles overlap pop-art background pattern\t | Premium Vector"
+      description: "Download this Premium vector of Colorful japanese circles overlap pop-art background pattern\t and explore millions of professional vectors on Magnific."
+    affiliate:
+      enabled: false
+      url: null
+  - path: directional-pattern-2-pattern-designers.jpg
+    title: Flat design stripes pattern design
+    alt: Flat design stripes pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-stripes-pattern-design_32216010.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-stripes-pattern-design_23-2149717727.jpg"
+      title: Flat design stripes pattern design
+      description: Download this free vector of Flat design stripes pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: directional-pattern-3-pattern-designers.jpg
+    title: Graphic 1448 | Premium Vector
+    alt: Graphic 1448 | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/graphic-1448_204931380.htm"
+      image_url: "https://img.magnific.com/premium-vector/graphic-1448_680433-1040.jpg"
+      title: Graphic 1448 | Premium Vector
+      description: Download this Premium vector of Graphic 1448 and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: directional-pattern-4-pattern-designers.jpg
+    title: Seamless herringbone pattern colorful palette vector background | Premium Vector
+    alt: Seamless herringbone pattern colorful palette vector background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-herringbone-pattern-colorful-palette-vector-background_30177104.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-herringbone-pattern-colorful-palette-vector-background_680433-55.jpg"
+      title: Seamless herringbone pattern colorful palette vector background | Premium Vector
+      description: Download this Premium vector of Seamless herringbone pattern colorful palette vector background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Directional Pattern

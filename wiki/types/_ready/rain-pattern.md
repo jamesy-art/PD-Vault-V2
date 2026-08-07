@@ -5,36 +5,23 @@ status: active
 type_group: nature
 summary: Surface pattern category using rain, raindrop, and drip motifs — from abstract streaks and droplet shapes to illustrative downpour scenes; includes the related military camouflage tradition of broken vertical line patterns nicknamed 'raindrop'
 motifs:
-  - raindrop
-  - drip
-  - rain streak
-  - puddle
-  - umbrella
-  - cloud
-  - vertical line
+  - Celestial
 structures:
-  - all-over
-  - directional
-  - stripe
-  - tossed
+  - Scatter
+  - Stripe
 styles:
-  - nature
-  - abstract
-  - conversational
-  - graphic
-  - camouflage
+  - Camouflage
 categories:
-  - nature-pattern
-  - weather-pattern
-  - abstract
-  - novelty
+  - Nature
+colour_family: Blue
+technique: []
 source_count: 1
 source_files:
   - Rain Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/rain-pattern/rain-pattern-1-pattern-designers.jpg
@@ -65,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=GWqXh9HO-ck
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: rain-pattern-1-pattern-designers.jpg
+    title: Abstract aqua rainfall downpour background design
+    alt: Abstract aqua rainfall downpour background design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-aqua-rainfall-downpour-background-design_351444449.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-aqua-rainfall-downpour-background-design_1017-55001.jpg"
+      title: Abstract aqua rainfall downpour background design
+      description: Download this free vector of Abstract aqua rainfall downpour background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rain-pattern-2-pattern-designers.jpg
+    title: Rain pattern background
+    alt: Rain pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/rain-pattern-background_1148354.htm"
+      image_url: "https://img.magnific.com/free-vector/rain-pattern-background_1399-31.jpg"
+      title: Rain pattern background
+      description: Download this free vector of Rain pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rain-pattern-3-pattern-designers.jpg
+    title: Rainfall drops on black background
+    alt: Rainfall drops on black background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/rainfall-drops-black-background_18309110.htm"
+      image_url: "https://img.magnific.com/free-vector/rainfall-drops-black-background_1017-33594.jpg"
+      title: Rainfall drops on black background
+      description: Download this free vector of Rainfall drops on black background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: rain-pattern-4-pattern-designers.jpg
+    title: Soft blue rain drops pattern with gentle drizzle on white background | Premium Vector
+    alt: Soft blue rain drops pattern with gentle drizzle on white background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/soft-blue-rain-drops-pattern-with-gentle-drizzle-white-background_425412350.htm"
+      image_url: "https://img.magnific.com/premium-vector/soft-blue-rain-drops-pattern-with-gentle-drizzle-white-background_655634-229.jpg"
+      title: Soft blue rain drops pattern with gentle drizzle on white background | Premium Vector
+      description: Download this Premium vector of Soft blue rain drops pattern with gentle drizzle on white background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Rain Pattern

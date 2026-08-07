@@ -4,17 +4,25 @@ slug: cat-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Hide
+  - Animal
+structures:
+  - Stripe
+  - Scatter
+styles:
+  - Kawaii
+categories:
+  - Animal
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Cat Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/cat-pattern/cat-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=wGddiAE7XLA
 learn_more_youtube_2: https://www.youtube.com/watch?v=5NyDxA41akE
 learn_more_youtube_3: ""
+gallery_images:
+  - path: cat-pattern-1-pattern-designers.jpg
+    title: Digital art cat pattern | AI-generated image
+    alt: Digital art cat pattern | AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/digital-art-cat-pattern_204373445.htm"
+      image_url: "https://img.magnific.com/free-photo/digital-art-cat-pattern_23-2151520537.jpg"
+      title: Digital art cat pattern | AI-generated image
+      description: Download this free AI-generated image about Digital art cat pattern, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: cat-pattern-2-pattern-designers.jpg
+    title: Funny cats vector seamless pattern | Premium Vector
+    alt: Funny cats vector seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/funny-cats-vector-seamless-pattern_42522926.htm"
+      image_url: "https://img.magnific.com/premium-vector/funny-cats-vector-seamless-pattern_278672-83.jpg"
+      title: Funny cats vector seamless pattern | Premium Vector
+      description: Download this Premium vector of Funny cats vector seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: cat-pattern-3-pattern-designers.jpg
+    title: Hand drawn cat silhouette pattern | Premium Vector
+    alt: Hand drawn cat silhouette pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/hand-drawn-cat-silhouette-pattern_150316770.htm"
+      image_url: "https://img.magnific.com/premium-vector/hand-drawn-cat-silhouette-pattern_98292-27366.jpg"
+      title: Hand drawn cat silhouette pattern | Premium Vector
+      description: Download this Premium vector of Hand drawn cat silhouette pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: cat-pattern-4-pattern-designers.jpg
+    title: Seamless pattern handdrawn cute cats cartoon animals background vector illustration | Premium Vector
+    alt: Seamless pattern handdrawn cute cats cartoon animals background vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-handdrawn-cute-cats-cartoon-animals-background-vector-illustration_25515019.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-handdrawn-cute-cats-cartoon-animals-background-vector-illustration_107335-197.jpg"
+      title: Seamless pattern handdrawn cute cats cartoon animals background vector illustration | Premium Vector
+      description: Download this Premium vector of Seamless pattern handdrawn cute cats cartoon animals background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Cat Pattern

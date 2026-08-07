@@ -4,10 +4,15 @@ slug: frieze-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Emblem
+structures:
+  - Border
 styles: []
-categories: []
+categories:
+  - Fundamentals
+colour_family: Multicolour
+technique: []
 source_count: 2
 source_files:
   - Frieze Pattern 2.md
@@ -15,7 +20,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/frieze-pattern/frieze-pattern-1-pattern-designers.jpg
@@ -46,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=FUu93w-wNZA
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: frieze-pattern-1-pattern-designers.jpg
+    title: Damask floral fabric seamless patterns for cross stitch carpets and cloth | Premium Vector
+    alt: Damask floral fabric seamless patterns for cross stitch carpets and cloth | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/damask-floral-fabric-seamless-patterns-cross-stitch-carpets-cloth_415647725.htm"
+      image_url: "https://img.magnific.com/premium-vector/damask-floral-fabric-seamless-patterns-cross-stitch-carpets-cloth_275780-7280.jpg"
+      title: Damask floral fabric seamless patterns for cross stitch carpets and cloth | Premium Vector
+      description: Download this Premium vector of Damask floral fabric seamless patterns for cross stitch carpets and cloth and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: frieze-pattern-2-pattern-designers.jpg
+    title: Ethnic border floral ornament pattern design | Premium Vector
+    alt: Ethnic border floral ornament pattern design | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/ethnic-border-floral-ornament-pattern-design_426318405.htm"
+      image_url: "https://img.magnific.com/premium-vector/ethnic-border-floral-ornament-pattern-design_1014636-1018.jpg"
+      title: Ethnic border floral ornament pattern design | Premium Vector
+      description: Download this Premium vector of Ethnic border floral ornament pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: frieze-pattern-3-pattern-designers.jpg
+    title: Floral border ornament damask seamless pattern | Premium Photo
+    alt: Floral border ornament damask seamless pattern | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/floral-border-ornament-damask-seamless-pattern_37359584.htm"
+      image_url: "https://img.magnific.com/premium-photo/floral-border-ornament-damask-seamless-pattern_740023-278.jpg"
+      title: Floral border ornament damask seamless pattern | Premium Photo
+      description: Download this Premium photo of Floral border ornament damask seamless pattern and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: frieze-pattern-4-pattern-designers.jpg
+    title: Hand drawn divider ornament frame
+    alt: Hand drawn divider ornament frame
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-divider-ornament-frame_138508143.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-divider-ornament-frame_23-2151236008.jpg"
+      title: Hand drawn divider ornament frame
+      description: Download this free vector of Hand drawn divider ornament frame and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Frieze Pattern

@@ -5,29 +5,22 @@ status: active
 type_group: general
 summary: Tropical surface pattern built from banana fruit and leaf motifs, used in apparel, home textiles, and resort design contexts.
 motifs:
-  - banana
-  - tropical-leaf
-  - fruit
-  - frond
+  - Botanical
 structures:
-  - all-over
-  - tossed
-  - directional
+  - Scatter
 styles:
-  - tropical
-  - illustrated
-  - bold
+  - Tropical
 categories:
-  - fruit
-  - tropical
-  - botanical
+  - Food
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Banana Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/banana-pattern/banana-pattern-1-pattern-designers.jpg
@@ -58,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=5o3CKY8iM8o
 learn_more_youtube_2: https://www.youtube.com/watch?v=8isWBWq02Yk
 learn_more_youtube_3: https://www.youtube.com/watch?v=1s1I41FBvLc
+gallery_images:
+  - path: banana-pattern-1-pattern-designers.jpg
+    title: Banana fruits pattern illustration design | AI-generated image
+    alt: Banana fruits pattern illustration design | AI-generated image
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/banana-fruits-pattern-illustration-design_380603934.htm"
+      image_url: "https://img.magnific.com/free-photo/banana-fruits-pattern-illustration-design_23-2151878614.jpg"
+      title: Banana fruits pattern illustration design | AI-generated image
+      description: Download this free AI-generated image about Banana fruits pattern illustration design, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: banana-pattern-2-pattern-designers.jpg
+    title: Banana seamless pattern background, cute food vector illustration
+    alt: Banana seamless pattern background, cute food vector illustration
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/banana-seamless-pattern-background-cute-food-vector-illustration_18938192.htm"
+      image_url: "https://img.magnific.com/free-vector/banana-seamless-pattern-background-cute-food-vector-illustration_53876-144616.jpg"
+      title: Banana seamless pattern background, cute food vector illustration
+      description: Download this free vector of Banana seamless pattern background, cute food vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: banana-pattern-3-pattern-designers.jpg
+    title: Hand drawn lineal engraved banana pattern
+    alt: Hand drawn lineal engraved banana pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-lineal-engraved-banana-pattern_25149743.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-lineal-engraved-banana-pattern_23-2149353214.jpg"
+      title: Hand drawn lineal engraved banana pattern
+      description: Download this free vector of Hand drawn lineal engraved banana pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: banana-pattern-4-pattern-designers.jpg
+    title: Yellow banana vector line art pattern | Premium Vector
+    alt: Yellow banana vector line art pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/yellow-banana-vector-line-art-pattern_49854105.htm"
+      image_url: "https://img.magnific.com/premium-vector/yellow-banana-vector-line-art-pattern_654662-5221.jpg"
+      title: Yellow banana vector line art pattern | Premium Vector
+      description: Download this Premium vector of Yellow banana vector line art pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Banana Pattern

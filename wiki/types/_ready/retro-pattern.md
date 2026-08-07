@@ -4,17 +4,25 @@ slug: retro-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Block
+  - Scatter
+styles:
+  - Retro
+  - Pop Art
+categories:
+  - Heritage
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Retro Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/retro-pattern/retro-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=JZQzCDZKsrY
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: retro-pattern-1-pattern-designers.jpg
+    title: Abstract background design
+    alt: Abstract background design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-background-design_995509.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-background-design_1009-515.jpg"
+      title: Abstract background design
+      description: Download this free vector of Abstract background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: retro-pattern-2-pattern-designers.jpg
+    title: "Flat retro 60&#x27;s or 70&#x27;s background with pattern"
+    alt: "Flat retro 60&#x27;s or 70&#x27;s background with pattern"
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-retro-60-s-70-s-background-with-pattern_34916215.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-retro-60-s-70-s-background-with-pattern_23-2149952524.jpg"
+      title: "Flat retro 60&#x27;s or 70&#x27;s background with pattern"
+      description: "Download this free vector of Flat retro 60&#x27;s or 70&#x27;s background with pattern and explore millions of professional vectors on Magnific."
+    affiliate:
+      enabled: false
+      url: null
+  - path: retro-pattern-3-pattern-designers.jpg
+    title: Retro wavy stripes pattern in orange brown black and yellow | Premium AI-generated image
+    alt: Retro wavy stripes pattern in orange brown black and yellow | Premium AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-ai-image/retro-wavy-stripes-pattern-orange-brown-black-yellow_326097320.htm"
+      image_url: "https://img.magnific.com/premium-photo/retro-wavy-stripes-pattern-orange-brown-black-yellow_1107815-61571.jpg"
+      title: Retro wavy stripes pattern in orange brown black and yellow | Premium AI-generated image
+      description: Download this Premium AI-generated image about Retro wavy stripes pattern in orange brown black and yellow, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: retro-pattern-4-pattern-designers.jpg
+    title: S groovy geometric retro seamless pattern s and s aesthetic style linear color vector illustration | Premium Vector
+    alt: S groovy geometric retro seamless pattern s and s aesthetic style linear color vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/s-groovy-geometric-retro-seamless-pattern-s-s-aesthetic-style-linear-color-vector-illustration_31453319.htm"
+      image_url: "https://img.magnific.com/premium-vector/s-groovy-geometric-retro-seamless-pattern-s-s-aesthetic-style-linear-color-vector-illustration_119217-4127.jpg"
+      title: S groovy geometric retro seamless pattern s and s aesthetic style linear color vector illustration | Premium Vector
+      description: Download this Premium vector of S groovy geometric retro seamless pattern s and s aesthetic style linear color vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Retro Pattern

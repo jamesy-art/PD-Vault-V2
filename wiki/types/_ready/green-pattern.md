@@ -6,8 +6,12 @@ type_group: colour
 summary: ""
 motifs: []
 structures: []
-styles: []
-categories: []
+styles:
+  - Minimalist
+categories:
+  - Colour
+colour_family: Green
+technique: []
 source_count: 2
 source_files:
   - Green Pattern 2.md
@@ -15,7 +19,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/green-pattern/green-pattern-1-pattern-designers.jpg
@@ -46,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=CQhb_m_QTXo
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: green-pattern-1-pattern-designers.jpg
+    title: Abstract seamless geometric shape lines pattern design background
+    alt: Abstract seamless geometric shape lines pattern design background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-seamless-geometric-shape-lines-pattern-design-background_386289981.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-seamless-geometric-shape-lines-pattern-design-background_84443-23908.jpg"
+      title: Abstract seamless geometric shape lines pattern design background
+      description: Download this free vector of Abstract seamless geometric shape lines pattern design background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: green-pattern-2-pattern-designers.jpg
+    title: Abstract turing pattern background in shades of green
+    alt: Abstract turing pattern background in shades of green
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-turing-pattern-background-shades-green_40161439.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-turing-pattern-background-shades-green_1048-18556.jpg"
+      title: Abstract turing pattern background in shades of green
+      description: Download this free vector of Abstract turing pattern background in shades of green and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: green-pattern-3-pattern-designers.jpg
+    title: Green pattern texture of paper box. | Premium Photo
+    alt: Green pattern texture of paper box. | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/green-pattern-texture-paper-box_3603692.htm"
+      image_url: "https://img.magnific.com/premium-photo/green-pattern-texture-paper-box_35956-1734.jpg"
+      title: Green pattern texture of paper box. | Premium Photo
+      description: Download this Premium photo of Green pattern texture of paper box. and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: green-pattern-4-pattern-designers.jpg
+    title: Green wavy background
+    alt: Green wavy background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/green-wavy-background_359339025.htm"
+      image_url: "https://img.magnific.com/free-vector/green-wavy-background_1409-9647.jpg"
+      title: Green wavy background
+      description: Download this free vector of Green wavy background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Green Pattern

@@ -4,10 +4,17 @@ slug: snow-pattern
 status: draft
 type_group: seasonal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Celestial
+structures:
+  - Scatter
+  - Radial
+styles:
+  - Festive
+categories:
+  - Nature
+colour_family: White
+technique: []
 source_count: 2
 source_files:
   - Snow Pattern 2.md
@@ -15,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/snow-pattern/snow-pattern-1-pattern-designers.jpg
@@ -46,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=nnVNG7B_xn8
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: snow-pattern-1-pattern-designers.jpg
+    title: Abstract pattern with christmas winter white snow beautiful element for your new year background | Premium Vector
+    alt: Abstract pattern with christmas winter white snow beautiful element for your new year background | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/abstract-pattern-with-christmas-winter-white-snow-beautiful-element-your-new-year-background_366917730.htm"
+      image_url: "https://img.magnific.com/premium-vector/abstract-pattern-with-christmas-winter-white-snow-beautiful-element-your-new-year-background_1127292-296.jpg"
+      title: Abstract pattern with christmas winter white snow beautiful element for your new year background | Premium Vector
+      description: Download this Premium vector of Abstract pattern with christmas winter white snow beautiful element for your new year background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: snow-pattern-2-pattern-designers.jpg
+    title: Hand drawn flat christmas pattern design
+    alt: Hand drawn flat christmas pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-flat-christmas-pattern-design_19851007.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-flat-christmas-pattern-design_23-2149147706.jpg"
+      title: Hand drawn flat christmas pattern design
+      description: Download this free vector of Hand drawn flat christmas pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: snow-pattern-3-pattern-designers.jpg
+    title: Seamless pastel pattern snowfall isolated on transparent background vector illustration | Premium Vector
+    alt: Seamless pastel pattern snowfall isolated on transparent background vector illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pastel-pattern-snowfall-isolated-transparent-background-vector-illustration_110134453.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pastel-pattern-snowfall-isolated-transparent-background-vector-illustration_500695-771.jpg"
+      title: Seamless pastel pattern snowfall isolated on transparent background vector illustration | Premium Vector
+      description: Download this Premium vector of Seamless pastel pattern snowfall isolated on transparent background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: snow-pattern-4-pattern-designers.jpg
+    title: Snowflakes on light blue background
+    alt: Snowflakes on light blue background
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/snowflakes-light-blue-background_829566.htm"
+      image_url: "https://img.magnific.com/free-vector/snowflakes-light-blue-background_1048-632.jpg"
+      title: Snowflakes on light blue background
+      description: Download this free vector of Snowflakes on light blue background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Snow Pattern

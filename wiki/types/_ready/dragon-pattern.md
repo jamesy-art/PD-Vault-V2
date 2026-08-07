@@ -4,10 +4,17 @@ slug: dragon-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Mythical
+structures:
+  - Radial
+  - Border
+styles:
+  - Chinoiserie
+categories:
+  - Novelty
+colour_family: Metallic
+technique: []
 source_count: 2
 source_files:
   - Dragon Pattern 1.md
@@ -15,7 +22,7 @@ source_files:
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/dragon-pattern/dragon-pattern-1-pattern-designers.jpg
@@ -46,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=DEo0kLf_AVk
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: dragon-pattern-1-pattern-designers.jpg
+    title: Hand drawn chinese dragon pattern design
+    alt: Hand drawn chinese dragon pattern design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-chinese-dragon-pattern-design_49262594.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-chinese-dragon-pattern-design_23-2150536678.jpg"
+      title: Hand drawn chinese dragon pattern design
+      description: Download this free vector of Hand drawn chinese dragon pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dragon-pattern-2-pattern-designers.jpg
+    title: Oriental dragon seamless pattern for textile and decoration | Premium Vector
+    alt: Oriental dragon seamless pattern for textile and decoration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/oriental-dragon-seamless-pattern-textile-decoration_111173326.htm"
+      image_url: "https://img.magnific.com/premium-vector/oriental-dragon-seamless-pattern-textile-decoration_9645-4133.jpg"
+      title: Oriental dragon seamless pattern for textile and decoration | Premium Vector
+      description: Download this Premium vector of Oriental dragon seamless pattern for textile and decoration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dragon-pattern-3-pattern-designers.jpg
+    title: Oriental traditional seamless pattern
+    alt: Oriental traditional seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/oriental-traditional-seamless-pattern_4561536.htm"
+      image_url: "https://img.magnific.com/free-vector/oriental-traditional-seamless-pattern_98292-4582.jpg"
+      title: Oriental traditional seamless pattern
+      description: Download this free vector of Oriental traditional seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dragon-pattern-4-pattern-designers.jpg
+    title: Seamless pattern happy chinese new year 2024 the dragon zodiac sign | Premium Vector
+    alt: Seamless pattern happy chinese new year 2024 the dragon zodiac sign | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-happy-chinese-new-year-2024-dragon-zodiac-sign_43857647.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-happy-chinese-new-year-2024-dragon-zodiac-sign_38689-4811.jpg"
+      title: Seamless pattern happy chinese new year 2024 the dragon zodiac sign | Premium Vector
+      description: Download this Premium vector of Seamless pattern happy chinese new year 2024 the dragon zodiac sign and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Dragon Pattern

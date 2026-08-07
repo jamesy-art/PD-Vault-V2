@@ -4,17 +4,24 @@ slug: geometric-pattern
 status: draft
 type_group: structure
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Geometric
+structures:
+  - Tessellation
+  - Block
+styles:
+  - Minimalist
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Geometric Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/geometric-pattern/geometric-pattern-1-pattern-designers.jpg
@@ -45,6 +52,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=sKydcYYEz-g
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: geometric-pattern-1-pattern-designers.jpg
+    title: Abstract diagonal stripes pattern design background in black and white
+    alt: Abstract diagonal stripes pattern design background in black and white
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-diagonal-stripes-pattern-design-background-black-white_412809503.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-diagonal-stripes-pattern-design-background-black-white_1048-21100.jpg"
+      title: Abstract diagonal stripes pattern design background in black and white
+      description: Download this free vector of Abstract diagonal stripes pattern design background in black and white and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: geometric-pattern-2-pattern-designers.jpg
+    title: Flat design colorful geometric pattern
+    alt: Flat design colorful geometric pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-colorful-geometric-pattern_43191536.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-colorful-geometric-pattern_23-2150422454.jpg"
+      title: Flat design colorful geometric pattern
+      description: Download this free vector of Flat design colorful geometric pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: geometric-pattern-3-pattern-designers.jpg
+    title: Flat geometric pattern background
+    alt: Flat geometric pattern background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-geometric-pattern-background_34628957.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-geometric-pattern-background_23-2149925063.jpg"
+      title: Flat geometric pattern background
+      description: Download this free vector of Flat geometric pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: geometric-pattern-4-pattern-designers.jpg
+    title: House pattern design | Premium Vector
+    alt: House pattern design | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/house-pattern-design_39049190.htm"
+      image_url: "https://img.magnific.com/premium-vector/house-pattern-design_740208-182.jpg"
+      title: House pattern design | Premium Vector
+      description: Download this Premium vector of House pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Geometric Pattern

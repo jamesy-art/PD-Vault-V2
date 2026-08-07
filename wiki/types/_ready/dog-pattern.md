@@ -4,17 +4,23 @@ slug: dog-pattern
 status: draft
 type_group: animal
 summary: ""
-motifs: []
-structures: []
+motifs:
+  - Animal
+  - Emblem
+structures:
+  - Scatter
 styles: []
-categories: []
+categories:
+  - Animal
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Dog Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/dog-pattern/dog-pattern-1-pattern-designers.jpg
@@ -45,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=q5WHKEkaDnc
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: dog-pattern-1-pattern-designers.jpg
+    title: Animal paw feet and bone pattern background design
+    alt: Animal paw feet and bone pattern background design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/animal-paw-feet-bone-pattern-background-design_422328091.htm"
+      image_url: "https://img.magnific.com/free-vector/animal-paw-feet-bone-pattern-background-design_1017-61396.jpg"
+      title: Animal paw feet and bone pattern background design
+      description: Download this free vector of Animal paw feet and bone pattern background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dog-pattern-2-pattern-designers.jpg
+    title: Doodle dog print funny dogs seamless pattern childish scandinavian drawing puppy fabric design with cartoon pets nowaday line animals vector background | Premium Vector
+    alt: Doodle dog print funny dogs seamless pattern childish scandinavian drawing puppy fabric design with cartoon pets nowaday line animals vector background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/doodle-dog-print-funny-dogs-seamless-pattern-childish-scandinavian-drawing-puppy-fabric-design-with-cartoon-pets-nowaday-line-animals-vector-background_43313866.htm"
+      image_url: "https://img.magnific.com/premium-vector/doodle-dog-print-funny-dogs-seamless-pattern-childish-scandinavian-drawing-puppy-fabric-design-with-cartoon-pets-nowaday-line-animals-vector-background_53562-20643.jpg"
+      title: Doodle dog print funny dogs seamless pattern childish scandinavian drawing puppy fabric design with cartoon pets nowaday line animals vector background | Premium Vector
+      description: Download this Premium vector of Doodle dog print funny dogs seamless pattern childish scandinavian drawing puppy fabric design with cartoon pets nowaday line animals vector background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dog-pattern-3-pattern-designers.jpg
+    title: Funny pet dog vector seamless pattern | Premium Vector
+    alt: Funny pet dog vector seamless pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/funny-pet-dog-vector-seamless-pattern_42524102.htm"
+      image_url: "https://img.magnific.com/premium-vector/funny-pet-dog-vector-seamless-pattern_278672-193.jpg"
+      title: Funny pet dog vector seamless pattern | Premium Vector
+      description: Download this Premium vector of Funny pet dog vector seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: dog-pattern-4-pattern-designers.jpg
+    title: Minimalist dog hand drawing pattern cute sketch for animal fabric doodle childish textile for clothes and nursery design funny pets faces trendy wallpaper vector tidy seamless background | Premium Vector
+    alt: Minimalist dog hand drawing pattern cute sketch for animal fabric doodle childish textile for clothes and nursery design funny pets faces trendy wallpaper vector tidy seamless background | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/minimalist-dog-hand-drawing-pattern-cute-sketch-animal-fabric-doodle-childish-textile-clothes-nursery-design-funny-pets-faces-trendy-wallpaper-vector-tidy-seamless-background_374213865.htm"
+      image_url: "https://img.magnific.com/premium-vector/minimalist-dog-hand-drawing-pattern-cute-sketch-animal-fabric-doodle-childish-textile-clothes-nursery-design-funny-pets-faces-trendy-wallpaper-vector-tidy-seamless-background_440128-2485.jpg"
+      title: Minimalist dog hand drawing pattern cute sketch for animal fabric doodle childish textile for clothes and nursery design funny pets faces trendy wallpaper vector tidy seamless background | Premium Vector
+      description: Download this Premium vector of Minimalist dog hand drawing pattern cute sketch for animal fabric doodle childish textile for clothes and nursery design funny pets faces trendy wallpaper vector tidy seamless background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Dog Pattern

@@ -1,137 +1,76 @@
 ---
+company_uid: 9af409ea-e744-48eb-8aba-171a48358aff
+schema_version: 1
 name: Movado
 slug: movado
-status: draft
-company_type: Holding Company
-location: United States
+publication_status: published
+origin: vault
+company_type: holding
 categories:
-  - Fashion
-type_slugs: []
-website: https://www.movado.com
-instagram: https://www.instagram.com/movado
-linkedin: https://www.linkedin.com/company/movado-group-inc/
-facebook: https://www.facebook.com/movado
-founded: "1881"
-headquarters: United States
-employees: 1,400
-revenue: $670M
-category_images:
-  - label: "Watches"
-    category: "watches"
-    image: "../../assets/companies/movado/cat/movado-watches.png"
-source_file: Movado.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-11
-updated: 2026-06-12
-pinterest: https://www.pinterest.com/movado
-youtube: https://www.youtube.com/MovadoGroup
-about_url: https://www.movado.com/us/en/movado-history/history-of-movado
-press_url: https://www.movado.com/collections/movado-bold/bold-verso
-contact_url: https://www.movado.com/us/en/ca-contact-us
-store_locator_url: https://www.movado.com/us/en/store-finder
-accessibility_url: https://www.movado.com/us/en/ca-website-accessiblity
-returns_url: https://www.movado.com/us/en/ca-returns
-retail_categories:
-  - Watches
-  - Home
-market_categories:
-  - Menswear
-collections: []
-profile_image: ../../assets/companies/movado/profile/company-logo.png
-profile_image_local: ../../assets/companies/movado/profile/company-logo.png
-company_logo_selected: ../../assets/companies/movado/profile/company-logo.png
-logo_image_selected: ../../assets/companies/movado/profile/company-logo.png
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/movado/profile/company-logo.png
+  - fashion
+  - home
+  - watches
+markets:
+  - menswear
+products:
+  - watches
+  - home
+hq_country_code: US
+location: United States
+founded_year: 1881
+employee_count_text: 1,400
+revenue_text: $670M
+website_url: https://www.movado.com
+instagram_url: https://www.instagram.com/movado
+linkedin_url: https://www.linkedin.com/company/movado-group-inc/
+facebook_url: https://www.facebook.com/movado
+pinterest_url: https://www.pinterest.com/movado
+youtube_url: https://www.youtube.com/MovadoGroup
+type_slugs:
+  - bauhaus-minimalism
+  - watch-dial-design
+  - botanical-dial-motif
 images:
-  profile:
-    - ../../assets/companies/movado/profile/company-logo.png
-trk_reviewed: false
-trk_notes: ""
-trk_new: ""
-trk_women: ""
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: ""
-trk_women_bottoms: ""
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: ""
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: ""
-trk_men: ""
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: ""
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: ""
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: https://www.movado.com/us/en/home
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: https://www.movado.com/shop-watches/series-800-2600198.html
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://www.flexoffers.com/affiliate-programs/movado-affiliate-program/
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/movado/profile/movado-logo.png
+    alt: Movado logo
+    width: 1188
+    height: 1188
+  gallery:
+    - title: Watches
+      alt: Movado watches collection
+      path: ../../assets/companies/movado/gallery/movado-watches.png
+      width: 1660
+      height: 1660
+      source:
+        title: Watches
+        page_url: https://www.movado.com/shop-watches/series-800-2600198.html
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Movado
 
 ## Profile Image
 
-![pd-profile|160](wiki/assets/companies/movado/profile/company-logo.png)
+![Profile](../../assets/companies/movado/profile/movado-logo.png)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Watches | <img src="../../assets/companies/movado/cat/movado-watches.png" width="160"> |
-
-
-Swiss-founded, American-operated luxury watch brand; founded 1881 in La Chaux-de-Fonds, Switzerland by Achille Ditesheim; best known for the Museum Watch (Nathan George Horwitt, 1947; Bauhaus single dot at 12, MoMA permanent collection 1960); operates Movado Group Inc., which holds own and licensed watch brands.
+| Title | Preview |
+|-------|---------|
+| Watches | ![](../../assets/companies/movado/gallery/movado-watches.png) |
 
 ## Overview
 
 Movado is a luxury watch brand founded in 1881 in La Chaux-de-Fonds, Switzerland, by Achille Ditesheim, from a Jewish watchmaker family active in several businesses in the area. The brand name — Esperanto for "always in motion" — was adopted around 1905 when the company had grown to more than 150 employees and renamed itself from L.A. & I. Ditesheim, Fabricants. In 1983 the brand was acquired by North American Watch Corporation, founded by Gedalio Grinberg; his son Efraim Grinberg is the current chairman and CEO of Movado Group, Inc. The company's defining commercial product is the Museum Watch, designed in 1947 by American industrial designer Nathan George Horwitt, whose Bauhaus-influenced minimalist dial entered the MoMA permanent collection in 1960 — the first watch dial to receive that distinction.
 
-## Company Profile
+The Museum Watch's design identity was established by industrial designer Nathan George Horwitt in 1947 and has been managed by Movado as a brand asset since the 1975 settlement. The Bauhaus-minimalist single-dot dial is the visual foundation of Movado's brand identity — distinct from fashion brand aesthetics in being rooted in a specific mid-century American design object. No named current creative director is documented in the source. Movado Group's licensed brand portfolio is creatively directed by the fashion brand licensors (Hugo Boss, Coach, Lacoste, Tommy Hilfiger, Calvin Klein), not by Movado. Efraim Grinberg (chairman/CEO) leads the group; Alan Chinich is documented as the North American president.
+
+## History
 
 - 1881: Achille Ditesheim founds the business in La Chaux-de-Fonds, Switzerland
 - 1892: Leopold, Achille, and Isidore Ditesheim combine their businesses to create L.A. & I. Ditesheim, Fabricants — one of the first modern watchmaking factories in the region after the watchmaking crisis of the 1870s
@@ -146,11 +85,7 @@ Movado is a luxury watch brand founded in 1881 in La Chaux-de-Fonds, Switzerland
 - November 2015: Movado Motion collection launched (Bellina, Museum Sport); powered by Manufacture Modules Technologies (MMT) MotionX technology platform
 - August 2018: Movado Group acquires MVMT (founded 2013) for more than $100 million
 
-## Market Position
-
-Movado Group operates in the accessible luxury and mid-market watch segment. The Museum Watch is the brand's most commercially significant product — a minimalist design with a 75-year history and an established cultural authority supported by MoMA institutional recognition. The single-dot dial, originally designed by Horwitt for any watch manufacturer willing to produce it, is now treated as Movado's defining brand asset and appears across many of the company's timepiece lines. The group's portfolio strategy layers the heritage Movado brand alongside licensed mainstream fashion brands (Coach, Hugo Boss, Lacoste, Tommy Hilfiger, Calvin Klein) and younger own-brands (MVMT, Olivia Burton) to cover multiple price tiers and demographic segments. The Piaget sale (1999) exited the ultra-luxury tier; the MVMT acquisition (2018) moved the group into the direct-to-consumer accessible watch market.
-
-## Products and Categories
+## Products
 
 **Own brands:**
 - **Movado** — the flagship luxury brand; Museum Watch as signature product; minimalist design identity; single dot at 12 o'clock across most lines; model names in Esperanto (Bela, Belamodo, Fiero, Brila, Linio, Verto)
@@ -164,6 +99,14 @@ Movado Group operates in the accessible luxury and mid-market watch segment. The
 
 **Former licensed/distributed brand:**
 - Piaget (sold to VLG North America February 1999, ~$30M)
+
+## Services
+
+Movado Group operates its own brand retail (Movado company stores, including documented examples in Delaware) alongside department store and multi-brand watch retail distribution. The licensing model is a significant revenue stream: Movado Group manufactures and distributes watches carrying the brands of Coach, Hugo Boss, Lacoste, Tommy Hilfiger, and Calvin Klein under licence. Piaget was previously distributed by Movado; the business was sold to VLG North America in February 1999 for approximately $30 million. MVMT, acquired in August 2018 for over $100 million, was built on a direct-to-consumer model — a structural shift from traditional watch retail that Movado Group is integrating into its portfolio operations.
+
+## Markets
+
+Movado Group operates in the accessible luxury and mid-market watch segment. The Museum Watch is the brand's most commercially significant product — a minimalist design with a 75-year history and an established cultural authority supported by MoMA institutional recognition. The single-dot dial, originally designed by Horwitt for any watch manufacturer willing to produce it, is now treated as Movado's defining brand asset and appears across many of the company's timepiece lines. The group's portfolio strategy layers the heritage Movado brand alongside licensed mainstream fashion brands (Coach, Hugo Boss, Lacoste, Tommy Hilfiger, Calvin Klein) and younger own-brands (MVMT, Olivia Burton) to cover multiple price tiers and demographic segments. The Piaget sale (1999) exited the ultra-luxury tier; the MVMT acquisition (2018) moved the group into the direct-to-consumer accessible watch market.
 
 ## Pattern and Surface Design Relevance
 
@@ -179,42 +122,9 @@ Movado's connection to surface pattern design lies primarily in watch dial desig
 
 **Time Sculpture (Philip Johnson, 1999)** — Movado commissioned architect Philip Johnson to design a public sculpture outside Lincoln Center, New York City. The work uses sculptural form to reference time as subject matter, connected to the brand's Esperanto identity ("always in motion").
 
-## Design Direction
+## Official Resources
 
-The Museum Watch's design identity was established by industrial designer Nathan George Horwitt in 1947 and has been managed by Movado as a brand asset since the 1975 settlement. The Bauhaus-minimalist single-dot dial is the visual foundation of Movado's brand identity — distinct from fashion brand aesthetics in being rooted in a specific mid-century American design object. No named current creative director is documented in the source. Movado Group's licensed brand portfolio is creatively directed by the fashion brand licensors (Hugo Boss, Coach, Lacoste, Tommy Hilfiger, Calvin Klein), not by Movado. Efraim Grinberg (chairman/CEO) leads the group; Alan Chinich is documented as the North American president.
-
-## Retail and Licensing Context
-
-Movado Group operates its own brand retail (Movado company stores, including documented examples in Delaware) alongside department store and multi-brand watch retail distribution. The licensing model is a significant revenue stream: Movado Group manufactures and distributes watches carrying the brands of Coach, Hugo Boss, Lacoste, Tommy Hilfiger, and Calvin Klein under licence. Piaget was previously distributed by Movado; the business was sold to VLG North America in February 1999 for approximately $30 million. MVMT, acquired in August 2018 for over $100 million, was built on a direct-to-consumer model — a structural shift from traditional watch retail that Movado Group is integrating into its portfolio operations.
-
-## Related Pattern Types
-
-- [[Bauhaus minimalism]] — Museum Watch dial (Horwitt, 1947) as a canonical example of Bauhaus surface reduction principles; elimination of decorative surface elements as a design practice; single-dot motif as brand identity
-- [[Watch dial design]] — surface design discipline; type, index, colour, material, and graphic composition applied to a circular surface field; Movado Museum Watch as the most institutionally recognised example in the 20th-century US design canon
-- [[Botanical dial motif]] — Olivia Burton brand; botanical and floral pattern elements applied to watch dial surfaces
-
-## Related Companies
-
-- [[Hugo Boss]] — licensed watch brand within Movado Group portfolio; Movado manufactures Hugo Boss-branded timepieces
-- [[Coach New York]] — licensed watch brand within Movado Group portfolio
-- [[wiki/companies/_ready/mvmt]] — acquired August 2018 ($100M+); direct-to-consumer accessible watch brand
-- [[wiki/companies/_staging/RFI/kering]] — Movado Group previously distributed Piaget watches (sold 1999); Piaget is now part of the Richemont group (note: the source does not establish Kering ownership; Piaget is Richemont-owned — do not link Kering here)
-- [[wiki/companies/_staging/holding/richemont]] — Piaget's parent company; Movado Group sold its Piaget business to VLG North America in 1999 for ~$30M
-
-## Source Notes
-
-- Source: Wikipedia, "Movado" (published 2005-04-24; last updated through 2023 per SEC 10-K footnote reference)
-- Founded 1881, La Chaux-de-Fonds, Switzerland confirmed from source
-- "Movado" = Esperanto for "always in motion" confirmed from source (source says "movement"; Wikipedia's Esperanto entry clarifies as "always in motion" — source text says "movement" exactly)
-- Museum Watch (Horwitt, 1947; MoMA 1960; settlement 1975 $29,000) confirmed from source
-- MVMT acquisition August 2018, $100M+ confirmed from source (TechCrunch + JCK citations)
-- Piaget sale to VLG North America, February 23, 1999, ~$30M confirmed from source
-- Licensed brands (Coach, Hugo Boss, Lacoste, Tommy Hilfiger, Calvin Klein) confirmed from source
-- Own brands (Movado, Concord, EBEL, Olivia Burton, MVMT) confirmed from source
-- Time Sculpture, Philip Johnson, Lincoln Center, May 19, 1999 confirmed from source
-- Movado Motion collection, November 2015 (Bellina, Museum Sport, MMT MotionX) confirmed from source
-- Gedalio Grinberg (Cuban-born, fled 1960) + Efraim Grinberg (chairman/CEO) confirmed from source
-- YAML location "United States" preserved and confirmed — described in source as "a luxury American watch brand"
-- YAML founded updated from blank to "1881"
-- YAML headquarters left blank — source does not document current US headquarters city/address
-
+- [About](https://www.movado.com/us/en/movado-history/history-of-movado)
+- [Press](https://www.movado.com/collections/movado-bold/bold-verso)
+- [Contact](https://www.movado.com/us/en/ca-contact-us)
+- [Store locator](https://www.movado.com/us/en/store-finder)

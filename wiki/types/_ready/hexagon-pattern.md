@@ -5,27 +5,22 @@ status: active
 type_group: geometric
 summary: Regular six-sided tiling derived from the honeycomb; one of only three regular tilings of the plane; commercially active in fashion, tile, home decor, and quilting
 motifs:
-  - hexagon
-  - honeycomb
-  - six-sided
+  - Geometric
 structures:
-  - tessellation
-  - all-over
-  - geometric-grid
+  - Tessellation
 styles:
-  - geometric
-  - structured
-  - natural
+  - Minimalist
 categories:
-  - geometric
-  - tessellation
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Hexagon Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/hexagon-pattern/hexagon-pattern-1-pattern-designers.jpg
@@ -56,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=GyQCUiplNXs
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: hexagon-pattern-1-pattern-designers.jpg
+    title: Creative white 3d hexagone background vector illustration
+    alt: Creative white 3d hexagone background vector illustration
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/creative-white-3d-hexagone-background-vector-illustration_35964709.htm"
+      image_url: "https://img.magnific.com/free-vector/creative-white-3d-hexagone-background-vector-illustration_1142-18088.jpg"
+      title: Creative white 3d hexagone background vector illustration
+      description: Download this free vector of Creative white 3d hexagone background vector illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hexagon-pattern-2-pattern-designers.jpg
+    title: Line style hexagon pattern geometric background design
+    alt: Line style hexagon pattern geometric background design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/line-style-hexagon-pattern-geometric-background-design_419084421.htm"
+      image_url: "https://img.magnific.com/free-vector/line-style-hexagon-pattern-geometric-background-design_1017-59973.jpg"
+      title: Line style hexagon pattern geometric background design
+      description: Download this free vector of Line style hexagon pattern geometric background design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hexagon-pattern-3-pattern-designers.jpg
+    title: Pattern png transparent background retro geometric honeycomb shape design | Premium Photo
+    alt: Pattern png transparent background retro geometric honeycomb shape design | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/pattern-png-transparent-background-retro-geometric-honeycomb-shape-design_414509367.htm"
+      image_url: "https://img.magnific.com/premium-photo/pattern-png-transparent-background-retro-geometric-honeycomb-shape-design_53876-1047301.jpg"
+      title: Pattern png transparent background retro geometric honeycomb shape design | Premium Photo
+      description: Download this Premium photo of Pattern png transparent background retro geometric honeycomb shape design and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: hexagon-pattern-4-pattern-designers.jpg
+    title: White hexagonal patterned background vector
+    alt: White hexagonal patterned background vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/white-hexagonal-patterned-background-vector_24382812.htm"
+      image_url: "https://img.magnific.com/free-vector/white-hexagonal-patterned-background-vector_53876-161541.jpg"
+      title: White hexagonal patterned background vector
+      description: Download this free vector of White hexagonal patterned background vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Hexagon Pattern

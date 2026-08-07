@@ -1,0 +1,72 @@
+{
+  "cleaner": "print_and_pattern",
+  "rules_applied": [
+    "emit_labeled_metadata",
+    "extract_company",
+    "extract_location",
+    "extract_emails",
+    "extract_employment",
+    "structure_editorial_headings",
+    "tidy_whitespace"
+  ],
+  "sections_removed": [],
+  "sections_omitted": [],
+  "urls_decoded": [],
+  "warnings": [
+    "ocr_confidence_unknown"
+  ],
+  "location_fields": {
+    "street": "",
+    "city": "Preston",
+    "state": "",
+    "postcode": "",
+    "country": "United Kingdom",
+    "location": "Preston, United Kingdom"
+  },
+  "benefits_extracted": [],
+  "skills_extracted": [
+    "Sampling"
+  ],
+  "software_extracted": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Creative Suite",
+    "AVA"
+  ],
+  "experience_extracted": "Mid-Weight",
+  "summary_generated": true,
+  "promotional_sections_removed": [],
+  "company_profile_trimmed": false,
+  "images_removed": 0,
+  "platform_metadata_removed": 6,
+  "empty_sections_removed": 0,
+  "company_profile_shortened": false,
+  "location_normalised": false,
+  "ocr_confidence": "unknown",
+  "metadata_merged": false,
+  "jobs_detected": "single",
+  "jobs_detected_count": 1,
+  "contacts_extracted": [
+    "EmilyArch@iliv.co.uk"
+  ],
+  "closing_date_extracted": "",
+  "images_ignored": 0,
+  "editorial_sections_produced": [
+    "Requirements"
+  ],
+  "editorial_title_selected": "Textiles Designer",
+  "company_identity_source": "advert_branding",
+  "filename_fallback_used": false,
+  "employment_mapping": "Full-time",
+  "skills_expanded": [
+    "Sampling"
+  ],
+  "software_expanded": [
+    "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Creative Suite",
+    "AVA"
+  ]
+}

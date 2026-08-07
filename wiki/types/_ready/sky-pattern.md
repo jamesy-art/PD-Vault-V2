@@ -5,34 +5,22 @@ status: active
 type_group: novelty
 summary: Surface pattern type using sky-derived motifs — clouds, stars, constellations, sun, moon, and celestial imagery — for textile and wallpaper design across children's, home, and fashion markets.
 motifs:
-  - clouds
-  - stars
-  - constellations
-  - sun
-  - moon
-  - celestial
+  - Celestial
 structures:
-  - tossed
-  - full-drop
-  - half-drop
+  - Scatter
 styles:
-  - novelty
-  - conversational
-  - celestial
-  - children
-  - dreamy
+  - Kawaii
 categories:
-  - novelty
-  - nature
-  - celestial
-  - children
+  - Nature
+colour_family: Blue
+technique: []
 source_count: 1
 source_files:
   - Sky Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/sky-pattern/sky-pattern-1-pattern-designers.jpg
@@ -63,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=WaBcx20QDbs&t=132s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: sky-pattern-1-pattern-designers.jpg
+    title: Abstract blue sky background
+    alt: Abstract blue sky background
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/abstract-blue-sky-background_37272502.htm"
+      image_url: "https://img.magnific.com/free-vector/abstract-blue-sky-background_24100-1580.jpg"
+      title: Abstract blue sky background
+      description: Download this free vector of Abstract blue sky background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sky-pattern-2-pattern-designers.jpg
+    title: Abstract illustration pattern clouds sky design dreamy | Premium Photo
+    alt: Abstract illustration pattern clouds sky design dreamy | Premium Photo
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-photo/abstract-illustration-pattern-clouds-sky-design-dreamy_183938766.htm"
+      image_url: "https://img.magnific.com/premium-photo/abstract-illustration-pattern-clouds-sky-design-dreamy_955379-13562.jpg"
+      title: Abstract illustration pattern clouds sky design dreamy | Premium Photo
+      description: Download this Premium photo of Abstract illustration pattern clouds sky design dreamy and explore millions of professional stock photos on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sky-pattern-3-pattern-designers.jpg
+    title: Cartoon sky pattern | Premium Vector
+    alt: Cartoon sky pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/cartoon-sky-pattern_62338224.htm"
+      image_url: "https://img.magnific.com/premium-vector/cartoon-sky-pattern_129696-532.jpg"
+      title: Cartoon sky pattern | Premium Vector
+      description: Download this Premium vector of Cartoon sky pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: sky-pattern-4-pattern-designers.jpg
+    title: Handdrawn windy sky pattern_blue | Premium Vector
+    alt: Handdrawn windy sky pattern_blue | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/handdrawn-windy-sky-pattern-blue_51591381.htm"
+      image_url: "https://img.magnific.com/premium-vector/handdrawn-windy-sky-pattern-blue_211975-3035.jpg"
+      title: Handdrawn windy sky pattern_blue | Premium Vector
+      description: Download this Premium vector of Handdrawn windy sky pattern_blue and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Sky Pattern

@@ -4,34 +4,23 @@ slug: pineapple-pattern
 status: active
 type_group: novelty
 summary: Surface pattern using pineapple motifs and the traditional crochet/lace pineapple stitch; associated with hospitality, tropical aesthetics, and summer; commercially active in fashion, homeware, and resort design
-motifs:
-  - pineapple
-  - pineapple stitch
-  - tropical fruit
-  - crochet motif
-  - crown leaves
+motifs: []
 structures:
-  - tossed
-  - all-over
-  - half-drop
-  - stripe
+  - Scatter
+  - Half-Drop
 styles:
-  - tropical
-  - resort
-  - summer
-  - craft-heritage
+  - Tropical
 categories:
-  - fruit-pattern
-  - novelty
-  - tropical
-  - craft
+  - Food
+colour_family: Yellow
+technique: []
 source_count: 1
 source_files:
   - Pineapple Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pineapple-pattern/pineapple-pattern-1-pattern-designers.jpg
@@ -62,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=RIKYQnC8Zcc
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pineapple-pattern-1-pattern-designers.jpg
+    title: Flat design summer duotone pattern
+    alt: Flat design summer duotone pattern
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-design-summer-duotone-pattern_28345162.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-design-summer-duotone-pattern_23-2149459813.jpg"
+      title: Flat design summer duotone pattern
+      description: Download this free vector of Flat design summer duotone pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pineapple-pattern-2-pattern-designers.jpg
+    title: Pineapple fruit memphis style
+    alt: Pineapple fruit memphis style
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/pineapple-fruit-memphis-style_4520438.htm"
+      image_url: "https://img.magnific.com/free-vector/pineapple-fruit-memphis-style_53876-93582.jpg"
+      title: Pineapple fruit memphis style
+      description: Download this free vector of Pineapple fruit memphis style and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pineapple-pattern-3-pattern-designers.jpg
+    title: Pineapple fruits pattern illustration design | AI-generated image
+    alt: Pineapple fruits pattern illustration design | AI-generated image
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-ai-image/pineapple-fruits-pattern-illustration-design_380602878.htm"
+      image_url: "https://img.magnific.com/free-photo/pineapple-fruits-pattern-illustration-design_23-2151878600.jpg"
+      title: Pineapple fruits pattern illustration design | AI-generated image
+      description: Download this free AI-generated image about Pineapple fruits pattern illustration design, and discover more than 150 million professional graphic resources on Magnific
+    affiliate:
+      enabled: false
+      url: null
+  - path: pineapple-pattern-4-pattern-designers.jpg
+    title: Realistic pineapple seamless pattern
+    alt: Realistic pineapple seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/realistic-pineapple-seamless-pattern_5975368.htm"
+      image_url: "https://img.magnific.com/free-vector/realistic-pineapple-seamless-pattern_1284-22139.jpg"
+      title: Realistic pineapple seamless pattern
+      description: Download this free vector of Realistic pineapple seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Pineapple Pattern

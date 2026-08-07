@@ -7,14 +7,17 @@ summary: ""
 motifs: []
 structures: []
 styles: []
-categories: []
+categories:
+  - Food
+colour_family: Red
+technique: []
 source_count: 1
 source_files:
   - pizza-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pizza-pattern/pizza-pattern-1-pattern-designers.jpg
@@ -45,6 +48,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=zQvis9qif4c
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pizza-pattern-1-pattern-designers.jpg
+    title: Fast food pattern with vector line icons of pizza restaurant menu background | Premium Vector
+    alt: Fast food pattern with vector line icons of pizza restaurant menu background | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/fast-food-pattern-with-vector-line-icons-pizza-restaurant-menu-background_418817514.htm"
+      image_url: "https://img.magnific.com/premium-vector/fast-food-pattern-with-vector-line-icons-pizza-restaurant-menu-background_1254296-6858.jpg"
+      title: Fast food pattern with vector line icons of pizza restaurant menu background | Premium Vector
+      description: Download this Premium vector of Fast food pattern with vector line icons of pizza restaurant menu background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pizza-pattern-2-pattern-designers.jpg
+    title: Hand drawn food pattern background
+    alt: Hand drawn food pattern background
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-food-pattern-background_72159777.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-food-pattern-background_52683-142287.jpg"
+      title: Hand drawn food pattern background
+      description: Download this free vector of Hand drawn food pattern background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pizza-pattern-3-pattern-designers.jpg
+    title: Seamless pattern with pizza, herbs, mushrooms, olives.  illustration | Premium Vector
+    alt: Seamless pattern with pizza, herbs, mushrooms, olives.  illustration | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-pizza-herbs-mushrooms-olives-illustration_9190870.htm"
+      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-pizza-herbs-mushrooms-olives-illustration_124137-1028.jpg"
+      title: Seamless pattern with pizza, herbs, mushrooms, olives.  illustration | Premium Vector
+      description: Download this Premium vector of Seamless pattern with pizza, herbs, mushrooms, olives.  illustration and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pizza-pattern-4-pattern-designers.jpg
+    title: Seamless pizza ingredients
+    alt: Seamless pizza ingredients
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/seamless-pizza-ingredients_1389751.htm"
+      image_url: "https://img.magnific.com/free-vector/seamless-pizza-ingredients_1176-269.jpg"
+      title: Seamless pizza ingredients
+      description: Download this free vector of Seamless pizza ingredients and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # pizza-pattern

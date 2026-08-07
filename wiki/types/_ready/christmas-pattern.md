@@ -4,17 +4,25 @@ slug: christmas-pattern
 status: draft
 type_group: seasonal
 summary: ""
-motifs: []
-structures: []
-styles: []
-categories: []
+motifs:
+  - Novelty
+structures:
+  - Scatter
+  - Check
+styles:
+  - Festive
+  - Tartan
+categories:
+  - Seasonal
+colour_family: Red
+technique: []
 source_count: 1
 source_files:
   - Christmas Pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/christmas-pattern/christmas-pattern-1-pattern-designers.jpg
@@ -45,6 +53,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=PBo6PKV84MM
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: christmas-pattern-1-pattern-designers.jpg
+    title: Flat christmas pattern design with clothing
+    alt: Flat christmas pattern design with clothing
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-christmas-pattern-design-with-clothing_67220863.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-christmas-pattern-design-with-clothing_23-2150805795.jpg"
+      title: Flat christmas pattern design with clothing
+      description: Download this free vector of Flat christmas pattern design with clothing and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: christmas-pattern-2-pattern-designers.jpg
+    title: Flat christmas season pattern design
+    alt: Flat christmas season pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/flat-christmas-season-pattern-design_34075258.htm"
+      image_url: "https://img.magnific.com/free-vector/flat-christmas-season-pattern-design_23-2149900381.jpg"
+      title: Flat christmas season pattern design
+      description: Download this free vector of Flat christmas season pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: christmas-pattern-3-pattern-designers.jpg
+    title: Hand drawn christmas pattern design background. vector illustration. | Premium Vector
+    alt: Hand drawn christmas pattern design background. vector illustration. | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/hand-drawn-christmas-pattern-design-background-vector-illustration_20212804.htm"
+      image_url: "https://img.magnific.com/premium-vector/hand-drawn-christmas-pattern-design-background-vector-illustration_518299-2003.jpg"
+      title: Hand drawn christmas pattern design background. vector illustration. | Premium Vector
+      description: Download this Premium vector of Hand drawn christmas pattern design background. vector illustration. and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: christmas-pattern-4-pattern-designers.jpg
+    title: Winter seamless pattern with mistletoe, snowflakes and text merry christmas as cover or wallpaper | Premium Vector
+    alt: Winter seamless pattern with mistletoe, snowflakes and text merry christmas as cover or wallpaper | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/winter-seamless-pattern-with-mistletoe-snowflakes-text-merry-christmas-as-cover-wallpaper_32097089.htm"
+      image_url: "https://img.magnific.com/premium-vector/winter-seamless-pattern-with-mistletoe-snowflakes-text-merry-christmas-as-cover-wallpaper_649709-347.jpg"
+      title: Winter seamless pattern with mistletoe, snowflakes and text merry christmas as cover or wallpaper | Premium Vector
+      description: Download this Premium vector of Winter seamless pattern with mistletoe, snowflakes and text merry christmas as cover or wallpaper and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Christmas Pattern

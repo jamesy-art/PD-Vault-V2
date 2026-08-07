@@ -5,32 +5,22 @@ status: active
 type_group: novelty
 summary: Novelty surface pattern using stylised pig motifs — snouts, cartoon pigs, piglets — in repeating or tossed all-over arrangements; commercially active in children's products, gifting, and novelty stationery
 motifs:
-  - pig
-  - piglet
-  - snout
-  - curly tail
-  - farm animal
+  - Animal
 structures:
-  - tossed
-  - all-over
-  - scatter
+  - Scatter
 styles:
-  - novelty
-  - conversational
-  - cartoon
-  - children's
+  - Kawaii
 categories:
-  - novelty
-  - animal-pattern
-  - farm-pattern
-  - children's
+  - Animal
+colour_family: Pink
+technique: []
 source_count: 1
 source_files:
   - Pig Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/pig-pattern/pig-pattern-1-pattern-designers.jpg
@@ -61,6 +51,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=pfdzh7_qAfQ
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: pig-pattern-1-pattern-designers.jpg
+    title: Charming cartoon animals for decorative backgrounds | Premium Vector
+    alt: Charming cartoon animals for decorative backgrounds | Premium Vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/charming-cartoon-animals-decorative-backgrounds_382537655.htm"
+      image_url: "https://img.magnific.com/premium-vector/charming-cartoon-animals-decorative-backgrounds_621619-889.jpg"
+      title: Charming cartoon animals for decorative backgrounds | Premium Vector
+      description: Download this Premium vector of Charming cartoon animals for decorative backgrounds and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pig-pattern-2-pattern-designers.jpg
+    title: Cute little pigs pattern
+    alt: Cute little pigs pattern
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/cute-little-pigs-pattern_1380690.htm"
+      image_url: "https://img.magnific.com/free-vector/cute-little-pigs-pattern_8365-51.jpg"
+      title: Cute little pigs pattern
+      description: Download this free vector of Cute little pigs pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pig-pattern-3-pattern-designers.jpg
+    title: Cute pig animal seamless pattern kids and baby pattern | Premium Vector
+    alt: Cute pig animal seamless pattern kids and baby pattern | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/cute-pig-animal-seamless-pattern-kids-baby-pattern_39925516.htm"
+      image_url: "https://img.magnific.com/premium-vector/cute-pig-animal-seamless-pattern-kids-baby-pattern_513640-1974.jpg"
+      title: Cute pig animal seamless pattern kids and baby pattern | Premium Vector
+      description: Download this Premium vector of Cute pig animal seamless pattern kids and baby pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: pig-pattern-4-pattern-designers.jpg
+    title: Vector seamless pattern with cute pigs piglets | Premium Vector
+    alt: Vector seamless pattern with cute pigs piglets | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vector-seamless-pattern-with-cute-pigs-piglets_27585842.htm"
+      image_url: "https://img.magnific.com/premium-vector/vector-seamless-pattern-with-cute-pigs-piglets_566075-490.jpg"
+      title: Vector seamless pattern with cute pigs piglets | Premium Vector
+      description: Download this Premium vector of Vector seamless pattern with cute pigs piglets and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Pig Pattern

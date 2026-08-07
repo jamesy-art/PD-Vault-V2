@@ -1,163 +1,132 @@
 ---
+company_uid: 724d8069-82ea-4e1a-8398-62b59da7e81a
+schema_version: 1
 name: Takko
 slug: takko
-status: draft
-company_type: Retailer
-location: ""
+publication_status: published
+origin: vault
+company_type: retailer
 categories:
-  - Fashion
-type_slugs: []
-website: https://www.takko.com
-instagram: https://www.instagram.com/takko_fashion
-linkedin: https://www.linkedin.com/company/takko-holding-gmbh/
-facebook: https://www.facebook.com/TakkoFashionDE
-founded: "1982"
-headquarters: Germany
-employees: 18,000
-revenue: $1.3B
-category_images:
-  - label: "Boys"
-    category: "boys"
-    image: "../../assets/companies/takko/cat/takko-boys.jpg"
-  - label: "Girls"
-    category: "girls"
-    image: "../../assets/companies/takko/cat/takko-girls.jpg"
-  - label: "Mens"
-    category: "mens"
-    image: "../../assets/companies/takko/cat/takko-mens.jpg"
-  - label: "Womens"
-    category: "womens"
-    image: "../../assets/companies/takko/cat/takko-womens.jpg"
-source_file: Takko.md
-source_count: 1
-image_status: has_profile_image
-enrichment_status: enriched
-created: 2026-06-10
-updated: 2026-06-11
-contact_url: https://www.takko.com/nl-be/contact-us.html
-store_locator_url: https://www.takko.com/nl-be/stores
-tiktok: https://www.tiktok.com/@takko_fashion
-youtube: https://www.youtube.com/channel/UCIQtydIs2bdxhAASnGzV2zA
-retail_categories:
-  - Clothing
-  - Tops
-  - Bottoms
-  - Matching Sets
-  - Accessories
-  - Swimwear
-  - Lingerie
-  - Kidswear
-market_categories:
-  - Womenswear
-  - Menswear
-  - Kidswear
-collections: []
-profile_image: ../../assets/companies/takko/profile/company-logo.svg
-profile_image_local: ../../assets/companies/takko/profile/company-logo.svg
-company_logo_selected: ../../assets/companies/takko/profile/company-logo.svg
-logo_image_selected: ../../assets/companies/takko/profile/company-logo.svg
-logo_reviewed: "true"
-profile_images:
-  - ../../assets/companies/takko/profile/company-logo.svg
+  - accessories
+  - fashion
+  - kids
+  - retail
+markets:
+  - womenswear
+  - menswear
+  - kidswear
+products:
+  - apparel
+  - accessories
+  - swimwear
+  - lingerie
+  - kidswear
+hq_country_code: DE
+location: Germany
+founded_year: 1982
+employee_count_text: 18,000
+revenue_text: $1.3B
+website_url: https://www.takko.com
+instagram_url: https://www.instagram.com/takko_fashion
+linkedin_url: https://www.linkedin.com/company/takko-holding-gmbh/
+facebook_url: https://www.facebook.com/TakkoFashionDE
+tiktok_url: https://www.tiktok.com/@takko_fashion
+youtube_url: https://www.youtube.com/channel/UCIQtydIs2bdxhAASnGzV2zA
+type_slugs:
+  - seasonal-fashion-print
+  - childrens-fashion-graphic
+  - casual-basics-print
 images:
-  profile:
-    - ../../assets/companies/takko/profile/company-logo.svg
-trk_reviewed: false
-trk_notes: ""
-trk_new: ""
-trk_women: https://www.takko.com/nl-be/special-offers-women
-trk_women_new: ""
-trk_women_clothing: ""
-trk_women_dresses: ""
-trk_women_tops: https://www.takko.com/nl-be/dames/blouses
-trk_women_bottoms: https://www.takko.com/nl-be/dames/jeans
-trk_women_outerwear: ""
-trk_women_activewear: ""
-trk_women_swimwear: https://www.takko.com/nl-be/promotion/promotion-dames/swimwear
-trk_women_shoes: ""
-trk_women_bags: ""
-trk_women_acc: https://www.takko.com/nl-be/promotion/promotion-dames/accessories
-trk_men: ""
-trk_men_new: ""
-trk_men_clothing: ""
-trk_men_tops: ""
-trk_men_bottoms: ""
-trk_men_outerwear: ""
-trk_men_activewear: ""
-trk_men_swimwear: ""
-trk_men_shoes: ""
-trk_men_bags: ""
-trk_men_acc: ""
-trk_girls: ""
-trk_girls_new: ""
-trk_girls_clothing: ""
-trk_girls_dresses: ""
-trk_girls_tops: ""
-trk_girls_bottoms: ""
-trk_girls_shoes: ""
-trk_boys: ""
-trk_boys_new: ""
-trk_boys_clothing: ""
-trk_boys_tops: ""
-trk_boys_bottoms: ""
-trk_boys_shoes: ""
-trk_baby_girls: https://www.takko.com/nl-be/promotion/promotion-baby/baby-girls-56-92
-trk_baby_girls_new: ""
-trk_baby_girls_clothing: ""
-trk_baby_boys: https://www.takko.com/nl-be/promotion/promotion-baby/baby-boys-56-92
-trk_baby_boys_new: ""
-trk_baby_boys_clothing: ""
-trk_home: https://www.takko.com/nl-be/baby/homepage
-trk_home_new: ""
-trk_home_bedding: ""
-trk_home_wallpaper: ""
-trk_home_fabric: ""
-trk_jewelry: ""
-trk_watches: ""
-trk_eyewear: ""
-trk_beauty: ""
-trk_fragrance: ""
-aff_has_program: ""
-aff_network: https://commerce.sovrn.com/merchants/127722/takko-fashion-affiliate-program
-aff_program_url: ""
-aff_joined: false
-aff_id: ""
-aff_default_url: ""
-aff_notes: ""
+  logo:
+    path: ../../assets/companies/takko/profile/takko-logo.svg
+    alt: Takko logo
+    width: 1736
+    height: 567
+  gallery:
+    - title: Boys
+      alt: Takko boys collection
+      path: ../../assets/companies/takko/gallery/takko-boys.jpg
+      width: 1556
+      height: 2000
+      source:
+        title: null
+        page_url: null
+      affiliate:
+        enabled: false
+        url: null
+    - title: Girls
+      alt: Takko girls collection
+      path: ../../assets/companies/takko/gallery/takko-girls.jpg
+      width: 1556
+      height: 2000
+      source:
+        title: null
+        page_url: null
+      affiliate:
+        enabled: false
+        url: null
+    - title: Mens
+      alt: Takko mens collection
+      path: ../../assets/companies/takko/gallery/takko-mens.jpg
+      width: 640
+      height: 823
+      source:
+        title: null
+        page_url: null
+      affiliate:
+        enabled: false
+        url: null
+    - title: Womens
+      alt: Takko womens collection
+      path: ../../assets/companies/takko/gallery/takko-womens.jpg
+      width: 640
+      height: 823
+      source:
+        title: Womens
+        page_url: https://www.takko.com/nl-be/special-offers-women
+      affiliate:
+        enabled: false
+        url: null
+updated: '2026-08-02'
+enrichment_status: enriched
 ---
+
 # Takko
 
 ## Profile Image
 
-![pd-profile|160](wiki/assets/companies/takko/profile/company-logo.svg)
+![Profile](../../assets/companies/takko/profile/takko-logo.svg)
 
-## Category Images
+## Gallery Images
 
-| Category | Image |
-|---|---|
-| Boys | <img src="../../assets/companies/takko/cat/takko-boys.jpg" width="160"> |
-| Girls | <img src="../../assets/companies/takko/cat/takko-girls.jpg" width="160"> |
-| Mens | <img src="../../assets/companies/takko/cat/takko-mens.jpg" width="160"> |
-| Womens | <img src="../../assets/companies/takko/cat/takko-womens.jpg" width="160"> |
-
-
-European discount fashion retailer founded 1982; approximately 2,000 stores across 17 European countries; approximately 18,000 employees; family-oriented value fashion for women, men, and children.
+| Title | Preview |
+|-------|---------|
+| Boys | ![](../../assets/companies/takko/gallery/takko-boys.jpg) |
+| Girls | ![](../../assets/companies/takko/gallery/takko-girls.jpg) |
+| Mens | ![](../../assets/companies/takko/gallery/takko-mens.jpg) |
+| Womens | ![](../../assets/companies/takko/gallery/takko-womens.jpg) |
 
 ## Overview
 
 Takko Fashion is a European discount fashion retailer that has operated since opening its first store in 1982. The company has grown into one of the most prominent discount fashion businesses in Europe, operating approximately 2,000 stores across 17 European countries with approximately 18,000 employees. The product range covers the full family wardrobe — baby clothes, children's fashion, women's and men's clothing — positioning itself as an affordable all-round fashion provider. Takko operates through own-store retail, an online shop, and social media, linked through an omnichannel strategy. Source material is limited to the company's corporate "About" page.
 
-## Company Profile
+No design director or documented design philosophy is identified in source material. Takko's creative direction follows standard discount fashion retail cadence — trend-responsive, family-appropriate, commercially accessible. The company's stated emphasis is on price-quality ratio and ecological responsibility rather than aesthetic leadership.
+
+## History
 
 Takko Fashion was founded in 1982. The company describes itself as a "Smart Discounter" serving customers across 17 European markets. Its operational model combines a dense store network — designed to place stores within a few kilometres of its customer base — with online shopping and social media engagement through an omnichannel retail approach. The company positions ecological and social responsibility as core values alongside affordable pricing. Private label brands are central to the product proposition; the company describes "strong private brands" as enabling quality and responsible production at value price points.
 
-## Market Position
-
-Takko operates at the value end of the European fashion retail market, competing directly with other discount and budget fashion chains. The company's competitive positioning rests on breadth of family coverage (baby through adult), geographic density in European markets, and private label sourcing that enables price control. Omnichannel integration — linking physical stores, online commerce, and social media — is a stated strategic priority.
-
-## Products and Categories
+## Products
 
 Full family fashion range: womenswear, menswear, baby, and children's clothing, including underwear and accessories. Product categories span trendy highlights, casual basics, sporty everyday wear, plus-size fashion, swimwear, lingerie, and matching sets. All product is sold under Takko's private labels.
+
+## Services
+
+Takko operates exclusively through its own stores and owned e-commerce. No licensing programme or franchise model is documented in source material. The company's omnichannel approach links physical and digital channels for a seamless purchasing journey. Ecological and social responsibility are stated corporate values, with references to responsibly produced fashion at affordable prices.
+
+## Markets
+
+Takko operates at the value end of the European fashion retail market, competing directly with other discount and budget fashion chains. The company's competitive positioning rests on breadth of family coverage (baby through adult), geographic density in European markets, and private label sourcing that enables price control. Omnichannel integration — linking physical stores, online commerce, and social media — is a stated strategic priority.
 
 ## Pattern and Surface Design Relevance
 
@@ -170,26 +139,7 @@ As a high-volume European discount fashion retailer operating across 17 countrie
 
 No documented in-house design team, design director, or supplier relationships identifiable from source material.
 
-## Design Direction
+## Official Resources
 
-No design director or documented design philosophy is identified in source material. Takko's creative direction follows standard discount fashion retail cadence — trend-responsive, family-appropriate, commercially accessible. The company's stated emphasis is on price-quality ratio and ecological responsibility rather than aesthetic leadership.
-
-## Retail and Licensing Context
-
-Takko operates exclusively through its own stores and owned e-commerce. No licensing programme or franchise model is documented in source material. The company's omnichannel approach links physical and digital channels for a seamless purchasing journey. Ecological and social responsibility are stated corporate values, with references to responsibly produced fashion at affordable prices.
-
-## Related Pattern Types
-
-- [[Seasonal fashion print]]
-- [[Children's fashion graphic]]
-- [[Casual basics print]]
-
-## Related Companies
-
-- [[wiki/companies/_ready/primark]]
-- [[H&M]]
-
-## Source Notes
-
-- Source: Takko corporate website / Takko.md (accessed 2026-06-10). Source material is limited to the company's About page; no financial, historical, or design-specific data is available from this source.
-
+- [Contact](https://www.takko.com/nl-be/contact-us.html)
+- [Store locator](https://www.takko.com/nl-be/stores)

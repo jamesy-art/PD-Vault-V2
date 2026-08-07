@@ -5,16 +5,21 @@ status: draft
 type_group: structure
 summary: ""
 motifs: []
-structures: []
-styles: []
-categories: []
+structures:
+  - Stripe
+styles:
+  - Nautical
+categories:
+  - Geometric
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - Stripe Pattern.md
 image_status: has_profile_image
 enrichment_status: enriched
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/stripe-pattern/stripe-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=WQvWsW1fvFM&t=9s
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: stripe-pattern-1-pattern-designers.jpg
+    title: Black striped background, simple pattern in white vector
+    alt: Black striped background, simple pattern in white vector
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/black-striped-background-simple-pattern-white-vector_19597409.htm"
+      image_url: "https://img.magnific.com/free-vector/black-striped-background-simple-pattern-white-vector_53876-151306.jpg"
+      title: Black striped background, simple pattern in white vector
+      description: Download this free vector of Black striped background, simple pattern in white vector and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stripe-pattern-2-pattern-designers.jpg
+    title: Hand painted background with watercolour stripes design
+    alt: Hand painted background with watercolour stripes design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-painted-background-with-watercolour-stripes-design_412809498.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-painted-background-with-watercolour-stripes-design_1048-21099.jpg"
+      title: Hand painted background with watercolour stripes design
+      description: Download this free vector of Hand painted background with watercolour stripes design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stripe-pattern-3-pattern-designers.jpg
+    title: Retro colour abstract diagonal lines background
+    alt: Retro colour abstract diagonal lines background
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/retro-colour-abstract-diagonal-lines-background_73336418.htm"
+      image_url: "https://img.magnific.com/free-vector/retro-colour-abstract-diagonal-lines-background_78370-3187.jpg"
+      title: Retro colour abstract diagonal lines background
+      description: Download this free vector of Retro colour abstract diagonal lines background and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: stripe-pattern-4-pattern-designers.jpg
+    title: Vector seamless abstract vertical stripes texture uneven streaks of paint hand drawing | Premium Vector
+    alt: Vector seamless abstract vertical stripes texture uneven streaks of paint hand drawing | Premium Vector
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/premium-vector/vector-seamless-abstract-vertical-stripes-texture-uneven-streaks-paint-hand-drawing_29967880.htm"
+      image_url: "https://img.magnific.com/premium-vector/vector-seamless-abstract-vertical-stripes-texture-uneven-streaks-paint-hand-drawing_407307-3037.jpg"
+      title: Vector seamless abstract vertical stripes texture uneven streaks of paint hand drawing | Premium Vector
+      description: Download this Premium vector of Vector seamless abstract vertical stripes texture uneven streaks of paint hand drawing and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # Stripe Pattern

@@ -4,17 +4,22 @@ slug: spaceship-pattern
 status: draft
 type_group: general
 summary: ""
-motifs: []
+motifs:
+  - Celestial
+  - Novelty
 structures: []
 styles: []
-categories: []
+categories:
+  - Novelty
+colour_family: Multicolour
+technique: []
 source_count: 1
 source_files:
   - spaceship-pattern.md
 image_status: has_profile_image
 enrichment_status: needs_claude
 created: 2026-07-17
-updated: 2026-07-17
+updated: 2026-08-03
 images:
   editorial:
     - ../../../assets/types/spaceship-pattern/spaceship-pattern-1-pattern-designers.jpg
@@ -45,6 +50,67 @@ learn_more_britannica: ""
 learn_more_youtube_1: https://www.youtube.com/watch?v=FXvNVSKIKH4
 learn_more_youtube_2: ""
 learn_more_youtube_3: ""
+gallery_images:
+  - path: spaceship-pattern-1-pattern-designers.jpg
+    title: Hand drawn space pattern design
+    alt: Hand drawn space pattern design
+    role: gallery
+    featured: true
+    sort_order: 1
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_43582946.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150447099.jpg"
+      title: Hand drawn space pattern design
+      description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: spaceship-pattern-2-pattern-designers.jpg
+    title: Hand drawn space pattern design
+    alt: Hand drawn space pattern design
+    role: gallery
+    featured: false
+    sort_order: 2
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184790.htm"
+      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150493449.jpg"
+      title: Hand drawn space pattern design
+      description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: spaceship-pattern-3-pattern-designers.jpg
+    title: Space adventure seamless pattern
+    alt: Space adventure seamless pattern
+    role: gallery
+    featured: false
+    sort_order: 3
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/space-adventure-seamless-pattern_359359632.htm"
+      image_url: "https://img.magnific.com/free-vector/space-adventure-seamless-pattern_1308-175057.jpg"
+      title: Space adventure seamless pattern
+      description: Download this free vector of Space adventure seamless pattern and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
+  - path: spaceship-pattern-4-pattern-designers.jpg
+    title: Space pattern design
+    alt: Space pattern design
+    role: gallery
+    featured: false
+    sort_order: 4
+    source:
+      provider: magnific
+      page_url: "https://www.magnific.com/free-vector/space-pattern-design_1013704.htm"
+      image_url: "https://img.magnific.com/free-vector/space-pattern-design_1284-850.jpg"
+      title: Space pattern design
+      description: Download this free vector of Space pattern design and explore millions of professional vectors on Magnific.
+    affiliate:
+      enabled: false
+      url: null
 ---
 
 # spaceship-pattern
