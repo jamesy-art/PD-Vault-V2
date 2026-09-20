@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 548
 ---
 # Heather Raney
 
@@ -71,7 +72,7 @@ Heather Raney is a print designer and illustrator based in the mountains of Colo
 
 ## Studio Style and Aesthetic
 
-The portfolio shows a consistent hand-painted sensibility applied across a wide motif range: gestural, brushy tropical florals in both warm and cool palettes, a tonal blue-on-blue watercolor floral, a folk-inflected hummingbird-and-floral print on a dotted ground, whimsical vegetable-and-wildflower conversationals (tomatoes, carrots, daffodils), and a jewel-toned paisley — reading as global-inspired and botanically grounded rather than tied to one motif.
+The portfolio shows a consistent hand-painted sensibility applied across a wide motif range: gestural, brushy tropical florals in both warm and cool palettes, a tonal blue-on-blue watercolor floral, a folk-inflected hummingbird-and-floral print on a dotted ground, whimsical vegetable-and-wildflower conversationals (tomatoes, carrots, daffodils), and a jewel-toned paisley - reading as global-inspired and botanically grounded rather than tied to one motif.
 
 ## Markets and Specialties
 
@@ -98,8 +99,8 @@ Colorado-based designer with a background in the fashion industry and a degree i
 
 ## Pattern Focus
 
-Whimsical florals, global-inspired motifs (hummingbird/folk-print treatments), bold botanicals, vegetable and wildflower conversationals, and paisley — contemporary takes on ikat and block-print traditions rendered in a consistent hand-painted style.
+Whimsical florals, global-inspired motifs (hummingbird/folk-print treatments), bold botanicals, vegetable and wildflower conversationals, and paisley - contemporary takes on ikat and block-print traditions rendered in a consistent hand-painted style.
 
 ## Connections
 
-- The Pattern Cloud — source platform and studio directory listing
+- The Pattern Cloud - source platform and studio directory listing

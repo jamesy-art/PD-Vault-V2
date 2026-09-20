@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 72
 ---
 
 # Coral Pattern
@@ -121,19 +122,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/coral-pattern/profile/coral-pattern-image.svg)
-Surface pattern style drawing on both the marine organism and the warm pinkish-orange colour — coral (#FF7F50 and spectrum variants) — to produce tropical, coastal, and lifestyle-oriented designs.
+Surface pattern style drawing on both the marine organism and the warm pinkish-orange colour - coral (#FF7F50 and spectrum variants) - to produce tropical, coastal, and lifestyle-oriented designs.
 
 ## Overview
 
-Coral pattern encompasses two related but distinct directions. The first uses marine coral organisms as literal motifs — branching polyp forms, sea fans, and reef structures rendered as conversational or abstract surface patterns. The second uses coral as a dominant colour vocabulary: a warm pinkish-orange positioned between orange and pink, applied across botanical, geometric, abstract, and figurative motif categories. Both directions share tropical and coastal associations and are commercially grouped together in resort, swimwear, and lifestyle product contexts.
+Coral pattern encompasses two related but distinct directions. The first uses marine coral organisms as literal motifs - branching polyp forms, sea fans, and reef structures rendered as conversational or abstract surface patterns. The second uses coral as a dominant colour vocabulary: a warm pinkish-orange positioned between orange and pink, applied across botanical, geometric, abstract, and figurative motif categories. Both directions share tropical and coastal associations and are commercially grouped together in resort, swimwear, and lifestyle product contexts.
 
 ## Visual Characteristics
 
-Marine coral motifs range from realistic biological illustrations of branching coral polyps and skeletal structures to stylised, abstract, or geometric reef-form interpretations. When coral is used as a colour field, the supporting motifs — tropical florals, palm leaves, organic abstracts, or clean geometrics — are energised by the warmth of the ground or print colour. The colour's pinkish-orange warmth reads as confident and contemporary without the aggression of pure orange or the gender-coding of pure pink.
+Marine coral motifs range from realistic biological illustrations of branching coral polyps and skeletal structures to stylised, abstract, or geometric reef-form interpretations. When coral is used as a colour field, the supporting motifs - tropical florals, palm leaves, organic abstracts, or clean geometrics - are energised by the warmth of the ground or print colour. The colour's pinkish-orange warmth reads as confident and contemporary without the aggression of pure orange or the gender-coding of pure pink.
 
 ## Pattern Structure
 
-Marine coral motifs typically appear in all-over tossed or scattered repeats, often combined with other tropical or nautical elements. Colour-dominant coral patterns use any structure from placement print to all-over — the colour is the unifying element rather than a specific motif arrangement. Density management matters more than usual given the colour's inherent visual energy: medium-density patterns allow individual motifs to remain distinguishable.
+Marine coral motifs typically appear in all-over tossed or scattered repeats, often combined with other tropical or nautical elements. Colour-dominant coral patterns use any structure from placement print to all-over - the colour is the unifying element rather than a specific motif arrangement. Density management matters more than usual given the colour's inherent visual energy: medium-density patterns allow individual motifs to remain distinguishable.
 
 ## Common Motifs
 
@@ -147,18 +148,18 @@ Marine coral motifs typically appear in all-over tossed or scattered repeats, of
 
 Coral's most commercially active palette pairings:
 
-- **Coral + turquoise/aqua** — the most natural complement; tropical, beach-oriented, inherently vacation-coded
-- **Coral + navy** — sophisticated, contemporary; grounds coral's energy with visual weight
-- **Coral + white or off-white** — clean, bright; allows pattern clarity and maximum freshness
-- **Coral + deep teal** — advanced complementary; bold and contemporary
-- **Coral + sage or muted green** — botanical, nature-conscious; particularly strong for botanical pattern applications
-- **Coral + blush or dusty pink** — warm, harmonious; romantic and contemporary
+- **Coral + turquoise/aqua** - the most natural complement; tropical, beach-oriented, inherently vacation-coded
+- **Coral + navy** - sophisticated, contemporary; grounds coral's energy with visual weight
+- **Coral + white or off-white** - clean, bright; allows pattern clarity and maximum freshness
+- **Coral + deep teal** - advanced complementary; bold and contemporary
+- **Coral + sage or muted green** - botanical, nature-conscious; particularly strong for botanical pattern applications
+- **Coral + blush or dusty pink** - warm, harmonious; romantic and contemporary
 
 Pantone named Living Coral its Colour of the Year in 2019, cementing coral's contemporary commercial relevance.
 
 ## History and Context
 
-Coral as a design colour draws on its material connection to reef ecosystems — a natural association with tropical destinations, ocean environments, and living natural systems. The colour's commercial positioning as gender-neutral and universally appealing developed during the 2010s, broadening its market applicability beyond traditionally feminine contexts. Marine coral as a surface motif belongs to the wider coastal and nautical conversational print tradition, which expanded significantly through resort wear and tropical tourism from the mid-20th century onward.
+Coral as a design colour draws on its material connection to reef ecosystems - a natural association with tropical destinations, ocean environments, and living natural systems. The colour's commercial positioning as gender-neutral and universally appealing developed during the 2010s, broadening its market applicability beyond traditionally feminine contexts. Marine coral as a surface motif belongs to the wider coastal and nautical conversational print tradition, which expanded significantly through resort wear and tropical tourism from the mid-20th century onward.
 
 ## Surface Pattern Uses
 
@@ -171,14 +172,14 @@ Coral as a design colour draws on its material connection to reef ecosystems —
 
 ## Related Pattern Types
 
-- [[Tropical Pattern]]
-- [[Nautical Pattern]]
-- [[Conversational Pattern]]
-- [[Botanical Pattern]]
+- Tropical Pattern
+- Nautical Pattern
+- Conversational Pattern
+- Botanical Pattern
 
 ## Source Notes
 
-Sources: Coral Pattern 2.md (PatternWeaver — coral colour psychology, motif directions, palette pairings, and commercial applications), Coral Pattern.md (general definition — marine coral as conversational motif, applications in home decor, fashion, branding)
+Sources: Coral Pattern 2.md (PatternWeaver - coral colour psychology, motif directions, palette pairings, and commercial applications), Coral Pattern.md (general definition - marine coral as conversational motif, applications in home decor, fashion, branding)
 
 ## Editorial Images
 

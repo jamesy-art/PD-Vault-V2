@@ -40,6 +40,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 588
 ---
 # Verena Wacker Textildesign
 
@@ -65,7 +66,7 @@ Verena Wacker Textildesign is an independent print design studio (Switzerland) s
 
 ## Studio Style and Aesthetic
 
-Of the five selected images, four are blurred mood/trend photography rather than finished repeat artwork — a magenta rose photograph (shown twice, in different crops), a palm-frond canopy photo, and a blurred blue-and-white check/plaid photo. The one confirmed repeat print is a dark brown-and-white polka-dot diamond motif with tan border stripes, in a clean, foulard-adjacent graphic style. This single print is consistent with the studio's stated "contemporary and timeless" positioning, but the broader stylistic range can't be judged from one confirmed design.
+Of the five selected images, four are blurred mood/trend photography rather than finished repeat artwork - a magenta rose photograph (shown twice, in different crops), a palm-frond canopy photo, and a blurred blue-and-white check/plaid photo. The one confirmed repeat print is a dark brown-and-white polka-dot diamond motif with tan border stripes, in a clean, foulard-adjacent graphic style. This single print is consistent with the studio's stated "contemporary and timeless" positioning, but the broader stylistic range can't be judged from one confirmed design.
 
 ## Markets and Specialties
 
@@ -78,7 +79,7 @@ Per the existing Overview text, many designs begin as hand-drawn or hand-painted
 
 ## Clients and Commercial Positioning
 
-Offers exclusive print designs with full copyright transfer, allowing clients to use the artwork freely within their own collections — a direct-licensing model informed by both catwalk response and commercial trend analysis. No specific clients are documented.
+Offers exclusive print designs with full copyright transfer, allowing clients to use the artwork freely within their own collections - a direct-licensing model informed by both catwalk response and commercial trend analysis. No specific clients are documented.
 
 ## Portfolio and Presence
 

@@ -47,6 +47,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 575
 ---
 # Phyllis Orzalli Art & Design
 
@@ -90,7 +91,7 @@ Women's contemporary fashion.
 
 ## Techniques and Artwork Process
 
-Hand-painted watercolor originals, using wet-on-wet and wet-on-dry techniques, later digitized into seamless repeats. Notably, the 4 selected_placements are not product mockups but original watercolor studies (an iris botanical study, a peony bouquet, a rose bouquet, and a white rose/floral spray) — direct evidence of the hand-painted source material behind the finished patterns.
+Hand-painted watercolor originals, using wet-on-wet and wet-on-dry techniques, later digitized into seamless repeats. Notably, the 4 selected_placements are not product mockups but original watercolor studies (an iris botanical study, a peony bouquet, a rose bouquet, and a white rose/floral spray) - direct evidence of the hand-painted source material behind the finished patterns.
 
 ## Clients and Commercial Positioning
 

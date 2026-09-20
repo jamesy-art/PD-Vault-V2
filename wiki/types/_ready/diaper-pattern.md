@@ -3,7 +3,7 @@ name: Diaper Pattern
 slug: diaper-pattern
 status: active
 type_group: geometric
-summary: Historic textile pattern consisting of small, evenly spaced geometric units — typically diamonds or bird's eye forms — arranged in a continuous all-over repeat. One of the oldest documented all-over repeat structures in Western textile history, originally woven in silk and later in linen and cotton.
+summary: Historic textile pattern consisting of small, evenly spaced geometric units - typically diamonds or bird's eye forms - arranged in a continuous all-over repeat. One of the oldest documented all-over repeat structures in Western textile history, originally woven in silk and later in linen and cotton.
 motifs:
   - Geometric
 structures:
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 46
 ---
 
 # Diaper Pattern
@@ -120,11 +121,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/diaper-pattern/profile/diaper-pattern-image.svg)
-Historic all-over textile pattern based on the continuous, evenly spaced repetition of small geometric units — most commonly diamond or bird's eye forms — across the entire cloth surface. One of the oldest documented all-over repeat structures in Western textile design.
+Historic all-over textile pattern based on the continuous, evenly spaced repetition of small geometric units - most commonly diamond or bird's eye forms - across the entire cloth surface. One of the oldest documented all-over repeat structures in Western textile design.
 
 ## Overview
 
-The diaper pattern is defined by the regular repetition of a simple geometric unit — typically a diamond or lozenge — spaced evenly to create an unbroken field across the fabric. The pattern belongs to the damask family of woven cloth but is distinguished by the small scale of its repeat unit and the simplicity of its geometric form. It has been a consistent presence in European and South Asian textile traditions for centuries, produced in silk, linen, and cotton across distinct cultural weaving practices.
+The diaper pattern is defined by the regular repetition of a simple geometric unit - typically a diamond or lozenge - spaced evenly to create an unbroken field across the fabric. The pattern belongs to the damask family of woven cloth but is distinguished by the small scale of its repeat unit and the simplicity of its geometric form. It has been a consistent presence in European and South Asian textile traditions for centuries, produced in silk, linen, and cotton across distinct cultural weaving practices.
 
 ## Visual Characteristics
 
@@ -142,7 +143,7 @@ A diamond-grid structure: individual diamond or lozenge units set on a regular 4
 
 ## Colour and Style
 
-Traditionally woven as a self-coloured damask — pattern visible through the weave structure's light/shade play rather than applied colour contrast. The cloth reads as a subtle, formal texture. When executed as a printed pattern, two-tone or monochrome treatments are most common. The aesthetic register is classical, formal, and heritage-inflected.
+Traditionally woven as a self-coloured damask - pattern visible through the weave structure's light/shade play rather than applied colour contrast. The cloth reads as a subtle, formal texture. When executed as a printed pattern, two-tone or monochrome treatments are most common. The aesthetic register is classical, formal, and heritage-inflected.
 
 ## History and Context
 
@@ -152,7 +153,7 @@ The pattern originated in silk textiles with diamond designs, historically assoc
 
 South Asian textile traditions show parallel development: bulbul chashm silk fabrics woven in Baghdad were in use in northern India by the 17th century. The bird's eye / bulbul chashm pattern became a signature motif in Khes weaving (Punjab), in woven sari borders, and in phulkari embroidery.
 
-The practical absorbency of diaper-weave cloth led to its use for baby linen and tablecloths — the English word "diaper" (nappy/baby diaper) derives directly from the cloth type.
+The practical absorbency of diaper-weave cloth led to its use for baby linen and tablecloths - the English word "diaper" (nappy/baby diaper) derives directly from the cloth type.
 
 ## Surface Pattern Uses
 
@@ -164,14 +165,14 @@ The practical absorbency of diaper-weave cloth led to its use for baby linen and
 
 ## Related Pattern Types
 
-- [[Damask Pattern]]
-- [[Diamond Pattern]]
-- [[Houndstooth]]
-- [[Trellis Pattern]]
+- Damask Pattern
+- Diamond Pattern
+- Houndstooth
+- Trellis Pattern
 
 ## Source Notes
 
-Source: Diaper Pattern.md (Wikipedia — Diaper cloth; etymology, historical textile origins, bird's eye and bulbul chashm variants, and South Asian textile applications used; all material directly relevant to surface pattern design)
+Source: Diaper Pattern.md (Wikipedia - Diaper cloth; etymology, historical textile origins, bird's eye and bulbul chashm variants, and South Asian textile applications used; all material directly relevant to surface pattern design)
 
 ## Editorial Images
 

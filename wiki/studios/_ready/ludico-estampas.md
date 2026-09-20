@@ -41,6 +41,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 559
 ---
 # Ludico Estampas
 
@@ -69,7 +70,7 @@ Lúdico Estampas is a Brazilian print design studio founded by creative director
 
 ## Studio Style and Aesthetic
 
-The portfolio shows vivid tropical and botanical illustration in saturated jewel tones — pink, purple, orange, and red florals with gold outline detailing, large-scale layered leaf motifs in burgundy and lilac, and a scenic coastal/village illustration (palm trees, colonial architecture) used as a border-print motif. The aesthetic favors bold, colorful illustration over the geometric side of the studio's stated range.
+The portfolio shows vivid tropical and botanical illustration in saturated jewel tones - pink, purple, orange, and red florals with gold outline detailing, large-scale layered leaf motifs in burgundy and lilac, and a scenic coastal/village illustration (palm trees, colonial architecture) used as a border-print motif. The aesthetic favors bold, colorful illustration over the geometric side of the studio's stated range.
 
 ## Markets and Specialties
 

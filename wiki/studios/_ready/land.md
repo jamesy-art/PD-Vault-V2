@@ -4,8 +4,8 @@ slug: land
 email: hello@printsbyland.com
 description: LAND is a Midwest US women-owned print design studio founded and
   run by artists Lindsay and Lily. With over thirteen years of collaboration,
-  the studio produces vintage-inspired, colour-rich prints that begin by hand —
-  painted, drawn, or collaged — before being refined into polished digital
+  the studio produces vintage-inspired, colour-rich prints that begin by hand -
+  painted, drawn, or collaged - before being refined into polished digital
   artwork for fashion and home markets.
 website_url: https://www.printsbyland.com/
 instagram_url: https://www.instagram.com/printsbyland
@@ -40,6 +40,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 554
 ---
 # LAND
 
@@ -61,7 +62,7 @@ equipment:
 
 ## Overview
 
-LAND is a Midwest US women-owned print design studio founded and run by artists Lindsay and Lily. With over thirteen years of collaboration, the studio produces vintage-inspired, colour-rich prints that begin by hand — painted, drawn, or collaged — before being refined into polished digital artwork for fashion and home markets.
+LAND is a Midwest US women-owned print design studio founded and run by artists Lindsay and Lily. With over thirteen years of collaboration, the studio produces vintage-inspired, colour-rich prints that begin by hand - painted, drawn, or collaged - before being refined into polished digital artwork for fashion and home markets.
 
 ## Studio Style and Aesthetic
 

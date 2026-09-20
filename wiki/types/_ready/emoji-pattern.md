@@ -3,7 +3,7 @@ name: Emoji Pattern
 slug: emoji-pattern
 status: active
 type_group: conversational
-summary: Surface pattern using emoji as repeating motifs — standardised digital pictograms applied to textiles, stationery, and novelty products. A contemporary novelty print category with roots in Japanese mobile design and Unicode standardisation from the 2010s onward.
+summary: Surface pattern using emoji as repeating motifs - standardised digital pictograms applied to textiles, stationery, and novelty products. A contemporary novelty print category with roots in Japanese mobile design and Unicode standardisation from the 2010s onward.
 motifs:
   - Novelty
 structures:
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 92
 ---
 
 # Emoji Pattern
@@ -120,19 +121,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/emoji-pattern/profile/emoji-pattern-image.svg)
-Surface pattern using emoji — standardised digital pictograms originally developed in Japan — as repeating motifs. A contemporary novelty print category most prevalent in children's wear, teen fashion, and seasonal gifting.
+Surface pattern using emoji - standardised digital pictograms originally developed in Japan - as repeating motifs. A contemporary novelty print category most prevalent in children's wear, teen fashion, and seasonal gifting.
 
 ## Overview
 
-Emoji pattern brings the visual vocabulary of digital communication into surface pattern design. The motifs are drawn directly from the standardised Unicode emoji library — the brightly coloured, flat-graphic pictograms used in text messaging and digital communication worldwide. As a pattern type, emoji prints belong to the conversational and novelty print category: they use immediately recognisable popular-culture imagery as the primary design element, prioritising cultural reference and emotional resonance over abstract or aesthetic composition.
+Emoji pattern brings the visual vocabulary of digital communication into surface pattern design. The motifs are drawn directly from the standardised Unicode emoji library - the brightly coloured, flat-graphic pictograms used in text messaging and digital communication worldwide. As a pattern type, emoji prints belong to the conversational and novelty print category: they use immediately recognisable popular-culture imagery as the primary design element, prioritising cultural reference and emotional resonance over abstract or aesthetic composition.
 
 ## Visual Characteristics
 
-Bright, flat-colour pictographic motifs rendered in the distinctive rounded, simplified graphic style of emoji design. Typically small to medium scale, set in all-over scattered or tossed arrangements. The motifs are highly legible at small sizes — designed originally for screen display at 12×12 to 72×72 pixels. Multi-motif prints mix emoji from across categories (faces, food, symbols, animals) for maximum colour and variety; single-category prints isolate one emoji type for a more focused aesthetic.
+Bright, flat-colour pictographic motifs rendered in the distinctive rounded, simplified graphic style of emoji design. Typically small to medium scale, set in all-over scattered or tossed arrangements. The motifs are highly legible at small sizes - designed originally for screen display at 12×12 to 72×72 pixels. Multi-motif prints mix emoji from across categories (faces, food, symbols, animals) for maximum colour and variety; single-category prints isolate one emoji type for a more focused aesthetic.
 
 ## Pattern Structure
 
-All-over tossed scatter is the dominant structure — individual emoji distributed randomly across the ground in varying sizes and orientations. Themed groupings cluster related emoji (expression faces, food items, love symbols) for a more curated look. Single-motif repeats use one emoji symbol repeated across the surface. The flat, icon-like nature of the motifs suits any repeat scale.
+All-over tossed scatter is the dominant structure - individual emoji distributed randomly across the ground in varying sizes and orientations. Themed groupings cluster related emoji (expression faces, food items, love symbols) for a more curated look. Single-motif repeats use one emoji symbol repeated across the surface. The flat, icon-like nature of the motifs suits any repeat scale.
 
 ## Common Motifs
 
@@ -141,7 +142,7 @@ All-over tossed scatter is the dominant structure — individual emoji distribut
 - Food and drink (🍕, 🍦, 🍔)
 - Animal emoji (🐱, 🐶, 🦋)
 - Gesture and symbol emoji (💅, 🤳, ⭐)
-- Face with tears of joy (😂) — the most popular single emoji globally as of 2017
+- Face with tears of joy (😂) - the most popular single emoji globally as of 2017
 
 ## Colour and Style
 
@@ -149,13 +150,13 @@ Bold, saturated, multi-coloured palettes reflecting the screen-optimised origina
 
 ## History and Context
 
-The first set of modern emoji was created by Shigetaka Kurita in 1999 for NTT DoCoMo's i-mode mobile platform in Japan. Kurita drew inspiration from manga, Chinese characters, and street sign pictograms. His original 176 emoji — brightly coloured, drawn at single-colour pixel scale — are now held in the permanent collection of the Museum of Modern Art, New York.
+The first set of modern emoji was created by Shigetaka Kurita in 1999 for NTT DoCoMo's i-mode mobile platform in Japan. Kurita drew inspiration from manga, Chinese characters, and street sign pictograms. His original 176 emoji - brightly coloured, drawn at single-colour pixel scale - are now held in the permanent collection of the Museum of Modern Art, New York.
 
 Earlier emoji sets were developed by SoftBank (1997) and, newly discovered, by Sharp (1988) and NEC (early 1990s), but Kurita's DoCoMo set achieved the widest adoption and cultural influence.
 
 The Unicode Consortium began standardising emoji in 2010 (Unicode 6.0, 722 emoji) following proposals from Google and Apple employees beginning in 2007. Standardisation made emoji a universal shared visual language across all devices and platforms. Unicode 17.0 (2025) includes 3,953 emoji.
 
-Emoji achieved mainstream cultural recognition in the 2010s — Oxford Dictionaries named 😂 (Face with Tears of Joy) its Word of the Year in 2015. The subsequent decade saw emoji enter surface pattern design as a novelty print category, driven by their recognition across all demographic groups.
+Emoji achieved mainstream cultural recognition in the 2010s - Oxford Dictionaries named 😂 (Face with Tears of Joy) its Word of the Year in 2015. The subsequent decade saw emoji enter surface pattern design as a novelty print category, driven by their recognition across all demographic groups.
 
 ## Surface Pattern Uses
 
@@ -168,13 +169,13 @@ Emoji achieved mainstream cultural recognition in the 2010s — Oxford Dictionar
 
 ## Related Pattern Types
 
-- [[Conversational Print]]
-- [[Novelty Print]]
-- [[Pop Art Pattern]]
+- Conversational Print
+- Novelty Print
+- Pop Art Pattern
 
 ## Source Notes
 
-Source: Emoji Pattern.md (Wikipedia — Emoji; history of emoji development, Shigetaka Kurita / NTT DoCoMo origin, Unicode standardisation, cultural influence, and MoMA acquisition used; technical Unicode encoding sections, linguistic function sections, and emoji controversy details excluded as out of scope for surface pattern design)
+Source: Emoji Pattern.md (Wikipedia - Emoji; history of emoji development, Shigetaka Kurita / NTT DoCoMo origin, Unicode standardisation, cultural influence, and MoMA acquisition used; technical Unicode encoding sections, linguistic function sections, and emoji controversy details excluded as out of scope for surface pattern design)
 
 ## Editorial Images
 

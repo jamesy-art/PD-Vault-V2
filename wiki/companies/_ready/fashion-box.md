@@ -49,6 +49,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 154
 ---
 
 # Fashion Box
@@ -65,7 +66,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Fashion Box is a fashion retail entity with the domain fashionbox.me. The scrape source references Fashion Box Greece S.A. (fashionbox.gr), a Greek entity operating under the same trading name. The YAML metadata indicates the company retails clothing, accessories, jewellery, and eyewear, with a market category of running — suggesting an athleisure or sports-adjacent positioning. No further corporate information is available from the ingested source material.
+Fashion Box is a fashion retail entity with the domain fashionbox.me. The scrape source references Fashion Box Greece S.A. (fashionbox.gr), a Greek entity operating under the same trading name. The YAML metadata indicates the company retails clothing, accessories, jewellery, and eyewear, with a market category of running - suggesting an athleisure or sports-adjacent positioning. No further corporate information is available from the ingested source material.
 
 No information available from source material.
 
@@ -80,7 +81,7 @@ Based on YAML metadata only:
 - Accessories
 - Jewellery
 - Eyewear
-- Running (market category — suggests performance/athleisure products)
+- Running (market category - suggests performance/athleisure products)
 
 ## Services
 

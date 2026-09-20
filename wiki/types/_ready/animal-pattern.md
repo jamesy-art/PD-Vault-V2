@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 139
 ---
 
 # Animal Pattern
@@ -118,19 +119,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/animal-pattern/profile/animal-pattern-image.svg)
-Surface prints that simulate the skin, fur, hide, feathers, or scales of animals — most commonly leopard, cheetah, zebra, tiger, giraffe, jaguar, and cow markings.
+Surface prints that simulate the skin, fur, hide, feathers, or scales of animals - most commonly leopard, cheetah, zebra, tiger, giraffe, jaguar, and cow markings.
 
 ## Overview
 
-Animal print is one of the most commercially durable print categories in fashion and interiors. The category carries consistent associations of luxury, wildness, and status. Leopard and cheetah prints are the most commercially active; zebra and tiger follow closely. The pattern cycles between trend status and perennial commercial category — it reliably resurfaces in fashion and interior design across market cycles.
+Animal print is one of the most commercially durable print categories in fashion and interiors. The category carries consistent associations of luxury, wildness, and status. Leopard and cheetah prints are the most commercially active; zebra and tiger follow closely. The pattern cycles between trend status and perennial commercial category - it reliably resurfaces in fashion and interior design across market cycles.
 
 ## Visual Characteristics
 
-Leopard and cheetah prints feature irregular dark rosette spots on tawny, cream, or golden grounds — leopard rosettes are more complex, cheetah spots are smaller and simpler. Zebra print uses black-and-white irregular stripe patterns that vary in width and curvature. Giraffe print uses irregular polygon patches on cream grounds. Tiger print uses bold diagonal black stripes on orange or gold. Jaguar print has more complex rosette forms than leopard. Cow print uses irregular two-tone patches in black-and-white or brown-and-white. Texture, scale, and colour are the primary design variables — flat graphic versions sit alongside tonal and photorealistic interpretations.
+Leopard and cheetah prints feature irregular dark rosette spots on tawny, cream, or golden grounds - leopard rosettes are more complex, cheetah spots are smaller and simpler. Zebra print uses black-and-white irregular stripe patterns that vary in width and curvature. Giraffe print uses irregular polygon patches on cream grounds. Tiger print uses bold diagonal black stripes on orange or gold. Jaguar print has more complex rosette forms than leopard. Cow print uses irregular two-tone patches in black-and-white or brown-and-white. Texture, scale, and colour are the primary design variables - flat graphic versions sit alongside tonal and photorealistic interpretations.
 
 ## Pattern Structure
 
-Most animal prints are all-over non-directional patterns, designed to repeat seamlessly without a visible structural axis. The irregular, organic nature of the source markings makes directional repeat less common and less visible. Engineered placement prints — where the pattern is positioned specifically for garment cut — are also commercially used in fashion. Scale is a major design variable: graphic enlarged versions versus close-scaled realistic simulations behave differently across product applications.
+Most animal prints are all-over non-directional patterns, designed to repeat seamlessly without a visible structural axis. The irregular, organic nature of the source markings makes directional repeat less common and less visible. Engineered placement prints - where the pattern is positioned specifically for garment cut - are also commercially used in fashion. Scale is a major design variable: graphic enlarged versions versus close-scaled realistic simulations behave differently across product applications.
 
 ## Common Motifs
 
@@ -144,23 +145,23 @@ Most animal prints are all-over non-directional patterns, designed to repeat sea
 
 ## Colour and Style
 
-The traditional palette — tawny gold, ochre, warm cream, black, and brown — is the default. Fashion adaptations regularly appear in non-natural colourways: hot pink leopard, cobalt blue zebra, metallic tiger, white-on-white tonal versions. Monochrome (black-and-white) animal print is a persistent commercial alternative. Seasonal interpretations apply current trend colours to classic print structures. Background colour changes — from natural ground to coloured ground — are among the most common commercial adaptations.
+The traditional palette - tawny gold, ochre, warm cream, black, and brown - is the default. Fashion adaptations regularly appear in non-natural colourways: hot pink leopard, cobalt blue zebra, metallic tiger, white-on-white tonal versions. Monochrome (black-and-white) animal print is a persistent commercial alternative. Seasonal interpretations apply current trend colours to classic print structures. Background colour changes - from natural ground to coloured ground - are among the most common commercial adaptations.
 
 ## History and Context
 
-Animal print as a status symbol has origins in ancient Egypt, where wearing animal skins signified power and rank. In the 20th century, the pattern entered mainstream fashion with Christian Dior's 1947 New Look, which prominently featured leopard print. Animal print became associated with Bohemian fashion in the late 1960s United States and embedded in rock and punk subcultures — particularly leopard and cheetah. Fashion designers including Halston and Yves Saint Laurent established animal print as a legitimate luxury category from the 1970s onward. The pattern's cultural relationship to actual fur was progressively separated as printed and faux-fur alternatives replaced real animal products. Uses extended well beyond apparel into accessories, homeware, and interior design. The pattern now moves through a commercial cycle — reliably returning to trend status while also maintaining a perennial baseline commercial presence.
+Animal print as a status symbol has origins in ancient Egypt, where wearing animal skins signified power and rank. In the 20th century, the pattern entered mainstream fashion with Christian Dior's 1947 New Look, which prominently featured leopard print. Animal print became associated with Bohemian fashion in the late 1960s United States and embedded in rock and punk subcultures - particularly leopard and cheetah. Fashion designers including Halston and Yves Saint Laurent established animal print as a legitimate luxury category from the 1970s onward. The pattern's cultural relationship to actual fur was progressively separated as printed and faux-fur alternatives replaced real animal products. Uses extended well beyond apparel into accessories, homeware, and interior design. The pattern now moves through a commercial cycle - reliably returning to trend status while also maintaining a perennial baseline commercial presence.
 
 ## Surface Pattern Uses
 
-- **Apparel** — womenswear is the dominant market; leopard print is a consistent bestseller in commercial fashion
-- **Accessories** — handbags, scarves, shoes, belts, and outerwear are major applications
-- **Homeware and interiors** — animal prints appear in upholstery, rugs, cushions, and wallpaper
-- **POD and licensing** — animal prints are a commercial staple across print-on-demand platforms and licensed product categories
-- **Gifting and stationery** — animal print is widely used in gifting, novelty goods, and seasonal stationery
+- **Apparel** - womenswear is the dominant market; leopard print is a consistent bestseller in commercial fashion
+- **Accessories** - handbags, scarves, shoes, belts, and outerwear are major applications
+- **Homeware and interiors** - animal prints appear in upholstery, rugs, cushions, and wallpaper
+- **POD and licensing** - animal prints are a commercial staple across print-on-demand platforms and licensed product categories
+- **Gifting and stationery** - animal print is widely used in gifting, novelty goods, and seasonal stationery
 
 ## Related Pattern Types
 
-[[Leopard Print]], [[Zebra Print]], [[Tiger Print]], [[Camouflage Pattern]], [[Snakeskin Pattern]], [[Faux Fur Pattern]]
+Leopard Print, Zebra Print, Tiger Print, Camouflage Pattern, Snakeskin Pattern, Faux Fur Pattern
 
 ## Source Notes
 

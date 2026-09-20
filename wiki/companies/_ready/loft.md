@@ -67,6 +67,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 116
 ---
 
 # LOFT
@@ -84,13 +85,13 @@ enrichment_status: enriched
 
 ## Overview
 
-LOFT is an American women's apparel brand under KnitWell Group. This file was generated as a related-company stub from knitwell-group.md; no dedicated Wikipedia source was ingested. Profile information is derived from YAML metadata only. YAML parent_company "knitwell-group" is correct. YAML location "United States" is correct. YAML market_categories lists "Menswear" — appears incorrect for LOFT (a women's apparel brand); YAML preserved as found.
+LOFT is an American women's apparel brand under KnitWell Group. This file was generated as a related-company stub from knitwell-group.md; no dedicated Wikipedia source was ingested. Profile information is derived from YAML metadata only. YAML parent_company "knitwell-group" is correct. YAML location "United States" is correct. YAML market_categories lists "Menswear" - appears incorrect for LOFT (a women's apparel brand); YAML preserved as found.
 
 No source material available.
 
 ## History
 
-LOFT. Parent: KnitWell Group. Website: loft.com. Instagram: @loft. Facebook: LOFT. TikTok: @loft. Pinterest: LOFT. Contact URL, store locator URL, accessibility URL documented in YAML. Loyalty programme: LOFT Style Rewards (YAML shipping_url links to loyalty programme page). Retail categories documented in YAML: shoes, clothing, tops, bottoms, dresses and jumpsuits, coats and jackets, activewear, matching sets, accessories, bags, jewellery, eyewear, swimwear. Market categories (YAML): lifestyle (also "Menswear" — appears incorrect for LOFT; YAML preserved as found). Note: YAML about_url points to a colour story product page (color-story-green) rather than a standard about page; YAML preserved as found.
+LOFT. Parent: KnitWell Group. Website: loft.com. Instagram: @loft. Facebook: LOFT. TikTok: @loft. Pinterest: LOFT. Contact URL, store locator URL, accessibility URL documented in YAML. Loyalty programme: LOFT Style Rewards (YAML shipping_url links to loyalty programme page). Retail categories documented in YAML: shoes, clothing, tops, bottoms, dresses and jumpsuits, coats and jackets, activewear, matching sets, accessories, bags, jewellery, eyewear, swimwear. Market categories (YAML): lifestyle (also "Menswear" - appears incorrect for LOFT; YAML preserved as found). Note: YAML about_url points to a colour story product page (color-story-green) rather than a standard about page; YAML preserved as found.
 
 ## Products
 

@@ -94,6 +94,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 221
 ---
 
 # AMIRI
@@ -119,9 +120,9 @@ AMIRI's design language draws on American counterculture, rock and roll, and Los
 
 ## History
 
-Mike Amiri established the brand in Los Angeles in 2014. The house's founding identity — hand-embellished, one-off creations drawing on countercultural Americana — has been scaled into a global luxury operation combining West Coast creative direction with Italian artisanal craft. The Rodeo Drive flagship store opened in 2020, establishing a distinct retail identity. In 2026, AMIRI opened its first permanent European store in Milan — described as an immersive, cinematic boutique environment — and showed its Autumn-Winter 2026 collection at Le Carreau du Temple, Paris, confirming its position in the international luxury runway calendar.
+Mike Amiri established the brand in Los Angeles in 2014. The house's founding identity - hand-embellished, one-off creations drawing on countercultural Americana - has been scaled into a global luxury operation combining West Coast creative direction with Italian artisanal craft. The Rodeo Drive flagship store opened in 2020, establishing a distinct retail identity. In 2026, AMIRI opened its first permanent European store in Milan - described as an immersive, cinematic boutique environment - and showed its Autumn-Winter 2026 collection at Le Carreau du Temple, Paris, confirming its position in the international luxury runway calendar.
 
-Note: YAML location field shows "Italy" — AMIRI is a Los Angeles-founded brand. This appears to be a placeholder data error. YAML preserved as found.
+Note: YAML location field shows "Italy" - AMIRI is a Los Angeles-founded brand. This appears to be a placeholder data error. YAML preserved as found.
 
 ## Products
 
@@ -132,7 +133,7 @@ Note: YAML location field shows "Italy" — AMIRI is a Los Angeles-founded brand
 
 ## Services
 
-AMIRI is owned by OTB Group (Only The Brave S.p.A., Renzo Rosso), which acquired the brand in 2019. The brand operates freestanding boutiques in the US (Rodeo Drive flagship from 2020, plus additional US locations) and internationally. The 2026 Milan flagship — described as "an immersive, cinematic environment" — introduces a new retail concept and marks the brand's first permanent European store. The Maison MIHARA YASUHIRO sneaker collaboration is a recurring limited-edition co-design programme with a second chapter announced in 2026.
+AMIRI is owned by OTB Group (Only The Brave S.p.A., Renzo Rosso), which acquired the brand in 2019. The brand operates freestanding boutiques in the US (Rodeo Drive flagship from 2020, plus additional US locations) and internationally. The 2026 Milan flagship - described as "an immersive, cinematic environment" - introduces a new retail concept and marks the brand's first permanent European store. The Maison MIHARA YASUHIRO sneaker collaboration is a recurring limited-edition co-design programme with a second chapter announced in 2026.
 
 ## Markets
 
@@ -140,11 +141,11 @@ AMIRI operates in the global luxury market across womenswear, menswear, and kids
 
 ## Pattern and Surface Design Relevance
 
-AMIRI's founding practice is explicitly surface-centred: Mike Amiri began by hand-embellishing garments as one-off stage pieces, making applied surface decoration the primary design act. Crystal-embellishment of denim is a documented brand signature — one of the house's most commercially recognised surface applications, directly referencing the hand-crafted, rock-and-roll origins of the brand.
+AMIRI's founding practice is explicitly surface-centred: Mike Amiri began by hand-embellishing garments as one-off stage pieces, making applied surface decoration the primary design act. Crystal-embellishment of denim is a documented brand signature - one of the house's most commercially recognised surface applications, directly referencing the hand-crafted, rock-and-roll origins of the brand.
 
-The brand's About page highlights Italian artisanal savoir-faire as the production basis for the New Tailoring category: "suiting styles mingle effortlessly with the easy-going allure of a Downtown uniform." Surface treatment — finish, fabric, embellishment — mediates between formal and casual codes, with softer suiting lines, California-inspired jackets over cabana sets, and everyday suits styled with sneakers.
+The brand's About page highlights Italian artisanal savoir-faire as the production basis for the New Tailoring category: "suiting styles mingle effortlessly with the easy-going allure of a Downtown uniform." Surface treatment - finish, fabric, embellishment - mediates between formal and casual codes, with softer suiting lines, California-inspired jackets over cabana sets, and everyday suits styled with sneakers.
 
-Sneaker collaborations — the 2024 Kyrie Irving KAI shoe and the ongoing Maison MIHARA YASUHIRO limited-edition collab (second chapter in 2026) — apply brand surface language to footwear through material and graphic co-design.
+Sneaker collaborations - the 2024 Kyrie Irving KAI shoe and the ongoing Maison MIHARA YASUHIRO limited-edition collab (second chapter in 2026) - apply brand surface language to footwear through material and graphic co-design.
 
 ## Official Resources
 

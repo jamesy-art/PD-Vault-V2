@@ -110,6 +110,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 118
 ---
 
 # Stipple Pattern
@@ -121,7 +122,7 @@ A technique and aesthetic in which small dots or short flicks are massed togethe
 
 ## Overview
 
-Stippling is the use of small marks — typically dots or short flicks — to simulate graduated shading or to create an overall textural surface. In surface pattern design, stipple can be used as both a mark-making technique (producing visible dot texture within motifs) and as an all-over pattern in its own right, where densely or variably distributed dots form the design surface. The aesthetic is strongly associated with fine illustration, engraving traditions, and scientific botanical drawing, and carries associations of precision, craft, and vintage printmaking.
+Stippling is the use of small marks - typically dots or short flicks - to simulate graduated shading or to create an overall textural surface. In surface pattern design, stipple can be used as both a mark-making technique (producing visible dot texture within motifs) and as an all-over pattern in its own right, where densely or variably distributed dots form the design surface. The aesthetic is strongly associated with fine illustration, engraving traditions, and scientific botanical drawing, and carries associations of precision, craft, and vintage printmaking.
 
 ## Visual Characteristics
 
@@ -131,7 +132,7 @@ The quality differs from pointillism, which uses dots of contrasting colours to 
 
 ## Pattern Structure
 
-As a surface pattern, stipple is typically used as an all-over or background texture — a field of dots at consistent or varied density covering the full surface. It may be combined with other motifs as a texture element rather than used as the primary design. When used as the sole design element, the pattern's visual interest comes from density gradients, dot size variation, or the spatial rhythm of the dot field itself.
+As a surface pattern, stipple is typically used as an all-over or background texture - a field of dots at consistent or varied density covering the full surface. It may be combined with other motifs as a texture element rather than used as the primary design. When used as the sole design element, the pattern's visual interest comes from density gradients, dot size variation, or the spatial rhythm of the dot field itself.
 
 ## Common Motifs
 
@@ -139,13 +140,13 @@ Stipple technique is applied to existing motifs (florals, animals, landscapes re
 
 ## Colour and Style
 
-Typically monochrome — black dots on white ground, or white dots on dark ground. The technique translates into two-colour print contexts naturally. Multi-colour stipple (different colours of dots distributed across the surface) is less common but used in some decorative contexts. The overall aesthetic is associated with illustration, vintage botanical drawing, and fine-line printmaking traditions.
+Typically monochrome - black dots on white ground, or white dots on dark ground. The technique translates into two-colour print contexts naturally. Multi-colour stipple (different colours of dots distributed across the surface) is less common but used in some decorative contexts. The overall aesthetic is associated with illustration, vintage botanical drawing, and fine-line printmaking traditions.
 
 ## History and Context
 
 Stippling as an art technique has a documented history in printmaking from at least the early 16th century. Giulio Campagnola's engraving *The Young Shepherd* (c.1510) is an early example of stipple engraving technique using flicks of the burin to build tonal gradations. The technique was also applied to engraved glass, to porcelain decoration (documented on Capodimonte porcelain, mid-18th century), and to printmaking reproductions.
 
-In botanical drawing and scientific illustration, stippling became a standard technique for rendering three-dimensional form — the denser the dots, the darker the shadow — producing the characteristic appearance of 18th and 19th-century natural history illustration. The technique occurs naturally in some plant species: stippling in botany refers to dot-like patterns occurring on flower petals and sepals, as seen for example on *Calochortus luteus* (California gold fields lily).
+In botanical drawing and scientific illustration, stippling became a standard technique for rendering three-dimensional form - the denser the dots, the darker the shadow - producing the characteristic appearance of 18th and 19th-century natural history illustration. The technique occurs naturally in some plant species: stippling in botany refers to dot-like patterns occurring on flower petals and sepals, as seen for example on *Calochortus luteus* (California gold fields lily).
 
 In contemporary surface pattern design, stipple aesthetic has been revived through the popularity of fine-line illustration styles and vintage-inspired print design.
 
@@ -160,16 +161,16 @@ In contemporary surface pattern design, stipple aesthetic has been revived throu
 
 ## Related Pattern Types
 
-- [[Dot Pattern]]
-- [[Polka Dot Pattern]]
-- [[Pointillism Pattern]]
-- [[Texture Pattern]]
-- [[Botanical Pattern]]
-- [[Fine Line Pattern]]
+- Dot Pattern
+- Polka Dot Pattern
+- Pointillism Pattern
+- Texture Pattern
+- Botanical Pattern
+- Fine Line Pattern
 
 ## Source Notes
 
-- Wikipedia: Stippling — primary source; covers stipple engraving (burin technique), drawing/painting application (pen or brush, single colour), distinction from pointillism, botanical stippling (*Calochortus luteus* example), Capodimonte porcelain (Giovanni Caselli, 1745–50), Giulio Campagnola engraving (c.1510)
+- Wikipedia: Stippling - primary source; covers stipple engraving (burin technique), drawing/painting application (pen or brush, single colour), distinction from pointillism, botanical stippling (*Calochortus luteus* example), Capodimonte porcelain (Giovanni Caselli, 1745-50), Giulio Campagnola engraving (c.1510)
 - Non-SPD uses (forensic, gunsmithing) omitted as not relevant to surface pattern design context
 
 ## Editorial Images

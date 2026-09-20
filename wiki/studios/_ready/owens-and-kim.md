@@ -10,7 +10,6 @@ description: >-
   website to a self-described international client base of fashion houses,
   retailers, and fabric manufacturers.
 
-
   [Contact us](https://www.owensandkim.com/contact-us/) to make an appointment.
 website_url: https://www.owensandkim.com/
 instagram_url: https://www.instagram.com/owensandkim
@@ -48,6 +47,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 568
 ---
 # Owens and Kim
 
@@ -86,7 +86,7 @@ The portfolio shows a fashion-forward, print-led range built on bold color and p
 
 ## Techniques and Artwork Process
 
-Per the studio's own description, designs combine hand-drawn imagery with digital production, with each pattern delivered as a digitally-printed silk sample alongside a layered digital artwork file — consistent with the mix of painterly brushwork and cleaner engineered/geometric repeats seen among the selected patterns.
+Per the studio's own description, designs combine hand-drawn imagery with digital production, with each pattern delivered as a digitally-printed silk sample alongside a layered digital artwork file - consistent with the mix of painterly brushwork and cleaner engineered/geometric repeats seen among the selected patterns.
 
 ## Clients and Commercial Positioning
 

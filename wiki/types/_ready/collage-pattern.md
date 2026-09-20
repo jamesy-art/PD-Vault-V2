@@ -3,7 +3,7 @@ name: Collage Pattern
 slug: collage-pattern
 status: active
 type_group: general
-summary: Surface pattern technique built from assembled, cut, and layered image fragments — physical mixed-media or digital — with roots in early 20th-century avant-garde art practice.
+summary: Surface pattern technique built from assembled, cut, and layered image fragments - physical mixed-media or digital - with roots in early 20th-century avant-garde art practice.
 motifs:
   - Abstract
 structures:
@@ -60,7 +60,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:DasUndbild.jpg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/DasUndbild.jpg/500px-DasUndbild.jpg"
       title: "](https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg)"
       description: "](https://upload.wikimedia.org/wikipedia/commons/f/fc/DasUndbild.jpg)"
@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 110
 ---
 
 # Collage Pattern
@@ -119,7 +120,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/collage-pattern/profile/collage-pattern-image.svg)
-Surface pattern technique built from assembled, cut, and layered image fragments. Derived from fine art collage — Cubist papier collé, Dada photomontage — and now central to digital surface pattern design and mixed-media textile work.
+Surface pattern technique built from assembled, cut, and layered image fragments. Derived from fine art collage - Cubist papier collé, Dada photomontage - and now central to digital surface pattern design and mixed-media textile work.
 
 ## Overview
 
@@ -131,7 +132,7 @@ Collage patterns are distinguished by visible fragment edges (cut or torn), over
 
 ## Pattern Structure
 
-Collage patterns resist standard geometric repeat structures. Free-placement and editorial compositions are typical. When tiled, the intent is usually to preserve apparent randomness — making the seam invisible through compositional complexity rather than geometric precision.
+Collage patterns resist standard geometric repeat structures. Free-placement and editorial compositions are typical. When tiled, the intent is usually to preserve apparent randomness - making the seam invisible through compositional complexity rather than geometric precision.
 
 ## Common Motifs
 
@@ -148,13 +149,13 @@ Palette is determined by source materials. Collage can range from monochrome arc
 
 ## History and Context
 
-The term derives from the French *coller* ("to glue"). Collage as a named fine art practice emerged in 1912 with Picasso and Braque's *papier collé* experiments — pasting cut newspaper and printed material into Cubist compositions. Dada artists, particularly Hannah Höch, developed photomontage as a politically charged collage form. Surrealism extended collage into dreamlike visual combinations.
+The term derives from the French *coller* ("to glue"). Collage as a named fine art practice emerged in 1912 with Picasso and Braque's *papier collé* experiments - pasting cut newspaper and printed material into Cubist compositions. Dada artists, particularly Hannah Höch, developed photomontage as a politically charged collage form. Surrealism extended collage into dreamlike visual combinations.
 
-*Découpage* — a related decorative technique using cut paper applied to surfaces — has older roots: originating in East Siberian funerary art, adopted in China, then entering Venice and Italy by the 17th century before spreading through France and Europe.
+*Découpage* - a related decorative technique using cut paper applied to surfaces - has older roots: originating in East Siberian funerary art, adopted in China, then entering Venice and Italy by the 17th century before spreading through France and Europe.
 
 Mary Delany created 985 detailed botanical collages ("paper mosaics") in the 18th century using cut coloured paper, producing work of considerable precision that anticipates later botanical surface pattern approaches.
 
-In children's publishing, Eric Carle's illustrated books — built from hand-textured and hand-painted cut papers — represent a widely recognised collage aesthetic that has directly influenced pattern design.
+In children's publishing, Eric Carle's illustrated books - built from hand-textured and hand-painted cut papers - represent a widely recognised collage aesthetic that has directly influenced pattern design.
 
 ## Surface Pattern Uses
 
@@ -166,14 +167,14 @@ In children's publishing, Eric Carle's illustrated books — built from hand-tex
 
 ## Related Pattern Types
 
-- [[Mixed Media Pattern]]
-- [[Photomontage Pattern]]
-- [[Digital Pattern]]
-- [[Art Print Pattern]]
+- Mixed Media Pattern
+- Photomontage Pattern
+- Digital Pattern
+- Art Print Pattern
 
 ## Source Notes
 
-Sources: Collage Pattern 2.md (general art and textile definition), Collage Pattern.md (Wikipedia: Collage — historical, fine art, and design application sections)
+Sources: Collage Pattern 2.md (general art and textile definition), Collage Pattern.md (Wikipedia: Collage - historical, fine art, and design application sections)
 
 ## Editorial Images
 

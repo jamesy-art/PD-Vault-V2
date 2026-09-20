@@ -38,6 +38,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 157
 ---
 
 # Courir
@@ -50,7 +51,7 @@ enrichment_status: enriched
 
 Courir is a French chain of sports shoe stores and market leader in sneakers in France. It was founded in 1980 by Léon and Lucien Odier as a subsidiary of Go Sport. The brand was acquired by Grenoble-based Genty-Cathiard in 1988; the Rallye group then acquired Genty-Cathiard in 1990. As of December 31, 2019, Courir operated 278 stores in Europe, with international expansion into Spain, Belgium, and Portugal from 2018, plus presence in French overseas territories (DROM-COM) and franchise operations in Réunion, French Guiana, North Africa, and the Middle East. In March 2019, Courir became the Courir Group when Equistone Partners Europe acquired it from the Rallye holding (parent of Go Sport and Casino group) for €283 million. In 2023, British company JD Sports completed the acquisition of Courir for €520 million (€325M buyout + €195M debt assumption).
 
-Note: YAML `parent_company` field shows "go-sport-wikipedia" — Courir's current parent is JD Sports (acquired 2023). YAML preserved as found.
+Note: YAML `parent_company` field shows "go-sport-wikipedia" - Courir's current parent is JD Sports (acquired 2023). YAML preserved as found.
 
 Courir positions itself as a sneaker specialist rather than a fashion brand. There is no documented internal creative or design direction function. The 2010 logo redesign updated the brand mark identity. Surface and graphic design choices within the store estate are not further documented in the available source.
 
@@ -76,7 +77,7 @@ Courir is the market leader in sneakers in France, with over 250 stores in metro
 
 Courir is a specialist sneaker retailer rather than a pattern design producer. Its SPD relevance is indirect:
 
-- **Sneaker surface as SPD vehicle**: The sneaker category — Courir's entire business — is a primary medium for surface pattern design across upper materials, sole graphics, colourway application, and brand mark placement. Courir distributes product from Nike, Adidas, and other brands whose core design vocabulary is surface-design-driven.
+- **Sneaker surface as SPD vehicle**: The sneaker category - Courir's entire business - is a primary medium for surface pattern design across upper materials, sole graphics, colourway application, and brand mark placement. Courir distributes product from Nike, Adidas, and other brands whose core design vocabulary is surface-design-driven.
 - **Brand identity as retail graphic design**: The Courir wordmark and stylised "C" logo (redesigned February 2010) constitute the brand's applied retail surface identity across store fronts, packaging, and digital.
 
 ## Official Resources

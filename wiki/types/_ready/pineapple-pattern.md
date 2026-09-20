@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 111
 ---
 
 # Pineapple Pattern
@@ -119,7 +120,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/pineapple-pattern/profile/pineapple-pattern-image.svg)
-A surface pattern using the pineapple as its primary motif — drawing on the fruit's tropical associations, its historic role as a symbol of hospitality and wealth, and a parallel crochet tradition producing a distinctive lace motif of the same name.
+A surface pattern using the pineapple as its primary motif - drawing on the fruit's tropical associations, its historic role as a symbol of hospitality and wealth, and a parallel crochet tradition producing a distinctive lace motif of the same name.
 
 ## Overview
 
@@ -136,7 +137,7 @@ The pineapple is a visually distinctive fruit: oval body covered in a geometric 
 - **Fibonacci geometry:** The natural scale arrangement follows intersecting Fibonacci spirals (5, 8, and 13), giving the fruit an inherent mathematical elegance
 - **Yellow-to-green palette:** The distinctive warm yellow of the fruit body against the cool green of the crown
 
-The crochet pineapple motif has a different visual character — an open lace structure with a pointed top narrowing to a base, resembling the fruit's silhouette in textile form.
+The crochet pineapple motif has a different visual character - an open lace structure with a pointed top narrowing to a base, resembling the fruit's silhouette in textile form.
 
 ## Pattern Structure
 
@@ -157,17 +158,17 @@ Pineapple motifs are used in several repeat structures:
 
 ## Colour and Style
 
-Core palette: pineapple yellow, leaf green, white/cream ground. Secondary palette connections: coral, turquoise, navy, hot pink — the wider tropical resort palette.
+Core palette: pineapple yellow, leaf green, white/cream ground. Secondary palette connections: coral, turquoise, navy, hot pink - the wider tropical resort palette.
 
-Style range: graphic flat vector (clean fills, bold silhouette), watercolour botanical (detailed illustrative rendering), retro/vintage (1950s–1970s vacation aesthetic), kawaii/cute (cartoon proportions, simplified forms), and crochet-reference (lace-texture graphic rendering of the traditional stitch motif).
+Style range: graphic flat vector (clean fills, bold silhouette), watercolour botanical (detailed illustrative rendering), retro/vintage (1950s-1970s vacation aesthetic), kawaii/cute (cartoon proportions, simplified forms), and crochet-reference (lace-texture graphic rendering of the traditional stitch motif).
 
 ## History and Context
 
-Pineapples arrived in Europe in the 16th century as rare imports from South America. In Colonial America and Britain, fresh pineapples were so expensive and difficult to transport that they were displayed as centrepieces at formal dinners before being consumed. This made the pineapple a symbol of wealth and hospitality — a tradition that persisted in architectural decoration (pineapple finials on gate posts) and became embedded in the cultural meaning of the motif.
+Pineapples arrived in Europe in the 16th century as rare imports from South America. In Colonial America and Britain, fresh pineapples were so expensive and difficult to transport that they were displayed as centrepieces at formal dinners before being consumed. This made the pineapple a symbol of wealth and hospitality - a tradition that persisted in architectural decoration (pineapple finials on gate posts) and became embedded in the cultural meaning of the motif.
 
 The crochet pineapple stitch pattern became popular in the mid-19th century and has been a continuous presence in crochet and lace traditions since then. Popular for doilies, shawls, and vintage clothing, it is one of the most recognisable specialty stitches in crochet.
 
-The pineapple's geometric scale structure follows the Fibonacci sequence — intersecting spirals of 5, 8, and 13 scales — a mathematical pattern observed in many botanical structures. This natural geometric organisation has attracted design interest beyond the fruit's cultural associations.
+The pineapple's geometric scale structure follows the Fibonacci sequence - intersecting spirals of 5, 8, and 13 scales - a mathematical pattern observed in many botanical structures. This natural geometric organisation has attracted design interest beyond the fruit's cultural associations.
 
 ## Surface Pattern Uses
 
@@ -180,11 +181,11 @@ The pineapple's geometric scale structure follows the Fibonacci sequence — int
 
 ## Related Pattern Types
 
-- [[Tropical Pattern]] — parent aesthetic category; pineapple is one of the defining tropical motifs
-- [[Fruit Pattern]] — parent category; pineapple alongside lemon, strawberry, and other fruit motifs
-- [[Flamingo Pattern]] — frequent companion motif in tropical compositions
-- [[Palm Pattern]] — structural tropical companion; palm leaves commonly paired with pineapple
-- [[Resort Pattern]] — commercial context category; pineapple as a resort wear staple
+- Tropical Pattern - parent aesthetic category; pineapple is one of the defining tropical motifs
+- Fruit Pattern - parent category; pineapple alongside lemon, strawberry, and other fruit motifs
+- Flamingo Pattern - frequent companion motif in tropical compositions
+- Palm Pattern - structural tropical companion; palm leaves commonly paired with pineapple
+- Resort Pattern - commercial context category; pineapple as a resort wear staple
 
 ## Source Notes
 

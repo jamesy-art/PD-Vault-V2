@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 542
 ---
 # Found
 
@@ -102,8 +103,8 @@ Founded around Sophie Dakin's 16-year background in international sales and tren
 
 ## Pattern Focus
 
-Pattern Cloud selections show tropical and botanical florals, traditional hand-painted florals, tribal/geometric maximalist prints, ditsy and abstract scatter repeats, and an engineered placement floral — a trend-forecasting range built around seasonal colour and print direction for fashion.
+Pattern Cloud selections show tropical and botanical florals, traditional hand-painted florals, tribal/geometric maximalist prints, ditsy and abstract scatter repeats, and an engineered placement floral - a trend-forecasting range built around seasonal colour and print direction for fashion.
 
 ## Connections
 
-- The Pattern Cloud — source platform and studio directory listing
+- The Pattern Cloud - source platform and studio directory listing

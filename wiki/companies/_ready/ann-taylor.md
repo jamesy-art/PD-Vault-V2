@@ -56,6 +56,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 126
 ---
 
 # Ann Taylor
@@ -72,9 +73,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Ann Taylor is an American specialty retail brand founded in 1954 in New Haven, Connecticut by Richard Liebeskind. The brand name was taken from a best-selling dress at Liebeskind's father's store — "Ann" for its New England associations, "Taylor" to evoke tailored clothing. The company operated under the Ann Inc. umbrella from 2011, was acquired by Ascena Retail Group for $2.16 billion in 2015, and passed to Sycamore Partners following Ascena's 2020 Chapter 11 filing. It is now part of KnitWell Group, formed by Sycamore Partners in August 2023 from merged Talbots and Ascena assets.
+Ann Taylor is an American specialty retail brand founded in 1954 in New Haven, Connecticut by Richard Liebeskind. The brand name was taken from a best-selling dress at Liebeskind's father's store - "Ann" for its New England associations, "Taylor" to evoke tailored clothing. The company operated under the Ann Inc. umbrella from 2011, was acquired by Ascena Retail Group for $2.16 billion in 2015, and passed to Sycamore Partners following Ascena's 2020 Chapter 11 filing. It is now part of KnitWell Group, formed by Sycamore Partners in August 2023 from merged Talbots and Ascena assets.
 
-Ann Taylor's design identity is built on classic American professional tailoring for working women: structured separates, suiting, occasion dressing. The coordinate-separates logic — pieces that mix and match — is the structural design framework, stable across ownership transitions. LOFT operates as a casual counterpart, more responsive to seasonal print trends.
+Ann Taylor's design identity is built on classic American professional tailoring for working women: structured separates, suiting, occasion dressing. The coordinate-separates logic - pieces that mix and match - is the structural design framework, stable across ownership transitions. LOFT operates as a casual counterpart, more responsive to seasonal print trends.
 
 ## History
 
@@ -88,7 +89,7 @@ The company was renamed Ann Inc. in March 2011. Acquired by Ascena Retail Group 
 - LOFT (launched 1996): relaxed casual lifestyle clothing; moderate price; maternity line from Summer 2007
 - Lou & Grey: athleisure and active-wear inspired fashion
 - Ann Taylor Factory / Loft Outlet (128 stores): outlet and factory formats
-- Former special collections: Ann Taylor Celebrations (occasion dressing, dye-to-match system, 2005–2011); Ann Taylor Collections (Italian fabrics/yarns, luxury tier, 2007, discontinued); Ann Taylor Beauty (fragrance and body care, 2007, discontinued)
+- Former special collections: Ann Taylor Celebrations (occasion dressing, dye-to-match system, 2005-2011); Ann Taylor Collections (Italian fabrics/yarns, luxury tier, 2007, discontinued); Ann Taylor Beauty (fragrance and body care, 2007, discontinued)
 - Subscription: Infinite Style rental service (2017); Infinite Loft size-inclusive rental (2019)
 
 ## Services
@@ -103,11 +104,11 @@ Ann Taylor competes in the US professional womenswear segment at an accessible-l
 
 ## Pattern and Surface Design Relevance
 
-Ann Taylor's core design language is built on the separates-based coordinate system — individual pieces engineered to work together — which requires deliberate fabric, colour, and surface design decisions across the assortment. Classic tailored womenswear surface vocabulary (stripe, check, solid, houndstooth) is the primary pattern register.
+Ann Taylor's core design language is built on the separates-based coordinate system - individual pieces engineered to work together - which requires deliberate fabric, colour, and surface design decisions across the assortment. Classic tailored womenswear surface vocabulary (stripe, check, solid, houndstooth) is the primary pattern register.
 
 The Ann Taylor Celebrations collection (launched August 2005) was explicitly structured around a "dye to match" principle: every piece dyed to coordinate, making colour-matched surface design the central commercial proposition. The Ann Taylor Collections line (launched 2007) sourced Italian-made fabrics and yarns for an elevated price tier, documenting a direct Italian textile supply relationship for luxury fabric surfaces. Both lines are now discontinued.
 
-LOFT, the moderate-priced casual extension, operates its own seasonal print direction — documented in the KnitWell Group profile as "trend-reactive seasonal print direction (florals, geometrics, abstract)."
+LOFT, the moderate-priced casual extension, operates its own seasonal print direction - documented in the KnitWell Group profile as "trend-reactive seasonal print direction (florals, geometrics, abstract)."
 
 ## Official Resources
 

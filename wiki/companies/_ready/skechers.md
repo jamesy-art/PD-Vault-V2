@@ -104,6 +104,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 205
 ---
 
 # Skechers
@@ -123,9 +124,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Skechers U.S.A., Inc. is an American multinational footwear and apparel company headquartered in Manhattan Beach, California. Founded in 1992 by Robert Greenberg — who had previously founded LA Gear — Skechers initially focused on men's utility-style boots popular in grunge fashion before expanding into women's, children's, casual, and athletic categories. Skechers is the third-largest footwear brand in the world by sales. 2024 net sales were a company record at $8.97 billion; Skechers debuted on the Fortune 500 in 2023. Following a take-private deal announced May 2025, 3G Capital's acquisition was finalised in September 2025 and Skechers was delisted from the New York Stock Exchange.
+Skechers U.S.A., Inc. is an American multinational footwear and apparel company headquartered in Manhattan Beach, California. Founded in 1992 by Robert Greenberg - who had previously founded LA Gear - Skechers initially focused on men's utility-style boots popular in grunge fashion before expanding into women's, children's, casual, and athletic categories. Skechers is the third-largest footwear brand in the world by sales. 2024 net sales were a company record at $8.97 billion; Skechers debuted on the Fortune 500 in 2023. Following a take-private deal announced May 2025, 3G Capital's acquisition was finalised in September 2025 and Skechers was delisted from the New York Stock Exchange.
 
-Skechers design is commercially reactive — responding to lifestyle, comfort, and performance trends rather than leading aesthetic direction. The early grunge utility influence gave way to comfort-focused casual lifestyle positioning. The 3G Capital acquisition (2025) places design priorities under private equity commercial performance expectations.
+Skechers design is commercially reactive - responding to lifestyle, comfort, and performance trends rather than leading aesthetic direction. The early grunge utility influence gave way to comfort-focused casual lifestyle positioning. The 3G Capital acquisition (2025) places design priorities under private equity commercial performance expectations.
 
 ## History
 
@@ -137,7 +138,7 @@ Lifestyle and performance footwear, apparel, and accessories for adults and chil
 
 ## Services
 
-Skechers distributes through company-owned stores, wholesale (department stores, speciality retailers), and e-commerce globally. The European distribution centre in Liège is operated in partnership with WRT's parent company Weerts Group. Key legal exposure includes ongoing design patent disputes over the Slip-ins hands-free entry mechanism (Nike, 2019; Adidas, 2015–2018; Kizik, 2025). Forced labour supply chain scrutiny involves ongoing regulatory attention in France and the EU.
+Skechers distributes through company-owned stores, wholesale (department stores, speciality retailers), and e-commerce globally. The European distribution centre in Liège is operated in partnership with WRT's parent company Weerts Group. Key legal exposure includes ongoing design patent disputes over the Slip-ins hands-free entry mechanism (Nike, 2019; Adidas, 2015-2018; Kizik, 2025). Forced labour supply chain scrutiny involves ongoing regulatory attention in France and the EU.
 
 ## Markets
 
@@ -147,10 +148,10 @@ Skechers operates across lifestyle and performance footwear globally, ranking th
 
 Skechers' SPD relevance operates primarily through product surface design in footwear and lifestyle apparel:
 
-- **Children's footwear graphic design**: The Twinkle Toes and D'Lites lines feature decorative surface treatments — embellishments, graphic prints, colour-blocking, and visual motifs — applied directly to shoe uppers. This is among the most consumer-visible surface design work in the Skechers range.
-- **Lifestyle footwear surface treatment**: Skechers' lifestyle product lines involve material surface decisions — upper textures, colour combinations, graphic overlays — across adult and children's categories.
+- **Children's footwear graphic design**: The Twinkle Toes and D'Lites lines feature decorative surface treatments - embellishments, graphic prints, colour-blocking, and visual motifs - applied directly to shoe uppers. This is among the most consumer-visible surface design work in the Skechers range.
+- **Lifestyle footwear surface treatment**: Skechers' lifestyle product lines involve material surface decisions - upper textures, colour combinations, graphic overlays - across adult and children's categories.
 - **Apparel graphic design**: The apparel line (tops, bottoms, activewear, matching sets) involves standard fashion print and graphic rotation across adult and children's categories.
-- **Rolling Stones collaboration (2023)**: A documented trainer collaboration with The Rolling Stones indicates licensed graphic/print application to footwear uppers — a brand collaboration model common in lifestyle footwear with distinct SPD implications.
+- **Rolling Stones collaboration (2023)**: A documented trainer collaboration with The Rolling Stones indicates licensed graphic/print application to footwear uppers - a brand collaboration model common in lifestyle footwear with distinct SPD implications.
 
 No documented in-house surface pattern design methodology or specialist print/pattern function.
 

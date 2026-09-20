@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-3c8497c3beb007b9",
+  "editorial_slug": "design-assistant-print-and-colour-new-look-london",
+  "canonical_id": "can-clip-3c8497c3beb007b9",
+  "capture_id": "cap-clip-3c8497c3beb007b9",
+  "ready_status": "ready",
+  "ready_at": "2026-08-06T00:00:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.83a9b4e0",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "83a9b4e0a44ff2381992d90366d2054695ac07f6f49ecc4608c965f9154fe52a",
+  "title": "Design Assistant - Print & Colour",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 4,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 4,
+    "rewritten_wikilinks": 0
+  }
+}

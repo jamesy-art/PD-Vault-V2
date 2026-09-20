@@ -45,6 +45,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 146
 ---
 
 # Charlotte Tilbury
@@ -57,9 +58,9 @@ enrichment_status: enriched
 
 Charlotte Tilbury Beauty Ltd is a British luxury beauty brand founded in October 2013 by makeup artist and entrepreneur Charlotte Emma Bow Tilbury MBE (born 10 February 1973, Kensington). The brand launched at Selfridges, London, with a lineup of skincare and makeup products. Tilbury's signature product, Magic Cream, was formulated backstage during years of fashion show work (as show makeup director for Prada, McQueen, Cavalli, Lanvin, and Chloé). In June 2020, Spanish conglomerate Puig acquired a majority stake; Tilbury retained a significant minority stake and continues as chair, president, and chief creative officer, also serving on Puig's executive committee. Tilbury's net worth was estimated at £350 million as of March 2025.
 
-Note: YAML location field shows "Spain" — Charlotte Tilbury Beauty Ltd is a British brand, founded and headquartered in London; Puig (Spain) holds the majority stake. This appears to reflect the parent company's geography. YAML preserved as found.
+Note: YAML location field shows "Spain" - Charlotte Tilbury Beauty Ltd is a British brand, founded and headquartered in London; Puig (Spain) holds the majority stake. This appears to reflect the parent company's geography. YAML preserved as found.
 
-The brand's aesthetic is unapologetically glamorous: champagne gold, Hollywood references, a "Magic" brand vocabulary, and a surface identity that reads luxury across both the product line and retail environment. Creative direction is Tilbury's own; she is founder, chair, president, and chief creative officer. The "makeup wardrobe" concept applies editorial fashion logic — curated looks, complementary product groupings — to beauty product surface presentation.
+The brand's aesthetic is unapologetically glamorous: champagne gold, Hollywood references, a "Magic" brand vocabulary, and a surface identity that reads luxury across both the product line and retail environment. Creative direction is Tilbury's own; she is founder, chair, president, and chief creative officer. The "makeup wardrobe" concept applies editorial fashion logic - curated looks, complementary product groupings - to beauty product surface presentation.
 
 ## History
 
@@ -89,9 +90,9 @@ Charlotte Tilbury occupies the upper-premium and prestige beauty tier, competing
 
 Charlotte Tilbury's SPD relevance concentrates in packaging and retail environment surface design:
 
-- **Packaging surface design**: Charlotte Tilbury's products are characterised by glamorous gold-accented, champagne-toned packaging — a Hollywood-influenced aesthetic applied consistently across all product surfaces. The packaging identity is a key commercial differentiator in the prestige beauty market and functions as a coherent surface design system.
-- **Limited-edition packaging collaboration**: The 2015 Norman Parkinson collaboration applied his photographic images to limited-edition product packaging surfaces — a documented example of image-to-surface applied design within a beauty launch.
-- **"Makeup wardrobe" concept as SPD system**: The brand's core concept — grouping complementary products as a "wardrobe" — applies editorial design logic to product surface presentation and merchandising, creating a curated surface aesthetic across the product range.
+- **Packaging surface design**: Charlotte Tilbury's products are characterised by glamorous gold-accented, champagne-toned packaging - a Hollywood-influenced aesthetic applied consistently across all product surfaces. The packaging identity is a key commercial differentiator in the prestige beauty market and functions as a coherent surface design system.
+- **Limited-edition packaging collaboration**: The 2015 Norman Parkinson collaboration applied his photographic images to limited-edition product packaging surfaces - a documented example of image-to-surface applied design within a beauty launch.
+- **"Makeup wardrobe" concept as SPD system**: The brand's core concept - grouping complementary products as a "wardrobe" - applies editorial design logic to product surface presentation and merchandising, creating a curated surface aesthetic across the product range.
 - **Retail environment design**: The "Beauty Boudoir" flagship concept in Covent Garden applied a glamorous, theatrical surface environment to the brand's retail space, maintained through intensive staff training.
 - **Fashion show makeup as design influence**: Tilbury's background as show makeup director for Prada, McQueen, Cavalli, Lanvin, and Chloé provided a fashion surface design sensibility that informs the brand's aesthetic vocabulary.
 

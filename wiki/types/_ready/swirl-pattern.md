@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 28
 ---
 
 # Swirl Pattern
@@ -120,15 +121,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/swirl-pattern/profile/swirl-pattern-image.svg)
-A surface pattern based on spiral or swirling curved forms — lines and shapes that rotate around a point while moving progressively outward, creating a sense of dynamic energy and fluid movement.
+A surface pattern based on spiral or swirling curved forms - lines and shapes that rotate around a point while moving progressively outward, creating a sense of dynamic energy and fluid movement.
 
 ## Overview
 
-Swirl and spiral patterns draw on one of the most fundamental geometric structures in mathematics and nature. The spiral — a curve that emanates from a point and moves progressively further away as it rotates — appears across natural forms (nautilus shells, sunflower seed heads, unfurling ferns) and across cultures and millennia of decorative art (Celtic triple-spirals, Islamic arabesque scrollwork, Art Nouveau organic curves). In surface pattern design, swirl and spiral forms create a sense of dynamic flow and movement, and are particularly associated with fluid, organic, or energetic aesthetic directions.
+Swirl and spiral patterns draw on one of the most fundamental geometric structures in mathematics and nature. The spiral - a curve that emanates from a point and moves progressively further away as it rotates - appears across natural forms (nautilus shells, sunflower seed heads, unfurling ferns) and across cultures and millennia of decorative art (Celtic triple-spirals, Islamic arabesque scrollwork, Art Nouveau organic curves). In surface pattern design, swirl and spiral forms create a sense of dynamic flow and movement, and are particularly associated with fluid, organic, or energetic aesthetic directions.
 
 ## Visual Characteristics
 
-Swirl patterns are characterised by curved, rotating forms that move outward from or toward a centre point. The visual effect is of continuous movement — the eye follows the curve outward and the motion creates energy. Tightly wound spirals read as controlled and geometric; loosely flowing swirls read as organic and fluid. Multiple overlapping swirls create a complex, undulating surface. Swirl and scroll motifs can range from precise mathematical curves to freely drawn brush-stroke forms.
+Swirl patterns are characterised by curved, rotating forms that move outward from or toward a centre point. The visual effect is of continuous movement - the eye follows the curve outward and the motion creates energy. Tightly wound spirals read as controlled and geometric; loosely flowing swirls read as organic and fluid. Multiple overlapping swirls create a complex, undulating surface. Swirl and scroll motifs can range from precise mathematical curves to freely drawn brush-stroke forms.
 
 ## Pattern Structure
 
@@ -145,7 +146,7 @@ Spiral and swirl forms appear in several specific pattern traditions:
 
 ## Colour and Style
 
-Swirl patterns in surface design are colour-agnostic — the form itself carries the visual interest. In fluid Art Nouveau and Rococo-influenced styles, swirl patterns use rich, complex colour. Minimalist swirl patterns in monochrome emphasise the line structure. Marbled paper patterns — produced by floating pigment on water or oil and capturing the swirled patterns formed — are a specific application of swirl aesthetics in stationery and bookbinding.
+Swirl patterns in surface design are colour-agnostic - the form itself carries the visual interest. In fluid Art Nouveau and Rococo-influenced styles, swirl patterns use rich, complex colour. Minimalist swirl patterns in monochrome emphasise the line structure. Marbled paper patterns - produced by floating pigment on water or oil and capturing the swirled patterns formed - are a specific application of swirl aesthetics in stationery and bookbinding.
 
 ## History and Context
 
@@ -161,13 +162,13 @@ The spiral is among the most ancient decorative motifs known. The triple spiral 
 
 ## Related Pattern Types
 
-- [[Radial Pattern]] — spirals and radial patterns share the concept of rotation around a centre point
-- [[Wave Pattern]] — flowing, undulating curves overlap with swirl aesthetics
-- [[Symmetry Pattern]] — many spiral patterns use rotational symmetry
+- Radial Pattern - spirals and radial patterns share the concept of rotation around a centre point
+- Wave Pattern - flowing, undulating curves overlap with swirl aesthetics
+- Symmetry Pattern - many spiral patterns use rotational symmetry
 
 ## Source Notes
 
-- Wikipedia, "Spiral" — Archimedean/logarithmic/Fibonacci/golden spiral; nautilus shell; sunflower florets and golden angle; Celtic triple-spiral at Newgrange; Nazca Lines; Robert Smithson "Spiral Jetty"; Islamic architecture applications
+- Wikipedia, "Spiral" - Archimedean/logarithmic/Fibonacci/golden spiral; nautilus shell; sunflower florets and golden angle; Celtic triple-spiral at Newgrange; Nazca Lines; Robert Smithson "Spiral Jetty"; Islamic architecture applications
 
 ## Editorial Images
 

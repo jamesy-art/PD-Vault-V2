@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 6
 ---
 
 # Cat Pattern
@@ -121,32 +122,32 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/cat-pattern/profile/cat-pattern-image.svg)
-A surface pattern category featuring domestic cats as primary motifs — drawing on the rich visual vocabulary of feline fur markings, coat patterns, and coloration as source material for textile, wallpaper, and graphic surface design.
+A surface pattern category featuring domestic cats as primary motifs - drawing on the rich visual vocabulary of feline fur markings, coat patterns, and coloration as source material for textile, wallpaper, and graphic surface design.
 
 ## Overview
 
-Cat patterns operate on two levels in surface design: as a figurative motif (cats as characters, poses, or silhouettes) and as a reference to feline coat markings (stripes, spots, and tortoiseshell coloration systems). Feline coat pattern provides a rich, naturally occurring visual vocabulary that directly informs pattern design — particularly tabby stripe, tortoiseshell colour mixing, and calico tricolour arrangements. Domestically, cat-themed surface pattern is commercially active in gifting, stationery, home textiles, and children's products.
+Cat patterns operate on two levels in surface design: as a figurative motif (cats as characters, poses, or silhouettes) and as a reference to feline coat markings (stripes, spots, and tortoiseshell coloration systems). Feline coat pattern provides a rich, naturally occurring visual vocabulary that directly informs pattern design - particularly tabby stripe, tortoiseshell colour mixing, and calico tricolour arrangements. Domestically, cat-themed surface pattern is commercially active in gifting, stationery, home textiles, and children's products.
 
 ## Visual Characteristics
 
 Feline coat markings provide a naturalistic pattern vocabulary:
-- **Tabby stripe** — bold parallel stripes (mackerel tabby) or broad marbled swirls (classic tabby)
-- **Spotted tabby** — discrete spots or rosettes distributed across a lighter ground
-- **Tortoiseshell** — mottled interweaving of black and orange/red without clear boundaries
-- **Calico** — tricolour distribution of black, orange, and white in distinct patches
-- **Ticked** — individual hairs banded with alternating colours; produces a fine, granular surface texture with no obvious striping or spotting
-- **Colorpoint** — high-contrast dark extremities (ears, face, paws, tail) against a pale body; associated with Siamese
+- **Tabby stripe** - bold parallel stripes (mackerel tabby) or broad marbled swirls (classic tabby)
+- **Spotted tabby** - discrete spots or rosettes distributed across a lighter ground
+- **Tortoiseshell** - mottled interweaving of black and orange/red without clear boundaries
+- **Calico** - tricolour distribution of black, orange, and white in distinct patches
+- **Ticked** - individual hairs banded with alternating colours; produces a fine, granular surface texture with no obvious striping or spotting
+- **Colorpoint** - high-contrast dark extremities (ears, face, paws, tail) against a pale body; associated with Siamese
 
 At the figurative level, cat patterns deploy silhouettes, portraits, and character-style illustrations across all-over repeats.
 
 ## Pattern Structure
 
 Cat fur marking patterns translate into surface design as:
-- **All-over stripe** — mackerel tabby stripe adapted as a linear stripe repeat
-- **Scattered spot** — spotted tabby marking adapted as an organic spot or dot repeat
-- **Organic swirl** — classic/marbled tabby adapted as an all-over organic swirl composition
-- **Colour-blocked patch** — calico three-colour patching adapted as large irregular colour zones
-- **Figurative all-over** — cat silhouettes or illustrations in regular or scattered repeat
+- **All-over stripe** - mackerel tabby stripe adapted as a linear stripe repeat
+- **Scattered spot** - spotted tabby marking adapted as an organic spot or dot repeat
+- **Organic swirl** - classic/marbled tabby adapted as an all-over organic swirl composition
+- **Colour-blocked patch** - calico three-colour patching adapted as large irregular colour zones
+- **Figurative all-over** - cat silhouettes or illustrations in regular or scattered repeat
 
 ## Common Motifs
 
@@ -160,27 +161,27 @@ Cat fur marking patterns translate into surface design as:
 
 ## Colour and Style
 
-Cat coat colour vocabulary includes: white, black, blue (grey), brown, silver, golden, cream, fawn, seal, sable, champagne, platinum, lilac, cinnamon, and orange — plus the tortoiseshell black-and-orange combination and the calico tricolour. This provides a naturalistic colour palette for fur-referenced design work. In figurative cat pattern, colourways are unconstrained by the animal's actual coat and may use any palette.
+Cat coat colour vocabulary includes: white, black, blue (grey), brown, silver, golden, cream, fawn, seal, sable, champagne, platinum, lilac, cinnamon, and orange - plus the tortoiseshell black-and-orange combination and the calico tricolour. This provides a naturalistic colour palette for fur-referenced design work. In figurative cat pattern, colourways are unconstrained by the animal's actual coat and may use any palette.
 
 ## History and Context
 
-The domestic cat has been depicted in decorative art since ancient Egypt, where cats held religious significance. In surface pattern design, cat motifs became particularly prominent in the 19th century through Japanese woodblock print aesthetics (Utagawa Kuniyoshi's cat prints, 1840s) which influenced European decorative arts. Japanese surface pattern traditions incorporate cats extensively. In contemporary surface design, cat pattern is a high-volume commercial category particularly in gifting and novelty markets. The Cats.com coat pattern taxonomy — distinguishing solid, bicolour, tabby, tortoiseshell, calico, colorpoint, smoke, and shaded patterns — reflects the genuine diversity of visual source material available for surface design reference.
+The domestic cat has been depicted in decorative art since ancient Egypt, where cats held religious significance. In surface pattern design, cat motifs became particularly prominent in the 19th century through Japanese woodblock print aesthetics (Utagawa Kuniyoshi's cat prints, 1840s) which influenced European decorative arts. Japanese surface pattern traditions incorporate cats extensively. In contemporary surface design, cat pattern is a high-volume commercial category particularly in gifting and novelty markets. The Cats.com coat pattern taxonomy - distinguishing solid, bicolour, tabby, tortoiseshell, calico, colorpoint, smoke, and shaded patterns - reflects the genuine diversity of visual source material available for surface design reference.
 
 ## Surface Pattern Uses
 
-- **Gifting and novelty products** — cat pattern is a dominant commercial category in gifting, mugs, cards, and novelty homeware
-- **Stationery** — cat motifs are commercially reliable in notebook, planner, and desk accessory design
-- **Children's textiles** — cat imagery is standard in children's apparel, bedding, and room accessories
-- **Fashion accessories** — cat-print scarves, bags, and socks are consistent commercial lines
-- **POD platforms** — cat pattern is one of the highest-volume motif categories on print-on-demand platforms
+- **Gifting and novelty products** - cat pattern is a dominant commercial category in gifting, mugs, cards, and novelty homeware
+- **Stationery** - cat motifs are commercially reliable in notebook, planner, and desk accessory design
+- **Children's textiles** - cat imagery is standard in children's apparel, bedding, and room accessories
+- **Fashion accessories** - cat-print scarves, bags, and socks are consistent commercial lines
+- **POD platforms** - cat pattern is one of the highest-volume motif categories on print-on-demand platforms
 
 ## Related Pattern Types
 
-[[Leopard Pattern]], [[Cheetah Pattern]], [[Tiger Pattern]], [[Animal Print]], [[Stripe Pattern]], [[Tortoiseshell Pattern]]
+Leopard Pattern, Cheetah Pattern, Tiger Pattern, Animal Print, Stripe Pattern, Tortoiseshell Pattern
 
 ## Source Notes
 
-- Source: Cats.com "Complete Guide to Cat Fur Patterns" — comprehensive taxonomy of domestic cat coat types: solid, bicolour, tabby (classic/marbled, mackerel/striped, spotted, rosetted, patched/torbie, ticked, grizzled), tortoiseshell, calico, colorpoint, mink, sepia, smoke, shaded, chinchilla, salmiak; colour vocabulary
+- Source: Cats.com "Complete Guide to Cat Fur Patterns" - comprehensive taxonomy of domestic cat coat types: solid, bicolour, tabby (classic/marbled, mackerel/striped, spotted, rosetted, patched/torbie, ticked, grizzled), tortoiseshell, calico, colorpoint, mink, sepia, smoke, shaded, chinchilla, salmiak; colour vocabulary
 
 ## Editorial Images
 

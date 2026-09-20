@@ -3,7 +3,7 @@ name: Rocket Pattern
 slug: rocket-pattern
 status: active
 type_group: novelty
-summary: Novelty surface pattern using rocket, spaceship, and space-age motifs — typically retro-futuristic or cartoon-style; commercially active in children's apparel, novelty stationery, and space-themed home products
+summary: Novelty surface pattern using rocket, spaceship, and space-age motifs - typically retro-futuristic or cartoon-style; commercially active in children's apparel, novelty stationery, and space-themed home products
 motifs:
   - Celestial
   - Novelty
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 104
 ---
 
 # Rocket Pattern
@@ -124,9 +125,9 @@ A novelty surface pattern using rocket ships and space-age motifs as its primary
 
 ## Overview
 
-Rocket patterns belong to the space-theme category of novelty and conversational prints — a commercially durable children's product category alongside dinosaur, construction vehicle, and dinosaur motif patterns. The rocket's strong silhouette, cultural associations with adventure and exploration, and appeal to children's imagination give it reliable commercial traction in licensed and unlicensed product design.
+Rocket patterns belong to the space-theme category of novelty and conversational prints - a commercially durable children's product category alongside dinosaur, construction vehicle, and dinosaur motif patterns. The rocket's strong silhouette, cultural associations with adventure and exploration, and appeal to children's imagination give it reliable commercial traction in licensed and unlicensed product design.
 
-The aesthetic splits into two dominant traditions: the **retro-futuristic** style (drawing on 1950s–1960s science fiction illustration and Space Age design, featuring bullet-shaped metallic rockets with fins and flames), and the **contemporary cartoon** style (simplified, friendly forms suited to infant and younger children's products).
+The aesthetic splits into two dominant traditions: the **retro-futuristic** style (drawing on 1950s-1960s science fiction illustration and Space Age design, featuring bullet-shaped metallic rockets with fins and flames), and the **contemporary cartoon** style (simplified, friendly forms suited to infant and younger children's products).
 
 ## Visual Characteristics
 
@@ -169,7 +170,7 @@ Space scene compositions (a large illustrative space landscape as a placement or
 
 ## History and Context
 
-Rocket imagery entered Western popular visual culture with the Space Age and the Cold War space race: Sputnik (1957), Yuri Gagarin (1961), and the Apollo missions (1969) made rockets into cultural icons. The period from 1955 to 1975 established the visual vocabulary of space travel in illustration, toy design, and children's media — creating the retro-futuristic aesthetic that contemporary designers draw on when referencing the era.
+Rocket imagery entered Western popular visual culture with the Space Age and the Cold War space race: Sputnik (1957), Yuri Gagarin (1961), and the Apollo missions (1969) made rockets into cultural icons. The period from 1955 to 1975 established the visual vocabulary of space travel in illustration, toy design, and children's media - creating the retro-futuristic aesthetic that contemporary designers draw on when referencing the era.
 
 Children's surface pattern design adopted rocket and space motifs early in this period. The combination of strong, simple silhouettes, cultural adventure associations, and science-literacy appeal has kept space themes a reliable novelty print category across generations.
 
@@ -186,16 +187,16 @@ In recent decades, renewed commercial interest in space exploration (SpaceX, ren
 
 ## Related Pattern Types
 
-- [[Space Pattern]] — parent category; rockets as one component of a broader space-theme pattern vocabulary
-- [[Transportation Pattern]] — structural parent; rocket as aerial/aerospace vehicle alongside plane and helicopter motifs
-- [[Novelty Pattern]] — structural parent; rocket is a conversational/novelty print category
-- [[Star Pattern]] — close companion motif category; stars are the most common supporting element in rocket compositions
-- [[Dinosaur Pattern]] — commercial parallel; both are dominant children's novelty print categories with similar market dynamics
-- [[Retro Pattern]] — aesthetic connection; retro-futuristic rocket design draws on 1950s–1960s graphic aesthetics
+- Space Pattern - parent category; rockets as one component of a broader space-theme pattern vocabulary
+- Transportation Pattern - structural parent; rocket as aerial/aerospace vehicle alongside plane and helicopter motifs
+- Novelty Pattern - structural parent; rocket is a conversational/novelty print category
+- Star Pattern - close companion motif category; stars are the most common supporting element in rocket compositions
+- Dinosaur Pattern - commercial parallel; both are dominant children's novelty print categories with similar market dynamics
+- Retro Pattern - aesthetic connection; retro-futuristic rocket design draws on 1950s-1960s graphic aesthetics
 
 ## Source Notes
 
-- AI-generated source summary: Defines "rocket pattern" as visual design motif featuring rockets and space-themed imagery (spacecraft, stars, planets) applied to textiles and surface design. Identifies three types: (1) retro/vintage — 1950s bullet-shaped rockets with fins, metallic tones, vintage science fiction aesthetic; (2) cartoon/playful — simplified colourful rockets, large eyes, smiling expressions; (3) seamless all-over repeat — rockets in multiple orientations with stars/planets/astronauts as supporting elements. Applications: children's apparel, nursery, stationery, fabric.
+- AI-generated source summary: Defines "rocket pattern" as visual design motif featuring rockets and space-themed imagery (spacecraft, stars, planets) applied to textiles and surface design. Identifies three types: (1) retro/vintage - 1950s bullet-shaped rockets with fins, metallic tones, vintage science fiction aesthetic; (2) cartoon/playful - simplified colourful rockets, large eyes, smiling expressions; (3) seamless all-over repeat - rockets in multiple orientations with stars/planets/astronauts as supporting elements. Applications: children's apparel, nursery, stationery, fabric.
 
 ## Editorial Images
 

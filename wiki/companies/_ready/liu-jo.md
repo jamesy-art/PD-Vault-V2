@@ -83,6 +83,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 13
 ---
 
 # Liu Jo
@@ -107,9 +108,9 @@ No named creative director is documented in the source material; Marco Marchi is
 
 ## History
 
-Founded in Carpi — historically a centre of knitwear and textile manufacturing in the Emilia-Romagna region — Liu Jo expanded progressively from its core Liu Jo and Liu Jeans women's wear collections. Within five years of founding, the company launched an accessories collection (jewellery and watches), a Baby collection for girls, an Underwear and Beachwear collection, and Homewear. A dedicated footwear collection followed in 2008. In 2012, Liu Jo opened a 350 square metre flagship store in Milan. In 2013, Liu Jo signed a licence agreement with Marchon Eyewear to manufacture eyewear under the brand.
+Founded in Carpi - historically a centre of knitwear and textile manufacturing in the Emilia-Romagna region - Liu Jo expanded progressively from its core Liu Jo and Liu Jeans women's wear collections. Within five years of founding, the company launched an accessories collection (jewellery and watches), a Baby collection for girls, an Underwear and Beachwear collection, and Homewear. A dedicated footwear collection followed in 2008. In 2012, Liu Jo opened a 350 square metre flagship store in Milan. In 2013, Liu Jo signed a licence agreement with Marchon Eyewear to manufacture eyewear under the brand.
 
-In March 2017, a corporate reorganisation reduced Vannis Marchi's role to minority shareholder (approximately 10%), with Marco Marchi retaining controlling interest. In November 2019, Marco Marchi entered the Coin department store chain as a 15% investor. Also in November 2019, Liu Jo acquired Blufin — the fashion house founded in Carpi by Anna Molinari and Gianpaolo Tarabini — and its two brands: Blugirl and Miss Blumarine. This acquisition formed the basis of "Italian Excellence," a holding company intended to aggregate high-end Italian fashion brands. Anna Molinari was retained in an ambassador role.
+In March 2017, a corporate reorganisation reduced Vannis Marchi's role to minority shareholder (approximately 10%), with Marco Marchi retaining controlling interest. In November 2019, Marco Marchi entered the Coin department store chain as a 15% investor. Also in November 2019, Liu Jo acquired Blufin - the fashion house founded in Carpi by Anna Molinari and Gianpaolo Tarabini - and its two brands: Blugirl and Miss Blumarine. This acquisition formed the basis of "Italian Excellence," a holding company intended to aggregate high-end Italian fashion brands. Anna Molinari was retained in an ambassador role.
 
 ## Products
 
@@ -129,9 +130,9 @@ Liu Jo's core product range spans multiple categories where surface design is ce
 
 **Underwear and beachwear**: These categories depend heavily on printed fabric, seasonal colourways, and decorative surface treatments. As a brand with a dedicated Underwear and Beachwear collection, Liu Jo operates in inherently print-intensive product lines.
 
-**Blugirl and Miss Blumarine (acquired 2019)**: Blugirl and Miss Blumarine are Italian fashion brands associated with a feminine, floral, and romantically decorative design vocabulary — a print-forward aesthetic grounded in Italian luxury prêt-à-porter. Their acquisition brings distinct surface pattern identities into the Liu Jo group.
+**Blugirl and Miss Blumarine (acquired 2019)**: Blugirl and Miss Blumarine are Italian fashion brands associated with a feminine, floral, and romantically decorative design vocabulary - a print-forward aesthetic grounded in Italian luxury prêt-à-porter. Their acquisition brings distinct surface pattern identities into the Liu Jo group.
 
-**Textile origin**: Liu Jo originated as a small textile industry in Carpi before developing into a fashion brand — establishing design and material development as foundational to the company rather than a later addition.
+**Textile origin**: Liu Jo originated as a small textile industry in Carpi before developing into a fashion brand - establishing design and material development as foundational to the company rather than a later addition.
 
 ## Official Resources
 

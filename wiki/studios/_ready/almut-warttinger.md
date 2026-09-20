@@ -41,6 +41,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 526
 ---
 # Almut Warttinger
 
@@ -67,7 +68,7 @@ Almut Warttinger is a Berlin-based textile designer creating handcrafted repeat 
 
 ## Studio Style and Aesthetic
 
-Warttinger's work draws energy from music and dance — designs described as carrying rhythm, sometimes bold and expansive, sometimes fine and subtle. The portfolio features vivid, original compositions with a handcrafted graphic quality. Collections are positioned as fresh in colour and trend-aware without being generic.
+Warttinger's work draws energy from music and dance - designs described as carrying rhythm, sometimes bold and expansive, sometimes fine and subtle. The portfolio features vivid, original compositions with a handcrafted graphic quality. Collections are positioned as fresh in colour and trend-aware without being generic.
 
 ## Markets and Specialties
 

@@ -59,7 +59,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Basketsm.png"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Basketsm.png"
       title: Structure of basketweave fabric, with each thread traveling over two, then under two threads of the opposing direction.
       description: Structure of basketweave fabric, with each thread traveling over two, then under two threads of the opposing direction.
@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 123
 ---
 
 # Basket Weave Pattern
@@ -126,7 +127,7 @@ Basket weave is one of the simplest variations of plain weave, distinguished by 
 
 ## Visual Characteristics
 
-Basket weave produces a regular, square or near-square grid appearance. Paired thread groups create a surface of alternating raised and recessed colour blocks, each composed of two or more threads. The overall effect is a clean checkered pattern with subtle surface texture. Compared to plain weave, basket weave has a looser, more open structure — visible in both physical cloth and printed simulation. The visual result is a quiet, regular grid without the complexity of a twill or more elaborate weave structure.
+Basket weave produces a regular, square or near-square grid appearance. Paired thread groups create a surface of alternating raised and recessed colour blocks, each composed of two or more threads. The overall effect is a clean checkered pattern with subtle surface texture. Compared to plain weave, basket weave has a looser, more open structure - visible in both physical cloth and printed simulation. The visual result is a quiet, regular grid without the complexity of a twill or more elaborate weave structure.
 
 ## Pattern Structure
 
@@ -138,22 +139,22 @@ Basket weave has no figurative motif content. It is defined entirely by its stru
 
 ## Colour and Style
 
-Traditional basket weave cloth appears in natural fibre tones — cream, ecru, undyed linen, and natural wool. Contemporary printed basket weave patterns can use any colourway. Classic interior applications tend toward neutral and natural tones that reference the woven textile origin. Fashion applications may use high-contrast colour pairs or trend-driven palettes. The pattern reads as understated and structural rather than decorative.
+Traditional basket weave cloth appears in natural fibre tones - cream, ecru, undyed linen, and natural wool. Contemporary printed basket weave patterns can use any colourway. Classic interior applications tend toward neutral and natural tones that reference the woven textile origin. Fashion applications may use high-contrast colour pairs or trend-driven palettes. The pattern reads as understated and structural rather than decorative.
 
 ## History and Context
 
-Basket weave is among the oldest and most widespread weaving techniques, used in basketry, matting, and cloth across virtually all global textile traditions. The structural principle — interlacing groups of threads at right angles — is shared by both functional basketry and textile weaving. In textile form the pattern is known by several names: Panama weave, hopsack weave, mat weave, and matt weave. Monk's cloth (a 12:12 cotton canvas basket weave) is a well-known contemporary example used for needle punch embroidery. The name "Panama weave" additionally refers to lightweight woollen suiting fabric woven in this structure — soft and loose with a fine, grainy surface — used for men's and women's suits and dresses.
+Basket weave is among the oldest and most widespread weaving techniques, used in basketry, matting, and cloth across virtually all global textile traditions. The structural principle - interlacing groups of threads at right angles - is shared by both functional basketry and textile weaving. In textile form the pattern is known by several names: Panama weave, hopsack weave, mat weave, and matt weave. Monk's cloth (a 12:12 cotton canvas basket weave) is a well-known contemporary example used for needle punch embroidery. The name "Panama weave" additionally refers to lightweight woollen suiting fabric woven in this structure - soft and loose with a fine, grainy surface - used for men's and women's suits and dresses.
 
 ## Surface Pattern Uses
 
-- **Apparel fabric** — basket weave cloth is used for structured fashion fabrics, suiting, and tailored casualwear
-- **Interior textiles** — upholstery and furnishing fabrics use basket weave structures for their durability and textured surface quality
-- **Printed simulation** — basket weave patterns appear as printed designs on jerseys and flat fabrics, providing textural visual character without the structural weave
-- **Home decor and stationery** — the clean geometric grid of basket weave is used as a background pattern element in surface and stationery design
+- **Apparel fabric** - basket weave cloth is used for structured fashion fabrics, suiting, and tailored casualwear
+- **Interior textiles** - upholstery and furnishing fabrics use basket weave structures for their durability and textured surface quality
+- **Printed simulation** - basket weave patterns appear as printed designs on jerseys and flat fabrics, providing textural visual character without the structural weave
+- **Home decor and stationery** - the clean geometric grid of basket weave is used as a background pattern element in surface and stationery design
 
 ## Related Pattern Types
 
-[[Plain Weave]], [[Check Pattern]], [[Grid Pattern]], [[Houndstooth Pattern]], [[Tweed Pattern]], [[Woven Texture Pattern]]
+Plain Weave, Check Pattern, Grid Pattern, Houndstooth Pattern, Tweed Pattern, Woven Texture Pattern
 
 ## Source Notes
 

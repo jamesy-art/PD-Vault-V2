@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 570
 ---
 # Paradox
 
@@ -80,7 +81,7 @@ Selected images reflect the studio's archival, multi-decade remit rather than a 
 
 ## Techniques and Artwork Process
 
-The studio_type of embellishment & embroidery is directly supported by one selected image — a dense hand-beaded and sequinned sample worked in a wave/stripe motif — alongside the printed vintage textile references that make up the rest of the archive.
+The studio_type of embellishment & embroidery is directly supported by one selected image - a dense hand-beaded and sequinned sample worked in a wave/stripe motif - alongside the printed vintage textile references that make up the rest of the archive.
 
 ## Clients and Commercial Positioning
 
@@ -99,4 +100,4 @@ Described as "New York's premier source for trendsetting vintage prints, silhoue
 
 ## Pattern Focus
 
-The archive spans retro/vintage florals (Hawaiian tropical, chinoiserie-style scroll and tiger motifs), graphic animal-print abstracts, and hand embellishment (sequin and bead) techniques — reflecting the studio's role as a historical reference resource rather than a single-aesthetic design house.
+The archive spans retro/vintage florals (Hawaiian tropical, chinoiserie-style scroll and tiger motifs), graphic animal-print abstracts, and hand embellishment (sequin and bead) techniques - reflecting the studio's role as a historical reference resource rather than a single-aesthetic design house.

@@ -70,6 +70,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 47
 ---
 
 # Tory Burch
@@ -86,9 +87,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Tory Burch LLC is an American women's fashion label founded by designer Tory Burch in February 2004, opening its first retail store in Manhattan's Nolita district. When Oprah Winfrey endorsed the label on her television show in April 2005 — calling Burch "the next big thing in fashion" — the brand's website received eight million visits the following day. The company has since grown to 400 stores worldwide, including flagships in New York, Los Angeles, London, Paris, Rome, Tokyo, and Seoul; its largest store is its Shanghai flagship, opened 2014. The brand is also carried in 3,000+ department and specialty stores including Saks Fifth Avenue, Bergdorf Goodman, Neiman Marcus, Nordstrom, Bloomingdale's, Harrods, Harvey Nichols, Galeries Lafayette, Lane Crawford, and Isetan. As of 2024, the company was named to *Time* magazine's 100 Most Influential Companies, and Burch was listed among its 100 Most Influential People globally.
+Tory Burch LLC is an American women's fashion label founded by designer Tory Burch in February 2004, opening its first retail store in Manhattan's Nolita district. When Oprah Winfrey endorsed the label on her television show in April 2005 - calling Burch "the next big thing in fashion" - the brand's website received eight million visits the following day. The company has since grown to 400 stores worldwide, including flagships in New York, Los Angeles, London, Paris, Rome, Tokyo, and Seoul; its largest store is its Shanghai flagship, opened 2014. The brand is also carried in 3,000+ department and specialty stores including Saks Fifth Avenue, Bergdorf Goodman, Neiman Marcus, Nordstrom, Bloomingdale's, Harrods, Harvey Nichols, Galeries Lafayette, Lane Crawford, and Isetan. As of 2024, the company was named to *Time* magazine's 100 Most Influential Companies, and Burch was listed among its 100 Most Influential People globally.
 
-Burch's design style has been characterised as preppy-boho and preppy-bohemian luxe: an American preppy sensibility layered with bohemian eclecticism, expressed primarily through colour, print, and pattern. The aesthetic references the American 1960s and 1970s — a period associated with bold graphic and decorative print in women's fashion. In the 2020s, Burch's "creative reinvention" has pushed the brand toward more directional, editorial print and surface design while maintaining the core accessibility of the label.
+Burch's design style has been characterised as preppy-boho and preppy-bohemian luxe: an American preppy sensibility layered with bohemian eclecticism, expressed primarily through colour, print, and pattern. The aesthetic references the American 1960s and 1970s - a period associated with bold graphic and decorative print in women's fashion. In the 2020s, Burch's "creative reinvention" has pushed the brand toward more directional, editorial print and surface design while maintaining the core accessibility of the label.
 
 ## History
 
@@ -104,17 +105,17 @@ Tory Burch operates own-store retail globally (400 stores) alongside wholesale d
 
 ## Markets
 
-Tory Burch positioned itself from launch as an accessible luxury label — aspirational in design and aesthetic but priced to reach a broad consumer base. In 2007, there were wait lists for Tory Burch fashions; the brand had become associated with the aesthetic values of television show *Gossip Girl*. The activewear extension Tory Sport (launched September 2015) entered the performance and athleisure market directly, with dedicated stores in New York (Fifth Avenue), East Hampton, and Dallas. The brand received the CFDA Accessories Designer of the Year award in 2008 and Harper's Bazaar Designer of the Year in 2023.
+Tory Burch positioned itself from launch as an accessible luxury label - aspirational in design and aesthetic but priced to reach a broad consumer base. In 2007, there were wait lists for Tory Burch fashions; the brand had become associated with the aesthetic values of television show *Gossip Girl*. The activewear extension Tory Sport (launched September 2015) entered the performance and athleisure market directly, with dedicated stores in New York (Fifth Avenue), East Hampton, and Dallas. The brand received the CFDA Accessories Designer of the Year award in 2008 and Harper's Bazaar Designer of the Year in 2023.
 
 ## Pattern and Surface Design Relevance
 
 Tory Burch's design identity is explicitly and consistently built on colour and print. Source material describes the label as "known for color and print and often pay homage to styles of the 1960s and 1970s":
 
-- **Print as brand signature**: Bold graphic print — floral, geometric, and decorative motifs drawn from 1960s and 1970s references — is a defining characteristic of the label's ready-to-wear, particularly dresses and tops. Print is not incidental but central to the brand's commercial proposition.
-- **T-logo medallion**: The recurring T-logo medallion operates as a brand motif applied across footwear, bags, and accessories — a surface design element as recognisable brand identifier, comparable to the role of monogram or repeat pattern in luxury houses.
-- **Colour-saturated aesthetic**: The 2014 book *Tory Burch in Color* — a *New York Times* bestseller — documents the brand's colour philosophy explicitly, framing colour and print as the creative foundation of the brand.
-- **Home décor category**: The lettuce ware and home décor range extends the brand's surface design vocabulary into interiors — pattern and decorative motif applied to ceramics and homeware.
-- **"Creative reinvention"**: In the 2020s, as Burch stepped back from the CEO role to focus exclusively on designing, the label entered a self-described "creative reinvention" — with press commentary noting a more conceptual, fashion-forward approach to print and surface design in collections shown at NYFW.
+- **Print as brand signature**: Bold graphic print - floral, geometric, and decorative motifs drawn from 1960s and 1970s references - is a defining characteristic of the label's ready-to-wear, particularly dresses and tops. Print is not incidental but central to the brand's commercial proposition.
+- **T-logo medallion**: The recurring T-logo medallion operates as a brand motif applied across footwear, bags, and accessories - a surface design element as recognisable brand identifier, comparable to the role of monogram or repeat pattern in luxury houses.
+- **Colour-saturated aesthetic**: The 2014 book *Tory Burch in Color* - a *New York Times* bestseller - documents the brand's colour philosophy explicitly, framing colour and print as the creative foundation of the brand.
+- **Home décor category**: The lettuce ware and home décor range extends the brand's surface design vocabulary into interiors - pattern and decorative motif applied to ceramics and homeware.
+- **"Creative reinvention"**: In the 2020s, as Burch stepped back from the CEO role to focus exclusively on designing, the label entered a self-described "creative reinvention" - with press commentary noting a more conceptual, fashion-forward approach to print and surface design in collections shown at NYFW.
 
 ## Official Resources
 

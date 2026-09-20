@@ -2,6 +2,7 @@
 
 **Date:** 2026-08-07  
 **A3-R1** — Generate orchestrates Resolution + Quality automatically  
+**A3-R2** — Canonical Job Description Sections (employer headings preserved)  
 **Scope:** Canonical editorial path from Raw to Ready Promotion
 
 ---
@@ -13,10 +14,11 @@ raw/_jobs
     ↓
 node scripts/markdown/generate.js
         ├── Markdown Generation
+        │     └── job_sections (employer headings preserved)
         ├── Entity Resolution      ← existing A4 engine
         ├── Quality Checker        ← existing A5 engine
         └── wiki/jobs/_staging/<slug>/
-              <slug>.md
+              <slug>.md            ← canonical editorial source of truth
               resolution-report.json
               quality-report.json
               quality-status.json
@@ -31,6 +33,21 @@ wiki/jobs/_ready/<slug>/
                 ↓
 node scripts/export/export.js --mode changed|all
 ```
+
+---
+
+## A3-R2 — Canonical editorial document
+
+Generate writes:
+
+| Artifact | Role |
+|----------|------|
+| Body `##` sections | Employer wording preserved exactly (order, titles, paragraphs, bullets) |
+| FM `job_sections[]` | `{ title, body }` ordered mirror of the Full Job Description |
+| FM `skills` / `benefits` / `software` / … | Structured enrichments extracted **from** the description — not replacements |
+
+Overview is always first (intro capture: title, location, workplace, employment — company name excluded).  
+JobsMapping exports the full editorial into CSV `overview` (with headings) so Import/Frontend lose no prose. Named columns remain for back-compat.
 
 ---
 
@@ -88,3 +105,4 @@ Still fully functional. Generate calls the same engines.
 - `JOBS_EDITORIAL_WORKFLOW.md`
 - `JOBS_READY_PIPELINE.md`
 - `PROMOTION_VALIDATION_AUDIT.md`
+- `JOBS_CSV_CONTRACT.md`

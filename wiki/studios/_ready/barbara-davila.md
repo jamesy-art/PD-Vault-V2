@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 531
 ---
 # Barbara d'Avila
 
@@ -72,7 +73,7 @@ Barbara d'Avila Print Studio is a São Paulo-based print design practice run by 
 
 ## Studio Style and Aesthetic
 
-The studio's print collection is organised into four categories — Conversationals, Monochrome, Tropical, and Abstract — reflecting a range that spans narrative, decorative, and colour-driven print traditions. The studio emphasises a "vibrant blend of styles and artistic influences" alongside hands-on craftsmanship.
+The studio's print collection is organised into four categories - Conversationals, Monochrome, Tropical, and Abstract - reflecting a range that spans narrative, decorative, and colour-driven print traditions. The studio emphasises a "vibrant blend of styles and artistic influences" alongside hands-on craftsmanship.
 
 ## Markets and Specialties
 

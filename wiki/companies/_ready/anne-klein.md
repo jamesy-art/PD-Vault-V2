@@ -73,6 +73,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 257
 ---
 
 # Anne Klein
@@ -90,15 +91,15 @@ enrichment_status: enriched
 
 ## Overview
 
-Anne Klein is an American fashion brand co-founded in 1968 by designer Anne Klein (born Hannah Golofsky, 1923–1974) and investor Gunther Oppenheim. Within a decade of founding, designs were sold in more than 750 department stores and boutiques across the United States. Anne Klein was a central figure in the formation of American sportswear as a design category, credited as a pioneer of the women's separates system and the creator of the first designer shop-in-shop boutique format in the US. The brand is currently owned by WHP Global (acquired July 2019) and operates within the Steve Madden portfolio across a complete lifestyle licensing assortment in 60 countries.
+Anne Klein is an American fashion brand co-founded in 1968 by designer Anne Klein (born Hannah Golofsky, 1923-1974) and investor Gunther Oppenheim. Within a decade of founding, designs were sold in more than 750 department stores and boutiques across the United States. Anne Klein was a central figure in the formation of American sportswear as a design category, credited as a pioneer of the women's separates system and the creator of the first designer shop-in-shop boutique format in the US. The brand is currently owned by WHP Global (acquired July 2019) and operates within the Steve Madden portfolio across a complete lifestyle licensing assortment in 60 countries.
 
-Anne Klein's design identity is grounded in: feminine interpretations of menswear suiting codes, the coordinate separates system, and practical elegance for working women. The founding aesthetic — mature, sleek, structured — was established at Junior Sophisticates and carried into Anne Klein & Company. After Klein's death, Donna Karan continued this direction before founding her own label. Current design direction focuses on the lifestyle licensing programme under WHP Global/Steve Madden ownership.
+Anne Klein's design identity is grounded in: feminine interpretations of menswear suiting codes, the coordinate separates system, and practical elegance for working women. The founding aesthetic - mature, sleek, structured - was established at Junior Sophisticates and carried into Anne Klein & Company. After Klein's death, Donna Karan continued this direction before founding her own label. Current design direction focuses on the lifestyle licensing programme under WHP Global/Steve Madden ownership.
 
 ## History
 
-Anne Klein launched Junior Sophisticates in 1948 with her husband Ben Klein, targeting younger women with smaller figures with elegant ready-to-wear. She was among the first designers to pioneer "separates" — individual pieces that could be combined as coordinates — at a time when one-piece dresses dominated US womenswear. In 1944 she formed part of a founding design trio alongside Bonnie Cashin and Claire McCardell that laid the foundations of the American sportswear category.
+Anne Klein launched Junior Sophisticates in 1948 with her husband Ben Klein, targeting younger women with smaller figures with elegant ready-to-wear. She was among the first designers to pioneer "separates" - individual pieces that could be combined as coordinates - at a time when one-piece dresses dominated US womenswear. In 1944 she formed part of a founding design trio alongside Bonnie Cashin and Claire McCardell that laid the foundations of the American sportswear category.
 
-Anne Klein & Company was established on 39th Street, New York in 1968, co-founded with investor Gunther Oppenheim. Klein opened the first designer shop-in-shop boutique — "Anne Klein Corner" — at Saks Fifth Avenue in 1970. In 1973 she was the only woman among five American designers invited to participate in the Battle of Versailles fashion show. She died in 1974; Donna Karan and Louis Dell'Olio subsequently took over design direction.
+Anne Klein & Company was established on 39th Street, New York in 1968, co-founded with investor Gunther Oppenheim. Klein opened the first designer shop-in-shop boutique - "Anne Klein Corner" - at Saks Fifth Avenue in 1970. In 1973 she was the only woman among five American designers invited to participate in the Battle of Versailles fashion show. She died in 1974; Donna Karan and Louis Dell'Olio subsequently took over design direction.
 
 The brand was acquired by WHP Global from Premier Brands Group in July 2019. WHP Global's stated objectives included growing US distribution through Macy's and expanding the global licensing programme. The brand now operates within the Steve Madden corporate portfolio.
 
@@ -115,7 +116,7 @@ The brand was acquired by WHP Global from Premier Brands Group in July 2019. WHP
 
 The brand is owned by WHP Global and operates within the Steve Madden corporate portfolio. Distribution includes US department stores (Macy's named as a key growth target) and a global licensing network in 60 countries. Licensed categories: watches, footwear, eyewear, jewellery, home.
 
-The "Anne Klein Corner" shop-in-shop opened at Saks Fifth Avenue in 1970 — a retail format innovation attributable to Anne Klein that subsequently became standard in US department store fashion.
+The "Anne Klein Corner" shop-in-shop opened at Saks Fifth Avenue in 1970 - a retail format innovation attributable to Anne Klein that subsequently became standard in US department store fashion.
 
 ## Markets
 
@@ -123,13 +124,13 @@ Anne Klein is a mid-tier American lifestyle fashion brand operating through a gl
 
 ## Pattern and Surface Design Relevance
 
-Anne Klein's most significant SPD contribution is structural: she pioneered and popularised the separates coordinate system in American fashion — individual garments engineered to combine into multiple outfits. This requires deliberate fabric, colour, and surface design decisions across pieces so they read as a coherent whole. The coordinate system became a template for how American women's RTW brands approach surface design across a collection.
+Anne Klein's most significant SPD contribution is structural: she pioneered and popularised the separates coordinate system in American fashion - individual garments engineered to combine into multiple outfits. This requires deliberate fabric, colour, and surface design decisions across pieces so they read as a coherent whole. The coordinate system became a template for how American women's RTW brands approach surface design across a collection.
 
-Klein's founding motivation was to bring suiting structure and woven fabric vocabulary — the surface language of menswear — into women's professional dressing, making her "the second" (after Coco Chanel) to feminise menswear. Her alignment with the American sportswear tradition (alongside Bonnie Cashin and Claire McCardell) prioritised practical garment construction over couture spectacle.
+Klein's founding motivation was to bring suiting structure and woven fabric vocabulary - the surface language of menswear - into women's professional dressing, making her "the second" (after Coco Chanel) to feminise menswear. Her alignment with the American sportswear tradition (alongside Bonnie Cashin and Claire McCardell) prioritised practical garment construction over couture spectacle.
 
 The National Cotton Council Award (1965) is a documented recognition of engagement with cotton as a fabric surface.
 
-The brand's complete lifestyle licensing model — apparel, footwear, watches, and jewellery across 60 countries — requires the Anne Klein surface language (logo, colour vocabulary, material codes) to be translated consistently across a wide range of product surfaces by licensees.
+The brand's complete lifestyle licensing model - apparel, footwear, watches, and jewellery across 60 countries - requires the Anne Klein surface language (logo, colour vocabulary, material codes) to be translated consistently across a wide range of product surfaces by licensees.
 
 ## Official Resources
 

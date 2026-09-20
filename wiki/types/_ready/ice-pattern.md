@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 16
 ---
 
 # Ice Pattern
@@ -120,11 +121,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/ice-pattern/profile/ice-pattern-image.svg)
-A surface pattern category drawing on the visual structures of ice crystal formations, frost patterns, and frozen water — characterised by symmetrical branching geometry, translucent quality, and the distinctive dendritic and feather forms of slow-frozen water.
+A surface pattern category drawing on the visual structures of ice crystal formations, frost patterns, and frozen water - characterised by symmetrical branching geometry, translucent quality, and the distinctive dendritic and feather forms of slow-frozen water.
 
 ## Overview
 
-Ice patterns in surface pattern design take their visual vocabulary from natural frost and ice crystal formations. The branching, fern-like structures that form when water freezes slowly — across glass, on wet surfaces, in the natural environment — produce distinctive geometric forms that have direct application in textile and wallpaper design. These structures sit between the organic and the geometric: they follow mathematical rules (dendritic branching, hexagonal symmetry in ice crystals) but result in forms that appear organic and irregular.
+Ice patterns in surface pattern design take their visual vocabulary from natural frost and ice crystal formations. The branching, fern-like structures that form when water freezes slowly - across glass, on wet surfaces, in the natural environment - produce distinctive geometric forms that have direct application in textile and wallpaper design. These structures sit between the organic and the geometric: they follow mathematical rules (dendritic branching, hexagonal symmetry in ice crystals) but result in forms that appear organic and irregular.
 
 The ice pattern category covers a range from literal representations of frost ferns and window ice to stylised geometric interpretations of crystalline forms, blending into the broader winter and snowflake pattern traditions.
 
@@ -160,13 +161,13 @@ The natural form of ice and frost does not have a clear repeat unit; successful 
 
 ## Colour and Style
 
-Dominant palette: white, silver, pale blue, cool grey, and icy lavender. The translucency of natural ice encourages light-ground compositions with delicate line work in white or silver on blue backgrounds. Winter palette connections — navy, midnight blue, ice white — are commercially well-established.
+Dominant palette: white, silver, pale blue, cool grey, and icy lavender. The translucency of natural ice encourages light-ground compositions with delicate line work in white or silver on blue backgrounds. Winter palette connections - navy, midnight blue, ice white - are commercially well-established.
 
 Style ranges from realistic botanical-illustration quality (fine branching detail, naturalistic rendering) to graphic abstraction (strong geometric line quality, minimal colour) to luxury metallics (silver foil print on dark grounds).
 
 ## History and Context
 
-Ice and frost as decorative motifs have a long presence in decorative arts, particularly in cultures with cold winters. The scientific study of ice crystal formation established their hexagonal symmetry; Ukichi Nakaya's classification of snow crystal types (1954) contributed to scientific understanding that has influenced pattern design. Natural navigator and nature writer Tristan Gooley has noted that slow-forming frost creates fern patterns while rapid freezing produces different structures — a distinction that mirrors the range of visual forms available to surface designers.
+Ice and frost as decorative motifs have a long presence in decorative arts, particularly in cultures with cold winters. The scientific study of ice crystal formation established their hexagonal symmetry; Ukichi Nakaya's classification of snow crystal types (1954) contributed to scientific understanding that has influenced pattern design. Natural navigator and nature writer Tristan Gooley has noted that slow-forming frost creates fern patterns while rapid freezing produces different structures - a distinction that mirrors the range of visual forms available to surface designers.
 
 Ice-pattern aesthetics became particularly commercially prominent in winter seasonal product lines alongside the broader growth of holiday and seasonal pattern markets.
 
@@ -181,15 +182,15 @@ Ice-pattern aesthetics became particularly commercially prominent in winter seas
 
 ## Related Pattern Types
 
-- [[Snowflake Pattern]] — closely related; ice crystal and snowflake pattern vocabulary overlap significantly
-- [[Winter Pattern]] — seasonal parent category
-- [[Geometric Pattern]] — ice crystal geometry abstracted into structured repeats
-- [[Crystal Pattern]] — broader category of crystalline and mineral-inspired forms
-- [[Frost Pattern]] — near-synonym for window frost and ice fern formations
+- Snowflake Pattern - closely related; ice crystal and snowflake pattern vocabulary overlap significantly
+- Winter Pattern - seasonal parent category
+- Geometric Pattern - ice crystal geometry abstracted into structured repeats
+- Crystal Pattern - broader category of crystalline and mineral-inspired forms
+- Frost Pattern - near-synonym for window frost and ice fern formations
 
 ## Source Notes
 
-- Natural Navigator (Tristan Gooley, 2022): Frost fern patterns on windscreens indicate slow freezing — dew formed and cooled overnight. Visual appearance: fern shapes on glass, organic branching.
+- Natural Navigator (Tristan Gooley, 2022): Frost fern patterns on windscreens indicate slow freezing - dew formed and cooled overnight. Visual appearance: fern shapes on glass, organic branching.
 - AI-generated summary source: Distinguishes frost/ice patterns (meteorology and nature) from unrelated ICE acronym (business prioritisation tool). SPD-relevant: window frost (ice feathers/ice ferns), frost flowers, ice wedge formations. Visual structure driven by temperature drop, wind conditions, and surface imperfections.
 
 ## Editorial Images

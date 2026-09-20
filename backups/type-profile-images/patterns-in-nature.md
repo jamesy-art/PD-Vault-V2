@@ -101,7 +101,7 @@ The study of pattern in nature connects mathematical science to design practice.
 
 ## Related Pattern Types
 
-[[Geometric Pattern]], [[Animal Print]], [[Floral Pattern]], [[Botanical Print]], [[Wave Pattern]], [[Leopard Pattern]], [[Fractal Pattern]], [[wiki/types/_staging/pattern]]
+[[Geometric Pattern]], [[Animal Print]], [[Floral Pattern]], [[Botanical Print]], [[Wave Pattern]], [[Leopard Pattern]], [[Fractal Pattern]], [[wiki/types/_ready/pattern]]
 
 ## Source Notes
 

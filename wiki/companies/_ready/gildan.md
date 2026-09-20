@@ -39,6 +39,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 103
 ---
 
 # Gildan
@@ -55,16 +56,16 @@ Gildan is a manufacturing and supply company rather than a design-led fashion br
 
 ## History
 
-Gildan's business model is built around vertical integration and low-cost, high-volume manufacturing. The company operates its own knitting, bleaching, dyeing, finishing, cutting, and sewing facilities — principally in Honduras (Rio Nance complex) and the Caribbean. By 2001, Gildan was the leading distributor of 100% cotton t-shirts in the United States. The company has grown through acquisitions: Anvil Holdings (sustainable/organic apparel, 2012); Doris Hosiery (CA$110M, 2014); Comfort Colors (pigment-dyed garments, $100M, 2015); PEDS Legwear ($55M, 2016); American Apparel (brand and IP, $88M, 2017). Vince Tyra was appointed President and CEO in February 2024 following the departure of co-founder Glenn Chamandy in December 2023. The pending Hanesbrands acquisition would bring HanesBrands, Hanes, Maidenform, and Champion brands into the Gildan portfolio.
+Gildan's business model is built around vertical integration and low-cost, high-volume manufacturing. The company operates its own knitting, bleaching, dyeing, finishing, cutting, and sewing facilities - principally in Honduras (Rio Nance complex) and the Caribbean. By 2001, Gildan was the leading distributor of 100% cotton t-shirts in the United States. The company has grown through acquisitions: Anvil Holdings (sustainable/organic apparel, 2012); Doris Hosiery (CA$110M, 2014); Comfort Colors (pigment-dyed garments, $100M, 2015); PEDS Legwear ($55M, 2016); American Apparel (brand and IP, $88M, 2017). Vince Tyra was appointed President and CEO in February 2024 following the departure of co-founder Glenn Chamandy in December 2023. The pending Hanesbrands acquisition would bring HanesBrands, Hanes, Maidenform, and Champion brands into the Gildan portfolio.
 
 ## Products
 
-- **Blank activewear** — undecorated t-shirts (100% cotton and blends), hoodies, fleeces, polos; primary wholesale product for screen printers
-- **Comfort Colors** — garment-dyed and pigment-dyed blanks; premium blank segment
-- **American Apparel blanks** — fashion-forward cut-and-sew blanks under the acquired brand
-- **Socks** — Gold Toe, PowerSox, SilverToe, Auro, All Pro (retail brands); Under Armour and New Balance socks (manufactured under licence)
-- **Anvil** — sustainable, recycled, and organic apparel blanks (acquired 2012)
-- **HanesBrands** (pending acquisition, 2025) — underwear, t-shirts, hosiery, activewear; includes Champion brand
+- **Blank activewear** - undecorated t-shirts (100% cotton and blends), hoodies, fleeces, polos; primary wholesale product for screen printers
+- **Comfort Colors** - garment-dyed and pigment-dyed blanks; premium blank segment
+- **American Apparel blanks** - fashion-forward cut-and-sew blanks under the acquired brand
+- **Socks** - Gold Toe, PowerSox, SilverToe, Auro, All Pro (retail brands); Under Armour and New Balance socks (manufactured under licence)
+- **Anvil** - sustainable, recycled, and organic apparel blanks (acquired 2012)
+- **HanesBrands** (pending acquisition, 2025) - underwear, t-shirts, hosiery, activewear; includes Champion brand
 
 ## Services
 
@@ -76,7 +77,7 @@ Gildan is the dominant supplier in the blank activewear market for the US screen
 
 ## Pattern and Surface Design Relevance
 
-Gildan occupies a foundational position in the surface pattern and print supply chain: its blank garments are the physical surface onto which designs, graphics, and patterns are applied by screen printers, embroiderers, digital decorators, and apparel decorating companies globally. Gildan t-shirts are one of the most widely used blank canvases for applied surface pattern in the mass market. The screen printing industry — which decorates Gildan blanks — is one of the primary commercial channels through which surface pattern designers' work reaches product. Comfort Colors' garment-dyed aesthetic (irregular, washed surface with tonal variation) represents a specific surface treatment language that itself functions as a design direction, influencing streetwear and indie apparel aesthetics. The acquisition of American Apparel brought a fashion-adjacent blank product line that attracts more design-conscious decorators.
+Gildan occupies a foundational position in the surface pattern and print supply chain: its blank garments are the physical surface onto which designs, graphics, and patterns are applied by screen printers, embroiderers, digital decorators, and apparel decorating companies globally. Gildan t-shirts are one of the most widely used blank canvases for applied surface pattern in the mass market. The screen printing industry - which decorates Gildan blanks - is one of the primary commercial channels through which surface pattern designers' work reaches product. Comfort Colors' garment-dyed aesthetic (irregular, washed surface with tonal variation) represents a specific surface treatment language that itself functions as a design direction, influencing streetwear and indie apparel aesthetics. The acquisition of American Apparel brought a fashion-adjacent blank product line that attracts more design-conscious decorators.
 
 ## Official Resources
 

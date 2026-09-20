@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 62
 ---
 
 # Crocodile Pattern
@@ -122,15 +123,15 @@ Surface pattern texture mimicking the irregular interlocking scale and scute str
 
 ## Overview
 
-Crocodile pattern translates the distinctive surface geometry of crocodile hide into a repeating surface design. The pattern is defined by the irregular but systematic tiling of scute-like forms — the bony, horny scales that cover the crocodile's body — arranged in a continuous all-over texture. As a surface pattern type, it belongs to the broader category of reptile-print and animal-skin textures, which have enduring commercial relevance in luxury fashion.
+Crocodile pattern translates the distinctive surface geometry of crocodile hide into a repeating surface design. The pattern is defined by the irregular but systematic tiling of scute-like forms - the bony, horny scales that cover the crocodile's body - arranged in a continuous all-over texture. As a surface pattern type, it belongs to the broader category of reptile-print and animal-skin textures, which have enduring commercial relevance in luxury fashion.
 
 ## Visual Characteristics
 
-The pattern references two distinct sections of actual crocodile hide. The back cut presents prominent, rough-textured scutes — bold and irregular in size. The belly cut presents a smoother, finer, more regular small-scale structure that reads as a close interlocking tile. Fashion and surface pattern applications most commonly reference the belly cut: smaller, more evenly spaced scales with clean geometric edges, producing a pattern with the visual regularity needed for textile application.
+The pattern references two distinct sections of actual crocodile hide. The back cut presents prominent, rough-textured scutes - bold and irregular in size. The belly cut presents a smoother, finer, more regular small-scale structure that reads as a close interlocking tile. Fashion and surface pattern applications most commonly reference the belly cut: smaller, more evenly spaced scales with clean geometric edges, producing a pattern with the visual regularity needed for textile application.
 
 ## Pattern Structure
 
-An all-over texture pattern based on irregularly sized, interlocking scale-like tile units. Unlike geometric patterns with a strict grid, the crocodile texture uses near-regular but subtly varied tile shapes — no two scale units are identical — giving the repeat a natural, organic quality. The repeat tile boundary must be invisible to maintain the continuous skin-like effect. Scale units vary in size across the tile, typically smaller at the edges and larger at the centre, echoing the natural anatomy of crocodile hide.
+An all-over texture pattern based on irregularly sized, interlocking scale-like tile units. Unlike geometric patterns with a strict grid, the crocodile texture uses near-regular but subtly varied tile shapes - no two scale units are identical - giving the repeat a natural, organic quality. The repeat tile boundary must be invisible to maintain the continuous skin-like effect. Scale units vary in size across the tile, typically smaller at the edges and larger at the centre, echoing the natural anatomy of crocodile hide.
 
 ## Common Motifs
 
@@ -143,7 +144,7 @@ An all-over texture pattern based on irregularly sized, interlocking scale-like 
 Natural and neutral colourways dominate the commercial mainstream:
 
 - **Natural hide tones**: cognac, tan, saddle brown, dark brown, black, grey
-- **Luxury fashion colourways**: red, cobalt, white, metallics — associated with high-end accessories
+- **Luxury fashion colourways**: red, cobalt, white, metallics - associated with high-end accessories
 
 The pattern carries a luxury, heritage, and fashion-forward aesthetic. Real crocodile leather is used by Hermes, Louis Vuitton (LVMH), Gucci, and Yves Saint Laurent, and the faux-crocodile print inherits this prestige positioning.
 
@@ -151,7 +152,7 @@ The pattern carries a luxury, heritage, and fashion-forward aesthetic. Real croc
 
 Actual crocodile leather trade established itself as a luxury commercial category from the 1800s onward, beginning in the Caribbean, Mexico, and Central America before expanding to Africa, Asia, and Australia. The 23 crocodile species used in leather production are regulated internationally by CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora), established in 1973. CITES certification requirements, combined with the scarcity and high cost of authentic crocodile leather, created both the ethical and commercial case for faux crocodile surface patterns.
 
-The visual vocabulary of crocodile texture — the interlocking scale geometry — entered surface pattern design as part of the wider reptile-print category, alongside snake, lizard, and alligator textures.
+The visual vocabulary of crocodile texture - the interlocking scale geometry - entered surface pattern design as part of the wider reptile-print category, alongside snake, lizard, and alligator textures.
 
 ## Surface Pattern Uses
 
@@ -162,13 +163,13 @@ The visual vocabulary of crocodile texture — the interlocking scale geometry �
 
 ## Related Pattern Types
 
-- [[Snake Print]]
-- [[Animal Skin Pattern]]
-- [[Reptile Texture]]
+- Snake Print
+- Animal Skin Pattern
+- Reptile Texture
 
 ## Source Notes
 
-Source: Crocodile Pattern.md (Wikipedia — Crocodile skin; visual descriptions of scale structure, back and belly cuts, and luxury fashion associations used; farming, conservation, legal trade, and animal welfare sections excluded as out of scope for surface pattern design)
+Source: Crocodile Pattern.md (Wikipedia - Crocodile skin; visual descriptions of scale structure, back and belly cuts, and luxury fashion associations used; farming, conservation, legal trade, and animal welfare sections excluded as out of scope for surface pattern design)
 
 ## Editorial Images
 

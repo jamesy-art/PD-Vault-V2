@@ -54,6 +54,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 99
 ---
 
 # Victoria's Secret
@@ -76,14 +77,14 @@ Les Wexner purchased the brand and catalogue in 1982 for US$1M and grew it rapid
 
 Victoria's Secret & Co. became an independent public company (NYSE: VSXY) on August 3, 2021 following its spin-off from L Brands. CEO Martin Waters leads the company from 2021. Adore Me was acquired in November 2022 for approximately US$400M. Peak worldwide net sales reached US$7.78B in 2016 (US$6.81B in 2019). Creative director Raul Martinez (formerly of Condé Nast) was appointed December 2020.
 
-Creative director Raul Martinez (formerly Condé Nast) was appointed December 2020. The brand's design history includes the Victoria's Secret Fashion Show (1995–2018) as a major creative platform producing themed seasonal costumes with cultural and pattern references. The PINK brand maintains an active print and graphic design programme. No named head of textile or surface print design is identified in the source.
+Creative director Raul Martinez (formerly Condé Nast) was appointed December 2020. The brand's design history includes the Victoria's Secret Fashion Show (1995-2018) as a major creative platform producing themed seasonal costumes with cultural and pattern references. The PINK brand maintains an active print and graphic design programme. No named head of textile or surface print design is identified in the source.
 
 ## History
 
 - June 12, 1977: Victoria's Secret founded by Roy Raymond and wife Gaye; first store Stanford Shopping Center, Palo Alto, California; English floral wallpaper design; concept positioned around feminine, welcoming lingerie retail
 - 1979: Catalogue launched; four stores
 - 1982: Roy Raymond sells to Les Wexner (Limited Stores Inc.) for US$1M; chain had five stores and US$6M annual sales
-- 1982–1990: Rapid expansion under Wexner; early 1990s becomes largest US lingerie retailer
+- 1982-1990: Rapid expansion under Wexner; early 1990s becomes largest US lingerie retailer
 - 1995: First Victoria's Secret Fashion Show
 - 2002: PINK brand launched; swimwear category launched
 - 2012: Designer Collection launched ("first high end lingerie line"); international expansion: Canada 2010, UK 2012, China
@@ -97,17 +98,17 @@ Creative director Raul Martinez (formerly Condé Nast) was appointed December 20
 
 ## Products
 
-**Victoria's Secret Lingerie and Stores** — core women's lingerie (bras, underwear, bodysuits); seasonal patterned and printed styles; lace and print constructions across the range
+**Victoria's Secret Lingerie and Stores** - core women's lingerie (bras, underwear, bodysuits); seasonal patterned and printed styles; lace and print constructions across the range
 
-**PINK** (launched 2002) — collegiate-positioned activewear, loungewear, lingerie, and accessories; patterned casual apparel; significant print-on-fabric surface design programme targeting 18–24 year-old consumers
+**PINK** (launched 2002) - collegiate-positioned activewear, loungewear, lingerie, and accessories; patterned casual apparel; significant print-on-fabric surface design programme targeting 18-24 year-old consumers
 
-**VS Beauty** — fragrance, bodycare, and beauty products (candles, skincare, perfume)
+**VS Beauty** - fragrance, bodycare, and beauty products (candles, skincare, perfume)
 
-**VS Direct** — catalogue business (launched 1979; discontinued 2016)
+**VS Direct** - catalogue business (launched 1979; discontinued 2016)
 
-**Swimwear** — launched 2002; discontinued 2016; relaunched 2018/2019; print-intensive product category
+**Swimwear** - launched 2002; discontinued 2016; relaunched 2018/2019; print-intensive product category
 
-**Adore Me** (acquired November 2022, ~US$400M) — digital-native lingerie brand
+**Adore Me** (acquired November 2022, ~US$400M) - digital-native lingerie brand
 
 **International:** Canada (since 2010); UK (since 2012); China; 370+ VSBA franchise shops worldwide (as of 2016)
 
@@ -117,7 +118,7 @@ Victoria's Secret operates through company-owned US stores (1,000+ as of 2016), 
 
 ## Markets
 
-Victoria's Secret is the largest US specialty lingerie retailer. The brand's commercial scale — US$7.78B peak revenue (2016), 1,000+ US stores, 370+ international franchise shops — reflects dominance in accessible luxury lingerie and intimate apparel at mid-price. The brand has sustained a high-fashion adjacency through its annual Fashion Show (1995–2018; revival planned) and designer and photographer partnerships that positioned the product in aspirational categories. The PINK brand extends the commercial footprint into patterned casual apparel and loungewear for a younger consumer. Adore Me (acquired 2022) brings a digital-native lingerie brand within the portfolio.
+Victoria's Secret is the largest US specialty lingerie retailer. The brand's commercial scale - US$7.78B peak revenue (2016), 1,000+ US stores, 370+ international franchise shops - reflects dominance in accessible luxury lingerie and intimate apparel at mid-price. The brand has sustained a high-fashion adjacency through its annual Fashion Show (1995-2018; revival planned) and designer and photographer partnerships that positioned the product in aspirational categories. The PINK brand extends the commercial footprint into patterned casual apparel and loungewear for a younger consumer. Adore Me (acquired 2022) brings a digital-native lingerie brand within the portfolio.
 
 Competitor context: the brand's 2000 catalogue repositioning was specifically framed as moving upmarket toward customers who had shifted to La Perla and Wolford lingerie, confirming Victoria's Secret's reference point in the accessible-to-premium lingerie transition.
 
@@ -125,17 +126,17 @@ Competitor context: the brand's 2000 catalogue repositioning was specifically fr
 
 Victoria's Secret is a significant commercial platform for surface pattern design in lingerie, activewear, and swimwear.
 
-**Lingerie surface design** — the founding concept explicitly positioned the brand around "new colors, patterns and styles that promised sexiness packaged in a tasteful, glamorous way." Lace pattern construction and printed fabric are core design elements in lingerie: bra cups, brief panels, and bodysuit surfaces deploy lace-effect knit patterns, printed mesh, and woven jacquard as the primary visual and tactile elements. Seasonal colour and print direction is central to VS's commercial offer.
+**Lingerie surface design** - the founding concept explicitly positioned the brand around "new colors, patterns and styles that promised sexiness packaged in a tasteful, glamorous way." Lace pattern construction and printed fabric are core design elements in lingerie: bra cups, brief panels, and bodysuit surfaces deploy lace-effect knit patterns, printed mesh, and woven jacquard as the primary visual and tactile elements. Seasonal colour and print direction is central to VS's commercial offer.
 
-**PINK patterned apparel** — the PINK brand (launched 2002) is built substantially on print and pattern applied to casual apparel and loungewear fabrics. Seasonal graphic prints, logo patterns, and surface design on jersey, cotton, and activewear fabrics are the PINK category's commercial signature.
+**PINK patterned apparel** - the PINK brand (launched 2002) is built substantially on print and pattern applied to casual apparel and loungewear fabrics. Seasonal graphic prints, logo patterns, and surface design on jersey, cotton, and activewear fabrics are the PINK category's commercial signature.
 
-**Swimwear** — swimwear is a print-intensive category: seasonal print stories, tropical and geometric patterns, and printed lycra are standard. VS operated a swimwear category from 2002 to 2016, then relaunched in 2018/2019, indicating sustained commercial interest in the category.
+**Swimwear** - swimwear is a print-intensive category: seasonal print stories, tropical and geometric patterns, and printed lycra are standard. VS operated a swimwear category from 2002 to 2016, then relaunched in 2018/2019, indicating sustained commercial interest in the category.
 
-**Fashion Show costume design** — the Victoria's Secret Fashion Show (1995–2018) produced themed runway presentations that deployed cultural pattern references at commercial scale: 'Go East' (kimono and geisha pattern); 'Nomadic Adventures' (tribal textile surface design); 'Asian Legends' (Chinese embroidery and surface pattern); documented animal print used alongside Native American headdress costume. These designs, while editorial and not directly product-commercial, shaped the brand's visual vocabulary and were extensively reproduced in media.
+**Fashion Show costume design** - the Victoria's Secret Fashion Show (1995-2018) produced themed runway presentations that deployed cultural pattern references at commercial scale: 'Go East' (kimono and geisha pattern); 'Nomadic Adventures' (tribal textile surface design); 'Asian Legends' (Chinese embroidery and surface pattern); documented animal print used alongside Native American headdress costume. These designs, while editorial and not directly product-commercial, shaped the brand's visual vocabulary and were extensively reproduced in media.
 
-**Store design as surface pattern** — the original Victoria's Secret retail environment was explicitly designed around English floral wallpaper and Victorian-era decorative surface conventions. The store-as-designed-surface established a surface pattern reference that informed the brand's early visual identity.
+**Store design as surface pattern** - the original Victoria's Secret retail environment was explicitly designed around English floral wallpaper and Victorian-era decorative surface conventions. The store-as-designed-surface established a surface pattern reference that informed the brand's early visual identity.
 
-**Reptile and animal print** — the 2000 catalogue repositioning reference to "reptile-print underthings" confirms printed-surface lingerie construction as a documented commercial category within VS product history.
+**Reptile and animal print** - the 2000 catalogue repositioning reference to "reptile-print underthings" confirms printed-surface lingerie construction as a documented commercial category within VS product history.
 
 ## Official Resources
 

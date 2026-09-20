@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 132
 ---
 
 # Strawberry Pattern
@@ -121,7 +122,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/strawberry-pattern/profile/strawberry-pattern-image.svg)
-A surface pattern built around repeating strawberry motifs — fruit, flowers, and trifoliate leaves — with a long history in decorative design and strong contemporary commercial appeal in fashion and homeware.
+A surface pattern built around repeating strawberry motifs - fruit, flowers, and trifoliate leaves - with a long history in decorative design and strong contemporary commercial appeal in fashion and homeware.
 
 ## Overview
 
@@ -133,7 +134,7 @@ The strawberry motif is visually distinctive: a conical or heart-shaped red frui
 
 ## Pattern Structure
 
-Strawberry patterns use scattered/toss layouts and half-drop repeats most commonly. The combination of fruit at different sizes (ripe, partially ripe, unripe green), flowers, and leaves enables convincing random scatter compositions. Stripe arrangements — alternating rows of fruit and foliage — are also used in more structured, traditional presentations.
+Strawberry patterns use scattered/toss layouts and half-drop repeats most commonly. The combination of fruit at different sizes (ripe, partially ripe, unripe green), flowers, and leaves enables convincing random scatter compositions. Stripe arrangements - alternating rows of fruit and foliage - are also used in more structured, traditional presentations.
 
 ## Common Motifs
 
@@ -146,33 +147,33 @@ The complete strawberry motif set includes:
 
 ## Colour and Style
 
-The natural strawberry palette — red/pink against green on a white or cream ground — is the dominant commercial colour scheme and remains consistently strong across fashion and homeware markets. Variations include:
-- **Pastel pink strawberry on white** — soft, contemporary, suitable for childrenswear
-- **Deep red on dark green** — heritage or botanical illustration style
-- **Graphic flat colour** — simplified design, bright and modern
-- **Monochrome** — stamp-effect or engraving-style botanical
+The natural strawberry palette - red/pink against green on a white or cream ground - is the dominant commercial colour scheme and remains consistently strong across fashion and homeware markets. Variations include:
+- **Pastel pink strawberry on white** - soft, contemporary, suitable for childrenswear
+- **Deep red on dark green** - heritage or botanical illustration style
+- **Graphic flat colour** - simplified design, bright and modern
+- **Monochrome** - stamp-effect or engraving-style botanical
 
 ## History and Context
 
-The strawberry has appeared in decorative art and textiles since at least the medieval period, where it appeared in illuminated manuscripts and embroidery alongside other garden plants. William Morris's 1883 textile design "Strawberry Thief" — depicting thrushes stealing strawberries from a garden — is one of the most celebrated and recognised works in British decorative art history. Produced using the technically demanding indigo discharge printing process, it became a canonical example of Arts and Crafts textile design and remains in commercial production. Wedgwood's "Wild Strawberry" pattern, introduced in the 1960s, is a major example of the motif in ceramics. In contemporary fashion, the Lirika Matoshi strawberry dress (a viral moment circa 2020) demonstrated the motif's strong commercial appeal in women's occasionwear.
+The strawberry has appeared in decorative art and textiles since at least the medieval period, where it appeared in illuminated manuscripts and embroidery alongside other garden plants. William Morris's 1883 textile design "Strawberry Thief" - depicting thrushes stealing strawberries from a garden - is one of the most celebrated and recognised works in British decorative art history. Produced using the technically demanding indigo discharge printing process, it became a canonical example of Arts and Crafts textile design and remains in commercial production. Wedgwood's "Wild Strawberry" pattern, introduced in the 1960s, is a major example of the motif in ceramics. In contemporary fashion, the Lirika Matoshi strawberry dress (a viral moment circa 2020) demonstrated the motif's strong commercial appeal in women's occasionwear.
 
 ## Surface Pattern Uses
 
-- **Women's fashion:** dresses, blouses, skirts, and accessories — particularly spring/summer collections
+- **Women's fashion:** dresses, blouses, skirts, and accessories - particularly spring/summer collections
 - **Childrenswear:** a staple motif for babywear, girls' clothing, and nursery textiles
-- **Home textiles:** tea towels, aprons, bedding, and cushions — particularly in kitchen and farmhouse-style interiors
+- **Home textiles:** tea towels, aprons, bedding, and cushions - particularly in kitchen and farmhouse-style interiors
 - **Ceramics and tableware:** plates, mugs, and serving ware following the Wedgwood tradition
 - **Stationery and gifting:** notebooks, wrapping paper, and cards
 
 ## Related Pattern Types
 
-- [[Rose Pattern]] — companion floral motif; similar repeat structure and commercial applications
-- [[Floral Pattern]] — strawberry pattern is a subcategory of the broader floral/botanical motif family
-- [[Botanical Pattern]] — naturalistic strawberry illustration overlaps with botanical print traditions
+- Rose Pattern - companion floral motif; similar repeat structure and commercial applications
+- Floral Pattern - strawberry pattern is a subcategory of the broader floral/botanical motif family
+- Botanical Pattern - naturalistic strawberry illustration overlaps with botanical print traditions
 
 ## Source Notes
 
-- SPD-focused notes — William Morris "Strawberry Thief" 1883 (indigo discharge printing), Wedgwood "Wild Strawberry", Lirika Matoshi viral dress, standard motif elements
+- SPD-focused notes - William Morris "Strawberry Thief" 1883 (indigo discharge printing), Wedgwood "Wild Strawberry", Lirika Matoshi viral dress, standard motif elements
 
 ## Editorial Images
 

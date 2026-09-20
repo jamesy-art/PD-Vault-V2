@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 572
 ---
 # Paul Vogel
 
@@ -97,4 +98,4 @@ Founded in 1991 by Paul Vogel following a two-year internship with Cecci Lido in
 
 ## Pattern Focus
 
-Woven plaid, tartan, and check across a wide colorway range — from pastel and heathered tweed effects to jewel-tone madras-style multicolor — plus photographed woven jacquard/patchwork-texture swatches.
+Woven plaid, tartan, and check across a wide colorway range - from pastel and heathered tweed effects to jewel-tone madras-style multicolor - plus photographed woven jacquard/patchwork-texture swatches.

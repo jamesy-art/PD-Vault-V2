@@ -67,6 +67,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 153
 ---
 
 # Maje
@@ -84,7 +85,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Maje was founded in 1998 by Judith Milgrom, who serves as both founder and creative director. The brand is headquartered at 24 rue du Mail, Paris. Maje operates as a French premium brand within the SMCP Group portfolio alongside Sandro and Claudie Pierlot. The brand positions itself as transgenerational, with no identified core demographic; it offers womenswear, shoes, handbags, and accessories. YAML parent_company "smcp-group" is correct. YAML location "France" is correct. YAML market_categories includes "Skateboarding" — incorrect for Maje; YAML preserved as found.
+Maje was founded in 1998 by Judith Milgrom, who serves as both founder and creative director. The brand is headquartered at 24 rue du Mail, Paris. Maje operates as a French premium brand within the SMCP Group portfolio alongside Sandro and Claudie Pierlot. The brand positions itself as transgenerational, with no identified core demographic; it offers womenswear, shoes, handbags, and accessories. YAML parent_company "smcp-group" is correct. YAML location "France" is correct. YAML market_categories includes "Skateboarding" - incorrect for Maje; YAML preserved as found.
 
 Judith Milgrom has been creative director since the brand's founding in 1998. The brand's aesthetic positioning within the SMCP Group is premium and transgenerational. No additional design direction detail is available from this source.
 
@@ -106,7 +107,7 @@ Maje is positioned as a French premium womenswear brand competing in the accessi
 
 ## Pattern and Surface Design Relevance
 
-Maje's product range — womenswear, dresses, accessories — is typical of French premium brands that rely on seasonal print and pattern direction across woven and knit fabrics. No specific print or surface design information is available from this source. Judith Milgrom's tenure as creative director from founding indicates consistent creative direction over the brand's print and aesthetic identity, but no claims about specific patterns or licensing arrangements are documented here.
+Maje's product range - womenswear, dresses, accessories - is typical of French premium brands that rely on seasonal print and pattern direction across woven and knit fabrics. No specific print or surface design information is available from this source. Judith Milgrom's tenure as creative director from founding indicates consistent creative direction over the brand's print and aesthetic identity, but no claims about specific patterns or licensing arrangements are documented here.
 
 ## Official Resources
 

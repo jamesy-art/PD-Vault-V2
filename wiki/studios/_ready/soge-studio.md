@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 583
 ---
 # Soge Studio
 
@@ -71,7 +72,7 @@ SOGÉ STUDIO is a Brooklyn, NY based textile design studio specializing in appar
 
 ## Studio Style and Aesthetic
 
-The portfolio shows a consistent identity built on painterly, gestural florals — loose brushstroke botanicals, watercolor-style abstract blooms, and layered silhouette-and-foliage motifs — alongside more structured work such as an ornate, tile-bordered floral panel and a small-scale ditsy floral. Colorways range from soft pastel and blush tones to jewel-toned emerald, sapphire, and gold, consistent with the studio's stated "color intuition" and "fluidity of artwork."
+The portfolio shows a consistent identity built on painterly, gestural florals - loose brushstroke botanicals, watercolor-style abstract blooms, and layered silhouette-and-foliage motifs - alongside more structured work such as an ornate, tile-bordered floral panel and a small-scale ditsy floral. Colorways range from soft pastel and blush tones to jewel-toned emerald, sapphire, and gold, consistent with the studio's stated "color intuition" and "fluidity of artwork."
 
 ## Markets and Specialties
 
@@ -103,4 +104,4 @@ Painterly and watercolor florals, gestural brushstroke botanicals, and silhouett
 
 ## Connections
 
-No dedicated wiki pages yet exist for SOGÉ STUDIO's clients or pattern types — cross-links to be added once those pages are created.
+No dedicated wiki pages yet exist for SOGÉ STUDIO's clients or pattern types - cross-links to be added once those pages are created.

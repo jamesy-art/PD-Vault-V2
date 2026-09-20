@@ -29,6 +29,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 70
 ---
 
 # United Arrows
@@ -57,15 +58,15 @@ Yasuto Kamoshita (co-founder) is credited in the Camoshita United Arrows profile
 
 ## Products
 
-**United Arrows** — main brand; Japanese contemporary clothing retail
+**United Arrows** - main brand; Japanese contemporary clothing retail
 
-**Camoshita United Arrows** (from 2007) — sub-brand; elevated and tailored casualwear (referenced in *The Rake* profile cited in source)
+**Camoshita United Arrows** (from 2007) - sub-brand; elevated and tailored casualwear (referenced in *The Rake* profile cited in source)
 
-**Beauty & Youth** — sub-line; documented in The North Face and adidas collaboration references
+**Beauty & Youth** - sub-line; documented in The North Face and adidas collaboration references
 
-**United Arrows & Sons** — further line; documented in Dr. Martens and HUF collaboration references
+**United Arrows & Sons** - further line; documented in Dr. Martens and HUF collaboration references
 
-**Collaborative products** — co-designed footwear, outerwear, and capsule clothing with third-party brands: New Balance M1500 (30th anniversary), The North Face Purple Label mountain outerwear, Dr. Martens bit loafers, adidas Originals Continental 80, HUF capsule
+**Collaborative products** - co-designed footwear, outerwear, and capsule clothing with third-party brands: New Balance M1500 (30th anniversary), The North Face Purple Label mountain outerwear, Dr. Martens bit loafers, adidas Originals Continental 80, HUF capsule
 
 ## Services
 
@@ -73,13 +74,13 @@ No financial, store count, licensing, or retail structure data is available in t
 
 ## Markets
 
-United Arrows operates in the Japanese contemporary fashion and select shop market. The brand's documented collaborative activity — co-releases with global sportswear (New Balance, adidas, The North Face) and footwear brands (Dr. Martens) and streetwear labels (HUF) — is characteristic of the Japanese select shop model, which combines curated merchandise with proprietary in-house design and limited-edition brand collaborations. No financial data, store count, or revenue figures are available in the source.
+United Arrows operates in the Japanese contemporary fashion and select shop market. The brand's documented collaborative activity - co-releases with global sportswear (New Balance, adidas, The North Face) and footwear brands (Dr. Martens) and streetwear labels (HUF) - is characteristic of the Japanese select shop model, which combines curated merchandise with proprietary in-house design and limited-edition brand collaborations. No financial data, store count, or revenue figures are available in the source.
 
 ## Pattern and Surface Design Relevance
 
-United Arrows participates in the Japanese contemporary fashion market in which collaborative product design — including colourway development, graphic design, material selection, and special surface treatment — is a primary commercial activity. The select shop and collaboration model regularly produces co-designed garments and footwear with distinctive surface design elements: exclusive colourways, material treatments, and co-branded graphic or print decisions.
+United Arrows participates in the Japanese contemporary fashion market in which collaborative product design - including colourway development, graphic design, material selection, and special surface treatment - is a primary commercial activity. The select shop and collaboration model regularly produces co-designed garments and footwear with distinctive surface design elements: exclusive colourways, material treatments, and co-branded graphic or print decisions.
 
-The documented collaborations with adidas (Continental 80 exclusive colourway), New Balance (M1500 anniversary edition), and The North Face Purple Label involve product surface design decisions — colourway, material finish, co-branding placement — that constitute applied surface design for commercial fashion. The HUF capsule collection likewise involves co-designed graphic content applied to apparel surfaces.
+The documented collaborations with adidas (Continental 80 exclusive colourway), New Balance (M1500 anniversary edition), and The North Face Purple Label involve product surface design decisions - colourway, material finish, co-branding placement - that constitute applied surface design for commercial fashion. The HUF capsule collection likewise involves co-designed graphic content applied to apparel surfaces.
 
 Source material is limited and does not permit detailed surface pattern design analysis beyond structural inference from the collaboration model.
 

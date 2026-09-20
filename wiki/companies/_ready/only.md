@@ -78,6 +78,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 195
 ---
 
 # ONLY
@@ -97,19 +98,19 @@ enrichment_status: enriched
 
 ## Overview
 
-ONLY was established in 1995 as part of the Bestseller Group, headquartered in Denmark. Founded on a denim proposition — "amazing fits, affordable styles, and simply great denim" — ONLY evolved into a full Brand House with a womenswear, menswear, and childrenswear offer across retail, wholesale, and online channels. As of the source date, ONLY is sold in more than 4,500 stores in 70 countries. YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect — ONLY is a Danish brand, part of the Bestseller Group which is headquartered in Brande, Denmark; YAML preserved as found.
+ONLY was established in 1995 as part of the Bestseller Group, headquartered in Denmark. Founded on a denim proposition - "amazing fits, affordable styles, and simply great denim" - ONLY evolved into a full Brand House with a womenswear, menswear, and childrenswear offer across retail, wholesale, and online channels. As of the source date, ONLY is sold in more than 4,500 stores in 70 countries. YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect - ONLY is a Danish brand, part of the Bestseller Group which is headquartered in Brande, Denmark; YAML preserved as found.
 
 ONLY's stated design philosophy is "fashion as a form of self-expression," expressed across demographic segments through the sub-brand structure. The denim foundation gives the brand a strong surface language in wash and finish. The sub-brand model allows differentiated design direction across price points and markets.
 
 ## History
 
-ONLY. Established 1995, Denmark. Owner: Bestseller Group. Website: only.com. Instagram: @only_official. Facebook documented in YAML. About, contact, accessibility URLs documented in YAML. Sub-brands: JDY (formerly Jacqueline de Yong; affordable trend-led fashion for young women), ONLY CARMAKOMA (plus-size curvy fashion, sizes 42–54), ONLY MATERNITY (maternity fashion), KIDS ONLY (children's denim and fashion), ONLY PLAY (breathable/seamless sportswear and activewear), ONLY & SONS (menswear denim and casualwear; established 2013; website: onlyandsons.com). Retail categories documented in YAML: clothing, tops, bottoms, dresses and jumpsuits, coats and jackets, accessories.
+ONLY. Established 1995, Denmark. Owner: Bestseller Group. Website: only.com. Instagram: @only_official. Facebook documented in YAML. About, contact, accessibility URLs documented in YAML. Sub-brands: JDY (formerly Jacqueline de Yong; affordable trend-led fashion for young women), ONLY CARMAKOMA (plus-size curvy fashion, sizes 42-54), ONLY MATERNITY (maternity fashion), KIDS ONLY (children's denim and fashion), ONLY PLAY (breathable/seamless sportswear and activewear), ONLY & SONS (menswear denim and casualwear; established 2013; website: onlyandsons.com). Retail categories documented in YAML: clothing, tops, bottoms, dresses and jumpsuits, coats and jackets, accessories.
 
 ## Products
 
-Core ONLY: womenswear — clothing, tops, bottoms, dresses and jumpsuits, coats and jackets, accessories. Sub-brands:
+Core ONLY: womenswear - clothing, tops, bottoms, dresses and jumpsuits, coats and jackets, accessories. Sub-brands:
 - **JDY** (Jacqueline de Yong): affordable trend-led fashion for young women
-- **ONLY CARMAKOMA**: plus-size curvy womenswear, sizes 42–54
+- **ONLY CARMAKOMA**: plus-size curvy womenswear, sizes 42-54
 - **ONLY MATERNITY**: maternity fashion; "on-trend styles and must-have basics"
 - **KIDS ONLY**: children's denim and fashion
 - **ONLY PLAY**: breathable, seamless sportswear with functional pockets, reflective details, and technical construction
@@ -117,7 +118,7 @@ Core ONLY: womenswear — clothing, tops, bottoms, dresses and jumpsuits, coats 
 
 ## Services
 
-YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect — ONLY is a Danish brand (Bestseller Group); YAML preserved as found. Distribution: 4,500+ stores in 70 countries; online store (only.com); wholesale. Part of the Bestseller Group alongside Jack & Jones, Vero Moda, and Selected.
+YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect - ONLY is a Danish brand (Bestseller Group); YAML preserved as found. Distribution: 4,500+ stores in 70 countries; online store (only.com); wholesale. Part of the Bestseller Group alongside Jack & Jones, Vero Moda, and Selected.
 
 ## Markets
 
@@ -127,10 +128,10 @@ ONLY is positioned as an affordable international fashion brand for women, built
 
 ONLY's SPD relevance centres on denim surface design and seasonal fashion print direction across a high-volume international distribution model:
 
-- **Denim surface design**: ONLY's founding and defining product category — wash, distress, overdye, embroidery, and surface treatment of denim are surface design practices. Seasonal variation in denim wash, shade, and finish is a primary differentiator in ONLY's core product development; different washes (acid, enzyme, bleach, indigo depth) create distinct surface appearances on the same underlying textile
-- **Seasonal print and pattern in RTW**: As a full fashion brand house, ONLY delivers seasonal print and pattern across dresses, tops, and casualwear — florals, geometrics, abstract, and novelty prints cycling through trend-responsive collections at an accessible price point and high international volume
+- **Denim surface design**: ONLY's founding and defining product category - wash, distress, overdye, embroidery, and surface treatment of denim are surface design practices. Seasonal variation in denim wash, shade, and finish is a primary differentiator in ONLY's core product development; different washes (acid, enzyme, bleach, indigo depth) create distinct surface appearances on the same underlying textile
+- **Seasonal print and pattern in RTW**: As a full fashion brand house, ONLY delivers seasonal print and pattern across dresses, tops, and casualwear - florals, geometrics, abstract, and novelty prints cycling through trend-responsive collections at an accessible price point and high international volume
 - **ONLY PLAY activewear surface**: The sportswear sub-brand carries activewear graphics, colour blocking, and technical surface direction; "cool sports styles" with functional aesthetic
-- **ONLY CARMAKOMA plus-size surface design**: Print and pattern direction for sizes 42–54 involves distinct considerations around scale, proportion, and motif placement relative to larger garment surfaces — a specialist sub-sector of fashion SPD
+- **ONLY CARMAKOMA plus-size surface design**: Print and pattern direction for sizes 42-54 involves distinct considerations around scale, proportion, and motif placement relative to larger garment surfaces - a specialist sub-sector of fashion SPD
 - **JDY fast-fashion print volume**: JDY's trend-responsive positioning implies a high turnover of print and pattern direction across affordable fast-fashion garments
 
 ## Official Resources

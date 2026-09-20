@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 142
 ---
 
 # Ogee Pattern
@@ -121,11 +122,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/ogee-pattern/profile/ogee-pattern-image.svg)
-A repeating decorative pattern built from S-shaped double curves — concave flowing into convex — that interlock across a surface to create teardrop, onion, or diamond shapes; one of the most historically persistent motifs in European and Islamic decorative arts.
+A repeating decorative pattern built from S-shaped double curves - concave flowing into convex - that interlock across a surface to create teardrop, onion, or diamond shapes; one of the most historically persistent motifs in European and Islamic decorative arts.
 
 ## Overview
 
-The ogee is defined geometrically as a double curve in which a concave arc flows smoothly into a convex arc (or vice versa), forming an elongated S-shape. In surface pattern design, the ogee motif is deployed as a repeating unit that interlocks with its neighbours to cover a plane seamlessly — producing the characteristic field of pointed oval or onion-dome shapes.
+The ogee is defined geometrically as a double curve in which a concave arc flows smoothly into a convex arc (or vice versa), forming an elongated S-shape. In surface pattern design, the ogee motif is deployed as a repeating unit that interlocks with its neighbours to cover a plane seamlessly - producing the characteristic field of pointed oval or onion-dome shapes.
 
 The ogee pattern appears in textiles as early as the 12th century and has been a continuous feature of decorative arts through the Gothic and Renaissance periods to the present day. It is commercially associated with wallpaper, damask fabric, furnishing textiles, and high-end interior design. The shape's elegant proportions and historical pedigree give it a luxury and heritage positioning across markets.
 
@@ -133,12 +134,12 @@ The ogee pattern appears in textiles as early as the 12th century and has been a
 
 Ogee patterns have several defining visual qualities:
 
-- **Pointed oval forms:** The interlocking S-curves create cells that are wider at the middle and pointed at top and bottom — an onion or almond shape
+- **Pointed oval forms:** The interlocking S-curves create cells that are wider at the middle and pointed at top and bottom - an onion or almond shape
 - **Bilateral symmetry:** Each ogee unit is symmetrical on a vertical axis, creating a balanced, formally composed surface
 - **Interlocking coverage:** Units lock together to fill the plane without gaps, creating a tightly organised all-over pattern
 - **Organic flow:** Despite the architectural precision of the S-curve, ogee patterns read as more flowing and less rigid than square or diamond grids
 
-The shape closely resembles the teardrop, the Venetian Gothic arch, and the pinecone — all forms with which it has historical connections.
+The shape closely resembles the teardrop, the Venetian Gothic arch, and the pinecone - all forms with which it has historical connections.
 
 ## Pattern Structure
 
@@ -160,13 +161,13 @@ Interior content of the ogee cell varies widely:
 
 ## Colour and Style
 
-Traditional ogee is associated with deep, rich colours — jewel tones, damask burgundy, midnight blue, forest green — on grounds of gold, cream, or black. This palette reinforces the historical luxury positioning.
+Traditional ogee is associated with deep, rich colours - jewel tones, damask burgundy, midnight blue, forest green - on grounds of gold, cream, or black. This palette reinforces the historical luxury positioning.
 
 Contemporary applications extend to neutral grounds with tonal ogee structure (tone-on-tone), pastel grounds with white ogee for softer interiors, and bold graphic two-colour combinations for modern fashion and homeware applications.
 
 ## History and Context
 
-The ogee shape first appeared in textiles in the 12th century and became a defining motif of Venetian Gothic architecture from the 13th century onwards. In architecture, the ogee arch — formed by two mirrored ogee curves meeting at an apex — is a characteristic feature of English Gothic of the late 13th century and of Venetian Gothic (14th–15th century).
+The ogee shape first appeared in textiles in the 12th century and became a defining motif of Venetian Gothic architecture from the 13th century onwards. In architecture, the ogee arch - formed by two mirrored ogee curves meeting at an apex - is a characteristic feature of English Gothic of the late 13th century and of Venetian Gothic (14th-15th century).
 
 The *Dictionary of Ornament* (Lewis and Darley, 1986) defines ogee as particularly characteristic of Venetian Gothic Revival, Gothic, and Gothic Revival architectural styles. In 18th-century usage the term was sometimes abbreviated as "o-g."
 
@@ -182,11 +183,11 @@ In textiles, the ogee structure has been used continuously from Byzantine and Is
 
 ## Related Pattern Types
 
-- [[Damask Pattern]] — the ogee structure is a primary organising framework for many damask designs
-- [[Arabesque Pattern]] — close historical relative; arabesque uses scrolling stems where ogee uses the S-curve outline
-- [[Moroccan Pattern]] — Moroccan decorative tradition uses ogee-adjacent forms in tile and textile
-- [[Quatrefoil Pattern]] — architectural cousin; both are Gothic architectural motifs active in surface design
-- [[Diamond Pattern]] — structural overlap; ogee can be seen as a curved variant of the diamond grid
+- Damask Pattern - the ogee structure is a primary organising framework for many damask designs
+- Arabesque Pattern - close historical relative; arabesque uses scrolling stems where ogee uses the S-curve outline
+- Moroccan Pattern - Moroccan decorative tradition uses ogee-adjacent forms in tile and textile
+- Quatrefoil Pattern - architectural cousin; both are Gothic architectural motifs active in surface design
+- Diamond Pattern - structural overlap; ogee can be seen as a curved variant of the diamond grid
 
 ## Source Notes
 

@@ -116,6 +116,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 105
 ---
 
 # Oriental Pattern
@@ -123,13 +124,13 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/oriental-pattern/profile/oriental-pattern-image.svg)
-A broad commercial and design category covering surface patterns derived from the textile traditions of the Middle East, Central Asia, China, and surrounding regions — most prominently the visual language of handknotted oriental rugs, Chinese decorative arts, and the European Orientalist interpretation of Eastern design.
+A broad commercial and design category covering surface patterns derived from the textile traditions of the Middle East, Central Asia, China, and surrounding regions - most prominently the visual language of handknotted oriental rugs, Chinese decorative arts, and the European Orientalist interpretation of Eastern design.
 
 ## Overview
 
 "Oriental pattern" is an industry umbrella term rather than a precise technical category. In commercial contexts it typically refers to patterns drawing on the visual vocabulary of oriental carpets (Turkish, Persian, Caucasian, Central Asian, and Chinese), on Chinese and Japanese decorative motifs, or on the broader Orientalist aesthetic that shaped European design from the 16th century onwards.
 
-The term encompasses designs of considerable complexity and cultural depth — from the strict geometric traditions of Anatolian Seljuq carpet design (13th century) through the floral elaboration of Safavid Persian court carpet to the chinoiserie-influenced surface patterns of 18th-century European textiles. In contemporary commercial use, it typically signals formal, richly decorated, tradition-referencing pattern design.
+The term encompasses designs of considerable complexity and cultural depth - from the strict geometric traditions of Anatolian Seljuq carpet design (13th century) through the floral elaboration of Safavid Persian court carpet to the chinoiserie-influenced surface patterns of 18th-century European textiles. In contemporary commercial use, it typically signals formal, richly decorated, tradition-referencing pattern design.
 
 Note on terminology: "Oriental" as a descriptor has been contested in some cultural and academic contexts; "Islamic", "Persian", "Anatolian", "Central Asian", or specific regional names are often more precise when attribution is known.
 
@@ -149,7 +150,7 @@ Oriental patterns are characterised by:
 The classic oriental carpet composition establishes pattern conventions used across many derived surface design applications:
 
 - **Medallion and field:** A central medallion (often quatrefoil, star, or lobed) surrounded by a repeating all-over field pattern, contained within a main border and multiple guard borders
-- **All-over field:** The entire field covered by a continuous repeating motif — geometric (hexagons, stars, X-forms), floral (Shah Abbas scrollwork), or heraldic (animal motifs)
+- **All-over field:** The entire field covered by a continuous repeating motif - geometric (hexagons, stars, X-forms), floral (Shah Abbas scrollwork), or heraldic (animal motifs)
 - **Prayer rug structure:** A single directional mihrab arch with internal decoration; no repeat
 - **Kelim / flat weave:** Geometric interlocked shapes in tapestry technique; characteristic of kilim traditions
 
@@ -174,11 +175,11 @@ Contemporary oriental-influenced design ranges from faithful reproduction of his
 
 ## History and Context
 
-Oriental rug weaving as a documented tradition extends at least to the 5th century BC (the Pazyryk carpet, discovered in Siberian burial mounds, dated c.400 BC). By the 13th century, Anatolian Seljuq carpets were being exported to Europe, documented by Marco Polo and appearing in Italian Renaissance paintings. The carpet-weaving traditions of the "Rug Belt" — Morocco across North Africa, Middle East, Caucasus, Central Asia, and India — developed distinct regional styles over centuries.
+Oriental rug weaving as a documented tradition extends at least to the 5th century BC (the Pazyryk carpet, discovered in Siberian burial mounds, dated c.400 BC). By the 13th century, Anatolian Seljuq carpets were being exported to Europe, documented by Marco Polo and appearing in Italian Renaissance paintings. The carpet-weaving traditions of the "Rug Belt" - Morocco across North Africa, Middle East, Caucasus, Central Asia, and India - developed distinct regional styles over centuries.
 
 In 2010, UNESCO inscribed traditional carpet weaving from the Iranian province of Fars, from Kashan, and the Azerbaijani carpet weaving tradition to the Intangible Cultural Heritage Lists.
 
-European contact with oriental design through trade produced Orientalist interpretation: chinoiserie (17th–18th century European imagining of Chinese design), the "Turkey work" imitation of oriental carpet knotting in English upholstery, and later the Arts and Crafts movement's direct engagement with Islamic and Persian design sources. William Morris studied Islamic textiles in depth and his pattern designs show direct influence.
+European contact with oriental design through trade produced Orientalist interpretation: chinoiserie (17th-18th century European imagining of Chinese design), the "Turkey work" imitation of oriental carpet knotting in English upholstery, and later the Arts and Crafts movement's direct engagement with Islamic and Persian design sources. William Morris studied Islamic textiles in depth and his pattern designs show direct influence.
 
 ## Surface Pattern Uses
 
@@ -191,13 +192,13 @@ European contact with oriental design through trade produced Orientalist interpr
 
 ## Related Pattern Types
 
-- [[Persian Pattern]] — specific subset; court Persian carpet and decorative art traditions
-- [[Arabesque Pattern]] — the scrolling stem motif tradition; major component of oriental decorative vocabulary
-- [[Paisley Pattern]] — derived from the boteh/buta motif in Persian textiles
-- [[Islamic Geometric Pattern]] — geometric tradition that feeds into many oriental pattern types
-- [[Chinoiserie Pattern]] — European interpretation of Chinese design; overlapping territory
-- [[Kilim Pattern]] — flat-woven geometric subset of the oriental textile tradition
-- [[Turkish Pattern]] — regional specialisation within oriental pattern
+- Persian Pattern - specific subset; court Persian carpet and decorative art traditions
+- Arabesque Pattern - the scrolling stem motif tradition; major component of oriental decorative vocabulary
+- Paisley Pattern - derived from the boteh/buta motif in Persian textiles
+- Islamic Geometric Pattern - geometric tradition that feeds into many oriental pattern types
+- Chinoiserie Pattern - European interpretation of Chinese design; overlapping territory
+- Kilim Pattern - flat-woven geometric subset of the oriental textile tradition
+- Turkish Pattern - regional specialisation within oriental pattern
 
 ## Source Notes
 

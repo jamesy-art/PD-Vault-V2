@@ -34,6 +34,7 @@ logo_type: wordmark
 created: '2026-06-11'
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 121
 ---
 
 # DK Company
@@ -67,7 +68,7 @@ DK Company distributes through its own retail stores as well as wholesale to thi
 
 ## Markets
 
-DK Company operates as a major European fashion wholesale and retail group. Its 450 retail stores and 26-brand portfolio place it among the leading fashion suppliers in the Nordic and broader European market. The group addresses a wide commercial range — from accessible casualwear (Blend, Casual Friday) to premium contemporary womenswear (Gestuz, Soaked in Luxury) — giving it strong shelf presence across multiple retail tiers.
+DK Company operates as a major European fashion wholesale and retail group. Its 450 retail stores and 26-brand portfolio place it among the leading fashion suppliers in the Nordic and broader European market. The group addresses a wide commercial range - from accessible casualwear (Blend, Casual Friday) to premium contemporary womenswear (Gestuz, Soaked in Luxury) - giving it strong shelf presence across multiple retail tiers.
 
 ## Pattern and Surface Design Relevance
 

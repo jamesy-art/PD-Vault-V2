@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 4
 ---
 
 # Calico Pattern
@@ -122,11 +123,11 @@ Small-scale all-over floral or geometric print on cotton, with roots in Indian c
 
 ## Overview
 
-Calico's pattern identity is primarily an American definition: small-scale all-over florals or geometric motifs on cotton. In the UK, Australia, and New Zealand, "calico" refers to the unbleached unprinted plain-weave fabric itself. In surface pattern design, the American usage is operative — a dense, small-scale printed cotton with multiple tightly packed repeating motifs. The style anchors the quilting fabric, country-home, and folk-domestic markets.
+Calico's pattern identity is primarily an American definition: small-scale all-over florals or geometric motifs on cotton. In the UK, Australia, and New Zealand, "calico" refers to the unbleached unprinted plain-weave fabric itself. In surface pattern design, the American usage is operative - a dense, small-scale printed cotton with multiple tightly packed repeating motifs. The style anchors the quilting fabric, country-home, and folk-domestic markets.
 
 ## Visual Characteristics
 
-Calico prints are characteristically small in scale — motifs are tight and closely packed, filling the ground without large negative space. Florals, sprigs, leaves, and small geometric elements are typical. The visual register is informal and domestic. Multiple colours are used but the palette is typically bounded: three to five colours on a cream or white ground.
+Calico prints are characteristically small in scale - motifs are tight and closely packed, filling the ground without large negative space. Florals, sprigs, leaves, and small geometric elements are typical. The visual register is informal and domestic. Multiple colours are used but the palette is typically bounded: three to five colours on a cream or white ground.
 
 ## Pattern Structure
 
@@ -147,7 +148,7 @@ Early Indian chintz used alizarin dyes producing characteristic red and black on
 
 The word derives from Calicut (now Kozhikode, Kerala, India), where the heavyweight plain-weave cotton fabric originated. Indian printed cotton reached European markets from at least the 11th century. Early Indian chintz featured large florals on dark grounds; European buyers shifted production toward cream-ground, polychromatic designs with smaller-scale motifs.
 
-Printing technology evolved from hand-carved wooden block printing to copper roller printing — Thomas Bell patented the process in 1783, with commercial adoption by 1821. This industrialisation dramatically increased output and established printed cotton as a dominant commodity in European textile trade.
+Printing technology evolved from hand-carved wooden block printing to copper roller printing - Thomas Bell patented the process in 1783, with commercial adoption by 1821. This industrialisation dramatically increased output and established printed cotton as a dominant commodity in European textile trade.
 
 The **Calico Acts** (England, 1700) banned the import and use of Indian printed calicoes to protect the domestic wool and silk industries, demonstrating both calico's commercial significance and the political economy of printed cotton in the early trade era.
 
@@ -161,11 +162,11 @@ The **Calico Acts** (England, 1700) banned the import and use of Indian printed 
 
 ## Related Pattern Types
 
-- [[Chintz Pattern]]
-- [[Floral Pattern]]
-- [[Folk Pattern]]
-- [[Sprig Pattern]]
-- [[Liberty Print]]
+- Chintz Pattern
+- Floral Pattern
+- Folk Pattern
+- Sprig Pattern
+- Liberty Print
 
 ## Source Notes
 

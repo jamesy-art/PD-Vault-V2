@@ -3,7 +3,7 @@ name: Pig Pattern
 slug: pig-pattern
 status: active
 type_group: novelty
-summary: Novelty surface pattern using stylised pig motifs — snouts, cartoon pigs, piglets — in repeating or tossed all-over arrangements; commercially active in children's products, gifting, and novelty stationery
+summary: Novelty surface pattern using stylised pig motifs - snouts, cartoon pigs, piglets - in repeating or tossed all-over arrangements; commercially active in children's products, gifting, and novelty stationery
 motifs:
   - Animal
 structures:
@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 73
 ---
 
 # Pig Pattern
@@ -119,11 +120,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/pig-pattern/profile/pig-pattern-image.svg)
-A novelty surface pattern using pig motifs — cartoon pigs, stylised snouts, and piglet forms — as the primary repeating element; commercially positioned in children's apparel, nursery products, gifting, and seasonal novelty print.
+A novelty surface pattern using pig motifs - cartoon pigs, stylised snouts, and piglet forms - as the primary repeating element; commercially positioned in children's apparel, nursery products, gifting, and seasonal novelty print.
 
 ## Overview
 
-Pig patterns sit within the farm animal novelty print category alongside cow, sheep, chicken, and duck motif designs. As a conversational print, the pig's strong silhouette — rounded body, distinctive snout, curly tail, pink colouring — provides an immediately recognisable motif with broad, non-specific appeal.
+Pig patterns sit within the farm animal novelty print category alongside cow, sheep, chicken, and duck motif designs. As a conversational print, the pig's strong silhouette - rounded body, distinctive snout, curly tail, pink colouring - provides an immediately recognisable motif with broad, non-specific appeal.
 
 Commercially, pig patterns operate primarily in children's markets (apparel, nursery products) and in novelty gifting contexts. Pink pig imagery has particular cultural currency in East Asian markets (the Year of the Pig in the Chinese zodiac generates cyclical demand). The farm-to-table and artisan food cultural moment has also contributed some adult-market positioning for pig motifs in kitchen and homeware contexts.
 
@@ -162,7 +163,7 @@ Style range: kawaii/cartoon (large eyes, rounded forms, pastel palette), retro i
 
 ## History and Context
 
-Farm animal motifs have a long presence in children's picture books and nursery decoration, with pigs as one of the most consistently featured animals. The pig's cultural associations vary widely by market — in Western contexts, farm-animal positivity (Old MacDonald, Babe); in Chinese zodiac, the Pig year (every 12 years) represents fortune and happiness; in Islamic and Jewish dietary traditions, the pig carries religious significance that may affect market suitability.
+Farm animal motifs have a long presence in children's picture books and nursery decoration, with pigs as one of the most consistently featured animals. The pig's cultural associations vary widely by market - in Western contexts, farm-animal positivity (Old MacDonald, Babe); in Chinese zodiac, the Pig year (every 12 years) represents fortune and happiness; in Islamic and Jewish dietary traditions, the pig carries religious significance that may affect market suitability.
 
 In contemporary novelty print markets, farm animal patterns (including pig) are commercially stable as a children's product category and periodically resurface as trend-driven adult novelty prints.
 
@@ -177,11 +178,11 @@ In contemporary novelty print markets, farm animal patterns (including pig) are 
 
 ## Related Pattern Types
 
-- [[Farm Animal Pattern]] — parent category; pig shares this category with cow, sheep, chicken, and horse motifs
-- [[Animal Pattern]] — broader parent category
-- [[Novelty Pattern]] — structural parent; pig pattern is a conversational/novelty print
-- [[Children's Pattern]] — primary market; farm animal patterns are commercially dominant in children's products
-- [[Pet Pattern]] — adjacent category; domestic rather than farm animal positioning
+- Farm Animal Pattern - parent category; pig shares this category with cow, sheep, chicken, and horse motifs
+- Animal Pattern - broader parent category
+- Novelty Pattern - structural parent; pig pattern is a conversational/novelty print
+- Children's Pattern - primary market; farm animal patterns are commercially dominant in children's products
+- Pet Pattern - adjacent category; domestic rather than farm animal positioning
 
 ## Source Notes
 

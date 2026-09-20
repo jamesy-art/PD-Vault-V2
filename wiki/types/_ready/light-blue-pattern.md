@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 81
 ---
 
 # Light Blue Pattern
@@ -119,17 +120,17 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/light-blue-pattern/profile/light-blue-pattern-image.svg)
-A colour-category entry covering surface patterns using light blue as the primary or dominant hue — encompassing sky blue, baby blue, powder blue, cerulean, periwinkle, and pale aqua across all pattern types and markets.
+A colour-category entry covering surface patterns using light blue as the primary or dominant hue - encompassing sky blue, baby blue, powder blue, cerulean, periwinkle, and pale aqua across all pattern types and markets.
 
 ## Overview
 
-Light blue pattern is a colour-led classification rather than a motif or structural type. Any pattern — geometric, floral, stripe, check, abstract — falls into this category when light blue is the dominant or defining colour. As a result, the category is commercially broad and crosses most pattern markets.
+Light blue pattern is a colour-led classification rather than a motif or structural type. Any pattern - geometric, floral, stripe, check, abstract - falls into this category when light blue is the dominant or defining colour. As a result, the category is commercially broad and crosses most pattern markets.
 
 Light blue carries strong and consistent psychological associations in Western commercial contexts: calm, clarity, trust, and openness. It is the colour of clear sky and clean water, and this associative weight makes it commercially stable across many product categories. First recorded as a colour term in English in 1915, light blue has a long commercial and cultural life in textiles, interiors, and product design.
 
 ## Visual Characteristics
 
-Light blue is defined as a pale tint of blue — blue combined with white, reducing saturation and increasing lightness. The specific shade varies considerably across commercial applications:
+Light blue is defined as a pale tint of blue - blue combined with white, reducing saturation and increasing lightness. The specific shade varies considerably across commercial applications:
 
 - **Sky blue:** Clear mid-toned pale blue; the most universally recognised shade
 - **Baby blue:** Very pale, soft, low-saturation; associated with infant products and gentle aesthetics
@@ -140,7 +141,7 @@ Light blue is defined as a pale tint of blue — blue combined with white, reduc
 
 ## Pattern Structure
 
-Light blue pattern is structure-neutral — the colour applies equally to:
+Light blue pattern is structure-neutral - the colour applies equally to:
 
 - **Ticking stripes:** Traditional alternating thin light blue and white lines; classic textile heritage use
 - **Gingham and check:** Light blue and white checks; casual summer and traditional positioning
@@ -188,11 +189,11 @@ Light blue has symbolic associations across multiple cultural traditions: in her
 
 ## Related Pattern Types
 
-- [[Blue Pattern]] — broader category including all blue tones; light blue is a subset
-- [[Coastal Pattern]] — strong aesthetic overlap; light blue is the dominant coastal colour
-- [[Gingham Pattern]] — classic light blue check application
-- [[Ticking Stripe]] — traditional light blue stripe variant
-- [[Delftware Pattern]] — blue-and-white ceramic tradition; foundational to light blue in homeware
+- Blue Pattern - broader category including all blue tones; light blue is a subset
+- Coastal Pattern - strong aesthetic overlap; light blue is the dominant coastal colour
+- Gingham Pattern - classic light blue check application
+- Ticking Stripe - traditional light blue stripe variant
+- Delftware Pattern - blue-and-white ceramic tradition; foundational to light blue in homeware
 
 ## Source Notes
 

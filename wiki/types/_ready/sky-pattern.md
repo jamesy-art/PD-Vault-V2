@@ -3,7 +3,7 @@ name: Sky Pattern
 slug: sky-pattern
 status: active
 type_group: novelty
-summary: Surface pattern type using sky-derived motifs — clouds, stars, constellations, sun, moon, and celestial imagery — for textile and wallpaper design across children's, home, and fashion markets.
+summary: Surface pattern type using sky-derived motifs - clouds, stars, constellations, sun, moon, and celestial imagery - for textile and wallpaper design across children's, home, and fashion markets.
 motifs:
   - Celestial
 structures:
@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 89
 ---
 
 # Sky Pattern
@@ -119,15 +120,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/sky-pattern/profile/sky-pattern-image.svg)
-A surface pattern type using the visual vocabulary of the sky — clouds, stars, sun and moon, constellations, and celestial formations — for textile, wallpaper, and decorative product design. Commercially active in children's, home, and fashion markets.
+A surface pattern type using the visual vocabulary of the sky - clouds, stars, sun and moon, constellations, and celestial formations - for textile, wallpaper, and decorative product design. Commercially active in children's, home, and fashion markets.
 
 ## Overview
 
-Sky patterns draw on the day and night sky as their primary design source, incorporating cloud formations, stars, celestial bodies, and constellation arrangements as repeating motifs. As a category, sky patterns span a wide tonal and stylistic range: soft pastel daytime cloud compositions for nursery textiles, midnight-blue constellation charts for adult wallpaper, and golden celestial symbols for fashion accessory prints. The astronomical framework of constellations — both the 88 officially recognised IAU groupings and informal asterisms — provides a named and historically grounded motif vocabulary that lends sky patterns an educational and heritage dimension beyond purely decorative use.
+Sky patterns draw on the day and night sky as their primary design source, incorporating cloud formations, stars, celestial bodies, and constellation arrangements as repeating motifs. As a category, sky patterns span a wide tonal and stylistic range: soft pastel daytime cloud compositions for nursery textiles, midnight-blue constellation charts for adult wallpaper, and golden celestial symbols for fashion accessory prints. The astronomical framework of constellations - both the 88 officially recognised IAU groupings and informal asterisms - provides a named and historically grounded motif vocabulary that lends sky patterns an educational and heritage dimension beyond purely decorative use.
 
 ## Visual Characteristics
 
-Daytime sky patterns use fluffy white or pastel cloud forms — cumulus rounded shapes are the most common — on blue or gradient sky grounds, sometimes with a sun, birds, or rainbow elements. Night sky patterns use dark backgrounds with white or gold star points, crescent or full moon forms, and optionally constellation line drawings connecting named star groups. Zodiac-constellation versions present the 12 ecliptic constellations (Aries, Taurus, Gemini, Leo etc.) as both symbolic and astronomical drawings. Meteorological cloud category illustrations (cirrus, cumulus, stratus) provide a more technically precise vocabulary used in educational and naturalistic design contexts.
+Daytime sky patterns use fluffy white or pastel cloud forms - cumulus rounded shapes are the most common - on blue or gradient sky grounds, sometimes with a sun, birds, or rainbow elements. Night sky patterns use dark backgrounds with white or gold star points, crescent or full moon forms, and optionally constellation line drawings connecting named star groups. Zodiac-constellation versions present the 12 ecliptic constellations (Aries, Taurus, Gemini, Leo etc.) as both symbolic and astronomical drawings. Meteorological cloud category illustrations (cirrus, cumulus, stratus) provide a more technically precise vocabulary used in educational and naturalistic design contexts.
 
 ## Pattern Structure
 
@@ -147,13 +148,13 @@ Tossed repeats are most common, with cloud forms, stars, and celestial elements 
 
 ## Colour and Style
 
-Daytime versions: soft blues, white, pale yellow, and pastel multi-colour (rainbow associations). Night sky versions: deep navy, near-black, or dark violet grounds with white, gold, or silver motifs. Celestial symbol versions (sun/moon/star as decorative motif rather than naturalistic element) often use gold, cream, or monochrome palettes — associated with mystical or spiritual aesthetics as well as heritage textile traditions. Children's variants use softer pastels and simplified forms; adult and fashion variants use more sophisticated linework or abstracted constellation geometry.
+Daytime versions: soft blues, white, pale yellow, and pastel multi-colour (rainbow associations). Night sky versions: deep navy, near-black, or dark violet grounds with white, gold, or silver motifs. Celestial symbol versions (sun/moon/star as decorative motif rather than naturalistic element) often use gold, cream, or monochrome palettes - associated with mystical or spiritual aesthetics as well as heritage textile traditions. Children's variants use softer pastels and simplified forms; adult and fashion variants use more sophisticated linework or abstracted constellation geometry.
 
 ## History and Context
 
-Sky and celestial imagery has a long history in decorative arts across cultures. Constellations as named pattern groups have been documented across many ancient civilisations for navigation, agricultural timing, and storytelling. The International Astronomical Union now recognises 88 official constellations dividing the entire celestial sphere; the 12 zodiac constellations (those along the ecliptic) are among the most widely recognised and have been used in decorative arts for centuries. Asterisms — informal star patterns recognised within or across constellations, such as the Big Dipper within Ursa Major, or the Summer Triangle spanning Cygnus, Aquila, and Lyra — provide additional named motif vocabulary.
+Sky and celestial imagery has a long history in decorative arts across cultures. Constellations as named pattern groups have been documented across many ancient civilisations for navigation, agricultural timing, and storytelling. The International Astronomical Union now recognises 88 official constellations dividing the entire celestial sphere; the 12 zodiac constellations (those along the ecliptic) are among the most widely recognised and have been used in decorative arts for centuries. Asterisms - informal star patterns recognised within or across constellations, such as the Big Dipper within Ursa Major, or the Summer Triangle spanning Cygnus, Aquila, and Lyra - provide additional named motif vocabulary.
 
-In contemporary surface pattern design, celestial and sky themes have sustained commercial relevance as a versatile category with broad demographic appeal — from nursery cloudscapes to adult mysticism-adjacent star charts.
+In contemporary surface pattern design, celestial and sky themes have sustained commercial relevance as a versatile category with broad demographic appeal - from nursery cloudscapes to adult mysticism-adjacent star charts.
 
 ## Surface Pattern Uses
 
@@ -167,14 +168,14 @@ In contemporary surface pattern design, celestial and sky themes have sustained 
 
 ## Related Pattern Types
 
-- [[Space Pattern]]
-- [[Star Pattern]]
-- [[Cloud Pattern]]
-- [[Constellation Pattern]]
-- [[Moon Pattern]]
-- [[Celestial Pattern]]
-- [[Children's Pattern]]
-- [[Nature Pattern]]
+- Space Pattern
+- Star Pattern
+- Cloud Pattern
+- Constellation Pattern
+- Moon Pattern
+- Celestial Pattern
+- Children's Pattern
+- Nature Pattern
 
 ## Source Notes
 

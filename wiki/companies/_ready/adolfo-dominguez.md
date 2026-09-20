@@ -62,6 +62,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 163
 ---
 
 # Adolfo Domínguez
@@ -79,7 +80,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Adolfo Domínguez is a Spanish fashion brand founded by designer Adolfo Domínguez Fernández (born 1950, Ourense, Galicia). The brand grew from the designer's takeover of his father's boutique in Ourense in the early 1970s, followed by a first major presentation in Madrid in 1981. Domínguez was among the first Spanish designers to open a branded retail chain. The company listed publicly in 1997. As of 2023, the group operates 350 points of sale in 24 countries, with 53% of its network outside Spain. Revenue for FY2023–24 was €114M.
+Adolfo Domínguez is a Spanish fashion brand founded by designer Adolfo Domínguez Fernández (born 1950, Ourense, Galicia). The brand grew from the designer's takeover of his father's boutique in Ourense in the early 1970s, followed by a first major presentation in Madrid in 1981. Domínguez was among the first Spanish designers to open a branded retail chain. The company listed publicly in 1997. As of 2023, the group operates 350 points of sale in 24 countries, with 53% of its network outside Spain. Revenue for FY2023-24 was €114M.
 
 Adolfo Domínguez studied Philosophy and Arts (specialising in Art) at Santiago University before entering fashion. No specific aesthetic or design direction details are provided in the source beyond the brand's positioning as a contemporary Spanish fashion label.
 
@@ -89,7 +90,7 @@ Adolfo Domínguez studied Philosophy and Arts (specialising in Art) at Santiago 
 - **Designer/Founder:** Adolfo Domínguez Fernández (born 14 May 1950)
 - **Headquarters:** Ourense, Galicia, Spain
 - **Points of sale:** ~350 across 24 countries (2023); ~53% outside Spain
-- **Revenue:** €114M (FY2023–24)
+- **Revenue:** €114M (FY2023-24)
 - **Listed:** Publicly since 1997
 - **Award:** National Designer Prize, Spain, 2014
 

@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 119
 ---
 
 # Stripe Pattern
@@ -118,11 +119,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/stripe-pattern/profile/stripe-pattern-image.svg)
-A surface pattern composed of parallel bands of alternating colour or tone — one of the most ancient, versatile, and commercially durable structures in textile and surface design.
+A surface pattern composed of parallel bands of alternating colour or tone - one of the most ancient, versatile, and commercially durable structures in textile and surface design.
 
 ## Overview
 
-Stripe patterns reduce surface design to its most fundamental element: parallel bands. Despite (or because of) this simplicity, stripes carry an unusually rich history of social, cultural, and commercial meaning. Their visual properties — extending the eye along a single axis, creating optical effects through proportion and contrast — have been exploited across fashion, home textiles, and decoration for centuries. Stripe patterns are among the highest-volume commercial designs in surface pattern, appearing perennially across every product category.
+Stripe patterns reduce surface design to its most fundamental element: parallel bands. Despite (or because of) this simplicity, stripes carry an unusually rich history of social, cultural, and commercial meaning. Their visual properties - extending the eye along a single axis, creating optical effects through proportion and contrast - have been exploited across fashion, home textiles, and decoration for centuries. Stripe patterns are among the highest-volume commercial designs in surface pattern, appearing perennially across every product category.
 
 ## Visual Characteristics
 
@@ -161,11 +162,11 @@ Stripe colour conventions carry strong cultural associations:
 
 ## History and Context
 
-The stripe has one of the most culturally contested histories in surface pattern. Medieval historian Michel Pastoureau's "The Devil's Cloth" documents how striped fabric was stigmatised in medieval Europe — associated with outcasts, criminals, prostitutes, clowns, and the dishonoured. This stigma persisted for centuries before the stripe was rehabilitated through 18th-century aristocratic fashion and then mass popularised in the 19th and 20th centuries. Prisoner uniforms used stripes precisely because of this stigmatised association. The 1920s marked a significant turn toward mainstreaming stripes in fashion, via the pinstripe suit in men's wear. Coco Chanel's adoption of the Breton marinière stripe for women's resort wear is widely credited with establishing the stripe as a fashion staple in the 20th century. School and university uniforms use stripe conventions (in ties, blazers, and sports kit) to mark institutional belonging.
+The stripe has one of the most culturally contested histories in surface pattern. Medieval historian Michel Pastoureau's "The Devil's Cloth" documents how striped fabric was stigmatised in medieval Europe - associated with outcasts, criminals, prostitutes, clowns, and the dishonoured. This stigma persisted for centuries before the stripe was rehabilitated through 18th-century aristocratic fashion and then mass popularised in the 19th and 20th centuries. Prisoner uniforms used stripes precisely because of this stigmatised association. The 1920s marked a significant turn toward mainstreaming stripes in fashion, via the pinstripe suit in men's wear. Coco Chanel's adoption of the Breton marinière stripe for women's resort wear is widely credited with establishing the stripe as a fashion staple in the 20th century. School and university uniforms use stripe conventions (in ties, blazers, and sports kit) to mark institutional belonging.
 
 ## Surface Pattern Uses
 
-- **Fashion:** shirting, suiting (pinstripe), resort wear, activewear, ties, scarves — one of the most continuously used pattern formats in fashion
+- **Fashion:** shirting, suiting (pinstripe), resort wear, activewear, ties, scarves - one of the most continuously used pattern formats in fashion
 - **Home textiles:** bedding, towels, awning fabric, deckchair canvas
 - **Wallpaper:** stripe wallpaper in both classic and contemporary interior styles
 - **Stationery:** notebooks, wrapping paper, packaging
@@ -173,14 +174,14 @@ The stripe has one of the most culturally contested histories in surface pattern
 
 ## Related Pattern Types
 
-- [[Square Pattern]] — stripes crossing at right angles produce check and square patterns
-- [[Tartan Pattern]] — tartan is a specific tradition of multi-coloured crossed stripe patterns
-- [[Geometric Pattern]] — stripes are the simplest geometric structure
-- [[Sea Pattern]] — the marinière stripe is directly associated with nautical aesthetic
+- Square Pattern - stripes crossing at right angles produce check and square patterns
+- Tartan Pattern - tartan is a specific tradition of multi-coloured crossed stripe patterns
+- Geometric Pattern - stripes are the simplest geometric structure
+- Sea Pattern - the marinière stripe is directly associated with nautical aesthetic
 
 ## Source Notes
 
-- SPD-focused notes — Michel Pastoureau "The Devil's Cloth" (medieval stigma), prisoner uniforms, 1920s mainstream (pinstripe), Coco Chanel/marinière, school/university uniforms
+- SPD-focused notes - Michel Pastoureau "The Devil's Cloth" (medieval stigma), prisoner uniforms, 1920s mainstream (pinstripe), Coco Chanel/marinière, school/university uniforms
 
 ## Editorial Images
 

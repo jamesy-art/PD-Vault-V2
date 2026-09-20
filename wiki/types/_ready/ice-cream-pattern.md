@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 75
 ---
 
 # Ice Cream Pattern
@@ -119,23 +120,23 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/ice-cream-pattern/profile/ice-cream-pattern-image.svg)
-A novelty surface pattern built from repeating ice cream motifs — cones, scoops, popsicles, and soft-serve swirls — used primarily in children's apparel, summer textiles, and confectionery-related branding.
+A novelty surface pattern built from repeating ice cream motifs - cones, scoops, popsicles, and soft-serve swirls - used primarily in children's apparel, summer textiles, and confectionery-related branding.
 
 ## Overview
 
-Ice cream patterns sit within the broader novelty and conversational print category: designs whose motifs carry immediate associative meaning rather than abstract visual interest. Ice cream imagery is commercially embedded in summer seasonal product lines, children's products, and food-service contexts. The motifs are universally legible and carry strong positive associations — leisure, summer, sweetness — making them commercially durable across a range of applications and price points.
+Ice cream patterns sit within the broader novelty and conversational print category: designs whose motifs carry immediate associative meaning rather than abstract visual interest. Ice cream imagery is commercially embedded in summer seasonal product lines, children's products, and food-service contexts. The motifs are universally legible and carry strong positive associations - leisure, summer, sweetness - making them commercially durable across a range of applications and price points.
 
 The pattern type spans from simple tossed scatter repeats of single-colour cone silhouettes to detailed illustrated arrangements combining multiple ice cream forms with supporting props (sprinkles, cherries, waffle textures, drip details).
 
 ## Visual Characteristics
 
-Ice cream patterns are characterised by soft, rounded forms. The cone provides a strong triangular anchor; scoops add circular masses on top; popsicles introduce vertical rectangular elements that diversify composition. Soft-serve motifs feature the characteristic spiral or swirl of a machine-dispensed product. Drip details — melting ice cream running down a cone — are a common feature that adds organic line quality to otherwise simple shapes.
+Ice cream patterns are characterised by soft, rounded forms. The cone provides a strong triangular anchor; scoops add circular masses on top; popsicles introduce vertical rectangular elements that diversify composition. Soft-serve motifs feature the characteristic spiral or swirl of a machine-dispensed product. Drip details - melting ice cream running down a cone - are a common feature that adds organic line quality to otherwise simple shapes.
 
 Designs range from flat graphic silhouettes (minimal line detail, bold block colour) to detailed illustrative styles (watercolour, hand-painted appearance, cross-sectional scoops showing flavour colours).
 
 ## Pattern Structure
 
-Ice cream patterns are most commonly laid out as tossed or random all-over repeats, where individual motif elements are distributed across the tile at varying angles and scales to avoid directional reading. Some designs introduce more structured arrangements — stripe bands of alternating cone types, grid patterns, or orderly rows — but the tossed layout is the commercial default.
+Ice cream patterns are most commonly laid out as tossed or random all-over repeats, where individual motif elements are distributed across the tile at varying angles and scales to avoid directional reading. Some designs introduce more structured arrangements - stripe bands of alternating cone types, grid patterns, or orderly rows - but the tossed layout is the commercial default.
 
 Mixed-element compositions combine cones, popsicles, scoops, and supporting motifs (sprinkles, stars, cherries) at varied scales to create visual variety across the repeat tile.
 
@@ -150,13 +151,13 @@ Mixed-element compositions combine cones, popsicles, scoops, and supporting moti
 
 ## Colour and Style
 
-Pastel palettes — pink, mint, lavender, peach, lemon yellow — dominate children's and summer applications. Bold, saturated primaries appear in retro or graphic design variants. Confectionery palette connections (vanilla white, chocolate brown, strawberry pink, mint green) reinforce flavour associations.
+Pastel palettes - pink, mint, lavender, peach, lemon yellow - dominate children's and summer applications. Bold, saturated primaries appear in retro or graphic design variants. Confectionery palette connections (vanilla white, chocolate brown, strawberry pink, mint green) reinforce flavour associations.
 
 Stylistic range is wide: flat vector (clean fills, minimal line), retro illustration (stippling, halftone texture, 1950s diner aesthetic), watercolour (soft washes, hand-made quality), and kawaii-influenced cartoon (oversized eyes on anthropomorphised ice cream characters).
 
 ## History and Context
 
-Ice cream as a decorative motif in surface pattern design follows the broader pattern of food-motif prints gaining commercial traction through the mid-to-late 20th century alongside fast-food culture and the expansion of children's print as a distinct commercial category. The motif connects to the wider novelty print tradition — fruit, food, transport, animals — that has been a staple of childrenswear and summer fashion since the 1950s.
+Ice cream as a decorative motif in surface pattern design follows the broader pattern of food-motif prints gaining commercial traction through the mid-to-late 20th century alongside fast-food culture and the expansion of children's print as a distinct commercial category. The motif connects to the wider novelty print tradition - fruit, food, transport, animals - that has been a staple of childrenswear and summer fashion since the 1950s.
 
 ## Surface Pattern Uses
 
@@ -169,11 +170,11 @@ Ice cream as a decorative motif in surface pattern design follows the broader pa
 
 ## Related Pattern Types
 
-- [[Fruit Pattern]] — close sibling category; both food-motif patterns; often combined in summer collections
-- [[Novelty Pattern]] — parent category for all conversational/motif-driven prints
-- [[Children's Pattern]] — primary market for ice cream pattern applications
-- [[Summer Pattern]] — seasonal category; ice cream is a defining summer motif
-- [[Food Pattern]] — broader category including all food-based surface motifs
+- Fruit Pattern - close sibling category; both food-motif patterns; often combined in summer collections
+- Novelty Pattern - parent category for all conversational/motif-driven prints
+- Children's Pattern - primary market for ice cream pattern applications
+- Summer Pattern - seasonal category; ice cream is a defining summer motif
+- Food Pattern - broader category including all food-based surface motifs
 
 ## Source Notes
 

@@ -100,6 +100,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 35
 ---
 
 # New Balance
@@ -119,13 +120,13 @@ enrichment_status: enriched
 
 ## Overview
 
-New Balance Athletics, Inc. is an American multinational footwear and apparel corporation headquartered in Boston, Massachusetts. Founded in 1906 by William J. Riley as the New Balance Arch Support Company — producing flexible arch supports with three support points designed to improve shoe fit — the company grew from a specialist shoe accessory maker into a global athletic footwear and apparel brand. New Balance is privately held, owned by Jim Davis (chairman), who purchased the company in 1972 for an undisclosed sum. Revenue totalled $6.5 billion in 2023. The company maintains manufacturing presence in the United States (New England) and the United Kingdom (Flimby, Cumbria), producing some of its most popular models domestically — a documented differentiator from competitors who manufacture exclusively outside the US and Europe.
+New Balance Athletics, Inc. is an American multinational footwear and apparel corporation headquartered in Boston, Massachusetts. Founded in 1906 by William J. Riley as the New Balance Arch Support Company - producing flexible arch supports with three support points designed to improve shoe fit - the company grew from a specialist shoe accessory maker into a global athletic footwear and apparel brand. New Balance is privately held, owned by Jim Davis (chairman), who purchased the company in 1972 for an undisclosed sum. Revenue totalled $6.5 billion in 2023. The company maintains manufacturing presence in the United States (New England) and the United Kingdom (Flimby, Cumbria), producing some of its most popular models domestically - a documented differentiator from competitors who manufacture exclusively outside the US and Europe.
 
 No single named creative director for the overall brand is documented; design is led operationally at the brand level. The appointment of Teddy Santis (April 2021) for the premium sneaker line is the most significant documented design leadership appointment. Sustainable design commitments: commitment to the Science Based Targets initiative; 100% renewable electricity target for operations by 2025; "Reconsidered" resale programme (February 2024, brand-owned channel for pre-worn shoes).
 
 ## History
 
-William J. Riley founded the New Balance Arch Support Company in the Boston area in 1906. The name "New Balance" is attributed to Riley's observation of three-pronged chicken feet as a model for arch-support balance. Arthur Hall was hired as salesman in 1927 and became a business partner in 1934. Hall sold the business to his daughter Eleanor and her husband Paul Kidd in 1956. In 1960, Eleanor and Paul Kidd designed the Trackster — the first running shoe to come in varying widths — which became popular through YMCA programmes and was adopted by MIT, Tufts, and Boston University. Jim Davis purchased the company in 1972 when it had six employees producing 30 pairs per day.
+William J. Riley founded the New Balance Arch Support Company in the Boston area in 1906. The name "New Balance" is attributed to Riley's observation of three-pronged chicken feet as a model for arch-support balance. Arthur Hall was hired as salesman in 1927 and became a business partner in 1934. Hall sold the business to his daughter Eleanor and her husband Paul Kidd in 1956. In 1960, Eleanor and Paul Kidd designed the Trackster - the first running shoe to come in varying widths - which became popular through YMCA programmes and was adopted by MIT, Tufts, and Boston University. Jim Davis purchased the company in 1972 when it had six employees producing 30 pairs per day.
 
 The UK factory opened in Workington in 1982 (relocated to Flimby in 1991); by 2017, the Flimby factory produced 28,000 pairs of shoes per week, representing 5% of New Balance shoes sold in the European market. Between 1992 and 2019, the company made approximately $69 billion in profit.
 
@@ -151,11 +152,11 @@ Premium athletic footwear brand occupying the upper end of the performance and l
 
 New Balance is primarily a performance footwear brand whose SPD relevance is concentrated in specific design appointments, collaborations, and the premium sneaker design tradition:
 
-**Domestic manufacturing as craft design**: The 990 series — produced in the USA — represents New Balance's flagship investment in domestic craftsmanship. US and UK manufacturing at the Flimby plant (28,000 pairs/week, 2017) provides design-level control over last shape, material selection, and construction detail in a way that offshored production does not. The model number heritage (990, 574, 576, etc.) is part of New Balance's documented design vocabulary.
+**Domestic manufacturing as craft design**: The 990 series - produced in the USA - represents New Balance's flagship investment in domestic craftsmanship. US and UK manufacturing at the Flimby plant (28,000 pairs/week, 2017) provides design-level control over last shape, material selection, and construction detail in a way that offshored production does not. The model number heritage (990, 574, 576, etc.) is part of New Balance's documented design vocabulary.
 
-**Teddy Santis / Aimé Leon Dore as creative director (from April 2021)**: Santis, founder of Aimé Leon Dore, was named creative director of the premium New Balance sneaker line in April 2021. ALD is a lifestyle brand known for its aesthetic rooted in New York collegiate style, vintage Americana, and premium textiles. The appointment is a documented fashion-design intervention in a performance footwear context — bringing print-adjacent, textile-led, and heritage-fabric thinking into New Balance's premium product line.
+**Teddy Santis / Aimé Leon Dore as creative director (from April 2021)**: Santis, founder of Aimé Leon Dore, was named creative director of the premium New Balance sneaker line in April 2021. ALD is a lifestyle brand known for its aesthetic rooted in New York collegiate style, vintage Americana, and premium textiles. The appointment is a documented fashion-design intervention in a performance footwear context - bringing print-adjacent, textile-led, and heritage-fabric thinking into New Balance's premium product line.
 
-**Paul Smith collaboration (576 shoe, 2018)**: British fashion designer Paul Smith collaborated with New Balance to mark the 30th anniversary of the 576 model. The collaboration applied Paul Smith's graphic and textile design direction to a specific New Balance shoe — a documented instance of fashion-print design applied to an athletic footwear surface.
+**Paul Smith collaboration (576 shoe, 2018)**: British fashion designer Paul Smith collaborated with New Balance to mark the 30th anniversary of the 576 model. The collaboration applied Paul Smith's graphic and textile design direction to a specific New Balance shoe - a documented instance of fashion-print design applied to an athletic footwear surface.
 
 **Aimé Leon Dore collaboration (long-term)**: New Balance and Aimé Leon Dore have a documented long-term collaboration, producing co-branded footwear and apparel. ALD's seasonal collections are heavily styled with textile references (corduroy, tweed, suiting fabric accents applied to sneaker construction), placing this collaboration within the fashion-textile design context.
 

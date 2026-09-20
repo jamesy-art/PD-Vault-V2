@@ -60,6 +60,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 97
 ---
 
 # Bimba y Lola
@@ -77,9 +78,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Bimba y Lola is a Spanish fashion brand founded in 2005 in Mos, in the metropolitan area of Vigo, Galicia, by sisters Uxía and María Domínguez. The brand is named after the founders' dogs. With over 200 points of sale across 17 countries — including own stores, franchise outlets, and shopping mall corners — it is one of the most prominent accessible luxury fashion brands in Spain. The company employs more than 1,000 people, approximately 80% of them based in Spain. Online sales have operated since 2010, including exclusive web-only products, with international shipping.
+Bimba y Lola is a Spanish fashion brand founded in 2005 in Mos, in the metropolitan area of Vigo, Galicia, by sisters Uxía and María Domínguez. The brand is named after the founders' dogs. With over 200 points of sale across 17 countries - including own stores, franchise outlets, and shopping mall corners - it is one of the most prominent accessible luxury fashion brands in Spain. The company employs more than 1,000 people, approximately 80% of them based in Spain. Online sales have operated since 2010, including exclusive web-only products, with international shipping.
 
-The brand is characterised by "modern and fun" design relative to comparable Spanish accessible luxury competitors. Bimba y Lola's DNA draws on the Adolfo Domínguez family's fashion heritage — the Adolfo Domínguez brand was an icon of Spanish fashion in the 1980s — while building a distinct, younger identity. No specific creative director or external design collaborations are documented in the source. The store design evolution (dark to white interiors) reflects a shift toward more contemporary, internationally legible retail presentation.
+The brand is characterised by "modern and fun" design relative to comparable Spanish accessible luxury competitors. Bimba y Lola's DNA draws on the Adolfo Domínguez family's fashion heritage - the Adolfo Domínguez brand was an icon of Spanish fashion in the 1980s - while building a distinct, younger identity. No specific creative director or external design collaborations are documented in the source. The store design evolution (dark to white interiors) reflects a shift toward more contemporary, internationally legible retail presentation.
 
 ## History
 
@@ -93,10 +94,10 @@ The brand is characterised by "modern and fun" design relative to comparable Spa
 
 ## Products
 
-- **Clothing** — women's ready-to-wear; core seasonal collections
-- **Bags and accessories** — leather goods and accessories; a key category alongside clothing
-- **Footwear** — included in the product range
-- **Exclusive online products** — products available only via the brand's e-commerce platform (launched 2010)
+- **Clothing** - women's ready-to-wear; core seasonal collections
+- **Bags and accessories** - leather goods and accessories; a key category alongside clothing
+- **Footwear** - included in the product range
+- **Exclusive online products** - products available only via the brand's e-commerce platform (launched 2010)
 
 The brand's store aesthetic shifted from its original dark-toned sober interiors to brighter, white-interior formats.
 
@@ -106,11 +107,11 @@ Bimba y Lola operates through own stores, franchise stores, and corners within s
 
 ## Markets
 
-Bimba y Lola positions itself in the accessible luxury segment, competing on quality, trend-responsiveness, and design at a price point the founders describe as "semi-luxury." The brand targets women across age groups and income levels, with product perceived as quality-superior to fast fashion. Despite Spain's economic recession in the early 2010s, the brand sustained international expansion — treating its domestic market success as proof of concept for global export. Spain remains the core market (145 stores), with Mexico (16) and Portugal (12) as the next largest. Franchise operations operate both in Spain (35) and abroad (29).
+Bimba y Lola positions itself in the accessible luxury segment, competing on quality, trend-responsiveness, and design at a price point the founders describe as "semi-luxury." The brand targets women across age groups and income levels, with product perceived as quality-superior to fast fashion. Despite Spain's economic recession in the early 2010s, the brand sustained international expansion - treating its domestic market success as proof of concept for global export. Spain remains the core market (145 stores), with Mexico (16) and Portugal (12) as the next largest. Franchise operations operate both in Spain (35) and abroad (29).
 
 ## Pattern and Surface Design Relevance
 
-Bimba y Lola's accessible luxury positioning requires consistent print and surface design output across its seasonal clothing and accessories collections. As a fashion brand built on design differentiation — "more modern and fun proposals" than comparable competitors — print and pattern are embedded in its product identity. The Domínguez family background in Galician textile manufacturing (70+ years; Sociedad Textil Lonia) provides direct industry context: the founders were formed within STL, a major Galician fashion production company that also underpins Purificación García. Surface design for a brand at this volume and price point typically involves in-house or closely managed seasonal print and pattern development across womenswear and accessories.
+Bimba y Lola's accessible luxury positioning requires consistent print and surface design output across its seasonal clothing and accessories collections. As a fashion brand built on design differentiation - "more modern and fun proposals" than comparable competitors - print and pattern are embedded in its product identity. The Domínguez family background in Galician textile manufacturing (70+ years; Sociedad Textil Lonia) provides direct industry context: the founders were formed within STL, a major Galician fashion production company that also underpins Purificación García. Surface design for a brand at this volume and price point typically involves in-house or closely managed seasonal print and pattern development across womenswear and accessories.
 
 ## Official Resources
 

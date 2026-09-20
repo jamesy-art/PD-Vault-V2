@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 584
 ---
 # Spiral Print Studio
 
@@ -71,7 +72,7 @@ Spiral Print Studio (formerly Fairbairn & Wolf Studio) is a London-based print d
 
 ## Studio Style and Aesthetic
 
-The eight selected patterns span two registers: loose, painterly watercolour florals in soft pink, cream, and green, and bolder graphic or photographic florals — including a cream ground with deep burgundy blooms, a mustard ditsy floral silhouette on blue, and a moody black floral silhouette on a pale ground. The studio also produces non-floral surface pattern, including a pink-toned snake-skin motif and a mixed leopard/tiger animal print. Colourways range from soft pastel to dark and dramatic.
+The eight selected patterns span two registers: loose, painterly watercolour florals in soft pink, cream, and green, and bolder graphic or photographic florals - including a cream ground with deep burgundy blooms, a mustard ditsy floral silhouette on blue, and a moody black floral silhouette on a pale ground. The studio also produces non-floral surface pattern, including a pink-toned snake-skin motif and a mixed leopard/tiger animal print. Colourways range from soft pastel to dark and dramatic.
 
 ## Markets and Specialties
 
@@ -81,7 +82,7 @@ The eight selected patterns span two registers: loose, painterly watercolour flo
 
 ## Techniques and Artwork Process
 
-One The portfolio shows an in-progress watercolour floral study alongside a paint palette and brushes, evidencing a hand-painted process for at least part of the collection. Other selected patterns — the graphic florals and animal prints — read as digitally finished artwork, suggesting a mixed hand-painted-to-digital workflow (unverified proportion).
+One The portfolio shows an in-progress watercolour floral study alongside a paint palette and brushes, evidencing a hand-painted process for at least part of the collection. Other selected patterns - the graphic florals and animal prints - read as digitally finished artwork, suggesting a mixed hand-painted-to-digital workflow (unverified proportion).
 
 ## Clients and Commercial Positioning
 

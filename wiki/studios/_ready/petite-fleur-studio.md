@@ -48,6 +48,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 574
 ---
 # Petite Fleur Studio
 
@@ -83,7 +84,7 @@ Petite Fleur Studio is a UK print and pattern studio specialising in prints for 
 
 ## Studio Style and Aesthetic
 
-The portfolio shows two related visual registers: bold, folk-influenced botanical illustration credited to Alice Potter individually (dark-ground florals with heavy outline work, a safari-animal print), alongside softer studio-branded work under the Petite Fleur Studio name — retro pastel daisy florals, a folk floral border stripe, and playful novelty conversational prints (space and rocket motifs, animal-face repeats, postage-stamp motifs, a woodland harlequin/diamond grid). Colour palettes run from bright and saturated (kids animal and space prints) to soft pastel (retro florals, animal faces). Line work is consistently clean and flat-coloured with bold outlines rather than painterly shading.
+The portfolio shows two related visual registers: bold, folk-influenced botanical illustration credited to Alice Potter individually (dark-ground florals with heavy outline work, a safari-animal print), alongside softer studio-branded work under the Petite Fleur Studio name - retro pastel daisy florals, a folk floral border stripe, and playful novelty conversational prints (space and rocket motifs, animal-face repeats, postage-stamp motifs, a woodland harlequin/diamond grid). Colour palettes run from bright and saturated (kids animal and space prints) to soft pastel (retro florals, animal faces). Line work is consistently clean and flat-coloured with bold outlines rather than painterly shading.
 
 ## Markets and Specialties
 
@@ -115,4 +116,4 @@ Children's surface pattern design: folk-influenced botanical florals, safari and
 
 ## Connections
 
-- The Pattern Cloud — source platform and studio directory listing
+- The Pattern Cloud - source platform and studio directory listing

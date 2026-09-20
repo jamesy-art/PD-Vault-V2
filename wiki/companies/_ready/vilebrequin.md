@@ -103,6 +103,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 32
 ---
 
 # Vilebrequin
@@ -122,7 +123,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Vilebrequin was established in Saint-Tropez in 1971 by Fred Prysquel — a photographer and automobile journalist — and Yvette, a fashion designer. Prysquel's original design, sketched on a café tablecloth and cut from spinnaker cloth, defined the brand's signature: a longer-cut boxer-short swimsuit in bright, quick-drying fabric. Prysquel is colourblind; Yvette directed the colour selection, establishing colour as a foundational design principle from the outset. The name Vilebrequin is the French word for crankshaft, reflecting Prysquel's automobile background.
+Vilebrequin was established in Saint-Tropez in 1971 by Fred Prysquel - a photographer and automobile journalist - and Yvette, a fashion designer. Prysquel's original design, sketched on a café tablecloth and cut from spinnaker cloth, defined the brand's signature: a longer-cut boxer-short swimsuit in bright, quick-drying fabric. Prysquel is colourblind; Yvette directed the colour selection, establishing colour as a foundational design principle from the outset. The name Vilebrequin is the French word for crankshaft, reflecting Prysquel's automobile background.
 
 In 1991, fellow Saint-Tropezian and textile worker Loïc Berthet acquired the brand and introduced refined functional hardware: a Velcro back pocket, Zamac eyelet holes, and a cotton lining. Boys' garments launched in 1994. Between 1990 and 2000, the brand expanded globally to London, Paris, Geneva, New York, Hong Kong, and Madrid. Women's and resort lines launched in 2013. In 2012, G III Apparel Group acquired Vilebrequin for approximately $106 million.
 
@@ -158,14 +159,14 @@ In 2025 [Fiat](https://en.wikipedia.org/wiki/Fiat "Fiat") released the [Topolino
 
 ## Products
 
-- Swimwear — men's, women's, kidswear
+- Swimwear - men's, women's, kidswear
 - Resort wear and ready-to-wear
 - Luxury beach accessories
 - Collector and limited-edition pieces
 
 ## Services
 
-Vilebrequin operates branded boutiques across luxury retail and resort destinations globally, with direct e-commerce in Europe and the United States. As a subsidiary of G III Apparel Group — which also holds licences for Calvin Klein, DKNY, and Karl Lagerfeld Paris — the brand operates within a broader licensed fashion portfolio.
+Vilebrequin operates branded boutiques across luxury retail and resort destinations globally, with direct e-commerce in Europe and the United States. As a subsidiary of G III Apparel Group - which also holds licences for Calvin Klein, DKNY, and Karl Lagerfeld Paris - the brand operates within a broader licensed fashion portfolio.
 
 ## Markets
 
@@ -173,9 +174,9 @@ Luxury swimwear and resort lifestyle. Vilebrequin competes at the premium-to-lux
 
 ## Pattern and Surface Design Relevance
 
-Surface pattern design is central to Vilebrequin's brand identity. The original spinnaker-cloth swimwear was defined by its brightness — a deliberate visual signature shaped by Yvette's colour direction. Bold printed swimwear remains the brand's primary commercial product, with colourways, motifs, and print styles forming the seasonal design programme.
+Surface pattern design is central to Vilebrequin's brand identity. The original spinnaker-cloth swimwear was defined by its brightness - a deliberate visual signature shaped by Yvette's colour direction. Bold printed swimwear remains the brand's primary commercial product, with colourways, motifs, and print styles forming the seasonal design programme.
 
-In 2020, Vilebrequin released a capsule collection of swim shorts in collaboration with American artist Derrick Adams, drawn from his *Floaters* series — an example of the brand's art-to-print approach. Collector pieces, including a 2013 swimsuit embroidered in gold thread (20 units) and a 2014 version with sapphire embellishments, demonstrate the use of decorative surface treatment as a luxury differentiator. In 2025, the brand partnered with Fiat on a Topolino Collector's Edition — extending print identity and brand aesthetics into product co-design.
+In 2020, Vilebrequin released a capsule collection of swim shorts in collaboration with American artist Derrick Adams, drawn from his *Floaters* series - an example of the brand's art-to-print approach. Collector pieces, including a 2013 swimsuit embroidered in gold thread (20 units) and a 2014 version with sapphire embellishments, demonstrate the use of decorative surface treatment as a luxury differentiator. In 2025, the brand partnered with Fiat on a Topolino Collector's Edition - extending print identity and brand aesthetics into product co-design.
 
 ## Official Resources
 

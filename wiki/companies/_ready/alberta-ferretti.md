@@ -50,6 +50,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 49
 ---
 
 # Alberta Ferretti
@@ -70,7 +71,7 @@ Alberta Ferretti is an Italian luxury fashion brand that emerged from the design
 
 The hallmark is fluid, tactile construction: twisting, tucking, and draping shape the surface rather than applied pattern. Key seasonal references include Gatsby-era romanticism, toga silhouettes, chiffon and jersey evening dressing, and subtle layered gauze with beaded underlay. Advertising campaigns have been shot by photographers including Ellen von Unwerth (1995), Paolo Roversi (2001), Steven Meisel (2016), and Tim Walker (2017).
 
-Philosophy di Lorenzo Serafini extended the brand surface vocabulary toward a more graphic, contemporary direction. Childrenswear production for the Philosophy line was licensed to Gimel (2018–2024) and Monnalisa (2025–2032).
+Philosophy di Lorenzo Serafini extended the brand surface vocabulary toward a more graphic, contemporary direction. Childrenswear production for the Philosophy line was licensed to Gimel (2018-2024) and Monnalisa (2025-2032).
 
 ## History
 
@@ -89,7 +90,7 @@ Alberta Ferretti (born 2 May 1950, Cattolica, near Rimini) opened her first bout
 
 Alberta Ferretti opened in-store boutiques at Bergdorf Goodman by 1998, followed by a freestanding SoHo store for the Philosophy collection. International distribution operates through mono-brand boutiques and wholesale accounts.
 
-Aeffe's licensing structure covers owned brands (Pollini, Moschino) and historic third-party licences (see Pattern and Surface Design Relevance above). Pollini was acquired by Aeffe in late 2000; creative directors of its apparel line included Rifat Ozbek (2004–2007), Jonathan Saunders (2008), and Nicholas Kirkwood (from 2010). Aeffe U.S.A. also produced and distributed Moschino and Narciso Rodriguez in the American market from the mid-1990s.
+Aeffe's licensing structure covers owned brands (Pollini, Moschino) and historic third-party licences (see Pattern and Surface Design Relevance above). Pollini was acquired by Aeffe in late 2000; creative directors of its apparel line included Rifat Ozbek (2004-2007), Jonathan Saunders (2008), and Nicholas Kirkwood (from 2010). Aeffe U.S.A. also produced and distributed Moschino and Narciso Rodriguez in the American market from the mid-1990s.
 
 ## Markets
 
@@ -97,11 +98,11 @@ Alberta Ferretti targets a luxury womenswear customer in the cocktail and evenin
 
 ## Pattern and Surface Design Relevance
 
-Ferretti's design language is rooted in surface manipulation over applied print: draping, tucking, gathering, and layering are the primary methods by which fabric surface is activated. Chiffon, jersey, and gauze are treated as kinetic surfaces — their translucency and drape functioning as visual pattern. Hand-beaded gauze extending beneath a wool hem creates a layered surface effect. Rhinestone rosettes and armor-like chain mail act as applied decorative surface elements at the hem and bodice.
+Ferretti's design language is rooted in surface manipulation over applied print: draping, tucking, gathering, and layering are the primary methods by which fabric surface is activated. Chiffon, jersey, and gauze are treated as kinetic surfaces - their translucency and drape functioning as visual pattern. Hand-beaded gauze extending beneath a wool hem creates a layered surface effect. Rhinestone rosettes and armor-like chain mail act as applied decorative surface elements at the hem and bodice.
 
 One documented traditional pattern use: an October 1993 collection featured a long pale-blue gingham dress, citing a woven check as seasonal motif. Sustainability-positioned capsule collections introduced recycled cashmere and organic cotton as material surface narratives: the 2011 Emma Watson *Pure Threads* collaboration and 2019 collaboration with Livia Firth both used environmentally certified Italian materials.
 
-Aeffe's licensing portfolio gives the group distribution reach over print-intensive brands: Basso & Brooke (digital print, licensed from 2005), Jeremy Scott (bold graphic fashion, licensed from 2015), and Moschino (full ownership since 2021), one of the most graphically active fashion houses globally. Historically, the group also produced Jean Paul Gaultier (1994–2012), Narciso Rodriguez (1997–2007), Cacharel (2009–2012), Emanuel Ungaro (2012–2015), and Cédric Charlier (2012–2020).
+Aeffe's licensing portfolio gives the group distribution reach over print-intensive brands: Basso & Brooke (digital print, licensed from 2005), Jeremy Scott (bold graphic fashion, licensed from 2015), and Moschino (full ownership since 2021), one of the most graphically active fashion houses globally. Historically, the group also produced Jean Paul Gaultier (1994-2012), Narciso Rodriguez (1997-2007), Cacharel (2009-2012), Emanuel Ungaro (2012-2015), and Cédric Charlier (2012-2020).
 
 ## Official Resources
 

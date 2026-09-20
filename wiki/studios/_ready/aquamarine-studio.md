@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 530
 ---
 # Aquamarine Studio
 
@@ -80,7 +81,7 @@ Fashion, with specialist knowledge of panels and border prints developed during 
 
 ## Techniques and Artwork Process
 
-The studio works in both vector and raster formats, with repeat pattern skills developed through Pattern Observer’s Textile Design Lab (2016–2021). Carlson’s background includes hand-made collage and a lifelong practice in quilting, both informing her approach to colour and texture.
+The studio works in both vector and raster formats, with repeat pattern skills developed through Pattern Observer’s Textile Design Lab (2016-2021). Carlson’s background includes hand-made collage and a lifelong practice in quilting, both informing her approach to colour and texture.
 
 ## Clients and Commercial Positioning
 
@@ -93,7 +94,7 @@ Aquamarine Studio operates as an independent print design practice. No specific 
 
 ## Studio Background
 
-Janet Soja Carlson holds a Fashion Design degree and spent over twenty-five years in the Miami garment industry before transitioning to textile design. She studied graphic arts in 2005 and completed specialist training at Pattern Observer’s Textile Design Lab (2016–2021). The studio draws on Carlson’s combined background as a practising fashion designer and textile buyer.
+Janet Soja Carlson holds a Fashion Design degree and spent over twenty-five years in the Miami garment industry before transitioning to textile design. She studied graphic arts in 2005 and completed specialist training at Pattern Observer’s Textile Design Lab (2016-2021). The studio draws on Carlson’s combined background as a practising fashion designer and textile buyer.
 
 ## Pattern Focus
 

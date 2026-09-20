@@ -93,6 +93,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 127
 ---
 
 # Steve Madden
@@ -117,7 +118,7 @@ The Steve Madden brand's design direction is trend-responsive commercial fashion
 
 ## History
 
-Steven Madden, Ltd. was incorporated in New York on 9 July 1990 and reincorporated in Delaware in November 1998. The 1993 IPO was underwritten through Stratton Oakmont. The company has been recognised five times as Footwear News Company of the Year (2001, 2006, 2009, 2011, 2017). In December 2015, Dutch operations were affected by the bankruptcy of Macintosh Retail Group. The Betsey Johnson brand — acquired into the portfolio — is known for bold print and pattern aesthetics that contrast with the core Steve Madden commercial positioning.
+Steven Madden, Ltd. was incorporated in New York on 9 July 1990 and reincorporated in Delaware in November 1998. The 1993 IPO was underwritten through Stratton Oakmont. The company has been recognised five times as Footwear News Company of the Year (2001, 2006, 2009, 2011, 2017). In December 2015, Dutch operations were affected by the bankruptcy of Macintosh Retail Group. The Betsey Johnson brand - acquired into the portfolio - is known for bold print and pattern aesthetics that contrast with the core Steve Madden commercial positioning.
 
 ## Products
 
@@ -129,14 +130,14 @@ Steven Madden, Ltd. operates through wholesale to major US department stores, di
 
 ## Markets
 
-Steve Madden occupies the accessible-to-mid-price segment of the American fashion footwear market, positioned as trend-driven and commercially accessible. The multi-brand portfolio spans price points and aesthetics: Steve Madden (commercial trend footwear), Betsey Johnson (bold print, pop-art, and statement aesthetic), Dolce Vita (feminine casual), Blondo (weatherproof), BB Dakota (apparel), and Mad Love (value). Wholesale distribution through major department stores including Nordstrom — which awarded a "Partners in Excellence" Award in 2010 — anchors US market presence. AAFA American Image Awards Brand of the Year (2010) reflects broader industry recognition.
+Steve Madden occupies the accessible-to-mid-price segment of the American fashion footwear market, positioned as trend-driven and commercially accessible. The multi-brand portfolio spans price points and aesthetics: Steve Madden (commercial trend footwear), Betsey Johnson (bold print, pop-art, and statement aesthetic), Dolce Vita (feminine casual), Blondo (weatherproof), BB Dakota (apparel), and Mad Love (value). Wholesale distribution through major department stores including Nordstrom - which awarded a "Partners in Excellence" Award in 2010 - anchors US market presence. AAFA American Image Awards Brand of the Year (2010) reflects broader industry recognition.
 
 ## Pattern and Surface Design Relevance
 
 Steve Madden's direct relevance to surface pattern design centres on the portfolio brands with explicit print and pattern identities:
 
-- **Betsey Johnson**: The Betsey Johnson brand has a longstanding identity built around bold, graphic, and decorative surface design — floral prints, pop-art motifs, novelty patterns, and high-contrast colour combinations applied to footwear, bags, and apparel. This is the most clearly SPD-relevant brand in the Madden portfolio.
-- **Footwear upper design**: Across Steve Madden's own footwear lines, surface design decisions — material texture, colour-blocking, embellishment, and printed fabric uppers — are core product design activities at commercial scale.
+- **Betsey Johnson**: The Betsey Johnson brand has a longstanding identity built around bold, graphic, and decorative surface design - floral prints, pop-art motifs, novelty patterns, and high-contrast colour combinations applied to footwear, bags, and apparel. This is the most clearly SPD-relevant brand in the Madden portfolio.
+- **Footwear upper design**: Across Steve Madden's own footwear lines, surface design decisions - material texture, colour-blocking, embellishment, and printed fabric uppers - are core product design activities at commercial scale.
 - **Multi-category product breadth**: The retail category breadth (home, jewellery, swimwear, fragrance) implies surface design work across product types, though no specific design methodology is documented in source material.
 
 No documented specialist in-house surface pattern or print design function. Evidence for design process is limited in the available source.

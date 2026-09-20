@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 587
 ---
 # The Colorfield
 
@@ -97,7 +98,7 @@ Founded in New York in 1994 by Adam Read. A London studio was added in 2005, sta
 
 ## Pattern Focus
 
-Broad, multi-genre print focus rather than a narrow niche: florals (ditsy, watercolor, botanical/tropical), abstract and tie-dye-style prints, geometric linear and chevron motifs, and paisley — consistent with a full-range fashion print studio.
+Broad, multi-genre print focus rather than a narrow niche: florals (ditsy, watercolor, botanical/tropical), abstract and tie-dye-style prints, geometric linear and chevron motifs, and paisley - consistent with a full-range fashion print studio.
 
 ## Connections
 

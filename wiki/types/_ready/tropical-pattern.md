@@ -119,6 +119,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 87
 ---
 
 # Tropical Pattern
@@ -126,7 +127,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/tropical-pattern/profile/tropical-pattern-image.svg)
-A surface pattern category built from the flora and fauna of tropical environments — defined by bold, saturated imagery of large-leafed plants, vivid flowers, and colourful birds — one of the most commercially durable seasonal pattern categories in fashion and home design.
+A surface pattern category built from the flora and fauna of tropical environments - defined by bold, saturated imagery of large-leafed plants, vivid flowers, and colourful birds - one of the most commercially durable seasonal pattern categories in fashion and home design.
 
 ## Overview
 
@@ -135,16 +136,16 @@ Tropical patterns draw on the visual abundance of tropical and subtropical ecosy
 ## Visual Characteristics
 
 The characteristic visual quality of tropical pattern is abundance and saturation. Key distinguishing features:
-- **Large-scale leaf forms:** monstera (perforated leaves, 3–8" scale), banana leaves, palm fronds — these are the archetypal tropical leaf motifs
-- **Hero flowers:** hibiscus, orchids, birds of paradise, bougainvillea — vivid, large-petalled blooms used as focal motifs
+- **Large-scale leaf forms:** monstera (perforated leaves, 3-8" scale), banana leaves, palm fronds - these are the archetypal tropical leaf motifs
+- **Hero flowers:** hibiscus, orchids, birds of paradise, bougainvillea - vivid, large-petalled blooms used as focal motifs
 - **Dense, overlapping composition:** contemporary tropical patterns layer motifs at multiple scales with minimal negative space
-- **Saturated colour:** colour is essential to tropical pattern — tropical prints in muted or pastel palettes lose their defining character
+- **Saturated colour:** colour is essential to tropical pattern - tropical prints in muted or pastel palettes lose their defining character
 
-The 1950s Hawaiian print is visually distinct from contemporary tropical: it uses sparser motifs (3–4 hues, surfboards, hula imagery, open compositions) at a smaller scale. Contemporary maximalist tropical uses dense, multi-layered compositions in rich, complex palettes.
+The 1950s Hawaiian print is visually distinct from contemporary tropical: it uses sparser motifs (3-4 hues, surfboards, hula imagery, open compositions) at a smaller scale. Contemporary maximalist tropical uses dense, multi-layered compositions in rich, complex palettes.
 
 ## Pattern Structure
 
-Tropical patterns most commonly use flowing, random/toss arrangements or half-drop repeats to distribute motifs naturalistically. Engineered placement prints — with specific key motifs (a large palm, a bird of paradise) positioned precisely on a garment or panel — are also commercially important, particularly for resort fashion. The large scale of tropical motifs (monstera leaves at 3–8 inches) means repeat structure must be planned carefully to avoid obvious tiling across final products.
+Tropical patterns most commonly use flowing, random/toss arrangements or half-drop repeats to distribute motifs naturalistically. Engineered placement prints - with specific key motifs (a large palm, a bird of paradise) positioned precisely on a garment or panel - are also commercially important, particularly for resort fashion. The large scale of tropical motifs (monstera leaves at 3-8 inches) means repeat structure must be planned carefully to avoid obvious tiling across final products.
 
 ## Common Motifs
 
@@ -161,32 +162,32 @@ Tropical patterns most commonly use flowing, random/toss arrangements or half-dr
 ## Colour and Style
 
 Four main tropical palettes are commercially used:
-- **Jewel tone:** emerald, sapphire, coral, gold — rich, maximalist, luxury-positioned
-- **Retro Hawaiian:** turquoise, hot pink, orange, lime green — reference to 1950s Hawaiian prints, playful
-- **Earthy tropical:** sage, terracotta, mustard, dusky teal — contemporary, lifestyle-oriented
-- **Monochromatic:** single colour against neutral ground — sophisticated, versatile
+- **Jewel tone:** emerald, sapphire, coral, gold - rich, maximalist, luxury-positioned
+- **Retro Hawaiian:** turquoise, hot pink, orange, lime green - reference to 1950s Hawaiian prints, playful
+- **Earthy tropical:** sage, terracotta, mustard, dusky teal - contemporary, lifestyle-oriented
+- **Monochromatic:** single colour against neutral ground - sophisticated, versatile
 
 ## History and Context
 
-The Hawaiian print, developed in the 1930s–1950s, is the direct commercial progenitor of the modern tropical pattern category. Early Hawaiian prints were produced using Japanese kimono fabric production techniques applied to local imagery, creating a distinctive sparse print aesthetic that became globally associated with leisure and resort culture. The growth of international leisure travel from the mid-20th century spread tropical aesthetics beyond Hawaii to the broader resort fashion market. In the 2010s and 2020s, tropical pattern underwent significant commercial expansion driven by the rise of destination travel, social media aesthetics favouring vivid colour, and the influence of botanical maximalism in interior design. Luxury wallpaper brands and fashion designers significantly elevated the category's price positioning.
+The Hawaiian print, developed in the 1930s-1950s, is the direct commercial progenitor of the modern tropical pattern category. Early Hawaiian prints were produced using Japanese kimono fabric production techniques applied to local imagery, creating a distinctive sparse print aesthetic that became globally associated with leisure and resort culture. The growth of international leisure travel from the mid-20th century spread tropical aesthetics beyond Hawaii to the broader resort fashion market. In the 2010s and 2020s, tropical pattern underwent significant commercial expansion driven by the rise of destination travel, social media aesthetics favouring vivid colour, and the influence of botanical maximalism in interior design. Luxury wallpaper brands and fashion designers significantly elevated the category's price positioning.
 
 ## Surface Pattern Uses
 
 - **Resort and swimwear fashion:** the primary commercial driver; tropical prints are a fixture of holiday and resort collections
 - **Casual fashion:** shirts, dresses, accessories with tropical motifs
-- **Wallpaper:** feature walls, powder rooms, botanical statement interiors — a major growth category for tropical pattern
+- **Wallpaper:** feature walls, powder rooms, botanical statement interiors - a major growth category for tropical pattern
 - **Home furnishings:** cushions, upholstery, outdoor/garden furniture
 - **Packaging and branding:** food and beverage brands with tropical or exotic positioning
 
 ## Related Pattern Types
 
-- [[Floral Pattern]] — tropical botanical flowers overlap with the broader floral category
-- [[Sea Pattern]] — overlapping imagery; tropical reef creatures appear in both categories
-- [[Botanical Pattern]] — naturalistic tropical plant illustration overlaps with botanical print traditions
+- Floral Pattern - tropical botanical flowers overlap with the broader floral category
+- Sea Pattern - overlapping imagery; tropical reef creatures appear in both categories
+- Botanical Pattern - naturalistic tropical plant illustration overlaps with botanical print traditions
 
 ## Source Notes
 
-- Five SPD-focused sources — monstera/banana/palm leaves (3–8" scale), hibiscus/orchids/birds of paradise/bougainvillea, parrots/toucans/hummingbirds, dense overlapping maximalist composition, saturated colour, 1950s Hawaiian print vs contemporary maximalism, four palette types, wallpaper/resort/swimwear uses, Hawaiian cultural symbols (hibiscus/plumeria/monstera/pineapple/honu/orchid)
+- Five SPD-focused sources - monstera/banana/palm leaves (3-8" scale), hibiscus/orchids/birds of paradise/bougainvillea, parrots/toucans/hummingbirds, dense overlapping maximalist composition, saturated colour, 1950s Hawaiian print vs contemporary maximalism, four palette types, wallpaper/resort/swimwear uses, Hawaiian cultural symbols (hibiscus/plumeria/monstera/pineapple/honu/orchid)
 
 ## Editorial Images
 

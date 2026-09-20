@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 9
 ---
 
 # Brickwork Pattern
@@ -118,7 +119,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/brickwork-pattern/profile/brickwork-pattern-image.svg)
-A surface pattern derived from masonry bonding arrangements — rectangular units laid in offset horizontal courses, producing a structured geometric repeat that references the visual character of brick walls.
+A surface pattern derived from masonry bonding arrangements - rectangular units laid in offset horizontal courses, producing a structured geometric repeat that references the visual character of brick walls.
 
 ## Overview
 
@@ -126,44 +127,44 @@ Brickwork pattern translates architectural masonry structure into a printed or w
 
 ## Visual Characteristics
 
-The core brickwork visual is a grid of horizontal rectangles offset by half a unit on alternating rows — producing the classic running bond appearance. Visual variation comes through brick orientation (stretcher, header, soldier, sailor, rowlock), bonding pattern, colour, and scale. Polychromatic brickwork uses contrasting brick colours to create additional pattern within the masonry surface — diaper patterns and decorative geometric arrangements are characteristic of Victorian and Tudor polychromatic work. At fine scale, brickwork pattern reads as texture; at larger scale, individual brick units become distinct graphic elements.
+The core brickwork visual is a grid of horizontal rectangles offset by half a unit on alternating rows - producing the classic running bond appearance. Visual variation comes through brick orientation (stretcher, header, soldier, sailor, rowlock), bonding pattern, colour, and scale. Polychromatic brickwork uses contrasting brick colours to create additional pattern within the masonry surface - diaper patterns and decorative geometric arrangements are characteristic of Victorian and Tudor polychromatic work. At fine scale, brickwork pattern reads as texture; at larger scale, individual brick units become distinct graphic elements.
 
 ## Pattern Structure
 
-Brickwork patterns are fundamentally grid-based repeats. The running bond is a half-drop brick repeat — each row offset by 50% from the adjacent row. Other bond types produce different repeat geometries: English bond alternates rows of stretchers and headers, creating a strong horizontal stripe emphasis; Flemish bond alternates stretchers and headers within each row, producing a more visually complex surface. At the surface level, most printed brickwork patterns simplify to the running bond structure — the most visually recognisable masonry arrangement.
+Brickwork patterns are fundamentally grid-based repeats. The running bond is a half-drop brick repeat - each row offset by 50% from the adjacent row. Other bond types produce different repeat geometries: English bond alternates rows of stretchers and headers, creating a strong horizontal stripe emphasis; Flemish bond alternates stretchers and headers within each row, producing a more visually complex surface. At the surface level, most printed brickwork patterns simplify to the running bond structure - the most visually recognisable masonry arrangement.
 
 ## Common Motifs
 
-- **Running bond** — the standard half-drop rectangular brick repeat; the default brickwork pattern reference
-- **English bond** — alternating full-stretcher and full-header rows
-- **Flemish bond** — alternating stretcher and header within each row; historically associated with high-quality masonry
-- **English garden wall bond** — three stretcher rows to one header row; a variant associated with garden and estate walls
-- **Monk bond** — two stretchers to one header per row
-- **Heading bond** — all headers; produces a more compressed geometric surface
-- **Herringbone and diagonal** — brick units laid at 45° angles, producing basketweave and chevron variants
+- **Running bond** - the standard half-drop rectangular brick repeat; the default brickwork pattern reference
+- **English bond** - alternating full-stretcher and full-header rows
+- **Flemish bond** - alternating stretcher and header within each row; historically associated with high-quality masonry
+- **English garden wall bond** - three stretcher rows to one header row; a variant associated with garden and estate walls
+- **Monk bond** - two stretchers to one header per row
+- **Heading bond** - all headers; produces a more compressed geometric surface
+- **Herringbone and diagonal** - brick units laid at 45° angles, producing basketweave and chevron variants
 
 ## Colour and Style
 
-Traditional brickwork colour references terracotta and fired clay — warm reds, oranges, buffs, and sandy tones. Victorian polychromatic brickwork expanded the palette to include cream, buff, blue-grey, and black brick combinations, creating decorative colour patterns within the masonry surface. Modern surface pattern interpretations of brickwork use any colourway — including greyscale industrial treatments and pastel or vibrant colour applications that distance the pattern from its architectural reference and treat it as geometric abstraction.
+Traditional brickwork colour references terracotta and fired clay - warm reds, oranges, buffs, and sandy tones. Victorian polychromatic brickwork expanded the palette to include cream, buff, blue-grey, and black brick combinations, creating decorative colour patterns within the masonry surface. Modern surface pattern interpretations of brickwork use any colourway - including greyscale industrial treatments and pastel or vibrant colour applications that distance the pattern from its architectural reference and treat it as geometric abstraction.
 
 ## History and Context
 
-Fired brick construction dates to approximately 2600 BC at Mohenjo-daro (Indus Valley) and to around 1400 BC at Dur-Kurigalzu in Mesopotamia. The distinctive bonding patterns used in Western masonry — English bond, Flemish bond, and their variants — were codified through centuries of construction practice and became associated with regional building traditions across Europe. Tudor England developed decorative diaper brickwork using contrasting-colour headers to create diamond and geometric patterns within façades. Victorian architectural polychromatic brickwork, influenced by John Ruskin's advocacy of honest material use and Gothic Revival, produced richly patterned brick façades using multiple clay colours — a directly translatable aesthetic for surface pattern design.
+Fired brick construction dates to approximately 2600 BC at Mohenjo-daro (Indus Valley) and to around 1400 BC at Dur-Kurigalzu in Mesopotamia. The distinctive bonding patterns used in Western masonry - English bond, Flemish bond, and their variants - were codified through centuries of construction practice and became associated with regional building traditions across Europe. Tudor England developed decorative diaper brickwork using contrasting-colour headers to create diamond and geometric patterns within façades. Victorian architectural polychromatic brickwork, influenced by John Ruskin's advocacy of honest material use and Gothic Revival, produced richly patterned brick façades using multiple clay colours - a directly translatable aesthetic for surface pattern design.
 
 ## Surface Pattern Uses
 
-- **Wallpaper** — brickwork pattern wallpaper is commercially active in both trompe-l'œil (realistic) and graphic/decorative versions; used in residential and commercial interiors
-- **Home decor** — brickwork texture appears in cushion fabric, printed canvas, and decorative accessories
-- **Stationery and packaging** — the geometric regularity of brickwork reads as organised structure and is used in stationery and wrapping paper design
-- **Fashion** — brickwork as a graphic or textural element appears in printed casualwear and streetwear with urban/industrial positioning
+- **Wallpaper** - brickwork pattern wallpaper is commercially active in both trompe-l'œil (realistic) and graphic/decorative versions; used in residential and commercial interiors
+- **Home decor** - brickwork texture appears in cushion fabric, printed canvas, and decorative accessories
+- **Stationery and packaging** - the geometric regularity of brickwork reads as organised structure and is used in stationery and wrapping paper design
+- **Fashion** - brickwork as a graphic or textural element appears in printed casualwear and streetwear with urban/industrial positioning
 
 ## Related Pattern Types
 
-[[Tile Pattern]], [[Herringbone Pattern]], [[Check Pattern]], [[Grid Pattern]], [[Stone Pattern]], [[Geometric Pattern]]
+Tile Pattern, Herringbone Pattern, Check Pattern, Grid Pattern, Stone Pattern, Geometric Pattern
 
 ## Source Notes
 
-- Source: Wikipedia "Brickwork" — masonry terminology, bond types, historical origins, Tudor and Victorian polychromatic brickwork
+- Source: Wikipedia "Brickwork" - masonry terminology, bond types, historical origins, Tudor and Victorian polychromatic brickwork
 
 ## Editorial Images
 

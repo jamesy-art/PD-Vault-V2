@@ -3,7 +3,7 @@ name: Designer Pattern
 slug: designer-pattern
 status: active
 type_group: general
-summary: Term describing a surface pattern created through deliberate design — a repeating motif arranged in a seamless mathematical sequence for application to fabric, wallpaper, stationery, or packaging. Covers the discipline, process, and commercial practice of surface pattern design.
+summary: Term describing a surface pattern created through deliberate design - a repeating motif arranged in a seamless mathematical sequence for application to fabric, wallpaper, stationery, or packaging. Covers the discipline, process, and commercial practice of surface pattern design.
 motifs: []
 structures:
   - Block
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 78
 ---
 
 # Designer Pattern
@@ -120,17 +121,17 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/designer-pattern/profile/designer-pattern-image.svg)
-A surface pattern created through the deliberate creative and technical process of designing a repeating motif — a base unit arranged in a mathematical sequence so that tile edges align seamlessly when the pattern is repeated across a surface.
+A surface pattern created through the deliberate creative and technical process of designing a repeating motif - a base unit arranged in a mathematical sequence so that tile edges align seamlessly when the pattern is repeated across a surface.
 
 ## Overview
 
-In the context of surface pattern design (textiles, wallpaper, packaging), a designer pattern is a continuous, seamless repeat applied to the surfaces of mass-manufactured products. The designer creates a base unit — the motif — and arranges it in a systematic grid or sequence so that the edges tile perfectly when repeated. The discipline's focus is how artwork scales, repeats, and reads across physical products and surfaces.
+In the context of surface pattern design (textiles, wallpaper, packaging), a designer pattern is a continuous, seamless repeat applied to the surfaces of mass-manufactured products. The designer creates a base unit - the motif - and arranges it in a systematic grid or sequence so that the edges tile perfectly when repeated. The discipline's focus is how artwork scales, repeats, and reads across physical products and surfaces.
 
-The term "pattern design" also applies in other fields — garment pattern making (structural templates for cutting cloth) and software engineering (reusable architectural blueprints) — but in the surface pattern context, it refers specifically to the visual repeat design discipline.
+The term "pattern design" also applies in other fields - garment pattern making (structural templates for cutting cloth) and software engineering (reusable architectural blueprints) - but in the surface pattern context, it refers specifically to the visual repeat design discipline.
 
 ## Visual Characteristics
 
-Designer patterns take no fixed visual form — the term describes a process and structure rather than a specific aesthetic. The defining characteristic is the seamless repeat: the point at which adjacent tiles meet is invisible, producing the impression of a continuous designed surface.
+Designer patterns take no fixed visual form - the term describes a process and structure rather than a specific aesthetic. The defining characteristic is the seamless repeat: the point at which adjacent tiles meet is invisible, producing the impression of a continuous designed surface.
 
 ## Pattern Structure
 
@@ -144,7 +145,7 @@ The core structural requirement is the seamless tile: edges must align precisely
 
 ## Common Motifs
 
-Any motif type. The surface pattern design discipline is motif-agnostic — florals, geometrics, abstracts, conversational prints, and typographic patterns are all produced through the same repeat design process.
+Any motif type. The surface pattern design discipline is motif-agnostic - florals, geometrics, abstracts, conversational prints, and typographic patterns are all produced through the same repeat design process.
 
 ## Colour and Style
 
@@ -170,7 +171,7 @@ All pattern type entries in this wiki represent outputs of the designer pattern 
 
 ## Source Notes
 
-Source: Designer Pattern.md (general definition — surface pattern design context used; garment pattern making and software design pattern sections excluded as out of scope for surface pattern design wiki)
+Source: Designer Pattern.md (general definition - surface pattern design context used; garment pattern making and software design pattern sections excluded as out of scope for surface pattern design wiki)
 
 ## Editorial Images
 

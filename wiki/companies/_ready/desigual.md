@@ -71,6 +71,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 201
 ---
 
 # Desigual
@@ -90,15 +91,15 @@ enrichment_status: enriched
 
 Desigual (Spanish/Catalan: "unequal, uneven") was founded in Barcelona by Thomas Meyer in 1984, with the name itself signalling the brand's anti-normative aesthetic position. The company operates in 109 countries, with 393 mono-brand stores and a centralised logistics structure based in Viladecans and Gavà (Spain), New Jersey, and Hong Kong. As of 2022, Desigual employs more than 2,600 people across all markets, with 547 based at the Barcelona headquarters. The company reported revenues of €560 million in 2011 and achieved 60% annual growth between 2002 and 2009.
 
-Desigual's design language is maximalist, pattern-saturated, and culturally eclectic. Inspiration draws consistently from global folk textile traditions, mixed-media garment construction, and expressive colour contrast. The founding patchwork logic — combining disparate fabric panels, prints, and textures into a unified garment — runs through the brand's product range. Collections reference ethnic fabric traditions including woven, embroidered, and printed textiles from multiple global origins.
+Desigual's design language is maximalist, pattern-saturated, and culturally eclectic. Inspiration draws consistently from global folk textile traditions, mixed-media garment construction, and expressive colour contrast. The founding patchwork logic - combining disparate fabric panels, prints, and textures into a unified garment - runs through the brand's product range. Collections reference ethnic fabric traditions including woven, embroidered, and printed textiles from multiple global origins.
 
-A 2019 product repositioning shifted the range towards more urban, versatile constructions while retaining the pattern and colour density that defines the brand. The art-gallery retail concept — individual garments as statement pieces — aligns the brand with wearable-art positioning.
+A 2019 product repositioning shifted the range towards more urban, versatile constructions while retaining the pattern and colour density that defines the brand. The art-gallery retail concept - individual garments as statement pieces - aligns the brand with wearable-art positioning.
 
 ## History
 
-The brand traces its identity to a single garment: a jacket constructed by founder Thomas Meyer in 1983 from scraps of second-hand denim, later known as the "Iconic Jacket." This patchwork, bricolage aesthetic — materials stitched together from disparate sources — became the brand's founding design logic. The Barcelona flagship was established in 1986 in Ibiza harbour. The company grew rapidly through the 2000s, reaching €440 million in revenue by 2010.
+The brand traces its identity to a single garment: a jacket constructed by founder Thomas Meyer in 1983 from scraps of second-hand denim, later known as the "Iconic Jacket." This patchwork, bricolage aesthetic - materials stitched together from disparate sources - became the brand's founding design logic. The Barcelona flagship was established in 1986 in Ibiza harbour. The company grew rapidly through the 2000s, reaching €440 million in revenue by 2010.
 
-A significant brand identity overhaul in 2019 introduced a reversed-text logo, a product range repositioned as more urban and versatile, and a new retail concept modelled on art gallery formats — fewer garments per store, increased focus on the individual piece. The company's Harajuku (Tokyo) store offered garment customisation workshops alongside the product range.
+A significant brand identity overhaul in 2019 introduced a reversed-text logo, a product range repositioned as more urban and versatile, and a new retail concept modelled on art gallery formats - fewer garments per store, increased focus on the individual piece. The company's Harajuku (Tokyo) store offered garment customisation workshops alongside the product range.
 
 In 2021, Desigual became the first international fashion brand in Spain to implement a four-day working week, approved by an 86% employee vote.
 
@@ -125,9 +126,9 @@ The brand's international footprint spans 109 countries with a strong European b
 
 ## Pattern and Surface Design Relevance
 
-Desigual's commercial identity is inseparable from surface pattern and textile design. The brand uses ethnic-derived textile references, dense floral and geometric motifs, mixed-print layering, patchwork construction, and embellishment as primary design elements. Collection names across its history — "Rainbow," "Magic Stories," "Handmade," "El Love," "Luxury Feelings" — consistently signal pattern and textile richness rather than silhouette as the selling proposition.
+Desigual's commercial identity is inseparable from surface pattern and textile design. The brand uses ethnic-derived textile references, dense floral and geometric motifs, mixed-print layering, patchwork construction, and embellishment as primary design elements. Collection names across its history - "Rainbow," "Magic Stories," "Handmade," "El Love," "Luxury Feelings" - consistently signal pattern and textile richness rather than silhouette as the selling proposition.
 
-Documented design collaborations include work with Christian Lacroix (French fashion designer, from 2011), Spanish artists Miranda Makaroff and Okuda San Miguel, designer María Escoté, and the Cirque du Soleil partnership (2011, 60-item clothing and accessories collection). The Disney collaboration drew on the founding denim jacket aesthetic — mixed fabric, embellishment, colour complexity — rather than character licensing. These partnerships have primarily involved surface design and print direction as the design brief.
+Documented design collaborations include work with Christian Lacroix (French fashion designer, from 2011), Spanish artists Miranda Makaroff and Okuda San Miguel, designer María Escoté, and the Cirque du Soleil partnership (2011, 60-item clothing and accessories collection). The Disney collaboration drew on the founding denim jacket aesthetic - mixed fabric, embellishment, colour complexity - rather than character licensing. These partnerships have primarily involved surface design and print direction as the design brief.
 
 In 2014, the brand received the bronze Laus Award for its 2019 brand identity redesign. The "Iconic Jacket" remains a recurring reference point for mixed-textile, pattern-layered outerwear design.
 

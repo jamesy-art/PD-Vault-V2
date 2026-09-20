@@ -110,6 +110,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 113
 ---
 
 # Purple Pattern
@@ -117,7 +118,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/purple-pattern/profile/purple-pattern-image.svg)
-A colour-led pattern category defined by the use of purple tones — a range between red and blue historically associated with royalty, luxury, creativity, and spirituality.
+A colour-led pattern category defined by the use of purple tones - a range between red and blue historically associated with royalty, luxury, creativity, and spirituality.
 
 ## Overview
 
@@ -129,7 +130,7 @@ Purple patterns can range from deep, saturated violet and magenta through to sof
 
 ## Pattern Structure
 
-Purple is used across all pattern structures — florals, geometric, abstract, botanical, and decorative. It is not tied to a particular repeat type but functions as a colour direction that can be applied to any motif family. In practice, purple patterns frequently appear in maximalist floral designs, Art Nouveau-inspired decorative work, and contemporary abstract prints.
+Purple is used across all pattern structures - florals, geometric, abstract, botanical, and decorative. It is not tied to a particular repeat type but functions as a colour direction that can be applied to any motif family. In practice, purple patterns frequently appear in maximalist floral designs, Art Nouveau-inspired decorative work, and contemporary abstract prints.
 
 ## Common Motifs
 
@@ -138,14 +139,14 @@ Purple is commonly associated with specific floral motifs: lavender, wisteria, l
 ## Colour and Style
 
 The purple spectrum includes:
-- **Lavender** — soft, cool, romantic; widely used in florals and spring designs
-- **Mauve** — muted, dusty, vintage-coded; associated with 19th-century fashion
-- **Orchid** — warm, pink-leaning; commercial and accessible
-- **Byzantium / violet** — deep, saturated; luxury and regal associations
-- **Heliotrope** — vivid, red-leaning; graphic and contemporary
-- **Thistle** — pale, desaturated; vintage and botanical
+- **Lavender** - soft, cool, romantic; widely used in florals and spring designs
+- **Mauve** - muted, dusty, vintage-coded; associated with 19th-century fashion
+- **Orchid** - warm, pink-leaning; commercial and accessible
+- **Byzantium / violet** - deep, saturated; luxury and regal associations
+- **Heliotrope** - vivid, red-leaning; graphic and contemporary
+- **Thistle** - pale, desaturated; vintage and botanical
 
-Tyrian purple — produced historically from sea snails — was the most prized dye of the ancient world and restricted to royalty. Modern synthetic mauveine (discovered by William Perkin in 1856) made purple accessible to mass markets for the first time, rapidly popularising the colour in Victorian fashion and textile printing.
+Tyrian purple - produced historically from sea snails - was the most prized dye of the ancient world and restricted to royalty. Modern synthetic mauveine (discovered by William Perkin in 1856) made purple accessible to mass markets for the first time, rapidly popularising the colour in Victorian fashion and textile printing.
 
 ## History and Context
 
@@ -154,22 +155,22 @@ Tyrian purple from the murex mollusc was the defining luxury dye of ancient Medi
 ## Surface Pattern Uses
 
 - **Fashion:** formal occasion wear, resort collections, accessories
-- **Home textiles:** bedding, curtains, upholstery — particularly in premium and luxury segments
+- **Home textiles:** bedding, curtains, upholstery - particularly in premium and luxury segments
 - **Stationery and gifting:** purple is consistently associated with creativity and is widely used in gifting contexts
 - **Wallpaper:** deep purple grounds for statement interiors; lavender for romantic or botanical spaces
 - **Beauty and wellness branding:** purple is strongly associated with this sector
 
 ## Related Pattern Types
 
-- [[Floral Pattern]] — purple florals are a major application category
-- [[Botanical Pattern]] — lavender and other purple botanicals
-- [[Red Pattern]] — adjacent on the spectrum; warm purples overlap with red
-- [[Blue Pattern]] — cool purples overlap with blue
+- Floral Pattern - purple florals are a major application category
+- Botanical Pattern - lavender and other purple botanicals
+- Red Pattern - adjacent on the spectrum; warm purples overlap with red
+- Blue Pattern - cool purples overlap with blue
 
 ## Source Notes
 
-- Wikipedia, "Shades of purple" — Tyrian purple, Han purple, mauveine, colour range, named shades
-- Quillbot, "Purple Color Meaning" — symbolism (royalty/luxury/creativity/mystery), named shades, palette suggestions
+- Wikipedia, "Shades of purple" - Tyrian purple, Han purple, mauveine, colour range, named shades
+- Quillbot, "Purple Color Meaning" - symbolism (royalty/luxury/creativity/mystery), named shades, palette suggestions
 
 ## Editorial Images
 

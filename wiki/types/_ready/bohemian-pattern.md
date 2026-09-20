@@ -115,6 +115,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 97
 ---
 
 # Bohemian Pattern
@@ -126,11 +127,11 @@ Eclectic surface pattern style combining motifs from Moroccan, Indian, African, 
 
 ## Overview
 
-Bohemian pattern is defined by its source diversity — drawing simultaneously from Moroccan tilework, Indian block-print traditions, African mudcloth geometry, Native American and Southwestern weavings, and Eastern European folk embroidery. The unifying quality is not any single motif but palette discipline and a hand-made visual register. Home textiles represent the largest commercial market; mandala patterns form the most commercially active subcategory.
+Bohemian pattern is defined by its source diversity - drawing simultaneously from Moroccan tilework, Indian block-print traditions, African mudcloth geometry, Native American and Southwestern weavings, and Eastern European folk embroidery. The unifying quality is not any single motif but palette discipline and a hand-made visual register. Home textiles represent the largest commercial market; mandala patterns form the most commercially active subcategory.
 
 ## Visual Characteristics
 
-Bohemian patterns tend toward medium-to-high motif density, with layered compositions built from mixed-source motifs. Lines are intentionally imperfect — slightly irregular circles, hand-traced edges, and visible registration variation are part of the authentic character. The palette reads as warm and sun-aged rather than fresh or clean.
+Bohemian patterns tend toward medium-to-high motif density, with layered compositions built from mixed-source motifs. Lines are intentionally imperfect - slightly irregular circles, hand-traced edges, and visible registration variation are part of the authentic character. The palette reads as warm and sun-aged rather than fresh or clean.
 
 ## Pattern Structure
 
@@ -149,11 +150,11 @@ Both geometric and free-form compositions appear. Moroccan tile-based geometrics
 
 ## Colour and Style
 
-Core palette: rust orange, terracotta, ochre, burnt sienna, deep teal, olive green, cream, warm brown, mustard yellow, dusty rose. Jewel-tone accents — amethyst purple, sapphire blue, emerald — appear as punctuation rather than foundation colours. Pure white and pure black are absent; cream and charcoal stand in their place. The overall register reads warm, aged, and saturated.
+Core palette: rust orange, terracotta, ochre, burnt sienna, deep teal, olive green, cream, warm brown, mustard yellow, dusty rose. Jewel-tone accents - amethyst purple, sapphire blue, emerald - appear as punctuation rather than foundation colours. Pure white and pure black are absent; cream and charcoal stand in their place. The overall register reads warm, aged, and saturated.
 
 ## History and Context
 
-The term "bohemian" derives from the French *Bohémien*, originally associated with the Roma community and a historical misconception that they originated from Bohemia (Czech Republic). The modern bohemian aesthetic in fashion and surface pattern emerged from the 1960s–1970s counterculture movements, notably Woodstock and the hippie era, which drew on global textile traditions filtered through a free-spirited, anti-establishment sensibility. Contemporary boho pattern design continues the global referencing approach, largely avoiding the more imprecise "tribal" descriptor.
+The term "bohemian" derives from the French *Bohémien*, originally associated with the Roma community and a historical misconception that they originated from Bohemia (Czech Republic). The modern bohemian aesthetic in fashion and surface pattern emerged from the 1960s-1970s counterculture movements, notably Woodstock and the hippie era, which drew on global textile traditions filtered through a free-spirited, anti-establishment sensibility. Contemporary boho pattern design continues the global referencing approach, largely avoiding the more imprecise "tribal" descriptor.
 
 ## Surface Pattern Uses
 
@@ -166,15 +167,15 @@ The term "bohemian" derives from the French *Bohémien*, originally associated w
 
 ## Related Pattern Types
 
-- [[Mandala Pattern]]
-- [[Paisley Pattern]]
-- [[Moroccan Pattern]]
-- [[Mudcloth Pattern]]
-- [[Folk Pattern]]
+- Mandala Pattern
+- Paisley Pattern
+- Moroccan Pattern
+- Mudcloth Pattern
+- Folk Pattern
 
 ## Source Notes
 
-Sources: Bohemian Pattern 2.md (Pattern Weaver — commercial boho design guide covering motifs, palettes, and product categories), Bohemian Pattern.md (Wikipedia — Bohemian style; cultural origins and 1960s–1970s counterculture context used; detailed fashion and social history sections excluded as out of scope)
+Sources: Bohemian Pattern 2.md (Pattern Weaver - commercial boho design guide covering motifs, palettes, and product categories), Bohemian Pattern.md (Wikipedia - Bohemian style; cultural origins and 1960s-1970s counterculture context used; detailed fashion and social history sections excluded as out of scope)
 
 ## Editorial Images
 

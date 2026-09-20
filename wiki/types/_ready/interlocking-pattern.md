@@ -59,7 +59,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Key_pattern_detail.jpg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/6/61/Key_pattern_detail.jpg"
       title: "Image 1 from Key_pattern_detail.jpg (2048×1536).md"
       description: null
@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 18
 ---
 
 # Interlocking Pattern
@@ -118,11 +119,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/interlocking-pattern/profile/interlocking-pattern-image.svg)
-A surface pattern in which individual motifs, shapes, or structural units fit together seamlessly — defined by the mutual relationship between positive forms and the negative spaces between them, with no visible background.
+A surface pattern in which individual motifs, shapes, or structural units fit together seamlessly - defined by the mutual relationship between positive forms and the negative spaces between them, with no visible background.
 
 ## Overview
 
-Interlocking patterns are built on the principle that changing or removing one element disrupts the whole composition. Individual units — circles, squares, organic shapes, or custom forms — combine with their neighbour's negative space to produce a continuous, gap-free surface. The pattern depends on the designed relationship between every element rather than on any single isolated motif.
+Interlocking patterns are built on the principle that changing or removing one element disrupts the whole composition. Individual units - circles, squares, organic shapes, or custom forms - combine with their neighbour's negative space to produce a continuous, gap-free surface. The pattern depends on the designed relationship between every element rather than on any single isolated motif.
 
 This compositional principle is closely related to tessellation but extends beyond strict geometric tiling to include organic or custom-shaped elements that interlock through deliberate design. The result is a surface with no visible background: the entire field is occupied by the interlocking units.
 
@@ -135,11 +136,11 @@ Interlocking patterns share several defining visual qualities:
 - **Visual density:** High informational density with no dead space or resting areas
 - **Structural logic:** The geometry of fitting is visually evident; the pattern has an apparent rule governing how elements join
 
-At scale, interlocking patterns can produce secondary shapes — stars, flowers, or other forms — that emerge from the negative spaces between primary units, creating two levels of pattern reading simultaneously.
+At scale, interlocking patterns can produce secondary shapes - stars, flowers, or other forms - that emerge from the negative spaces between primary units, creating two levels of pattern reading simultaneously.
 
 ## Pattern Structure
 
-The interlocking principle operates on a modular grid — typically derived from a circle grid, square grid, or hexagonal grid — which is then modified to create the interlock. The basic process:
+The interlocking principle operates on a modular grid - typically derived from a circle grid, square grid, or hexagonal grid - which is then modified to create the interlock. The basic process:
 
 1. Establish a grid using a regular geometric unit (circle, square, hexagon)
 2. Identify the negative spaces between units
@@ -166,7 +167,7 @@ Multi-colour versions assign different fills to alternating units, often reveali
 
 Interlocking pattern has deep roots in Islamic geometric art, where circle and polygon constructions were used to generate complex interlocking star patterns for architectural decoration, tile, and textile. The tradition was brought into Western design consciousness through Orientalist influence in the 19th century and through the work of M.C. Escher, whose tessellating figures became widely known.
 
-In textile design, interlock knit (a double-knit fabric construction) uses interlocking loop structure to create a thick, stable fabric — a parallel application of the interlocking principle in construction rather than surface design.
+In textile design, interlock knit (a double-knit fabric construction) uses interlocking loop structure to create a thick, stable fabric - a parallel application of the interlocking principle in construction rather than surface design.
 
 Writer Eva Schicker (2021) described interlocking design as an emerging visual vocabulary moving through typography, iconography, logo design, and structural composition, noting that "seemingly organic shapes emerge by fusing with the negative spaces in between the base elements."
 
@@ -181,12 +182,12 @@ Writer Eva Schicker (2021) described interlocking design as an emerging visual v
 
 ## Related Pattern Types
 
-- [[raw/_types processed/tessellation-pattern]] — parent concept; interlocking patterns are a subset of tessellating designs
-- [[Geometric Pattern]] — broad parent category
-- [[Islamic Geometric Pattern]] — major historical tradition of interlocking pattern design
-- [[Celtic Knot Pattern]] — interlaced band variant; over-under rather than gap-free fills
-- [[Escher Pattern]] — organic tessellation tradition; animals and figures as interlocking forms
-- [[Hexagon Pattern]] — one of the three regular tessellations; a foundational interlocking form
+- raw/_types processed/tessellation-pattern - parent concept; interlocking patterns are a subset of tessellating designs
+- Geometric Pattern - broad parent category
+- Islamic Geometric Pattern - major historical tradition of interlocking pattern design
+- Celtic Knot Pattern - interlaced band variant; over-under rather than gap-free fills
+- Escher Pattern - organic tessellation tradition; animals and figures as interlocking forms
+- Hexagon Pattern - one of the three regular tessellations; a foundational interlocking form
 
 ## Source Notes
 

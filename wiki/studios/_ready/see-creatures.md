@@ -46,6 +46,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 582
 ---
 # See Creatures
 
@@ -74,7 +75,7 @@ See Creatures is a design studio based in Brighton, UK, founded in 2014 by artis
 
 ## Studio Style and Aesthetic
 
-Selected pattern images span bold conversational prints (toucans, sharks), loose sketch-style tropical botanicals, and flat-color geometric repeats in a 90s-influenced palette, all rendered in saturated, high-contrast colorways. This matches the studio's own description of "fun conversationals, florals and geometrics" — florals lean graphic and illustrative rather than painterly, and conversational motifs are drawn with a confident linework style.
+Selected pattern images span bold conversational prints (toucans, sharks), loose sketch-style tropical botanicals, and flat-color geometric repeats in a 90s-influenced palette, all rendered in saturated, high-contrast colorways. This matches the studio's own description of "fun conversationals, florals and geometrics" - florals lean graphic and illustrative rather than painterly, and conversational motifs are drawn with a confident linework style.
 
 ## Markets and Specialties
 
@@ -110,4 +111,4 @@ Conversational prints (animal and tropical motifs), tropical/botanical florals, 
 
 ## Connections
 
-No dedicated wiki pages yet exist for See Creatures' clients or pattern types — cross-links to be added once those pages are created.
+No dedicated wiki pages yet exist for See Creatures' clients or pattern types - cross-links to be added once those pages are created.

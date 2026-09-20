@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 54
 ---
 
 # Radial Pattern
@@ -139,11 +140,11 @@ Natural sources for radial patterns include: snowflakes (sixfold symmetry), flow
 
 ## Colour and Style
 
-Colour in radial patterns typically emphasises the central focal point — often with the highest saturation or contrast at the centre, fading or alternating outward. Geometric radial patterns in Islamic-influenced design use highly saturated, complex colour progressions. Mandala-inspired radial patterns may use more meditative, tonal palettes. Natural-form radials (sunflowers, snowflakes) often appear in monochrome or limited palettes that emphasise structure over colour.
+Colour in radial patterns typically emphasises the central focal point - often with the highest saturation or contrast at the centre, fading or alternating outward. Geometric radial patterns in Islamic-influenced design use highly saturated, complex colour progressions. Mandala-inspired radial patterns may use more meditative, tonal palettes. Natural-form radials (sunflowers, snowflakes) often appear in monochrome or limited palettes that emphasise structure over colour.
 
 ## History and Context
 
-Radial pattern construction appears independently across most world cultures. Islamic geometric art, which developed sophisticated multi-fold radial structures in tilework, textiles, and architecture, represents one of the most technically advanced applications of radial design. Rose windows in Gothic cathedrals (12th–16th centuries) are among the most architecturally prominent radial pattern applications in Western design. Mandala diagrams from Hindu and Buddhist traditions are specifically radial in structure, with religious and meditative significance attached to their symmetry. Natural radial structures — sunflowers following Fibonacci spirals, snowflake sixfold symmetry — have consistently informed design across eras.
+Radial pattern construction appears independently across most world cultures. Islamic geometric art, which developed sophisticated multi-fold radial structures in tilework, textiles, and architecture, represents one of the most technically advanced applications of radial design. Rose windows in Gothic cathedrals (12th-16th centuries) are among the most architecturally prominent radial pattern applications in Western design. Mandala diagrams from Hindu and Buddhist traditions are specifically radial in structure, with religious and meditative significance attached to their symmetry. Natural radial structures - sunflowers following Fibonacci spirals, snowflake sixfold symmetry - have consistently informed design across eras.
 
 ## Surface Pattern Uses
 
@@ -155,14 +156,14 @@ Radial pattern construction appears independently across most world cultures. Is
 
 ## Related Pattern Types
 
-- [[Symmetry Pattern]] — radial patterns are a specific form of rotational symmetry
-- [[Geometric Pattern]] — many radial patterns are built entirely from geometric elements
-- [[Mandala Pattern]] — a specific cultural form of radial design
-- [[Floral Pattern]] — flowers as natural radial forms
+- Symmetry Pattern - radial patterns are a specific form of rotational symmetry
+- Geometric Pattern - many radial patterns are built entirely from geometric elements
+- Mandala Pattern - a specific cultural form of radial design
+- Floral Pattern - flowers as natural radial forms
 
 ## Source Notes
 
-- Source: SPD-focused notes on radial design — central point structure, mandalas, rose windows, Islamic mosaics, snowflake and flower examples
+- Source: SPD-focused notes on radial design - central point structure, mandalas, rose windows, Islamic mosaics, snowflake and flower examples
 
 ## Editorial Images
 

@@ -1,5 +1,533 @@
 # Log
 
+## [2026-09-20] edit | Rosalinde Clara email typo
+
+Corrected `hello@roaslindeclara.com` → `hello@rosalindeclara.com` on `_ready/rosalinde-clara.md`, `_staging/rosalinde.clara.md`, `exports/designers-import.csv`, and launch snapshot `v1.3/2026-08-18_1043` (MANIFEST sha256 updated). Does not change other freeze dates.
+
+## [2026-08-16] edit | B11.13I — Type gallery provenance in Launch Dataset
+
+Type CSV export now includes `gallery_source_provider`, `gallery_source_page_url`, `gallery_affiliate_enabled`, `gallery_affiliate_url` from YAML `gallery_images`. Affiliate overlay remains optional (currently all disabled). Launch snapshot v1.3; v1.2 frozen.
+
+## [2026-08-07] edit | A3-R4 — Deterministic Job Highlights Extraction
+
+Generate-only: `benefits` YAML becomes tiered Job Highlights (employee benefits → employment → creative). Max 12, never invent, body untouched. Validated New Look / Whistlefish / ILIV / Culp.
+
+Doc: `JOBS_HIGHLIGHTS_EXTRACTION.md`
+
+## [2026-08-07] edit | A3-R3 — Deterministic Job Extraction Quality
+
+Generate-only: richer benefits/skills/software vocab, bold/ALL-CAPS heading promotion, country Overview meta, mailto apply + website-from-email. Validated New Look / Whistlefish / ILIV / Culp. Ready/Export/Import untouched.
+
+Doc: `JOBS_EXTRACTION_QUALITY.md`
+
+## [2026-08-07] edit | A8-R8 — Restore Soft-Deleted Jobs on Import
+
+`JobsImporter::plan` treats trashed matches as UPDATE (never NO_CHANGE). Existing Update `apply` restores. Validated: delete 14 → Updates 14 visible; second import No Change 14. Tests: SoftDeletedJobRestoresOnImportTest, DeletedThenReimportedJobVisibleTest, NoChangeOnlyWhenActiveTest.
+
+Docs: `JOBS_IMPORT_DECISION_TREE.md`, `JOBS_IMPORT_LOOKUP_TRACE.md`
+
+## [2026-08-07] lint | A8-R7 — False No-Change Import Audit
+
+Jobs “deleted” via SoftDeletes remain in `jobs` with `ready_id`. `JobsImporter::findExisting` uses `withTrashed()`; identical content → `no_change`; ImportEngine skips apply so rows stay trashed. Not an Import Registry issue. Component to fix later: JobsImporter (and/or forceDelete re-import hygiene).
+
+Docs: `JOBS_FALSE_NO_CHANGE_AUDIT.md`, `JOBS_IMPORT_LOOKUP_TRACE.md`, `JOBS_IMPORT_DECISION_TREE.md`
+
+## [2026-08-07] create | A2-R13 — Company Draft → Operational Stub Sync
+
+Laravel `companies:sync-draft-stubs` projects Vault `_drafts` into non-curated `source=imported` stubs so Jobs Import can resolve slugs. Curated catalogue still comes only from `_ready` → Companies CSV (same id on promote). Validated: 8 stubs + Jobs package 14/0 company failures.
+
+Docs: `COMPANY_OPERATIONAL_STUBS.md`, `DRAFT_TO_STUB_SYNC.md`
+
+## [2026-08-07] lint | A2-R12 — Audit New Company Creation Alignment (Jobs → Companies)
+
+Audit-only: Platform Job Post approval creates Laravel operational stubs (`source=job_post`, not public curated); Vault A2-R11 creates Markdown under `_drafts/`. Same discovery intent, different objects; drift possible. Filament JobResource does not create companies. Recommendation: shared lifecycle language; optional future draft→non-curated stub sync; keep Vault-first for curated catalogue.
+
+Docs: `JOBS_COMPANY_DISCOVERY_ALIGNMENT.md`, `COMPANY_DRAFT_LIFECYCLE.md`, `ADMIN_VS_VAULT_COMPANY_DISCOVERY.md`
+
+## [2026-08-07] create | A2-R11 — Company Draft Discovery from Jobs
+
+When Generate hits A2-R9 `new_slug`, write idempotent Company Draft Markdown under `wiki/companies/_drafts/{slug}.md`. Existing Companies never draft. Jobs Generate continues unchanged. Live Companies still follow staging → ready → CSV → Laravel.
+
+Docs: `COMPANY_DRAFT_DISCOVERY.md`
+
+## [2026-08-07] lint | A8-R5 — Missing CompanySlug Resolution Audit
+
+Audit-only: 8 Job `company_slug` failures (boll, culp-inc, home-bargains, iliv, lands-end, qvc-group, ulster-weavers, whistlefish) are provisional A2-R9 `new_slug` employers — absent from Vault Company `_ready`, `companies.csv`, and Laravel. Jobs importer fail-closed is correct; no Jobs pipeline change. Remediation = Companies population.
+
+Docs: `JOBS_MISSING_COMPANY_AUDIT.md`, `COMPANY_IMPORT_COVERAGE.md`, `COMPANY_SLUG_COMPARISON.md`
+
+## [2026-08-07] edit | A8-R4 — Canonical Company Slug Export
+
+JobsMapping now exports `company_slug` from `company_identity.canonical_slug` (fallback: relationships → company_assets). Export report adds Company Slug Export tallies. CSV columns unchanged; importer unchanged.
+
+Docs: `JOBS_EXPORT_COMPANY_MAPPING.md`, `JOBS_CSV_CONTRACT.md`
+
+## [2026-08-07] lint | A8-R3 — Audit CompanySlug Export (JobsMapping)
+
+Audit-only: 14 Ready Jobs all have `company_identity.canonical_slug`; JobsMapping exports only `relationships.company.slug` → 8/14 CSV `company_slug` blank (e.g. Home Bargains). Loss at `JobsMapping.mapRow` L123. Canonical export source should be `company_identity.canonical_slug`.
+
+Docs: `JOBS_COMPANY_SLUG_EXPORT_AUDIT.md`, `JOBS_COMPANY_SLUG_TRACE.md`, `JOBS_EXPORT_COMPANY_MAPPING.md`
+
+## [2026-08-07] edit | A3-R2 — Canonical Job Description Sections
+
+Generate preserves employer headings exactly via ordered `job_sections` (Overview + employer sections). Structured skills/benefits/software remain enrichments — content is never removed from the body after extraction. JobsMapping exports the full editorial into CSV `overview`; JobsImporter converts heading markdown to HTML for Full Job Description. Docs: `JOBS_EDITORIAL_WORKFLOW.md`, `JOBS_GENERATE_TO_PROMOTE_WORKFLOW.md`, `JOBS_CSV_CONTRACT.md`.
+
+## [2026-08-07] edit | A3-R1 — Generate Pipeline Automation
+
+`generate.js` orchestrates existing Entity Resolution + Quality after each Canonical write. Approval remains the only human gate. Standalone resolve/quality CLIs unchanged.
+
+Docs: `JOBS_GENERATE_TO_PROMOTE_WORKFLOW.md`, `JOBS_EDITORIAL_WORKFLOW.md`, `JOBS_READY_PIPELINE.md`, `JOBS_READY_WORKSPACE.md`
+
+## [2026-08-07] edit | Generate→Promote CLI alignment (A4/A5/Approve modes)
+
+Documented canonical workflow. Added `--mode all|single|selection|changed` to `resolve.js` and `quality/check.js`. Added `scripts/editorial/approve.js` for `editorial_status: approved`. Shared staging selector. Promotion gates unchanged.
+
+Doc: `JOBS_GENERATE_TO_PROMOTE_WORKFLOW.md`
+
+## [2026-08-07] lint | A7-R3 — Promotion Validation Audit
+
+Every staging Job fails promote for the same three missing gates: no `quality-report.json`, no `resolution-report.json`, `editorial_status: canonical` (not approved). A4/A5 are separate CLIs — not part of generate. Not a path regression from A7-R1/R2.
+
+Doc: `docs/architecture/PROMOTION_VALIDATION_AUDIT.md`
+
+## [2026-08-07] edit | A7-R2 — Promotion CLI & Ready Link Alignment
+
+Promote CLI mirrors Export modes (`all` / `single` / `selection` / `changed`). ReadyWriter rewrites relative asset/markdown links for `wiki/jobs/_ready/` only; staging untouched. Legacy `--canonical-dir` / `--canonical-id` retained.
+
+## [2026-08-07] restructure | A7-R1 — Ready Workspace Alignment
+
+Ready promote + export now use `wiki/jobs/_ready/<editorial-slug>/`. `ready_id` is metadata only. Migration: `scripts/ready/migrate-to-wiki-ready.js`. Docs updated.
+
+## [2026-08-07] lint | A8-R1 — Ready Workspace & Export Source Audit
+
+Export reads only `content/jobs/ready/` (ReadyWriter), not `wiki/jobs/_staging/` (14 Canonical). Nike+Burberry exported because only those two were promoted (Track A7). `wiki/jobs/_ready` unused path drift.
+
+Docs: `JOBS_READY_WORKSPACE.md`, `JOBS_READY_PIPELINE.md`, `JOBS_READY_RUNTIME.md`
+
+
+## [2026-08-07] lint | Export Architecture Audit — Jobs CSV & Package Export
+
+Audit-only: Track A8 is the canonical Jobs exporter. Permanent CLI `node scripts/export/export.js`; `JobsMapping` + `packageBuilder` write `jobs.csv` packages under `exports/packages/`. No second Jobs package writer; Admin CSV is a parallel Laravel path.
+
+Docs: `JOBS_EXPORT_ARCHITECTURE.md`, `JOBS_EXPORT_PIPELINE.md`, `JOBS_EXPORT_COMMANDS.md`, `JOBS_EXPORT_INVENTORY.md`
+
+
+## [2026-08-07] edit | A2-R10 — Company Editorial Enrichment
+
+When an existing Company is resolved (A2-R9), Jobs inherit Company-owned presentation, links, and overview metadata from `wiki/companies/_ready` (fallback `_staging`). Job-owned role fields untouched; About the Company becomes a stub (no overview dump). Asset Resolution unchanged.
+
+Doc: `scripts/lib/markdown/A2-R10-COMPANY-EDITORIAL-ENRICHMENT.md`
+Smoke PASS · Corpus 100%.
+
+
+## [2026-08-07] lint | ⭐5 — First Live Ready → Production Validation
+
+Real Jobs Nike + Burberry: ER → Quality → Ready → `pkg-64af29096d1ce0d2` → `import:package` → Publication → API/FE 200.
+
+Verdict: **PASS WITH MINOR ACTIONS — 86/100**. PP brands blocked on missing Laravel Companies; P1 fidelity gaps documented.
+
+Docs: `JOBS_FIRST_PRODUCTION_IMPORT.md`, `JOBS_ROUND_TRIP_VALIDATION.md`, `JOBS_FRONTEND_VALIDATION.md`, `JOBS_PRODUCTION_CERTIFICATION.md`
+
+
+## [2026-08-07] lint | ⭐4 — CSV Export Production Validation
+
+Audit of Ready → jobs.csv → JobsImporter → DB → API → Frontend. No pipeline redesign.
+
+Verdict: **PASS WITH MINOR ACTIONS — 81/100**. Core contract aligned; emails/state/body-section gaps + empty Ready corpus block full approval.
+
+Docs: `docs/architecture/JOBS_CSV_EXPORT_REVIEW.md`, `JOBS_CSV_CONTRACT.md`, `JOBS_EXPORT_IMPORT_MATRIX.md`, `JOBS_EXPORT_CERTIFICATION.md`
+
+
+## [2026-08-07] edit | C1.4 — Editorial Title & Identity Normalisation
+
+Deterministic Canonical identity: titles/short_titles from editorial content (not filenames); employer branding over email domains; Maternity Cover ≠ Contract; skills/software expansion; summaries never contain slugs.
+
+Doc: `scripts/lib/markdown/C1.4-TITLE-IDENTITY.md`
+
+
+## [2026-08-06] edit | C5.2 — Print & Pattern Markdown Workflow (OCR Optional)
+
+Preferred capture is manual `raw/_jobs/<slug>-pp.md`. Filename convention selects PrintAndPatternCleaner via existing registry (no URL required). OCR / C5.1 batch remain optional fallbacks.
+
+Doc: `scripts/lib/markdown/C5-PRINT-AND-PATTERN.md`
+
+
+## [2026-08-06] edit | C5.1-R1 — Flexible Batch Manifest Discovery
+
+Editors may keep the weekly clip’s original filename. The batch generator discovers exactly one top-level `.md` as the manifest (`batch-report.md` ignored). Zero or multiple Markdown files fail closed with clear validation. Reports include manifest filename + discovery result.
+
+Doc: `scripts/lib/markdown/C5.1-BATCH-CAPTURE.md`
+
+
+## [2026-08-06] edit | C5.1 — Print & Pattern Batch Capture Workflow
+
+Dated weekly batches for Print & Pattern (capture/organisation only):
+
+- Layout: `raw/_jobs/print-and-pattern/YYYY-MM-DD/{listing.md,jobs/*.jpg}`
+- CLI: `node scripts/print-and-pattern/generate.js` (`--batch`, `--dry-run`, `--force`)
+- Manifest merge: listing owns date/URL/title; OCR owns job fields
+- Incremental skip via `.batch-state.json` (image + listing hashes)
+- Reports: `batch-report.md` / `.json`; corpus batch fixtures under `2026-08-08/`
+- Reuses A3 OCR, PrintAndPatternCleaner, MarkdownGenerator unchanged
+
+Doc: `scripts/lib/markdown/C5.1-BATCH-CAPTURE.md`
+
+
+## [2026-08-06] edit | C5 — Print & Pattern OCR & Editorial Extraction
+
+First-class Print & Pattern pipeline (no OCR / generator / contract redesign):
+
+- `PrintAndPatternCleaner` + `printAndPatternMerge` (metadata.md ⊕ A3 OCR)
+- Corpus OCR cache via existing tesseract engines (`ocr.txt` / `ocr-meta.json`)
+- Contacts, closing dates, job detection, section structuring, image ignore
+- `expected.yaml` replaced with meaningful asserts (company/email/location/skills…)
+- Reports: OCR confidence, metadata merged, jobs detected, contacts, closing date, images ignored, sections
+- Corpus **100%** (P&P + full suite); smoke PASS
+
+Doc: `scripts/lib/markdown/C5-PRINT-AND-PATTERN.md`
+
+
+## [2026-08-06] edit | C1.3 — Editorial Cleanup & Presentation Polish
+
+Presentation-layer Canonical polish (no cleaner framework / contract / Ready redesign):
+
+- Strip Markdown images; omit empty Location / Estimated commute shells
+- Remove platform metadata (followers, Show more, Refer to, Category, explore jobs)
+- Company profile ≤2 paragraphs; About the Company in section order
+- Location: `London, England` → city London + state England; Paris + Île-de-France
+- Cleaner reports: images / platform metadata / empty sections / company shortened / location normalised / summary
+- Corpus fixtures extended; **100.0%**; smoke PASS
+
+Doc: `scripts/lib/markdown/C1.3-EDITORIAL-PRESENTATION.md`
+
+
+## [2026-08-06] edit | C1.2 — Editorial Polish & Noise Removal
+
+Deterministic Canonical editorial quality (no AI / contract / generator redesign):
+
+- Benefits: Total Rewards + expanded headings/vocab; inline package paragraphs
+- LinkedIn: promotional tail truncate; resume/Premium/upsell blocks; company profile trim (≤2 paras)
+- Fallbacks: `employment_type` / `workplace_type` → `unknown`
+- Deterministic summary from Overview / About the Role / opening role prose
+- Section dedupe; cleaner reports (benefits, summary, promo removed, company trimmed, omitted)
+- Corpus fixtures extended; overall **100.0%**; smoke PASS
+
+Doc: `scripts/lib/markdown/C1.2-EDITORIAL-POLISH.md`
+
+
+## [2026-08-06] edit | C1.1 — Location, Skills & Benefits Refinement
+
+Deterministic extraction refinement (no generator / contract / Ready redesign):
+
+- Shared `locationParser.js`: street/city/state/postcode/country; street never fills city
+- Country/state taxonomies (US/CA/AU + international aliases); Indeed no longer defaults UK on `.com`
+- `editorialVocabularies.js`: benefits / skills / software / experience year mapping
+- `fieldExtractor` merges labeled + body section extraction; JobTemplate + corpus `state`
+- Cleaner reports list location / benefits / skills / software / experience extracted
+- Stokesdale Indeed fixture: city Stokesdale, state NC, country United States; skills + software populated
+
+Corpus: **100.0%** (50 fixtures, 349 PASS). Markdown smoke PASS.
+
+
+
+## [2026-08-06] edit | Track C3 — FashionUnited Cleaner Optimisation
+
+Corpus-driven FashionUnited cleaner improvements (cleaners only):
+
+- Baseline **90.9%** → **100.0%** (10 fixtures)
+- FU footer metadata (company / location / region / category); Apply Here; logo alts
+- Strip related news / newsletter; fix markdown link titles; date-safe closing; salary ranges
+- Docs: `FashionUnitedCleaner.md`
+
+Full corpus now **100.0%** across linkedin / indeed / fashionunited / generic (49 fixtures).
+
+
+## [2026-08-06] edit | Track C2 — Indeed Cleaner Optimisation
+
+Corpus-driven Indeed cleaner improvements (cleaners only):
+
+- Baseline **78.9%** → **100.0%** (5 fixtures; 50 PASS / 0 FAIL)
+- Extract Pay / Job type / Location / Benefits; company from cmp / At… / Ltd
+- Promote apply (viewjob or ATS); strip sponsored / profile / similar chrome
+- Expanded expected.yaml; docs: `IndeedCleaner.md`
+
+Regression: full corpus **96.0% → 98.5%**; LinkedIn remains 100%.
+
+
+
+## [2026-08-06] edit | Track C1 — LinkedIn Cleaner Optimisation
+
+Corpus-driven LinkedIn cleaner improvements (no generator / framework / contract redesign):
+
+- Baseline → **100.0%** LinkedIn corpus accuracy (10 fixtures; was ~69.8% pre-optimisation)
+- Decode `safety/go`; strip Premium / AI / people / similar / More jobs / alerts
+- Emit labeled metadata; normalise `City Area` → city; block Easy Apply / search-results as apply_url
+- Expanded expected.yaml assertions (company, location, employment, workplace, apply)
+- Docs: `scripts/lib/markdown/source-cleaners/LinkedInCleaner.md`
+
+Regression: full corpus still 96.0% overall; LinkedIn 100%; no FAIL regressions on other cleaners.
+
+
+## [2026-08-06] edit | A2-R7 — Jobs Field Contract Alignment
+
+Aligned Vault editorial pipeline to production Jobs Field Contract (no DB/API redesign):
+
+- JobTemplate + fieldExtractor + `jobTaxonomies.js` (production employment/experience/workplace/pay)
+- CSV `JobsMapping` exports workplace_type, experience_level, pay_*, benefits_tags, job_links
+- Laravel `JobsImporter`: employment_type→job_type slug; benefits JSON; skills→tags mirror; pay_*; closing_date→expires_at; workplace/remote
+- Quality `JobContractValidator`; corpus expected.yaml schema aligned
+- Contract doc §16 implementation notes
+
+Does not change Capture, Source Cleaners, ER, AI, Publication, Search, Related Content.
+
+
+## [2026-08-06] query | A2-R6 — Jobs Canonical Field Contract Audit
+
+Audited PatternDesigners Jobs pipeline (Form → Validation → DB → Filament → Import → API → Frontend) and produced:
+
+- `patterndesignerscom/docs/architecture/JOBS_FIELD_CONTRACT.md`
+
+Audit only — no schema, API, CSV, or Vault generator changes. Documents one Jobs schema, editorial vs operational split, taxonomy sources, relationship ownership, mapping table, gaps, and alignment recommendations for Vault YAML.
+
+
+## [2026-08-06] create | A2-R5 — Source Corpus Harness & Expected Extraction Fixtures
+
+Permanent regression suite for Source Cleaners + field extraction:
+
+- Corpus: `tests/source-corpus/<source>/<fixture>/` with `source.md` + `expected.yaml` (Print & Pattern: image + `metadata.md`)
+- Harness: `scripts/tests/source-corpus/` — discover → clean → extract → compare → reports
+- CLI: `node scripts/tests/source-corpus/run.js` (`--cleaner`, `--fixture`, `--strict`)
+- Reports: `tests/source-corpus/reports/` (overall + per source; accuracy per cleaner / field)
+- Optional migrate: `node scripts/tests/source-corpus/migrate-clips.js` (flat clips → fixture folders)
+- Corpus read-only; no Canonical / Ready / Export / Import changes
+
+Docs: `tests/source-corpus/README.md`
+
+
+## [2026-08-06] edit | A2-R4 — Source Cleaner Framework
+
+Source-aware deterministic cleaning before field extraction (no generator redesign):
+
+- Registry: `scripts/lib/markdown/source-cleaners/`
+- Cleaners: LinkedIn, Indeed, FashionUnited, EmployerCareers, Generic
+- Config-driven source → cleaner mapping (`config.js`); new cleaners register without Generator changes
+- LinkedIn: strip Premium/related/alerts; decode `safety/go` redirects
+- Employer careers: nav/footer/cookie only — preserve employer content
+- Operational reports: `source-cleaner-report.{json,md}` alongside generator reports
+
+Smoke: `node scripts/markdown/smoke-test.js` PASS
+
+
+## [2026-08-06] edit | A2-R3 — Canonical Editorial Polish
+
+Improved Canonical Markdown readability (generator polish only; no redesign):
+
+- Strip Obsidian Web Clipper callouts and UI artefacts before Canonical write
+- Remove labeled metadata from body once extracted to YAML (Overview starts with prose)
+- Source vs aggregator classification; never infer company from aggregator hosts
+- Expanded deterministic fields: city, country, workplace_type, hybrid, aggregator, salary, etc.
+- Heading variants normalised (Experience→Requirements, About the Job→About the Role, …)
+- Job section hierarchy: Overview → About the Role → Responsibilities → Requirements → Benefits → Location → How to Apply → Sources
+- Formatting cleanup only (whitespace, dup paragraphs/headings, broken lists) — no meaning rewrite
+
+Smoke: `node scripts/markdown/smoke-test.js` PASS
+
+
+## [2026-08-06] edit | A2-R2 — Canonical Workspace UX Refinement
+
+Editorial workspace refinement for Markdown Generator output (no generator redesign):
+
+- Folders/files use deterministic `editorial_slug` (e.g. `burberry-designer-textiles-and-graphics/`)
+- Filenames `{slug}.md` / `{slug}.json`; reports keep `generator-report.*`
+- YAML adds `editorial_slug`; `capture_id` / `canonical_id` unchanged; `relationships.*` still ER-owned
+- Stronger deterministic extraction for company, location, department, apply URL (no ER)
+- Shared package path resolver for Ready / Quality / Resolution / AI
+- Staging README: `wiki/jobs/_staging/README.md`
+
+Smoke: `node scripts/markdown/smoke-test.js`
+
+
+## [2026-08-06] edit | A2-R1 — Markdown Generator Vault folder alignment
+
+Aligned Markdown Generator (and Capture raw writes) to permanent PD Vault V2 folders:
+
+- Raw: `raw/_jobs/` (packages + Obsidian `.md` consumed in place — no duplicate copies)
+- Canonical: `wiki/jobs/_staging/<canonical_id>/`
+- Ready unchanged for this task: Ready Promotion target remains `wiki/jobs/_ready/` (legacy `content/jobs/ready/` still in ReadyWriter until its own alignment)
+
+Shared path helpers: `scripts/lib/vaultPaths.js`. CLI: `--file`, default batch `raw/_jobs/`. Smoke: `node scripts/markdown/smoke-test.js` PASS.
+
+Deprecated resolve fallback only: `content/jobs/raw/`, `content/jobs/canonical/`.
+
+
+## [2026-08-05] create | Track A8 — Export Workspace
+
+Implemented Export Workspace under `scripts/lib/export/` and `scripts/export/`.
+
+- Ready-only export; Ready Markdown never modified; no Laravel import
+- Modes: all, changed (incremental), type, selection, single + Export Preview
+- Package: CSV + manifest.json + Export Report under `exports/packages/`
+- Deterministic CSV + package_id; idempotent re-export; history/registry
+- CLI: `export.js`, `preview.js`, `list.js`
+- Smoke: `node scripts/export/smoke-test.js` PASS
+
+Docs: `scripts/export/README.md`
+
+
+## [2026-08-05] create | Track A7 — Ready Promotion
+
+Implemented Ready Promotion under `scripts/lib/ready/`.
+
+- Gates: Quality PASS, Resolution report, editorial approved, YAML/provenance
+- Writes `content/{type}/ready/<ready_id>/` snapshot; Canonical untouched
+- Operational ready_* metadata; Promotion Report + history; idempotent by editorial hash
+- Quality YAML validator: full review lifecycle statuses (incl. approved)
+- CLI: `scripts/ready/promote.js`
+- Smoke: `node scripts/ready/smoke-test.js` PASS
+
+Docs: `scripts/ready/README.md`
+
+
+## [2026-08-05] create | Track A6 — AI Editorial Assistant
+
+Implemented optional AI Editorial Assistant under `scripts/lib/ai/`.
+
+- Prompt registry (12 editor actions) + heuristic/disabled/openai providers
+- Suggest → preview sidecars only; Accept/Reject required to change Canonical
+- `ai_assistance` provenance on accept; Obsidian plugin `pd-editorial-ai`
+- Deterministic pipeline (A1–A5) unaffected when AI disabled
+- CLI: `scripts/ai/suggest.js`, `scripts/ai/apply.js`
+- Smoke: `node scripts/ai/smoke-test.js` PASS
+
+Docs: `scripts/ai/README.md`
+
+
+## [2026-08-05] create | Track A5 — Markdown Quality Checker
+
+Implemented Quality Checker under `scripts/lib/quality/`.
+
+- Validators: structure, yaml, completeness, provenance, relationships, links, attachments, ocr, template
+- Scores + blocking vs warning; Resolution/OCR consumed not regenerated
+- Writes quality-report.* + quality-status.json only — Canonical.md untouched
+- CLI: `scripts/quality/check.js`
+- Smoke: `node scripts/quality/smoke-test.js` PASS
+
+Docs: `scripts/quality/README.md`
+
+
+## [2026-08-05] create | Track A4 — Entity Resolution
+
+Implemented Entity Resolution Engine under `scripts/lib/resolution/`.
+
+- Resolver registry: company, software, skills, types, markets, location
+- Company Resolution reused (Vault `_ready` catalogue + identity normalizer parity)
+- Relationships + history + Resolution Report only; editorial body unchanged
+- Outcomes: Matched / Needs Review / Not Matched
+- CLI: `scripts/resolution/resolve.js`
+- Smoke: `node scripts/resolution/smoke-test.js` PASS
+
+Docs: `scripts/resolution/README.md`
+
+
+## [2026-08-05] create | Track A3 — OCR Pipeline
+
+Implemented OCR Pipeline under `scripts/lib/ocr/` (Raw enhancement only).
+
+- Engine registry: `tesseract_cli` (preferred), `tesseract_js` (fallback)
+- Image OCR + PDF rasterize (ImageMagick; Ghostscript for PDF)
+- Updates existing Raw (`ocr.txt`, `extensions.ocr`, body); never creates Canonical
+- Confidence bands high/medium/low; OCR Report; tables[] placeholder
+- CLI: `scripts/ocr/ocr.js`
+- Smoke: `node scripts/ocr/smoke-test.js` PASS
+- Dep: `tesseract.js`
+
+Docs: `scripts/ocr/README.md`
+
+
+## [2026-08-05] create | Track A2 — Markdown Generator
+
+Implemented Markdown Generator under `scripts/lib/markdown/` (Raw → Canonical only).
+
+- Template registry (job, news, interview, collection, event, product, company_update)
+- Deterministic normaliser, YAML + body generators, validation, Generator Report
+- CLI: `scripts/markdown/generate.js` → `content/jobs/canonical/<canonical_id>/`
+- Idempotent: same Raw → identical Canonical
+- NewsBlur adapter: preserve HTML in body for structured normalisation
+- Smoke: `node scripts/markdown/smoke-test.js` PASS
+- No Ready / CSV / DB / Raw mutation
+
+Docs: `scripts/markdown/README.md`
+
+
+## [2026-08-05] create | Track A1 — Capture Adapter Framework
+
+Implemented Capture Adapter Framework under `scripts/lib/capture/` (Raw only).
+
+- Interface + registry + orchestrator + Capture Report + Raw writer
+- Adapters: html, rss, newsblur, manual_url, manual_paste, image, pdf
+- CLI: `scripts/capture/capture.js` — writes `content/jobs/raw/<capture_id>/`
+- Smoke: `node scripts/capture/smoke-test.js` PASS
+- No Canonical / Ready / CSV / DB writes
+
+Docs: `scripts/capture/README.md`
+
+
+## [2026-07-31] edit | Publication Promotion — Publish All Companies
+
+Promoted all 266 `_ready` companies to `publication_status: published` (256 draft→published; 10 already published). Holding companies included. Phase 4 CSV regenerated.
+
+Reports: `reports/companies/publication/`
+
+
+## [2026-07-31] edit | Phase 3.65 — Official Resources Standardisation
+
+Standardised company Official Resources across `_ready` + export/FE display.
+
+- Renamed `## Further Reading` → `## Official Resources` (229 companies)
+- Converted plain `Label: URL` bullets → `[Label](url)` Markdown links (801 links)
+- Deduped identical URLs; dropped invalid placeholder URLs
+- G13 PASS; storage field remains `references_html`
+- CSV exporter maps Official Resources → references_html with `target="_blank" rel="noopener noreferrer"`
+- FE published title: Official Resources (`companyEditorialSections.js`)
+- Re-exported Phase 4 CSV; importer/DB/API unchanged
+
+Reports: `reports/companies/official-resources/`
+
+
+## [2026-07-31] edit | Phase 4 — Company CSV Generation
+
+Production CSV from `_ready` + Phase 3.75 image package → `exports/companies-csv/companies.csv`.
+
+- 266 companies / 659 rows / 659 production image refs
+- Gates G1–G12: 12/12 PASS (100%)
+- SHA-256 deterministic; manifest match; importer compatible
+- Reports: `reports/companies/csv-generation/` (+ mirror under exports/companies-csv/)
+- Vault, image package, importer, frontend unmodified
+
+
+## [2026-07-31] edit | Phase 3.75 — Company Production Image Export
+
+Pure packaging export from `_ready` + Vault assets → `exports/companies-images/`.
+
+- 266 companies / 266 logos / 393 gallery / 659 total
+- Byte-for-byte copy only (no rename/crop/optimise/convert)
+- Gates G1–G12: 12/12 PASS (100%)
+- Manifest regenerated with sha256_verified
+- Reports: `reports/companies/phase-3.75/`
+- Vault unmodified
+
+
+## [2026-07-31] edit | Phase 3.6 — Company Logo QA
+
+Final logo quality pass on `wiki/assets/companies/{slug}/profile/{slug}-logo.*` for all 266 `_ready` companies.
+
+- Improved 176 logos (tight crop + square canvas, upscale to ≥512px, SVG upgrades where candidates were usable)
+- Converted remaining ICO (Brown Thomas) to PNG; rejected broken SVG candidate for Dolce & Gabbana
+- Refreshed width/height in `_ready` for changed assets; paths updated only on format upgrades
+- Reports: `reports/companies/logo-qa/` (logo-qa-report.md, logo-summary.json, logo-warnings.json)
+- Gallery, CSV, importer, frontend, AWS untouched — Vault is now canonical source for logos
+
+
 ## [2026-07-17] enrich | Types Editorial Enrichment — puzzle-pattern
 
 Enriched `wiki/types/_staging/puzzle-pattern.md` in Types Editorial Enrichment Mode. Rewrote all standard editorial body sections (Overview, Visual Characteristics, Pattern Structure, Common Motifs, Colour and Style, History and Context, Surface Pattern Uses, Related Pattern Types, Source Notes) using only the source material provided in the file. YAML frontmatter preserved exactly; source notes retained at page bottom.
@@ -141,7 +669,7 @@ Enriched three studio files in `wiki/studios/_pending-patterncloud/` in Level 4 
 
 - `fusion-prints-agency.md` — Fusion Prints Agency, Australian sales agency (not a design studio) representing six named UK print studios (Amanda Kelly, Owens & Kim, Fawcett + Co, Whiston & Wright, Bay & Brown, Fairbairn & Wolf), receiving new collections monthly. File is `level_3` with no checked images at all (both the Pattern Cloud Images and Website Images review tables are entirely unchecked), so no visual evidence was used; Style/Techniques/Pattern Focus sections marked not applicable since the agency doesn't design its own patterns. Linked to four represented studios already in the vault ([[bayandbrown]], [[fawcett-co]], [[owens-and-kim]], [[whiston-and-wright]]). **Left at level_3** (frontmatter untouched) — no promotion criteria apply to an agency page with zero reviewed images.
 - `heather-raney.md` — Heather Raney, Colorado US, hand-painted print designer/illustrator for womenswear, Apparel Design background. `description_patterncloud` and `website_about_clean` were both empty, but the pre-existing Overview was substantive, specific, first-person-adjacent editorial text (not thin scrape junk), and the 8 selected_patterns confirmed a consistent hand-painted style across tropical florals, a tonal blue watercolor floral, a folk/hummingbird print, vegetable-and-wildflower conversationals, and a paisley. Trimmed Markets and Specialties to womenswear only (the only market the source text actually supports). Judged this to meet Level 5 in spirit despite the literal source fields being empty. **Promoted to level_5** (enrichment_status: enriched, tags: enriched + level_5).
-- `her-studio.md` — HER Studio London, Hackney Wick/East London, female-led studio founded 2016, womenswear/activewear/swim. `description_patterncloud` was empty, but the existing Overview contained rich, clearly first-party "about us" copy (founding story, stated techniques — tie dye/gouache/watercolour/ink/pencil — PSD delivery format, sustainability mission) plus an extensive named client list (Ralph Lauren, ASOS, DKNY, Victoria's Secret, Topshop, and 21 others). The 8 selected_patterns are branded studio promo/process images confirming the stated hand-painted techniques and a wide stylistic range (saturated florals, ink-and-wash botanicals, madras plaid, abstract airbrush, tie-dye ikat). Linked four documented clients that already exist as company pages ([[ralph-lauren]], [[asos]], [[dkny]], [[victoria-s-secret]]). **Promoted to level_5** (enrichment_status: enriched, tags: enriched + level_5).
+- `her-studio.md` — HER Studio London, Hackney Wick/East London, female-led studio founded 2016, womenswear/activewear/swim. `description_patterncloud` was empty, but the existing Overview contained rich, clearly first-party "about us" copy (founding story, stated techniques — tie dye/gouache/watercolour/ink/pencil — PSD delivery format, sustainability mission) plus an extensive named client list (Ralph Lauren, ASOS, DKNY, Victoria's Secret, Topshop, and 21 others). The 8 selected_patterns are branded studio promo/process images confirming the stated hand-painted techniques and a wide stylistic range (saturated florals, ink-and-wash botanicals, madras plaid, abstract airbrush, tie-dye ikat). Linked four documented clients that already exist as company pages ([[wiki/companies/_staging/ralph-lauren]], [[asos]], [[raw/companies/dkny]], [[wiki/companies/_staging/victoria-s-secret]]). **Promoted to level_5** (enrichment_status: enriched, tags: enriched + level_5).
 
 All YAML frontmatter and image tables preserved exactly in all three files. index.md updated.
 
@@ -1258,3 +1786,62 @@ Enriched 9 selected type staging files in `wiki/types/_staging/` using Types Edi
 - `wiki/types/_staging/astrology-pattern.md` — celestial/zodiac; aspect glyphs, zodiac elemental groupings, star-polygon geometry (pentagram through hexadecagram); Wikipedia source is astrology-technical, not SPD-specific
 
 Several sources (spaceship, minecraft, star, chevron, astrology) were general-subject Wikipedia/game-wiki references rather than SPD or textile sources; per instructions, no origins, eras, uses, designers, or markets were invented for these — Surface Pattern Uses and History sections are marked as not documented by the source where applicable, and each Source Notes entry flags the source's actual subject and its limited SPD relevance. index.md updated (9 new lines added alphabetically to Types _staging, plus the pre-existing types-of-repeat-pattern line corrected to match actual enriched content).
+
+## [2026-08-01] edit | Phase 3.75C logo-type pipeline integration
+
+- Laravel + Next: logo_type end-to-end; heuristics removed from PDCompanyLogo.
+- Import verified: 266 logo_type values persisted.
+- Reports: reports/companies/logo-type-pipeline/
+
+## [2026-08-02] edit | Phase 4A — Category Enrichment (Structured YAML Only)
+
+Enriched `_ready` company YAML categories using deterministic HIGH maps from `products` / `markets` / `company_type` only (no Markdown body). Regenerated production CSV.
+
+- 200 companies updated / 66 unchanged / 715 category values added / 24 holdings updated
+- Reports: `reports/companies/enrichment/` (application, changelog, coverage, summary, errors)
+- CSV: `exports/companies-csv/companies.csv` (266 companies / 659 rows, validation PASS)
+
+
+## [2026-08-02] edit | Phase 4B — Curated Metadata Enrichment
+
+Editorial review of Phase 4 queues after 4A. Applied HIGH + reviewed MEDIUM Markdown-supported Information/Location/Luxury/Category changes. Deferred bedding/furniture (not in production CATEGORY_CODES). Regenerated CSV.
+
+- 164 companies touched / 58 luxury confirmed / 49 luxury rejected / 56 holdings improved
+- Reports: `reports/companies/enrichment/curated-*`
+- CSV: 266 companies / 659 rows validation PASS
+
+
+## [2026-08-02] query | Phase 4C — Company Location Source Audit
+
+Read-only audit of `_ready` vs `_staging` location/headquarters for all 266 companies. Identified US-default cohort and High/Medium correction list. No YAML/CSV changes.
+
+Reports: `reports/companies/location-audit/`
+
+
+## [2026-08-02] edit | Phase 5A — Location Data Correction
+
+Applied High-confidence `location` corrections from Phase 4C (`staging.headquarters` only). Regenerated production CSV.
+
+- 95 companies corrected · Medium/manual not applied
+- Reports: `reports/companies/location-correction/`
+- CSV: 266 / 659 PASS
+
+
+## [2026-08-02] edit | Phase 5C — Reviewed Location Corrections
+
+Applied only explicitly approved rows from `location-manual-review.csv` (proposed_location / decision markers). No reinterpretation.
+
+- 0 companies updated (all 18 rows deferred: blank proposed_location, no decision column)
+- Rejected/deferred unchanged
+- Reports: `reports/companies/location-correction/location-review-*`
+- CSV: 266 / 659 PASS
+
+
+## [2026-08-02] edit | Phase 5C — Reviewed Location Corrections (ready_location SoT)
+
+Re-applied Phase 5C using manually edited `ready_location` as approved source of truth. Ignored `proposed_location`.
+
+- 7 companies updated · 11 already identical
+- Reports: `reports/companies/location-correction/location-review-*`
+- CSV: 266 / 659 PASS
+

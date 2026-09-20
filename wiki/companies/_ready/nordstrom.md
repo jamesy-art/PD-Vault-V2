@@ -93,6 +93,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 143
 ---
 
 # Nordstrom
@@ -114,7 +115,7 @@ enrichment_status: enriched
 
 Nordstrom was founded in 1901 by John W. Nordstrom and Carl F. Wallin as a Seattle shoe store, expanded into apparel in 1963, and became a full-line department store by 1971. The brand launched its off-price Nordstrom Rack division in 1973. As of 2022, it operates 100 full-line stores averaging 140,000 sq ft and 249 Rack locations. The company was listed on NYSE from 1999 until May 2025, when it was taken private in a $6.25 billion deal: the Nordstrom family holds 50.1% and Mexican retail company El Puerto de Liverpool holds 49.9%. *Women's Wear Daily* named Nordstrom the top fashion retailer in 2013.
 
-Nordstrom does not operate a central design studio or publish a proprietary aesthetic direction. The full-line model is curatorial — brand selection drives merchandise rather than in-house design. Private-label and Nordstrom-branded product lines exist but are not a primary part of the company's identity. The Nordstrom Local format reflects a shift toward service-led retail rather than product-led design.
+Nordstrom does not operate a central design studio or publish a proprietary aesthetic direction. The full-line model is curatorial - brand selection drives merchandise rather than in-house design. Private-label and Nordstrom-branded product lines exist but are not a primary part of the company's identity. The Nordstrom Local format reflects a shift toward service-led retail rather than product-led design.
 
 ## History
 
@@ -134,9 +135,9 @@ Nordstrom competes in the US upmarket department store segment with Bloomingdale
 
 ## Pattern and Surface Design Relevance
 
-As a major US fashion retailer, Nordstrom is a primary distribution point for brands whose seasonal product ranges depend on print and pattern refresh cycles — particularly womenswear, activewear, accessories, and home categories. Its curated multi-label model means print-driven collections from mid-to-luxury designers reach US consumers through Nordstrom's national store network and e-commerce.
+As a major US fashion retailer, Nordstrom is a primary distribution point for brands whose seasonal product ranges depend on print and pattern refresh cycles - particularly womenswear, activewear, accessories, and home categories. Its curated multi-label model means print-driven collections from mid-to-luxury designers reach US consumers through Nordstrom's national store network and e-commerce.
 
-In early 2025, a design patent dispute between fitness entrepreneur Cassey Ho (POPFLEX) and Nordstrom/Nordstrom Rack over a "Tutu Skort" — alleged to copy Ho's patented "Pirouette Skort" design — attracted significant attention. The case was cited as a notable example of an independent designer using intellectual property law to challenge design duplication within major retail channels. Nordstrom removed the product after a cease-and-desist but the dispute continued publicly through 2025.
+In early 2025, a design patent dispute between fitness entrepreneur Cassey Ho (POPFLEX) and Nordstrom/Nordstrom Rack over a "Tutu Skort" - alleged to copy Ho's patented "Pirouette Skort" design - attracted significant attention. The case was cited as a notable example of an independent designer using intellectual property law to challenge design duplication within major retail channels. Nordstrom removed the product after a cease-and-desist but the dispute continued publicly through 2025.
 
 ## Official Resources
 

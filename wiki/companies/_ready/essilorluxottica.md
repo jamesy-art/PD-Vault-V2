@@ -28,6 +28,7 @@ logo_type: wordmark
 created: '2026-06-11'
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 114
 ---
 
 # EssilorLuxottica
@@ -44,7 +45,7 @@ No single creative director is documented for the group. Design direction operat
 
 ## History
 
-Essilor contributed its ophthalmic lens technologies and subsidiaries; Luxottica contributed its eyewear brands, retail chains, and exclusive fashion house manufacturing licences. Key Luxottica brand acquisitions included Vogue Eyewear (1990), Persol (1995), Ray-Ban and Arnette (1999), Oakley and Oliver Peoples (2007), Alain Mikli (2012), and Bolon via Xiamen Yarui Optical (2013). Essilor brought Foster Grant (2010) and Costa Del Mar (2014). Post-merger acquisitions include GrandVision (75% stake, 2019, valued at €7.2B), Shamir Optical Industry (100%, 2022), and Supreme streetwear brand ($1.5B, July 2024) — the first major acquisition outside eyewear and lenses. Heidelberg Engineering (ophthalmic diagnostics, 80%, July 2024) extended the group into medical instruments.
+Essilor contributed its ophthalmic lens technologies and subsidiaries; Luxottica contributed its eyewear brands, retail chains, and exclusive fashion house manufacturing licences. Key Luxottica brand acquisitions included Vogue Eyewear (1990), Persol (1995), Ray-Ban and Arnette (1999), Oakley and Oliver Peoples (2007), Alain Mikli (2012), and Bolon via Xiamen Yarui Optical (2013). Essilor brought Foster Grant (2010) and Costa Del Mar (2014). Post-merger acquisitions include GrandVision (75% stake, 2019, valued at €7.2B), Shamir Optical Industry (100%, 2022), and Supreme streetwear brand ($1.5B, July 2024) - the first major acquisition outside eyewear and lenses. Heidelberg Engineering (ophthalmic diagnostics, 80%, July 2024) extended the group into medical instruments.
 
 ## Products
 
@@ -65,7 +66,7 @@ Sunglass Hut (3,131), Óticas Carol (1,425), LensCrafters (1,098), Vision Expres
 
 ## Services
 
-The fashion house licensing model — pioneered by the Armani deal in 1989 — is the group's most commercially significant relationship with surface pattern design. It applies to Armani, Burberry, Chanel, Dolce & Gabbana, Prada, Ralph Lauren, Versace, Tory Burch, Tiffany & Co., Swarovski, Michael Kors, Miu Miu, Coach, Brooks Brothers, Jimmy Choo, and Kodak. Retail distribution operates through 30,000+ points of sale globally across owned chains, licensed chains, and wholesale accounts.
+The fashion house licensing model - pioneered by the Armani deal in 1989 - is the group's most commercially significant relationship with surface pattern design. It applies to Armani, Burberry, Chanel, Dolce & Gabbana, Prada, Ralph Lauren, Versace, Tory Burch, Tiffany & Co., Swarovski, Michael Kors, Miu Miu, Coach, Brooks Brothers, Jimmy Choo, and Kodak. Retail distribution operates through 30,000+ points of sale globally across owned chains, licensed chains, and wholesale accounts.
 
 ## Markets
 
@@ -73,4 +74,4 @@ EssilorLuxottica's vertical integration spans the full eyewear value chain: lens
 
 ## Pattern and Surface Design Relevance
 
-EssilorLuxottica is the primary production and distribution infrastructure for eyewear carrying some of the most pattern-intensive fashion brand identities in the world. Every pair of Chanel, Prada, Versace, Dolce & Gabbana, Burberry, or Ralph Lauren eyewear is manufactured by this group under exclusive licence — meaning the group executes the translation of each brand's graphic and surface design language into a physical product category. The Ray-Ban brand carries its own strong graphic identity (the Wayfarer silhouette, Aviator frame as near-universal consumer icons). Oakley's technical lens tinting and frame surface treatments represent materials-driven surface design. The Supreme acquisition ($1.5B, 2024) brings a brand whose commercial identity is built entirely around graphic surface marks applied to streetwear and accessories. The fashion house licensing model means EssilorLuxottica's design and production teams are continuously interpreting brand DNA into frame and lens surface expressions season by season across 15+ fashion houses.
+EssilorLuxottica is the primary production and distribution infrastructure for eyewear carrying some of the most pattern-intensive fashion brand identities in the world. Every pair of Chanel, Prada, Versace, Dolce & Gabbana, Burberry, or Ralph Lauren eyewear is manufactured by this group under exclusive licence - meaning the group executes the translation of each brand's graphic and surface design language into a physical product category. The Ray-Ban brand carries its own strong graphic identity (the Wayfarer silhouette, Aviator frame as near-universal consumer icons). Oakley's technical lens tinting and frame surface treatments represent materials-driven surface design. The Supreme acquisition ($1.5B, 2024) brings a brand whose commercial identity is built entirely around graphic surface marks applied to streetwear and accessories. The fashion house licensing model means EssilorLuxottica's design and production teams are continuously interpreting brand DNA into frame and lens surface expressions season by season across 15+ fashion houses.

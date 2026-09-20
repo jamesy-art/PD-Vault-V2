@@ -66,6 +66,7 @@ images:
 created: '2026-06-10'
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 60
 ---
 
 # Gymshark
@@ -89,7 +90,7 @@ Minimalist performance aesthetic. Surface design is primarily expressed through 
 
 ## History
 
-Founded June 2012; initial revenue £500/day in the first year. First major trade show appearance at BodyPower, Birmingham NEC, 2013 — sold out all stock on day one. The Luxe tracksuit generated £30,000 in sales within 30 minutes via Facebook. Lewis Morgan partially exited in 2016 (retaining 20%) to focus on other ventures. HQ moved to Blythe Valley Park, Solihull. Gymshark Lifting Club innovation hub opened September 2019 (co-located with HQ). Offices in London, Hong Kong (from 2019), and Denver (North America). First permanent retail store: Regent Street, London, October 2022. Subsequent stores at Westfield Stratford City, Westfield White City, and Trafford Centre Manchester (July 2025).
+Founded June 2012; initial revenue £500/day in the first year. First major trade show appearance at BodyPower, Birmingham NEC, 2013 - sold out all stock on day one. The Luxe tracksuit generated £30,000 in sales within 30 minutes via Facebook. Lewis Morgan partially exited in 2016 (retaining 20%) to focus on other ventures. HQ moved to Blythe Valley Park, Solihull. Gymshark Lifting Club innovation hub opened September 2019 (co-located with HQ). Offices in London, Hong Kong (from 2019), and Denver (North America). First permanent retail store: Regent Street, London, October 2022. Subsequent stores at Westfield Stratford City, Westfield White City, and Trafford Centre Manchester (July 2025).
 
 David Laid appointed creative director of lifting, February 2023. Chris Bumstead (six-time Olympia winner) named athlete and shareholder, September 2024.
 
@@ -103,15 +104,15 @@ Primarily DTC online across 14 international online stores. Permanent retail pre
 
 ## Markets
 
-Premium performance and lifestyle athleticwear brand competing in the global sportswear market. Originally men-focused; by 2020 approximately two-thirds of sales to women. DTC-first model with minimal physical retail. Community-driven brand built through social media influencer marketing at scale — 125 paid influencers as of 2020. Valuation exceeded £1 billion August 2020 (General Atlantic, 21% stake, £275M).
+Premium performance and lifestyle athleticwear brand competing in the global sportswear market. Originally men-focused; by 2020 approximately two-thirds of sales to women. DTC-first model with minimal physical retail. Community-driven brand built through social media influencer marketing at scale - 125 paid influencers as of 2020. Valuation exceeded £1 billion August 2020 (General Atlantic, 21% stake, £275M).
 
 ## Pattern and Surface Design Relevance
 
-Gymshark's origins are directly tied to garment surface production: Francis built the brand using a screen printer — a core surface pattern application technique — manufacturing on a made-to-sell basis from the outset. Screen printing on athletic garments requires design decisions about graphic placement, scale, colourway, and repeat that are foundational to surface design practice.
+Gymshark's origins are directly tied to garment surface production: Francis built the brand using a screen printer - a core surface pattern application technique - manufacturing on a made-to-sell basis from the outset. Screen printing on athletic garments requires design decisions about graphic placement, scale, colourway, and repeat that are foundational to surface design practice.
 
-The brand's aesthetic is performance-focused and minimalist rather than pattern-heavy, with visual identity carried primarily through the Gymshark shark logo and colour-seasonal apparel ranges. Graphic application across the range — logo placement, typography, colourway stories — constitutes the main surface design expression. The high-volume DTC model and seasonal product cadence generate a consistent demand for graphic and colour design across apparel.
+The brand's aesthetic is performance-focused and minimalist rather than pattern-heavy, with visual identity carried primarily through the Gymshark shark logo and colour-seasonal apparel ranges. Graphic application across the range - logo placement, typography, colourway stories - constitutes the main surface design expression. The high-volume DTC model and seasonal product cadence generate a consistent demand for graphic and colour design across apparel.
 
-The influencer-marketing model, built on 18 million+ social media followers, creates a significant platform for apparel aesthetics to reach fitness and lifestyle audiences — relevant context for brands and designers working in athletic apparel graphics and print.
+The influencer-marketing model, built on 18 million+ social media followers, creates a significant platform for apparel aesthetics to reach fitness and lifestyle audiences - relevant context for brands and designers working in athletic apparel graphics and print.
 
 ## Official Resources
 

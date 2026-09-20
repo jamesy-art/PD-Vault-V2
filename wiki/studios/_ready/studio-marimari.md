@@ -4,8 +4,8 @@ slug: studio-marimari
 email: hello@studiomarimari.com
 description: Studio Marimari is a Hamburg-based pattern and print design studio
   founded by art director Mareike Tonollo. Tonollo worked as a freelance art
-  director from 2004 across print, editorial, magazine, and catalogue design —
-  primarily in women's fashion, lifestyle, and interior design — before shifting
+  director from 2004 across print, editorial, magazine, and catalogue design -
+  primarily in women's fashion, lifestyle, and interior design - before shifting
   focus toward pattern and print design from 2018 onward.
 website_url: https://www.studiomarimari.com/
 instagram_url: https://www.instagram.com/studio_marimari
@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 585
 ---
 # Studio Marimari
 
@@ -67,11 +68,11 @@ equipment:
 
 ## Overview
 
-Studio Marimari is a Hamburg-based pattern and print design studio founded by art director Mareike Tonollo. Tonollo worked as a freelance art director from 2004 across print, editorial, magazine, and catalogue design — primarily in women's fashion, lifestyle, and interior design — before shifting focus toward pattern and print design from 2018 onward.
+Studio Marimari is a Hamburg-based pattern and print design studio founded by art director Mareike Tonollo. Tonollo worked as a freelance art director from 2004 across print, editorial, magazine, and catalogue design - primarily in women's fashion, lifestyle, and interior design - before shifting focus toward pattern and print design from 2018 onward.
 
 ## Studio Style and Aesthetic
 
-Selected patterns are dominated by bold, saturated abstract and painterly work: gestural brushstroke motifs (a coral animal-print-style brushwork, a tiger-stripe abstract in orange/navy/cream, cobalt-blue squiggle linework on tan), colour-blocked floral abstracts in orange, pink, navy, and lavender, and a blurred pink/orange/blue gradient pattern. One playful graphic novelty print — a peach-and-navy smiley/dot design — shows the studio also works in a lighter, conversational register alongside its abstract core.
+Selected patterns are dominated by bold, saturated abstract and painterly work: gestural brushstroke motifs (a coral animal-print-style brushwork, a tiger-stripe abstract in orange/navy/cream, cobalt-blue squiggle linework on tan), colour-blocked floral abstracts in orange, pink, navy, and lavender, and a blurred pink/orange/blue gradient pattern. One playful graphic novelty print - a peach-and-navy smiley/dot design - shows the studio also works in a lighter, conversational register alongside its abstract core.
 
 ## Markets and Specialties
 

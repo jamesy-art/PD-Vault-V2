@@ -42,6 +42,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 581
 ---
 # Sam Morray
 
@@ -70,7 +71,7 @@ Sam Morray Design is a print studio based in London's Brick Lane, positioned aro
 
 ## Studio Style and Aesthetic
 
-Selected images are largely trend moodboards branded "Sam Morray Design" (curated runway and product photography alongside pattern references) plus product photography of prints on garments, rather than isolated repeat artwork — consistent with the studio's stated focus on trend direction for womenswear. The prints visible include a rust/pink/navy ditsy floral patchworked with woven trim, a blush-mustard-navy abstract "shattered" colour-block print, a boho-style botanical border print in dusty blue with rust/green motifs and chevron trim, a bold multicolour abstract collage print, a dark jewel-tone floral (pink/purple/olive on near-black), and painterly/watercolour and graphic florals across yellow, pink, and multicolour palettes. Together they show a trend-led, predominantly floral practice ranging from delicate ditsy prints to bold colour-block abstraction.
+Selected images are largely trend moodboards branded "Sam Morray Design" (curated runway and product photography alongside pattern references) plus product photography of prints on garments, rather than isolated repeat artwork - consistent with the studio's stated focus on trend direction for womenswear. The prints visible include a rust/pink/navy ditsy floral patchworked with woven trim, a blush-mustard-navy abstract "shattered" colour-block print, a boho-style botanical border print in dusty blue with rust/green motifs and chevron trim, a bold multicolour abstract collage print, a dark jewel-tone floral (pink/purple/olive on near-black), and painterly/watercolour and graphic florals across yellow, pink, and multicolour palettes. Together they show a trend-led, predominantly floral practice ranging from delicate ditsy prints to bold colour-block abstraction.
 
 ## Markets and Specialties
 
@@ -93,8 +94,8 @@ London (Brick Lane) studio with a team drawn from fine art, illustration, and te
 
 ## Pattern Focus
 
-Trend-led florals — from delicate ditsy and botanical border prints to bold painterly and graphic florals — plus abstract colour-block prints, aimed at the womenswear and junior markets.
+Trend-led florals - from delicate ditsy and botanical border prints to bold painterly and graphic florals - plus abstract colour-block prints, aimed at the womenswear and junior markets.
 
 ## Connections
 
-- periscope-art — sales representation studio that lists Sam Morray Design among the print studios it represents
+- periscope-art - sales representation studio that lists Sam Morray Design among the print studios it represents

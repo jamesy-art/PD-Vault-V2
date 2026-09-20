@@ -45,6 +45,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 16
 ---
 
 # JD Sports
@@ -65,12 +66,12 @@ JD Sports' growth has been driven by a consistent acquisition strategy across sp
 
 ## Products
 
-- **Athletic footwear** — premium trainers/sneakers from Nike, Adidas, and other major sporting goods brands; core commercial product
-- **Sports apparel** — branded athletic clothing, tracksuits, hoodies, performance and casual sportswear
-- **Rugby heritage apparel** — Canterbury and Canterbury of New Zealand (acquired); team-licenced rugby apparel
-- **Kidswear** — sports footwear and apparel for children
-- **Women's and men's athletic and athleisure** — full category coverage across genders
-- **Go Outdoors** (subsidiary) — outdoor clothing, footwear, and equipment
+- **Athletic footwear** - premium trainers/sneakers from Nike, Adidas, and other major sporting goods brands; core commercial product
+- **Sports apparel** - branded athletic clothing, tracksuits, hoodies, performance and casual sportswear
+- **Rugby heritage apparel** - Canterbury and Canterbury of New Zealand (acquired); team-licenced rugby apparel
+- **Kidswear** - sports footwear and apparel for children
+- **Women's and men's athletic and athleisure** - full category coverage across genders
+- **Go Outdoors** (subsidiary) - outdoor clothing, footwear, and equipment
 
 ## Services
 
@@ -78,21 +79,21 @@ JD Sports operates through owned stores in the UK, Europe, North America, Austra
 
 ## Markets
 
-JD Sports operates at the intersection of sports performance and streetwear/athleisure fashion. Its primary commercial positioning — premium athletic footwear and branded sports apparel — gives it a strong hold on the 16–25 demographic in urban markets globally. In the United States, the acquisitions of Finish Line, Shoe Palace, DTLR, and Hibbett have built JD Sports into a significant challenger to Foot Locker in athletic footwear retail. In Europe, the Courir acquisition added a running-specialist banner with French market leadership. The group operates in markets where sneaker culture, sports licensing, and graphic sportswear are the dominant commercial aesthetic.
+JD Sports operates at the intersection of sports performance and streetwear/athleisure fashion. Its primary commercial positioning - premium athletic footwear and branded sports apparel - gives it a strong hold on the 16-25 demographic in urban markets globally. In the United States, the acquisitions of Finish Line, Shoe Palace, DTLR, and Hibbett have built JD Sports into a significant challenger to Foot Locker in athletic footwear retail. In Europe, the Courir acquisition added a running-specialist banner with French market leadership. The group operates in markets where sneaker culture, sports licensing, and graphic sportswear are the dominant commercial aesthetic.
 
 ## Pattern and Surface Design Relevance
 
-JD Sports is one of the world's largest retail channels for branded sportswear apparel — a category in which surface pattern design, graphic identity, and print application are central to commercial product value.
+JD Sports is one of the world's largest retail channels for branded sportswear apparel - a category in which surface pattern design, graphic identity, and print application are central to commercial product value.
 
 **Branded sports apparel** sold through JD (Nike, Adidas, and other sporting goods brands) is among the most pattern-intensive product category globally: team colourways, corporate identity graphics, performance surface treatments, and seasonal graphic prints define the product. JD Sports functions as a distributor of applied surface design at massive scale.
 
-**Canterbury and Canterbury of New Zealand** — acquired heritage rugby brands — carry national team and club licensing programmes in which graphic identity (team badge, colour, stripe pattern) applied to fabric surfaces is the product's primary design value.
+**Canterbury and Canterbury of New Zealand** - acquired heritage rugby brands - carry national team and club licensing programmes in which graphic identity (team badge, colour, stripe pattern) applied to fabric surfaces is the product's primary design value.
 
 **Courir** (acquired September 2023) focuses on running footwear and apparel, where technical surface treatments, mesh constructions, and performance-graphic colour language are product features.
 
-**Sports club sponsorships** (Cymru Premier, Welsh Cup, various English football clubs; Wisła Kraków from April 2026) are commercial brand activations that place JD's logo alongside club-branded graphic merchandise — the intersection of sports branding and surface graphic application.
+**Sports club sponsorships** (Cymru Premier, Welsh Cup, various English football clubs; Wisła Kraków from April 2026) are commercial brand activations that place JD's logo alongside club-branded graphic merchandise - the intersection of sports branding and surface graphic application.
 
-**Streetwear adjacency** — JD's position at the crossover of sports and streetwear means its stores stock and curate apparel where graphic print, logo surface coverage, and pattern collaborations are significant commercial drivers.
+**Streetwear adjacency** - JD's position at the crossover of sports and streetwear means its stores stock and curate apparel where graphic print, logo surface coverage, and pattern collaborations are significant commercial drivers.
 
 ## Official Resources
 

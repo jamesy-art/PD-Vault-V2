@@ -41,6 +41,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 565
 ---
 # Nechines Print Design Studio
 
@@ -71,7 +72,7 @@ The portfolio shows a broad, trend-responsive range rather than one fixed signat
 
 ## Markets and Specialties
 
-- Fashion — women's, men's, and children's apparel
+- Fashion - women's, men's, and children's apparel
 - Swimwear-adjacent prints (tropical/hibiscus motifs shown applied to rash-guard and swim silhouettes in selected pattern imagery)
 
 ## Techniques and Artwork Process
@@ -95,8 +96,8 @@ Founded and led by Nechi, Creative Director of NECHINES.DESIGN. Nechi brings 16 
 
 ## Pattern Focus
 
-Florals (painterly and vector-based), tropical/hibiscus motifs, ethnic-inspired stripes, and abstract brushstroke textures — spanning apparel-ready prints for multiple market segments.
+Florals (painterly and vector-based), tropical/hibiscus motifs, ethnic-inspired stripes, and abstract brushstroke textures - spanning apparel-ready prints for multiple market segments.
 
 ## Connections
 
-- The Pattern Cloud — sourcing and distribution platform
+- The Pattern Cloud - sourcing and distribution platform

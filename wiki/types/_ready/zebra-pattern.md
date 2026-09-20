@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 95
 ---
 
 # Zebra Pattern
@@ -119,21 +120,21 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/zebra-pattern/profile/zebra-pattern-image.svg)
-A surface pattern based on the high-contrast black-and-white stripe markings of the zebra — a bold, graphic animal print that is visually distinct from both tiger stripe and leopard print, defined by its achromatic two-tone structure.
+A surface pattern based on the high-contrast black-and-white stripe markings of the zebra - a bold, graphic animal print that is visually distinct from both tiger stripe and leopard print, defined by its achromatic two-tone structure.
 
 ## Overview
 
-Zebra print is one of the most commercially durable animal print categories in surface pattern design, distinguished by its extreme simplicity — two colours only, typically black and white — and its bold, organic stripe structure. Unlike tiger print (orange and black, curved organic stripes) or leopard print (spots/rosettes on a tawny ground), zebra print derives its impact from the graphic intensity of the black-white contrast and the flowing, individual character of each stripe. Its commercial appeal is broad, crossing fashion, home design, and accessories markets.
+Zebra print is one of the most commercially durable animal print categories in surface pattern design, distinguished by its extreme simplicity - two colours only, typically black and white - and its bold, organic stripe structure. Unlike tiger print (orange and black, curved organic stripes) or leopard print (spots/rosettes on a tawny ground), zebra print derives its impact from the graphic intensity of the black-white contrast and the flowing, individual character of each stripe. Its commercial appeal is broad, crossing fashion, home design, and accessories markets.
 
 ## Visual Characteristics
 
 The zebra's markings are characterised by:
 - **High-contrast black and white:** no intermediate colour; maximum tonal contrast
 - **Flowing, irregular stripes:** the stripes are not perfectly even in width and follow the body contour; organic and slightly irregular
-- **Individual uniqueness:** each zebra has a unique stripe pattern — no two animals are identical, comparable to human fingerprints
-- **Motion dazzle effect:** in a moving herd, overlapping stripes from multiple animals make it difficult for a predator to track any single individual — a documented anti-predator adaptation
+- **Individual uniqueness:** each zebra has a unique stripe pattern - no two animals are identical, comparable to human fingerprints
+- **Motion dazzle effect:** in a moving herd, overlapping stripes from multiple animals make it difficult for a predator to track any single individual - a documented anti-predator adaptation
 
-The biological theory of stripe formation follows Turing pattern principles (the same reaction-diffusion morphogen model that produces tiger stripes and other animal coat patterns). An additional proposed biological function of zebra stripes is deterring biting insects — the theory suggests that zebra stripe patterns disrupt the edge-detection perception used by flies when landing.
+The biological theory of stripe formation follows Turing pattern principles (the same reaction-diffusion morphogen model that produces tiger stripes and other animal coat patterns). An additional proposed biological function of zebra stripes is deterring biting insects - the theory suggests that zebra stripe patterns disrupt the edge-detection perception used by flies when landing.
 
 ## Pattern Structure
 
@@ -141,38 +142,38 @@ Zebra prints in surface pattern use flowing organic stripes at a scale appropria
 
 ## Common Motifs
 
-The pattern is entirely defined by the stripe structure — there are no secondary motifs. Commercial zebra print may vary from closely naturalistic (following actual zebra proportions and stripe character) to stylised (simplified, more regular, or exaggerated for graphic impact). The two-tone structure makes it exceptionally easy to recolour in non-naturalistic palettes while retaining the pattern's identity.
+The pattern is entirely defined by the stripe structure - there are no secondary motifs. Commercial zebra print may vary from closely naturalistic (following actual zebra proportions and stripe character) to stylised (simplified, more regular, or exaggerated for graphic impact). The two-tone structure makes it exceptionally easy to recolour in non-naturalistic palettes while retaining the pattern's identity.
 
 ## Colour and Style
 
 The naturalistic black-and-white palette is commercially dominant and gives zebra print its defining graphic clarity. Key commercial variations:
-- **Black and white** — the standard; bold, graphic, high-fashion associations
-- **Brown and ivory/cream** — warmer, more naturalistic, lifestyle-oriented
-- **Navy and white** — nautical-adjacent, classic
-- **Coloured ground variations** — orange/yellow, pink, gold on black — non-naturalistic, fashion-forward
+- **Black and white** - the standard; bold, graphic, high-fashion associations
+- **Brown and ivory/cream** - warmer, more naturalistic, lifestyle-oriented
+- **Navy and white** - nautical-adjacent, classic
+- **Coloured ground variations** - orange/yellow, pink, gold on black - non-naturalistic, fashion-forward
 
 ## History and Context
 
-Zebra print entered fashion as part of the broader animal print trend of the 20th century, reaching particular commercial prominence in 1960s Mod fashion (where the bold black-and-white graphic quality aligned with the era's optical and geometric aesthetic) and in the maximalist luxury fashion of the 1970s and 1980s. Unlike leopard and tiger prints, zebra's achromatic two-tone structure gives it a graphic versatility — it works in contexts where colour animal prints would be too heavy. The pattern has remained a perennial commercial reference, cycling through high-fashion and mainstream retail regularly.
+Zebra print entered fashion as part of the broader animal print trend of the 20th century, reaching particular commercial prominence in 1960s Mod fashion (where the bold black-and-white graphic quality aligned with the era's optical and geometric aesthetic) and in the maximalist luxury fashion of the 1970s and 1980s. Unlike leopard and tiger prints, zebra's achromatic two-tone structure gives it a graphic versatility - it works in contexts where colour animal prints would be too heavy. The pattern has remained a perennial commercial reference, cycling through high-fashion and mainstream retail regularly.
 
 ## Surface Pattern Uses
 
 - **Women's fashion:** a recurring animal print in dresses, skirts, accessories, and shoes
-- **Home textiles:** cushions, throws, rugs — particularly in bold interior styling
+- **Home textiles:** cushions, throws, rugs - particularly in bold interior styling
 - **Accessories:** bags, shoes, small leather goods
 - **Stationery and gifting:** bold graphic applications for notebooks, wrapping paper
 - **Wallpaper:** feature wall applications in maximalist interiors
 
 ## Related Pattern Types
 
-- [[Tiger Pattern]] — another stripe-based animal print; distinct through orange/black palette and more fluid stripe character
-- [[Animal Pattern]] — zebra print is a subcategory of the broader animal/wildlife print family
-- [[Stripe Pattern]] — zebra pattern is a natural, irregular variant of the stripe structure
+- Tiger Pattern - another stripe-based animal print; distinct through orange/black palette and more fluid stripe character
+- Animal Pattern - zebra print is a subcategory of the broader animal/wildlife print family
+- Stripe Pattern - zebra pattern is a natural, irregular variant of the stripe structure
 
 ## Source Notes
 
-- SPD biology notes — high-contrast black/white stripes, motion dazzle (herd confusion), biting fly deterrence (edge perception disruption), unique individual patterns, Turing pattern morphogens
-- Wikipedia, "Zebra patterning" — zebra camera exposure overlay function (not SPD-relevant; excluded from main content)
+- SPD biology notes - high-contrast black/white stripes, motion dazzle (herd confusion), biting fly deterrence (edge perception disruption), unique individual patterns, Turing pattern morphogens
+- Wikipedia, "Zebra patterning" - zebra camera exposure overlay function (not SPD-relevant; excluded from main content)
 
 ## Editorial Images
 

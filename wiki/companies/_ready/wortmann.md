@@ -24,6 +24,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 45
 ---
 
 # Wortmann
@@ -36,7 +37,7 @@ enrichment_status: enriched
 
 Wortmann AG is a German manufacturer of computers, notebooks, servers, computer monitors, and thin clients, headquartered in Hüllhorst, North Rhine-Westphalia, Germany. The company was founded in 1986 as Wortmann Terra Impex Computer- und Datenverarbeitungs GmbH by Siegbert Wortmann, Gabriele Wortmann, and Thomas Knicker. Products are marketed under the Terra brand and assembled in Germany; the majority of revenue (approximately 85%) is generated in Germany, with the remainder from Switzerland, France, and the Benelux countries (expanded since 2005). In 2009, despite the financial crisis, Wortmann reported a 12% turnover increase, with revenue of €350 million and approximately 350 employees. Founder Siegbert Wortmann received the Order of Merit of the Federal Republic of Germany in 2007.
 
-**Note:** The source file for this entry covers Wortmann AG, a German computer company, which has no documented connection to surface pattern design, fashion, or textiles. If the intended entry was a different Wortmann — such as a German footwear or fashion group operating under the Wortmann name — the source should be updated to the correct company.
+**Note:** The source file for this entry covers Wortmann AG, a German computer company, which has no documented connection to surface pattern design, fashion, or textiles. If the intended entry was a different Wortmann - such as a German footwear or fashion group operating under the Wortmann name - the source should be updated to the correct company.
 
 No design function is identified in the source. Wortmann AG is a technology hardware company.
 

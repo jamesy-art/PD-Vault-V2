@@ -67,6 +67,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 191
 ---
 
 # Sandro
@@ -86,7 +87,7 @@ enrichment_status: enriched
 
 Sandro Andy S.A.S., commonly known as Sandro Paris, was founded in 1984 by Évelyne Chetrite in Paris as a premium contemporary brand positioned between luxury and mass market. The founder's stated philosophy is "casual but always chic" and "sophisticated but cool." The brand began as womenswear and was exclusively wholesale until 2007, when it began opening stand-alone retail boutiques in Europe. Ilan Chetrite (son of the founder) joined the company and launched Sandro Homme in 2008, described by W magazine as "masculine but not at all macho" and "timeless but with a bit of edge." Isabelle Allouch, a former Balenciaga executive, was named CEO in 2019. In 2021, Sandro launched a second-hand resale offer in France, subsequently expanding to Germany, the Netherlands, and Spain. YAML parent_company "smcp-group" is correct. YAML location "France" is correct. YAML market_categories "Running" is incorrect for a contemporary ready-to-wear brand; YAML preserved as found.
 
-Sandro's design identity is built on Évelyne Chetrite's "casual but always chic" philosophy — a contemporary Parisian aesthetic that blends feminine sophistication with accessible styling. Sandro Homme (from 2008, Ilan Chetrite) applies the same ethos to menswear: "timeless but with a bit of edge." The brand does not position itself through avant-garde or directional design; it operates as a reliable, commercially consistent contemporary French brand, with seasonal print and surface direction serving the "French girl" accessible luxury customer.
+Sandro's design identity is built on Évelyne Chetrite's "casual but always chic" philosophy - a contemporary Parisian aesthetic that blends feminine sophistication with accessible styling. Sandro Homme (from 2008, Ilan Chetrite) applies the same ethos to menswear: "timeless but with a bit of edge." The brand does not position itself through avant-garde or directional design; it operates as a reliable, commercially consistent contemporary French brand, with seasonal print and surface direction serving the "French girl" accessible luxury customer.
 
 ## History
 
@@ -102,14 +103,14 @@ YAML parent_company "smcp-group" is correct. YAML location "France" is correct (
 
 ## Markets
 
-Sandro occupies the contemporary-to-accessible luxury segment of French ready-to-wear — positioned above high street and below full luxury, often described as "French girl chic." The brand grew from a wholesale-only model to a significant direct retail presence: first US boutique opened in New York City in 2011; 50+ US outlets as of 2023; December 2023 expansion to Westfield Topanga, Los Angeles. The second-hand resale offering (from 2021) positions the brand in the sustainability-oriented segment of contemporary fashion. Sandro operates within SMCP Group alongside Maje and Claudie Pierlot.
+Sandro occupies the contemporary-to-accessible luxury segment of French ready-to-wear - positioned above high street and below full luxury, often described as "French girl chic." The brand grew from a wholesale-only model to a significant direct retail presence: first US boutique opened in New York City in 2011; 50+ US outlets as of 2023; December 2023 expansion to Westfield Topanga, Los Angeles. The second-hand resale offering (from 2021) positions the brand in the sustainability-oriented segment of contemporary fashion. Sandro operates within SMCP Group alongside Maje and Claudie Pierlot.
 
 ## Pattern and Surface Design Relevance
 
 Sandro's SPD relevance is typical of a contemporary French ready-to-wear brand operating in the "casual chic" segment:
 
-- **Seasonal print and surface direction in womenswear**: Sandro Paris's seasonal womenswear output includes print dresses, printed tops, and accessories with surface pattern direction — florals, abstract prints, and graphic motifs applied to silk, viscose, and cotton substrates in the contemporary French aesthetic
-- **Ready-to-wear print positioning**: Positioned between luxury and mass market, Sandro's print and surface direction functions as accessible, trend-responsive French fashion print — the same seasonal print categories (floral, stripe, abstract) as luxury RTW but at a premium contemporary price point
+- **Seasonal print and surface direction in womenswear**: Sandro Paris's seasonal womenswear output includes print dresses, printed tops, and accessories with surface pattern direction - florals, abstract prints, and graphic motifs applied to silk, viscose, and cotton substrates in the contemporary French aesthetic
+- **Ready-to-wear print positioning**: Positioned between luxury and mass market, Sandro's print and surface direction functions as accessible, trend-responsive French fashion print - the same seasonal print categories (floral, stripe, abstract) as luxury RTW but at a premium contemporary price point
 - **Accessories surface**: Bags, eyewear, and shoes in the product range carry brand surface and material design decisions season-to-season
 - **Second-hand resale (2021)**: Sandro's resale offer extends the lifecycle of print and surface-designed garments; fashion rental and resale platforms are an emerging distribution context for SPD output
 

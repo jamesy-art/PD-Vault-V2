@@ -49,7 +49,7 @@ type_slugs:
   - monogram
 images:
   logo:
-    path: ../../assets/companies/burberry/logo/logo.webp
+    path: ../../assets/companies/burberry/profile/burberry-logo.webp
     alt: Burberry logo
     width: 1188
     height: 1188
@@ -106,6 +106,7 @@ logo:
   preview: logo-preview.webp
   width: 1188
   height: 1188
+marketing_order: 98
 ---
 
 # Burberry
@@ -125,36 +126,36 @@ logo:
 
 ## Overview
 
-Burberry Group plc is a British luxury fashion house founded in 1856 by Thomas Burberry in Basingstoke, Hampshire, and headquartered in London. The company is listed on the London Stock Exchange and is a constituent of the FTSE 100 Index. Burberry is best known for the trench coat — developed from British military outerwear during the First World War — and for the Burberry Check, a camel, black, red, and white check pattern that became one of the most recognised branded surface patterns in the world. Gabardine fabric, invented by Thomas Burberry in 1879 (yarn waterproofed before weaving), underpins the brand's material heritage. After a period of brand overexposure and counterfeit proliferation (2001–2005), a deliberate luxury repositioning under CEO Angela Ahrendts and Creative Director Christopher Bailey reduced the check to 10% of products. As of FY2026, Burberry operates 410 stores globally; a cost-cutting programme and workforce reduction of up to 1,700 are ongoing under CEO Joshua Schulman (appointed July 2024).
+Burberry Group plc is a British luxury fashion house founded in 1856 by Thomas Burberry in Basingstoke, Hampshire, and headquartered in London. The company is listed on the London Stock Exchange and is a constituent of the FTSE 100 Index. Burberry is best known for the trench coat - developed from British military outerwear during the First World War - and for the Burberry Check, a camel, black, red, and white check pattern that became one of the most recognised branded surface patterns in the world. Gabardine fabric, invented by Thomas Burberry in 1879 (yarn waterproofed before weaving), underpins the brand's material heritage. After a period of brand overexposure and counterfeit proliferation (2001-2005), a deliberate luxury repositioning under CEO Angela Ahrendts and Creative Director Christopher Bailey reduced the check to 10% of products. As of FY2026, Burberry operates 410 stores globally; a cost-cutting programme and workforce reduction of up to 1,700 are ongoing under CEO Joshua Schulman (appointed July 2024).
 
-Burberry's design has cycled through three distinct creative eras since 2001. Christopher Bailey (2001–2018) modernised the brand's British heritage references and established its digital leadership. Riccardo Tisci (2018–2022) introduced a darker, streetwear-adjacent aesthetic with the TB Monogram and Peter Saville–designed rebrand (2018). Daniel Lee (from September 2022), formerly of Bottega Veneta, revived the Equestrian Knight logo (February 2023) and repositioned the brand toward "a modern take on British luxury" — using distinctly British cultural figures (Shygirl, Skepta, Kano) as campaign faces. The current Schulman-era turnaround (from November 2024) refocuses commercial priorities on outerwear and core accessories, including a "scarf bar" retail format.
+Burberry's design has cycled through three distinct creative eras since 2001. Christopher Bailey (2001-2018) modernised the brand's British heritage references and established its digital leadership. Riccardo Tisci (2018-2022) introduced a darker, streetwear-adjacent aesthetic with the TB Monogram and Peter Saville-designed rebrand (2018). Daniel Lee (from September 2022), formerly of Bottega Veneta, revived the Equestrian Knight logo (February 2023) and repositioned the brand toward "a modern take on British luxury" - using distinctly British cultural figures (Shygirl, Skepta, Kano) as campaign faces. The current Schulman-era turnaround (from November 2024) refocuses commercial priorities on outerwear and core accessories, including a "scarf bar" retail format.
 
 ## History
 
 - **Founded:** 1856, Basingstoke, Hampshire, England (Thomas Burberry)
 - **Headquarters:** London, England
 - **Listed:** London Stock Exchange (LSE); FTSE 100 constituent; IPO July 2002
-- **Previous owner:** Great Universal Stores (GUS) 1955–2005
+- **Previous owner:** Great Universal Stores (GUS) 1955-2005
 - **UK manufacturing:** Castleford (raincoats) and Keighley (as of July 2012)
 - **Stores (FY2026):** 410 globally (closed 21, opened 9 in fiscal year 2026)
 - **CEO:** Joshua Schulman (from July 2024; replaced Jonathan Akeroyd)
 - **Chief Creative Officer:** Daniel Lee (from September 2022; replaced Riccardo Tisci)
-- **Previous CCOs:** Riccardo Tisci (2018–2022); Christopher Bailey (2001–2018)
-- **Logo:** Equestrian Knight (1901 origin; 1999–2018; revived February 2023); TB Monogram (2018–2023, designed by Peter Saville)
+- **Previous CCOs:** Riccardo Tisci (2018-2022); Christopher Bailey (2001-2018)
+- **Logo:** Equestrian Knight (1901 origin; 1999-2018; revived February 2023); TB Monogram (2018-2023, designed by Peter Saville)
 - **Trademark:** Burberry Check (camel/black/red/white); registered; subject to active IP litigation
 
 ## Products
 
-- **Trench coats** — flagship product category; gabardine construction; Castleford UK manufacturing; Schulman turnaround refocuses on this category
-- **Outerwear** — coats and jackets
-- **Ready-to-wear** — men's and women's
-- **Leather accessories** — bags, small leather goods (tote bag viral moment via Succession, March 2023: +310% Google searches)
-- **Footwear** — men's and women's
-- **Scarves** — check and non-check; "scarf bar" retail concept introduced November 2024
-- **Fragrance and beauty** — taken back in-house by Ahrendts/Bailey; "Mr Burberry" fragrance launched 2016
-- **Burberry Acoustic** — music platform championing emerging artists (established under Christopher Bailey's tenure)
+- **Trench coats** - flagship product category; gabardine construction; Castleford UK manufacturing; Schulman turnaround refocuses on this category
+- **Outerwear** - coats and jackets
+- **Ready-to-wear** - men's and women's
+- **Leather accessories** - bags, small leather goods (tote bag viral moment via Succession, March 2023: +310% Google searches)
+- **Footwear** - men's and women's
+- **Scarves** - check and non-check; "scarf bar" retail concept introduced November 2024
+- **Fragrance and beauty** - taken back in-house by Ahrendts/Bailey; "Mr Burberry" fragrance launched 2016
+- **Burberry Acoustic** - music platform championing emerging artists (established under Christopher Bailey's tenure)
 
-Gabardine: the brand's founding material innovation — waterproofed yarn before weaving produces a hardwearing, water-resistant, breathable fabric.
+Gabardine: the brand's founding material innovation - waterproofed yarn before weaving produces a hardwearing, water-resistant, breathable fabric.
 
 ## Services
 
@@ -162,7 +163,7 @@ Burberry distributes through 410 owned and operated stores globally (FY2026), wi
 
 ## Markets
 
-Burberry occupies the upper tier of the accessible luxury-to-luxury segment in British heritage fashion. Its most distinctive market position stems from the Burberry Check as a globally recognised branded surface pattern — a double-edged asset that drove both international licensing success (Japan: Sanyo-shokai, ~€435M retail value in 2005) and brand dilution risk (counterfeit proliferation, "chav" association, 2001–2005). The Ahrendts/Bailey repositioning (post-2006) deliberately restricted check exposure to restore exclusivity. Current CEO Joshua Schulman's turnaround (from late 2024) refocuses on core outerwear and trench coats and introduced a "scarf bar" retail concept. FY2026 results showed continued store rationalisation. A profit warning in July 2024 caused shares to fall 15%; a November 2024 cost-cutting plan raised shares 16%.
+Burberry occupies the upper tier of the accessible luxury-to-luxury segment in British heritage fashion. Its most distinctive market position stems from the Burberry Check as a globally recognised branded surface pattern - a double-edged asset that drove both international licensing success (Japan: Sanyo-shokai, ~€435M retail value in 2005) and brand dilution risk (counterfeit proliferation, "chav" association, 2001-2005). The Ahrendts/Bailey repositioning (post-2006) deliberately restricted check exposure to restore exclusivity. Current CEO Joshua Schulman's turnaround (from late 2024) refocuses on core outerwear and trench coats and introduced a "scarf bar" retail concept. FY2026 results showed continued store rationalisation. A profit warning in July 2024 caused shares to fall 15%; a November 2024 cost-cutting plan raised shares 16%.
 
 ## Pattern and Surface Design Relevance
 
@@ -170,15 +171,15 @@ The **Burberry Check** is the defining surface design asset of the brand and one
 
 - In use as a trench coat lining since at least the 1920s; camel, black, red, and white colourway
 - Registered trademark; the subject of a 2018 lawsuit against Target Corporation ($2M damages sought) for copying the check print design
-- The pattern's international licensing — notably in Japan (Sanyo-shokai, ~€435M retail value, 2005) — is a direct example of surface pattern design generating significant commercial value through licensing
-- Brand dilution by counterfeit goods and lower-priced licensed products led Ahrendts/Bailey to deliberately remove the check from 90% of products post-2006 — a documented strategic case study in pattern licensing risk management
+- The pattern's international licensing - notably in Japan (Sanyo-shokai, ~€435M retail value, 2005) - is a direct example of surface pattern design generating significant commercial value through licensing
+- Brand dilution by counterfeit goods and lower-priced licensed products led Ahrendts/Bailey to deliberately remove the check from 90% of products post-2006 - a documented strategic case study in pattern licensing risk management
 - The Burberry Check appeared on an AEW wrestling championship belt (November 2022) as a pop culture crossover confirming its recognition beyond fashion
 
-**TB Monogram** (2018–2023): interlocking T and B letters designed by graphic designer Peter Saville, introduced by Riccardo Tisci. An example of monogram-as-surface-pattern used across accessories.
+**TB Monogram** (2018-2023): interlocking T and B letters designed by graphic designer Peter Saville, introduced by Riccardo Tisci. An example of monogram-as-surface-pattern used across accessories.
 
 **Equestrian Knight logo** (1901, trademarked 1909): revived in February 2023 under Daniel Lee; a heraldic brand mark with historical depth.
 
-**Gabardine**: the brand's proprietary fabric innovation (1879) as a material surface treatment — a waterproofed, breathable woven fabric that defines the texture and hand of the trench coat.
+**Gabardine**: the brand's proprietary fabric innovation (1879) as a material surface treatment - a waterproofed, breathable woven fabric that defines the texture and hand of the trench coat.
 
 ## Official Resources
 

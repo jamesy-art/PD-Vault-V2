@@ -3,7 +3,7 @@ name: Sketch Pattern
 slug: sketch-pattern
 status: active
 type_group: technique
-summary: Surface pattern aesthetic using the visual qualities of hand-drawn sketching — pencil, pen, or ink line work with visible mark-making — as a defining design characteristic.
+summary: Surface pattern aesthetic using the visual qualities of hand-drawn sketching - pencil, pen, or ink line work with visible mark-making - as a defining design characteristic.
 motifs: []
 structures: []
 styles: []
@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 43
 ---
 
 # Sketch Pattern
@@ -122,15 +123,15 @@ A surface pattern type defined by the visual aesthetic of hand-drawn sketching: 
 
 ## Overview
 
-Sketch patterns use the visual language of drawing — visible line marks, hatching, cross-hatching, shading strokes, and the characteristic looseness or precision of freehand work — as the defining aesthetic of the surface design. The sketch quality signals craft, spontaneity, and an art-directed hand-made sensibility, differentiating the design from flat vector or photographic surface treatments. Motifs may be drawn from any subject matter: botanicals, animals, geometric forms, conversational subjects, figures, or abstract mark-making. The defining characteristic is the visibility and quality of the drawn mark itself as part of the design language.
+Sketch patterns use the visual language of drawing - visible line marks, hatching, cross-hatching, shading strokes, and the characteristic looseness or precision of freehand work - as the defining aesthetic of the surface design. The sketch quality signals craft, spontaneity, and an art-directed hand-made sensibility, differentiating the design from flat vector or photographic surface treatments. Motifs may be drawn from any subject matter: botanicals, animals, geometric forms, conversational subjects, figures, or abstract mark-making. The defining characteristic is the visibility and quality of the drawn mark itself as part of the design language.
 
 ## Visual Characteristics
 
-Sketch patterns retain the visual evidence of the drawing process: line weight variation (thicker strokes under pressure, thinner feathered lines), hatching and cross-hatching for tonal areas, uneven or organic outlines, pencil texture, and sometimes visible corrections or reworking. Line quality ranges from controlled and precise (technical illustration style) to loose and gestural (croquis or rapid sketchbook style). Monochrome — black or grey marks on white — is the most common palette, though coloured line on white or tinted grounds is also used. Negative space (undrawn areas) is as important as the marks themselves: well-composed sketch patterns use white space deliberately for balance and rhythm.
+Sketch patterns retain the visual evidence of the drawing process: line weight variation (thicker strokes under pressure, thinner feathered lines), hatching and cross-hatching for tonal areas, uneven or organic outlines, pencil texture, and sometimes visible corrections or reworking. Line quality ranges from controlled and precise (technical illustration style) to loose and gestural (croquis or rapid sketchbook style). Monochrome - black or grey marks on white - is the most common palette, though coloured line on white or tinted grounds is also used. Negative space (undrawn areas) is as important as the marks themselves: well-composed sketch patterns use white space deliberately for balance and rhythm.
 
 ## Pattern Structure
 
-Sketch patterns use the full range of surface pattern repeat structures. Tossed repeats suit loose sketched all-overs with multiple illustrated elements. Half-drop and full-drop layouts work well for more formally composed sketch motifs. Seamless construction requires that the illustrated edges of the repeat tile align precisely — a particular consideration for sketch patterns since the organic line quality makes seams more visible if not carefully handled.
+Sketch patterns use the full range of surface pattern repeat structures. Tossed repeats suit loose sketched all-overs with multiple illustrated elements. Half-drop and full-drop layouts work well for more formally composed sketch motifs. Seamless construction requires that the illustrated edges of the repeat tile align precisely - a particular consideration for sketch patterns since the organic line quality makes seams more visible if not carefully handled.
 
 A pattern collection built around a sketch aesthetic typically includes:
 - A hero pattern: complex tossed repeat with many elements
@@ -152,7 +153,7 @@ Monochrome is the core palette: black on white, sepia on cream, white on dark gr
 
 ## History and Context
 
-The sketch as an art form has documented use from ancient Egypt (gridded sketches for proportion, c.1479–1458 BCE) through the Renaissance (Leonardo da Vinci, Michelangelo) and every subsequent era. The sketchbook as a working tool — used by artists from Degas to Cézanne — became part of the cultural image of artistic practice. In industrial design and product design, sketching is standard ideation methodology; fashion design relies on the croquis (figure sketch) as a communication tool. The sketch aesthetic in surface pattern design draws on all these associations, positioning illustrated patterns as high-craft and design-informed relative to photographic or fully digital alternatives.
+The sketch as an art form has documented use from ancient Egypt (gridded sketches for proportion, c.1479-1458 BCE) through the Renaissance (Leonardo da Vinci, Michelangelo) and every subsequent era. The sketchbook as a working tool - used by artists from Degas to Cézanne - became part of the cultural image of artistic practice. In industrial design and product design, sketching is standard ideation methodology; fashion design relies on the croquis (figure sketch) as a communication tool. The sketch aesthetic in surface pattern design draws on all these associations, positioning illustrated patterns as high-craft and design-informed relative to photographic or fully digital alternatives.
 
 Digitally, the sketch aesthetic is replicated through specialist illustration software brushes (Procreate pencil and pen brushes, Photoshop sketch brushes) and by scanning hand-drawn originals. The hand-drawn surface pattern market was particularly active from 2010 onwards as print-on-demand platforms made hand-drawn work commercially viable at small scale.
 
@@ -168,12 +169,12 @@ Digitally, the sketch aesthetic is replicated through specialist illustration so
 
 ## Related Pattern Types
 
-- [[Watercolor Pattern]]
-- [[Botanical Pattern]]
-- [[Fine Line Pattern]]
-- [[Stipple Pattern]]
-- [[Illustrative Pattern]]
-- [[Conversational Pattern]]
+- Watercolor Pattern
+- Botanical Pattern
+- Fine Line Pattern
+- Stipple Pattern
+- Illustrative Pattern
+- Conversational Pattern
 
 ## Source Notes
 

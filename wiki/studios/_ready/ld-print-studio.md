@@ -42,6 +42,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 556
 ---
 # LD Print Studio
 
@@ -70,7 +71,7 @@ LD Print Studio is the independent design practice of freelance designer Leonie 
 
 ## Studio Style and Aesthetic
 
-The portfolio shows a range from soft, hand-painted botanical studies (loose gouache-style florals in muted pink and rust) to bold, high-contrast statement florals in saturated colorways — yellow-on-brown, blue-and-yellow, and blue-on-chocolate. Linework tends toward graphic outlines over painterly blending in the bolder pieces, consistent with the studio's description of its prints as "innovative, distinctive, and designed to make a statement."
+The portfolio shows a range from soft, hand-painted botanical studies (loose gouache-style florals in muted pink and rust) to bold, high-contrast statement florals in saturated colorways - yellow-on-brown, blue-and-yellow, and blue-on-chocolate. Linework tends toward graphic outlines over painterly blending in the bolder pieces, consistent with the studio's description of its prints as "innovative, distinctive, and designed to make a statement."
 
 ## Markets and Specialties
 

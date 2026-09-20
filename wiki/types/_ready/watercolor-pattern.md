@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 115
 ---
 
 # Watercolor Pattern
@@ -122,14 +123,14 @@ A surface pattern type defined by the visual aesthetic of watercolour painting: 
 
 ## Overview
 
-Watercolour patterns translate the characteristic properties of watercolour painting — transparency, fluid colour blending, and organic mark-making — into repeating surface designs for textiles, wallpaper, stationery, and gifting. The medium's distinctive appearance (soft-edged motifs, visible water blooms, layered washes) translates well into repeat pattern construction, where the hand-painted quality adds perceived craft value and visual warmth. Designs may be painted by hand and then scanned for digitisation, or created digitally using software brushes that simulate watercolour effects. Both approaches are used commercially, though hand-painted originals carry additional authentication for premium licensing contexts.
+Watercolour patterns translate the characteristic properties of watercolour painting - transparency, fluid colour blending, and organic mark-making - into repeating surface designs for textiles, wallpaper, stationery, and gifting. The medium's distinctive appearance (soft-edged motifs, visible water blooms, layered washes) translates well into repeat pattern construction, where the hand-painted quality adds perceived craft value and visual warmth. Designs may be painted by hand and then scanned for digitisation, or created digitally using software brushes that simulate watercolour effects. Both approaches are used commercially, though hand-painted originals carry additional authentication for premium licensing contexts.
 
 ## Visual Characteristics
 
 The defining visual properties of watercolour as applied to surface pattern:
 
 - **Transparency and layering:** Multiple glazes of diluted pigment build depth, with underlying washes visible through each successive layer. This produces luminous, complex colour without opacity.
-- **Bleeding and feathering:** Soft, blurred edges where wet paint expands into moistened areas. The wet-on-wet technique produces distinctive "blooms" — outward-spreading halos of lighter or differently coloured pigment.
+- **Bleeding and feathering:** Soft, blurred edges where wet paint expands into moistened areas. The wet-on-wet technique produces distinctive "blooms" - outward-spreading halos of lighter or differently coloured pigment.
 - **Granulation:** A mottled or grainy texture resulting from heavier pigments settling into the texture of the paper surface. Creates visual depth and variation across flat colour areas.
 - **Brushwork:** Visible marks from bristles convey a hand-made, artisanal quality. Dry brush technique produces rough, broken marks emphasising paper texture; wet brush produces smooth washes.
 - **Soft edges vs. hard edges:** Wet-on-wet produces indistinct edges; wet-on-dry (pigment applied to dry paper) produces crisper definition. Combination of both within a single motif is characteristic.
@@ -157,13 +158,13 @@ Watercolour techniques are applied across many motif categories, but some are pa
 
 ## Colour and Style
 
-Watercolour patterns typically use transparent, luminous palettes where colours are built from layering rather than mixing to opacity. Soft pastels, earthy neutrals, and delicate botanical greens are commercially prevalent. Deeper, more saturated watercolour effects require denser pigment application or multiple glazing layers. The transparency of the medium means white areas are typically the paper itself (or the white fabric/substrate), not a painted white — this produces a characteristic freshness and lightness.
+Watercolour patterns typically use transparent, luminous palettes where colours are built from layering rather than mixing to opacity. Soft pastels, earthy neutrals, and delicate botanical greens are commercially prevalent. Deeper, more saturated watercolour effects require denser pigment application or multiple glazing layers. The transparency of the medium means white areas are typically the paper itself (or the white fabric/substrate), not a painted white - this produces a characteristic freshness and lightness.
 
-Gouache — the opaque variant of watercolour — produces a related but distinct visual result: flat, matte colour with crisp edges, without the transparency and bleed characteristic of traditional watercolour.
+Gouache - the opaque variant of watercolour - produces a related but distinct visual result: flat, matte colour with crisp edges, without the transparency and bleed characteristic of traditional watercolour.
 
 ## History and Context
 
-Watercolour as a painting medium has a documented commercial history from at least the late 18th century. William Reeves (c.1766) was an early commercial producer of watercolour paints in England, awarded recognition by the Society of Arts in 1781 for the moist watercolour paint-cake. The "golden age" of English watercolour painting (late 18th–19th century) established watercolour as a fine art medium with a distinct technical vocabulary. The characteristic transparency of watercolour is a product of the medium's gum arabic binder and pigment particle behaviour on paper.
+Watercolour as a painting medium has a documented commercial history from at least the late 18th century. William Reeves (c.1766) was an early commercial producer of watercolour paints in England, awarded recognition by the Society of Arts in 1781 for the moist watercolour paint-cake. The "golden age" of English watercolour painting (late 18th-19th century) established watercolour as a fine art medium with a distinct technical vocabulary. The characteristic transparency of watercolour is a product of the medium's gum arabic binder and pigment particle behaviour on paper.
 
 In surface pattern design, the watercolour aesthetic became commercially dominant from the 2000s onwards as digital scanning and pattern-building tools made it practical to translate hand-painted originals into production-ready repeats. The visual warmth and craft associations of the style sustained strong commercial demand across licensing, print-on-demand, and brand collaboration markets through the 2010s and 2020s.
 
@@ -179,17 +180,17 @@ In surface pattern design, the watercolour aesthetic became commercially dominan
 
 ## Related Pattern Types
 
-- [[Botanical Pattern]]
-- [[Floral Pattern]]
-- [[Sketch Pattern]]
-- [[Gouache Pattern]]
-- [[Painterly Pattern]]
-- [[Abstract Pattern]]
+- Botanical Pattern
+- Floral Pattern
+- Sketch Pattern
+- Gouache Pattern
+- Painterly Pattern
+- Abstract Pattern
 
 ## Source Notes
 
 - Source 1 (watercolor-pattern-design article): defines watercolour pattern as hand-painted motifs with transparent colour transitions, bleeding edges, and granulation; layout types: seamless repeat, tossed/scatter, placement prints; wet-on-wet and wet-on-dry techniques documented
-- Source 2 (Wikipedia: Watercolor Painting): detailed treatment of medium properties — gum arabic binder, transparency mechanism, wash/glazing/lifting/dry-brush techniques, commercial paint history (William Reeves c.1766, Society of Arts Silver Palette 1781); gouache contrast noted
+- Source 2 (Wikipedia: Watercolor Painting): detailed treatment of medium properties - gum arabic binder, transparency mechanism, wash/glazing/lifting/dry-brush techniques, commercial paint history (William Reeves c.1766, Society of Arts Silver Palette 1781); gouache contrast noted
 
 ---
 

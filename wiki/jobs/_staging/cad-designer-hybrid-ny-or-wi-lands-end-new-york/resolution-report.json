@@ -1,0 +1,59 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-fa03e8a8847530ca",
+  "canonical_id": "can-clip-fa03e8a8847530ca",
+  "canonical_path": "wiki/jobs/_staging/cad-designer-hybrid-ny-or-wi-lands-end-new-york",
+  "resolved": [
+    "software:Adobe Photoshop",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United States",
+    "location:New York"
+  ],
+  "needs_review": [
+    "company:Lands' End",
+    "software:Adobe Creative Suite",
+    "software:Kaledo",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:Presentation",
+    "skills:Hand Painting",
+    "skills:Communication",
+    "skills:Teamwork",
+    "skills:Problem Solving",
+    "skills:Expert color sense.",
+    "skills:Familiarity of MIRO work space.",
+    "skills:Excellent collaboration and creative problem-solving skills.",
+    "skills:Physical Requirements",
+    "skills:Ability to travel as needed.",
+    "skills:Education & Experience Requirements",
+    "skills:CAD Designer (Hybrid NY or WI)",
+    "skills:Lands' End\")",
+    "skills:Design & Creative",
+    "skills:Date Posted:",
+    "skills:Jul 20, 2026"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 7,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 59,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 61,
+  "resolution_quality": 25,
+  "message": "Resolved"
+}

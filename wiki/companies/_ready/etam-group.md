@@ -32,6 +32,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-01'
 enrichment_status: enriched
+marketing_order: 11
 ---
 
 # Etam Group
@@ -44,7 +45,7 @@ enrichment_status: enriched
 
 The Etam Group is a French family-owned fashion company, currently led by Pierre and Laurent Milchior. The group describes itself as "one hundred years old, still family-owned and independent," positioning its longevity as a commercial differentiator. It operates in the lingerie, fashion, and swimwear segments through five brands: Etam, Maison 123, Undiz, Livy, and Ysé. The group has an omnichannel presence across more than 1,300 stores in 57 countries.
 
-No specific creative director or designer is named in the source material. The group's stated ethos is built around "singularity" — both of the brand and the customer — and a commitment to "innovative and creative lingerie." This framing implies an active design agenda rather than commodity production, but no named design leadership or documented aesthetic direction is available from the source.
+No specific creative director or designer is named in the source material. The group's stated ethos is built around "singularity" - both of the brand and the customer - and a commitment to "innovative and creative lingerie." This framing implies an active design agenda rather than commodity production, but no named design leadership or documented aesthetic direction is available from the source.
 
 ## History
 
@@ -54,11 +55,11 @@ The group also operates WeDareLab, described as a "tailor-made acceleration prog
 
 ## Products
 
-- **Etam** — womenswear and lingerie; the group's primary brand
-- **Maison 123** — contemporary womenswear
-- **Undiz** — accessible lingerie and underwear
-- **Livy** — elevated lingerie (inferred from brand portfolio positioning)
-- **Ysé** — specialist lingerie brand
+- **Etam** - womenswear and lingerie; the group's primary brand
+- **Maison 123** - contemporary womenswear
+- **Undiz** - accessible lingerie and underwear
+- **Livy** - elevated lingerie (inferred from brand portfolio positioning)
+- **Ysé** - specialist lingerie brand
 
 The group also operates in swimwear through its brands, as evidenced by WeDareLab's focus on "lingerie and swimwear brands."
 
@@ -72,7 +73,7 @@ With 1,300+ stores across 57 countries, the Etam Group has significant internati
 
 ## Pattern and Surface Design Relevance
 
-Lingerie and intimate apparel are print-intensive product categories at every market tier, from commodity basics to luxury. The Etam Group's multi-brand lingerie portfolio — spanning accessible (Undiz) to elevated (Livy, Ysé) — requires seasonal print, lace pattern, and textile surface design decisions across all brands. Swimwear, also within the group's scope, is one of the most print-driven commercial fashion categories. WeDareLab, the group's acceleration programme for young lingerie and swimwear brands, creates a documented pipeline through which new surface pattern approaches in these categories can enter the group's commercial orbit.
+Lingerie and intimate apparel are print-intensive product categories at every market tier, from commodity basics to luxury. The Etam Group's multi-brand lingerie portfolio - spanning accessible (Undiz) to elevated (Livy, Ysé) - requires seasonal print, lace pattern, and textile surface design decisions across all brands. Swimwear, also within the group's scope, is one of the most print-driven commercial fashion categories. WeDareLab, the group's acceleration programme for young lingerie and swimwear brands, creates a documented pipeline through which new surface pattern approaches in these categories can enter the group's commercial orbit.
 
 ## Official Resources
 

@@ -34,6 +34,7 @@ logo_type: icon
 created: '2026-06-11'
 updated: '2026-08-01'
 enrichment_status: enriched
+marketing_order: 6
 ---
 
 # Kontoor Brands
@@ -50,18 +51,18 @@ No named group-level creative director is documented in the available source. De
 
 ## History
 
-Kontoor was created when VF Corporation separated its jeanswear brands from its broader portfolio — which included The North Face, Timberland, and Vans — in May 2019. The Lee and Wrangler brands were the core rationale for the spin-off; both are heritage American denim brands with substantial mass-market and wholesale distribution. Helly Hansen (outdoor technical apparel, originating from Norway) was also placed within the Kontoor structure at spin-off. The Lee Jeans sale to Authentic Brands Group (announced May 2026) will significantly change the company's portfolio composition, leaving Wrangler and Helly Hansen as the primary brand assets.
+Kontoor was created when VF Corporation separated its jeanswear brands from its broader portfolio - which included The North Face, Timberland, and Vans - in May 2019. The Lee and Wrangler brands were the core rationale for the spin-off; both are heritage American denim brands with substantial mass-market and wholesale distribution. Helly Hansen (outdoor technical apparel, originating from Norway) was also placed within the Kontoor structure at spin-off. The Lee Jeans sale to Authentic Brands Group (announced May 2026) will significantly change the company's portfolio composition, leaving Wrangler and Helly Hansen as the primary brand assets.
 
 ## Products
 
-- **Wrangler** — jeans and casual apparel; western and workwear heritage; men's, women's, and youth
-- **Lee** — jeans and casual apparel; heritage American brand; to be sold to Authentic Brands Group (announced May 2026, $750M + performance payments)
-- **Helly Hansen** — technical outdoor apparel, footwear, and accessories; Norwegian heritage brand
-- **VF Outlet** — factory outlet stores carrying Kontoor and VF-adjacent branded product
+- **Wrangler** - jeans and casual apparel; western and workwear heritage; men's, women's, and youth
+- **Lee** - jeans and casual apparel; heritage American brand; to be sold to Authentic Brands Group (announced May 2026, $750M + performance payments)
+- **Helly Hansen** - technical outdoor apparel, footwear, and accessories; Norwegian heritage brand
+- **VF Outlet** - factory outlet stores carrying Kontoor and VF-adjacent branded product
 
 ## Services
 
-Kontoor distributes primarily through mass-market US retail (Walmart, Target, major department stores) for Lee and Wrangler. Helly Hansen distributes through outdoor specialty retail and direct channels. The VF Outlet chain provides a direct factory outlet channel. The Lee brand sale to Authentic Brands Group (May 2026) follows the ABG model of acquiring heritage brand IP and managing it through a licensing-and-partnerships model — consistent with ABG's acquisitions of Champion (from Hanesbrands), Reebok, and other heritage apparel brands.
+Kontoor distributes primarily through mass-market US retail (Walmart, Target, major department stores) for Lee and Wrangler. Helly Hansen distributes through outdoor specialty retail and direct channels. The VF Outlet chain provides a direct factory outlet channel. The Lee brand sale to Authentic Brands Group (May 2026) follows the ABG model of acquiring heritage brand IP and managing it through a licensing-and-partnerships model - consistent with ABG's acquisitions of Champion (from Hanesbrands), Reebok, and other heritage apparel brands.
 
 ## Markets
 
@@ -73,7 +74,7 @@ Kontoor's brands operate in the denim and workwear category, where surface finis
 
 **Denim surface finish** is central to Lee and Wrangler's product development: stonewash, acid wash, bleach, sandblasting, and laser finishing techniques produce the surface texture and tonal variation that differentiate denim SKUs. These are applied surface design decisions that directly affect the garment's visual and tactile identity.
 
-**Wrangler's western and workwear heritage** includes products with embroidered detailing, printed western motifs, and branded graphic applications — surface design categories that are commercially significant in the country, western, and workwear markets.
+**Wrangler's western and workwear heritage** includes products with embroidered detailing, printed western motifs, and branded graphic applications - surface design categories that are commercially significant in the country, western, and workwear markets.
 
 **Helly Hansen** operates in the technical outdoor category, where surface treatments (DWR coatings, reflective panels, colourblock constructions) and pattern markings (safety, visibility, branding) are applied surface design decisions. Helly Hansen's apparel also features seasonal colourways and graphic identity applied across technical fabrics.
 

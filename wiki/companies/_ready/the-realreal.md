@@ -60,6 +60,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 40
 ---
 
 # The RealReal
@@ -70,7 +71,7 @@ enrichment_status: enriched
 
 ## Overview
 
-The RealReal, Inc. is an American online marketplace for the authenticated resale of luxury goods, founded in 2011 by e-commerce entrepreneur Julie Wainwright. The company operates as a full-service authenticated luxury consignment platform — handling authentication, AI-assisted pricing, photography, listing, shipping, and customer service on behalf of sellers. As of September 2023, the platform had more than 38 million members and had sold nearly 40 million items. The RealReal went public on Nasdaq in June 2019 (symbol REAL), raising $300 million in its IPO. After financial losses through 2022–2023, the company announced full-year profitability at the end of 2024. Rati Sahi Levesque, the company's second employee and co-founder, was appointed CEO in October 2024.
+The RealReal, Inc. is an American online marketplace for the authenticated resale of luxury goods, founded in 2011 by e-commerce entrepreneur Julie Wainwright. The company operates as a full-service authenticated luxury consignment platform - handling authentication, AI-assisted pricing, photography, listing, shipping, and customer service on behalf of sellers. As of September 2023, the platform had more than 38 million members and had sold nearly 40 million items. The RealReal went public on Nasdaq in June 2019 (symbol REAL), raising $300 million in its IPO. After financial losses through 2022-2023, the company announced full-year profitability at the end of 2024. Rati Sahi Levesque, the company's second employee and co-founder, was appointed CEO in October 2024.
 
 The RealReal has no proprietary design function. The platform's visual identity is defined by editorial presentation of authenticated luxury goods rather than any design direction of its own. The Stella McCartney sustainability partnership represents the closest alignment with a specific design philosophy.
 
@@ -80,24 +81,24 @@ The RealReal was founded in 2011 by Julie Wainwright. By July 2018, the company 
 
 ## Products
 
-Designer and luxury resale across apparel (womenswear, menswear, kidswear), footwear, handbags, accessories, jewellery, watches, home décor, and eyewear. Inventory is drawn from the full spectrum of luxury fashion — from accessible premium brands to ultra-luxury (Hermès, Chanel, Dior, etc.). Sellers have five engagement options: in-home pickup, boutique drop-off, luxury expert meetings, and direct shipping. Buyers can purchase without membership; since 2021, anyone can buy secondhand items from the site.
+Designer and luxury resale across apparel (womenswear, menswear, kidswear), footwear, handbags, accessories, jewellery, watches, home décor, and eyewear. Inventory is drawn from the full spectrum of luxury fashion - from accessible premium brands to ultra-luxury (Hermès, Chanel, Dior, etc.). Sellers have five engagement options: in-home pickup, boutique drop-off, luxury expert meetings, and direct shipping. Buyers can purchase without membership; since 2021, anyone can buy secondhand items from the site.
 
 ## Services
 
-The RealReal operates through e-commerce and 17 Luxury Consignment Offices in the United States, 14 of which function as browsable retail environments. No manufacturing, licensing, or wholesale operation. The business model is commission-based consignment with full-service handling. The company does not produce, design, or license apparel or accessories. Authentication disputes with luxury brands — most prominently Chanel — represent ongoing legal exposure in the luxury resale context.
+The RealReal operates through e-commerce and 17 Luxury Consignment Offices in the United States, 14 of which function as browsable retail environments. No manufacturing, licensing, or wholesale operation. The business model is commission-based consignment with full-service handling. The company does not produce, design, or license apparel or accessories. Authentication disputes with luxury brands - most prominently Chanel - represent ongoing legal exposure in the luxury resale context.
 
 ## Markets
 
-The RealReal is the largest platform for authenticated luxury resale in the United States. Its competitive positioning rests on authentication credibility — using AI and machine learning for pricing alongside human expert authentication — and the breadth of luxury brand inventory. This authentication model has also been the source of significant legal and reputational challenge: Chanel filed suit in 2018 alleging counterfeit goods and misleading claims of brand affiliation; Forbes investigations in 2019 and 2021 documented specific counterfeit incidents; and a class action lawsuit in 2020 alleged that authenticators received minimal training and faced quotas that allowed counterfeits through. The company maintains that it operates "the most rigorous authentication process in the marketplace."
+The RealReal is the largest platform for authenticated luxury resale in the United States. Its competitive positioning rests on authentication credibility - using AI and machine learning for pricing alongside human expert authentication - and the breadth of luxury brand inventory. This authentication model has also been the source of significant legal and reputational challenge: Chanel filed suit in 2018 alleging counterfeit goods and misleading claims of brand affiliation; Forbes investigations in 2019 and 2021 documented specific counterfeit incidents; and a class action lawsuit in 2020 alleged that authenticators received minimal training and faced quotas that allowed counterfeits through. The company maintains that it operates "the most rigorous authentication process in the marketplace."
 
 ## Pattern and Surface Design Relevance
 
 The RealReal functions as a resale circulation platform for luxury fashion, not a producer or commissioner of surface pattern design. Its relevance to the SPD ecosystem is indirect but commercially significant:
 
-- **Circulation of luxury printed and patterned goods**: The platform's inventory spans authenticated luxury fashion with high pattern design value — Hermès scarves, Chanel tweed jackets, printed Dior dresses, Louis Vuitton monogram accessories — circulating high-value surface pattern design work through the secondary market at scale.
-- **Authentication of pattern-identifying luxury goods**: The platform's authentication function requires detailed knowledge of brand-specific pattern vocabulary — Chanel's distinctive weave, Hermès print identifiers, Louis Vuitton canvas pattern details — to distinguish authentic from counterfeit. This positions pattern recognition as a core operational competency.
+- **Circulation of luxury printed and patterned goods**: The platform's inventory spans authenticated luxury fashion with high pattern design value - Hermès scarves, Chanel tweed jackets, printed Dior dresses, Louis Vuitton monogram accessories - circulating high-value surface pattern design work through the secondary market at scale.
+- **Authentication of pattern-identifying luxury goods**: The platform's authentication function requires detailed knowledge of brand-specific pattern vocabulary - Chanel's distinctive weave, Hermès print identifiers, Louis Vuitton canvas pattern details - to distinguish authentic from counterfeit. This positions pattern recognition as a core operational competency.
 - **Home décor category**: The resale home décor category includes interior accessories and decorative objects, extending the platform's surface pattern relevance into interior markets.
-- **Sustainability positioning**: The RealReal's circular economy credentials — 4.68 billion litres of water use avoided, 85,857 metric tonnes of GHG emissions avoided, 40 million+ items kept in circulation — position luxury resale as a sustainability mechanism for fashion consumption, relevant to the broader industry context in which pattern design operates.
+- **Sustainability positioning**: The RealReal's circular economy credentials - 4.68 billion litres of water use avoided, 85,857 metric tonnes of GHG emissions avoided, 40 million+ items kept in circulation - position luxury resale as a sustainability mechanism for fashion consumption, relevant to the broader industry context in which pattern design operates.
 
 ## Official Resources
 

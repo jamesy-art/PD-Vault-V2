@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-fa03e8a8847530ca",
+  "editorial_slug": "cad-designer-hybrid-ny-or-wi-lands-end-new-york",
+  "canonical_id": "can-clip-fa03e8a8847530ca",
+  "capture_id": "cap-clip-fa03e8a8847530ca",
+  "ready_status": "ready",
+  "ready_at": "2026-08-06T00:00:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.355a0790",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "355a0790293430f200efd0c55dfa844565ce00437742545d9c8cf75084017f61",
+  "title": "CAD Designer (Hybrid NY or WI",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 2,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 2,
+    "rewritten_wikilinks": 0
+  }
+}

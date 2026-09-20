@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 566
 ---
 # Niki Park Designs
 
@@ -89,7 +90,7 @@ No client, licensing, or trade-show history is documented.
 
 ## Studio Background
 
-Niki Park (Nicole) is based in Portsmouth, Virginia. She discovered surface pattern design in May 2020 and has worked as a solo designer since, describing her practice as rooted in curiosity and everyday inspiration — coffee shops, nature, and family life.
+Niki Park (Nicole) is based in Portsmouth, Virginia. She discovered surface pattern design in May 2020 and has worked as a solo designer since, describing her practice as rooted in curiosity and everyday inspiration - coffee shops, nature, and family life.
 
 ## Pattern Focus
 
@@ -97,4 +98,4 @@ Conversational novelty prints (cats, yarn, bicycles, typewriters, bison) and dit
 
 ## Connections
 
-- The Pattern Cloud — sourcing and distribution platform
+- The Pattern Cloud - sourcing and distribution platform

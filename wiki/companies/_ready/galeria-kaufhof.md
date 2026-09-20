@@ -58,6 +58,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 107
 ---
 
 # Galeria Kaufhof
@@ -82,7 +83,7 @@ The source material does not detail product categories. As a major German depart
 
 ## Services
 
-Operated as a traditional brick-and-mortar department store retailer with multi-brand stock. Post-merger, Galeria Karstadt Kaufhof continued operating under the galeria.de platform. The Hudson's Bay Company ownership period (2015–2019) connected the business to the HBC group's broader North American and European portfolio.
+Operated as a traditional brick-and-mortar department store retailer with multi-brand stock. Post-merger, Galeria Karstadt Kaufhof continued operating under the galeria.de platform. The Hudson's Bay Company ownership period (2015-2019) connected the business to the HBC group's broader North American and European portfolio.
 
 ## Markets
 
@@ -90,7 +91,7 @@ One of two dominant department store operators in Germany (alongside Karstadt, l
 
 ## Pattern and Surface Design Relevance
 
-German department stores of Galeria Kaufhof's scale are significant distribution channels for fashion brands whose output includes print and pattern — from branded fashion and accessories to home textiles and gifting. The department store format concentrates multiple brand adjacencies and seasonal fashion buying under one roof, making chains like this a high-volume route to market for pattern-driven product categories.
+German department stores of Galeria Kaufhof's scale are significant distribution channels for fashion brands whose output includes print and pattern - from branded fashion and accessories to home textiles and gifting. The department store format concentrates multiple brand adjacencies and seasonal fashion buying under one roof, making chains like this a high-volume route to market for pattern-driven product categories.
 
 The Galeria Inno Belgian network extends this reach across a further Western European market.
 

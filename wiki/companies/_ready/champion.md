@@ -69,6 +69,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 91
 ---
 
 # Champion
@@ -88,11 +89,11 @@ enrichment_status: enriched
 
 Champion (also stylized as Champion U.S.A.) is an American sportswear clothing brand founded in 1919 in Rochester, New York by the Feinbloom Brothers as "Knickerbocker Knitting Company." The company soon signed an agreement with the Michigan Wolverines to produce athletic uniforms. In the 1930s it was renamed "Champion Knitting Mills Inc." and began producing sweatshirts and hoodies, becoming a supplier to the US Military Academy for training and physical education. Champion was acquired by Sara Lee Corporation in 1989. In June 2024, Hanesbrands announced the sale of the Champion brand to Authentic Brands Group for $1.2 billion; the transaction completed October 1, 2024. Champion Teamwear is now operated by Unrivaled Teamwear, a brand partner within the ABG portfolio.
 
-Champion's design language is American athletic — utilitarian construction, clean graphic mark application, and team colour system deployment. The "C" logo and wordmark on chest or sleeve are the primary surface design elements. The brand does not operate a seasonal creative direction; surface design is driven by sports licensing requirements and athletic function.
+Champion's design language is American athletic - utilitarian construction, clean graphic mark application, and team colour system deployment. The "C" logo and wordmark on chest or sleeve are the primary surface design elements. The brand does not operate a seasonal creative direction; surface design is driven by sports licensing requirements and athletic function.
 
 ## History
 
-Champion's most commercially significant period was the 1990s, when it manufactured uniforms for all NBA teams (1990–2004, when Reebok took over) and held NBA merchandise licences for all teams (1990–2002). The brand also held NFL merchandise licences (all teams, 1980s–2000) and manufactured uniforms for some NFL teams through the 1970s–1990s. Champion was the official uniform manufacturer for the US men's Olympic basketball team at the 1992 Summer Olympics. The Notre Dame Fighting Irish wore Champion uniforms for over fifty years until Adidas replaced them in 2001. International sporting clients included Wigan Athletic (Premier League, 2008–09), the Welsh national football team (2008–10), the Greek national basketball team, the Italian national basketball team (1996–2016), and FIBA (until 2017, when Nike took over). Champion currently sponsors the Australian National Basketball League.
+Champion's most commercially significant period was the 1990s, when it manufactured uniforms for all NBA teams (1990-2004, when Reebok took over) and held NBA merchandise licences for all teams (1990-2002). The brand also held NFL merchandise licences (all teams, 1980s-2000) and manufactured uniforms for some NFL teams through the 1970s-1990s. Champion was the official uniform manufacturer for the US men's Olympic basketball team at the 1992 Summer Olympics. The Notre Dame Fighting Irish wore Champion uniforms for over fifty years until Adidas replaced them in 2001. International sporting clients included Wigan Athletic (Premier League, 2008-09), the Welsh national football team (2008-10), the Greek national basketball team, the Italian national basketball team (1996-2016), and FIBA (until 2017, when Nike took over). Champion currently sponsors the Australian National Basketball League.
 
 ## Products
 
@@ -108,16 +109,16 @@ Owned by Authentic Brands Group (from October 2024, acquired from Hanesbrands fo
 
 ## Markets
 
-Champion occupies the heritage American sportswear segment. Post-ABG acquisition, it sits within a broad portfolio alongside Billabong, Quiksilver, Brooks, and other ABG brands. The brand has sustained streetwear and athleisure cultural relevance, driven by 1980s–1990s nostalgia for its hoodies, sweatshirts, and team uniforms — and amplified by the vintage and secondhand market.
+Champion occupies the heritage American sportswear segment. Post-ABG acquisition, it sits within a broad portfolio alongside Billabong, Quiksilver, Brooks, and other ABG brands. The brand has sustained streetwear and athleisure cultural relevance, driven by 1980s-1990s nostalgia for its hoodies, sweatshirts, and team uniforms - and amplified by the vintage and secondhand market.
 
 ## Pattern and Surface Design Relevance
 
 Champion's primary SPD contribution lies in its graphic surface application vocabulary:
 
 - **Brand mark as garment surface**: The Champion "C" logo and "Champion" wordmark, applied by screen print and embroidery to sweatshirts, hoodies, and t-shirts, constitute one of the most widely recognised examples of an athletic brand mark as applied surface design. The logo's chest and sleeve placement helped establish the graphic sportswear template adopted across the category.
-- **Team uniform design**: Champion produced surface-designed team kits for NBA, NFL, and Olympic teams across multiple decades — applying team colour systems, player numbers, and wordmarks as structured graphic treatments on performance jersey materials.
-- **Replica jersey business**: Champion held NBA (1990–2002) and NFL (1980s–2000) merchandise licences, producing team-branded surface designs (numbers, names, logos) on replica garments at mass scale.
-- **Sweatshirt as graphic object**: The Champion Reverse Weave sweatshirt and hoodie — garments on which the "C" logo or wordmark is the primary surface design element — achieved streetwear-cultural status from the 2010s onward, elevating Champion's graphic identity into a designer-adjacent context.
+- **Team uniform design**: Champion produced surface-designed team kits for NBA, NFL, and Olympic teams across multiple decades - applying team colour systems, player numbers, and wordmarks as structured graphic treatments on performance jersey materials.
+- **Replica jersey business**: Champion held NBA (1990-2002) and NFL (1980s-2000) merchandise licences, producing team-branded surface designs (numbers, names, logos) on replica garments at mass scale.
+- **Sweatshirt as graphic object**: The Champion Reverse Weave sweatshirt and hoodie - garments on which the "C" logo or wordmark is the primary surface design element - achieved streetwear-cultural status from the 2010s onward, elevating Champion's graphic identity into a designer-adjacent context.
 
 ## Official Resources
 

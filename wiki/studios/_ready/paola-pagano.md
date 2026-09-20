@@ -45,6 +45,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 569
 ---
 # Paola Pagano
 
@@ -73,7 +74,7 @@ Paola Pagano is a one-woman surface pattern studio based in Milan, Italy, workin
 
 ## Studio Style and Aesthetic
 
-Selected patterns confirm a hand-painted, gestural aesthetic: an acrylic "making of" study of layered leaf shapes ("Proserpina #2"), a painterly pebble/stone motif with playful polka-dotted fruit shapes, a graphic dotted-ground print with a striding cheetah rendered in flat green, loose brushstroke abstracts in high-contrast colorways (red/blue-grey and orange/navy), a hand-drawn blue ditsy floral sprig, and a set of narrative pop-surrealist prints — leaping cheetahs and birds on a dotted ground, elongated stylised figures, and whimsical flat-color characters (robots, a bird, a house). The work favours saturated, unexpected color pairings over naturalistic palettes, consistent with the studio's own description of "unexpected palettes" and irony.
+Selected patterns confirm a hand-painted, gestural aesthetic: an acrylic "making of" study of layered leaf shapes ("Proserpina #2"), a painterly pebble/stone motif with playful polka-dotted fruit shapes, a graphic dotted-ground print with a striding cheetah rendered in flat green, loose brushstroke abstracts in high-contrast colorways (red/blue-grey and orange/navy), a hand-drawn blue ditsy floral sprig, and a set of narrative pop-surrealist prints - leaping cheetahs and birds on a dotted ground, elongated stylised figures, and whimsical flat-color characters (robots, a bird, a house). The work favours saturated, unexpected color pairings over naturalistic palettes, consistent with the studio's own description of "unexpected palettes" and irony.
 
 ## Markets and Specialties
 
@@ -85,7 +86,7 @@ Selected patterns confirm a hand-painted, gestural aesthetic: an acrylic "making
 
 ## Techniques and Artwork Process
 
-Per the studio's own description, patterns originate in hand media — watercolor and acrylic painting — as well as digital tablet work. The portfolio shows both loose painterly brushwork and flatter vector-style illustration, indicating a mixed hand-to-digital process.
+Per the studio's own description, patterns originate in hand media - watercolor and acrylic painting - as well as digital tablet work. The portfolio shows both loose painterly brushwork and flatter vector-style illustration, indicating a mixed hand-to-digital process.
 
 ## Clients and Commercial Positioning
 

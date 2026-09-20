@@ -45,6 +45,7 @@ images:
         url: null
 updated: '2026-08-01'
 enrichment_status: enriched
+marketing_order: 218
 ---
 
 # De Fursac
@@ -61,13 +62,13 @@ enrichment_status: enriched
 
 ## Overview
 
-Fursac (formerly Monsieur de Fursac until 2000, De Fursac 2000–2021) is a French men's ready-to-wear company created in Paris in 1973 by the Laufer brothers, with its first workshops established in Saint-Étienne-de-Fursac, Creuse. The company's first Parisian boutique opened in 1992 at 112 rue de Richelieu — the former address of High Life Tailor, a 19th-century Parisian men's tailoring address. In 2000, the brand became De Fursac. SMCP Group — parent of Sandro, Maje, and Claudie Pierlot — acquired De Fursac in 2019, authorised by the French Competition Authority in August 2019, to expand into menswear. In 2021, the brand was rebranded as Fursac; creative director Gauthier Borsarello held the role from January 2021 to December 2025.
+Fursac (formerly Monsieur de Fursac until 2000, De Fursac 2000-2021) is a French men's ready-to-wear company created in Paris in 1973 by the Laufer brothers, with its first workshops established in Saint-Étienne-de-Fursac, Creuse. The company's first Parisian boutique opened in 1992 at 112 rue de Richelieu - the former address of High Life Tailor, a 19th-century Parisian men's tailoring address. In 2000, the brand became De Fursac. SMCP Group - parent of Sandro, Maje, and Claudie Pierlot - acquired De Fursac in 2019, authorised by the French Competition Authority in August 2019, to expand into menswear. In 2021, the brand was rebranded as Fursac; creative director Gauthier Borsarello held the role from January 2021 to December 2025.
 
-Fursac's design direction under Gauthier Borsarello (2021–2025) was associated with a modernised take on French tailoring. No successor is recorded in the available source. The brand's creative identity centres on clean, contemporary tailoring with Italian fabric quality as differentiator.
+Fursac's design direction under Gauthier Borsarello (2021-2025) was associated with a modernised take on French tailoring. No successor is recorded in the available source. The brand's creative identity centres on clean, contemporary tailoring with Italian fabric quality as differentiator.
 
 ## History
 
-Monsieur de Fursac was founded in 1973 by the Laufer brothers. From 2000, De Fursac developed relationships with Italian fabric manufacturers including Lanificio Fratelli Cerruti, which has offered exclusive fabrics to the brand since 2010. In 2012, FCDE (Fonds de Consolidation et de Développement des Entreprises) acquired 28% of the capital and contributed €11 million to finance development. The SMCP acquisition (June–August 2019) was financed entirely by debt. The 2021 rebrand to "Fursac" represented a strategic simplification of the brand identity.
+Monsieur de Fursac was founded in 1973 by the Laufer brothers. From 2000, De Fursac developed relationships with Italian fabric manufacturers including Lanificio Fratelli Cerruti, which has offered exclusive fabrics to the brand since 2010. In 2012, FCDE (Fonds de Consolidation et de Développement des Entreprises) acquired 28% of the capital and contributed €11 million to finance development. The SMCP acquisition (June-August 2019) was financed entirely by debt. The 2021 rebrand to "Fursac" represented a strategic simplification of the brand identity.
 
 ## Products
 
@@ -80,14 +81,14 @@ SMCP Group subsidiary (since 2019). Website: fursac.com. Retail via Paris boutiq
 
 ## Markets
 
-Fursac operates in the French premium menswear segment — tailored suiting and men's RTW with Italian fabric heritage positioning. Within SMCP Group, it complements the group's womenswear portfolio by addressing the menswear market. It occupies an accessible luxury / contemporary tailoring tier, positioned against Sandro Homme and mid-market tailoring brands.
+Fursac operates in the French premium menswear segment - tailored suiting and men's RTW with Italian fabric heritage positioning. Within SMCP Group, it complements the group's womenswear portfolio by addressing the menswear market. It occupies an accessible luxury / contemporary tailoring tier, positioned against Sandro Homme and mid-market tailoring brands.
 
 ## Pattern and Surface Design Relevance
 
 Fursac's SPD relevance lies primarily in textile surface selection and menswear fabric design:
 
-- **Italian fabric sourcing**: The partnership with Lanificio Fratelli Cerruti (from 2010, exclusive) places woven textile surface design — suiting fabrics, checks, herringbone, plains, and seasonal cloth — at the centre of the brand's product identity. Fabric choice is the primary surface design decision in a menswear tailoring context.
-- **Menswear tailoring surface vocabulary**: Fursac's product category (tailored suits and RTW) involves surfaces defined by fabric texture, weave pattern, colour, and weight — the classical menswear surface design toolkit.
+- **Italian fabric sourcing**: The partnership with Lanificio Fratelli Cerruti (from 2010, exclusive) places woven textile surface design - suiting fabrics, checks, herringbone, plains, and seasonal cloth - at the centre of the brand's product identity. Fabric choice is the primary surface design decision in a menswear tailoring context.
+- **Menswear tailoring surface vocabulary**: Fursac's product category (tailored suits and RTW) involves surfaces defined by fabric texture, weave pattern, colour, and weight - the classical menswear surface design toolkit.
 - **Saint-Étienne-de-Fursac connection**: The brand's original workshops in Creuse place it within the French provincial textile manufacturing tradition.
 
 ## Official Resources

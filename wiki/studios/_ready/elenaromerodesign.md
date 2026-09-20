@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 537
 ---
 # Elena Romero
 
@@ -71,7 +72,7 @@ Elena Romero is a Seville, Spain-based print and textile design studio run by de
 
 ## Studio Style and Aesthetic
 
-The portfolio shows a consistent hand-painted floral practice spanning several colorways: soft pastel purples, pinks, and greens (Patterns 1–3, 6–7), a darker jewel-toned indigo/navy floral (Pattern 4), and a monochrome blue floral rendered as a fabric drape mockup (Pattern 5). Pattern 8 shows a distinct bolder direction — flat, graphic color-blocked florals in turquoise, mustard, and lime with black outline work — consistent with the studio's own description of working across "timeless hand-painted florals" and "vibrant, trend-driven designs."
+The portfolio shows a consistent hand-painted floral practice spanning several colorways: soft pastel purples, pinks, and greens (Patterns 1-3, 6-7), a darker jewel-toned indigo/navy floral (Pattern 4), and a monochrome blue floral rendered as a fabric drape mockup (Pattern 5). Pattern 8 shows a distinct bolder direction - flat, graphic color-blocked florals in turquoise, mustard, and lime with black outline work - consistent with the studio's own description of working across "timeless hand-painted florals" and "vibrant, trend-driven designs."
 
 ## Markets and Specialties
 
@@ -79,7 +80,7 @@ Fashion, home textiles, and stationery markets, sold internationally (studio's o
 
 ## Techniques and Artwork Process
 
-Hand-painted watercolor technique is visible directly in the source imagery — Patterns 3 and 4 show a brush and hand mid-stroke on paper. Finished paintings are digitized into pixel-perfect repeats and delivered as production-ready PSD or TIFF files. Pattern 8's flat, outlined color-blocking suggests a more graphic reworking of painted motifs for the studio's bolder, trend-driven line.
+Hand-painted watercolor technique is visible directly in the source imagery - Patterns 3 and 4 show a brush and hand mid-stroke on paper. Finished paintings are digitized into pixel-perfect repeats and delivered as production-ready PSD or TIFF files. Pattern 8's flat, outlined color-blocking suggests a more graphic reworking of painted motifs for the studio's bolder, trend-driven line.
 
 ## Clients and Commercial Positioning
 
@@ -98,7 +99,7 @@ Elena Romero runs the studio independently from Seville, Spain, with more than 1
 
 ## Pattern Focus
 
-Hand-painted floral motifs — peonies, roses, anemones, and mixed garden florals — across pastel, jewel-tone, and saturated colorways, plus a bolder graphic floral direction with flat color-blocking and outline work.
+Hand-painted floral motifs - peonies, roses, anemones, and mixed garden florals - across pastel, jewel-tone, and saturated colorways, plus a bolder graphic floral direction with flat color-blocking and outline work.
 
 ## Connections
 

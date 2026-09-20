@@ -1,0 +1,43 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-9451cacca5d382b8",
+  "canonical_id": "can-clip-9451cacca5d382b8",
+  "canonical_path": "wiki/jobs/_staging/lead-designer-tennis-apparel-color-design-nike-beaverton",
+  "resolved": [
+    "company:Nike",
+    "markets:Fashion",
+    "location:United States"
+  ],
+  "needs_review": [
+    "skills:Pattern Design",
+    "skills:Colour",
+    "skills:Presentation",
+    "skills:Colour Design",
+    "skills:Apparel Design",
+    "skills:Communication",
+    "location:Beaverton",
+    "location:Beaverton, OR, United States"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 2,
+    "medium": 1,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 64,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No software candidates",
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 65,
+  "resolution_quality": 27,
+  "message": "Resolved"
+}

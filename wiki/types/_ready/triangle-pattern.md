@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 77
 ---
 
 # Triangle Pattern
@@ -119,11 +120,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/triangle-pattern/profile/triangle-pattern-image.svg)
-A surface pattern built from triangular shapes — the simplest polygon in geometry, carrying strong directional energy and associations with stability, power, and dynamic tension in visual design.
+A surface pattern built from triangular shapes - the simplest polygon in geometry, carrying strong directional energy and associations with stability, power, and dynamic tension in visual design.
 
 ## Overview
 
-Triangle patterns exploit the fundamental visual properties of the three-sided polygon: directionality (a triangle always points somewhere), the visual contrast between its flat base and sharp apex, and its ability to tile surfaces perfectly with no gap or overlap. In surface pattern, triangles function both as individual repeated motifs and as the structural unit of more complex geometric arrangements. The motif's associations — with stability, power, hierarchy, and dynamic energy — make it a versatile tool across a wide range of design contexts.
+Triangle patterns exploit the fundamental visual properties of the three-sided polygon: directionality (a triangle always points somewhere), the visual contrast between its flat base and sharp apex, and its ability to tile surfaces perfectly with no gap or overlap. In surface pattern, triangles function both as individual repeated motifs and as the structural unit of more complex geometric arrangements. The motif's associations - with stability, power, hierarchy, and dynamic energy - make it a versatile tool across a wide range of design contexts.
 
 ## Visual Characteristics
 
@@ -137,17 +138,17 @@ Triangle type also affects character:
 - **Isosceles triangle:** wider base; reads as stable, grounded
 - **Scalene/right-angle triangle:** asymmetric; dynamic, active, less settled
 
-The pointed form of the triangle carries what the source describes as "masculine connotations" — a quality associated with sharpness and aggression rather than the smooth curves associated with feminine aesthetics in conventional design semiotics.
+The pointed form of the triangle carries what the source describes as "masculine connotations" - a quality associated with sharpness and aggression rather than the smooth curves associated with feminine aesthetics in conventional design semiotics.
 
 ## Pattern Structure
 
-Triangles tile perfectly — equilateral triangles tessellate in a flat grid (two triangles forming a diamond/rhombus, three forming a larger triangle). This tessellating property makes triangles particularly useful in geometric pattern construction. Common triangle repeat arrangements include:
+Triangles tile perfectly - equilateral triangles tessellate in a flat grid (two triangles forming a diamond/rhombus, three forming a larger triangle). This tessellating property makes triangles particularly useful in geometric pattern construction. Common triangle repeat arrangements include:
 - **Tessellated triangle grid:** equilateral triangles in alternating up/down orientation
 - **Chevron:** triangles arranged to create directional V/W patterns
 - **Diamond/rhombus grid:** pairs of mirrored triangles
 - **Geometric mosaic:** complex compositions of triangles at varying scales
 
-The triangle is structurally fundamental to many complex geometric patterns — Islamic geometric design frequently uses stars and polygons that are constructed from triangular subdivisions of the plane.
+The triangle is structurally fundamental to many complex geometric patterns - Islamic geometric design frequently uses stars and polygons that are constructed from triangular subdivisions of the plane.
 
 ## Common Motifs
 
@@ -159,7 +160,7 @@ Triangle patterns in high contrast (black and white, or two-tone geometric) read
 
 ## History and Context
 
-The triangle has structural significance across ancient mathematics and philosophy — Aristotle used triangles to represent the four classical elements (fire, water, air, earth) in his elemental diagrams. Pyramids, the most visually powerful triangular architectural form, appear across ancient Egyptian, Mesoamerican, and other cultures. The triangle's associations with power and stability have made it a persistent symbol in technology, law, and construction contexts. In contemporary graphic design and surface pattern, the triangle is associated with modern, clean geometric aesthetics and is widely used in technology and innovation branding.
+The triangle has structural significance across ancient mathematics and philosophy - Aristotle used triangles to represent the four classical elements (fire, water, air, earth) in his elemental diagrams. Pyramids, the most visually powerful triangular architectural form, appear across ancient Egyptian, Mesoamerican, and other cultures. The triangle's associations with power and stability have made it a persistent symbol in technology, law, and construction contexts. In contemporary graphic design and surface pattern, the triangle is associated with modern, clean geometric aesthetics and is widely used in technology and innovation branding.
 
 ## Surface Pattern Uses
 
@@ -171,13 +172,13 @@ The triangle has structural significance across ancient mathematics and philosop
 
 ## Related Pattern Types
 
-- [[Geometric Pattern]] — triangle patterns are a fundamental geometric category
-- [[Zigzag Pattern]] — zigzag patterns are composed of alternating triangular forms
-- [[Symmetry Pattern]] — triangle tessellations use translational and reflectional symmetry
+- Geometric Pattern - triangle patterns are a fundamental geometric category
+- Zigzag Pattern - zigzag patterns are composed of alternating triangular forms
+- Symmetry Pattern - triangle tessellations use translational and reflectional symmetry
 
 ## Source Notes
 
-- IronDragon article on psychology of shapes — power/stability/science/excitement/risk/balance associations; pyramid reference; upward vs downward orientation; isosceles vs equilateral; technology/law/finance/construction/fashion market users; masculine connotations from pointed forms
+- IronDragon article on psychology of shapes - power/stability/science/excitement/risk/balance associations; pyramid reference; upward vs downward orientation; isosceles vs equilateral; technology/law/finance/construction/fashion market users; masculine connotations from pointed forms
 
 ## Editorial Images
 

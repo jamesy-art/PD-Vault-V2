@@ -53,6 +53,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 188
 ---
 
 # MVMT
@@ -69,13 +70,13 @@ enrichment_status: enriched
 
 ## Overview
 
-MVMT Watches Inc. (pronounced "movement") was co-founded in June 2013 by Jake Kassan and Kramer LaPlante, both college dropouts. The brand raised over $290,000 through two Indiegogo crowdfunding campaigns. MVMT's name denotes both the movement of time and people and the movement component of a watch. The brand launched sunglasses in 2016. Movado Group acquired MVMT in August 2018 for over $100 million (potentially reaching $200 million depending on performance). YAML parent_company "movado" is correct. YAML location "United States" is correct. YAML retail_categories list "Clothing, Activewear" — clothing and activewear are not core MVMT product categories; the brand primarily sells watches, sunglasses, and accessories; YAML preserved as found.
+MVMT Watches Inc. (pronounced "movement") was co-founded in June 2013 by Jake Kassan and Kramer LaPlante, both college dropouts. The brand raised over $290,000 through two Indiegogo crowdfunding campaigns. MVMT's name denotes both the movement of time and people and the movement component of a watch. The brand launched sunglasses in 2016. Movado Group acquired MVMT in August 2018 for over $100 million (potentially reaching $200 million depending on performance). YAML parent_company "movado" is correct. YAML location "United States" is correct. YAML retail_categories list "Clothing, Activewear" - clothing and activewear are not core MVMT product categories; the brand primarily sells watches, sunglasses, and accessories; YAML preserved as found.
 
-MVMT's aesthetic is minimalist and accessible — its market position was built on offering clean, unbranded-looking watch designs at competitive price points via DTC. The brand's design approach is consumer-data and social-media-led rather than creative-director-led.
+MVMT's aesthetic is minimalist and accessible - its market position was built on offering clean, unbranded-looking watch designs at competitive price points via DTC. The brand's design approach is consumer-data and social-media-led rather than creative-director-led.
 
 ## History
 
-MVMT Watches Inc. Co-founded June 2013, United States. Owner: Movado Group (acquired August 2018). Website: mvmt.com. Instagram: @mvmt. Facebook, TikTok, YouTube documented in YAML. About, contact, store locator, accessibility URLs documented in YAML. Product range: quartz watches, sunglasses, jewellery, accessories. YAML retail_categories: clothing, activewear, jewellery, watches, eyewear — clothing and activewear appear incorrect for MVMT's core business; YAML preserved as found.
+MVMT Watches Inc. Co-founded June 2013, United States. Owner: Movado Group (acquired August 2018). Website: mvmt.com. Instagram: @mvmt. Facebook, TikTok, YouTube documented in YAML. About, contact, store locator, accessibility URLs documented in YAML. Product range: quartz watches, sunglasses, jewellery, accessories. YAML retail_categories: clothing, activewear, jewellery, watches, eyewear - clothing and activewear appear incorrect for MVMT's core business; YAML preserved as found.
 
 ## Products
 
@@ -83,7 +84,7 @@ Quartz watches (primary product; minimalist design aesthetic), sunglasses (from 
 
 ## Services
 
-YAML parent_company "movado" is correct — Movado Group acquired MVMT in August 2018 for over $100M. YAML location "United States" is correct. DTC model with own website (mvmt.com); documented store locator suggests some retail presence.
+YAML parent_company "movado" is correct - Movado Group acquired MVMT in August 2018 for over $100M. YAML location "United States" is correct. DTC model with own website (mvmt.com); documented store locator suggests some retail presence.
 
 ## Markets
 
@@ -91,9 +92,9 @@ MVMT built a DTC millennial-focused watch brand via social media and crowdfundin
 
 ## Pattern and Surface Design Relevance
 
-MVMT's relevance to SPD is minimal. The brand's design language is deliberately minimal — clean watch faces, simple watch straps in neutral tones, unadorned sunglass frames. Surface design input is present at the level of:
+MVMT's relevance to SPD is minimal. The brand's design language is deliberately minimal - clean watch faces, simple watch straps in neutral tones, unadorned sunglass frames. Surface design input is present at the level of:
 
-- **Watch face layout**: Hour marker style, sub-dial placement, colour of face and hands — the defining surface elements of a minimalist watch design
+- **Watch face layout**: Hour marker style, sub-dial placement, colour of face and hands - the defining surface elements of a minimalist watch design
 - **Strap surface**: Leather or silicone strap texture, colour, and stitching constitute the watch's secondary surface element
 - **Sunglass frame colour and finish**: Frame colourways and lens tint selection in MVMT's sunglasses line
 - The brand's commercial success was driven by social media marketing of affordable minimalist accessory surface aesthetics rather than by pattern or textile design innovation

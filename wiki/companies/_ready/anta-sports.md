@@ -69,6 +69,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 174
 ---
 
 # Anta Sports
@@ -88,7 +89,7 @@ enrichment_status: enriched
 
 Anta Sports Products Limited is a Chinese sportswear multinational founded in 1991 by Ding Shizhong, headquartered in Jinjiang, Fujian, China. It is the world's third-largest sportswear company by revenue, behind Nike and Adidas and ahead of Li-Ning. Listed on the Hong Kong Stock Exchange since 2007 (ticker 2020.HK), Anta is a Hang Seng Index component. Revenue was reported at $7.7 billion for fiscal year 2022. Its principal international subsidiary is Amer Sports, which manages Arc'teryx, Salomon, Wilson, Peak Performance, and other brands. In January 2026 Anta acquired a 29% stake in Puma for €1.5 billion, becoming Puma's largest single shareholder.
 
-Note: YAML location field shows "United States" — Anta Sports is a Chinese company headquartered in Jinjiang, Fujian, China. This appears to be a data placeholder error. YAML preserved as found.
+Note: YAML location field shows "United States" - Anta Sports is a Chinese company headquartered in Jinjiang, Fujian, China. This appears to be a data placeholder error. YAML preserved as found.
 
 Anta's core brand design language is driven by performance sport, Chinese sports culture, and athlete endorsement narratives. The KAI sneaker collaboration (Kyrie Irving) and the Klay Thompson signature line define the brand's highest-profile product design output. Eileen Gu (freestyle skiing, signed 2020) brings sports-fashion crossover positioning. Portfolio brands operate with independent design directions: Fila (retro-sport graphic), Maia Active (Chinese female athleisure, print-forward), Arc'teryx (technical minimalist), Salomon (trail/outdoor performance).
 
@@ -122,15 +123,15 @@ Key athlete endorsement contracts: Klay Thompson (10-year, up to $80M, from 2017
 
 ## Markets
 
-Anta is the third-largest sportswear company globally — a position built through the core Anta brand in China, the Fila brand operation in greater China, and international portfolio expansion through Amer Sports and the Puma stake. The brand competes directly with Nike and Adidas in the Chinese market and increasingly in international markets through its portfolio.
+Anta is the third-largest sportswear company globally - a position built through the core Anta brand in China, the Fila brand operation in greater China, and international portfolio expansion through Amer Sports and the Puma stake. The brand competes directly with Nike and Adidas in the Chinese market and increasingly in international markets through its portfolio.
 
 ## Pattern and Surface Design Relevance
 
 **Athlete signature shoe graphic design:** The Kyrie Irving KAI sneaker (launched 2024) and Klay Thompson signature shoe line are Anta's highest-profile branded product design outputs. Athlete-endorsed footwear with custom graphic identities co-developed with the athletes represents the most SPD-intensive commercial category in the core brand.
 
-**Fila China:** Fila has a strong retro-sport graphic heritage — bold logotype, colour-blocked and striped sportswear. Anta's operation of Fila across mainland China, Hong Kong, and Macao involves extending and translating this graphic identity through seasonal collections across Fila, Fila Fusion, Fila Kids, and Fila Athletics sub-brands.
+**Fila China:** Fila has a strong retro-sport graphic heritage - bold logotype, colour-blocked and striped sportswear. Anta's operation of Fila across mainland China, Hong Kong, and Macao involves extending and translating this graphic identity through seasonal collections across Fila, Fila Fusion, Fila Kids, and Fila Athletics sub-brands.
 
-**Olympic uniform design:** As IOC official supplier until end of 2022, Anta designed and manufactured uniforms for 26 Chinese national teams — large-scale applied surface design across multiple sports, representing one of the most significant national-team sportswear commissions in Chinese sports history.
+**Olympic uniform design:** As IOC official supplier until end of 2022, Anta designed and manufactured uniforms for 26 Chinese national teams - large-scale applied surface design across multiple sports, representing one of the most significant national-team sportswear commissions in Chinese sports history.
 
 **Maia Active:** A Chinese female athleisure brand (75.13% stake, October 2023). Female athleisure is a print-intensive category; Maia Active's acquisition adds a print-forward women's segment to the Anta portfolio.
 

@@ -116,6 +116,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 8
 ---
 
 # Sea Pattern
@@ -123,11 +124,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/sea-pattern/profile/sea-pattern-image.svg)
-A surface pattern category drawing on the visual vocabulary of the ocean — marine creatures, coastal flora, nautical objects, and underwater environments — spanning styles from illustrated naturalism to bold graphic design.
+A surface pattern category drawing on the visual vocabulary of the ocean - marine creatures, coastal flora, nautical objects, and underwater environments - spanning styles from illustrated naturalism to bold graphic design.
 
 ## Overview
 
-Sea and marine patterns are among the most commercially durable categories in surface pattern design, driven by consistent seasonal demand in summer, resort, and coastal lifestyle markets. The category encompasses both naturalistic underwater imagery and more abstract or graphic nautical references, ranging from illustrated fish and sea creature patterns to simple anchor-and-rope motifs. The breadth of visual material available — from tropical reef systems to cold-water coastal settings — supports a wide range of aesthetic moods.
+Sea and marine patterns are among the most commercially durable categories in surface pattern design, driven by consistent seasonal demand in summer, resort, and coastal lifestyle markets. The category encompasses both naturalistic underwater imagery and more abstract or graphic nautical references, ranging from illustrated fish and sea creature patterns to simple anchor-and-rope motifs. The breadth of visual material available - from tropical reef systems to cold-water coastal settings - supports a wide range of aesthetic moods.
 
 ## Visual Characteristics
 
@@ -139,7 +140,7 @@ Sea patterns vary significantly by sub-style:
 
 ## Pattern Structure
 
-Sea patterns use all standard repeat structures. Seamless half-drop repeats are common for dense all-over fish and marine creature designs. Engineered or placement arrangements are used for hero creature motifs — a single large whale or octopus positioned specifically on a product rather than tiled. Scattered or random layouts suit shell and starfish patterns where naturalistic distribution is appropriate.
+Sea patterns use all standard repeat structures. Seamless half-drop repeats are common for dense all-over fish and marine creature designs. Engineered or placement arrangements are used for hero creature motifs - a single large whale or octopus positioned specifically on a product rather than tiled. Scattered or random layouts suit shell and starfish patterns where naturalistic distribution is appropriate.
 
 ## Common Motifs
 
@@ -152,15 +153,15 @@ Core marine motifs in surface pattern design:
 ## Colour and Style
 
 Sea pattern palettes fall into three main approaches:
-- **Cool ocean palettes:** navy, teal, aqua, cerulean, turquoise, white — used in nautical and open-ocean styles
-- **Warm tropical palettes:** coral, turquoise, yellow, hot pink, lime green — used in reef and tropical fish patterns
-- **Coastal naturalistic palettes:** sandy beige, slate grey, driftwood brown, faded teal — used in shell and beachcomber styles
+- **Cool ocean palettes:** navy, teal, aqua, cerulean, turquoise, white - used in nautical and open-ocean styles
+- **Warm tropical palettes:** coral, turquoise, yellow, hot pink, lime green - used in reef and tropical fish patterns
+- **Coastal naturalistic palettes:** sandy beige, slate grey, driftwood brown, faded teal - used in shell and beachcomber styles
 
 Monochromatic navy-and-white nautical palettes have strong perennial commercial appeal, particularly in home textiles and classic childrenswear.
 
 ## History and Context
 
-Marine imagery in decorative art has a very long history — from ancient Minoan frescoes depicting sea creatures, through Asian export porcelain decorated with fish and waves, to the highly developed tradition of naturalistic marine illustration in 18th and 19th-century natural history publishing. The nautical stripe and anchor motifs became established commercial patterns in Western fashion through the 20th century, particularly associated with Breton-influenced fashion and British coastal lifestyle markets. The growing global resort and swimwear market has maintained strong commercial demand for tropical marine patterns.
+Marine imagery in decorative art has a very long history - from ancient Minoan frescoes depicting sea creatures, through Asian export porcelain decorated with fish and waves, to the highly developed tradition of naturalistic marine illustration in 18th and 19th-century natural history publishing. The nautical stripe and anchor motifs became established commercial patterns in Western fashion through the 20th century, particularly associated with Breton-influenced fashion and British coastal lifestyle markets. The growing global resort and swimwear market has maintained strong commercial demand for tropical marine patterns.
 
 ## Surface Pattern Uses
 
@@ -172,13 +173,13 @@ Marine imagery in decorative art has a very long history — from ancient Minoan
 
 ## Related Pattern Types
 
-- [[Tropical Pattern]] — overlapping imagery; tropical sea creatures and reef environments
-- [[Animal Pattern]] — marine creatures are a subcategory of the broader animal/wildlife pattern family
-- [[Stripe Pattern]] — the marinière/Breton stripe is directly associated with nautical aesthetic
+- Tropical Pattern - overlapping imagery; tropical sea creatures and reef environments
+- Animal Pattern - marine creatures are a subcategory of the broader animal/wildlife pattern family
+- Stripe Pattern - the marinière/Breton stripe is directly associated with nautical aesthetic
 
 ## Source Notes
 
-- SPD-focused notes — marine creature list, anchor/lighthouse/nautical objects, coastal/nautical/tropical/summer styles, colour palettes, repeat types
+- SPD-focused notes - marine creature list, anchor/lighthouse/nautical objects, coastal/nautical/tropical/summer styles, colour palettes, repeat types
 
 ## Editorial Images
 

@@ -59,7 +59,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Wallpaper_group-p4m-5.jpg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Wallpaper_group-p4m-5.jpg/960px-Wallpaper_group-p4m-5.jpg"
       title: "](https://upload.wikimedia.org/wikipedia/commons/a/ab/Wallpaper_group-p4m-5.jpg)"
       description: "](https://upload.wikimedia.org/wikipedia/commons/a/ab/Wallpaper_group-p4m-5.jpg)"
@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 2
 ---
 
 # Circle Pattern
@@ -118,25 +119,25 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/circle-pattern/profile/circle-pattern-image.svg)
-A geometric surface pattern built from circular forms — ranging from simple polka dot repeats through overlapping circle grids (including the Flower of Life) to complex compositions using circular geometry as the primary structural element.
+A geometric surface pattern built from circular forms - ranging from simple polka dot repeats through overlapping circle grids (including the Flower of Life) to complex compositions using circular geometry as the primary structural element.
 
 ## Overview
 
-Circle pattern is a broad geometric category in surface design, encompassing everything from the commercial simplicity of the polka dot to the sacred geometry associations of the Flower of Life overlapping-circles grid. The circle as a design element is commercially universal — it appears in children's textiles, modernist fashion prints, home decor, jewellery, and stationery. The overlapping circles grid specifically carries documented use from ancient Assyrian decoration through Roman Empire architecture, Islamic geometric art, and Gothic stonework — giving it both deep historical roots and active contemporary market relevance.
+Circle pattern is a broad geometric category in surface design, encompassing everything from the commercial simplicity of the polka dot to the sacred geometry associations of the Flower of Life overlapping-circles grid. The circle as a design element is commercially universal - it appears in children's textiles, modernist fashion prints, home decor, jewellery, and stationery. The overlapping circles grid specifically carries documented use from ancient Assyrian decoration through Roman Empire architecture, Islamic geometric art, and Gothic stonework - giving it both deep historical roots and active contemporary market relevance.
 
 ## Visual Characteristics
 
-Circle patterns range in visual complexity from the single-element polka dot (a scattered all-over of filled circles on a contrasting ground) through the clean geometric of equally spaced non-overlapping circles, to the complex interlocking geometry of overlapping circle grids. The Flower of Life — seven overlapping circles arranged in a hexagonal pattern — generates a visually dense, symmetrical surface in which multiple secondary shapes (vesica piscis, trefoil, hexafoil) emerge from the intersection zones. At larger scales, circle pattern can feel bold and graphic; at fine scale, it reads as geometric texture.
+Circle patterns range in visual complexity from the single-element polka dot (a scattered all-over of filled circles on a contrasting ground) through the clean geometric of equally spaced non-overlapping circles, to the complex interlocking geometry of overlapping circle grids. The Flower of Life - seven overlapping circles arranged in a hexagonal pattern - generates a visually dense, symmetrical surface in which multiple secondary shapes (vesica piscis, trefoil, hexafoil) emerge from the intersection zones. At larger scales, circle pattern can feel bold and graphic; at fine scale, it reads as geometric texture.
 
 ## Pattern Structure
 
 Circle patterns use several distinct structural approaches:
-- **Polka dot** — isolated filled circles in regular or scattered repeat; typically on a contrasting ground
-- **Ring repeat** — unfilled circles (outlines only) in regular grid
-- **Overlapping circles grid** — circles offset so that each overlaps its neighbours; produces a network of lens-shaped (vesica piscis) intersections
-- **Flower of Life** — seven overlapping circles with a central circle and six surrounding; produces the hexafoil and related six-petal rosette secondary forms
-- **Bubble/circle cluster** — irregular groupings of circles at varied sizes
-- **Triangular and square lattice variants** — overlapping circles arranged on triangular vs. square grid underlying structures
+- **Polka dot** - isolated filled circles in regular or scattered repeat; typically on a contrasting ground
+- **Ring repeat** - unfilled circles (outlines only) in regular grid
+- **Overlapping circles grid** - circles offset so that each overlaps its neighbours; produces a network of lens-shaped (vesica piscis) intersections
+- **Flower of Life** - seven overlapping circles with a central circle and six surrounding; produces the hexafoil and related six-petal rosette secondary forms
+- **Bubble/circle cluster** - irregular groupings of circles at varied sizes
+- **Triangular and square lattice variants** - overlapping circles arranged on triangular vs. square grid underlying structures
 
 ## Common Motifs
 
@@ -150,28 +151,28 @@ Circle patterns use several distinct structural approaches:
 
 ## Colour and Style
 
-Circle pattern is compatible with any colourway — its geometric simplicity allows it to function across all market aesthetics. Classic polka dots use high contrast (navy on white, red on white) for maximum graphic legibility. Tonal or monochromatic circle patterns produce a more subtle, textural surface. The Flower of Life and overlapping circles grid are frequently rendered in gold, silver, or white on dark grounds for a sacred geometry or jewellery-adjacent aesthetic.
+Circle pattern is compatible with any colourway - its geometric simplicity allows it to function across all market aesthetics. Classic polka dots use high contrast (navy on white, red on white) for maximum graphic legibility. Tonal or monochromatic circle patterns produce a more subtle, textural surface. The Flower of Life and overlapping circles grid are frequently rendered in gold, silver, or white on dark grounds for a sacred geometry or jewellery-adjacent aesthetic.
 
 ## History and Context
 
-The overlapping circles grid has a documented history spanning at least 2,600 years. The oldest known example was found in the Assyrian palace of Ashurbanipal (7th–6th century BC) and is now in the Louvre. The pattern appears in Roman Empire architecture; in Islamic girih geometric decoration; and in Gothic stonework and stained glass, where the hexafoil (a six-petal rosette derived from the overlapping circles grid) appears as a decorative element in ecclesiastical architecture. Leonardo da Vinci studied the overlapping circles grid in his geometric investigations. The "Sun of the Alps" — a specific six-petal rosette derived from the grid — appears in 17th–18th-century alpine folk art. The name "Flower of Life" for the seven-circle version is a modern designation used in sacred geometry and new age contexts.
+The overlapping circles grid has a documented history spanning at least 2,600 years. The oldest known example was found in the Assyrian palace of Ashurbanipal (7th-6th century BC) and is now in the Louvre. The pattern appears in Roman Empire architecture; in Islamic girih geometric decoration; and in Gothic stonework and stained glass, where the hexafoil (a six-petal rosette derived from the overlapping circles grid) appears as a decorative element in ecclesiastical architecture. Leonardo da Vinci studied the overlapping circles grid in his geometric investigations. The "Sun of the Alps" - a specific six-petal rosette derived from the grid - appears in 17th-18th-century alpine folk art. The name "Flower of Life" for the seven-circle version is a modern designation used in sacred geometry and new age contexts.
 
 ## Surface Pattern Uses
 
-- **Fashion textiles** — polka dot is a perennial commercial fashion print; overlapping circle and bubble patterns are used in contemporary geometric fashion work
-- **Homeware and interiors** — circle pattern is commercially active in cushion, rug, and ceramic design
-- **Jewellery** — circle and overlapping circle geometry is widely used in jewellery surface design and metalwork
-- **Stationery** — circle and dot patterns are standard background elements in stationery design
-- **Tattoo** — Flower of Life and overlapping circle geometry is a major tattoo category
-- **Licensing** — circle pattern is broadly licensable as a commercially neutral, versatile geometric
+- **Fashion textiles** - polka dot is a perennial commercial fashion print; overlapping circle and bubble patterns are used in contemporary geometric fashion work
+- **Homeware and interiors** - circle pattern is commercially active in cushion, rug, and ceramic design
+- **Jewellery** - circle and overlapping circle geometry is widely used in jewellery surface design and metalwork
+- **Stationery** - circle and dot patterns are standard background elements in stationery design
+- **Tattoo** - Flower of Life and overlapping circle geometry is a major tattoo category
+- **Licensing** - circle pattern is broadly licensable as a commercially neutral, versatile geometric
 
 ## Related Pattern Types
 
-[[Polka Dot Pattern]], [[Geometric Pattern]], [[Bubble Pattern]], [[Islamic Geometric Pattern]], [[Sacred Geometry Pattern]], [[Floral Geometric Pattern]]
+Polka Dot Pattern, Geometric Pattern, Bubble Pattern, Islamic Geometric Pattern, Sacred Geometry Pattern, Floral Geometric Pattern
 
 ## Source Notes
 
-- Source: Wikipedia "Overlapping circles grid" — geometric definition; seven-overlapping-circles grid / Flower of Life; oldest known example 7th–6th century BCE (Assyrian palace, now in Louvre); Roman Empire usage; Islamic girih decorations; Gothic art; hexafoil / six-petal rosette; "Sun of the Alps" in alpine folk art (17th–18th century); fashion, jewellery, tattoos; Leonardo da Vinci studies; triangular lattice and square lattice variants
+- Source: Wikipedia "Overlapping circles grid" - geometric definition; seven-overlapping-circles grid / Flower of Life; oldest known example 7th-6th century BCE (Assyrian palace, now in Louvre); Roman Empire usage; Islamic girih decorations; Gothic art; hexafoil / six-petal rosette; "Sun of the Alps" in alpine folk art (17th-18th century); fashion, jewellery, tattoos; Leonardo da Vinci studies; triangular lattice and square lattice variants
 
 ## Editorial Images
 

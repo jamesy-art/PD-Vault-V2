@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 14
 ---
 
 # Red Pattern
@@ -118,11 +119,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/red-pattern/profile/red-pattern-image.svg)
-A colour-led pattern category defined by the use of red tones — the most visually dominant colour in the visible spectrum, carrying intense associations with passion, celebration, danger, and cultural significance across global traditions.
+A colour-led pattern category defined by the use of red tones - the most visually dominant colour in the visible spectrum, carrying intense associations with passion, celebration, danger, and cultural significance across global traditions.
 
 ## Overview
 
-Red-based surface patterns derive their impact from the hue's unmatched visual weight and cross-cultural symbolic charge. Red is the colour with the longest wavelength visible to the human eye and is among the first colours human vision distinguishes. In surface pattern design, red functions both as a high-energy ground and as a powerful accent, with multiple symbolic registers — from romance and celebration to danger and power — making it one of the most commercially versatile colour directions.
+Red-based surface patterns derive their impact from the hue's unmatched visual weight and cross-cultural symbolic charge. Red is the colour with the longest wavelength visible to the human eye and is among the first colours human vision distinguishes. In surface pattern design, red functions both as a high-energy ground and as a powerful accent, with multiple symbolic registers - from romance and celebration to danger and power - making it one of the most commercially versatile colour directions.
 
 ## Visual Characteristics
 
@@ -130,27 +131,27 @@ Red patterns range from cool, blue-leaning crimsons through to warm, orange-lean
 
 ## Pattern Structure
 
-Red is applied across all pattern structures — florals, geometric, abstract, animal print, and decorative. It is not associated with a particular repeat type. Red as a ground colour creates bold, attention-demanding surface patterns; red used as a motif colour against a neutral ground produces a more commercial, accessible result.
+Red is applied across all pattern structures - florals, geometric, abstract, animal print, and decorative. It is not associated with a particular repeat type. Red as a ground colour creates bold, attention-demanding surface patterns; red used as a motif colour against a neutral ground produces a more commercial, accessible result.
 
 ## Common Motifs
 
-Red is strongly associated with floral motifs — particularly roses and poppies, both of which carry strong red cultural associations. Berries, cherries, and tomatoes appear in food-adjacent pattern categories. In East Asian textile and decorative traditions, red appears extensively in celebratory and wedding patterns, often combined with gold and auspicious motifs.
+Red is strongly associated with floral motifs - particularly roses and poppies, both of which carry strong red cultural associations. Berries, cherries, and tomatoes appear in food-adjacent pattern categories. In East Asian textile and decorative traditions, red appears extensively in celebratory and wedding patterns, often combined with gold and auspicious motifs.
 
 ## Colour and Style
 
 The red spectrum in surface pattern design includes:
-- **Crimson** — blue-leaning, refined; associated with luxury and formal use
-- **Scarlet** — bright, warm-leaning; vivid and energetic
-- **Turkey red** — deep, clear red produced from the alizarin mordant dyeing process; historically significant in Indian and European textile printing
-- **Madder** — warm, earthy; one of the oldest natural dye sources
-- **Venetian red** — earthy, ochre-tinged; pigment derived from iron oxide
-- **Vermilion** — bright mineral red; historically from cinnabar
-- **Carmine** — vivid, slightly cool; derived historically from cochineal insects
-- **Garnet** — deep, dark, wine-tinged; refined and luxury-positioned
+- **Crimson** - blue-leaning, refined; associated with luxury and formal use
+- **Scarlet** - bright, warm-leaning; vivid and energetic
+- **Turkey red** - deep, clear red produced from the alizarin mordant dyeing process; historically significant in Indian and European textile printing
+- **Madder** - warm, earthy; one of the oldest natural dye sources
+- **Venetian red** - earthy, ochre-tinged; pigment derived from iron oxide
+- **Vermilion** - bright mineral red; historically from cinnabar
+- **Carmine** - vivid, slightly cool; derived historically from cochineal insects
+- **Garnet** - deep, dark, wine-tinged; refined and luxury-positioned
 
 ## History and Context
 
-Red has been one of the most prized dye colours throughout textile history. Turkey red — produced via a complex alizarin mordant process using roots of the *Rubia tinctorum* madder plant — was one of the most commercially significant textile colours of the 18th and 19th centuries, particularly in Indian and Scottish cotton printing. Cochineal (sourced from insects in Central America) provided vivid carmine reds for European textiles following the Spanish colonisation of the Americas. Synthetic alizarin, developed in 1868, made red dyes widely available. In East Asian traditions, red is the colour of good fortune, celebration, and protection, making red-dominant textiles central to wedding, festival, and ceremonial contexts.
+Red has been one of the most prized dye colours throughout textile history. Turkey red - produced via a complex alizarin mordant process using roots of the *Rubia tinctorum* madder plant - was one of the most commercially significant textile colours of the 18th and 19th centuries, particularly in Indian and Scottish cotton printing. Cochineal (sourced from insects in Central America) provided vivid carmine reds for European textiles following the Spanish colonisation of the Americas. Synthetic alizarin, developed in 1868, made red dyes widely available. In East Asian traditions, red is the colour of good fortune, celebration, and protection, making red-dominant textiles central to wedding, festival, and ceremonial contexts.
 
 ## Surface Pattern Uses
 
@@ -162,14 +163,14 @@ Red has been one of the most prized dye colours throughout textile history. Turk
 
 ## Related Pattern Types
 
-- [[Floral Pattern]] — red florals, particularly roses and poppies, are a major application
-- [[Purple Pattern]] — warm reds overlap with the purple spectrum
-- [[Yellow Pattern]] — red and yellow together appear in bold, high-energy palettes
+- Floral Pattern - red florals, particularly roses and poppies, are a major application
+- Purple Pattern - warm reds overlap with the purple spectrum
+- Yellow Pattern - red and yellow together appear in bold, high-energy palettes
 
 ## Source Notes
 
-- Wikipedia, "Shades of red" — named shades, dye history (Turkey red, madder, cochineal, carmine)
-- Quillbot, "Red Color Meaning" — symbolism (passion/energy/danger/good fortune), cultural contexts
+- Wikipedia, "Shades of red" - named shades, dye history (Turkey red, madder, cochineal, carmine)
+- Quillbot, "Red Color Meaning" - symbolism (passion/energy/danger/good fortune), cultural contexts
 
 ## Editorial Images
 

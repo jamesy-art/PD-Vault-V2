@@ -103,6 +103,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 41
 ---
 
 # Carter's
@@ -124,11 +125,11 @@ enrichment_status: enriched
 
 Carter's, Inc. is a major American designer and marketer of children's apparel, headquartered in Buckhead, Atlanta, Georgia. Founded in 1865 in Needham, Massachusetts, by English-born William Carter, the company spent its first century building a New England textile manufacturing operation across seven mills. The Carter family sold the business in 1990. Under subsequent ownership Carter's has grown into a multi-brand retail group with 1,060+ branded stores and outlets, exclusive private-label lines for major US retailers, and a portfolio of acquisitions including OshKosh B'gosh (2005, $312M) and Skip Hop (2017, $140M). As of 2019, Carter's controlled approximately one-quarter of all US children's sleepwear sales and one-quarter of clothing for newborns to two-year-olds. The company ranks 754th on the Fortune 1000. Sharon Price John was named CEO in May 2026, effective June 16, having previously served as CEO of Build-A-Bear Workshop for 13 years.
 
-Carter's design is driven by its children's apparel positioning: seasonal print rotation, character and novelty motif development, and age-appropriate graphic language across a portfolio of sub-brands. Multiple design teams operate in parallel — one per exclusive retailer sub-brand — producing channel-differentiated pattern programmes. No single creative director or named design leadership is documented in the source.
+Carter's design is driven by its children's apparel positioning: seasonal print rotation, character and novelty motif development, and age-appropriate graphic language across a portfolio of sub-brands. Multiple design teams operate in parallel - one per exclusive retailer sub-brand - producing channel-differentiated pattern programmes. No single creative director or named design leadership is documented in the source.
 
 ## History
 
-- **Founded:** 1865, Needham, Massachusetts (William Carter, 1830–1918; born Alfreton, Derbyshire, England)
+- **Founded:** 1865, Needham, Massachusetts (William Carter, 1830-1918; born Alfreton, Derbyshire, England)
 - **Headquarters:** Buckhead, Atlanta, Georgia (Phipps Tower; relocated 2012)
 - **Distribution centre:** Braselton, Georgia (1M sq ft, $50M investment, 2012)
 - **Portfolio brands:** Carter's, OshKosh B'gosh (acquired 2005, $312M), Skip Hop (acquired February 2017, $140M), Little Planet, Otter Avenue
@@ -136,29 +137,29 @@ Carter's design is driven by its children's apparel positioning: seasonal print 
 - **Store count (2019):** 1,060+ branded stores and outlets
 - **Market share (2019):** ~25% US children's sleepwear; ~25% newborn-to-two-year-old clothing
 - **Fortune 1000 rank:** #754
-- **CEO:** Sharon Price John (from June 16, 2026); preceded by Douglas Palladini (April 2025–May 2026, ex-Vans)
+- **CEO:** Sharon Price John (from June 16, 2026); preceded by Douglas Palladini (April 2025-May 2026, ex-Vans)
 
 ## Products
 
-- **Apparel** — bodysuits, pajamas/sleepwear, dresses, outerwear; newborn through toddler; core fabrications in cotton jersey, fleece, and woven
-- **OshKosh B'gosh** — heritage children's workwear; denim, overalls, casual wear
-- **Skip Hop** — infant and child lifestyle products: bags, nursery accessories, play mats; acquired February 2017 ($140M)
-- **Little Planet** — sustainability-positioned children's apparel sub-brand
-- **Exclusive retail labels** — Just One You / Precious Firsts / Genuine Kids (Target); Child of Mine (Walmart); Simple Joys (Amazon); each with its own design team and price positioning
+- **Apparel** - bodysuits, pajamas/sleepwear, dresses, outerwear; newborn through toddler; core fabrications in cotton jersey, fleece, and woven
+- **OshKosh B'gosh** - heritage children's workwear; denim, overalls, casual wear
+- **Skip Hop** - infant and child lifestyle products: bags, nursery accessories, play mats; acquired February 2017 ($140M)
+- **Little Planet** - sustainability-positioned children's apparel sub-brand
+- **Exclusive retail labels** - Just One You / Precious Firsts / Genuine Kids (Target); Child of Mine (Walmart); Simple Joys (Amazon); each with its own design team and price positioning
 
 ## Services
 
-Carter's operates 1,060+ owned branded stores (2019), primarily in mid-tier shopping malls, with planned expansion. The brand sells through its own website, department stores, and exclusive retail partnerships with Target, Walmart, and Amazon — each with dedicated private-label lines. OshKosh B'gosh and Carter's are both sold through Carter's owned retail stores. No external licensing of surface pattern design or prints to third parties is documented in the source; Carter's is a buyer of pattern design rather than a licensor.
+Carter's operates 1,060+ owned branded stores (2019), primarily in mid-tier shopping malls, with planned expansion. The brand sells through its own website, department stores, and exclusive retail partnerships with Target, Walmart, and Amazon - each with dedicated private-label lines. OshKosh B'gosh and Carter's are both sold through Carter's owned retail stores. No external licensing of surface pattern design or prints to third parties is documented in the source; Carter's is a buyer of pattern design rather than a licensor.
 
 ## Markets
 
-Carter's is the dominant brand in US children's apparel at the accessible price tier, with near-ubiquitous reach: 90% of millennial parents and 80% of baby boomer grandparents reported shopping at Carter's in the year prior to a 2019 Washington Post survey. The multi-label strategy addresses different retail channels — owned stores in mid-tier shopping malls, department store wholesale, and exclusive private-label lines with dedicated design teams and price policies for Target, Walmart, and Amazon. OshKosh B'gosh, acquired in 2005, adds a heritage children's workwear brand identity. Skip Hop (2017) expanded the group into infant and child lifestyle products. Plans to open up to 100 new stores in mid-tier shopping malls were reported as of 2019.
+Carter's is the dominant brand in US children's apparel at the accessible price tier, with near-ubiquitous reach: 90% of millennial parents and 80% of baby boomer grandparents reported shopping at Carter's in the year prior to a 2019 Washington Post survey. The multi-label strategy addresses different retail channels - owned stores in mid-tier shopping malls, department store wholesale, and exclusive private-label lines with dedicated design teams and price policies for Target, Walmart, and Amazon. OshKosh B'gosh, acquired in 2005, adds a heritage children's workwear brand identity. Skip Hop (2017) expanded the group into infant and child lifestyle products. Plans to open up to 100 new stores in mid-tier shopping malls were reported as of 2019.
 
 ## Pattern and Surface Design Relevance
 
 Children's apparel is one of the highest-volume segments for surface pattern design: character prints, seasonal and holiday patterns, novelty all-over prints, and juvenile botanical and animal motifs are core to category commercial identity. Carter's, controlling approximately one-quarter of the US children's sleepwear and newborn clothing market, represents a major ongoing buyer context for print and pattern design at volume.
 
-The multi-brand structure is particularly significant: each sub-brand — Just One You, Child of Mine, Simple Joys, Genuine Kids, OshKosh B'gosh — maintains its own design team and aesthetic identity, meaning Carter's, Inc. runs multiple distinct surface pattern design programmes simultaneously, each calibrated to its retail channel and price point. Pajamas and sleepwear, a major revenue category, are print-design-intensive products. Skip Hop's infant lifestyle range similarly relies on coordinating graphic surface design across bags, play mats, and nursery accessories.
+The multi-brand structure is particularly significant: each sub-brand - Just One You, Child of Mine, Simple Joys, Genuine Kids, OshKosh B'gosh - maintains its own design team and aesthetic identity, meaning Carter's, Inc. runs multiple distinct surface pattern design programmes simultaneously, each calibrated to its retail channel and price point. Pajamas and sleepwear, a major revenue category, are print-design-intensive products. Skip Hop's infant lifestyle range similarly relies on coordinating graphic surface design across bags, play mats, and nursery accessories.
 
 ## Official Resources
 

@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 578
 ---
 # Print Patisserie
 
@@ -84,11 +85,11 @@ Fashion and interior brands, per the studio's own positioning. The The portfolio
 
 ## Techniques and Artwork Process
 
-The studio combines hand-painted and hand-drawn source art — visible in the leopard/jaguar croquis sketches among the selected patterns — with digital colourway and repeat development. The collection mixes retro-inspired abstract motifs with traditional florals and paisleys, described as balancing artistry with commercial relevance.
+The studio combines hand-painted and hand-drawn source art - visible in the leopard/jaguar croquis sketches among the selected patterns - with digital colourway and repeat development. The collection mixes retro-inspired abstract motifs with traditional florals and paisleys, described as balancing artistry with commercial relevance.
 
 ## Clients and Commercial Positioning
 
-No current Print Patisserie clients are named in the source text. Every design is sold exclusively rather than through an open print-shop model, positioning the studio at a higher-touch, bespoke tier. Founder Margarita Saplala's prior career included work with Halston and Anthropologie, and in 2005 she launched an eponymous womenswear collection carried by Barneys New York, Beams, and Tomorrowland — background for the founder rather than disclosed clients of the studio itself.
+No current Print Patisserie clients are named in the source text. Every design is sold exclusively rather than through an open print-shop model, positioning the studio at a higher-touch, bespoke tier. Founder Margarita Saplala's prior career included work with Halston and Anthropologie, and in 2005 she launched an eponymous womenswear collection carried by Barneys New York, Beams, and Tomorrowland - background for the founder rather than disclosed clients of the studio itself.
 
 ## Portfolio and Presence
 
@@ -102,7 +103,7 @@ Founded in 2019 by Margarita Saplala, Print Patisserie originated in Brooklyn an
 
 ## Pattern Focus
 
-Retro-inspired abstract florals, romantic all-over florals, paisley and archival scarf motifs, and animal-print/ikat development including hand-drawn croquis — spanning both apparel placement prints and repeat patterns for interiors.
+Retro-inspired abstract florals, romantic all-over florals, paisley and archival scarf motifs, and animal-print/ikat development including hand-drawn croquis - spanning both apparel placement prints and repeat patterns for interiors.
 
 ## Connections
 

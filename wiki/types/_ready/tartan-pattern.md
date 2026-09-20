@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 42
 ---
 
 # Tartan Pattern
@@ -119,7 +120,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/tartan-pattern/profile/tartan-pattern-image.svg)
-A patterned cloth structure of crossing horizontal and vertical bands in multiple colours, forming a distinctive plaid — historically associated with Scottish Highland dress and regulated through a formal register of named designs.
+A patterned cloth structure of crossing horizontal and vertical bands in multiple colours, forming a distinctive plaid - historically associated with Scottish Highland dress and regulated through a formal register of named designs.
 
 ## Overview
 
@@ -133,15 +134,15 @@ Tartan is immediately recognisable from its grid of crossing coloured bands. The
 - **Over-check:** thin contrasting lines running across the dominant colour sequence
 - **Pivot points:** where the sett reverses direction to create the characteristic symmetrical arrangement
 
-The visual effect at thread crossings in woven tartan is a colour blend produced by the 2/2 twill — each crossing shows a mix of the two band colours. In printed versions this effect must be simulated.
+The visual effect at thread crossings in woven tartan is a colour blend produced by the 2/2 twill - each crossing shows a mix of the two band colours. In printed versions this effect must be simulated.
 
 ## Pattern Structure
 
-Tartan's structure is defined mathematically by its thread count — the number of threads of each colour in the sett sequence. The sett is reflective (palindromic): it reads the same forwards and backwards from a pivot point, creating the bilateral symmetry that characterises all traditional tartan designs. Simplified, regular tartan (equal bands of two or three colours) is widely used as a commercial check pattern in fashion. Complex multi-colour tartans with many thin and thick bands require higher production precision.
+Tartan's structure is defined mathematically by its thread count - the number of threads of each colour in the sett sequence. The sett is reflective (palindromic): it reads the same forwards and backwards from a pivot point, creating the bilateral symmetry that characterises all traditional tartan designs. Simplified, regular tartan (equal bands of two or three colours) is widely used as a commercial check pattern in fashion. Complex multi-colour tartans with many thin and thick bands require higher production precision.
 
 ## Common Motifs
 
-Tartan itself is entirely structural — it carries no figurative motifs. The design elements are colour sequence, band width proportion, and the contrast between dominant bands and thin over-check lines. In applied contexts, tartan cloth is sometimes combined with figurative embellishment (embroidery, appliqué), but the tartan structure itself is abstract.
+Tartan itself is entirely structural - it carries no figurative motifs. The design elements are colour sequence, band width proportion, and the contrast between dominant bands and thin over-check lines. In applied contexts, tartan cloth is sometimes combined with figurative embellishment (embroidery, appliqué), but the tartan structure itself is abstract.
 
 ## Colour and Style
 
@@ -154,25 +155,25 @@ In contemporary fashion and home design, tartan is used in both traditional pale
 
 ## History and Context
 
-The word tartan derives from the Scottish Gaelic *breacan* (variegated). The basic structure of crossed coloured bands in woven cloth is ancient, but the specifically Scottish Highland tartan tradition developed from the 16th century onward. The Dress Act of 1746 — passed after the Jacobite Rising — banned Highland dress including tartan for approximately two generations, suppressing the tradition. The 19th-century Highland Revival, driven in part by the romantic nationalism of Sir Walter Scott and the patronage of King George IV's visit to Scotland in 1822, led to the systematic codification of clan tartans and a global popularisation of the pattern. The Scottish Register of Tartans now holds thousands of registered designs. In North America, tartan is commonly referred to as "plaid" — a term that in Scotland refers to the garment, not the pattern.
+The word tartan derives from the Scottish Gaelic *breacan* (variegated). The basic structure of crossed coloured bands in woven cloth is ancient, but the specifically Scottish Highland tartan tradition developed from the 16th century onward. The Dress Act of 1746 - passed after the Jacobite Rising - banned Highland dress including tartan for approximately two generations, suppressing the tradition. The 19th-century Highland Revival, driven in part by the romantic nationalism of Sir Walter Scott and the patronage of King George IV's visit to Scotland in 1822, led to the systematic codification of clan tartans and a global popularisation of the pattern. The Scottish Register of Tartans now holds thousands of registered designs. In North America, tartan is commonly referred to as "plaid" - a term that in Scotland refers to the garment, not the pattern.
 
 ## Surface Pattern Uses
 
 - **Fashion:** a perennial pattern in both heritage menswear (suiting, shirting, outerwear) and recurring women's fashion
-- **Home textiles:** throws, blankets, cushions — particularly in tartan's association with warmth and heritage interior styling
+- **Home textiles:** throws, blankets, cushions - particularly in tartan's association with warmth and heritage interior styling
 - **Stationery and gifting:** tartan is widely used in gift wrap, packaging, and cards particularly around Christmas/winter seasonal periods
 - **Accessories:** scarves, ties, bags, luggage
 - **Licensing:** clan tartans and branded/custom tartans are used in licensed merchandise
 
 ## Related Pattern Types
 
-- [[Stripe Pattern]] — tartan is structurally a system of crossing stripes
-- [[Square Pattern]] — tartan produces square and rectangular cells at the crossings of its bands
-- [[Symmetry Pattern]] — the tartan sett uses reflective symmetry
+- Stripe Pattern - tartan is structurally a system of crossing stripes
+- Square Pattern - tartan produces square and rectangular cells at the crossings of its bands
+- Symmetry Pattern - the tartan sett uses reflective symmetry
 
 ## Source Notes
 
-- Wikipedia, "Tartan" — patterned cloth definition, Scottish Gaelic *breacan*, 2/2 twill weave, clan/family/region associations, Dress Act 1746, 19th-century Highland Revival, modern/muted/ancient dye palettes, Scottish Register of Tartans, "plaid" North American usage, thread count recording, under-check and over-check
+- Wikipedia, "Tartan" - patterned cloth definition, Scottish Gaelic *breacan*, 2/2 twill weave, clan/family/region associations, Dress Act 1746, 19th-century Highland Revival, modern/muted/ancient dye palettes, Scottish Register of Tartans, "plaid" North American usage, thread count recording, under-check and over-check
 
 ## Editorial Images
 

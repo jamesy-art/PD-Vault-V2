@@ -34,7 +34,7 @@ images:
     - ../../assets/types/abstract-pattern/profile/abstract-pattern-image.svg
 editorial_image_data:
   - image: ../../../assets/types/abstract-pattern/abstract-pattern-1-pattern-designers.jpg
-    title: A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34
+    title: A 1939-1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34
   - image: ../../../assets/types/abstract-pattern/abstract-pattern-2-pattern-designers.jpg
     title: Abstract organic pattern design background
     url: https://www.magnific.com/free-vector/abstract-organic-pattern-design-background_60913917.htm
@@ -55,17 +55,17 @@ learn_more_youtube_2: https://www.youtube.com/watch?v=gUM4tdNAmMU
 learn_more_youtube_3: https://www.youtube.com/watch?v=KmvMGgL88Ms
 gallery_images:
   - path: abstract-pattern-1-pattern-designers.jpg
-    title: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
-    alt: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+    title: "A 1939-1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+    alt: "A 1939-1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
     role: gallery
     featured: true
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1939-1942_-_Composition_10.jpg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Piet_Mondriaan%2C_1939-1942_-_Composition_10.jpg/250px-Piet_Mondriaan%2C_1939-1942_-_Composition_10.jpg"
-      title: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
-      description: "A 1939–1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+      title: "A 1939-1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
+      description: "A 1939-1942 oil on canvas painting by Piet Mondrian titled Composition No. 10. Responding to it, fellow De Stijl artist Theo van Doesburg suggested a link between non-representational works of art and ideals of peace and spirituality. 34"
     affiliate:
       enabled: false
       url: null
@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 93
 ---
 
 # Abstract Pattern
@@ -121,7 +122,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/abstract-pattern/profile/abstract-pattern-image.svg)
-A surface design category defined by visual composition rather than recognisable representation — using shape, form, line, and colour as primary elements without depicting objects from the observable world.
+A surface design category defined by visual composition rather than recognisable representation - using shape, form, line, and colour as primary elements without depicting objects from the observable world.
 
 ## Overview
 
@@ -129,11 +130,11 @@ Abstract pattern spans from rigorous geometric systems to spontaneous painterly 
 
 ## Visual Characteristics
 
-Geometric abstraction uses grids, hard edges, and mathematical structure — squares, triangles, circles, and polygons arranged with precision. Lyrical or painterly abstraction uses gestural marks, fluid shapes, and organic forms that suggest movement or emotion without depicting objects. Op art abstraction creates optical illusions through precise tonal contrast and geometric repetition. Colour field abstraction emphasises bold flat areas of colour with minimal form. In all-over surface repeat, abstract patterns can be directional or non-directional depending on the underlying composition.
+Geometric abstraction uses grids, hard edges, and mathematical structure - squares, triangles, circles, and polygons arranged with precision. Lyrical or painterly abstraction uses gestural marks, fluid shapes, and organic forms that suggest movement or emotion without depicting objects. Op art abstraction creates optical illusions through precise tonal contrast and geometric repetition. Colour field abstraction emphasises bold flat areas of colour with minimal form. In all-over surface repeat, abstract patterns can be directional or non-directional depending on the underlying composition.
 
 ## Pattern Structure
 
-Abstract patterns appear in all-over, brick, grid, and half-drop repeat structures. Geometric abstraction suits tile-based repeat structures with clean register lines. Painterly abstraction is typically placed in straight-drop or engineered layouts where the organic quality of the composition is preserved. Op art relies on precision alignment. There is no single structural requirement — structure depends on whether the abstraction is geometric or painterly in origin.
+Abstract patterns appear in all-over, brick, grid, and half-drop repeat structures. Geometric abstraction suits tile-based repeat structures with clean register lines. Painterly abstraction is typically placed in straight-drop or engineered layouts where the organic quality of the composition is preserved. Op art relies on precision alignment. There is no single structural requirement - structure depends on whether the abstraction is geometric or painterly in origin.
 
 ## Common Motifs
 
@@ -145,23 +146,23 @@ Abstract patterns appear in all-over, brick, grid, and half-drop repeat structur
 
 ## Colour and Style
 
-No fixed palette — colour is fundamental to the aesthetic rather than a supporting element. Geometric abstraction often uses high-contrast or limited colour sets for clarity of form. Painterly abstraction ranges from muted earthy tones to vivid expressionist hues. Op art relies on black-and-white or closely toned contrast pairs. Colour field abstraction typically uses saturated, unmodulated tones. Contemporary abstract pattern design spans seasonal trend palettes freely.
+No fixed palette - colour is fundamental to the aesthetic rather than a supporting element. Geometric abstraction often uses high-contrast or limited colour sets for clarity of form. Painterly abstraction ranges from muted earthy tones to vivid expressionist hues. Op art relies on black-and-white or closely toned contrast pairs. Colour field abstraction typically uses saturated, unmodulated tones. Contemporary abstract pattern design spans seasonal trend palettes freely.
 
 ## History and Context
 
-Abstract pattern as a formal discipline emerges from early 20th-century fine art movements. Romanticism, Impressionism, and Symbolism progressively dissolved literal representation. Wassily Kandinsky, Piet Mondrian, and Kazimir Malevich developed the first coherent abstract visual systems in the 1910s. The Bauhaus school formalised geometric abstraction as applied design practice — the most direct link between fine art abstraction and surface design. Abstract Expressionism (1940s–50s, New York) introduced gestural and painterly vocabularies. Op art and hard-edge painting (1960s) applied mathematical abstraction directly to textile and surface design. Paul Klee's teaching at the Bauhaus bridged fine art abstraction and pattern-making. Digital tools have expanded structural possibilities for abstract pattern generation significantly.
+Abstract pattern as a formal discipline emerges from early 20th-century fine art movements. Romanticism, Impressionism, and Symbolism progressively dissolved literal representation. Wassily Kandinsky, Piet Mondrian, and Kazimir Malevich developed the first coherent abstract visual systems in the 1910s. The Bauhaus school formalised geometric abstraction as applied design practice - the most direct link between fine art abstraction and surface design. Abstract Expressionism (1940s-50s, New York) introduced gestural and painterly vocabularies. Op art and hard-edge painting (1960s) applied mathematical abstraction directly to textile and surface design. Paul Klee's teaching at the Bauhaus bridged fine art abstraction and pattern-making. Digital tools have expanded structural possibilities for abstract pattern generation significantly.
 
 ## Surface Pattern Uses
 
-- **Fashion textiles** — abstract prints are a core category for womenswear, swimwear, and sportswear
-- **Wallpaper and home furnishing** — geometric abstraction is a perennial interiors category for both commercial and contemporary residential applications
-- **Licensing** — abstract patterns are among the most licensable due to broad market applicability across cultures and product categories
-- **Stationery and gifting** — geometric and painterly abstracts are widely used across greetings cards, wrapping paper, and packaging
-- **Floor coverings and upholstery** — hard-edge and geometric abstraction translates well to woven and printed textile surfaces
+- **Fashion textiles** - abstract prints are a core category for womenswear, swimwear, and sportswear
+- **Wallpaper and home furnishing** - geometric abstraction is a perennial interiors category for both commercial and contemporary residential applications
+- **Licensing** - abstract patterns are among the most licensable due to broad market applicability across cultures and product categories
+- **Stationery and gifting** - geometric and painterly abstracts are widely used across greetings cards, wrapping paper, and packaging
+- **Floor coverings and upholstery** - hard-edge and geometric abstraction translates well to woven and printed textile surfaces
 
 ## Related Pattern Types
 
-[[Geometric Pattern]], [[Op Art Pattern]], [[Bauhaus Pattern]], [[Minimalist Pattern]], [[Stripe Pattern]], [[Check Pattern]], [[Colour Field Pattern]]
+Geometric Pattern, Op Art Pattern, Bauhaus Pattern, Minimalist Pattern, Stripe Pattern, Check Pattern, Colour Field Pattern
 
 ## Source Notes
 

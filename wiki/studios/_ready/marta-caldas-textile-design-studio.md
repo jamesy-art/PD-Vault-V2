@@ -1,12 +1,8 @@
 ---
-name: Marta Caldas Textile Design Studio
+name: Marta Caldas
 slug: marta-caldas-textile-design-studio
 email: contact@martacaldasartstudio.com
-description: Marta Caldas Textile Design Studio creates original patterns for
-  the apparel and home decor markets, reflecting Caldas's own perception of
-  nature through hand-drawn, hand-painted, and digital motifs in traditional or
-  contemporary styles. Designs are delivered as layered AI/PSD files in seamless
-  repeat, prepared for production.
+description: Marta Caldas Textile Design Studio creates original patterns for the apparel and home decor markets, reflecting Caldas's own perception of nature through hand-drawn, hand-painted, and digital motifs in traditional or contemporary styles. Designs are delivered as layered AI/PSD files in seamless repeat, prepared for production.
 website_url: https://martacaldasartstudio.com/
 instagram_url: https://www.instagram.com/martacaldasartstudio
 is_active: true
@@ -42,6 +38,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 562
 ---
 # Marta Caldas Textile Design Studio
 
@@ -95,4 +92,4 @@ Marta Caldas is a painter and photographer born on Spain's northern coast who la
 
 ## Pattern Focus
 
-Nature-derived abstraction — florals, organic blob/pebble forms, and animal-print-inspired dot clusters — reflecting her stated influences of sea, light, and wildlife from coastal Spain and the Canary Islands.
+Nature-derived abstraction - florals, organic blob/pebble forms, and animal-print-inspired dot clusters - reflecting her stated influences of sea, light, and wildlife from coastal Spain and the Canary Islands.

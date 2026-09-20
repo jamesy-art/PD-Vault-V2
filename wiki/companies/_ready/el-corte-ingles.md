@@ -44,6 +44,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 151
 ---
 
 # El Corte Inglés
@@ -56,7 +57,7 @@ enrichment_status: enriched
 
 El Corte Inglés S.A. is a Spanish department store chain founded in 1940, rooted in a tailor's shop purchased on Madrid's Calle Preciados in the 1930s. It is the largest department store group in Europe and the third-largest in the world, operating 86 centres in Spain and 2 in Portugal (as of 2013). Total retail revenue reached €12,077 million in 2020. The group is privately held, controlled principally by the Ramón Areces Foundation and the Álvarez family. Marta Álvarez Guil has served as president since July 2019.
 
-No single creative director is documented for the El Corte Inglés own-brand portfolio. Individual sub-brands (Emidio Tucci, Sfera) operate their own seasonal design cycles. The group's textile history — rooted in Induyco's manufacturing heritage — suggests internally managed product development rather than external licensing for core own-brand ranges.
+No single creative director is documented for the El Corte Inglés own-brand portfolio. Individual sub-brands (Emidio Tucci, Sfera) operate their own seasonal design cycles. The group's textile history - rooted in Induyco's manufacturing heritage - suggests internally managed product development rather than external licensing for core own-brand ranges.
 
 ## History
 
@@ -74,7 +75,7 @@ Established as a tailoring business and expanded into American-style department 
 
 **Food own-brand:** Aliada
 
-Sfera — the group's fashion retail subsidiary — operates 490+ points of sale (75 stores-in-store within El Corte Inglés plus freestanding stores), generating €461M in revenue (FY2020). Conceived as a response to H&m, Mango, and Zara, Sfera was absorbed into the El Corte Inglés corporate structure in September 2020.
+Sfera - the group's fashion retail subsidiary - operates 490+ points of sale (75 stores-in-store within El Corte Inglés plus freestanding stores), generating €461M in revenue (FY2020). Conceived as a response to H&m, Mango, and Zara, Sfera was absorbed into the El Corte Inglés corporate structure in September 2020.
 
 ## Services
 

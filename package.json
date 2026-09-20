@@ -6,6 +6,7 @@
     "html-entities": "^2.6.0",
     "js-yaml": "^5.2.1",
     "playwright": "^1.60.0",
+    "tesseract.js": "^7.0.0",
     "yaml": "^2.9.0"
   }
 }

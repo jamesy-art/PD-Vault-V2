@@ -37,6 +37,7 @@ logo_type: icon
 created: '2026-06-11'
 updated: '2026-08-01'
 enrichment_status: enriched
+marketing_order: 213
 ---
 
 # VF
@@ -49,9 +50,9 @@ enrichment_status: enriched
 
 VF Corporation (formerly Vanity Fair Mills until 1969) is an American publicly traded apparel and footwear holding company headquartered in Denver, Colorado. Founded in 1899 as Reading Glove and Mitten Manufacturing Company in Reading, Pennsylvania, the business expanded into silk lingerie in 1913 under the Vanity Fair brand, went public in 1951, and grew through successive acquisitions into a major multi-brand apparel group.
 
-The company adopted the VF Corporation name in 1969 following the acquisition of H.D. Lee. Landmark acquisitions followed: Blue Bell (Wrangler, JanSport) in 1986, The North Face in 2000, Vans, Kipling, and Napapijri in 2004, and Timberland in 2011. In 2018 VF announced a strategic restructuring: the jeans and outlet businesses — Lee, Wrangler, VF Outlets — were spun off as Kontoor Brands Inc. (independent May 2019), and VF relocated its headquarters from Greensboro, North Carolina to Denver, Colorado. Subsequent divestitures include Supreme (sold to EssilorLuxottica, July 2024, US$1.5B) and Dickies (sold to Bluestar Alliance, November 2025, US$600M). Bracken Darrell (formerly Logitech CEO) became VF's CEO in June 2023. VF's portfolio is now organised into Outdoor, Active and Work brand categories.
+The company adopted the VF Corporation name in 1969 following the acquisition of H.D. Lee. Landmark acquisitions followed: Blue Bell (Wrangler, JanSport) in 1986, The North Face in 2000, Vans, Kipling, and Napapijri in 2004, and Timberland in 2011. In 2018 VF announced a strategic restructuring: the jeans and outlet businesses - Lee, Wrangler, VF Outlets - were spun off as Kontoor Brands Inc. (independent May 2019), and VF relocated its headquarters from Greensboro, North Carolina to Denver, Colorado. Subsequent divestitures include Supreme (sold to EssilorLuxottica, July 2024, US$1.5B) and Dickies (sold to Bluestar Alliance, November 2025, US$600M). Bracken Darrell (formerly Logitech CEO) became VF's CEO in June 2023. VF's portfolio is now organised into Outdoor, Active and Work brand categories.
 
-VF Corporation does not operate as a centralised design organisation — each brand maintains its own creative direction and design team. No group-level creative director is identified in the source. Surface pattern design decisions are made independently at brand level within the VF corporate structure.
+VF Corporation does not operate as a centralised design organisation - each brand maintains its own creative direction and design team. No group-level creative director is identified in the source. Surface pattern design decisions are made independently at brand level within the VF corporate structure.
 
 ## History
 
@@ -71,7 +72,7 @@ VF Corporation does not operate as a centralised design organisation — each br
 - 2017: Steve Rendle becomes CEO; Williamson-Dickie's brands acquired (Dickies, Workrite, Kodiak, Terra, Walls)
 - 2018: Icebreaker acquired; restructuring announced
 - 2020: Supreme acquired (US$2.1B)
-- 2019 (May): Kontoor Brands Inc. (NYSE: KTB) becomes independent — Lee, Wrangler, Rock & Republic, VF Outlet; HQ moves to Denver
+- 2019 (May): Kontoor Brands Inc. (NYSE: KTB) becomes independent - Lee, Wrangler, Rock & Republic, VF Outlet; HQ moves to Denver
 - 2021: Occupational Work segment sold to Redwood Capital Investments → Workwear Outfitters; Eagle Creek sold; multiple brands divested
 - 2023 (June): Bracken Darrell appointed CEO (formerly Logitech)
 - 2024 (July): Supreme sold to EssilorLuxottica (US$1.5B)
@@ -80,22 +81,22 @@ VF Corporation does not operate as a centralised design organisation — each br
 ## Products
 
 **Current brand portfolio (2025):**
-- **The North Face** (acquired 2000) — outdoor apparel, equipment, footwear
-- **Vans** (acquired 2004) — skateboarding and action sports footwear and apparel; checkerboard print heritage
-- **Timberland** (acquired 2011) — outdoor footwear, apparel, accessories
-- **Napapijri** (acquired 2004) — Italian outdoor-inspired fashion apparel; colourblock and printed performance fabrics
-- **Kipling** (acquired 2004) — bags, backpacks, accessories; Belgian brand with seasonal print programmes
-- **JanSport** (from 1986) — backpacks and bags; seasonal canvas print and graphic programmes
-- **Eastpak** (acquired 2000) — European backpacks and luggage
-- **Smartwool** (acquired 2011) — merino wool performance apparel
-- **Icebreaker** (acquired 2018) — merino wool outdoor clothing (New Zealand)
-- **Altra Running** (acquired 2018) — natural foot positioning running footwear
+- **The North Face** (acquired 2000) - outdoor apparel, equipment, footwear
+- **Vans** (acquired 2004) - skateboarding and action sports footwear and apparel; checkerboard print heritage
+- **Timberland** (acquired 2011) - outdoor footwear, apparel, accessories
+- **Napapijri** (acquired 2004) - Italian outdoor-inspired fashion apparel; colourblock and printed performance fabrics
+- **Kipling** (acquired 2004) - bags, backpacks, accessories; Belgian brand with seasonal print programmes
+- **JanSport** (from 1986) - backpacks and bags; seasonal canvas print and graphic programmes
+- **Eastpak** (acquired 2000) - European backpacks and luggage
+- **Smartwool** (acquired 2011) - merino wool performance apparel
+- **Icebreaker** (acquired 2018) - merino wool outdoor clothing (New Zealand)
+- **Altra Running** (acquired 2018) - natural foot positioning running footwear
 
 **Notable divested brands:** Supreme, Dickies, Lee, Wrangler, 7 for All Mankind, Nautica, Majestic Athletic, Vanity Fair lingerie, Lucy Activewear, Splendid, Ella Moss
 
 ## Services
 
-VF Corporation distributes through wholesale (to specialist outdoor, fashion, and sports retailers and department stores) and direct-to-consumer via brand-operated stores and e-commerce. VF Outlet stores (Reading, Pennsylvania; transferred to Kontoor Brands 2019) pioneered the outlet mall retail format — VF opened the first VF Outlet factory store in 1970. In 2025, VF signed a brand letter of intent calling on the Australian wool industry to end mulesing, consistent with Icebreaker and Smartwool's wool sourcing positions.
+VF Corporation distributes through wholesale (to specialist outdoor, fashion, and sports retailers and department stores) and direct-to-consumer via brand-operated stores and e-commerce. VF Outlet stores (Reading, Pennsylvania; transferred to Kontoor Brands 2019) pioneered the outlet mall retail format - VF opened the first VF Outlet factory store in 1970. In 2025, VF signed a brand letter of intent calling on the Australian wool industry to end mulesing, consistent with Icebreaker and Smartwool's wool sourcing positions.
 
 ## Markets
 
@@ -103,19 +104,19 @@ VF Corporation is one of the world's largest publicly traded apparel and footwea
 
 ## Pattern and Surface Design Relevance
 
-VF Corporation as a holding company is a significant commercial employer and distributor of surface pattern design across its brand portfolio. Design decisions — including print, pattern, colourway, and graphic surface design for apparel, footwear, and accessories — are made by each brand's dedicated design teams.
+VF Corporation as a holding company is a significant commercial employer and distributor of surface pattern design across its brand portfolio. Design decisions - including print, pattern, colourway, and graphic surface design for apparel, footwear, and accessories - are made by each brand's dedicated design teams.
 
-**Vans** — the brand's skateboarding heritage makes printed canvas shoes and printed apparel a core commercial category. Vans' checkerboard pattern is one of the most widely recognised surface patterns in global youth fashion. The brand operates an extensive collaborative print programme with artists, photographers, and creative brands.
+**Vans** - the brand's skateboarding heritage makes printed canvas shoes and printed apparel a core commercial category. Vans' checkerboard pattern is one of the most widely recognised surface patterns in global youth fashion. The brand operates an extensive collaborative print programme with artists, photographers, and creative brands.
 
-**The North Face** — seasonal outerwear and activewear collections involve significant surface design: colourway development, printed fleece, printed nylon, and graphic technical surfaces. The North Face has documented surface design collaborations with fashion brands and retailers including United Arrows (via Beauty & Youth sub-line).
+**The North Face** - seasonal outerwear and activewear collections involve significant surface design: colourway development, printed fleece, printed nylon, and graphic technical surfaces. The North Face has documented surface design collaborations with fashion brands and retailers including United Arrows (via Beauty & Youth sub-line).
 
-**Napapijri** — Italian outdoor apparel with bold colourway design and graphic use of colour applied to performance fabrics.
+**Napapijri** - Italian outdoor apparel with bold colourway design and graphic use of colour applied to performance fabrics.
 
-**Kipling** — bags produced in a distinctive textured nylon, with a long history of seasonal printed fabric limited editions and brand collaborations. Seasonal surface pattern direction is central to Kipling's commercial identity.
+**Kipling** - bags produced in a distinctive textured nylon, with a long history of seasonal printed fabric limited editions and brand collaborations. Seasonal surface pattern direction is central to Kipling's commercial identity.
 
-**JanSport and Eastpak** — globally distributed backpack brands with active seasonal print and graphic programmes; canvas print and pattern applied to bag surfaces at mass commercial scale.
+**JanSport and Eastpak** - globally distributed backpack brands with active seasonal print and graphic programmes; canvas print and pattern applied to bag surfaces at mass commercial scale.
 
-**Icebreaker and Smartwool** — merino wool performance apparel with knit structure patterns (rib, flatlock, texture) as inherent surface design elements.
+**Icebreaker and Smartwool** - merino wool performance apparel with knit structure patterns (rib, flatlock, texture) as inherent surface design elements.
 
 ## Official Resources
 

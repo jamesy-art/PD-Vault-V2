@@ -92,6 +92,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 124
 ---
 
 # Camper
@@ -111,7 +112,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Camper is a footwear company headquartered in Mallorca, Spain, founded in 1975 by Lorenzo Fluxà, grandson of Antonio Fluxà — the cobbler who introduced the first sewing machines to Mallorca in 1877 and established mechanised shoemaking on the island. The company sells approximately 4 million pairs of shoes annually across 400+ stores in 40 countries. Family-owned across four generations, the fourth-generation CEO Miguel Fluxà Rosselló has led the company since 2012. Camper's design identity is shaped by its Mediterranean and Mallorcan origins, a commitment to craft-informed product design, and the Camper Together collaboration programme — launched in 2006 to produce co-designed products and stores with external brand partners and designers.
+Camper is a footwear company headquartered in Mallorca, Spain, founded in 1975 by Lorenzo Fluxà, grandson of Antonio Fluxà - the cobbler who introduced the first sewing machines to Mallorca in 1877 and established mechanised shoemaking on the island. The company sells approximately 4 million pairs of shoes annually across 400+ stores in 40 countries. Family-owned across four generations, the fourth-generation CEO Miguel Fluxà Rosselló has led the company since 2012. Camper's design identity is shaped by its Mediterranean and Mallorcan origins, a commitment to craft-informed product design, and the Camper Together collaboration programme - launched in 2006 to produce co-designed products and stores with external brand partners and designers.
 
 Camper's design philosophy is rooted in Mallorcan and Mediterranean craft tradition, informed by generations of Fluxà family shoemaking. The brand's name means "farmer" in Catalan, evoking rural utility over urban fashion. This positioning has historically differentiated Camper from Italian luxury footwear brands, emphasising comfort, craft, and distinctive design over status. Romain Kremer's appointment as creative director (2014) formalised the Camper Together model of external creative collaboration into the core design function. CamperLab pushes into more experimental territory under Achilles Ion Gabriel. The brand's lifestyle extensions (hotels, restaurants) signal an intent to embed Camper in broader cultural and hospitality contexts rather than remaining a pure product brand.
 
@@ -125,32 +126,32 @@ Camper's design philosophy is rooted in Mallorcan and Mediterranean craft tradit
 - **Flagship dates:** Barcelona 1981; Paris + Milan 1992; New York City 1999
 - **National award:** National Special Achievement Award for Large Fashion Companies, 5th National Fashion Industry Awards, Spain (awarded by Queen Letizia, December 2018)
 - **Brand extensions:** Casa Camper hotels (Barcelona 2005; Berlin); Dos Palillos restaurant, El Raval, Barcelona (Michelin-starred)
-- **Sub-brand:** CamperLab — creative director Achilles Ion Gabriel (Finnish shoe designer, from 2019)
+- **Sub-brand:** CamperLab - creative director Achilles Ion Gabriel (Finnish shoe designer, from 2019)
 - **Publication:** *The Walking Society* (Lars Müller Publishers, 2015)
 
 ## Products
 
-- **Footwear** — core product; men's, women's, and children's shoes; ~4 million pairs/year
-- **Camper Together** — collaborative product line; products and stores co-designed with brand partners and external designers (launched 2006); Romain Kremer is the most documented collaborator (from Camper Together into main collection consultant, 2013; creative director, 2014)
-- **CamperLab** — experimental sub-brand; Achilles Ion Gabriel as creative director from 2019
-- **Casa Camper** — hotel concept; Barcelona (2005) and Berlin
-- **Dos Palillos** — Michelin-starred restaurant, El Raval, Barcelona (part of Casa Camper Barcelona)
+- **Footwear** - core product; men's, women's, and children's shoes; ~4 million pairs/year
+- **Camper Together** - collaborative product line; products and stores co-designed with brand partners and external designers (launched 2006); Romain Kremer is the most documented collaborator (from Camper Together into main collection consultant, 2013; creative director, 2014)
+- **CamperLab** - experimental sub-brand; Achilles Ion Gabriel as creative director from 2019
+- **Casa Camper** - hotel concept; Barcelona (2005) and Berlin
+- **Dos Palillos** - Michelin-starred restaurant, El Raval, Barcelona (part of Casa Camper Barcelona)
 
 ## Services
 
-Camper operates its own branded retail network of 400+ stores in 40 countries, supplemented by wholesale. The New York City store opened in 1999; Paris and Milan in 1992; Barcelona (first) in 1981. No external licensing for surface pattern design, textiles, or prints is documented in the source. Brand partnerships occur through the Camper Together model — a co-design collaboration format rather than a licensing arrangement. Manufacturing heritage is based in Mallorca (Antonio Fluxà's 1877 sewing machine introduction).
+Camper operates its own branded retail network of 400+ stores in 40 countries, supplemented by wholesale. The New York City store opened in 1999; Paris and Milan in 1992; Barcelona (first) in 1981. No external licensing for surface pattern design, textiles, or prints is documented in the source. Brand partnerships occur through the Camper Together model - a co-design collaboration format rather than a licensing arrangement. Manufacturing heritage is based in Mallorca (Antonio Fluxà's 1877 sewing machine introduction).
 
 ## Markets
 
-Camper occupies a distinctive position in the mid-to-premium footwear market — a design-led brand that sits between accessible and luxury, with consistent international retail presence since the early 1990s. Its Mediterranean roots and craft manufacturing heritage differentiate it from mainstream fashion footwear. The Camper Together collaboration programme is a structurally embedded design diversification tool, producing limited co-designed product and store concepts with external designers, positioning Camper as a design-open platform brand. CamperLab functions as the experimental/high-design sub-brand. The hotel and restaurant ventures (Casa Camper, Dos Palillos) signal an early-mover lifestyle brand strategy predating similar moves by fashion brands.
+Camper occupies a distinctive position in the mid-to-premium footwear market - a design-led brand that sits between accessible and luxury, with consistent international retail presence since the early 1990s. Its Mediterranean roots and craft manufacturing heritage differentiate it from mainstream fashion footwear. The Camper Together collaboration programme is a structurally embedded design diversification tool, producing limited co-designed product and store concepts with external designers, positioning Camper as a design-open platform brand. CamperLab functions as the experimental/high-design sub-brand. The hotel and restaurant ventures (Casa Camper, Dos Palillos) signal an early-mover lifestyle brand strategy predating similar moves by fashion brands.
 
 ## Pattern and Surface Design Relevance
 
-Camper's surface design relevance is centred on footwear surface treatment and the Camper Together collaboration programme. In footwear, surface design manifests through upper materials (leather, suede, textile), colour development, graphic detailing, and outsole pattern design — all core to Camper's product identity. The brand's design-led positioning implies a high level of surface design intention relative to commodity footwear.
+Camper's surface design relevance is centred on footwear surface treatment and the Camper Together collaboration programme. In footwear, surface design manifests through upper materials (leather, suede, textile), colour development, graphic detailing, and outsole pattern design - all core to Camper's product identity. The brand's design-led positioning implies a high level of surface design intention relative to commodity footwear.
 
-The **Camper Together** programme (from 2006) is particularly relevant: it produces designer-originated footwear that introduces external aesthetic approaches — including graphic, pattern, and surface treatment — to the Camper form. Romain Kremer (formerly at Mugler menswear) spent eight seasons collaborating via this programme before becoming main collection consultant (2013) and then creative director (2014), indicating the depth of design integration the programme facilitates.
+The **Camper Together** programme (from 2006) is particularly relevant: it produces designer-originated footwear that introduces external aesthetic approaches - including graphic, pattern, and surface treatment - to the Camper form. Romain Kremer (formerly at Mugler menswear) spent eight seasons collaborating via this programme before becoming main collection consultant (2013) and then creative director (2014), indicating the depth of design integration the programme facilitates.
 
-**CamperLab**, led by Finnish designer Achilles Ion Gabriel from 2019, functions as a high-design skunkworks within the brand — the most experimental surface and form territory in the portfolio.
+**CamperLab**, led by Finnish designer Achilles Ion Gabriel from 2019, functions as a high-design skunkworks within the brand - the most experimental surface and form territory in the portfolio.
 
 ## Official Resources
 

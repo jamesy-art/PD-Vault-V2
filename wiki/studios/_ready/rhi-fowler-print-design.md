@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 579
 ---
 # Rhi Fowler Print Design
 
@@ -90,7 +91,7 @@ The The portfolio shows the leopard-ikat print applied to both a resort-style sw
 
 ## Techniques and Artwork Process
 
-Fowler works in gouache and ink/watercolour, developing artwork by hand before translating it into repeat — paint tubes, mixing dishes, and works-in-progress are visible across several selected patterns. Reference and mood material, including archival Laura Ashley ditsy florals, informs colour and motif direction. Designs are developed in mini collections rather than as single one-off prints.
+Fowler works in gouache and ink/watercolour, developing artwork by hand before translating it into repeat - paint tubes, mixing dishes, and works-in-progress are visible across several selected patterns. Reference and mood material, including archival Laura Ashley ditsy florals, informs colour and motif direction. Designs are developed in mini collections rather than as single one-off prints.
 
 ## Clients and Commercial Positioning
 

@@ -1,5 +1,5 @@
 ---
-name: star-pattern
+name: Star Pattern
 slug: star-pattern
 status: draft
 type_group: general
@@ -60,13 +60,13 @@ gallery_images:
     sort_order: 1
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/4-point-stars-background_59538920.htm"
-      image_url: "https://img.magnific.com/free-vector/4-point-stars-background_78370-2797.jpg"
+      page_url: https://www.magnific.com/free-vector/4-point-stars-background_59538920.htm
+      image_url: https://img.magnific.com/free-vector/4-point-stars-background_78370-2797.jpg
       title: 4 point stars background
       description: Download this free vector of 4 point stars background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: star-pattern-2-pattern-designers.jpg
     title: Black stars whtie background
     alt: Black stars whtie background
@@ -75,13 +75,13 @@ gallery_images:
     sort_order: 2
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/black-stars-whtie-background_166267616.htm"
-      image_url: "https://img.magnific.com/free-vector/black-stars-whtie-background_78370-5263.jpg"
+      page_url: https://www.magnific.com/free-vector/black-stars-whtie-background_166267616.htm
+      image_url: https://img.magnific.com/free-vector/black-stars-whtie-background_78370-5263.jpg
       title: Black stars whtie background
       description: Download this free vector of Black stars whtie background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: star-pattern-3-pattern-designers.jpg
     title: Flat design silver stars pattern
     alt: Flat design silver stars pattern
@@ -90,13 +90,13 @@ gallery_images:
     sort_order: 3
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/flat-design-silver-stars-pattern_35238593.htm"
-      image_url: "https://img.magnific.com/free-vector/flat-design-silver-stars-pattern_23-2149988776.jpg"
+      page_url: https://www.magnific.com/free-vector/flat-design-silver-stars-pattern_35238593.htm
+      image_url: https://img.magnific.com/free-vector/flat-design-silver-stars-pattern_23-2149988776.jpg
       title: Flat design silver stars pattern
       description: Download this free vector of Flat design silver stars pattern and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: star-pattern-4-pattern-designers.jpg
     title: Gold stars on navy background
     alt: Gold stars on navy background
@@ -105,13 +105,14 @@ gallery_images:
     sort_order: 4
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/gold-stars-navy-background_177781477.htm"
-      image_url: "https://img.magnific.com/free-vector/gold-stars-navy-background_78370-5451.jpg"
+      page_url: https://www.magnific.com/free-vector/gold-stars-navy-background_177781477.htm
+      image_url: https://img.magnific.com/free-vector/gold-stars-navy-background_78370-5451.jpg
       title: Gold stars on navy background
       description: Download this free vector of Gold stars on navy background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
+marketing_order: 29
 ---
 
 # star-pattern
@@ -119,7 +120,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/star-pattern/profile/star-pattern-image.svg)
-A geometric motif built from star polygons — pointed radial shapes ranging from three to fourteen or more points — carrying dense symbolic, religious, and national associations across cultures.
+A geometric motif built from star polygons - pointed radial shapes ranging from three to fourteen or more points - carrying dense symbolic, religious, and national associations across cultures.
 
 ## Overview
 
@@ -131,16 +132,16 @@ Star motifs vary by point count, each with a different silhouette: three-pointed
 
 ## Pattern Structure
 
-Star motifs are typically used as discrete, symmetrical radial units — either as a single feature motif or repeated as a scattered or grid-based all-over pattern. The source does not describe specific repeat-layout conventions for star motifs in surface pattern design; the structural detail available concerns the construction of the star shape itself (point count, angle, and whether edges are drawn straight or interlaced).
+Star motifs are typically used as discrete, symmetrical radial units - either as a single feature motif or repeated as a scattered or grid-based all-over pattern. The source does not describe specific repeat-layout conventions for star motifs in surface pattern design; the structural detail available concerns the construction of the star shape itself (point count, angle, and whether edges are drawn straight or interlaced).
 
 ## Common Motifs
 
-- Five-pointed star / pentagram — the most common star ideogram in Western design; associated with military, national, and mystical symbolism
-- Six-pointed star / hexagram (Star of David) — two interlaced triangles; strongly associated with Judaism
-- Eight-pointed star — widely used in Arabic decorative art, including the Star of Lakshmi form (overlapping squares) and the Rub el Hizb (with a central circle)
-- Nine-pointed star — principal symbol of the Baháʼí Faith
-- Four-pointed star — historically used in campaign medals, compass roses, and corporate emblems; the associated "sparkles" ✨ glyph has become a contemporary symbol for AI
-- Star and crescent — five- or eight-pointed star paired with a crescent, used in several national flags
+- Five-pointed star / pentagram - the most common star ideogram in Western design; associated with military, national, and mystical symbolism
+- Six-pointed star / hexagram (Star of David) - two interlaced triangles; strongly associated with Judaism
+- Eight-pointed star - widely used in Arabic decorative art, including the Star of Lakshmi form (overlapping squares) and the Rub el Hizb (with a central circle)
+- Nine-pointed star - principal symbol of the Baháʼí Faith
+- Four-pointed star - historically used in campaign medals, compass roses, and corporate emblems; the associated "sparkles" ✨ glyph has become a contemporary symbol for AI
+- Star and crescent - five- or eight-pointed star paired with a crescent, used in several national flags
 
 ## Colour and Style
 
@@ -148,7 +149,7 @@ The source does not specify colour conventions for star motifs; stars are typica
 
 ## History and Context
 
-Star motifs have deep and largely independent histories across cultures: the mullet (star charge) in Western heraldry, the pentagram's mystical and magical associations, the hexagram's long association with Judaism, and the eight-pointed star's established place in Arabic/Islamic decorative art. Political and national use is extensive — the five-pointed star alone appears in the flags of 35 countries and is closely tied to 20th-century communist iconography; the Commonwealth/Federation Star of Australia and the Federal Star of Malaysia are examples of the point-count carrying specific political meaning (number of states or territories represented).
+Star motifs have deep and largely independent histories across cultures: the mullet (star charge) in Western heraldry, the pentagram's mystical and magical associations, the hexagram's long association with Judaism, and the eight-pointed star's established place in Arabic/Islamic decorative art. Political and national use is extensive - the five-pointed star alone appears in the flags of 35 countries and is closely tied to 20th-century communist iconography; the Commonwealth/Federation Star of Australia and the Federal Star of Malaysia are examples of the point-count carrying specific political meaning (number of states or territories represented).
 
 ## Surface Pattern Uses
 
@@ -156,11 +157,11 @@ The source documents the star primarily as a symbolic and heraldic device (flags
 
 ## Related Pattern Types
 
-[[Tessellation Pattern]], [[Astrology Pattern]], [[Islamic Geometric Pattern]]
+Tessellation Pattern, Astrology Pattern, Islamic Geometric Pattern
 
 ## Source Notes
 
-- Source: Wikipedia, "Star polygons in art and culture" — covers emblematic, heraldic, religious, military, and vexillological (flag) use of star motifs by point count (three- through fourteen-pointed). The source is symbolism/heraldry-focused rather than textile- or surface-pattern-focused; no designers, commercial markets, or SPD-specific applications are documented.
+- Source: Wikipedia, "Star polygons in art and culture" - covers emblematic, heraldic, religious, military, and vexillological (flag) use of star motifs by point count (three- through fourteen-pointed). The source is symbolism/heraldry-focused rather than textile- or surface-pattern-focused; no designers, commercial markets, or SPD-specific applications are documented.
 
 ## Editorial Images
 

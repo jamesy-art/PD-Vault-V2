@@ -84,6 +84,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 27
 ---
 
 # Arnotts
@@ -101,7 +102,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Arnotts is a full-service department store on Henry Street, Dublin, Ireland. The business traces its origins to a drapery founded in 1843 by George Cannock and Andrew White at 14 Henry Street. John Arnott took shares in 1848; the business was renamed Arnott's in 1865 after Cannock departed. The current building — designed by G.P. Beater — opened in 1895 following a fire that destroyed the original structure in 1894. Arnotts occupies approximately 300,000 square feet between Henry Street and Abbey Street, behind the GPO. It has been part of Selfridges Group since November 2015 and is currently jointly owned by Thai conglomerate Central Group (60%) and the Saudi Arabian Public Investment Fund (PIF, 40%).
+Arnotts is a full-service department store on Henry Street, Dublin, Ireland. The business traces its origins to a drapery founded in 1843 by George Cannock and Andrew White at 14 Henry Street. John Arnott took shares in 1848; the business was renamed Arnott's in 1865 after Cannock departed. The current building - designed by G.P. Beater - opened in 1895 following a fire that destroyed the original structure in 1894. Arnotts occupies approximately 300,000 square feet between Henry Street and Abbey Street, behind the GPO. It has been part of Selfridges Group since November 2015 and is currently jointly owned by Thai conglomerate Central Group (60%) and the Saudi Arabian Public Investment Fund (PIF, 40%).
 
 Arnotts operates as a multi-brand retailer rather than a design-directed own-brand house. Its aesthetic identity is set by the curated brand mix rather than in-house design. The Selfridges Group positioning frames the store as a premium but accessible multi-brand fashion and lifestyle destination.
 
@@ -128,15 +129,15 @@ Arnotts is part of Selfridges Group, a portfolio of four premium department stor
 
 The Henry Street location is the primary trading address. A former Stillorgan Shopping Centre footwear-only branch closed in 2011. Arnotts held an 18-year Dublin GAA sponsorship that ended in 2009.
 
-Note: YAML location field shows "United Kingdom" — Arnotts is located in Dublin, Republic of Ireland. This is a data placeholder error. YAML preserved as found.
+Note: YAML location field shows "United Kingdom" - Arnotts is located in Dublin, Republic of Ireland. This is a data placeholder error. YAML preserved as found.
 
 ## Markets
 
-Arnotts is one of two leading Irish department stores within the Selfridges Group — the other being Brown Thomas. As Dublin's Henry Street anchor store, Arnotts competes in the accessible-to-premium department store segment, stocking multi-brand fashion, beauty, and home across a broad market range.
+Arnotts is one of two leading Irish department stores within the Selfridges Group - the other being Brown Thomas. As Dublin's Henry Street anchor store, Arnotts competes in the accessible-to-premium department store segment, stocking multi-brand fashion, beauty, and home across a broad market range.
 
 ## Pattern and Surface Design Relevance
 
-As a full-service Irish department store, Arnotts stocks multi-brand fashion and home textiles across a wide price range. The home and fashion departments create a multi-vendor SPD retail environment — pattern-forward clothing, printed home textiles, and decorative surfaces are core product categories. Arnotts is a significant stockist for international fashion brands in the Irish market, making it a relevant retail channel for SPD-driven fashion and home products.
+As a full-service Irish department store, Arnotts stocks multi-brand fashion and home textiles across a wide price range. The home and fashion departments create a multi-vendor SPD retail environment - pattern-forward clothing, printed home textiles, and decorative surfaces are core product categories. Arnotts is a significant stockist for international fashion brands in the Irish market, making it a relevant retail channel for SPD-driven fashion and home products.
 
 ## Official Resources
 

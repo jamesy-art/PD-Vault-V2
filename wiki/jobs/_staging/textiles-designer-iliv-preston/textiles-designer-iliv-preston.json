@@ -1,0 +1,146 @@
+{
+  "capture_id": "cap-clip-8e712cee5dabaf2b",
+  "canonical_id": "can-clip-8e712cee5dabaf2b",
+  "editorial_slug": "textiles-designer-iliv-preston",
+  "content_hash": "981621ebaca469f958791c5f335644aad3177e5510baed1a05145ea89b809101",
+  "doc_kind": "job",
+  "editorial_status": "canonical",
+  "title": "Textiles Designer",
+  "company": "ILIV",
+  "provenance": {
+    "capture_ids": [
+      "cap-clip-8e712cee5dabaf2b"
+    ],
+    "discovered_item_refs": [],
+    "source_kinds": [
+      "print_and_pattern"
+    ],
+    "raw_paths": [
+      "raw/_jobs/textiles-designers-ILIV-pp.md"
+    ],
+    "original_title": "textiles-designers-ILIV-pp",
+    "original_url": null,
+    "original_publication": null,
+    "capture_timestamp": "1970-01-01T00:00:00.000Z",
+    "adapter": "print_and_pattern",
+    "adapter_version": null,
+    "content_hash": "1b0461bafb2234087600ba36d6dcf116ddbfcd7215f459ca4d061abecaa53c98",
+    "capture_extra": {
+      "tags": [],
+      "description": null,
+      "source_image": null,
+      "source_path": "/Users/jamesbrown/Documents/PD Vault V2/raw/_jobs/textiles-designers-ILIV-pp.md"
+    }
+  },
+  "versions": {
+    "schema_version": "1.0.0",
+    "content_version": "1",
+    "capture_version": "",
+    "normaliser_version": "1.2.0",
+    "ruleset_version": "1.2.0",
+    "editorial_version": "1.0.0",
+    "template": "job",
+    "template_version": "1.0.0"
+  },
+  "relationships": {
+    "company": null,
+    "designer": null,
+    "types": [],
+    "skills": [
+      {
+        "id": "sk-textile-design",
+        "slug": "textile-design",
+        "label": "Textile Design",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sk-trend-research",
+        "slug": "trend-research",
+        "label": "Trend Research",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "slug",
+          "resolver_version": "1.0.0",
+          "resolver_name": "skills",
+          "source_location": "yaml.skills",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "software": [
+      {
+        "id": "sw-illustrator",
+        "slug": "illustrator",
+        "label": "Illustrator",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-indesign",
+        "slug": "indesign",
+        "label": "InDesign",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      },
+      {
+        "id": "sw-photoshop",
+        "slug": "photoshop",
+        "label": "Photoshop",
+        "resolution": {
+          "resolved_by": "deterministic",
+          "confidence": 95,
+          "matched_on": "alias",
+          "resolver_version": "1.0.0",
+          "resolver_name": "software",
+          "source_location": "yaml.software",
+          "resolved_at": "1970-01-01T00:00:00.000Z"
+        }
+      }
+    ],
+    "markets": [],
+    "country": {
+      "id": "ct-gb",
+      "slug": "gb",
+      "label": "United Kingdom",
+      "resolution": {
+        "resolved_by": "deterministic",
+        "confidence": 100,
+        "matched_on": "exact",
+        "resolver_version": "1.0.0",
+        "resolver_name": "location",
+        "source_location": "yaml.country",
+        "resolved_at": "1970-01-01T00:00:00.000Z"
+      }
+    },
+    "city": null,
+    "collection": null,
+    "interview": null
+  },
+  "quality_version": "1.0.0",
+  "quality_timestamp": "1970-01-01T00:00:00.000Z",
+  "quality_score": 80,
+  "quality_status": "pass_with_warnings"
+}

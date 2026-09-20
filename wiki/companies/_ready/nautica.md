@@ -72,6 +72,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 113
 ---
 
 # Nautica
@@ -91,7 +92,7 @@ enrichment_status: enriched
 
 Nautica is an American apparel brand specialising in nautical style clothing and lifestyle products. It was founded in 1983 by clothing designer David Chu and a partner. The name derives from Latin nauticus / Greek ναυτικός (naval); in Italian nautica means seamanship. State-O-Maine, a New York-based apparel company, purchased Nautica in 1984 for cash and stock; State-O-Maine renamed itself Nautica in 1994. VF Corporation purchased Nautica in 2003. Authentic Brands Group (ABG) announced the acquisition from VF Corp in March 2018; the sale completed April 30, 2018. Since ABG acquisition the brand has been repositioned as an upper mid-range brand and is manufactured and marketed by Catalyst Brands. YAML parent_company "authentic-brands-group" is correct. YAML location "United States" is correct.
 
-David Chu established Nautica's nautical aesthetic from founding in 1983. The brand's surface language — stripe, anchor, rope motif, maritime colourway — became a widely recognised template for American preppy sportswear. ABG's acquisition and repositioning (from 2018) toward upper mid-range athleisure has shifted design direction toward performance-adjacent surface aesthetics while retaining the nautical brand identity.
+David Chu established Nautica's nautical aesthetic from founding in 1983. The brand's surface language - stripe, anchor, rope motif, maritime colourway - became a widely recognised template for American preppy sportswear. ABG's acquisition and repositioning (from 2018) toward upper mid-range athleisure has shifted design direction toward performance-adjacent surface aesthetics while retaining the nautical brand identity.
 
 ## History
 
@@ -103,7 +104,7 @@ Apparel: men's, women's, and children's. Accessories, homeware, watches, fragran
 
 ## Services
 
-YAML parent_company "authentic-brands-group" is correct. YAML location "United States" is correct. ABG owns the brand; Catalyst Brands operates manufacturing and marketing. ABG acquired from VF Corp April 30, 2018. ABG also owns Brooks Brothers (acquired 2020) and Izod (acquired from PVH 2021) — Nautica slots between these in the ABG price hierarchy.
+YAML parent_company "authentic-brands-group" is correct. YAML location "United States" is correct. ABG owns the brand; Catalyst Brands operates manufacturing and marketing. ABG acquired from VF Corp April 30, 2018. ABG also owns Brooks Brothers (acquired 2020) and Izod (acquired from PVH 2021) - Nautica slots between these in the ABG price hierarchy.
 
 ## Markets
 
@@ -113,9 +114,9 @@ Post-ABG acquisition, Nautica is positioned above lower-priced Izod (PVH) and Ch
 
 Nautical motifs constitute a well-defined and historically significant surface pattern design category, and Nautica is one of the most commercially prominent brands associated with this aesthetic:
 
-- **Nautical motif and colorway system**: Rope, anchor, sailboat, stripe, gingham, pennant, and navy/white/red/gold colorways are the defining surface pattern language of the Nautica brand — a distillation of preppy American sportswear surface aesthetics established by David Chu from 1983
+- **Nautical motif and colorway system**: Rope, anchor, sailboat, stripe, gingham, pennant, and navy/white/red/gold colorways are the defining surface pattern language of the Nautica brand - a distillation of preppy American sportswear surface aesthetics established by David Chu from 1983
 - **Stripe as core repeat pattern**: Horizontal and vertical stripe in navy, red, and white on knitwear, outerwear, and swimwear is a consistent surface pattern language across Nautica's product range
-- **Home category surface design**: YAML retail_categories includes "Home" — nautical surface pattern applied to homeware (bedding, towels, cushions) is a direct SPD product category; Nautica's nautical motif system extends to domestic textile surfaces
+- **Home category surface design**: YAML retail_categories includes "Home" - nautical surface pattern applied to homeware (bedding, towels, cushions) is a direct SPD product category; Nautica's nautical motif system extends to domestic textile surfaces
 - **Activewear and swimwear surface**: Post-ABG repositioning toward athleisure increases the importance of print and pattern direction on performance and swimwear fabrics
 - **Fragrance packaging surface**: 12 documented fragrance sub-brands each require independent packaging surface design direction carrying the Nautica brand identity (Voyage, Heritage, Blue, Classic, etc.)
 - **Watches surface design**: Watch face and strap design within Nautica's accessories range carries the nautical surface aesthetic

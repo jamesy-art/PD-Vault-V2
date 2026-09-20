@@ -41,6 +41,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 560
 ---
 # Made in Brighton
 
@@ -96,4 +97,4 @@ Described on Pattern Cloud as "long-established"; no founding date or team detai
 
 ## Pattern Focus
 
-Botanical and floral repeats dominate the selection, ranging from wildflower/thistle and tropical foliage to desert cactus scenes, alongside one traditional ornamental floral tile motif and a coastal fish print — a broad botanical and novelty range rather than a single niche.
+Botanical and floral repeats dominate the selection, ranging from wildflower/thistle and tropical foliage to desert cactus scenes, alongside one traditional ornamental floral tile motif and a coastal fish print - a broad botanical and novelty range rather than a single niche.

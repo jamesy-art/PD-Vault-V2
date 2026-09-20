@@ -93,6 +93,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 67
 ---
 
 # Abercrombie & Fitch
@@ -136,10 +137,10 @@ Core product categories:
 - Fragrances: *Fierce* and *8* (signature scents)
 
 **Sub-brands:**
-- **Hollister Co.** — California lifestyle positioning for teens; lower price point
-- **Gilly Hicks** — intimates, loungewear, and activewear for women
-- **Abercrombie Kids** — children's and toddler clothing (including newborn–5T from 2026)
-- **Social Tourist** — teen lifestyle brand in partnership with Charli and Dixie D'Amelio (via Hollister)
+- **Hollister Co.** - California lifestyle positioning for teens; lower price point
+- **Gilly Hicks** - intimates, loungewear, and activewear for women
+- **Abercrombie Kids** - children's and toddler clothing (including newborn-5T from 2026)
+- **Social Tourist** - teen lifestyle brand in partnership with Charli and Dixie D'Amelio (via Hollister)
 
 ## Services
 

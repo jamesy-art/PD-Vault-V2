@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-8e712cee5dabaf2b",
+  "editorial_slug": "textiles-designer-iliv-preston",
+  "canonical_id": "can-clip-8e712cee5dabaf2b",
+  "capture_id": "cap-clip-8e712cee5dabaf2b",
+  "ready_status": "ready",
+  "ready_at": "1970-01-01T00:00:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.1ffdf6cf",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "1ffdf6cf9cb04f32f35b2ba5ae80ae6c35ae44d33f591f301e6597ebdbfb285e",
+  "title": "Textiles Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 2,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 2,
+    "rewritten_wikilinks": 0
+  }
+}

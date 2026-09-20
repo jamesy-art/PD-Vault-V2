@@ -1,5 +1,5 @@
 ---
-name: pizza-pattern
+name: Pizza Pattern
 slug: pizza-pattern
 status: draft
 type_group: general
@@ -57,13 +57,13 @@ gallery_images:
     sort_order: 1
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/fast-food-pattern-with-vector-line-icons-pizza-restaurant-menu-background_418817514.htm"
-      image_url: "https://img.magnific.com/premium-vector/fast-food-pattern-with-vector-line-icons-pizza-restaurant-menu-background_1254296-6858.jpg"
+      page_url: https://www.magnific.com/premium-vector/fast-food-pattern-with-vector-line-icons-pizza-restaurant-menu-background_418817514.htm
+      image_url: https://img.magnific.com/premium-vector/fast-food-pattern-with-vector-line-icons-pizza-restaurant-menu-background_1254296-6858.jpg
       title: Fast food pattern with vector line icons of pizza restaurant menu background | Premium Vector
       description: Download this Premium vector of Fast food pattern with vector line icons of pizza restaurant menu background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: pizza-pattern-2-pattern-designers.jpg
     title: Hand drawn food pattern background
     alt: Hand drawn food pattern background
@@ -72,13 +72,13 @@ gallery_images:
     sort_order: 2
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/hand-drawn-food-pattern-background_72159777.htm"
-      image_url: "https://img.magnific.com/free-vector/hand-drawn-food-pattern-background_52683-142287.jpg"
+      page_url: https://www.magnific.com/free-vector/hand-drawn-food-pattern-background_72159777.htm
+      image_url: https://img.magnific.com/free-vector/hand-drawn-food-pattern-background_52683-142287.jpg
       title: Hand drawn food pattern background
       description: Download this free vector of Hand drawn food pattern background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: pizza-pattern-3-pattern-designers.jpg
     title: Seamless pattern with pizza, herbs, mushrooms, olives.  illustration | Premium Vector
     alt: Seamless pattern with pizza, herbs, mushrooms, olives.  illustration | Premium Vector
@@ -87,13 +87,13 @@ gallery_images:
     sort_order: 3
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/seamless-pattern-with-pizza-herbs-mushrooms-olives-illustration_9190870.htm"
-      image_url: "https://img.magnific.com/premium-vector/seamless-pattern-with-pizza-herbs-mushrooms-olives-illustration_124137-1028.jpg"
+      page_url: https://www.magnific.com/premium-vector/seamless-pattern-with-pizza-herbs-mushrooms-olives-illustration_9190870.htm
+      image_url: https://img.magnific.com/premium-vector/seamless-pattern-with-pizza-herbs-mushrooms-olives-illustration_124137-1028.jpg
       title: Seamless pattern with pizza, herbs, mushrooms, olives.  illustration | Premium Vector
       description: Download this Premium vector of Seamless pattern with pizza, herbs, mushrooms, olives.  illustration and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: pizza-pattern-4-pattern-designers.jpg
     title: Seamless pizza ingredients
     alt: Seamless pizza ingredients
@@ -102,13 +102,14 @@ gallery_images:
     sort_order: 4
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/seamless-pizza-ingredients_1389751.htm"
-      image_url: "https://img.magnific.com/free-vector/seamless-pizza-ingredients_1176-269.jpg"
+      page_url: https://www.magnific.com/free-vector/seamless-pizza-ingredients_1389751.htm
+      image_url: https://img.magnific.com/free-vector/seamless-pizza-ingredients_1176-269.jpg
       title: Seamless pizza ingredients
       description: Download this free vector of Seamless pizza ingredients and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
+marketing_order: 63
 ---
 
 # pizza-pattern
@@ -124,7 +125,7 @@ Pizza pattern is a conversational, food-themed motif drawing on visual conventio
 
 ## Visual Characteristics
 
-The dominant motif is the pizza slice (triangle) and the whole pie (circle), often paired with secondary elements such as a pizza box (square), melted cheese, and toppings. Designers use these three core shapes deliberately: the triangle to suggest direction and movement, the circle to suggest community and sharing, and the square to suggest stability and structure (as in packaging). Typography in the branding source ranges from bold rounded serifs and hand-drawn script (signalling warmth, tradition, and artisan quality) to chunky geometric sans-serifs (signalling speed and modernity) — a useful reference point for lettering paired with a pizza-themed print.
+The dominant motif is the pizza slice (triangle) and the whole pie (circle), often paired with secondary elements such as a pizza box (square), melted cheese, and toppings. Designers use these three core shapes deliberately: the triangle to suggest direction and movement, the circle to suggest community and sharing, and the square to suggest stability and structure (as in packaging). Typography in the branding source ranges from bold rounded serifs and hand-drawn script (signalling warmth, tradition, and artisan quality) to chunky geometric sans-serifs (signalling speed and modernity) - a useful reference point for lettering paired with a pizza-themed print.
 
 ## Pattern Structure
 
@@ -136,7 +137,7 @@ The source does not describe repeat-layout conventions for a pizza surface patte
 - Whole pizza / pie (circle silhouette)
 - Pizza box (square)
 - Melted cheese, toppings, and crust texture
-- Negative-space visual hybrids (e.g. a slice merged with a clock, or with a local landmark) — a branding device rather than a repeat-pattern motif
+- Negative-space visual hybrids (e.g. a slice merged with a clock, or with a local landmark) - a branding device rather than a repeat-pattern motif
 
 ## Colour and Style
 
@@ -152,11 +153,11 @@ The source itself addresses logo, packaging, and brand identity design rather th
 
 ## Related Pattern Types
 
-[[Novelty Pattern]], [[Food Pattern]]
+Novelty Pattern, Food Pattern
 
 ## Source Notes
 
-- Source: uncredited design-analysis summary on pizza graphic design (branding, packaging, and logo design conventions) — covers colour psychology, shape symbolism (triangle/circle/square), typography, and negative-space branding devices in pizza-related graphic design. Not a surface-pattern or textile source; no designer names, historical dates, or SPD market data given.
+- Source: uncredited design-analysis summary on pizza graphic design (branding, packaging, and logo design conventions) - covers colour psychology, shape symbolism (triangle/circle/square), typography, and negative-space branding devices in pizza-related graphic design. Not a surface-pattern or textile source; no designer names, historical dates, or SPD market data given.
 
 ## Editorial Images
 

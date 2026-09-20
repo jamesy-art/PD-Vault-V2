@@ -74,6 +74,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 243
 ---
 
 # Patagonia,
@@ -97,11 +98,11 @@ Patagonia's design direction is functional-first and sustainability-constrained.
 
 ## History
 
-Chouinard began selling hand-forged climbing gear in 1957. The first Patagonia retail store — Great Pacific Iron Works — opened in Ventura in 1973. The parent company was renamed Lost Arrow Corporation in 1984. The brand has expanded beyond clothing into food (Patagonia Provisions, 2012), and into circular programmes: Worn Wear (2017, trade-in and exchange) and ReCrafted (2019, clothing made from scraps of used Patagonia gear). The company produced garments with added corporate logos for years — particularly branded fleece vests that became a signifier for financial sector professionals — but stopped this practice in 2021, citing garment longevity. Ryan Gellert became CEO in September 2020.
+Chouinard began selling hand-forged climbing gear in 1957. The first Patagonia retail store - Great Pacific Iron Works - opened in Ventura in 1973. The parent company was renamed Lost Arrow Corporation in 1984. The brand has expanded beyond clothing into food (Patagonia Provisions, 2012), and into circular programmes: Worn Wear (2017, trade-in and exchange) and ReCrafted (2019, clothing made from scraps of used Patagonia gear). The company produced garments with added corporate logos for years - particularly branded fleece vests that became a signifier for financial sector professionals - but stopped this practice in 2021, citing garment longevity. Ryan Gellert became CEO in September 2020.
 
 ## Products
 
-Core product categories: outdoor clothing (fleece, shell jackets, base layers, softshell), technical equipment, and accessories. Patagonia Provisions produces sustainable food products. The ReCrafted programme creates and sells limited garments from reclaimed and scrapped fabric. The brand uses organic cotton (switched from Chinese sources to Peruvian in July 2020), recycled materials, and conducts second-tier supply chain audits — an unusual practice in the industry, though imperfectly executed.
+Core product categories: outdoor clothing (fleece, shell jackets, base layers, softshell), technical equipment, and accessories. Patagonia Provisions produces sustainable food products. The ReCrafted programme creates and sells limited garments from reclaimed and scrapped fabric. The brand uses organic cotton (switched from Chinese sources to Peruvian in July 2020), recycled materials, and conducts second-tier supply chain audits - an unusual practice in the industry, though imperfectly executed.
 
 ## Services
 
@@ -109,7 +110,7 @@ Patagonia sells primarily through its own retail stores and e-commerce platform,
 
 ## Markets
 
-Patagonia is positioned at the premium end of the outdoor and sustainable fashion market. It does not participate in standard seasonal fashion retail cycles. Its brand authority is built on environmental credibility, product durability, and activist positioning — including suing the US government over national monument protections (2017), participating in the "Stop Hate for Profit" Facebook ad boycott (2020), and labelling garments with political messaging during the 2020 US election cycle. The brand competes with The North Face and other outdoor performance brands, while holding broader cultural reach into streetwear and conscious fashion.
+Patagonia is positioned at the premium end of the outdoor and sustainable fashion market. It does not participate in standard seasonal fashion retail cycles. Its brand authority is built on environmental credibility, product durability, and activist positioning - including suing the US government over national monument protections (2017), participating in the "Stop Hate for Profit" Facebook ad boycott (2020), and labelling garments with political messaging during the 2020 US election cycle. The brand competes with The North Face and other outdoor performance brands, while holding broader cultural reach into streetwear and conscious fashion.
 
 ## Pattern and Surface Design Relevance
 
@@ -118,7 +119,7 @@ Patagonia's engagement with surface pattern design is functional and material-le
 - **Technical textile development**: The brand's investment in recycled, organic, and performance fabrics makes it a reference point for designers and brands working in sustainable textile practice.
 - **Colour blocking and graphic application**: Technical outerwear ranges rely on colour blocking and controlled graphic placement rather than repeat pattern.
 - **Seasonal colourway selection**: Base layers and fleece products incorporate seasonal colour and limited graphic motif work.
-- **ReCrafted upcycling**: The programme uses reclaimed surface pattern and fabric character from end-of-life garments as design input — a form of found-pattern design practice.
+- **ReCrafted upcycling**: The programme uses reclaimed surface pattern and fabric character from end-of-life garments as design input - a form of found-pattern design practice.
 
 The brand's long-term commitment to garment longevity (repair services, Worn Wear programme) is directly in tension with fast fashion's pattern-refresh business model.
 

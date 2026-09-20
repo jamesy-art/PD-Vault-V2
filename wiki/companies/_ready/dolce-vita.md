@@ -48,6 +48,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 148
 ---
 
 # Dolce Vita
@@ -64,11 +65,11 @@ enrichment_status: enriched
 
 ## Overview
 
-Dolce Vita is an American footwear and accessories brand founded in 2001 in New York City's Lower East Side. Its founders, who had been studying in Italy, named the brand after a favourite Italian bar — evoking "la dolce vita" (the sweet life). The brand concept was drafted on a cocktail napkin. Dolce Vita positions itself at an accessible price point ($80–$295) with a focus on stylish, fashion-forward footwear. It is part of the Steve Madden portfolio.
+Dolce Vita is an American footwear and accessories brand founded in 2001 in New York City's Lower East Side. Its founders, who had been studying in Italy, named the brand after a favourite Italian bar - evoking "la dolce vita" (the sweet life). The brand concept was drafted on a cocktail napkin. Dolce Vita positions itself at an accessible price point ($80-$295) with a focus on stylish, fashion-forward footwear. It is part of the Steve Madden portfolio.
 
-Note: The raw source for this file is the brand's own About page (dolcevita.com/pages/about), not a Wikipedia article — limited in factual scope.
+Note: The raw source for this file is the brand's own About page (dolcevita.com/pages/about), not a Wikipedia article - limited in factual scope.
 
-Dolce Vita's design direction centres on contemporary footwear styling with an accessible Italian aesthetic. The brand's values — creativity, inclusivity, and responsibility — are applied across product design (size range, materials) and community (Social Club, Trevor Project partnership of 5+ years). Sustainability commitments include 80% recycled packaging and partnerships with women-owned and operated businesses.
+Dolce Vita's design direction centres on contemporary footwear styling with an accessible Italian aesthetic. The brand's values - creativity, inclusivity, and responsibility - are applied across product design (size range, materials) and community (Social Club, Trevor Project partnership of 5+ years). Sustainability commitments include 80% recycled packaging and partnerships with women-owned and operated businesses.
 
 ## History
 
@@ -78,7 +79,7 @@ Dolce Vita was founded in 2001. The brand has built its identity around creativi
 
 - Footwear: heels, sandals, sneakers, booties, flats, boots (core category; size-inclusive)
 - Accessories: bags
-- Price range: $80–$295
+- Price range: $80-$295
 
 ## Services
 
@@ -86,16 +87,16 @@ Steve Madden portfolio brand. Website: dolcevita.com. Social presence: Instagram
 
 ## Markets
 
-Dolce Vita operates in the accessible women's footwear segment at $80–$295. Size inclusivity is a documented market differentiator: sizes 5–13 (some to 15), standard and wide widths, wide calf boots, with extra wide calf planned for Fall 2024. The brand positions itself as a community-forward label with an inclusive, creative identity. Note: YAML market_categories lists "Menswear" — inconsistent with the brand's documented women's and inclusivity-focused positioning; likely a pipeline artefact; YAML preserved as found.
+Dolce Vita operates in the accessible women's footwear segment at $80-$295. Size inclusivity is a documented market differentiator: sizes 5-13 (some to 15), standard and wide widths, wide calf boots, with extra wide calf planned for Fall 2024. The brand positions itself as a community-forward label with an inclusive, creative identity. Note: YAML market_categories lists "Menswear" - inconsistent with the brand's documented women's and inclusivity-focused positioning; likely a pipeline artefact; YAML preserved as found.
 
 ## Pattern and Surface Design Relevance
 
 Dolce Vita's SPD relevance lies in footwear surface and material design:
 
-- **Footwear surface design**: Shoes and boots are primary vehicles for applied surface design — material selection (leather, suede, fabric), colour, texture, embellishment, and print applied to uppers and soles. At an accessible price point, surface design is a key product differentiator.
-- **Italian design inspiration**: The brand's founding "la dolce vita" aesthetic implies an orientation toward Italian design sensibilities — refined material surfaces, tonal palettes, and artisanal detailing — which frames its surface design vocabulary.
-- **Accessories (bags)**: Bags form the second product category — a direct SPD product where material surface, hardware, print, and colour are primary design decisions.
-- **Sustainable material sourcing**: Dolce Vita's commitment to sustainable materials — with FabScrap and Recircled partnerships for textile recycling — signals active engagement with material surface sourcing, directly relevant to the textiles and materials dimension of SPD practice.
+- **Footwear surface design**: Shoes and boots are primary vehicles for applied surface design - material selection (leather, suede, fabric), colour, texture, embellishment, and print applied to uppers and soles. At an accessible price point, surface design is a key product differentiator.
+- **Italian design inspiration**: The brand's founding "la dolce vita" aesthetic implies an orientation toward Italian design sensibilities - refined material surfaces, tonal palettes, and artisanal detailing - which frames its surface design vocabulary.
+- **Accessories (bags)**: Bags form the second product category - a direct SPD product where material surface, hardware, print, and colour are primary design decisions.
+- **Sustainable material sourcing**: Dolce Vita's commitment to sustainable materials - with FabScrap and Recircled partnerships for textile recycling - signals active engagement with material surface sourcing, directly relevant to the textiles and materials dimension of SPD practice.
 
 ## Official Resources
 

@@ -6,7 +6,7 @@ description: Periscope Art is a US sales representation studio run by Peri
   O'Connor, who draws on 25+ years of experience selling artwork and
   long-standing relationships with print and pattern studios to bring
   international textile designs to the West Coast trade. The studio does not
-  appear to design patterns in-house — its selected images are promotional
+  appear to design patterns in-house - its selected images are promotional
   collages for the seasonal collections of partner print studios, shown at
   recurring "Made In Brighton" trade showings in Los Angeles.
 website_url: https://www.periscopeart.com/
@@ -45,6 +45,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 573
 ---
 # Periscope Art
 
@@ -69,7 +70,7 @@ equipment:
 
 ## Overview
 
-Periscope Art is a US sales representation studio run by Peri O'Connor, who draws on 25+ years of experience selling artwork and long-standing relationships with print and pattern studios to bring international textile designs to the West Coast trade. The studio does not appear to design patterns in-house — its selected images are promotional collages for the seasonal collections of partner print studios, shown at recurring "Made In Brighton" trade showings in Los Angeles.
+Periscope Art is a US sales representation studio run by Peri O'Connor, who draws on 25+ years of experience selling artwork and long-standing relationships with print and pattern studios to bring international textile designs to the West Coast trade. The studio does not appear to design patterns in-house - its selected images are promotional collages for the seasonal collections of partner print studios, shown at recurring "Made In Brighton" trade showings in Los Angeles.
 
 ## Studio Style and Aesthetic
 
@@ -81,11 +82,11 @@ Represented studios span resort and womenswear apparel (Stampa Studio's printed 
 
 ## Techniques and Artwork Process
 
-Not attributable to Periscope Art itself — artwork is produced by the represented studios, spanning hand-painted watercolor and gouache work through to digital vector-based illustration *(unverified which technique belongs to which specific studio)*.
+Not attributable to Periscope Art itself - artwork is produced by the represented studios, spanning hand-painted watercolor and gouache work through to digital vector-based illustration *(unverified which technique belongs to which specific studio)*.
 
 ## Clients and Commercial Positioning
 
-Periscope Art positions itself as a longstanding West Coast sales channel for international print studios, holding seasonal trade showings — including documented "Made In Brighton" showroom dates in Los Angeles — rather than selling under its own designs to named end clients.
+Periscope Art positions itself as a longstanding West Coast sales channel for international print studios, holding seasonal trade showings - including documented "Made In Brighton" showroom dates in Los Angeles - rather than selling under its own designs to named end clients.
 
 ## Portfolio and Presence
 
@@ -99,9 +100,9 @@ Founded and run by Peri O'Connor, who draws on 25+ years of experience selling a
 
 ## Pattern Focus
 
-The portfolio features a roster focus on botanical and floral prints (folk-style, tropical, and Provençal), children's illustrative prints, and geometric and ethnic border motifs (mosaic, Greek key, ikat) — reflecting the studios Periscope Art represents rather than in-house design output.
+The portfolio features a roster focus on botanical and floral prints (folk-style, tropical, and Provençal), children's illustrative prints, and geometric and ethnic border motifs (mosaic, Greek key, ikat) - reflecting the studios Periscope Art represents rather than in-house design output.
 
 ## Connections
 
-- made-in-brighton — Made in Brighton, UK print studio; its "Made In Brighton" trade collateral appears in Periscope Art's selected promotional images
-- The Pattern Cloud — source platform and studio directory listing
+- made-in-brighton - Made in Brighton, UK print studio; its "Made In Brighton" trade collateral appears in Periscope Art's selected promotional images
+- The Pattern Cloud - source platform and studio directory listing

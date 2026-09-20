@@ -5,8 +5,8 @@ email: info@guavaprintstudio.com
 description: Guava Print Studio is a Canadian boutique print studio founded in
   2014 by Brazilian designer Aline Rodrigues. Drawing on a mixed media practice
   and a Brazilian design sensibility, the studio produces a broad range of
-  surface prints — from tropical and floral compositions to bold
-  boardshort-ready graphics — releasing new designs weekly. All files are
+  surface prints - from tropical and floral compositions to bold
+  boardshort-ready graphics - releasing new designs weekly. All files are
   high-resolution and production-ready in repeat.
 website_url: https://guavaprintstudio.com/
 instagram_url: https://instagram.com/guavaprintstudio
@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 546
 ---
 # Guava Print Studio
 
@@ -68,11 +69,11 @@ equipment:
 
 ## Overview
 
-Guava Print Studio is a Canadian boutique print studio founded in 2014 by Brazilian designer Aline Rodrigues. Drawing on a mixed media practice and a Brazilian design sensibility, the studio produces a broad range of surface prints — from tropical and floral compositions to bold boardshort-ready graphics — releasing new designs weekly. All files are high-resolution and production-ready in repeat.
+Guava Print Studio is a Canadian boutique print studio founded in 2014 by Brazilian designer Aline Rodrigues. Drawing on a mixed media practice and a Brazilian design sensibility, the studio produces a broad range of surface prints - from tropical and floral compositions to bold boardshort-ready graphics - releasing new designs weekly. All files are high-resolution and production-ready in repeat.
 
 ## Studio Style and Aesthetic
 
-The studio's tropical and globally-informed aesthetic reflects its founder's Brazilian background. The collection spans thirteen categories — Abstract, Animal Prints, Conversationals, Fall, Florals, Geos, Ikats/Paisleys/Tie Dyes, Non-print, Plaids, Stripes, Summer, Textures, and Tropicals — positioning the studio as a broad, seasonally versatile print resource.
+The studio's tropical and globally-informed aesthetic reflects its founder's Brazilian background. The collection spans thirteen categories - Abstract, Animal Prints, Conversationals, Fall, Florals, Geos, Ikats/Paisleys/Tie Dyes, Non-print, Plaids, Stripes, Summer, Textures, and Tropicals - positioning the studio as a broad, seasonally versatile print resource.
 
 ## Markets and Specialties
 

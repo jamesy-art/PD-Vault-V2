@@ -48,6 +48,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 75
 ---
 
 # Decathlon
@@ -58,7 +59,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Decathlon is a French sporting goods retail chain headquartered in Villeneuve-d'Ascq, northern France. YAML fields (website decathlon.com, location France) and documented market categories (running, outdoor, womenswear, menswear, kidswear) confirm the company's identity. The attached raw Wikipedia source — the French article "Décathlon" — describes the athletic decathlon event (a 10-event track and field combined discipline), not the Decathlon sporting goods retailer. This is a data pipeline error: the French word "décathlon" is shared between the sport and the company name, and the scraper fetched the wrong article. No company history, financial data, or brand information is available in the raw source. YAML parent_company "go-sport-wikipedia" is also incorrect — Decathlon is independently owned (Mulliez family) and competes with Go Sport rather than belonging to it; YAML preserved as found.
+Decathlon is a French sporting goods retail chain headquartered in Villeneuve-d'Ascq, northern France. YAML fields (website decathlon.com, location France) and documented market categories (running, outdoor, womenswear, menswear, kidswear) confirm the company's identity. The attached raw Wikipedia source - the French article "Décathlon" - describes the athletic decathlon event (a 10-event track and field combined discipline), not the Decathlon sporting goods retailer. This is a data pipeline error: the French word "décathlon" is shared between the sport and the company name, and the scraper fetched the wrong article. No company history, financial data, or brand information is available in the raw source. YAML parent_company "go-sport-wikipedia" is also incorrect - Decathlon is independently owned (Mulliez family) and competes with Go Sport rather than belonging to it; YAML preserved as found.
 
 No information available from the source.
 
@@ -80,7 +81,7 @@ Own-brand product development across 80+ sports categories is core to the busine
 
 ## Services
 
-Website: decathlon.com. Social presence: Instagram (@decathlonusa), LinkedIn (Decathlon America), Facebook (DecathlonUSA), YouTube channel. Contact, press, sustainability, accessibility, and shipping pages documented in YAML. YAML parent_company "go-sport-wikipedia" is incorrect — Decathlon is independently owned (Mulliez family); YAML preserved as found.
+Website: decathlon.com. Social presence: Instagram (@decathlonusa), LinkedIn (Decathlon America), Facebook (DecathlonUSA), YouTube channel. Contact, press, sustainability, accessibility, and shipping pages documented in YAML. YAML parent_company "go-sport-wikipedia" is incorrect - Decathlon is independently owned (Mulliez family); YAML preserved as found.
 
 ## Markets
 

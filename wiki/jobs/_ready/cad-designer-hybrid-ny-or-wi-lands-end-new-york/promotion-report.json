@@ -1,0 +1,41 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-fa03e8a8847530ca",
+  "canonical_id": "can-clip-fa03e8a8847530ca",
+  "ready_id": "ready-clip-fa03e8a8847530ca",
+  "ready_slug": "cad-designer-hybrid-ny-or-wi-lands-end-new-york",
+  "canonical_path": "wiki/jobs/_staging/cad-designer-hybrid-ny-or-wi-lands-end-new-york",
+  "ready_path": "wiki/jobs/_ready/cad-designer-hybrid-ny-or-wi-lands-end-new-york",
+  "export_source": "wiki/jobs/_ready/cad-designer-hybrid-ny-or-wi-lands-end-new-york",
+  "idempotent_hit": false,
+  "validations": [
+    "yaml_valid",
+    "canonical_id_present",
+    "capture_id_present",
+    "provenance_present",
+    "markdown_present",
+    "quality_pass",
+    "resolution_report_present",
+    "resolution_complete",
+    "editorial_review_complete",
+    "public_slug_present",
+    "attachments_checked"
+  ],
+  "warnings": [
+    "Quality Report contains warnings (allowed)",
+    "Resolution needs review: 21 item(s)"
+  ],
+  "errors": [],
+  "duration_ms": 5,
+  "editorial_hash": "355a0790293430f200efd0c55dfa844565ce00437742545d9c8cf75084017f61",
+  "ready_version": "1.355a0790",
+  "promotion_version": "1.0.0",
+  "mode": "changed",
+  "legacy_cli": false,
+  "rewritten_links_count": 2,
+  "rewritten_image_count": 0,
+  "rewritten_markdown_links": 0,
+  "rewritten_frontmatter_paths": 2,
+  "rewritten_wikilinks": 0,
+  "message": "Promoted to Ready"
+}

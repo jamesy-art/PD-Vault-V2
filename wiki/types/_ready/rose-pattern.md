@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 101
 ---
 
 # Rose Pattern
@@ -121,11 +122,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/rose-pattern/profile/rose-pattern-image.svg)
-A surface pattern built around rose flower motifs — one of the most historically persistent and commercially significant floral motifs in textile and decorative print.
+A surface pattern built around rose flower motifs - one of the most historically persistent and commercially significant floral motifs in textile and decorative print.
 
 ## Overview
 
-The rose is among the most widely used motifs in surface pattern design across all major product categories. Rose patterns draw on the flower's deep cultural associations — love, beauty, femininity, celebration — and its strong visual identity: the distinctive layered petal form is instantly readable at any scale. The motif appears across the full range of surface pattern applications, from fine chintz prints to bold digital repeats, and sustains consistent commercial demand particularly in fashion, home textiles, and gifting.
+The rose is among the most widely used motifs in surface pattern design across all major product categories. Rose patterns draw on the flower's deep cultural associations - love, beauty, femininity, celebration - and its strong visual identity: the distinctive layered petal form is instantly readable at any scale. The motif appears across the full range of surface pattern applications, from fine chintz prints to bold digital repeats, and sustains consistent commercial demand particularly in fashion, home textiles, and gifting.
 
 ## Visual Characteristics
 
@@ -133,7 +134,7 @@ Rose motifs in pattern design range from highly realistic botanical illustration
 
 ## Pattern Structure
 
-Rose patterns use the full range of repeat structures. Scattered toss repeats and half-drop arrangements are common for naturalistic floral effects. Striped arrangements — bouquets alternating with foliage — are traditional in chintz and furnishing print conventions. Large-scale single-rose placements function as medallion or placement prints rather than tiled repeats.
+Rose patterns use the full range of repeat structures. Scattered toss repeats and half-drop arrangements are common for naturalistic floral effects. Striped arrangements - bouquets alternating with foliage - are traditional in chintz and furnishing print conventions. Large-scale single-rose placements function as medallion or placement prints rather than tiled repeats.
 
 ## Common Motifs
 
@@ -142,20 +143,20 @@ The rose itself is the central motif, accompanied by: foliage (individual leaves
 ## Colour and Style
 
 Rose colour carries symbolic meaning that designers actively deploy:
-- **Red** — love, romance, passion; the most commercially dominant rose colour
-- **Pink** — gratitude, admiration, gentleness; associated with femininity and spring/summer palettes
-- **White** — new beginnings, purity, innocence
-- **Yellow** — friendship, warmth, positive regard
-- **Peach/coral** — warmth, appreciation; strong contemporary commercial appeal
-- **Blue/purple** — fantastical or artistic roses; more graphic than naturalistic in application
+- **Red** - love, romance, passion; the most commercially dominant rose colour
+- **Pink** - gratitude, admiration, gentleness; associated with femininity and spring/summer palettes
+- **White** - new beginnings, purity, innocence
+- **Yellow** - friendship, warmth, positive regard
+- **Peach/coral** - warmth, appreciation; strong contemporary commercial appeal
+- **Blue/purple** - fantastical or artistic roses; more graphic than naturalistic in application
 
 ## History and Context
 
-Roses have appeared in decorative art since antiquity — in ancient China, Egypt, Greece, and Rome. In Western textile history, rose motifs appear continuously from medieval tapestry through Renaissance embroidery, 17th and 18th-century chintz printing, Victorian printed cottons, and 20th-century furnishing fabrics. The rose is the June birth flower and the national flower of England, giving it particular resonance in British design traditions. Victorian floral language (floriography) systematised the symbolic meanings of individual rose colours, a vocabulary designers continue to reference. William Morris incorporated rose motifs into several wallpaper and textile designs.
+Roses have appeared in decorative art since antiquity - in ancient China, Egypt, Greece, and Rome. In Western textile history, rose motifs appear continuously from medieval tapestry through Renaissance embroidery, 17th and 18th-century chintz printing, Victorian printed cottons, and 20th-century furnishing fabrics. The rose is the June birth flower and the national flower of England, giving it particular resonance in British design traditions. Victorian floral language (floriography) systematised the symbolic meanings of individual rose colours, a vocabulary designers continue to reference. William Morris incorporated rose motifs into several wallpaper and textile designs.
 
 ## Surface Pattern Uses
 
-- **Fashion:** printed dresses, blouses, swimwear, scarves — perennial commercial demand across seasons
+- **Fashion:** printed dresses, blouses, swimwear, scarves - perennial commercial demand across seasons
 - **Home textiles:** bedding, curtains, cushions, tablecloths
 - **Wallpaper:** one of the most commercially durable categories in decorative wallpaper
 - **Stationery and gifting:** Valentine's Day, Mother's Day, and wedding-adjacent markets are major commercial drivers
@@ -163,14 +164,14 @@ Roses have appeared in decorative art since antiquity — in ancient China, Egyp
 
 ## Related Pattern Types
 
-- [[Floral Pattern]] — rose pattern is a major subcategory
-- [[Botanical Pattern]] — naturalistic rose illustration overlaps with botanical print traditions
-- [[Strawberry Pattern]] — companion fruit/flower motif with overlapping commercial applications
+- Floral Pattern - rose pattern is a major subcategory
+- Botanical Pattern - naturalistic rose illustration overlaps with botanical print traditions
+- Strawberry Pattern - companion fruit/flower motif with overlapping commercial applications
 
 ## Source Notes
 
-- Wikipedia, "Rose (symbolism)" and related sources — rose colour meanings (red/pink/white/yellow), historical presence in Chinese/Egyptian/Roman/Greek culture, Victorian floriography, June birth flower
-- SPD-focused notes — commercial motif applications, repeat structure usage
+- Wikipedia, "Rose (symbolism)" and related sources - rose colour meanings (red/pink/white/yellow), historical presence in Chinese/Egyptian/Roman/Greek culture, Victorian floriography, June birth flower
+- SPD-focused notes - commercial motif applications, repeat structure usage
 
 ## Editorial Images
 

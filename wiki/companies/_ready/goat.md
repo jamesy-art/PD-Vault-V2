@@ -39,6 +39,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 128
 ---
 
 # GOAT
@@ -59,7 +60,7 @@ enrichment_status: enriched
 
 ## Products
 
-YAML retail_categories include: Shoes, Clothing, Tops, Coats & Jackets, Accessories, Bags, Jewellery — consistent with the GOAT resale marketplace (sneakers and luxury fashion), not Goat Fashion UK (womenswear label).
+YAML retail_categories include: Shoes, Clothing, Tops, Coats & Jackets, Accessories, Bags, Jewellery - consistent with the GOAT resale marketplace (sneakers and luxury fashion), not Goat Fashion UK (womenswear label).
 
 ## Services
 

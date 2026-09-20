@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 26
 ---
 
 # Square Pattern
@@ -120,7 +121,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/square-pattern/profile/square-pattern-image.svg)
-A surface pattern built around the square as the primary structural or motif element — the simplest and most fundamental shape in geometric pattern design, capable of producing a wide range of visual effects from minimal to complex.
+A surface pattern built around the square as the primary structural or motif element - the simplest and most fundamental shape in geometric pattern design, capable of producing a wide range of visual effects from minimal to complex.
 
 ## Overview
 
@@ -128,7 +129,7 @@ Square-based patterns exploit the square's perfect equality of sides and right-a
 
 ## Visual Characteristics
 
-Square patterns read as highly ordered, structured, and geometrically precise. The 90-degree angle creates a rigid, rectilinear visual rhythm. Depending on scale and colour, square patterns can read as minimal and modern (large-scale two-colour blocks), classic and heritage (small gingham), or complex and maximalist (multi-colour plaid with thin overcheck lines). The equal sides and right angles also enable perfect tessellation — squares tile flat surfaces with no gap or overlap.
+Square patterns read as highly ordered, structured, and geometrically precise. The 90-degree angle creates a rigid, rectilinear visual rhythm. Depending on scale and colour, square patterns can read as minimal and modern (large-scale two-colour blocks), classic and heritage (small gingham), or complex and maximalist (multi-colour plaid with thin overcheck lines). The equal sides and right angles also enable perfect tessellation - squares tile flat surfaces with no gap or overlap.
 
 ## Pattern Structure
 
@@ -167,14 +168,14 @@ The square has been a fundamental element of decorative pattern across all cultu
 
 ## Related Pattern Types
 
-- [[Stripe Pattern]] — stripes overlapping at right angles produce square/check patterns
-- [[Tartan Pattern]] — tartan is a complex multi-coloured square/rectangular check structure
-- [[Geometric Pattern]] — square patterns are a foundational geometric category
-- [[Symmetry Pattern]] — square patterns demonstrate translational and reflectional symmetry
+- Stripe Pattern - stripes overlapping at right angles produce square/check patterns
+- Tartan Pattern - tartan is a complex multi-coloured square/rectangular check structure
+- Geometric Pattern - square patterns are a foundational geometric category
+- Symmetry Pattern - square patterns demonstrate translational and reflectional symmetry
 
 ## Source Notes
 
-- SPD-focused notes — block/straight repeat, checkerboard/tattersall/windowpane/gingham distinctions, granny square crochet, tessellations
+- SPD-focused notes - block/straight repeat, checkerboard/tattersall/windowpane/gingham distinctions, granny square crochet, tessellations
 
 ## Editorial Images
 

@@ -44,6 +44,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 145
 ---
 
 # Rent the Runway
@@ -68,19 +69,19 @@ Designer apparel and accessories available across rental subscription, on-demand
 
 ## Services
 
-The platform operates through subscription plans, on-demand rental (Reserve), and secondhand resale — no traditional retail licensing or wholesale operation. Physical retail was abandoned in favour of drop-box and digital-first fulfilment. The company does not produce, manufacture, or license apparel. Designer partnerships are structured as inventory or revenue-sharing arrangements rather than licensing deals.
+The platform operates through subscription plans, on-demand rental (Reserve), and secondhand resale - no traditional retail licensing or wholesale operation. Physical retail was abandoned in favour of drop-box and digital-first fulfilment. The company does not produce, manufacture, or license apparel. Designer partnerships are structured as inventory or revenue-sharing arrangements rather than licensing deals.
 
 ## Markets
 
-Rent the Runway pioneered the subscription fashion rental model in the United States, positioning itself as an alternative to ownership across event dressing, everyday workwear, and lifestyle categories. Subscriptions accounted for approximately 75% of revenue as of 2019. The company also introduced secondhand purchase of rented items (from 2021) and a non-membership Reserve programme for 4- or 8-day rentals. After strong early growth, 2023 brought financial difficulty — potential Chapter 11 risk reported by CreditRiskMonitor in October 2023, followed by the 2025 recapitalisation transaction led by Aranda Principal Strategies, STORY3 Capital Partners, and Nexus Capital Management.
+Rent the Runway pioneered the subscription fashion rental model in the United States, positioning itself as an alternative to ownership across event dressing, everyday workwear, and lifestyle categories. Subscriptions accounted for approximately 75% of revenue as of 2019. The company also introduced secondhand purchase of rented items (from 2021) and a non-membership Reserve programme for 4- or 8-day rentals. After strong early growth, 2023 brought financial difficulty - potential Chapter 11 risk reported by CreditRiskMonitor in October 2023, followed by the 2025 recapitalisation transaction led by Aranda Principal Strategies, STORY3 Capital Partners, and Nexus Capital Management.
 
 ## Pattern and Surface Design Relevance
 
 Rent the Runway functions as a distribution and circulation platform for designer fashion, not a producer or licensor of surface pattern design. Its relevance to the SPD ecosystem is indirect but commercially meaningful:
 
-- **Aggregation of designer fashion at scale**: The 700+ designer partner network includes brands with significant print and pattern identities. High-volume circulation of patterned and printed garments — event dresses, workwear, casual styles — makes Rent the Runway one of the largest active distributors of designer surface pattern work in the US market.
+- **Aggregation of designer fashion at scale**: The 700+ designer partner network includes brands with significant print and pattern identities. High-volume circulation of patterned and printed garments - event dresses, workwear, casual styles - makes Rent the Runway one of the largest active distributors of designer surface pattern work in the US market.
 - **Home décor rental**: The home décor rental category represents the platform's extension into interior pattern and print categories.
-- **Fashion consumption model**: The subscription model creates repeat pattern exposure across many consumers — a factor relevant to understanding how designer prints circulate and achieve cultural visibility beyond direct retail.
+- **Fashion consumption model**: The subscription model creates repeat pattern exposure across many consumers - a factor relevant to understanding how designer prints circulate and achieve cultural visibility beyond direct retail.
 
 No documented in-house design function, textile sourcing, or pattern commissioning activity.
 

@@ -96,6 +96,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 123
 ---
 
 # Adidas
@@ -115,9 +116,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Adidas AG is a German multinational athletic apparel and footwear corporation headquartered in Herzogenaurach, Germany. Founded by Adolf Dassler in 1949 following the split of the Gebrüder Dassler shoe factory, Adidas is the largest sportswear manufacturer in Europe and second globally after Nike. Revenue for 2024 was €23.7B with approximately 62,000 employees. The company is defined by its central graphic identity — the Three Stripes — acquired from Finnish brand Karhu Sports in 1952 for €1,600 and two bottles of whiskey.
+Adidas AG is a German multinational athletic apparel and footwear corporation headquartered in Herzogenaurach, Germany. Founded by Adolf Dassler in 1949 following the split of the Gebrüder Dassler shoe factory, Adidas is the largest sportswear manufacturer in Europe and second globally after Nike. Revenue for 2024 was €23.7B with approximately 62,000 employees. The company is defined by its central graphic identity - the Three Stripes - acquired from Finnish brand Karhu Sports in 1952 for €1,600 and two bottles of whiskey.
 
-Adidas operates two main design vocabularies: the performance line (Three Stripes corporate logo, technical materials) and Adidas Originals (Trefoil, heritage aesthetics, streetwear collaborations). The brand's first apparel item was the Franz Beckenbauer tracksuit (1967). Logo evolution: Trefoil (1971–1997) → three-bars "mountain" logo (designed by Peter Moore for the Equipment range, adopted as corporate emblem). The Adidas Confirmed app (2015) introduced geo-targeted limited-edition sneaker drops. Collaborations include Stella McCartney (women's sport performance) and heritage music acts (e.g., Oasis x Adidas Originals "Original Forever" collection, 2025).
+Adidas operates two main design vocabularies: the performance line (Three Stripes corporate logo, technical materials) and Adidas Originals (Trefoil, heritage aesthetics, streetwear collaborations). The brand's first apparel item was the Franz Beckenbauer tracksuit (1967). Logo evolution: Trefoil (1971-1997) → three-bars "mountain" logo (designed by Peter Moore for the Equipment range, adopted as corporate emblem). The Adidas Confirmed app (2015) introduced geo-targeted limited-edition sneaker drops. Collaborations include Stella McCartney (women's sport performance) and heritage music acts (e.g., Oasis x Adidas Originals "Original Forever" collection, 2025).
 
 ## History
 
@@ -150,11 +151,11 @@ Adidas holds the number two position in global sportswear behind Nike. The brand
 
 ## Pattern and Surface Design Relevance
 
-The Three Stripes is the defining surface graphic identity of Adidas — one of the most commercially recognised and legally protected graphic marks globally. Originally acquired from Karhu Sports (1952), the three parallel stripes have been applied to shoes, garments, accessories, and equipment continuously since. The mark has been vigorously defended: Adidas sued Fitness World Trading (UK, 2003, winning on the grounds that the public could establish a link with the Adidas mark) and contested NCAA logo-size rules (1998), establishing significant legal precedent for stripe-mark trademark protection.
+The Three Stripes is the defining surface graphic identity of Adidas - one of the most commercially recognised and legally protected graphic marks globally. Originally acquired from Karhu Sports (1952), the three parallel stripes have been applied to shoes, garments, accessories, and equipment continuously since. The mark has been vigorously defended: Adidas sued Fitness World Trading (UK, 2003, winning on the grounds that the public could establish a link with the Adidas mark) and contested NCAA logo-size rules (1998), establishing significant legal precedent for stripe-mark trademark protection.
 
 The **Trefoil logo** (designed 1971, launched 1972 for the Munich Olympics) is a secondary graphic identity applied to Adidas Originals heritage products. Its three-petal geometric form is a recurring surface motif across lifestyle ranges.
 
-Adidas has been a primary supplier of designed sports kits — NBA (2006–2017), NHL (2017–2024), multiple football and athletics federations — producing seasonal graphic and textile design programmes for team uniforms at global scale.
+Adidas has been a primary supplier of designed sports kits - NBA (2006-2017), NHL (2017-2024), multiple football and athletics federations - producing seasonal graphic and textile design programmes for team uniforms at global scale.
 
 ## Official Resources
 

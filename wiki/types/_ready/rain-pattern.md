@@ -3,7 +3,7 @@ name: Rain Pattern
 slug: rain-pattern
 status: active
 type_group: nature
-summary: Surface pattern category using rain, raindrop, and drip motifs — from abstract streaks and droplet shapes to illustrative downpour scenes; includes the related military camouflage tradition of broken vertical line patterns nicknamed 'raindrop'
+summary: Surface pattern category using rain, raindrop, and drip motifs - from abstract streaks and droplet shapes to illustrative downpour scenes; includes the related military camouflage tradition of broken vertical line patterns nicknamed 'raindrop'
 motifs:
   - Celestial
 structures:
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 116
 ---
 
 # Rain Pattern
@@ -120,11 +121,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/rain-pattern/profile/rain-pattern-image.svg)
-A surface pattern category using the visual language of rain — droplets, streaks, drips, and downpour lines — as its primary motif; covers both abstract and illustrative approaches, and overlaps with the military camouflage tradition of broken vertical-line "raindrop" patterns.
+A surface pattern category using the visual language of rain - droplets, streaks, drips, and downpour lines - as its primary motif; covers both abstract and illustrative approaches, and overlaps with the military camouflage tradition of broken vertical-line "raindrop" patterns.
 
 ## Overview
 
-Rain patterns operate across two distinct design registers. The first is an illustrative or abstract surface pattern tradition: raindrop shapes, falling lines, drip motifs, and weather-associated imagery (clouds, umbrellas, puddle reflections) applied to textiles, stationery, and homeware. The second is the military camouflage tradition, in which broken vertical irregular lines on a muted ground produce patterns colloquially known as "raindrop" camouflage — a category with its own textile and design history.
+Rain patterns operate across two distinct design registers. The first is an illustrative or abstract surface pattern tradition: raindrop shapes, falling lines, drip motifs, and weather-associated imagery (clouds, umbrellas, puddle reflections) applied to textiles, stationery, and homeware. The second is the military camouflage tradition, in which broken vertical irregular lines on a muted ground produce patterns colloquially known as "raindrop" camouflage - a category with its own textile and design history.
 
 In consumer surface pattern design, rain and drip motifs have consistent commercial applications in children's products (particularly for rainy weather themes), fashion (particularly April/spring collections), and occasion-based stationery (umbrellas and rain for specific greeting card markets).
 
@@ -163,7 +164,7 @@ Rain patterns use several repeat structures depending on their visual intent:
 
 Consumer rain patterns use a range of approaches:
 
-- **Classic blue palette:** Sky blue, navy, cerulean, teal — the natural colour association with water and rain; common in fashion and stationery
+- **Classic blue palette:** Sky blue, navy, cerulean, teal - the natural colour association with water and rain; common in fashion and stationery
 - **Grey-scale:** Atmospheric, minimalist; silver-grey and white on a pale ground for adult fashion or homeware
 - **Bright conversational:** Primary colours, pastel grounds; children's products and novelty stationery
 - **Monochrome graphic:** Black line drops on white; graphic stationery and branding
@@ -172,7 +173,7 @@ Camouflage rain patterns use: grey-green, olive, khaki, brown, and off-white; br
 
 ## History and Context
 
-The military "raindrop" pattern tradition traces directly to East German military camouflage: the *Kampfanzug 64* (combat suit introduced in 1965), made from "Strichtarn" fabric — German for "streak/stripe camouflage." The pattern used broken, slightly curved vertical stripes in reddish-brown and dark brown on a grey-green ground. This camouflage was used by the East German National People's Army (NVA) from 1965 until German reunification in 1990.
+The military "raindrop" pattern tradition traces directly to East German military camouflage: the *Kampfanzug 64* (combat suit introduced in 1965), made from "Strichtarn" fabric - German for "streak/stripe camouflage." The pattern used broken, slightly curved vertical stripes in reddish-brown and dark brown on a grey-green ground. This camouflage was used by the East German National People's Army (NVA) from 1965 until German reunification in 1990.
 
 Strichtarn was descended from Wehrmacht-era *Splittertarnmuster* ("splinter camouflage") patterns used in World War II, and was developed in parallel with comparable patterns in allied Warsaw Pact countries: Czechoslovak *Jehličí* ("needles" pattern), and Polish *Wz.58 "Deszczyk"* (literally "little rain"). These patterns collectively constitute the Central European "raindrop camouflage" tradition.
 
@@ -189,12 +190,12 @@ In consumer surface pattern design, rain and water motifs have a much longer and
 
 ## Related Pattern Types
 
-- [[Water Pattern]] — parent category; rain as one form of water-based surface design motif
-- [[Weather Pattern]] — broader category; rain alongside sun, cloud, snow, and lightning motifs
-- [[Drip Pattern]] — closely related; drip as a more graphic, less naturalistic form of the same liquid motif
-- [[Camouflage Pattern]] — overlapping category; military raindrop patterns are a camouflage tradition
-- [[Stripe Pattern]] — structural connection; directional rain streak patterns are a form of organic striping
-- [[Ice Pattern]] — weather companion category; winter moisture and frost motifs
+- Water Pattern - parent category; rain as one form of water-based surface design motif
+- Weather Pattern - broader category; rain alongside sun, cloud, snow, and lightning motifs
+- Drip Pattern - closely related; drip as a more graphic, less naturalistic form of the same liquid motif
+- Camouflage Pattern - overlapping category; military raindrop patterns are a camouflage tradition
+- Stripe Pattern - structural connection; directional rain streak patterns are a form of organic striping
+- Ice Pattern - weather companion category; winter moisture and frost motifs
 
 ## Source Notes
 

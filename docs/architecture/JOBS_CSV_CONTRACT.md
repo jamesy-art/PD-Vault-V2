@@ -79,11 +79,11 @@ Order is part of the contract.
 | 7 | `summary` | FM `summary` | fallback → `description` | via compose | Used only if section cols empty |
 | 8 | `company` | FM `company` / rel label | `company_name` | `company_name` | Display label |
 | 9 | `company_id` | `relationships.company.id` | **ignored** | — | Identity is via slug |
-| 10 | `company_slug` | `relationships.company.slug` | Company lookup | `company_id` FK | **Required for apply** |
+| 10 | `company_slug` | **`company_identity.canonical_slug`** (fallback: rel / assets) | Company lookup | `company_id` FK | **Required for apply** · A8-R4 |
 | 11 | `location` | FM `location` | `location` | `location` | Free-text label |
 | 12 | `city` | FM / rel | → label / ref | `location_ref` | |
-| 13 | `country` | FM / rel | → label / ref | `location_ref` | |
-| 14 | `country_slug` | rel | `location_ref.country_slug` | JSON | |
+| 13 | `country` | **`relationships.country.label` only** | → label / ref | `location_ref` | Canonical country taxonomy — never raw `location` |
+| 14 | `country_slug` | **`relationships.country.slug` only** | `location_ref.country_slug` | JSON | |
 | 15 | `city_slug` | rel | `location_ref.city_slug` | JSON | |
 | 16 | `employment_type` | FM | `employment_type` + normalised `job_type` | both columns | Production taxonomy |
 | 17 | `workplace_type` | FM | normalised | `workplace_type` | `remote` \| `hybrid` \| `onsite` |
@@ -130,10 +130,11 @@ These Ready / Canonical fields are **not** Jobs CSV columns:
 | Field | Reason |
 |-------|--------|
 | `company_assets`, `logo`, `profile`, `gallery`, `asset_resolution` | Company asset SoT — references live on Company; no binary in Jobs CSV |
-| `company_identity` | Editorial identity metadata; identity transport is `company_slug` |
+| `company_identity` | Full object stays in Markdown; **`canonical_slug` is exported as CSV `company_slug` (A8-R4)** |
 | `state` | Present in JobTemplate; not mapped (gap — see review) |
 | `aggregator`, `department`, `hybrid` | Capture candidates; not production Jobs columns |
-| Body `## Company`, `## About the Role`, `## Software`, `## Location`, `## About the Company` | Not extracted into CSV columns (gap for prose sections) |
+| Body `## Company`, `## Sources` (platform chrome) | Omitted from Full Job Description export by design |
+| FM `job_sections` | Canonical in Markdown; exported as composed `overview` (A3-R2) — not a separate CSV column |
 | Operational: lifecycle, visibility, likes, import session | Laravel-owned; never exported |
 
 ---
@@ -142,7 +143,7 @@ These Ready / Canonical fields are **not** Jobs CSV columns:
 
 | Domain | CSV column | Allowed / expected | Laravel behaviour |
 |--------|------------|--------------------|-------------------|
-| Employment | `employment_type` | Prefer slug: `full-time`, `part-time`, `contract`, `freelance`, `internship` | Writes raw + normalised `job_type` slug; unknown → warning |
+| Employment | `employment_type` | Canonical labels only: `Full-time`, `Part-time`, `Contract`, `Freelance`, or `unknown`. Aliases: Permanent / Permanent Position / Permanent Role → Full-time; Maternity Cover / Temporary / Temporary Role(s) / Temporary Position / Fixed Term → Contract. Do **not** infer from company, seniority, salary, or workplace. (`Internship` remains a legacy Vault label if explicitly sourced — not invented.) | Writes raw + normalised `job_type` slug; unknown → warning |
 | Workplace | `workplace_type` | `remote`, `hybrid`, `onsite` | Normaliser + `remote` aliases |
 | Experience | `experience_level` | `Junior`, `Mid-Weight`, `Senior`, `Director`, `Any` | Stored as string |
 | Benefits | `benefits_tags` | Free-text tags (pipe) | JSON array |
@@ -155,20 +156,38 @@ Sources of truth: `config/taxonomies.php` (job_types), `JobTaxonomies`, Vault `j
 
 ## 6. Company identity rule
 
+**A8-R4 — canonical export identity:**
+
 ```
-Ready relationships.company.slug  →  CSV company_slug  →  Company::where(slug)  →  jobs.company_id
+company_identity.canonical_slug  →  CSV company_slug  →  JobsImporter resolveOrCreateImportedPlaceholder  →  jobs.company_id
 ```
 
-- Importer **does not create** companies.
-- Missing / unknown `company_slug` → validation error or map failure (fail closed).
+Priority when resolving the CSV cell:
+
+1. `company_identity.canonical_slug` (canonical — A2-R9)  
+2. `relationships.company.slug` (defensive)  
+3. `company_assets.slug` (defensive)  
+4. blank  
+
+`relationships.company` is supplementary relationship metadata. It does **not** own the exported identity.
+
+- Importer reuses an existing company by slug, or creates a hidden imported placeholder (`source=imported`, `is_active=false`).
+- Blank or invalid `company_slug` → validation error (fail closed). Placeholder create / DB write failures abort the package.
 - CSV `company_id` is informational only (Vault ER id); Laravel ignores it.
 - Logos / profile / gallery are **Company** assets resolved at API via nested `company`, not Job CSV.
+
+See `JOBS_EXPORT_COMPANY_MAPPING.md`.
 
 ---
 
 ## 7. Description composition rule
 
+**A3-R2:** JobsMapping writes the full editorial document (all employer `##` sections, Company/Sources omitted) into CSV `overview`.
+
 Importer builds `description` as:
+
+1. If `overview` contains markdown `##` headings → convert that full editorial to HTML (`<h2>` + lists/paragraphs) and use it alone (no duplication from named columns).
+2. Else (legacy rows) join:
 
 ```
 overview
@@ -182,6 +201,8 @@ overview
 joined with blank lines. If all empty → `summary`. If still empty → `title`.
 
 `sources` body section is **not** included (intentional — editorial audit trail).
+
+Named columns (`responsibilities`, `requirements`, `benefits`, …) remain for back-compat and soft-alias extraction; they do not replace the Full Job Description.
 
 ---
 

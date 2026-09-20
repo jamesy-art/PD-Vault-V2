@@ -77,6 +77,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 66
 ---
 
 # Quiksilver
@@ -97,7 +98,7 @@ enrichment_status: enriched
 
 Quiksilver was founded in 1969 in Torquay, Victoria, Australia by Alan Green and John Law as a surf-oriented boardshort maker. The company expanded rapidly through the 1980s and 1990s to become one of the world's largest surfwear and boardsport brands, with headquarters eventually based in Huntington Beach, California. In March 2017 the parent entity was renamed Boardriders Inc. (from Quiksilver Inc.). Authentic Brands Group acquired Boardriders in April 2023 for $1.25 billion. Liberated Brands, Quiksilver and Roxy's US retail operator, filed for Chapter 11 bankruptcy on 2 February 2025, resulting in the closure of all US stores. ROXY began winding down operations in Taiwan in May 2026. YAML parent_company "authentic-brands-group" is correct. YAML location "United States" reflects the California HQ at the time of scrape; correct for the operating entity. Instagram: @quiksilver. Facebook: documented in YAML.
 
-Quiksilver's visual identity has been defined by the surf lifestyle aesthetic since 1969 — tropical prints, ocean-derived graphics, bold colour blocking, and the iconic wave-mountain logo. Design direction across the Boardriders portfolio varies by brand: Quiksilver (heritage surf performance), Roxy (surf femininity and lifestyle), DC Shoes (skateboard graphic), RVCA (art-influenced), Element (eco-conscious skateboard). ABG's ownership shifts the primary design function to licensee brand teams operating under ABG's brand guidelines.
+Quiksilver's visual identity has been defined by the surf lifestyle aesthetic since 1969 - tropical prints, ocean-derived graphics, bold colour blocking, and the iconic wave-mountain logo. Design direction across the Boardriders portfolio varies by brand: Quiksilver (heritage surf performance), Roxy (surf femininity and lifestyle), DC Shoes (skateboard graphic), RVCA (art-influenced), Element (eco-conscious skateboard). ABG's ownership shifts the primary design function to licensee brand teams operating under ABG's brand guidelines.
 
 ## History
 
@@ -113,7 +114,7 @@ Core categories: sportswear (boardshorts, wetsuits, swimsuits), clothing (womens
 
 ## Services
 
-YAML parent_company "authentic-brands-group" is correct — ABG acquired Boardriders (parent of Quiksilver brand) April 2023 for $1.25 billion. Under ABG's model, Quiksilver operates primarily through licensed retail and wholesale partners. US operations: Liberated Brands filed Chapter 11 2 February 2025 (all US stores closed). ROXY Taiwan wind-down from May 2026. Prior: Boardriders acquired Billabong International in 2018 (Oaktree Capital providing equity after the 2015 Chapter 11). Prior to Chapter 11, Quiksilver operated 600+ company-owned and licensed retail stores globally. Multiple international licensees continue operations in non-US markets under ABG licensing framework.
+YAML parent_company "authentic-brands-group" is correct - ABG acquired Boardriders (parent of Quiksilver brand) April 2023 for $1.25 billion. Under ABG's model, Quiksilver operates primarily through licensed retail and wholesale partners. US operations: Liberated Brands filed Chapter 11 2 February 2025 (all US stores closed). ROXY Taiwan wind-down from May 2026. Prior: Boardriders acquired Billabong International in 2018 (Oaktree Capital providing equity after the 2015 Chapter 11). Prior to Chapter 11, Quiksilver operated 600+ company-owned and licensed retail stores globally. Multiple international licensees continue operations in non-US markets under ABG licensing framework.
 
 ## Markets
 
@@ -123,12 +124,12 @@ Quiksilver was one of the world's largest surf and boardsport apparel brands for
 
 Quiksilver's SPD relevance is direct and historically significant in the surf and boardsport market:
 
-- **Boardshort print and surface design**: The boardshort is the brand's founding and signature product; seasonal boardshort print direction — tropical, geometric, abstract, photographic, and graphic — is the brand's primary surface design output across both Quiksilver (men's) and Roxy (women's). Boardshort surface is the defining design canvas for the broader surf market
+- **Boardshort print and surface design**: The boardshort is the brand's founding and signature product; seasonal boardshort print direction - tropical, geometric, abstract, photographic, and graphic - is the brand's primary surface design output across both Quiksilver (men's) and Roxy (women's). Boardshort surface is the defining design canvas for the broader surf market
 - **Logo as surface design**: The Quiksilver wave-and-mountain logo, designed in 1973 by Alan Green and John Law and inspired by Katsushika Hokusai's *The Great Wave off Kanagawa* (c. 1831), is one of the most recognisable brand surface marks in global sportswear; printed and embroidered on garments, boards, and accessories, it functions as a repeating surface motif across the product range
-- **Roxy heart logo surface application**: The Roxy heart (two Quiksilver logos conjoined and rotated 45°) functions as a distinct surface mark applied to womenswear, swimwear, and accessories — a direct surface pattern design decision with a documented generative origin
-- **DVF x Roxy collaboration (Spring 2013)**: Diane von Furstenberg, whose brand is centrally defined by signature print design, collaborated with Roxy — connecting high-fashion print heritage with surf activewear surface design
+- **Roxy heart logo surface application**: The Roxy heart (two Quiksilver logos conjoined and rotated 45°) functions as a distinct surface mark applied to womenswear, swimwear, and accessories - a direct surface pattern design decision with a documented generative origin
+- **DVF x Roxy collaboration (Spring 2013)**: Diane von Furstenberg, whose brand is centrally defined by signature print design, collaborated with Roxy - connecting high-fashion print heritage with surf activewear surface design
 - **Wetsuit and technical textile surface**: Wetsuits, rashguards, and other technical garments carry graphic surface treatments and colour blocking applied to functional textile substrates; XCEL wetsuits extend this practice
-- **Design copying controversy (2023)**: Quiksilver faced a design-copying allegation from Ola Canvas regarding the Blackball boardshort pattern — an indicator of how commercially significant surface pattern ownership is in the surf market
+- **Design copying controversy (2023)**: Quiksilver faced a design-copying allegation from Ola Canvas regarding the Blackball boardshort pattern - an indicator of how commercially significant surface pattern ownership is in the surf market
 
 ## Official Resources
 

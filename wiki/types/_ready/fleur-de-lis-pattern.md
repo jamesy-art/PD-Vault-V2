@@ -3,7 +3,7 @@ name: Fleur-de-lis Pattern
 slug: fleur-de-lis-pattern
 status: active
 type_group: heraldic
-summary: Surface pattern based on the fleur-de-lis — a highly stylised symmetrical motif derived from the lily flower or yellow flag iris. One of Western design's most durable decorative symbols, used continuously in textiles, wallpaper, and home décor since the Middle Ages.
+summary: Surface pattern based on the fleur-de-lis - a highly stylised symmetrical motif derived from the lily flower or yellow flag iris. One of Western design's most durable decorative symbols, used continuously in textiles, wallpaper, and home décor since the Middle Ages.
 motifs:
   - Emblem
 structures:
@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 85
 ---
 
 # Fleur-de-lis Pattern
@@ -121,15 +122,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/fleur-de-lis-pattern/profile/fleur-de-lis-pattern-image.svg)
-Surface pattern based on the fleur-de-lis — a stylised symmetrical form derived from the lily flower or yellow iris. One of Western design's most durable and widely used decorative motifs, present in European heraldry from the High Middle Ages and continuously active in textiles, wallpaper, and interior design since.
+Surface pattern based on the fleur-de-lis - a stylised symmetrical form derived from the lily flower or yellow iris. One of Western design's most durable and widely used decorative motifs, present in European heraldry from the High Middle Ages and continuously active in textiles, wallpaper, and interior design since.
 
 ## Overview
 
-The fleur-de-lis is a symmetrical three-part form: a central upward-pointing petal flanked by two outward-curving petals, all bound at the base by a horizontal band or ring. As a surface pattern, it appears in seamless all-over repeats, formal damask compositions, trellis grids, and contemporary minimalist interpretations. Its heritage associations — French royalty, European heraldry, Christian iconography — give it a luxury and classical positioning that remains commercially active across wallpaper, home furnishings, and fashion.
+The fleur-de-lis is a symmetrical three-part form: a central upward-pointing petal flanked by two outward-curving petals, all bound at the base by a horizontal band or ring. As a surface pattern, it appears in seamless all-over repeats, formal damask compositions, trellis grids, and contemporary minimalist interpretations. Its heritage associations - French royalty, European heraldry, Christian iconography - give it a luxury and classical positioning that remains commercially active across wallpaper, home furnishings, and fashion.
 
 ## Visual Characteristics
 
-The traditional form features crisp, symmetrical curves with ornate detail at the central petal and curved flanking petals that sweep outward before terminating. The horizontal binding band or ring at the base is a defining structural element. Ornate historical versions include scrollwork, shading, and decorative interior detail. Contemporary minimalist versions reduce the form to a clean silhouette — simplified to geometric lines while remaining unmistakably recognisable.
+The traditional form features crisp, symmetrical curves with ornate detail at the central petal and curved flanking petals that sweep outward before terminating. The horizontal binding band or ring at the base is a defining structural element. Ornate historical versions include scrollwork, shading, and decorative interior detail. Contemporary minimalist versions reduce the form to a clean silhouette - simplified to geometric lines while remaining unmistakably recognisable.
 
 The motif reads equally well at large scale (as a feature wallpaper or upholstery motif) and small scale (as a trellis anchor or scattered repeat element).
 
@@ -137,7 +138,7 @@ The motif reads equally well at large scale (as a feature wallpaper or upholster
 
 Four dominant layout approaches:
 
-- **Semé**: an all-over scattered repeat where individual fleur-de-lis motifs are distributed across the ground unjoined — mimicking a "field of flowers". The historical Royal Arms of France used gold fleur-de-lis on an azure/blue field in semé arrangement.
+- **Semé**: an all-over scattered repeat where individual fleur-de-lis motifs are distributed across the ground unjoined - mimicking a "field of flowers". The historical Royal Arms of France used gold fleur-de-lis on an azure/blue field in semé arrangement.
 - **Trellis/grid**: smaller motifs anchored within a diamond or geometric trellis network, widely used in wallpaper and textiles.
 - **Damask**: large ornate fleur-de-lis combined with scrolling damask vines and floral accents in a formal repeat structure.
 - **Stylised minimalist**: modern interior design applications using clean, geometric silhouettes stripped of ornate detailing.
@@ -151,15 +152,15 @@ Four dominant layout approaches:
 
 ## Colour and Style
 
-Classic heraldic: gold (*or*) on blue (*azure*) — the traditional French royal arms palette. Also gold or ivory on deep navy, burgundy, or green grounds.
+Classic heraldic: gold (*or*) on blue (*azure*) - the traditional French royal arms palette. Also gold or ivory on deep navy, burgundy, or green grounds.
 
 Contemporary applications: monochrome (black on white, white on black), tonal, and metallic. Heritage and luxury positioning across all palette interpretations. The motif carries French-inflected classicism regardless of colourway.
 
 ## History and Context
 
-The fleur-de-lis was the principal charge of the Royal Arms of France from the High Middle Ages through to the French Revolution in 1792, and during brief periods of the 19th century. Michel Pastoureau, the leading heraldist on the symbol, describes it as having become "at one and the same time, religious, political, dynastic, artistic, emblematic, and symbolic" — a statement of the motif's layered cultural weight.
+The fleur-de-lis was the principal charge of the Royal Arms of France from the High Middle Ages through to the French Revolution in 1792, and during brief periods of the 19th century. Michel Pastoureau, the leading heraldist on the symbol, describes it as having become "at one and the same time, religious, political, dynastic, artistic, emblematic, and symbolic" - a statement of the motif's layered cultural weight.
 
-Its botanical origin is contested. The name translates literally as "flower of the lily" (French: *fleur* + *lis*), but art historians and botanists largely agree the form more closely resembles the yellow flag iris (*Iris pseudacorus*) than the white lily. An 18th-century French naturalist, Pierre-Augustin Boissier de Sauvages, proposed the symbol derived from the iris growing along the river Lys in Flanders — the region where the Frankish kings lived before entering Gaul.
+Its botanical origin is contested. The name translates literally as "flower of the lily" (French: *fleur* + *lis*), but art historians and botanists largely agree the form more closely resembles the yellow flag iris (*Iris pseudacorus*) than the white lily. An 18th-century French naturalist, Pierre-Augustin Boissier de Sauvages, proposed the symbol derived from the iris growing along the river Lys in Flanders - the region where the Frankish kings lived before entering Gaul.
 
 Ancient precursors exist across cultures: similar forms appear on Gaulish coins, in Maya art (where the water lily represented the earth's regenerative power), and on a Scythian gold helmet in the Hermitage Museum, Saint Petersburg.
 
@@ -175,13 +176,13 @@ Beyond France, the fleur-de-lis appears on the coat of arms and flags of Quebec,
 
 ## Related Pattern Types
 
-- [[Damask Pattern]]
-- [[Heraldic Pattern]]
-- [[Trellis Pattern]]
+- Damask Pattern
+- Heraldic Pattern
+- Trellis Pattern
 
 ## Source Notes
 
-Sources: Fleur-de-lis Pattern 2.md (general definition — anatomy, pattern variations, digital and stencil applications), Fleur-de-lis Pattern.md (Wikipedia — Fleur-de-lis; heraldic history, botanical origin, French royal arms, international usage, Scouting symbol, New Orleans adopted symbol used; extensive country-by-country heraldry listings abbreviated to most SPD-relevant contexts)
+Sources: Fleur-de-lis Pattern 2.md (general definition - anatomy, pattern variations, digital and stencil applications), Fleur-de-lis Pattern.md (Wikipedia - Fleur-de-lis; heraldic history, botanical origin, French royal arms, international usage, Scouting symbol, New Orleans adopted symbol used; extensive country-by-country heraldry listings abbreviated to most SPD-relevant contexts)
 
 ## Editorial Images
 

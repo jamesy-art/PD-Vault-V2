@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 129
 ---
 
 # Unicorn Pattern
@@ -119,7 +120,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/unicorn-pattern/profile/unicorn-pattern-image.svg)
-A novelty and fantasy surface pattern type using unicorn imagery — typically combined with pastel or rainbow palettes, glitter elements, stars, and clouds — associated with the mid-2010s unicorn consumer trend. Active in children's apparel and gifting, and in adult novelty and ironic fashion markets.
+A novelty and fantasy surface pattern type using unicorn imagery - typically combined with pastel or rainbow palettes, glitter elements, stars, and clouds - associated with the mid-2010s unicorn consumer trend. Active in children's apparel and gifting, and in adult novelty and ironic fashion markets.
 
 ## Overview
 
@@ -127,11 +128,11 @@ The unicorn pattern draws on the mythological single-horned horse as a decorativ
 
 ## Visual Characteristics
 
-Contemporary unicorn patterns feature stylised horse silhouettes with a single spiralling horn, typically depicted in profile or three-quarter view. Manes and tails are rendered in multicolour gradients — commonly pink, lavender, gold, and turquoise. The surrounding composition includes clouds, stars, rainbows, hearts, and glitter-like dot elements. Holographic and iridescent surface effects are frequently referenced, though in flat print they are approximated through gradient fills and metallic ink choices. Pastel palettes dominate, though high-saturation rainbow versions are equally common.
+Contemporary unicorn patterns feature stylised horse silhouettes with a single spiralling horn, typically depicted in profile or three-quarter view. Manes and tails are rendered in multicolour gradients - commonly pink, lavender, gold, and turquoise. The surrounding composition includes clouds, stars, rainbows, hearts, and glitter-like dot elements. Holographic and iridescent surface effects are frequently referenced, though in flat print they are approximated through gradient fills and metallic ink choices. Pastel palettes dominate, though high-saturation rainbow versions are equally common.
 
 ## Pattern Structure
 
-Unicorn patterns most commonly use tossed (scattered) repeat layouts, with unicorn figures, stars, clouds, and accessory motifs distributed across the surface. Single-motif centred repeats (block or full-drop) are used for simpler designs. Engineered placement prints — a single large unicorn motif on a garment panel — are common in children's apparel.
+Unicorn patterns most commonly use tossed (scattered) repeat layouts, with unicorn figures, stars, clouds, and accessory motifs distributed across the surface. Single-motif centred repeats (block or full-drop) are used for simpler designs. Engineered placement prints - a single large unicorn motif on a garment panel - are common in children's apparel.
 
 ## Common Motifs
 
@@ -146,13 +147,13 @@ Unicorn patterns most commonly use tossed (scattered) repeat layouts, with unico
 
 ## Colour and Style
 
-The dominant palette is pastel: soft pink, lavender, baby blue, mint, and gold. High-saturation rainbow versions — cycling through the full visible spectrum — are the secondary variant. Holographic shimmer effects (silver, pearl, or spectrum-shifting) are a characteristic feature of unicorn trend branding, translated into print as gradient fills or reflective inks. Black-background "dark unicorn" variants exist as an alternative aesthetic aimed at older audiences.
+The dominant palette is pastel: soft pink, lavender, baby blue, mint, and gold. High-saturation rainbow versions - cycling through the full visible spectrum - are the secondary variant. Holographic shimmer effects (silver, pearl, or spectrum-shifting) are a characteristic feature of unicorn trend branding, translated into print as gradient fills or reflective inks. Black-background "dark unicorn" variants exist as an alternative aesthetic aimed at older audiences.
 
 ## History and Context
 
-The unicorn has a documented history as a decorative motif from at least the 4th century BCE, appearing in ancient Greek natural history writing and medieval European heraldry and tapestry. In Western folklore, it was associated with purity and rarity. The contemporary commercial transformation — from mythological creature to pastel cartoon consumer icon — accelerated through children's media, particularly the My Little Pony franchise (which featured unicorn characters from its 1980s origins, relaunched 2010), and through the visual culture of Instagram and Pinterest.
+The unicorn has a documented history as a decorative motif from at least the 4th century BCE, appearing in ancient Greek natural history writing and medieval European heraldry and tapestry. In Western folklore, it was associated with purity and rarity. The contemporary commercial transformation - from mythological creature to pastel cartoon consumer icon - accelerated through children's media, particularly the My Little Pony franchise (which featured unicorn characters from its 1980s origins, relaunched 2010), and through the visual culture of Instagram and Pinterest.
 
-The unicorn trend reached peak commercial saturation in 2016–2017, coinciding with widely shared viral food content ("unicorn toast," "unicorn frappuccino") and measurable Google Trends spikes in April 2017. Fashion industry engagement during the same period included the Moschino × My Little Pony runway collection at Milan Fashion Week (2017) and a Thom Browne Paris Fashion Week presentation (2018) featuring a staged unicorn figure. Cultural commentary has situated the trend within digital nostalgia, pastel-aesthetics branding, and LGBTQ visual culture (the rainbow as queer symbol intersecting with unicorn imagery).
+The unicorn trend reached peak commercial saturation in 2016-2017, coinciding with widely shared viral food content ("unicorn toast," "unicorn frappuccino") and measurable Google Trends spikes in April 2017. Fashion industry engagement during the same period included the Moschino × My Little Pony runway collection at Milan Fashion Week (2017) and a Thom Browne Paris Fashion Week presentation (2018) featuring a staged unicorn figure. Cultural commentary has situated the trend within digital nostalgia, pastel-aesthetics branding, and LGBTQ visual culture (the rainbow as queer symbol intersecting with unicorn imagery).
 
 By the early 2020s, the trend had passed peak novelty but the motif remained commercially standard in children's products and seasonal gifting lines.
 
@@ -168,16 +169,16 @@ By the early 2020s, the trend had passed peak novelty but the motif remained com
 
 ## Related Pattern Types
 
-- [[Fantasy Pattern]]
-- [[Rainbow Pattern]]
-- [[Children's Pattern]]
-- [[Space Pattern]]
-- [[Novelty Print]]
-- [[Conversational Pattern]]
+- Fantasy Pattern
+- Rainbow Pattern
+- Children's Pattern
+- Space Pattern
+- Novelty Print
+- Conversational Pattern
 
 ## Source Notes
 
-- Wikipedia: Unicorn Trend — comprehensive overview of the 2010s unicorn consumer phenomenon; covers background, trend development timeline, unicorn food/beauty/design/fashion subcategories, and cultural analysis
+- Wikipedia: Unicorn Trend - comprehensive overview of the 2010s unicorn consumer phenomenon; covers background, trend development timeline, unicorn food/beauty/design/fashion subcategories, and cultural analysis
 - Key citations: Vox (Abad-Santos, 2017), The Guardian (Fisher, 2017), Google Trends April 2017 peak, Starbucks Unicorn Frappuccino, Moschino × My Little Pony (2017 MFW), Thom Browne Paris FW 2018
 - Cultural analysis: Sianne Ngai "cute aesthetics" framework; Lev Manovich on Instagram visual culture; LGBTQ rainbow symbolism intersection documented
 

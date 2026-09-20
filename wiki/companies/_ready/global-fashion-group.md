@@ -30,6 +30,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 184
 ---
 
 # Global Fashion Group
@@ -57,15 +58,15 @@ GFG's regional platforms (Dafiti, THE ICONIC, ZALORA, and formerly Lamoda and Ja
 
 ## Services
 
-GFG operates as a pure-play online retailer — no physical stores. Revenue is generated through owned inventory (wholesale-in, sell-out) and marketplace commission (third-party sellers). The group raised €150M (2015) and €330M (2016) from Kinnevik and Rocket Internet. GFG listed on Frankfurt Stock Exchange in July 2019. The Ayala Group invested in ZALORA Philippines (49% ownership, 2017), a strategic partnership model used to deepen local market presence. Private label brands (Lost Ink, Zalora, Zalia, 24:01, Something Borrowed) may represent future licensing or acquisition opportunities if externalised.
+GFG operates as a pure-play online retailer - no physical stores. Revenue is generated through owned inventory (wholesale-in, sell-out) and marketplace commission (third-party sellers). The group raised €150M (2015) and €330M (2016) from Kinnevik and Rocket Internet. GFG listed on Frankfurt Stock Exchange in July 2019. The Ayala Group invested in ZALORA Philippines (49% ownership, 2017), a strategic partnership model used to deepen local market presence. Private label brands (Lost Ink, Zalora, Zalia, 24:01, Something Borrowed) may represent future licensing or acquisition opportunities if externalised.
 
 ## Markets
 
-GFG positioned itself as the dominant online fashion destination in markets underserved by Western fashion e-commerce — Australia/NZ, Latin America, and Southeast Asia. In Australia and New Zealand, THE ICONIC is one of the most recognised fashion e-commerce platforms. ZALORA operates across Singapore, Malaysia, Indonesia, Philippines, Hong Kong, and Taiwan. Dafiti serves Brazil and Colombia. The company's revenue has declined since 2022 as macro conditions, currency headwinds, and competitive pressures compressed the business, though EBITDA margins have improved through cost efficiency. International brand partnerships — including a ZALORA–Abercrombie & Fitch partnership (2017) — have brought global Western brands to the group's customer base in Asia.
+GFG positioned itself as the dominant online fashion destination in markets underserved by Western fashion e-commerce - Australia/NZ, Latin America, and Southeast Asia. In Australia and New Zealand, THE ICONIC is one of the most recognised fashion e-commerce platforms. ZALORA operates across Singapore, Malaysia, Indonesia, Philippines, Hong Kong, and Taiwan. Dafiti serves Brazil and Colombia. The company's revenue has declined since 2022 as macro conditions, currency headwinds, and competitive pressures compressed the business, though EBITDA margins have improved through cost efficiency. International brand partnerships - including a ZALORA-Abercrombie & Fitch partnership (2017) - have brought global Western brands to the group's customer base in Asia.
 
 ## Pattern and Surface Design Relevance
 
-GFG's platforms function as fashion curators and distributors for markets in the Asia-Pacific, Southeast Asia, and Latin America — regions with growing demand for international fashion and surface pattern design. Private label brand development (from 2013) requires in-house design teams to produce seasonal collections, including print and pattern design for the group's own labels. ZALORA's Zalia label addresses the modest fashion market in Muslim-majority Southeast Asian markets — a category where print, textile pattern, and fabric surface design are central to the product. Something Borrowed (occasionwear) and Lost Ink (trend fashion) represent categories where surface pattern work is commercially significant. The group's scale as a fashion aggregator makes it a meaningful distribution channel for pattern-led fashion brands seeking reach into Australia, Southeast Asia, and Latin America.
+GFG's platforms function as fashion curators and distributors for markets in the Asia-Pacific, Southeast Asia, and Latin America - regions with growing demand for international fashion and surface pattern design. Private label brand development (from 2013) requires in-house design teams to produce seasonal collections, including print and pattern design for the group's own labels. ZALORA's Zalia label addresses the modest fashion market in Muslim-majority Southeast Asian markets - a category where print, textile pattern, and fabric surface design are central to the product. Something Borrowed (occasionwear) and Lost Ink (trend fashion) represent categories where surface pattern work is commercially significant. The group's scale as a fashion aggregator makes it a meaningful distribution channel for pattern-led fashion brands seeking reach into Australia, Southeast Asia, and Latin America.
 
 ## Official Resources
 

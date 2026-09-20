@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 555
 ---
 # Laura Mack Designs
 
@@ -71,7 +72,7 @@ Laura Mack Designs is a UK-based independent print studio producing bold, expres
 
 ## Studio Style and Aesthetic
 
-The studio's aesthetic is defined by bold colour, painterly texture, and strong graphic energy. The collection spans eight design categories — Tropical, Watercolour, Expressive, Paisley, Illustrated Foliage, Animal, Folk, and Bold Motifs — reflecting a deliberately varied range suited to multiple buyer segments within fashion and home markets.
+The studio's aesthetic is defined by bold colour, painterly texture, and strong graphic energy. The collection spans eight design categories - Tropical, Watercolour, Expressive, Paisley, Illustrated Foliage, Animal, Folk, and Bold Motifs - reflecting a deliberately varied range suited to multiple buyer segments within fashion and home markets.
 
 ## Markets and Specialties
 
@@ -93,7 +94,7 @@ Laura Mack Designs operates as an independent studio selling prints direct. No s
 
 ## Studio Background
 
-Laura Mack Designs is a UK-based independent practice. The studio's eight collection categories — Tropical, Watercolour, Expressive, Paisley, Illustrated Foliage, Animal, Folk, Bold Motifs — reflect a broad commercial range built around a painterly design signature.
+Laura Mack Designs is a UK-based independent practice. The studio's eight collection categories - Tropical, Watercolour, Expressive, Paisley, Illustrated Foliage, Animal, Folk, Bold Motifs - reflect a broad commercial range built around a painterly design signature.
 
 ## Pattern Focus
 

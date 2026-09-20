@@ -1,6 +1,6 @@
 ---
 applied: '4/18/2025 15:19:02'
-email: hello@roaslindeclara.com
+email: hello@rosalindeclara.com
 name: Rosalinde Clara B
 slug: rosalinde.clara
 type: pattern designer

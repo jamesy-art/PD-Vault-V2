@@ -1,0 +1,54 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-0e2e3186df252f17",
+  "canonical_id": "can-clip-0e2e3186df252f17",
+  "canonical_path": "wiki/jobs/_staging/associate-surface-designer-vera-bradley-roanoke",
+  "resolved": [
+    "company:Vera Bradley",
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:CLO3D",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Surface Design",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United States"
+  ],
+  "needs_review": [
+    "software:FlexPLM",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:Product Development",
+    "skills:Presentation",
+    "skills:PLM",
+    "skills:Organisation",
+    "skills:Communication",
+    "skills:Attention to Detail",
+    "skills:Pattern Design",
+    "skills:Teamwork",
+    "location:Roanoke",
+    "location:Roanoke, IN, United States"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 10,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 68,
+    "software": 1,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 71,
+  "resolution_quality": 43,
+  "message": "Resolved"
+}

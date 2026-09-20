@@ -73,6 +73,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 51
 ---
 
 # Barbour
@@ -90,9 +91,9 @@ enrichment_status: enriched
 
 ## Overview
 
-J. Barbour & Sons, Limited (trading as Barbour) is an English luxury and lifestyle brand founded in South Shields, England, in 1894 by John Barbour, originally as an importer of oilcloth. The brand is best known for its waxed cotton outerwear — particularly the Beaufort Jacket (introduced 1983), with its waxed olive exterior, brown corduroy collar, and tartan lining. Barbour holds royal warrants for the supply of waterproof and protective clothing from the Duke of Edinburgh (1974), Queen Elizabeth II (1982), and King Charles III (1987). The company remains family-owned and is led by Dame Margaret Barbour (chair since 1973, fourth generation), with Helen Barbour (vice chair since 1997) representing the fifth generation.
+J. Barbour & Sons, Limited (trading as Barbour) is an English luxury and lifestyle brand founded in South Shields, England, in 1894 by John Barbour, originally as an importer of oilcloth. The brand is best known for its waxed cotton outerwear - particularly the Beaufort Jacket (introduced 1983), with its waxed olive exterior, brown corduroy collar, and tartan lining. Barbour holds royal warrants for the supply of waterproof and protective clothing from the Duke of Edinburgh (1974), Queen Elizabeth II (1982), and King Charles III (1987). The company remains family-owned and is led by Dame Margaret Barbour (chair since 1973, fourth generation), with Helen Barbour (vice chair since 1997) representing the fifth generation.
 
-Barbour's design is anchored in British country heritage: waxed or quilted outerwear, traditional textiles (moleskin, corduroy, tattersall), and practical functional details (storm cuffs, game pockets, waterproof drainage pockets). The Beaufort Jacket's design is described as French in origin, tailored to British needs. In recent years the company has modernised collections for younger and urban audiences while maintaining credibility with the traditional countryside customer — drawing on the Barbour International motorcycle heritage as a bridge between the two markets.
+Barbour's design is anchored in British country heritage: waxed or quilted outerwear, traditional textiles (moleskin, corduroy, tattersall), and practical functional details (storm cuffs, game pockets, waterproof drainage pockets). The Beaufort Jacket's design is described as French in origin, tailored to British needs. In recent years the company has modernised collections for younger and urban audiences while maintaining credibility with the traditional countryside customer - drawing on the Barbour International motorcycle heritage as a bridge between the two markets.
 
 ## History
 
@@ -107,15 +108,15 @@ Barbour's design is anchored in British country heritage: waxed or quilted outer
 
 ## Products
 
-- **Waxed cotton jackets** — core product; Beaufort Jacket (1983) is the flagship
-- **Quilted jackets** — second major outerwear category
-- **Sweaters** — knit outerwear
-- **Moleskin clothing** — textured cotton apparel
-- **Corduroy clothing** — ribbed cotton apparel
-- **Tattersall shirts** — heritage check pattern shirting
-- **Footwear** — included in the full product range
-- **Accessories** — complementary lifestyle accessories
-- **Barbour International** — motorcycle heritage sub-brand; modern collections inspired by 1936 waxed cotton motorcycling suit and 1951 "Original Green" motorcycling jacket
+- **Waxed cotton jackets** - core product; Beaufort Jacket (1983) is the flagship
+- **Quilted jackets** - second major outerwear category
+- **Sweaters** - knit outerwear
+- **Moleskin clothing** - textured cotton apparel
+- **Corduroy clothing** - ribbed cotton apparel
+- **Tattersall shirts** - heritage check pattern shirting
+- **Footwear** - included in the full product range
+- **Accessories** - complementary lifestyle accessories
+- **Barbour International** - motorcycle heritage sub-brand; modern collections inspired by 1936 waxed cotton motorcycling suit and 1951 "Original Green" motorcycling jacket
 
 Barbour repairs and rewaxes over 60,000 garments annually at its factory in Simonside, South Shields.
 
@@ -125,19 +126,19 @@ Barbour wholesales its full collections to upscale shops worldwide, in addition 
 
 ## Markets
 
-Barbour occupies the British country lifestyle segment at the luxury/heritage end, with strong crossover into urban fashion — the brand saw significant urban adoption during the 2010s. Its royal family association (King Charles, Prince William, Princess Catherine, the late Queen Elizabeth) provides sustained aspirational positioning in the UK and internationally. Barbour International trades on the brand's history with motorcycle competition (Steve McQueen; International Six Day Trials). The brand's repair and rewaxing service — processing over 60,000 jackets annually — is a commercially embedded sustainability proposition that predates current sustainability trends by over a century.
+Barbour occupies the British country lifestyle segment at the luxury/heritage end, with strong crossover into urban fashion - the brand saw significant urban adoption during the 2010s. Its royal family association (King Charles, Prince William, Princess Catherine, the late Queen Elizabeth) provides sustained aspirational positioning in the UK and internationally. Barbour International trades on the brand's history with motorcycle competition (Steve McQueen; International Six Day Trials). The brand's repair and rewaxing service - processing over 60,000 jackets annually - is a commercially embedded sustainability proposition that predates current sustainability trends by over a century.
 
 ## Pattern and Surface Design Relevance
 
 Barbour's product identity is directly built on several classic surface pattern and textile types:
 
-**Tartan** — the Beaufort Jacket's tartan lining is one of its defining design elements, alongside the waxed olive exterior and corduroy collar. Tartan as a heritage British textile pattern is embedded in Barbour's brand DNA.
+**Tartan** - the Beaufort Jacket's tartan lining is one of its defining design elements, alongside the waxed olive exterior and corduroy collar. Tartan as a heritage British textile pattern is embedded in Barbour's brand DNA.
 
-**Tattersall** — Barbour produces tattersall shirts as a core product category. Tattersall is a classic check pattern derived from British country and equestrian tradition, named after the Tattersall horse market in London. It is a direct surface pattern type with SPD relevance.
+**Tattersall** - Barbour produces tattersall shirts as a core product category. Tattersall is a classic check pattern derived from British country and equestrian tradition, named after the Tattersall horse market in London. It is a direct surface pattern type with SPD relevance.
 
-**Corduroy** — the Beaufort Jacket's brown corduroy collar is a signature design detail; corduroy clothing is a standalone product category. Corduroy's ribbed surface texture functions as a material-led pattern treatment.
+**Corduroy** - the Beaufort Jacket's brown corduroy collar is a signature design detail; corduroy clothing is a standalone product category. Corduroy's ribbed surface texture functions as a material-led pattern treatment.
 
-**Waxed cotton** — the brand's primary material is also a surface treatment: oilcloth/waxed cotton produces a distinctive surface sheen and tactile quality that is central to Barbour's design language.
+**Waxed cotton** - the brand's primary material is also a surface treatment: oilcloth/waxed cotton produces a distinctive surface sheen and tactile quality that is central to Barbour's design language.
 
 The 2010s urban fashion crossover generated collaborations with fashion brands including Wood Wood, Ally Capellino, and White Mountaineering, introducing Barbour's textile heritage to a streetwear-adjacent audience.
 

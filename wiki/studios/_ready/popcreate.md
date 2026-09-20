@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 577
 ---
 # Popcreate
 
@@ -71,7 +72,7 @@ Popcreate is a London-based textile design studio founded in 2020 by Faye Angel.
 
 ## Studio Style and Aesthetic
 
-The portfolio shows dense, all-over florals in two registers: saturated, high-contrast colourways (frequently set on black grounds) and softer, dusty-pastel recolours of the same motifs (lilac, powder blue, sage). The set also includes archival scarf-style prints — a novelty fruit/vegetable seed-packet motif, a cherry-and-stripe combination, and a paisley floral border — indicating a range that extends beyond core florals into vintage-inspired conversational and archival prints.
+The portfolio shows dense, all-over florals in two registers: saturated, high-contrast colourways (frequently set on black grounds) and softer, dusty-pastel recolours of the same motifs (lilac, powder blue, sage). The set also includes archival scarf-style prints - a novelty fruit/vegetable seed-packet motif, a cherry-and-stripe combination, and a paisley floral border - indicating a range that extends beyond core florals into vintage-inspired conversational and archival prints.
 
 ## Markets and Specialties
 
@@ -81,7 +82,7 @@ A The portfolio shows a floral-and-leopard motif applied to womenswear separates
 
 ## Techniques and Artwork Process
 
-Popcreate digitises vintage archive pieces and original photography into hand-rendered, full industry-repeat artwork, and offers free re-colours — visible in the selected patterns, where several florals recur across multiple distinct colourways.
+Popcreate digitises vintage archive pieces and original photography into hand-rendered, full industry-repeat artwork, and offers free re-colours - visible in the selected patterns, where several florals recur across multiple distinct colourways.
 
 ## Clients and Commercial Positioning
 

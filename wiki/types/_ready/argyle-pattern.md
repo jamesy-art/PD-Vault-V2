@@ -60,7 +60,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:PinkArgyle.svg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/PinkArgyle.svg/250px-PinkArgyle.svg.png"
       title: An example of an Argyle style pattern
       description: An example of an Argyle style pattern
@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 84
 ---
 
 # Argyle Pattern
@@ -119,19 +120,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/argyle-pattern/profile/argyle-pattern-image.svg)
-A geometric textile pattern of nested overlapping diamond shapes on a diagonal grid, with intercrossing diagonal lines — derived from the tartan of Clan Campbell of Argyll and most closely associated with British knitwear.
+A geometric textile pattern of nested overlapping diamond shapes on a diagonal grid, with intercrossing diagonal lines - derived from the tartan of Clan Campbell of Argyll and most closely associated with British knitwear.
 
 ## Overview
 
-Argyle is one of the most commercially durable geometric patterns in British textile design. It is foundational to sock, jumper, and golf knitwear, and cycles regularly through fashion and sports apparel. The pattern has strong heritage associations — Scotland, golf culture, preppy dress — but adapts readily to contemporary colourways and scaled-up fashion interpretations.
+Argyle is one of the most commercially durable geometric patterns in British textile design. It is foundational to sock, jumper, and golf knitwear, and cycles regularly through fashion and sports apparel. The pattern has strong heritage associations - Scotland, golf culture, preppy dress - but adapts readily to contemporary colourways and scaled-up fashion interpretations.
 
 ## Visual Characteristics
 
-Argyle consists of overlapping diamond shapes in two or more colours arranged on a diagonal axis. A secondary diamond outline — typically a fine line in a contrasting colour — sits on top of the solid diamond grid, aligned to the crossing diagonals. The overlapping structure creates a visual impression of depth, making the pattern appear layered. In its classic three-colour form, argyle uses a ground colour, a contrasting solid diamond, and a fine diagonal line.
+Argyle consists of overlapping diamond shapes in two or more colours arranged on a diagonal axis. A secondary diamond outline - typically a fine line in a contrasting colour - sits on top of the solid diamond grid, aligned to the crossing diagonals. The overlapping structure creates a visual impression of depth, making the pattern appear layered. In its classic three-colour form, argyle uses a ground colour, a contrasting solid diamond, and a fine diagonal line.
 
 ## Pattern Structure
 
-Argyle is a diagonal grid repeat. Diamonds are staggered so that adjacent columns offset by a half-unit, producing overlap rather than simple tiling. The intercrossing diagonal lines are a structural requirement — they distinguish argyle from a plain diamond check. The pattern differs from tartan in that it places two solid colours side by side rather than interlacing warp and weft colours in a woven structure. Pattern scale ranges from fine-gauge knitwear (small scale) to oversized contemporary printed versions.
+Argyle is a diagonal grid repeat. Diamonds are staggered so that adjacent columns offset by a half-unit, producing overlap rather than simple tiling. The intercrossing diagonal lines are a structural requirement - they distinguish argyle from a plain diamond check. The pattern differs from tartan in that it places two solid colours side by side rather than interlacing warp and weft colours in a woven structure. Pattern scale ranges from fine-gauge knitwear (small scale) to oversized contemporary printed versions.
 
 ## Common Motifs
 
@@ -143,19 +144,19 @@ Traditional argyle uses a heritage knitwear palette: bottle green, navy, burgund
 
 ## History and Context
 
-Argyle derives from the tartan associated with Clan Campbell of Argyll, Scotland. Scottish Highland tartan hose featuring diagonal diamond structures date to at least the 17th century. The pattern transitioned from regional Highland dress into mainstream British menswear during the early 20th century. Pringle of Scotland — founded in Hawick in 1815 — popularised the argyle pattern internationally in the 1920s through its knitwear. The Duke of Windsor's public adoption of argyle knitwear cemented its association with golf culture and upper-class leisure dress. Traditional argyle knitwear is produced using intarsia knitting — separate yarn bobbins for each colour region, requiring significant technical skill. The pattern has moved through multiple cultural associations: preppy American collegiate style (1950s–60s), punk reinterpretation (1970s), and contemporary sportswear.
+Argyle derives from the tartan associated with Clan Campbell of Argyll, Scotland. Scottish Highland tartan hose featuring diagonal diamond structures date to at least the 17th century. The pattern transitioned from regional Highland dress into mainstream British menswear during the early 20th century. Pringle of Scotland - founded in Hawick in 1815 - popularised the argyle pattern internationally in the 1920s through its knitwear. The Duke of Windsor's public adoption of argyle knitwear cemented its association with golf culture and upper-class leisure dress. Traditional argyle knitwear is produced using intarsia knitting - separate yarn bobbins for each colour region, requiring significant technical skill. The pattern has moved through multiple cultural associations: preppy American collegiate style (1950s-60s), punk reinterpretation (1970s), and contemporary sportswear.
 
 ## Surface Pattern Uses
 
-- **Knitwear** — argyle is foundational to sock, jumper, and vest design in heritage menswear and casualwear
-- **Golf and sports apparel** — the pattern retains active commercial use in golf clothing and contemporary sportswear
-- **Fashion textiles** — argyle appears as a printed pattern in womenswear and childrenswear, typically referencing heritage associations
-- **Homeware** — argyle appears in cushion covers, throws, and upholstery in traditional interior styles
-- **Licensing and gifting** — argyle is widely used in licensed stationery, gifting, and seasonal product categories, particularly Christmas and autumn/winter
+- **Knitwear** - argyle is foundational to sock, jumper, and vest design in heritage menswear and casualwear
+- **Golf and sports apparel** - the pattern retains active commercial use in golf clothing and contemporary sportswear
+- **Fashion textiles** - argyle appears as a printed pattern in womenswear and childrenswear, typically referencing heritage associations
+- **Homeware** - argyle appears in cushion covers, throws, and upholstery in traditional interior styles
+- **Licensing and gifting** - argyle is widely used in licensed stationery, gifting, and seasonal product categories, particularly Christmas and autumn/winter
 
 ## Related Pattern Types
 
-[[Tartan Pattern]], [[Diamond Check]], [[Harlequin Pattern]], [[Plaid Pattern]], [[Geometric Pattern]], [[Lozenge Pattern]]
+Tartan Pattern, Diamond Check, Harlequin Pattern, Plaid Pattern, Geometric Pattern, Lozenge Pattern
 
 ## Source Notes
 

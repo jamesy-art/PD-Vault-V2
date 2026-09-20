@@ -47,6 +47,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 42
 ---
 
 # Escada
@@ -69,9 +70,9 @@ Margaretha Ley established the brand's founding aesthetic: bold femininity expre
 
 ## History
 
-Margaretha Ley — a former model with a tailoring education from the Royal Court in Stockholm — co-founded Escada with her husband Wolfgang Ley. The brand went public on the Frankfurt Stock Exchange in 1986, with the Ley family retaining 51% of voting stock. During its growth phase, Escada extended into sub-labels (Crisca, Laurèl, Apriori, Natalie Acatrini), produced the Cerruti 1881 women's collection under licence, and owned majority stakes in St. John Knits (1990–1993) and Badgley Mischka (1992+). A signature fragrance line launched in 1990 and was eventually licensed to Wella in 2002.
+Margaretha Ley - a former model with a tailoring education from the Royal Court in Stockholm - co-founded Escada with her husband Wolfgang Ley. The brand went public on the Frankfurt Stock Exchange in 1986, with the Ley family retaining 51% of voting stock. During its growth phase, Escada extended into sub-labels (Crisca, Laurèl, Apriori, Natalie Acatrini), produced the Cerruti 1881 women's collection under licence, and owned majority stakes in St. John Knits (1990-1993) and Badgley Mischka (1992+). A signature fragrance line launched in 1990 and was eventually licensed to Wella in 2002.
 
-Margaretha Ley died in 1992. Subsequent design directors included Michael Stolzenburg (1992–1994), Todd Oldham (1995–1997), Damiano Biella (2006), Bettina Hammerl (2009–2012), Daniel Wingate (2012–2017), and Niall Sloan (from 2017). Sloan presented Escada at New York Fashion Week for Spring/Summer 2019 (at Park Avenue Armory, marking the brand's 40th anniversary) and at Paris Fashion Week for Fall/Winter 2019 (at Institut de France).
+Margaretha Ley died in 1992. Subsequent design directors included Michael Stolzenburg (1992-1994), Todd Oldham (1995-1997), Damiano Biella (2006), Bettina Hammerl (2009-2012), Daniel Wingate (2012-2017), and Niall Sloan (from 2017). Sloan presented Escada at New York Fashion Week for Spring/Summer 2019 (at Park Avenue Armory, marking the brand's 40th anniversary) and at Paris Fashion Week for Fall/Winter 2019 (at Institut de France).
 
 Escada filed for insolvency in August 2009 and was acquired by Megha Mittal (daughter-in-law of Lakshmi Mittal) in November 2009. Mittal sold the brand to Regent L.P. in October 2019. In September 2020, the company again filed for insolvency in Germany, with plans to limit retail presence.
 
@@ -87,7 +88,7 @@ The Escada Sport label launched in 1995. Escada lingerie was produced by Hanro o
 
 ## Services
 
-Escada distributes through its own monobrand boutiques and department store concessions across 80 countries. The brand has a documented presence at major European department stores including El Corte Inglés (Escada Sport boutique at the Castellana flagship). Its licensing division manages fragrance and eyewear rights — the fragrance licence passed from Wella to Procter & Gamble over time. The brand also operated a lingerie licence with Hanro of Switzerland (from 2001).
+Escada distributes through its own monobrand boutiques and department store concessions across 80 countries. The brand has a documented presence at major European department stores including El Corte Inglés (Escada Sport boutique at the Castellana flagship). Its licensing division manages fragrance and eyewear rights - the fragrance licence passed from Wella to Procter & Gamble over time. The brand also operated a lingerie licence with Hanro of Switzerland (from 2001).
 
 ## Markets
 
@@ -95,7 +96,7 @@ Escada operates in the upper tier of luxury ready-to-wear for women, positioned 
 
 ## Pattern and Surface Design Relevance
 
-Colour and pattern combinations were defining characteristics of Escada from its founding in 1978. The brand's first collection featured "unusual combinations of colors and patterns, exclusive embroidery, and elaborately designed knitted fashions" — sourced directly from the Wikipedia entry on the company's founding. Inlays and appliqués were present from the first season. Escada's identity has historically been built on a bold, pattern-rich, highly embellished aesthetic, particularly in its mainline RTW. The licensing arm (fragrances, eyewear) applies the brand surface across product categories beyond apparel. The Rita Ora ESCADA Heart Bag collaboration (2019) brought a celebrity-designed accessory surface design to market with a charitable component.
+Colour and pattern combinations were defining characteristics of Escada from its founding in 1978. The brand's first collection featured "unusual combinations of colors and patterns, exclusive embroidery, and elaborately designed knitted fashions" - sourced directly from the Wikipedia entry on the company's founding. Inlays and appliqués were present from the first season. Escada's identity has historically been built on a bold, pattern-rich, highly embellished aesthetic, particularly in its mainline RTW. The licensing arm (fragrances, eyewear) applies the brand surface across product categories beyond apparel. The Rita Ora ESCADA Heart Bag collaboration (2019) brought a celebrity-designed accessory surface design to market with a charitable component.
 
 ## Official Resources
 

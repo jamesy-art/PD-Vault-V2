@@ -67,6 +67,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 131
 ---
 
 # Tous
@@ -90,7 +91,7 @@ The brand's creative identity was established by Rosa Oriol and the second-gener
 
 ## History
 
-The company was founded as a watch repair business in 1920. The national expansion began in the 1980s; the four daughters of Salvador and Rosa Tous — Rosa, Alba, Laura, and Marta — subsequently joined the family business. International expansion began in the 1990s with the opening of the first overseas store in Japan, followed by Mexico and the United States. Tous has collaborated with Eugenia Martínez de Irujo (Duchess of Montoro, daughter of the Duchess of Alba) on multiple jewellery collections, including "Iluminada," "Leyendas," and "Cercle." In 2011, Tous collaborated with Manolo Blahnik on the "Manolo Blahnik for TOUS" collection, producing pendants in gold and silver that reproduced the form of Blahnik's "Campari" shoe. The brand has used celebrity ambassadors including Kylie Minogue and Jennifer Lopez (Spring–Summer 2011 campaign). In 2012, Tous was named a partner of the (RED) HIV/AIDS campaign.
+The company was founded as a watch repair business in 1920. The national expansion began in the 1980s; the four daughters of Salvador and Rosa Tous - Rosa, Alba, Laura, and Marta - subsequently joined the family business. International expansion began in the 1990s with the opening of the first overseas store in Japan, followed by Mexico and the United States. Tous has collaborated with Eugenia Martínez de Irujo (Duchess of Montoro, daughter of the Duchess of Alba) on multiple jewellery collections, including "Iluminada," "Leyendas," and "Cercle." In 2011, Tous collaborated with Manolo Blahnik on the "Manolo Blahnik for TOUS" collection, producing pendants in gold and silver that reproduced the form of Blahnik's "Campari" shoe. The brand has used celebrity ambassadors including Kylie Minogue and Jennifer Lopez (Spring-Summer 2011 campaign). In 2012, Tous was named a partner of the (RED) HIV/AIDS campaign.
 
 ## Products
 
@@ -98,22 +99,22 @@ Core product: jewellery (the company's founding business since 1920). Extended r
 
 ## Services
 
-Tous operates through 400+ own-stores in 45 countries and e-commerce. The brand is a family-operated business without documented third-party licensing or franchise arrangements in source material. The product range breadth — from jewellery to textiles, bags, and fragrance — suggests either in-house design across categories or close-partnership design sourcing, though specific production relationships are not documented in available source material.
+Tous operates through 400+ own-stores in 45 countries and e-commerce. The brand is a family-operated business without documented third-party licensing or franchise arrangements in source material. The product range breadth - from jewellery to textiles, bags, and fragrance - suggests either in-house design across categories or close-partnership design sourcing, though specific production relationships are not documented in available source material.
 
 ## Markets
 
-Tous occupies an accessible luxury position in the Spanish and international jewellery and accessories market — distinct from ultra-luxury jewellery (gold price points) but clearly positioned above mass market accessories. The brand's 30 annual collections place it in a high-cadence design operation comparable to fashion brands rather than traditional fine jewellery houses. Its 400+ store retail network in 45 countries gives it direct-to-consumer reach at meaningful international scale. The Manolo Blahnik collaboration and aristocratic ambassador partnerships signal a deliberate alignment with European fashion culture and luxury adjacency.
+Tous occupies an accessible luxury position in the Spanish and international jewellery and accessories market - distinct from ultra-luxury jewellery (gold price points) but clearly positioned above mass market accessories. The brand's 30 annual collections place it in a high-cadence design operation comparable to fashion brands rather than traditional fine jewellery houses. Its 400+ store retail network in 45 countries gives it direct-to-consumer reach at meaningful international scale. The Manolo Blahnik collaboration and aristocratic ambassador partnerships signal a deliberate alignment with European fashion culture and luxury adjacency.
 
 ## Pattern and Surface Design Relevance
 
 Tous's relevance to surface pattern design operates through its motif-driven product identity and multi-category accessories range:
 
-- **The TOUS bear as recurring motif**: The TOUS bear is the brand's signature motif, applied consistently across jewellery, bags, charms, and accessories. This is a classic example of a brand-owned character motif functioning as a design signature — the same strategic logic as a monogram or repeating icon. The bear is applied across product lines as a unifying surface identity element.
+- **The TOUS bear as recurring motif**: The TOUS bear is the brand's signature motif, applied consistently across jewellery, bags, charms, and accessories. This is a classic example of a brand-owned character motif functioning as a design signature - the same strategic logic as a monogram or repeating icon. The bear is applied across product lines as a unifying surface identity element.
 - **Jewellery as surface embellishment**: Jewellery design is a direct form of surface decoration applied to the body; TOUS's collections, including named series ("Iluminada," "Leyendas," "Cercle"), are design exercises in motif, form, and material surface variation.
-- **Textiles as a product category**: Tous explicitly lists textiles as part of its product portfolio — meaning the brand directly commissions and sells printed/patterned fabric goods, extending SPD relevance beyond accessories into product design.
-- **Bag and leather goods surface design**: The brand's bag range involves surface design decisions — embossed patterns, applied motifs, material treatments, and colour palette — as central to product identity.
+- **Textiles as a product category**: Tous explicitly lists textiles as part of its product portfolio - meaning the brand directly commissions and sells printed/patterned fabric goods, extending SPD relevance beyond accessories into product design.
+- **Bag and leather goods surface design**: The brand's bag range involves surface design decisions - embossed patterns, applied motifs, material treatments, and colour palette - as central to product identity.
 - **30 annual collections**: High design output cadence at 30 collections per year requires active ongoing print, motif, and surface design development across product categories.
-- **Manolo Blahnik collaboration (2011)**: A pendant that faithfully reproduced the "Campari" shoe in gold and silver is an example of high-concept product surface design — three-dimensional motif reproduction as jewellery.
+- **Manolo Blahnik collaboration (2011)**: A pendant that faithfully reproduced the "Campari" shoe in gold and silver is an example of high-concept product surface design - three-dimensional motif reproduction as jewellery.
 
 ## Official Resources
 

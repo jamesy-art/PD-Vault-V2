@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 551
 ---
 # Karolina York
 
@@ -72,7 +73,7 @@ Karolina York is a print design studio headquartered in Sydney with an additiona
 
 ## Studio Style and Aesthetic
 
-The portfolio shows large-scale, saturated florals in tropical and Mediterranean palettes — hot pink, coral, teal, and chartreuse built into oversized botanical motifs. The set also includes travel-themed conversational collages (Mediterranean coastal and New York streetscape scenes) and a leopard-print capsule, consistent with the studio's own description of "romantic florals," "bohemian prints," and "elevated conversationals."
+The portfolio shows large-scale, saturated florals in tropical and Mediterranean palettes - hot pink, coral, teal, and chartreuse built into oversized botanical motifs. The set also includes travel-themed conversational collages (Mediterranean coastal and New York streetscape scenes) and a leopard-print capsule, consistent with the studio's own description of "romantic florals," "bohemian prints," and "elevated conversationals."
 
 ## Markets and Specialties
 
@@ -84,7 +85,7 @@ The studio produces both digital and traditional (hand-painted) print collection
 
 ## Clients and Commercial Positioning
 
-Karolina York states it works with clients "across Australia and around the world," travelling internationally each month to present its collection in person — indicating a trade-show or direct sales-visit model.
+Karolina York states it works with clients "across Australia and around the world," travelling internationally each month to present its collection in person - indicating a trade-show or direct sales-visit model.
 
 ## Portfolio and Presence
 

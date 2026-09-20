@@ -117,6 +117,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 60
 ---
 
 # Types of Repeat Pattern
@@ -142,7 +143,7 @@ The primary repeat types used commercially in surface pattern design:
 
 **Toss / Random:** Multiple motifs scattered within the repeat unit with no formal alignment. The four edges must still tile seamlessly. Produces the most organic and informal surface. Most commonly used for hero patterns in a collection due to the visual complexity achievable with many elements.
 
-**Dot:** A version of the block repeat in which evenly spaced elements — not necessarily literal dots, but any motif repeated at equal intervals in all directions — create a regular, measured surface. The simplest construction variant for any motif category.
+**Dot:** A version of the block repeat in which evenly spaced elements - not necessarily literal dots, but any motif repeated at equal intervals in all directions - create a regular, measured surface. The simplest construction variant for any motif category.
 
 **Complex Stripe:** Motif rows placed at equal horizontal intervals. The "stripe" is not necessarily a solid colour band but may consist of a sequence of motifs, illustrated elements, or texture. Orientation can be vertical, horizontal, or diagonal.
 
@@ -158,7 +159,7 @@ The primary repeat types used commercially in surface pattern design:
 
 ## Common Motifs
 
-Repeat type is a structural category, not a motif category. All motif types — floral, geometric, conversational, abstract — can be executed in any repeat structure. The structural choice is independent of subject matter.
+Repeat type is a structural category, not a motif category. All motif types - floral, geometric, conversational, abstract - can be executed in any repeat structure. The structural choice is independent of subject matter.
 
 ## Colour and Style
 
@@ -166,7 +167,7 @@ No fixed palette applies to repeat structure as a category. Colour and style are
 
 ## History and Context
 
-The technical vocabulary of repeat types derives from industrial textile production, where different loom and printing repeat configurations were given specific names. Block, half-drop, and brick repeats correspond directly to print-roller and screen-printing registration systems. Digital tools — particularly Adobe Illustrator's pattern swatch and artboard system — have standardised how these repeat types are constructed in contemporary practice. Repeat type literacy is a foundational element of surface pattern design education.
+The technical vocabulary of repeat types derives from industrial textile production, where different loom and printing repeat configurations were given specific names. Block, half-drop, and brick repeats correspond directly to print-roller and screen-printing registration systems. Digital tools - particularly Adobe Illustrator's pattern swatch and artboard system - have standardised how these repeat types are constructed in contemporary practice. Repeat type literacy is a foundational element of surface pattern design education.
 
 ## Surface Pattern Uses
 
@@ -178,17 +179,17 @@ All repeat types are used across the full range of surface pattern markets: appa
 
 ## Related Pattern Types
 
-- [[Simple Repeating Pattern]]
-- [[Half Drop Pattern]]
-- [[Brick Pattern]]
-- [[Diamond Pattern]]
-- [[Ogee Pattern]]
-- [[Stripe Pattern]]
-- [[Full Drop Pattern]]
+- Simple Repeating Pattern
+- Half Drop Pattern
+- Brick Pattern
+- Diamond Pattern
+- Ogee Pattern
+- Stripe Pattern
+- Full Drop Pattern
 
 ## Source Notes
 
-- deniseanne.com (Denise Palmer, 2016): "Creating a Pattern Collection: Pattern Repeat Types" — primary source; covers toss/random, dot, complex stripe, block, diamond repeats with Adobe Illustrator examples and workflow context; hero/coordinate/coordinating collection architecture explained; Elizabeth Olwen cited on "hero" pattern definition
+- deniseanne.com (Denise Palmer, 2016): "Creating a Pattern Collection: Pattern Repeat Types" - primary source; covers toss/random, dot, complex stripe, block, diamond repeats with Adobe Illustrator examples and workflow context; hero/coordinate/coordinating collection architecture explained; Elizabeth Olwen cited on "hero" pattern definition
 - patternanddesign.com (2017): additional repeat type vocabulary (full drop, half drop, brick, diamond, ogee, tossed, stripe)
 
 ## Editorial Images

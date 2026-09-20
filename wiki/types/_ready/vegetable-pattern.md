@@ -3,7 +3,7 @@ name: Vegetable Pattern
 slug: vegetable-pattern
 status: active
 type_group: novelty
-summary: Surface pattern using garden and kitchen vegetable motifs — from hand-drawn watercolour illustrations to geometric mid-century forms — primarily for home textiles, kitchenware, and wallpaper.
+summary: Surface pattern using garden and kitchen vegetable motifs - from hand-drawn watercolour illustrations to geometric mid-century forms - primarily for home textiles, kitchenware, and wallpaper.
 motifs: []
 structures:
   - Scatter
@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 102
 ---
 
 # Vegetable Pattern
@@ -118,7 +119,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/vegetable-pattern/profile/vegetable-pattern-image.svg)
-A surface pattern type using garden and kitchen vegetable motifs — carrots, radishes, beets, tomatoes, lettuce, onions, and leafy greens — in illustrative, geometric, or botanical print styles. Primarily associated with kitchen and home textiles, wallpaper, and seasonal decorative products.
+A surface pattern type using garden and kitchen vegetable motifs - carrots, radishes, beets, tomatoes, lettuce, onions, and leafy greens - in illustrative, geometric, or botanical print styles. Primarily associated with kitchen and home textiles, wallpaper, and seasonal decorative products.
 
 ## Overview
 
@@ -126,11 +127,11 @@ Vegetable patterns draw on produce imagery for decorative surface design, evokin
 
 ## Visual Characteristics
 
-Individual vegetables depicted with characteristic shapes, colours, and textures — the tapered orange of a carrot with its feathery green tops, the rounded red of a tomato showing seed sections, the layered rings of a cross-sectioned onion, the ruffled edges of a lettuce head. Compositions may show whole vegetables, cross-sections, or sliced details. Hand-drawn versions include root systems, earth marks, and stem detail for a market-garden feel. Geometric versions extract the essential form into flat, mid-century style shapes.
+Individual vegetables depicted with characteristic shapes, colours, and textures - the tapered orange of a carrot with its feathery green tops, the rounded red of a tomato showing seed sections, the layered rings of a cross-sectioned onion, the ruffled edges of a lettuce head. Compositions may show whole vegetables, cross-sections, or sliced details. Hand-drawn versions include root systems, earth marks, and stem detail for a market-garden feel. Geometric versions extract the essential form into flat, mid-century style shapes.
 
 ## Pattern Structure
 
-Vegetable patterns are most often produced as tossed (random) all-over repeats, with individual vegetable motifs scattered across the surface. Organised grid layouts (block or half-drop) work well for simpler single-motif designs. Cross-section-based designs — showing sliced peppers, leeks, or onions — may use a more regular grid arrangement when the shape allows close tessellation.
+Vegetable patterns are most often produced as tossed (random) all-over repeats, with individual vegetable motifs scattered across the surface. Organised grid layouts (block or half-drop) work well for simpler single-motif designs. Cross-section-based designs - showing sliced peppers, leeks, or onions - may use a more regular grid arrangement when the shape allows close tessellation.
 
 ## Common Motifs
 
@@ -168,14 +169,14 @@ Vegetable printing as a craft technique predates surface pattern design as a pro
 
 ## Related Pattern Types
 
-- [[Fruit Pattern]]
-- [[Botanical Pattern]]
-- [[Watermelon Pattern]]
-- [[Lemon Pattern]]
-- [[Pineapple Pattern]]
-- [[Novelty Print]]
-- [[Conversational Pattern]]
-- [[Food Pattern]]
+- Fruit Pattern
+- Botanical Pattern
+- Watermelon Pattern
+- Lemon Pattern
+- Pineapple Pattern
+- Novelty Print
+- Conversational Pattern
+- Food Pattern
 
 ## Source Notes
 

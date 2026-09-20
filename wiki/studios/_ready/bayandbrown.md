@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 532
 ---
 # Bay & Brown
 
@@ -71,7 +72,7 @@ Bay & Brown is a London-based textile print studio founded in 2005 by Tracey Bro
 
 ## Studio Style and Aesthetic
 
-The studio is positioned on the quality and sophistication of its hand-painted approach. The collection updates weekly, with themes visible on the website including tropical, floral, and decorative directions. The breadth of market coverage — from high street to high-end, from swimwear to home — reflects a versatile commercial range anchored by hand-painted technique.
+The studio is positioned on the quality and sophistication of its hand-painted approach. The collection updates weekly, with themes visible on the website including tropical, floral, and decorative directions. The breadth of market coverage - from high street to high-end, from swimwear to home - reflects a versatile commercial range anchored by hand-painted technique.
 
 ## Markets and Specialties
 
@@ -94,7 +95,7 @@ Bay & Brown's designs have featured in collections across high street and high-e
 
 ## Studio Background
 
-Tracey Brown founded Bay & Brown in 2005 following experience as a fashion textile designer. Based in Hackney Wick, London, the studio has grown to include a global sales infrastructure and The Design School by Bay and Brown — an educational arm offering creative programs, digital courses, and in-studio workshops for both beginners and working designers.
+Tracey Brown founded Bay & Brown in 2005 following experience as a fashion textile designer. Based in Hackney Wick, London, the studio has grown to include a global sales infrastructure and The Design School by Bay and Brown - an educational arm offering creative programs, digital courses, and in-studio workshops for both beginners and working designers.
 
 ## Pattern Focus
 

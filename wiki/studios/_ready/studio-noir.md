@@ -42,6 +42,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 586
 ---
 # Studio Noir
 
@@ -70,7 +71,7 @@ Studio Noir is a Brazilian multidisciplinary print studio founded in 2017, evolv
 
 ## Studio Style and Aesthetic
 
-Selected patterns centre on tropical and botanical leaf motifs (palm and fern silhouettes in olive, brown, and cream), alongside animal prints (leopard, zebra-adjacent stripe) and colour-blocked Art Deco-style geometric abstracts in jewel tones (rust, brown, blue, pink, mustard). A hand-painted cobalt-blue botanical linework study and a set of hand-painted ceramic tableware — striped, checked, and leaf-motif plates and vessels in terracotta, navy, and olive — show the studio's pattern work extending beyond textiles into product surfaces.
+Selected patterns centre on tropical and botanical leaf motifs (palm and fern silhouettes in olive, brown, and cream), alongside animal prints (leopard, zebra-adjacent stripe) and colour-blocked Art Deco-style geometric abstracts in jewel tones (rust, brown, blue, pink, mustard). A hand-painted cobalt-blue botanical linework study and a set of hand-painted ceramic tableware - striped, checked, and leaf-motif plates and vessels in terracotta, navy, and olive - show the studio's pattern work extending beyond textiles into product surfaces.
 
 ## Markets and Specialties
 

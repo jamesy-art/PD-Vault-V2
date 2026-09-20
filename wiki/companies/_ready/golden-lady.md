@@ -36,6 +36,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-01'
 enrichment_status: enriched
+marketing_order: 186
 ---
 
 # Golden Lady
@@ -48,7 +49,7 @@ enrichment_status: enriched
 
 Golden Lady Company SpA is the holding structure for one of Europe's largest hosiery and legwear groups. Founded in 1966 in Castiglione delle Stiviere (Mantua province, Italy) by brothers Arnaldo and Nerino Grassi, who left the family milling business to establish a women's hosiery manufacturer initially targeting the German market. Through the 1980s and 1990s the group expanded via acquisition: SiSi, then Omsa (women's hosiery, 1992), Kaiser-Roth Corporation (No-Nonsense and Hue brands, US market), and Filodoro SpA with brands Filodoro, NY Legs, and Philippe Matignon (2003). In 2016, the retail division (Goldenpoint) was separated as Goldenpoint SpA. The group currently produces over 400 million pairs annually, exported to 70 countries, from 14 factories in Italy, Serbia, and the USA, employing approximately 7,000 people. Oniverse is the current group holding name for what was formerly Golden Lady Company SpA (per source_file: oniverse.md).
 
-No named creative director or design identity is documented in the available source. Design investment is inferred from brand positioning — Philippe Matignon (prestige) implies higher surface design specificity; Golden Lady, SiSi, and Filodoro operate at mass-market surface standards.
+No named creative director or design identity is documented in the available source. Design investment is inferred from brand positioning - Philippe Matignon (prestige) implies higher surface design specificity; Golden Lady, SiSi, and Filodoro operate at mass-market surface standards.
 
 ## History
 
@@ -82,9 +83,9 @@ Market leader in Italian hosiery; significant market shares in key European mark
 
 Hosiery and legwear are surface-design-active product categories in which pattern, texture, and colour applied to knitted structures define the commercial product:
 
-- **Knit surface structure as pattern**: Lace knit structures, opaque/sheer contrasts, ladder-resist patterns, graduated denier — the surface of the stocking is the design product.
-- **Seasonal pattern direction**: Tights and hosiery follow seasonal colourway and surface pattern cycles — geometric jacquard, fishnet structure, plain and patterned variants. Philippe Matignon's premium positioning implies elevated investment in surface pattern differentiation.
-- **Brand portfolio as market segmentation by surface**: The brand architecture maps to surface design investment per tier — from mass (Hue, No-Nonsense) to prestige (Philippe Matignon), with progressively more complex and distinctive surface structures.
+- **Knit surface structure as pattern**: Lace knit structures, opaque/sheer contrasts, ladder-resist patterns, graduated denier - the surface of the stocking is the design product.
+- **Seasonal pattern direction**: Tights and hosiery follow seasonal colourway and surface pattern cycles - geometric jacquard, fishnet structure, plain and patterned variants. Philippe Matignon's premium positioning implies elevated investment in surface pattern differentiation.
+- **Brand portfolio as market segmentation by surface**: The brand architecture maps to surface design investment per tier - from mass (Hue, No-Nonsense) to prestige (Philippe Matignon), with progressively more complex and distinctive surface structures.
 - **Scale**: 400M+ units annually represents large-scale commercial deployment of surface pattern across knitted textiles.
 
 ## Official Resources

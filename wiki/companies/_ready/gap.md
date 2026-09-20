@@ -87,6 +87,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 82
 ---
 
 # Gap
@@ -108,19 +109,19 @@ enrichment_status: enriched
 
 Gap Inc. is a San Francisco-based American multinational clothing and accessories retailer, founded in 1969 by Donald and Doris Fisher. The company operates four primary divisions: the namesake Gap brand, Banana Republic (acquired 1983), Old Navy (launched 1994), and Athleta (acquired 2008). Richard Dickson is CEO of Gap Inc.; Zac Posen has served as Creative Director of Gap and Chief Creative Officer of Old Navy since February 2024. The company operates approximately 3,560 stores globally and ships to 90 countries. The Fisher family (sons William S. and Robert J.) each hold approximately 15% of the company. Gap is one of the largest apparel retailers in the United States.
 
-Zac Posen was appointed Creative Director of Gap and Chief Creative Officer of Old Navy in February 2024. Prior named creative appointments include Patrick Robinson (Gap Adult, 2007–2011) and Todd Oldham (Old Navy, 2007). Each brand division operates with its own creative team. The Create With Audacity programme (with ICON360/Harlem's Fashion Row) creates a development pipeline for underrepresented design talent.
+Zac Posen was appointed Creative Director of Gap and Chief Creative Officer of Old Navy in February 2024. Prior named creative appointments include Patrick Robinson (Gap Adult, 2007-2011) and Todd Oldham (Old Navy, 2007). Each brand division operates with its own creative team. The Create With Audacity programme (with ICON360/Harlem's Fashion Row) creates a development pipeline for underrepresented design talent.
 
 ## History
 
-Gap was founded near City College San Francisco in 1969 as a Levi's-only retailer and moved into private label merchandise in 1974. Banana Republic was repositioned from a safari concept to an upscale clothing retailer in the late 1980s. Old Navy launched in 1994 as a value chain and remains the group's largest brand by store count (1,243 North America stores as of 2024). Athleta, acquired for $150M in 2008, has grown to 270 North American stores. At peak, the company operated across 43 countries; it has since consolidated by exiting several markets — Australia (2018), company-operated UK stores (2021, replaced by a joint venture with Next), and China (sold to Baozun franchise, 2022). A high-profile Yeezy Gap collaboration (2020–2022) was terminated. Zac Posen's 2024 appointment as Creative Director signals a return to fashion-forward ambition for the flagship Gap brand.
+Gap was founded near City College San Francisco in 1969 as a Levi's-only retailer and moved into private label merchandise in 1974. Banana Republic was repositioned from a safari concept to an upscale clothing retailer in the late 1980s. Old Navy launched in 1994 as a value chain and remains the group's largest brand by store count (1,243 North America stores as of 2024). Athleta, acquired for $150M in 2008, has grown to 270 North American stores. At peak, the company operated across 43 countries; it has since consolidated by exiting several markets - Australia (2018), company-operated UK stores (2021, replaced by a joint venture with Next), and China (sold to Baozun franchise, 2022). A high-profile Yeezy Gap collaboration (2020-2022) was terminated. Zac Posen's 2024 appointment as Creative Director signals a return to fashion-forward ambition for the flagship Gap brand.
 
 ## Products
 
-- **Gap** — casual basics, denim, tops, bottoms, outerwear, kidswear
-- **Banana Republic** — contemporary womenswear and menswear; suits, tailored casualwear, elevated basics
-- **Old Navy** — value womenswear, menswear, kidswear; seasonal fashion and basics
-- **Athleta** — women's athletic and lifestyle apparel; activewear, swimwear, outerwear
-- **Accessories** — bags, footwear, belts across brands
+- **Gap** - casual basics, denim, tops, bottoms, outerwear, kidswear
+- **Banana Republic** - contemporary womenswear and menswear; suits, tailored casualwear, elevated basics
+- **Old Navy** - value womenswear, menswear, kidswear; seasonal fashion and basics
+- **Athleta** - women's athletic and lifestyle apparel; activewear, swimwear, outerwear
+- **Accessories** - bags, footwear, belts across brands
 - Old Navy announced expansion into personal care products and cosmetics (September 2025)
 
 ## Services
@@ -133,4 +134,4 @@ Gap Inc.'s multi-brand portfolio spans distinct market tiers: Old Navy operates 
 
 ## Pattern and Surface Design Relevance
 
-Gap's multi-brand portfolio is a major consumer and curator of print and surface pattern in US accessible fashion. Old Navy's kidswear and adult casual lines are print-intensive — graphic tees, seasonal novelty prints, and licensed character graphics are commercial staples. The Gap brand's graphic tee programme is a significant vehicle for applied surface design at volume. Banana Republic's contemporary professional positioning requires seasonal fabric design across stripes, checks, textural weaves, and botanical or geometric prints in womenswear. Athleta's performance category requires technical surface treatments (moisture management, compression fabrics) alongside print design for seasonal colourways. The Dôen collaboration (2024) brought independent designer aesthetic sensibility into Gap's apparel offer. Zac Posen's Creative Director role is expected to elevate the fashion and design ambition of the flagship brand.
+Gap's multi-brand portfolio is a major consumer and curator of print and surface pattern in US accessible fashion. Old Navy's kidswear and adult casual lines are print-intensive - graphic tees, seasonal novelty prints, and licensed character graphics are commercial staples. The Gap brand's graphic tee programme is a significant vehicle for applied surface design at volume. Banana Republic's contemporary professional positioning requires seasonal fabric design across stripes, checks, textural weaves, and botanical or geometric prints in womenswear. Athleta's performance category requires technical surface treatments (moisture management, compression fabrics) alongside print design for seasonal colourways. The Dôen collaboration (2024) brought independent designer aesthetic sensibility into Gap's apparel offer. Zac Posen's Creative Director role is expected to elevate the fashion and design ambition of the flagship brand.

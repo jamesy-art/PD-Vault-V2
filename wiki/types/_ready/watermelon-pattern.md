@@ -3,7 +3,7 @@ name: Watermelon Pattern
 slug: watermelon-pattern
 status: active
 type_group: novelty
-summary: Novelty surface pattern using watermelon fruit motifs — rind stripes, seed-studded flesh triangles, and botanical details — in bold summer colour palettes.
+summary: Novelty surface pattern using watermelon fruit motifs - rind stripes, seed-studded flesh triangles, and botanical details - in bold summer colour palettes.
 motifs: []
 structures:
   - Scatter
@@ -110,6 +110,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 25
 ---
 
 # Watermelon Pattern
@@ -125,7 +126,7 @@ The watermelon pattern draws on the fruit's distinctive visual properties for de
 
 ## Visual Characteristics
 
-The central visual reference is the sliced watermelon: a triangular or semicircular cross-section revealing a field of red or pink flesh dotted with black seeds, bordered by the pale inner rind and dark-to-light green outer rind. Rind-only patterns use the exterior striping — alternating dark and pale green — as a repeating band or background element. Seed arrangements can be scattered or organised into spiral or grid compositions. More complex designs combine multiple cut angles with whole fruits, rind fragments, and leaf or vine motifs.
+The central visual reference is the sliced watermelon: a triangular or semicircular cross-section revealing a field of red or pink flesh dotted with black seeds, bordered by the pale inner rind and dark-to-light green outer rind. Rind-only patterns use the exterior striping - alternating dark and pale green - as a repeating band or background element. Seed arrangements can be scattered or organised into spiral or grid compositions. More complex designs combine multiple cut angles with whole fruits, rind fragments, and leaf or vine motifs.
 
 ## Pattern Structure
 
@@ -159,13 +160,13 @@ As a consumer design motif, the watermelon print belongs to the broader mid-20th
 
 ## Related Pattern Types
 
-- [[Fruit Pattern]]
-- [[Lemon Pattern]]
-- [[Pineapple Pattern]]
-- [[Banana Pattern]]
-- [[Novelty Print]]
-- [[Conversational Pattern]]
-- [[Food Pattern]]
+- Fruit Pattern
+- Lemon Pattern
+- Pineapple Pattern
+- Banana Pattern
+- Novelty Print
+- Conversational Pattern
+- Food Pattern
 
 ## Source Notes
 

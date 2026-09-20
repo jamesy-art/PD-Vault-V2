@@ -95,6 +95,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 108
 ---
 
 # Pepe Jeans
@@ -116,7 +117,7 @@ enrichment_status: enriched
 
 Pepe Jeans London was founded in 1973 by three brothers at a weekend market stall in the Portobello Road area of London. The brand expanded to a Carnaby Street store and then across Europe during the 1980s. Since February 2015 the brand has been owned by M1 Group, a holding company based in Beirut, Lebanon, which acquired it alongside Hackett London. CEO Marcella Wartenbergh has led the group since September 2019. The brand's largest single market outside Europe is India, where it operates approximately 200 stores with plans to add over 100 more within three years. Pepe Jeans has maintained a high-profile international presence through brand ambassador partnerships and Formula One sponsorship.
 
-No documented design philosophy or in-house creative direction is available from source material. The brand's heritage is rooted in late 1960s–1970s London streetwear and youth fashion culture. Its 50th anniversary in 2023 featured a photo exhibition of its many campaigns, indicating the brand communicates its identity through advertising and editorial imagery rather than documented design methodology.
+No documented design philosophy or in-house creative direction is available from source material. The brand's heritage is rooted in late 1960s-1970s London streetwear and youth fashion culture. Its 50th anniversary in 2023 featured a photo exhibition of its many campaigns, indicating the brand communicates its identity through advertising and editorial imagery rather than documented design methodology.
 
 ## History
 
@@ -128,15 +129,15 @@ Core product categories span denim, casual clothing, footwear, accessories, bags
 
 ## Services
 
-Pepe Jeans retails through its own stores and multi-brand wholesale channels across Europe and India. Social commerce is active across Instagram, TikTok, Facebook, and YouTube. The brand maintains product-level licensing across fragrance and eyewear. Sponsorship extends to Formula One: the brand has been a sponsor of Red Bull Racing since 2010, and in 2024 became title partner of the Red Bull Racing Pepe Jeans Academy Programme — RBR's entry in F1 Academy, the female-only single-seater championship founded by Formula One.
+Pepe Jeans retails through its own stores and multi-brand wholesale channels across Europe and India. Social commerce is active across Instagram, TikTok, Facebook, and YouTube. The brand maintains product-level licensing across fragrance and eyewear. Sponsorship extends to Formula One: the brand has been a sponsor of Red Bull Racing since 2010, and in 2024 became title partner of the Red Bull Racing Pepe Jeans Academy Programme - RBR's entry in F1 Academy, the female-only single-seater championship founded by Formula One.
 
 ## Markets
 
-Pepe Jeans operates in the accessible-to-mid-range segment of European casual fashion, with particular strength in denim. Its current headquarters in Spain reflects its consolidation as a European brand with global reach. The Indian market is a stated growth priority, with approximately 200 existing stores and a planned expansion of 100+ further locations. The brand deploys high-profile celebrity ambassadors — Dua Lipa became global ambassador in 2019; Lila Moss was announced as ambassador in 2023 at the brand's 50th anniversary celebrations in London — positioning it in contemporary youth and pop-culture fashion retail.
+Pepe Jeans operates in the accessible-to-mid-range segment of European casual fashion, with particular strength in denim. Its current headquarters in Spain reflects its consolidation as a European brand with global reach. The Indian market is a stated growth priority, with approximately 200 existing stores and a planned expansion of 100+ further locations. The brand deploys high-profile celebrity ambassadors - Dua Lipa became global ambassador in 2019; Lila Moss was announced as ambassador in 2023 at the brand's 50th anniversary celebrations in London - positioning it in contemporary youth and pop-culture fashion retail.
 
 ## Pattern and Surface Design Relevance
 
-Pepe Jeans operates in a product category — denim and casual fashion — where surface treatment and textile finish are primary design variables. Denim wash, distress, colour, and surface manipulation are the main pattern levers alongside seasonal print and graphic application across casualwear ranges. The brand's accessible price positioning and high volume production make it a commercial-scale operator in casual print and graphic fashion. No specific internal SPD process or signature pattern identity is documented in available source material.
+Pepe Jeans operates in a product category - denim and casual fashion - where surface treatment and textile finish are primary design variables. Denim wash, distress, colour, and surface manipulation are the main pattern levers alongside seasonal print and graphic application across casualwear ranges. The brand's accessible price positioning and high volume production make it a commercial-scale operator in casual print and graphic fashion. No specific internal SPD process or signature pattern identity is documented in available source material.
 
 ## Official Resources
 

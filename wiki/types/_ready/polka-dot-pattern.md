@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 90
 ---
 
 # Polka Dot Pattern
@@ -120,7 +121,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/polka-dot-pattern/profile/polka-dot-pattern-image.svg)
-A repeating pattern of uniform, equally-sized circles distributed across a surface — one of the most commercially durable and recognisable motifs in surface pattern design.
+A repeating pattern of uniform, equally-sized circles distributed across a surface - one of the most commercially durable and recognisable motifs in surface pattern design.
 
 ## Overview
 
@@ -128,7 +129,7 @@ The polka dot is defined by its simplicity: equal-diameter circles at regular in
 
 ## Visual Characteristics
 
-Classic polka dots are uniform — all circles share the same diameter, colour, and spacing. The dot reads as a positive shape against a ground, with no supporting line work or texture. Variations include tonal dots (dot and ground in similar values), multicolour dot fields, oversized dots, and dense micro-dot patterns. The contained circle form gives the pattern an orderly, cheerful quality.
+Classic polka dots are uniform - all circles share the same diameter, colour, and spacing. The dot reads as a positive shape against a ground, with no supporting line work or texture. Variations include tonal dots (dot and ground in similar values), multicolour dot fields, oversized dots, and dense micro-dot patterns. The contained circle form gives the pattern an orderly, cheerful quality.
 
 ## Pattern Structure
 
@@ -144,7 +145,7 @@ Polka dots work in any colour pairing but are most associated with bold, high-co
 
 ## History and Context
 
-The name derives from the 19th-century polka dance, which spread from Central Europe across Europe and North America as a cultural craze in the 1840s. The dot pattern became associated with the dance's popularity. By the late 19th and early 20th centuries, polka dots appeared widely in fashion and textile printing. In the 20th century the motif became iconic through Minnie Mouse's costume and, in fine art, through Japanese artist Yayoi Kusama, whose entire practice centres on the polka dot as an infinite, obsessive surface motif. The Tour de France King of the Mountains jersey — red dots on white — is one of the most internationally recognisable applications of the pattern.
+The name derives from the 19th-century polka dance, which spread from Central Europe across Europe and North America as a cultural craze in the 1840s. The dot pattern became associated with the dance's popularity. By the late 19th and early 20th centuries, polka dots appeared widely in fashion and textile printing. In the 20th century the motif became iconic through Minnie Mouse's costume and, in fine art, through Japanese artist Yayoi Kusama, whose entire practice centres on the polka dot as an infinite, obsessive surface motif. The Tour de France King of the Mountains jersey - red dots on white - is one of the most internationally recognisable applications of the pattern.
 
 ## Surface Pattern Uses
 
@@ -157,14 +158,14 @@ The name derives from the 19th-century polka dance, which spread from Central Eu
 
 ## Related Pattern Types
 
-- [[Ditsy Pattern]] — micro-scale scattered motifs, often includes small dots
-- [[Random Pattern]] — scattered layout used in some dot variations
-- [[Stripe Pattern]] — frequently paired with polka dots in fashion
-- [[Geometric Pattern]] — dots as a foundational geometric form
+- Ditsy Pattern - micro-scale scattered motifs, often includes small dots
+- Random Pattern - scattered layout used in some dot variations
+- Stripe Pattern - frequently paired with polka dots in fashion
+- Geometric Pattern - dots as a foundational geometric form
 
 ## Source Notes
 
-- Wikipedia, "Polka dot" — history, cultural associations, Kusama, Tour de France, Carolina Herrera
+- Wikipedia, "Polka dot" - history, cultural associations, Kusama, Tour de France, Carolina Herrera
 
 ## Editorial Images
 

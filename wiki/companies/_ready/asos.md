@@ -84,6 +84,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 263
 ---
 
 # ASOS
@@ -103,7 +104,7 @@ enrichment_status: enriched
 
 ASOS plc is a British online fashion and cosmetics retailer founded in London on 3 June 2000. Originally trading as AsSeenOnScreen (celebrity-inspired clothing imitations), the company pivoted to own-label womenswear in 2004 and grew into a multi-brand platform. ASOS ships to all 196 countries from fulfilment centres in the UK, US, and Europe, and lists over 850 brands alongside its own label. In February 2021, ASOS acquired the Topshop, Topman, Miss Selfridge, and HIIT brands from the collapsed Arcadia Group for £330M. As of March 2026, Frasers Group is the largest stakeholder at 29.26%; Bestseller A/S (owned by Anders Holch Povlsen) holds 26%.
 
-ASOS operates as a trend aggregator and accelerator: the platform sells across price points and aesthetics, allowing the own-label team to respond rapidly to emerging print and pattern trends. The Topshop acquisition brought heritage print archives and a design identity associated with British high street fashion of the 2000s–2010s. ASOS Style Match (2017) uses computer vision to match uploaded images against shoppable products — a tool with direct relevance to pattern and print discovery. The "See My Fit" feature (2019), developed with Israeli AI company Zeekit, displays garments on different body shapes via AI simulation. Deep learning–based personalisation was implemented in early 2018.
+ASOS operates as a trend aggregator and accelerator: the platform sells across price points and aesthetics, allowing the own-label team to respond rapidly to emerging print and pattern trends. The Topshop acquisition brought heritage print archives and a design identity associated with British high street fashion of the 2000s-2010s. ASOS Style Match (2017) uses computer vision to match uploaded images against shoppable products - a tool with direct relevance to pattern and print discovery. The "See My Fit" feature (2019), developed with Israeli AI company Zeekit, displays garments on different body shapes via AI simulation. Deep learning-based personalisation was implemented in early 2018.
 
 ## History
 
@@ -119,11 +120,11 @@ ASOS operates as a trend aggregator and accelerator: the platform sells across p
 
 ## Products
 
-- **Own label** — women's and men's clothing, developed in-house (launched 2004); core own-label design team
-- **Multi-brand platform** — 850+ third-party brands listed
+- **Own label** - women's and men's clothing, developed in-house (launched 2004); core own-label design team
+- **Multi-brand platform** - 850+ third-party brands listed
 - **Acquired brands:** Topshop, Topman, Miss Selfridge, HIIT (from Arcadia Group, February 2021, £330M)
-- **ASOS Marketplace** — third-party platform for boutiques, vintage collectors, independent designers, and individuals (launched November 2010)
-- **Beauty and cosmetics** — fragrance, skincare, and beauty products (multi-brand)
+- **ASOS Marketplace** - third-party platform for boutiques, vintage collectors, independent designers, and individuals (launched November 2010)
+- **Beauty and cosmetics** - fragrance, skincare, and beauty products (multi-brand)
 
 The original "AsSeenOnScreen" concept (celebrity clothing imitations) was abandoned as the brand repositioned toward original own-label design from the mid-2000s.
 
@@ -137,7 +138,7 @@ ASOS built its market position as a digital-native multi-brand fashion platform 
 
 ## Pattern and Surface Design Relevance
 
-ASOS's own-label design team is a direct employer context for surface pattern designers — the team produces seasonal womenswear and menswear collections in a fast-fashion cycle, requiring volume print and pattern design across multiple product categories. The Topshop brand, with its heritage of trend-led print and graphic design, adds a significant owned design asset to the portfolio. ASOS Marketplace is a relevant platform for independent surface pattern designers and print-focused small labels to reach a global audience without retail overheads. The platform supported commission-free selling during the COVID-19 pandemic (October 2020).
+ASOS's own-label design team is a direct employer context for surface pattern designers - the team produces seasonal womenswear and menswear collections in a fast-fashion cycle, requiring volume print and pattern design across multiple product categories. The Topshop brand, with its heritage of trend-led print and graphic design, adds a significant owned design asset to the portfolio. ASOS Marketplace is a relevant platform for independent surface pattern designers and print-focused small labels to reach a global audience without retail overheads. The platform supported commission-free selling during the COVID-19 pandemic (October 2020).
 
 ## Official Resources
 

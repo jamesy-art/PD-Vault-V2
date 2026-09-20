@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 94
 ---
 
 # Bullseye Pattern
@@ -119,11 +120,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/bullseye-pattern/profile/bullseye-pattern-image.svg)
-Concentric ring pattern radiating from a solid central circle outward through alternating bands. Associated with [[Op Art]] and optical illusion effects; used in fashion prints, textiles, and decorative arts.
+Concentric ring pattern radiating from a solid central circle outward through alternating bands. Associated with Op Art and optical illusion effects; used in fashion prints, textiles, and decorative arts.
 
 ## Overview
 
-The bullseye is one of the simplest geometric pattern structures: a filled central circle surrounded by successive alternating rings. The result is a form with perfect radial symmetry that, under certain colour conditions, creates strong optical illusions — depth, pulsation, or apparent movement. Commercially positioned within the graphic, bold, and Op Art aesthetic registers.
+The bullseye is one of the simplest geometric pattern structures: a filled central circle surrounded by successive alternating rings. The result is a form with perfect radial symmetry that, under certain colour conditions, creates strong optical illusions - depth, pulsation, or apparent movement. Commercially positioned within the graphic, bold, and Op Art aesthetic registers.
 
 ## Visual Characteristics
 
@@ -141,11 +142,11 @@ Spot repeat: individual bullseye units placed at regular or offset intervals acr
 
 ## Colour and Style
 
-Black and white is the canonical combination for maximum optical impact. Coloured variants use two or more alternating hues across the rings. Tie-dye bullseye treatments produce irregular, diffused ring edges with organic colour gradation — a distinct aesthetic variant within the category.
+Black and white is the canonical combination for maximum optical impact. Coloured variants use two or more alternating hues across the rings. Tie-dye bullseye treatments produce irregular, diffused ring edges with organic colour gradation - a distinct aesthetic variant within the category.
 
 ## History and Context
 
-The bullseye form appears across decorative art traditions: Welsh oak furniture used impressed dot-and-circle motifs as recurring surface decoration; antique crown glass produced characteristic thickened, bubbled centres in blown panes, creating accidental bullseye effects later used decoratively in glazed windows. In 20th-century design, the form was adopted by [[Op Art]] as a vehicle for perceptual experiments, particularly during the 1960s.
+The bullseye form appears across decorative art traditions: Welsh oak furniture used impressed dot-and-circle motifs as recurring surface decoration; antique crown glass produced characteristic thickened, bubbled centres in blown panes, creating accidental bullseye effects later used decoratively in glazed windows. In 20th-century design, the form was adopted by Op Art as a vehicle for perceptual experiments, particularly during the 1960s.
 
 ## Surface Pattern Uses
 
@@ -158,10 +159,10 @@ The bullseye form appears across decorative art traditions: Welsh oak furniture 
 
 ## Related Pattern Types
 
-- [[Op Art Pattern]]
-- [[Concentric Pattern]]
-- [[Geometric Pattern]]
-- [[Optical Illusion Pattern]]
+- Op Art Pattern
+- Concentric Pattern
+- Geometric Pattern
+- Optical Illusion Pattern
 
 ## Source Notes
 

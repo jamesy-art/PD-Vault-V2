@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 146
 ---
 
 # Seamless Pattern
@@ -120,15 +121,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/seamless-pattern/profile/seamless-pattern-image.svg)
-A pattern designed so that its tile edges match perfectly when repeated, creating a continuous, uninterrupted surface with no visible join — the technical foundation of all surface pattern design intended for fabric, wallpaper, and other repeated applications.
+A pattern designed so that its tile edges match perfectly when repeated, creating a continuous, uninterrupted surface with no visible join - the technical foundation of all surface pattern design intended for fabric, wallpaper, and other repeated applications.
 
 ## Overview
 
-A seamless pattern is one in which the repeat tile connects to itself at all four edges without any visible seam, break, or mismatch. This is the fundamental technical requirement for patterns applied to surfaces of arbitrary size — fabrics, wallpaper, gift wrap, and digital backgrounds must all tile seamlessly. The term describes a technical property of the pattern rather than a style or motif type. All repeating surface patterns used commercially are, by definition, seamless.
+A seamless pattern is one in which the repeat tile connects to itself at all four edges without any visible seam, break, or mismatch. This is the fundamental technical requirement for patterns applied to surfaces of arbitrary size - fabrics, wallpaper, gift wrap, and digital backgrounds must all tile seamlessly. The term describes a technical property of the pattern rather than a style or motif type. All repeating surface patterns used commercially are, by definition, seamless.
 
 ## Visual Characteristics
 
-The visual quality of a seamless pattern is defined by how well the tile join is concealed. In poorly constructed seamless patterns, a visible grid of seams betrays the repeat structure. In well-constructed seamless patterns, the repeat is effectively invisible — the pattern reads as a continuous, freely distributed surface. The techniques used to achieve this include: matching colours and values at tile edges; distributing motifs so that no prominent element is centred exactly on an edge; and ensuring that compositional flow crosses the tile boundary naturally.
+The visual quality of a seamless pattern is defined by how well the tile join is concealed. In poorly constructed seamless patterns, a visible grid of seams betrays the repeat structure. In well-constructed seamless patterns, the repeat is effectively invisible - the pattern reads as a continuous, freely distributed surface. The techniques used to achieve this include: matching colours and values at tile edges; distributing motifs so that no prominent element is centred exactly on an edge; and ensuring that compositional flow crosses the tile boundary naturally.
 
 ## Pattern Structure
 
@@ -138,7 +139,7 @@ The standard approach to seamless pattern construction distributes motifs across
 - **Brick repeat:** alternate rows are offset by half the tile width
 - **Mirror repeat:** tile is mirrored along its edges
 
-The Wikipedia source for this file references William Morris's "Pimpernel" as an example of a historically significant repeat pattern that uses complex interlocking symmetry to achieve a seamless surface. Natural patterns — ceramic tile arrangements, textile weaves, and wallpaper — are cited as examples of the seamless principle in practice.
+The Wikipedia source for this file references William Morris's "Pimpernel" as an example of a historically significant repeat pattern that uses complex interlocking symmetry to achieve a seamless surface. Natural patterns - ceramic tile arrangements, textile weaves, and wallpaper - are cited as examples of the seamless principle in practice.
 
 ## Common Motifs
 
@@ -146,11 +147,11 @@ Seamless pattern construction is motif-agnostic; any motif type can be made seam
 
 ## Colour and Style
 
-Seamless pattern construction does not constrain colour choices. The seamless requirement affects how colour is used at tile edges — gradients, vignettes, and strong colour contrasts near the edge of a tile can make joins visible unless carefully managed.
+Seamless pattern construction does not constrain colour choices. The seamless requirement affects how colour is used at tile edges - gradients, vignettes, and strong colour contrasts near the edge of a tile can make joins visible unless carefully managed.
 
 ## History and Context
 
-The principle of seamless surface patterning predates industrialisation — hand-blocked textile printing, handwoven textiles, and hand-applied ceramic tiles all required seamless repeat construction. William Morris and the Arts and Crafts movement developed complex hand-blocked seamless wallpaper and textile patterns in the late 19th century, treating the seamless repeat as a design challenge and an art form. The Wikipedia source notes that regularity and repetition are fundamental properties distinguishing a pattern from a random arrangement, and cites ceramics, textiles, and wallpaper as the primary fields where seamless pattern construction has been most developed.
+The principle of seamless surface patterning predates industrialisation - hand-blocked textile printing, handwoven textiles, and hand-applied ceramic tiles all required seamless repeat construction. William Morris and the Arts and Crafts movement developed complex hand-blocked seamless wallpaper and textile patterns in the late 19th century, treating the seamless repeat as a design challenge and an art form. The Wikipedia source notes that regularity and repetition are fundamental properties distinguishing a pattern from a random arrangement, and cites ceramics, textiles, and wallpaper as the primary fields where seamless pattern construction has been most developed.
 
 ## Surface Pattern Uses
 
@@ -163,14 +164,14 @@ All commercial surface pattern applications that involve tiled repetition requir
 
 ## Related Pattern Types
 
-- [[Random Pattern]] — a specific approach to distributing motifs within a seamless tile
-- [[Square Pattern]] — the block repeat is the simplest form of seamless tiling
-- [[Symmetry Pattern]] — symmetry operations are the mathematical basis of seamless repeat construction
-- [[Scale Pattern]] — scale decisions affect how seamless patterns read when tiled
+- Random Pattern - a specific approach to distributing motifs within a seamless tile
+- Square Pattern - the block repeat is the simplest form of seamless tiling
+- Symmetry Pattern - symmetry operations are the mathematical basis of seamless repeat construction
+- Scale Pattern - scale decisions affect how seamless patterns read when tiled
 
 ## Source Notes
 
-- Wikipedia, "Pattern" — regularity, repetition, ceramics/textiles/wallpaper; William Morris "Pimpernel" as example; natural patterns
+- Wikipedia, "Pattern" - regularity, repetition, ceramics/textiles/wallpaper; William Morris "Pimpernel" as example; natural patterns
 
 ## Editorial Images
 

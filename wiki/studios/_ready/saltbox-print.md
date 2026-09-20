@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 580
 ---
 # Saltbox Print
 
@@ -96,4 +97,4 @@ Small boutique studio located in Scheveningen (The Hague), Netherlands. Per its 
 
 ## Pattern Focus
 
-Watercolor and hand-painted animal prints (leopard, tiger stripe), botanical and ditsy florals, and bold abstract marbled/collage motifs, spanning soft pastel to jewel-tone colorways — a range built to serve swim, active, fashion, and home markets alike.
+Watercolor and hand-painted animal prints (leopard, tiger stripe), botanical and ditsy florals, and bold abstract marbled/collage motifs, spanning soft pastel to jewel-tone colorways - a range built to serve swim, active, fashion, and home markets alike.

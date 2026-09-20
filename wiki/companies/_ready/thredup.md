@@ -45,6 +45,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 115
 ---
 
 # ThredUp
@@ -61,7 +62,7 @@ ThredUp has no proprietary design function or aesthetic direction. Platform pres
 
 ## History
 
-ThredUp was founded in 2009 and raised $131 million in a funding round prior to its 2021 Nasdaq listing. The platform operates a consumer-facing resale model built around the "Clean Out Kit" — a free prepaid bag sent to sellers in which they can post used clothing for ThredUp to sort, evaluate, price, photograph, and list. Sellers receive compensation via cash payment or online credit, with a charity donation option. ThredUp also launched Thrift Cards in 2019 — branded gift cards for thrift purchases. The company operates distribution centres in the United States and Europe.
+ThredUp was founded in 2009 and raised $131 million in a funding round prior to its 2021 Nasdaq listing. The platform operates a consumer-facing resale model built around the "Clean Out Kit" - a free prepaid bag sent to sellers in which they can post used clothing for ThredUp to sort, evaluate, price, photograph, and list. Sellers receive compensation via cash payment or online credit, with a charity donation option. ThredUp also launched Thrift Cards in 2019 - branded gift cards for thrift purchases. The company operates distribution centres in the United States and Europe.
 
 ## Products
 
@@ -73,15 +74,15 @@ ThredUp operates exclusively through its own e-commerce platform and distributio
 
 ## Markets
 
-ThredUp operates in the mass-market secondhand fashion segment, distinct from luxury resale platforms like The RealReal. The breadth of its inventory — 55,000+ brands — positions it as a general resale market rather than a curated luxury service. The B2B Resale as a Service (RaaS) offering differentiates ThredUp operationally: fashion brands can distribute Clean Out Kits through their own retail channels, allowing customers to return used garments in exchange for store credit, with ThredUp handling the resale infrastructure. This RaaS model embeds ThredUp's resale capability directly into fashion brand retail operations.
+ThredUp operates in the mass-market secondhand fashion segment, distinct from luxury resale platforms like The RealReal. The breadth of its inventory - 55,000+ brands - positions it as a general resale market rather than a curated luxury service. The B2B Resale as a Service (RaaS) offering differentiates ThredUp operationally: fashion brands can distribute Clean Out Kits through their own retail channels, allowing customers to return used garments in exchange for store credit, with ThredUp handling the resale infrastructure. This RaaS model embeds ThredUp's resale capability directly into fashion brand retail operations.
 
 ## Pattern and Surface Design Relevance
 
 ThredUp functions as a mass-market secondhand fashion circulation platform. Its relevance to surface pattern design is indirect:
 
-- **Circulation of printed and patterned fashion at scale**: Processing 137M+ items from 55,000+ brands means ThredUp distributes an enormous volume of patterned, printed, and graphic fashion across its secondary market — including printed dresses, patterned tops, graphic tees, and other surface-design-led garments at accessible price points.
+- **Circulation of printed and patterned fashion at scale**: Processing 137M+ items from 55,000+ brands means ThredUp distributes an enormous volume of patterned, printed, and graphic fashion across its secondary market - including printed dresses, patterned tops, graphic tees, and other surface-design-led garments at accessible price points.
 - **B2B RaaS as brand resale infrastructure**: The Resale as a Service offering integrates ThredUp's secondhand logistics into fashion brand retail operations. For brands with significant print and pattern identities, this creates a brand-endorsed secondary market channel that extends the commercial life of surface-designed garments.
-- **Circular economy positioning**: ThredUp's environmental narrative positions secondhand fashion consumption as a sustainability practice — relevant to the broader market context in which surface pattern designers operate and sell.
+- **Circular economy positioning**: ThredUp's environmental narrative positions secondhand fashion consumption as a sustainability practice - relevant to the broader market context in which surface pattern designers operate and sell.
 
 No in-house design function, pattern commissioning, or textile sourcing. ThredUp is an operational platform business rather than a design-led company.
 

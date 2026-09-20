@@ -61,7 +61,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Childs%27_rare_flowers,_vegetables,_and_fruits_(1909)_(20420519099).jpg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg/500px-Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg?_=20150816184217"
       title: "](https://upload.wikimedia.org/wikipedia/commons/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg)"
       description: "](https://upload.wikimedia.org/wikipedia/commons/6/6c/Childs%27_rare_flowers%2C_vegetables%2C_and_fruits_%281909%29_%2820420519099%29.jpg)"
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 5
 ---
 
 # Botanical Pattern
@@ -120,7 +121,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/botanical-pattern/profile/botanical-pattern-image.svg)
-Surface pattern style derived from the tradition of botanical illustration — detailed, often scientifically-referenced depictions of plant species. Distinguished from [[Tropical Pattern]] by its primary focus on temperate flora, precise rendering, and heritage aesthetic register.
+Surface pattern style derived from the tradition of botanical illustration - detailed, often scientifically-referenced depictions of plant species. Distinguished from Tropical Pattern by its primary focus on temperate flora, precise rendering, and heritage aesthetic register.
 
 ## Overview
 
@@ -128,7 +129,7 @@ Botanical pattern draws a direct line from the historical practice of botanical 
 
 ## Visual Characteristics
 
-Botanical patterns are characterised by careful rendering of plant structure — individual stems, leaf veins, blossom detail, seed pods. The illustrative style references scientific florilegia: precise observation rendered with artistic attention to form and colour. Scale tends toward medium to small, with complex arrangements of overlapping plant specimens. The aesthetic is elegant and detailed rather than bold or graphic.
+Botanical patterns are characterised by careful rendering of plant structure - individual stems, leaf veins, blossom detail, seed pods. The illustrative style references scientific florilegia: precise observation rendered with artistic attention to form and colour. Scale tends toward medium to small, with complex arrangements of overlapping plant specimens. The aesthetic is elegant and detailed rather than bold or graphic.
 
 ## Pattern Structure
 
@@ -146,37 +147,37 @@ Trailing vine and tossed all-over structures are typical, distributing individua
 
 ## Colour and Style
 
-Watercolour is the defining medium — soft edges, transparent washes, naturalistic colour. Palettes are typically naturalistic (greens, cream, rose, dusky pink, sage) or antique (sepia, aged cream, muted botanical green). Dark ground botanicals — white or pale specimens on deep green, navy, or black — are a distinct variant associated with Victorian prints. Digital rendering increasingly replicates watercolour character.
+Watercolour is the defining medium - soft edges, transparent washes, naturalistic colour. Palettes are typically naturalistic (greens, cream, rose, dusky pink, sage) or antique (sepia, aged cream, muted botanical green). Dark ground botanicals - white or pale specimens on deep green, navy, or black - are a distinct variant associated with Victorian prints. Digital rendering increasingly replicates watercolour character.
 
 ## History and Context
 
-Botanical illustration as a discipline emerged from medicinal herbalism — the need to accurately identify plant species drove illustrated botanical publishing from the Vienna Dioscurides (512 AD) onward. The Age of Exploration from the 15th century dramatically expanded the European flora catalogue through botanical expeditions, producing illustrated florilegia that directly influenced textile and wallpaper designers.
+Botanical illustration as a discipline emerged from medicinal herbalism - the need to accurately identify plant species drove illustrated botanical publishing from the Vienna Dioscurides (512 AD) onward. The Age of Exploration from the 15th century dramatically expanded the European flora catalogue through botanical expeditions, producing illustrated florilegia that directly influenced textile and wallpaper designers.
 
 Key turning points for surface pattern:
 
-- **William Morris and Arts & Crafts** (late 19th century): Morris drew from medieval tapestries and the English countryside, producing intricate repeating patterns from stylized leaves, flowers, and vines — including Common Hollyhock (1862). His work emphasised handcrafted quality as a counter to industrial production.
-- **Art Nouveau** (c.1890–1910): Eugène Grasset's *Plants and Their Application to Ornament* (1896) explicitly bridged botanical study and decorative design. The École de Nancy (Majorelle, Gallé, Daum) drew from the natural flora of the Lorraine region for glass, furniture, and textile applications.
+- **William Morris and Arts & Crafts** (late 19th century): Morris drew from medieval tapestries and the English countryside, producing intricate repeating patterns from stylized leaves, flowers, and vines - including Common Hollyhock (1862). His work emphasised handcrafted quality as a counter to industrial production.
+- **Art Nouveau** (c.1890-1910): Eugène Grasset's *Plants and Their Application to Ornament* (1896) explicitly bridged botanical study and decorative design. The École de Nancy (Majorelle, Gallé, Daum) drew from the natural flora of the Lorraine region for glass, furniture, and textile applications.
 - **Mid-20th century**: Tropical pattern surged through resort wear and the tourism industry; botanical illustration traditions continued in home textiles and wallpaper.
 
 ## Surface Pattern Uses
 
 - Apparel (dresses, blouses, scarves; strong spring/summer seasonality)
 - Wallpaper (classic British and European market; feature wall panels)
-- Home textiles (cushions, curtains, bedding — heritage and country-home positioning)
+- Home textiles (cushions, curtains, bedding - heritage and country-home positioning)
 - Stationery and gift wrap
 - Fine art print licensing
 
 ## Related Pattern Types
 
-- [[Floral Pattern]]
-- [[Tropical Pattern]]
-- [[Arts and Crafts Pattern]]
-- [[Chintz Pattern]]
-- [[Liberty Print]]
+- Floral Pattern
+- Tropical Pattern
+- Arts and Crafts Pattern
+- Chintz Pattern
+- Liberty Print
 
 ## Source Notes
 
-Sources: Botanical Pattern 2.md (YourColors — tropical vs botanical distinction, historical evolution, contemporary applications), Botanical Pattern.md (Wikipedia — Botanical illustration; historical sections relevant to design influence used; detailed scientific taxonomy and Chinese botany sections excluded as out of scope)
+Sources: Botanical Pattern 2.md (YourColors - tropical vs botanical distinction, historical evolution, contemporary applications), Botanical Pattern.md (Wikipedia - Botanical illustration; historical sections relevant to design influence used; detailed scientific taxonomy and Chinese botany sections excluded as out of scope)
 
 ## Editorial Images
 

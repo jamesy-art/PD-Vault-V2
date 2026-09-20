@@ -21,6 +21,7 @@ logo_type: wordmark
 updated: '2026-08-01'
 enrichment_status: enriched
 location: France
+marketing_order: 233
 ---
 
 # MF Brands
@@ -53,4 +54,4 @@ The source characterises MF Brands as a "major player" in the lifestyle sector, 
 
 ## Pattern and Surface Design Relevance
 
-No specific products, brands, or design activities are documented in the ingested source. As a lifestyle group operating in fashion and apparel, surface pattern and textile design are likely relevant to the group's brand portfolio — but this cannot be confirmed without additional source material.
+No specific products, brands, or design activities are documented in the ingested source. As a lifestyle group operating in fashion and apparel, surface pattern and textile design are likely relevant to the group's brand portfolio - but this cannot be confirmed without additional source material.

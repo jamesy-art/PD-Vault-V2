@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 36
 ---
 
 # Pop Art Pattern
@@ -121,19 +122,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/pop-art-pattern/profile/pop-art-pattern-image.svg)
-A surface pattern style drawn from the visual language of the Pop Art movement — bold graphic imagery, commercial iconography, flat colour, and serialised repetition applied to textiles and print.
+A surface pattern style drawn from the visual language of the Pop Art movement - bold graphic imagery, commercial iconography, flat colour, and serialised repetition applied to textiles and print.
 
 ## Overview
 
-Pop art as a pattern aesthetic borrows directly from the fine art movement that emerged in Britain and the United States in the 1950s and 1960s. It translates the movement's core visual strategies — advertising imagery, comic strip graphics, repeated consumer objects, mechanical print effects — into surface pattern. Pop art patterns are high-contrast, deliberately commercial, and intended to read as instantly recognisable graphic statements rather than decorative backgrounds.
+Pop art as a pattern aesthetic borrows directly from the fine art movement that emerged in Britain and the United States in the 1950s and 1960s. It translates the movement's core visual strategies - advertising imagery, comic strip graphics, repeated consumer objects, mechanical print effects - into surface pattern. Pop art patterns are high-contrast, deliberately commercial, and intended to read as instantly recognisable graphic statements rather than decorative backgrounds.
 
 ## Visual Characteristics
 
-Pop art patterns are characterised by bold, flat colour with minimal tonal variation; hard edges and strong outlines; and imagery drawn from popular culture — comics, brand labels, celebrities, consumer products. Ben-Day dots (the mechanical halftone dot system used in commercial printing and associated particularly with Roy Lichtenstein) are a defining visual element. Colour palettes are primary and vivid, often with black outlines and restricted palettes of red, yellow, blue, and white.
+Pop art patterns are characterised by bold, flat colour with minimal tonal variation; hard edges and strong outlines; and imagery drawn from popular culture - comics, brand labels, celebrities, consumer products. Ben-Day dots (the mechanical halftone dot system used in commercial printing and associated particularly with Roy Lichtenstein) are a defining visual element. Colour palettes are primary and vivid, often with black outlines and restricted palettes of red, yellow, blue, and white.
 
 ## Pattern Structure
 
-Pop art patterns typically use either a straight block repeat or a deliberately grid-like serialised layout, referencing the mechanical repetition of mass-production processes. The serialised arrangement — a single object repeated in rows — is a direct reference to Andy Warhol's screen-print technique and the aesthetic of commercial production. Layouts may also incorporate deliberately misaligned registration, referencing imperfections in cheap print processes.
+Pop art patterns typically use either a straight block repeat or a deliberately grid-like serialised layout, referencing the mechanical repetition of mass-production processes. The serialised arrangement - a single object repeated in rows - is a direct reference to Andy Warhol's screen-print technique and the aesthetic of commercial production. Layouts may also incorporate deliberately misaligned registration, referencing imperfections in cheap print processes.
 
 ## Common Motifs
 
@@ -149,7 +150,7 @@ Pop Art emerged in the UK in the mid-1950s and simultaneously in the US, with ar
 
 ## Surface Pattern Uses
 
-- **Fashion:** printed dresses, T-shirts, accessories — particularly associated with 1960s Mod fashion and periodic revivals
+- **Fashion:** printed dresses, T-shirts, accessories - particularly associated with 1960s Mod fashion and periodic revivals
 - **Stationery and gifting:** high-contrast pop art motifs work well on paper-based products
 - **Home textiles:** cushions, blankets, and limited-edition homewares
 - **Wallpaper:** statement feature walls in contemporary interiors
@@ -157,13 +158,13 @@ Pop Art emerged in the UK in the mid-1950s and simultaneously in the US, with ar
 
 ## Related Pattern Types
 
-- [[Retro Pattern]] — overlapping aesthetic territory, particularly 1960s-era designs
-- [[Geometric Pattern]] — pop art uses strong geometric structure
-- [[Stripe Pattern]] — bold stripes appear within pop art aesthetics
+- Retro Pattern - overlapping aesthetic territory, particularly 1960s-era designs
+- Geometric Pattern - pop art uses strong geometric structure
+- Stripe Pattern - bold stripes appear within pop art aesthetics
 
 ## Source Notes
 
-- Wikipedia, "Pop Art" — movement origins, key artists (Warhol, Lichtenstein), Ben-Day dots, advertising and commercial imagery as source material
+- Wikipedia, "Pop Art" - movement origins, key artists (Warhol, Lichtenstein), Ben-Day dots, advertising and commercial imagery as source material
 
 ## Editorial Images
 

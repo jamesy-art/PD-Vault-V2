@@ -110,6 +110,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 80
 ---
 
 # Yellow Pattern
@@ -117,11 +118,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/yellow-pattern/profile/yellow-pattern-image.svg)
-A colour-led pattern category defined by the use of yellow tones — a high-visibility, energetic hue carrying strong associations with happiness, warmth, optimism, and creativity, with significant cultural variation in symbolic meaning.
+A colour-led pattern category defined by the use of yellow tones - a high-visibility, energetic hue carrying strong associations with happiness, warmth, optimism, and creativity, with significant cultural variation in symbolic meaning.
 
 ## Overview
 
-Yellow-based surface patterns are among the most visually immediate — yellow's high luminosity makes it the most visible colour in normal light conditions and gives yellow-dominant patterns strong visual impact. In surface pattern design, yellow functions both as a ground colour (creating warm, energetic, attention-drawing surfaces) and as an accent tone that activates other hues. The colour's positive associations in many Western contexts (happiness, sunshine, optimism) have sustained consistent commercial demand, while its cultural significance in East and South Asian contexts adds additional layers of meaning for global markets.
+Yellow-based surface patterns are among the most visually immediate - yellow's high luminosity makes it the most visible colour in normal light conditions and gives yellow-dominant patterns strong visual impact. In surface pattern design, yellow functions both as a ground colour (creating warm, energetic, attention-drawing surfaces) and as an accent tone that activates other hues. The colour's positive associations in many Western contexts (happiness, sunshine, optimism) have sustained consistent commercial demand, while its cultural significance in East and South Asian contexts adds additional layers of meaning for global markets.
 
 ## Visual Characteristics
 
@@ -138,20 +139,20 @@ Yellow is naturally associated with specific motifs: sunflowers (a primary yello
 ## Colour and Style
 
 The yellow spectrum in surface pattern design includes:
-- **Lemon yellow** — cool, greenish; crisp and fresh; spring/summer associations
-- **Golden yellow** — warm, orange-leaning; rich and inviting; harvest and autumn associations
-- **Mustard** — earthy, olive-tinged; strongly associated with 1970s retro aesthetics; contemporary revival in fashion and home design
-- **Canary yellow** — vivid, saturated; graphic and high-energy
-- **Butter yellow** — soft, creamy; gentle and warm
-- **Honey yellow** — warm, glowing; organic and natural
-- **Straw yellow** — pale, natural beige-yellow; neutral and understated
-- **Ochre** — earthy, mineral yellow derived from iron oxide clay; ancient pigment with natural/artisanal associations
+- **Lemon yellow** - cool, greenish; crisp and fresh; spring/summer associations
+- **Golden yellow** - warm, orange-leaning; rich and inviting; harvest and autumn associations
+- **Mustard** - earthy, olive-tinged; strongly associated with 1970s retro aesthetics; contemporary revival in fashion and home design
+- **Canary yellow** - vivid, saturated; graphic and high-energy
+- **Butter yellow** - soft, creamy; gentle and warm
+- **Honey yellow** - warm, glowing; organic and natural
+- **Straw yellow** - pale, natural beige-yellow; neutral and understated
+- **Ochre** - earthy, mineral yellow derived from iron oxide clay; ancient pigment with natural/artisanal associations
 
-Yellow ochre is one of the oldest pigments used by humans — found in prehistoric cave paintings and extracted from iron-oxide clay. Carotenoid pigments produce yellow in plants and are responsible for autumn leaf colour. Safety yellow (as standardised in ANSI Z535) was adopted for US school buses in 1937 specifically for high visibility.
+Yellow ochre is one of the oldest pigments used by humans - found in prehistoric cave paintings and extracted from iron-oxide clay. Carotenoid pigments produce yellow in plants and are responsible for autumn leaf colour. Safety yellow (as standardised in ANSI Z535) was adopted for US school buses in 1937 specifically for high visibility.
 
 ## History and Context
 
-Yellow's cultural symbolism varies significantly by region and context. In Western tradition, yellow is primarily associated with happiness, optimism, and energy, though it also carries associations with caution (traffic lights, warning signs) and, in some contexts, cowardice or disease. In East Asian cultures — particularly China — yellow is the colour of royalty and imperial authority; the Chinese Emperor's robes were mandated to be imperial yellow (1548). In South Asian traditions, yellow carries associations with spirituality and learning. In some Middle Eastern and Latin American cultures, yellow is associated with mourning. These varying associations are commercially relevant for designers working in global markets.
+Yellow's cultural symbolism varies significantly by region and context. In Western tradition, yellow is primarily associated with happiness, optimism, and energy, though it also carries associations with caution (traffic lights, warning signs) and, in some contexts, cowardice or disease. In East Asian cultures - particularly China - yellow is the colour of royalty and imperial authority; the Chinese Emperor's robes were mandated to be imperial yellow (1548). In South Asian traditions, yellow carries associations with spirituality and learning. In some Middle Eastern and Latin American cultures, yellow is associated with mourning. These varying associations are commercially relevant for designers working in global markets.
 
 ## Surface Pattern Uses
 
@@ -163,14 +164,14 @@ Yellow's cultural symbolism varies significantly by region and context. In Weste
 
 ## Related Pattern Types
 
-- [[Red Pattern]] — red and yellow together appear in bold, high-energy commercial palettes
-- [[Floral Pattern]] — sunflowers and other yellow florals are major applications
-- [[Retro Pattern]] — mustard and harvest gold are primary 1970s retro colour signals
+- Red Pattern - red and yellow together appear in bold, high-energy commercial palettes
+- Floral Pattern - sunflowers and other yellow florals are major applications
+- Retro Pattern - mustard and harvest gold are primary 1970s retro colour signals
 
 ## Source Notes
 
-- Wikipedia, "Shades of yellow" — named shades (lemon/golden/mustard/canary/butter/honey/straw/ochre), carotenoids, yellow ochre (ancient pigment), safety yellow (school buses 1937), imperial yellow (Emperor of China 1548)
-- Quillbot, "Yellow Color Meaning" — happiness/optimism/positivity/energy/warmth/creativity; attention/caution; royalty/prosperity in East Asia; spirituality/learning in South Asia; mourning associations in some contexts
+- Wikipedia, "Shades of yellow" - named shades (lemon/golden/mustard/canary/butter/honey/straw/ochre), carotenoids, yellow ochre (ancient pigment), safety yellow (school buses 1937), imperial yellow (Emperor of China 1548)
+- Quillbot, "Yellow Color Meaning" - happiness/optimism/positivity/energy/warmth/creativity; attention/caution; royalty/prosperity in East Asia; spirituality/learning in South Asia; mourning associations in some contexts
 
 ## Editorial Images
 

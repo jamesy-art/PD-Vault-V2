@@ -56,6 +56,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 248
 ---
 
 # Lanerossi
@@ -87,18 +88,18 @@ Historical: wool textiles for suiting, outerwear, and furnishing fabrics. Curren
 
 ## Services
 
-YAML parent_company "marzotto-group" is correct — Marzotto Group acquired Lanerossi in 1987. YAML location "Italy" is correct (founded Schio, Veneto). Filivivi operates as current licensee under a joint venture with Marzotto Group. Stock exchange: listed on Milan Stock Exchange from 1873; delisted 1987 at acquisition. Store locator documented in YAML.
+YAML parent_company "marzotto-group" is correct - Marzotto Group acquired Lanerossi in 1987. YAML location "Italy" is correct (founded Schio, Veneto). Filivivi operates as current licensee under a joint venture with Marzotto Group. Stock exchange: listed on Milan Stock Exchange from 1873; delisted 1987 at acquisition. Store locator documented in YAML.
 
 ## Markets
 
-Lanerossi's historical market position was as a major Italian industrial wool producer — among the largest wool employers in the Veneto at its 1959 peak (~10,000 employees, ~23 billion lire turnover). Post-Marzotto acquisition (1987) and under the Filivivi joint venture, the brand operates at a significantly reduced scale as a licensed accessories and decorative fabrics line, positioned within the Marzotto Group textile portfolio and the broader Italian heritage textiles sector.
+Lanerossi's historical market position was as a major Italian industrial wool producer - among the largest wool employers in the Veneto at its 1959 peak (~10,000 employees, ~23 billion lire turnover). Post-Marzotto acquisition (1987) and under the Filivivi joint venture, the brand operates at a significantly reduced scale as a licensed accessories and decorative fabrics line, positioned within the Marzotto Group textile portfolio and the broader Italian heritage textiles sector.
 
 ## Pattern and Surface Design Relevance
 
-- **Wool textile surface design**: As a wool lanificio, Lanerossi's entire historical production was predicated on textile surface design — wool weave structures, colour, and pattern for suiting, outerwear, and furnishing fabrics
-- **Decorative fabrics**: The source explicitly notes "accessories and decorative fabrics" as the current product scope — furnishing fabrics, upholstery, and interior textiles are directly relevant to surface pattern design; repeat pattern, colour story, and weave structure are core decisions
+- **Wool textile surface design**: As a wool lanificio, Lanerossi's entire historical production was predicated on textile surface design - wool weave structures, colour, and pattern for suiting, outerwear, and furnishing fabrics
+- **Decorative fabrics**: The source explicitly notes "accessories and decorative fabrics" as the current product scope - furnishing fabrics, upholstery, and interior textiles are directly relevant to surface pattern design; repeat pattern, colour story, and weave structure are core decisions
 - **Home textiles**: YAML retail_categories confirm a home product line, consistent with decorative fabric and interior textile production
-- **Italian wool heritage**: Lanerossi's Schio provenance connects it to the Veneto textile industry cluster — a historic centre of Italian wool, cashmere, and woven fabric production with deep traditions in surface pattern for suiting and furnishing textiles
+- **Italian wool heritage**: Lanerossi's Schio provenance connects it to the Veneto textile industry cluster - a historic centre of Italian wool, cashmere, and woven fabric production with deep traditions in surface pattern for suiting and furnishing textiles
 - **Industrial-era influence**: The company's Milan Stock Exchange listing from 1873 and its peak output (~10,000 employees) mean it shaped the surface design traditions of Italian textile production throughout the late nineteenth and early twentieth centuries
 
 ## Official Resources

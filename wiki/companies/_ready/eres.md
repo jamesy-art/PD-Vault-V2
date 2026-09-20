@@ -53,6 +53,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 204
 ---
 
 # Eres
@@ -69,13 +70,13 @@ enrichment_status: enriched
 
 ## Overview
 
-Eres is a French luxury swimwear and lingerie brand founded in 1968 by Irène Leroux on Place de la Madeleine, Paris. Leroux took over her parents' seasonal swimsuit business and repositioned it for year-round sales — a model others "called her crazy" for at the time. She simplified the product by removing underwires, boning, and bra cups from swimwear. In 1971, she introduced the mix-and-match bikini: colours, sizes, and styles interchangeable by the customer. Chanel acquired Eres in 1996; Leroux retained artistic direction. Two years post-acquisition, Eres expanded into lingerie (1998) and later shapewear. In 2007, Leroux handed direction to Valérie Delafosse (formerly of Princesse tam.tam). In 2013, Marie-Paule Minchelli (studio director since 2008) and Yasmine Eslami replaced Delafosse — Minchelli overseeing lingerie, Eslami overseeing beachwear — with Minchelli subsequently confirmed as sole artistic director. Note: YAML location "United States" is incorrect — French brand, Paris headquarters and workshops; YAML preserved as found.
+Eres is a French luxury swimwear and lingerie brand founded in 1968 by Irène Leroux on Place de la Madeleine, Paris. Leroux took over her parents' seasonal swimsuit business and repositioned it for year-round sales - a model others "called her crazy" for at the time. She simplified the product by removing underwires, boning, and bra cups from swimwear. In 1971, she introduced the mix-and-match bikini: colours, sizes, and styles interchangeable by the customer. Chanel acquired Eres in 1996; Leroux retained artistic direction. Two years post-acquisition, Eres expanded into lingerie (1998) and later shapewear. In 2007, Leroux handed direction to Valérie Delafosse (formerly of Princesse tam.tam). In 2013, Marie-Paule Minchelli (studio director since 2008) and Yasmine Eslami replaced Delafosse - Minchelli overseeing lingerie, Eslami overseeing beachwear - with Minchelli subsequently confirmed as sole artistic director. Note: YAML location "United States" is incorrect - French brand, Paris headquarters and workshops; YAML preserved as found.
 
-Eres's design philosophy, established by Irène Leroux, centres on restraint: removing structural elements (underwires, boning, cups) to let fabric and cut define form. The brand's aesthetic vocabulary is minimal and colourful — colour is the primary decorative language. Expansion into lingerie (1998) and shapewear extended this philosophy of refined, functional garment surfaces into adjacent categories.
+Eres's design philosophy, established by Irène Leroux, centres on restraint: removing structural elements (underwires, boning, cups) to let fabric and cut define form. The brand's aesthetic vocabulary is minimal and colourful - colour is the primary decorative language. Expansion into lingerie (1998) and shapewear extended this philosophy of refined, functional garment surfaces into adjacent categories.
 
 ## History
 
-Eres ateliers are located on Boulevard Voltaire, Paris. The brand is stocked in several hundred points of sale, primarily department stores in Paris, Cannes, Saint-Tropez, Palm Beach, Los Angeles, and New York, plus approximately ten boutiques in France and others across Europe. Artistic directors: Irène Leroux (1968–2007); Valérie Delafosse (2007–2013, ex-Princesse tam.tam); Marie-Paule Minchelli + Yasmine Eslami (co-directors from 2013); Marie-Paule Minchelli (sole director). A nail polish collection was also produced under the brand. YAML market_categories includes "Menswear" and "Gym & Training" — inconsistent with Eres's documented positioning as a women's swimwear and lingerie specialist; likely pipeline artefacts; YAML preserved as found.
+Eres ateliers are located on Boulevard Voltaire, Paris. The brand is stocked in several hundred points of sale, primarily department stores in Paris, Cannes, Saint-Tropez, Palm Beach, Los Angeles, and New York, plus approximately ten boutiques in France and others across Europe. Artistic directors: Irène Leroux (1968-2007); Valérie Delafosse (2007-2013, ex-Princesse tam.tam); Marie-Paule Minchelli + Yasmine Eslami (co-directors from 2013); Marie-Paule Minchelli (sole director). A nail polish collection was also produced under the brand. YAML market_categories includes "Menswear" and "Gym & Training" - inconsistent with Eres's documented positioning as a women's swimwear and lingerie specialist; likely pipeline artefacts; YAML preserved as found.
 
 ## Products
 
@@ -97,10 +98,10 @@ Eres occupies the luxury swimwear and lingerie segment, differentiated from mass
 
 Eres's SPD relevance centres on textile surface innovation and minimalist colour design:
 
-- **Patented fabric as surface identity**: Eres developed its own highly resistant patented Lycra, nicknamed "soft skin" — a proprietary textile surface created at Leroux's request. This material is integral to the brand's product identity; textile surface innovation is a documented competitive differentiator.
-- **"Parachute fabric"**: The brand also uses a textile nicknamed "parachute fabric" for its rapid-drying properties — a performance textile surface solution within the swimwear range.
-- **Colour as primary design language**: Eres's identity is described as "understated, minimalist, and colorful." In the absence of decorative print or surface ornamentation, colour is the sole design decision — pure colour application to fabric surface defines the aesthetic.
-- **Mix-and-match as modular surface system**: The 1971 mix-and-match bikini system — interchangeable colours, sizes, and styles — is a modular design approach in which colour and fabric surface are the customer-configurable parameters. The product is structured around surface variation rather than print.
+- **Patented fabric as surface identity**: Eres developed its own highly resistant patented Lycra, nicknamed "soft skin" - a proprietary textile surface created at Leroux's request. This material is integral to the brand's product identity; textile surface innovation is a documented competitive differentiator.
+- **"Parachute fabric"**: The brand also uses a textile nicknamed "parachute fabric" for its rapid-drying properties - a performance textile surface solution within the swimwear range.
+- **Colour as primary design language**: Eres's identity is described as "understated, minimalist, and colorful." In the absence of decorative print or surface ornamentation, colour is the sole design decision - pure colour application to fabric surface defines the aesthetic.
+- **Mix-and-match as modular surface system**: The 1971 mix-and-match bikini system - interchangeable colours, sizes, and styles - is a modular design approach in which colour and fabric surface are the customer-configurable parameters. The product is structured around surface variation rather than print.
 
 ## Official Resources
 

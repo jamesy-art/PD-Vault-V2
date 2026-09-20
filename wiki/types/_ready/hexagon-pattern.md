@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 44
 ---
 
 # Hexagon Pattern
@@ -119,25 +120,25 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/hexagon-pattern/profile/hexagon-pattern-image.svg)
-A regular six-sided tiling in which each cell shares all its edges with identical neighbours — one of only three regular tessellations of the plane and the geometry underlying the honeycomb structure.
+A regular six-sided tiling in which each cell shares all its edges with identical neighbours - one of only three regular tessellations of the plane and the geometry underlying the honeycomb structure.
 
 ## Overview
 
-The hexagon pattern is built from regular hexagons — six-sided polygons with equal sides and 120-degree internal angles. Three hexagons meet at each vertex, which accounts for the full 360 degrees and produces a mathematically stable, gapless tessellation. In surface pattern design, this structure appears in two primary forms: the pure geometric grid, and the nature-referencing honeycomb, where the hexagonal cells evoke beeswax construction.
+The hexagon pattern is built from regular hexagons - six-sided polygons with equal sides and 120-degree internal angles. Three hexagons meet at each vertex, which accounts for the full 360 degrees and produces a mathematically stable, gapless tessellation. In surface pattern design, this structure appears in two primary forms: the pure geometric grid, and the nature-referencing honeycomb, where the hexagonal cells evoke beeswax construction.
 
 The hexagonal tessellation has mathematical properties that make it widely useful: it covers a plane surface with the least total perimeter for a given area (the honeycomb theorem), and circles inscribed within hexagonal cells achieve the densest possible two-dimensional packing. These structural efficiencies have contributed to the form's persistence across many decorative and applied design traditions.
 
 ## Visual Characteristics
 
-Hexagon patterns read as structured and orderly but with more visual dynamism than square grids. The 120-degree angles create a more organic feel than orthogonal geometry while remaining fully geometric. The pattern's directionality is ambiguous — it can be read as vertical columns, diagonal rows, or horizontal bands depending on orientation, which gives designers compositional flexibility.
+Hexagon patterns read as structured and orderly but with more visual dynamism than square grids. The 120-degree angles create a more organic feel than orthogonal geometry while remaining fully geometric. The pattern's directionality is ambiguous - it can be read as vertical columns, diagonal rows, or horizontal bands depending on orientation, which gives designers compositional flexibility.
 
 At fine scale, hexagonal grids read as textural. At larger scale, individual hexagons become distinct decorative units suitable for colour blocking, filling with secondary patterns, or stacking with varied fills.
 
 ## Pattern Structure
 
-The hexagon tile in a regular tessellation (symmetry group p6m) is vertex-transitive, edge-transitive, and face-transitive — meaning any vertex, edge, or tile can be mapped to any other by the symmetry operations of the group. This gives it one of the highest possible degrees of regularity among plane tilings.
+The hexagon tile in a regular tessellation (symmetry group p6m) is vertex-transitive, edge-transitive, and face-transitive - meaning any vertex, edge, or tile can be mapped to any other by the symmetry operations of the group. This gives it one of the highest possible degrees of regularity among plane tilings.
 
-Dual to the hexagonal tiling is the triangular tiling — connecting the centres of adjacent hexagons produces equilateral triangles. This relationship is often exploited in surface pattern design to create nested geometric compositions.
+Dual to the hexagonal tiling is the triangular tiling - connecting the centres of adjacent hexagons produces equilateral triangles. This relationship is often exploited in surface pattern design to create nested geometric compositions.
 
 Common structural variants include:
 - Pure regular hexagonal grid
@@ -158,7 +159,7 @@ Common structural variants include:
 
 Natural associations with amber, gold, and honey tones dominate the honeycomb variant. Geometric applications use the full colour spectrum, with high-contrast black-and-white, pastels for homeware, and bold primaries for children's products among the commercially common ranges.
 
-The hexagon's dual identity — mathematical precision combined with its natural origin in bee construction — gives it broad positioning. It works in masculine-coded geometric design (black/charcoal/gold), in Scandi-minimalist interiors (muted mid-tones on white), and in maximalist wallpaper with rich fills.
+The hexagon's dual identity - mathematical precision combined with its natural origin in bee construction - gives it broad positioning. It works in masculine-coded geometric design (black/charcoal/gold), in Scandi-minimalist interiors (muted mid-tones on white), and in maximalist wallpaper with rich fills.
 
 ## History and Context
 
@@ -175,15 +176,15 @@ The hexagonal tiling has been used in decorative arts across many cultures and p
 
 ## Related Pattern Types
 
-- [[Honeycomb Pattern]] — applied name for the hexagonal tessellation in natural/animal contexts
-- [[Geometric Pattern]] — parent category for mathematical tessellations
-- [[raw/_types processed/tessellation-pattern]] — gapless plane-filling structures; hexagonal is one of three regular types
-- [[Triangle Pattern]] — dual to the hexagon; connecting hexagon centres produces triangular tiling
-- [[Moroccan Pattern]] — frequently incorporates hexagonal and six-pointed star geometry
+- Honeycomb Pattern - applied name for the hexagonal tessellation in natural/animal contexts
+- Geometric Pattern - parent category for mathematical tessellations
+- raw/_types processed/tessellation-pattern - gapless plane-filling structures; hexagonal is one of three regular types
+- Triangle Pattern - dual to the hexagon; connecting hexagon centres produces triangular tiling
+- Moroccan Pattern - frequently incorporates hexagonal and six-pointed star geometry
 
 ## Source Notes
 
-- Wikipedia, Hexagonal Tiling (2005): Establishes mathematical properties — regular tiling, Schläfli symbol {6,3}, symmetry group p6m, vertex-transitive/edge-transitive/face-transitive. Honeycomb theorem citation (Hales, 2001): hexagonal tiling divides plane into equal-area regions with minimum total perimeter. Note: source is mathematics-focused; surface pattern relevance extrapolated from structural properties.
+- Wikipedia, Hexagonal Tiling (2005): Establishes mathematical properties - regular tiling, Schläfli symbol {6,3}, symmetry group p6m, vertex-transitive/edge-transitive/face-transitive. Honeycomb theorem citation (Hales, 2001): hexagonal tiling divides plane into equal-area regions with minimum total perimeter. Note: source is mathematics-focused; surface pattern relevance extrapolated from structural properties.
 
 ## Editorial Images
 

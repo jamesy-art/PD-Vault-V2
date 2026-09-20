@@ -6,7 +6,7 @@ description: Founded in 1997 and based in Borås, Sweden, Designstudio Björkfor
   is an established surface and pattern design studio specialising in home décor
   and interiors. The studio operates internationally through a network of sales
   agents in Japan, South Korea, and the USA, and is active at international
-  trade fairs. Their collection carries a defined Scandinavian character —
+  trade fairs. Their collection carries a defined Scandinavian character -
   nature-led, restrained in palette, and positioned for interior application.
 website_url: https://bjorkforth.se/
 instagram_url: ""
@@ -40,6 +40,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 536
 ---
 # Design Studio Bjork-forth
 
@@ -60,11 +61,11 @@ equipment:
 
 ## Overview
 
-Founded in 1997 and based in Borås, Sweden, Designstudio Björkforth is an established surface and pattern design studio specialising in home décor and interiors. The studio operates internationally through a network of sales agents in Japan, South Korea, and the USA, and is active at international trade fairs. Their collection carries a defined Scandinavian character — nature-led, restrained in palette, and positioned for interior application.
+Founded in 1997 and based in Borås, Sweden, Designstudio Björkforth is an established surface and pattern design studio specialising in home décor and interiors. The studio operates internationally through a network of sales agents in Japan, South Korea, and the USA, and is active at international trade fairs. Their collection carries a defined Scandinavian character - nature-led, restrained in palette, and positioned for interior application.
 
 ## Studio Style and Aesthetic
 
-The portfolio shows a botanical-led design language across two distinct palette registers. Light colorways work in warm taupe, greige, and cream: cherry blossom branches, meadow wildflowers, and micro-ditsy florals rendered with quiet restraint. Dark colorways shift to deep charcoal and navy grounds with grey-toned botanical detail, including large-scale decorative florals and trailing leaf structures. Across both registers, compositions are clean and considered — aligned with Scandinavian interior sensibilities rather than trend-driven maximalism.
+The portfolio shows a botanical-led design language across two distinct palette registers. Light colorways work in warm taupe, greige, and cream: cherry blossom branches, meadow wildflowers, and micro-ditsy florals rendered with quiet restraint. Dark colorways shift to deep charcoal and navy grounds with grey-toned botanical detail, including large-scale decorative florals and trailing leaf structures. Across both registers, compositions are clean and considered - aligned with Scandinavian interior sensibilities rather than trend-driven maximalism.
 
 ## Markets and Specialties
 
@@ -72,7 +73,7 @@ Home décor and interiors, with a clear wallpaper focus. Selected pattern images
 
 ## Techniques and Artwork Process
 
-Not documented in available source material. The portfolio shows print-ready repeat structures — large-scale botanical all-overs, tossed meadow florals, and small-scale ditsy motifs — at a level of finish consistent with commercial wallpaper supply.
+Not documented in available source material. The portfolio shows print-ready repeat structures - large-scale botanical all-overs, tossed meadow florals, and small-scale ditsy motifs - at a level of finish consistent with commercial wallpaper supply.
 
 ## Clients and Commercial Positioning
 
@@ -85,7 +86,7 @@ The studio operates in the B2B wholesale and licensing space, supported by sales
 
 ## Studio Background
 
-Designstudio Björkforth was founded in 1997, giving it nearly three decades of operation as a pattern studio. It is based in Borås — a historically significant textile and design centre in Sweden. The studio's longevity, international agent network, and Pattern Cloud listing reflect an established wholesale operation. Founder or team details are not available from current source material.
+Designstudio Björkforth was founded in 1997, giving it nearly three decades of operation as a pattern studio. It is based in Borås - a historically significant textile and design centre in Sweden. The studio's longevity, international agent network, and Pattern Cloud listing reflect an established wholesale operation. Founder or team details are not available from current source material.
 
 ## Pattern Focus
 
@@ -95,12 +96,12 @@ Botanical and nature-based repeats, including:
 - Micro-texture and ditsy surface patterns
 - Large-scale decorative botanicals (rose and peony-scale)
 
-Colorways operate in two distinct registers — warm neutrals (cream, taupe, greige) and deep darks (charcoal, navy, graphite) — making the collection versatile across contemporary and moody interior styles.
+Colorways operate in two distinct registers - warm neutrals (cream, taupe, greige) and deep darks (charcoal, navy, graphite) - making the collection versatile across contemporary and moody interior styles.
 
 ## Connections
 
-- Wallpaper — primary application evidenced in selected images
-- Botanical Pattern — dominant motif category across the portfolio
-- Scandinavian Design — stated aesthetic positioning and country of origin
-- Home Décor — confirmed market focus
-- The Pattern Cloud — listed member studio
+- Wallpaper - primary application evidenced in selected images
+- Botanical Pattern - dominant motif category across the portfolio
+- Scandinavian Design - stated aesthetic positioning and country of origin
+- Home Décor - confirmed market focus
+- The Pattern Cloud - listed member studio

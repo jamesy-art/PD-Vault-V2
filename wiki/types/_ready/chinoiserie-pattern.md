@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 65
 ---
 
 # Chinoiserie Pattern
@@ -120,19 +121,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/chinoiserie-pattern/profile/chinoiserie-pattern-image.svg)
-A European decorative style that interprets Chinese and East Asian visual culture through a Western lens — characterised by pagodas, exotic florals, birds, and imaginary Asian landscapes — peaking in the 17th and 18th centuries and remaining commercially active in wallpaper, ceramics, and interior textiles.
+A European decorative style that interprets Chinese and East Asian visual culture through a Western lens - characterised by pagodas, exotic florals, birds, and imaginary Asian landscapes - peaking in the 17th and 18th centuries and remaining commercially active in wallpaper, ceramics, and interior textiles.
 
 ## Overview
 
-Chinoiserie is not a direct reproduction of Chinese art but a European fantasy of Chinese aesthetics, filtered through trade goods, diplomatic gifts, and imaginative interpretation. It emerged alongside European fascination with East Asian trade goods and was closely associated with the Rococo movement — sharing Rococo's appetite for exuberance, asymmetry, and decorative invention. In surface pattern design, chinoiserie is particularly active in wallpaper, ceramics, upholstery, and luxury interior textiles, where it carries associations with heritage, grandeur, and sophisticated eccentricity. The style has proven commercially durable from its 17th-century origins through to the present.
+Chinoiserie is not a direct reproduction of Chinese art but a European fantasy of Chinese aesthetics, filtered through trade goods, diplomatic gifts, and imaginative interpretation. It emerged alongside European fascination with East Asian trade goods and was closely associated with the Rococo movement - sharing Rococo's appetite for exuberance, asymmetry, and decorative invention. In surface pattern design, chinoiserie is particularly active in wallpaper, ceramics, upholstery, and luxury interior textiles, where it carries associations with heritage, grandeur, and sophisticated eccentricity. The style has proven commercially durable from its 17th-century origins through to the present.
 
 ## Visual Characteristics
 
-Chinoiserie pattern is characterised by asymmetric, exuberant composition; imaginary landscapes with pagodas, bridges, willow trees, and rocks; exotic birds (particularly pheasants, peacocks, and cranes) among flowering branches; and a general sense of decorative abundance. Blue-and-white colour schemes referencing Chinese porcelain are a major subset of chinoiserie. The overall aesthetic combines European sensibility with East Asian motif vocabulary — the result being neither authentically Chinese nor wholly Western but a distinct hybrid aesthetic.
+Chinoiserie pattern is characterised by asymmetric, exuberant composition; imaginary landscapes with pagodas, bridges, willow trees, and rocks; exotic birds (particularly pheasants, peacocks, and cranes) among flowering branches; and a general sense of decorative abundance. Blue-and-white colour schemes referencing Chinese porcelain are a major subset of chinoiserie. The overall aesthetic combines European sensibility with East Asian motif vocabulary - the result being neither authentically Chinese nor wholly Western but a distinct hybrid aesthetic.
 
 ## Pattern Structure
 
-Chinoiserie pattern typically uses scenic, non-repeating or large-repeat panel compositions — particularly in wallpaper applications, where hand-painted or block-printed chinoiserie scenes were designed as continuous scenic murals rather than small tile repeats. Textile applications use larger all-over repeats incorporating pagodas, birds, and florals. The Chippendale furniture tradition applied chinoiserie motifs (lacquerwork, birds, flowers, asymmetric lattice) to decorative woodwork surfaces. Blue-and-white porcelain (Delftware) adapted Chinese blue-on-white painting into European ceramic production.
+Chinoiserie pattern typically uses scenic, non-repeating or large-repeat panel compositions - particularly in wallpaper applications, where hand-painted or block-printed chinoiserie scenes were designed as continuous scenic murals rather than small tile repeats. Textile applications use larger all-over repeats incorporating pagodas, birds, and florals. The Chippendale furniture tradition applied chinoiserie motifs (lacquerwork, birds, flowers, asymmetric lattice) to decorative woodwork surfaces. Blue-and-white porcelain (Delftware) adapted Chinese blue-on-white painting into European ceramic production.
 
 ## Common Motifs
 
@@ -148,7 +149,7 @@ Chinoiserie pattern typically uses scenic, non-repeating or large-repeat panel c
 
 ## Colour and Style
 
-The dominant chinoiserie palette is blue-and-white — derived from Chinese blue-and-white porcelain imported to Europe and subsequently imitated in Delftware. Polychrome chinoiserie uses the rich palette of Chinese export porcelain and lacquerwork: jade green, cinnabar red, gilt gold, black, and ivory. Grisaille chinoiserie (grey tonal work on light ground) is associated with the most refined 18th-century applications. Rex Whistler's chinoiserie wallpaper of 1932 exemplifies a 20th-century revival. Contemporary chinoiserie can appear in any colourway, though blue-and-white and polychrome remain the market reference points.
+The dominant chinoiserie palette is blue-and-white - derived from Chinese blue-and-white porcelain imported to Europe and subsequently imitated in Delftware. Polychrome chinoiserie uses the rich palette of Chinese export porcelain and lacquerwork: jade green, cinnabar red, gilt gold, black, and ivory. Grisaille chinoiserie (grey tonal work on light ground) is associated with the most refined 18th-century applications. Rex Whistler's chinoiserie wallpaper of 1932 exemplifies a 20th-century revival. Contemporary chinoiserie can appear in any colourway, though blue-and-white and polychrome remain the market reference points.
 
 ## History and Context
 
@@ -156,19 +157,19 @@ Chinoiserie developed in Europe from the 17th century as European courts became 
 
 ## Surface Pattern Uses
 
-- **Wallpaper** — chinoiserie wallpaper is an established premium category in interior design; scenic panel compositions are a signature format
-- **Ceramics and tableware** — blue-and-white chinoiserie is the dominant decorative tradition in European luxury ceramics (Royal Delft, Royal Copenhagen adjacent aesthetics)
-- **Upholstery and furnishing textiles** — chinoiserie is commercially active in premium upholstery and curtain fabric, particularly in heritage interior markets
-- **Fashion** — chinoiserie motifs appear in luxury womenswear, evening wear, and accessories
-- **Licensing** — chinoiserie design is licensable across homeware, stationery, and premium gift categories
+- **Wallpaper** - chinoiserie wallpaper is an established premium category in interior design; scenic panel compositions are a signature format
+- **Ceramics and tableware** - blue-and-white chinoiserie is the dominant decorative tradition in European luxury ceramics (Royal Delft, Royal Copenhagen adjacent aesthetics)
+- **Upholstery and furnishing textiles** - chinoiserie is commercially active in premium upholstery and curtain fabric, particularly in heritage interior markets
+- **Fashion** - chinoiserie motifs appear in luxury womenswear, evening wear, and accessories
+- **Licensing** - chinoiserie design is licensable across homeware, stationery, and premium gift categories
 
 ## Related Pattern Types
 
-[[Blue Pattern]], [[Toile de Jouy]], [[Delft Pattern]], [[Blue Willow Pattern]], [[Dragon Pattern]], [[Floral Pattern]], [[Asian-Inspired Pattern]]
+Blue Pattern, Toile de Jouy, Delft Pattern, Blue Willow Pattern, Dragon Pattern, Floral Pattern, Asian-Inspired Pattern
 
 ## Source Notes
 
-- Source: Wikipedia "Chinoiserie" — definition as European interpretation of Chinese/Sinosphere art; 17th–18th century peak; Rococo association; Tom Ford/YSL satin evening dress with Chinese dragon print (2004); Mariano Fortuny, Callot Soeurs, Jean Paquin; wallpaper tradition; blue-and-white porcelain and Delftware; Chippendale furniture; Buckingham Palace Yellow Drawing Room; George IV patron; Louis XV special favour; Rex Whistler chinoiserie wallpaper (1932)
+- Source: Wikipedia "Chinoiserie" - definition as European interpretation of Chinese/Sinosphere art; 17th-18th century peak; Rococo association; Tom Ford/YSL satin evening dress with Chinese dragon print (2004); Mariano Fortuny, Callot Soeurs, Jean Paquin; wallpaper tradition; blue-and-white porcelain and Delftware; Chippendale furniture; Buckingham Palace Yellow Drawing Room; George IV patron; Louis XV special favour; Rex Whistler chinoiserie wallpaper (1932)
 
 ## Editorial Images
 

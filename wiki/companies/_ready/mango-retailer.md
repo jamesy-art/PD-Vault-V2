@@ -90,6 +90,7 @@ images:
 created: '2026-06-11'
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 216
 ---
 
 # Mango (retailer)
@@ -115,14 +116,14 @@ No named creative director or head of design is documented in the available sour
 
 ## History
 
-Mango was founded by Isak Andic (1953–2024) and Nahman Andic in 1984. Key timeline:
+Mango was founded by Isak Andic (1953-2024) and Nahman Andic in 1984. Key timeline:
 
 - 1984: Mango founded in Barcelona
 - 1995: Website launched
 - 2000: First online store
 - 2008: H.E. by Mango (men's line) created; renamed Mango Man in 2014
 - Fall 2012: Kate Moss appointed as brand muse; replaced by Miranda Kerr
-- 2014: Violeta by Mango (plus-size line, sizes 40–52) launched
+- 2014: Violeta by Mango (plus-size line, sizes 40-52) launched
 - 2015: Revenue €2.327 billion; EBITDA €170 million
 - September 2020: Mango Teen line launched via pop-up in Barcelona
 - April 2022: Mango Home launched (home essentials line via website)
@@ -136,12 +137,12 @@ Mango was founded by Isak Andic (1953–2024) and Nahman Andic in 1984. Key time
 
 ## Products
 
-- **Women's (main line)** — core Mango womenswear; ready-to-wear, dresses, suits, accessories; accessible trend-led contemporary
-- **Mango Man** (H.E. by Mango from 2008, renamed Mango Man 2014) — menswear line
-- **Mango Teen** (launched 2020) — teenage/young adult line
-- **Violeta by Mango** (launched 2014) — women's plus-size line (sizes 40–52); positioned as "a different pattern" adapted for curvy women rather than a size extension
-- **Mango Home** (launched April 2022) — home essentials; sold via website
-- **Victoria Beckham x Mango** (April 2024) — designer collaboration marking Mango's 40th anniversary
+- **Women's (main line)** - core Mango womenswear; ready-to-wear, dresses, suits, accessories; accessible trend-led contemporary
+- **Mango Man** (H.E. by Mango from 2008, renamed Mango Man 2014) - menswear line
+- **Mango Teen** (launched 2020) - teenage/young adult line
+- **Violeta by Mango** (launched 2014) - women's plus-size line (sizes 40-52); positioned as "a different pattern" adapted for curvy women rather than a size extension
+- **Mango Home** (launched April 2022) - home essentials; sold via website
+- **Victoria Beckham x Mango** (April 2024) - designer collaboration marking Mango's 40th anniversary
 
 ## Services
 
@@ -149,25 +150,25 @@ Mango operates primarily through owned stores, franchise stores, and e-commerce.
 
 ## Markets
 
-Mango operates in the fast-fashion and accessible contemporary clothing segment, competing with Zara/Inditex, H&M, and other European fast-fashion groups. The Hangar Design Centre in Palau Solità i Plegamans (1,850 employees at this single facility plus HQ) indicates a large-scale in-house design, development, and creative operations structure. Mango's market position is somewhat elevated relative to Primark and H&M — it competes more directly with Zara on price point and trend speed. International presence spans 110+ countries with 2,700+ stores. The company's US expansion has accelerated since 2021 (New Jersey, New York, Miami from 2021; 5th Avenue flagship May 2022; DC and Massachusetts 2024). The Brazilian market was exited in 2013 and re-entered in 2025. Istanbul has the most Mango stores of any city globally.
+Mango operates in the fast-fashion and accessible contemporary clothing segment, competing with Zara/Inditex, H&M, and other European fast-fashion groups. The Hangar Design Centre in Palau Solità i Plegamans (1,850 employees at this single facility plus HQ) indicates a large-scale in-house design, development, and creative operations structure. Mango's market position is somewhat elevated relative to Primark and H&M - it competes more directly with Zara on price point and trend speed. International presence spans 110+ countries with 2,700+ stores. The company's US expansion has accelerated since 2021 (New Jersey, New York, Miami from 2021; 5th Avenue flagship May 2022; DC and Massachusetts 2024). The Brazilian market was exited in 2013 and re-entered in 2025. Istanbul has the most Mango stores of any city globally.
 
 ## Pattern and Surface Design Relevance
 
 Mango is commercially significant to surface pattern design as a fast-fashion retailer producing high-volume seasonal print and surface design collections across all its product lines.
 
-**Print and pattern in Mango womenswear** is commercially central. The brand's accessible positioning means its print direction — seasonal florals, abstract prints, geometric patterns, colourblock constructions, and novelty motifs — reaches a very large consumer audience. As a fast-fashion operator, Mango's seasonal print and pattern production is high-volume and rapid-turnaround, with trend-to-floor cycles significantly shorter than mid-market or luxury brands.
+**Print and pattern in Mango womenswear** is commercially central. The brand's accessible positioning means its print direction - seasonal florals, abstract prints, geometric patterns, colourblock constructions, and novelty motifs - reaches a very large consumer audience. As a fast-fashion operator, Mango's seasonal print and pattern production is high-volume and rapid-turnaround, with trend-to-floor cycles significantly shorter than mid-market or luxury brands.
 
 **The Hangar Design Centre** in Palau Solità i Plegamans is a dedicated design and development facility employing 1,850 people alongside headquarters functions. This represents a substantial in-house design capability for pattern development, fabric sourcing, print direction, and product development. As a fast-fashion group, Mango's in-house teams are responsible for the full trend-to-product pipeline.
 
-**Violeta by Mango** operates in the plus-size women's segment, where pattern and print are disproportionately commercially significant. The brand's founder Violeta Andic stated the line was created "to adapt the seams and armholes" for a specific customer — indicating pattern development for body-fit-specific construction.
+**Violeta by Mango** operates in the plus-size women's segment, where pattern and print are disproportionately commercially significant. The brand's founder Violeta Andic stated the line was created "to adapt the seams and armholes" for a specific customer - indicating pattern development for body-fit-specific construction.
 
 **Mango Home** (from April 2022) extends the brand into home textiles and home essentials, where surface pattern design on textiles, cushions, bed linen, and soft furnishings is a core product category.
 
-**Victoria Beckham x Mango** (April 2024) brought a luxury-adjacent designer's print and surface aesthetic into Mango's accessible price tier — a collaboration format that uses designer visual identity (print direction, colourways, graphic surface treatments) as the primary differentiation.
+**Victoria Beckham x Mango** (April 2024) brought a luxury-adjacent designer's print and surface aesthetic into Mango's accessible price tier - a collaboration format that uses designer visual identity (print direction, colourways, graphic surface treatments) as the primary differentiation.
 
-**AI fashion assistant** (August 2025) — Mango's generative AI-powered styling tool potentially touches print and pattern recommendation in its customer-facing application.
+**AI fashion assistant** (August 2025) - Mango's generative AI-powered styling tool potentially touches print and pattern recommendation in its customer-facing application.
 
-The Rana Plaza disaster (April 24, 2013) identified Mango as one of 29 brands that had sourced from the collapsed factories. Mango was among the companies that refused to sign the initial compensation agreement in November 2013 — a significant reputational and supply chain ethics issue for the brand.
+The Rana Plaza disaster (April 24, 2013) identified Mango as one of 29 brands that had sourced from the collapsed factories. Mango was among the companies that refused to sign the initial compensation agreement in November 2013 - a significant reputational and supply chain ethics issue for the brand.
 
 ## Official Resources
 

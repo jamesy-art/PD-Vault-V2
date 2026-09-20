@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "capture_id": "cap-clip-3c8497c3beb007b9",
+  "canonical_id": "can-clip-3c8497c3beb007b9",
+  "canonical_path": "wiki/jobs/_staging/design-assistant-print-and-colour-new-look-london",
+  "resolved": [
+    "company:New Look",
+    "software:Adobe Photoshop",
+    "software:Adobe Illustrator",
+    "software:Adobe InDesign",
+    "software:Photoshop",
+    "software:Illustrator",
+    "skills:Print Design",
+    "skills:Trend Research",
+    "skills:Textile Design",
+    "markets:Fashion",
+    "location:United Kingdom",
+    "location:London"
+  ],
+  "needs_review": [
+    "software:Adobe Creative Suite",
+    "software:Excel",
+    "software:PowerPoint",
+    "software:MS Office",
+    "software:Pantone",
+    "software:Coloro",
+    "skills:Pattern Design",
+    "skills:Colour",
+    "skills:CAD",
+    "skills:Organisation",
+    "skills:Time Management",
+    "skills:Illustration",
+    "skills:Sampling",
+    "skills:Presentation",
+    "skills:Communication",
+    "skills:Attention to Detail",
+    "skills:Teamwork",
+    "skills:Customer Focus"
+  ],
+  "not_matched": [],
+  "confidence_summary": {
+    "high": 12,
+    "medium": 0,
+    "low": 0
+  },
+  "resolver_timings": {
+    "company": 61,
+    "software": 0,
+    "skills": 0,
+    "types": 0,
+    "markets": 0,
+    "location": 0
+  },
+  "warnings": [
+    "No types candidates"
+  ],
+  "errors": [],
+  "duration_ms": 62,
+  "resolution_quality": 40,
+  "message": "Resolved"
+}

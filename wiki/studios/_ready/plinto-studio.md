@@ -42,6 +42,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 576
 ---
 # Plinto Studio
 
@@ -78,7 +79,7 @@ Children's apparel, home furnishings, and paper goods.
 
 ## Techniques and Artwork Process
 
-Hand-painted originals — watercolor botanical studies and pen-and-ink work are both visible in progress across the selected pattern images (brush and dip-pen shown mid-stroke), consistent with the studio's own description of itself as "hand-painted prints and graphics."
+Hand-painted originals - watercolor botanical studies and pen-and-ink work are both visible in progress across the selected pattern images (brush and dip-pen shown mid-stroke), consistent with the studio's own description of itself as "hand-painted prints and graphics."
 
 ## Clients and Commercial Positioning
 
@@ -96,7 +97,7 @@ No founding date or team information is documented beyond its positioning as a h
 
 ## Pattern Focus
 
-Hand-painted floral and botanical repeats — coordinating ditsy and tossed florals, block-print-style medallion motifs, and single-stem botanical studies (hollyhock, magnolia, olive branch) — for children's apparel, home furnishings, and paper goods.
+Hand-painted floral and botanical repeats - coordinating ditsy and tossed florals, block-print-style medallion motifs, and single-stem botanical studies (hollyhock, magnolia, olive branch) - for children's apparel, home furnishings, and paper goods.
 
 ## Connections
 

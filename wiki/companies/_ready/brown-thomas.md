@@ -60,6 +60,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 173
 ---
 
 # Brown Thomas
@@ -72,7 +73,7 @@ enrichment_status: enriched
 
 Brown Thomas is a chain of five upmarket department stores in Ireland, with two in Dublin and one each in Cork, Galway, and Limerick. The business traces to 1848, when Hugh Brown opened a store at 16 Grafton Street, Dublin; James Thomas joined the following year. The company was purchased by Harry Gordon Selfridge in 1919 and taken private by Galen Weston in 1983. The Weston family sold Brown Thomas and Arnotts together to a Thai-Austrian consortium (Central Group + Signa Holding) for €4.7 billion in December 2021. Following Signa Holding's insolvency filing in November 2023, Saudi Arabia's Public Investment Fund (PIF) acquired Signa's 40% stake in October 2024. Current ownership: Central Group (Thailand) 60%, PIF (Saudi Arabia) 40%. The brand is part of Selfridges Group, which also includes Arnotts (Ireland), Selfridges (UK), and De Bijenkorf (Netherlands).
 
-Note: YAML location field shows "United Kingdom" — Brown Thomas is located in the Republic of Ireland. This appears to be a placeholder data error. YAML preserved as found.
+Note: YAML location field shows "United Kingdom" - Brown Thomas is located in the Republic of Ireland. This appears to be a placeholder data error. YAML preserved as found.
 
 Brown Thomas operates as a multi-brand retailer. Design direction is curated through brand selection rather than in-house editorial. The Selfridges Group positioning frames the store as a premium lifestyle destination; the concession model within the flagship distributes surface design curation across individual brand environments.
 
@@ -82,7 +83,7 @@ Brown Thomas's Grafton Street flagship (12,000 m²) is the chain's most prominen
 
 The store's growth came partly through acquisition: the Switzer Group (Switzers Dublin, Cashs Cork, Moons Galway, Todds of Limerick) was acquired in April 1991. Cork, Galway, and Limerick stores were all rebranded Brown Thomas between 1998 and 2000. A new Dundrum Town Centre location opened in February 2022 (5,700 m²). Gross profit for the year ending 30 January 2021 was approximately €74 million.
 
-BT2 — a more accessible sub-brand targeting the 18–35 market — was launched in 1995, currently operating at Blanchardstown Shopping Centre. BT2 carries brands including Victoria Beckham, Acne Studios, Helmut Lang, and COS.
+BT2 - a more accessible sub-brand targeting the 18-35 market - was launched in 1995, currently operating at Blanchardstown Shopping Centre. BT2 carries brands including Victoria Beckham, Acne Studios, Helmut Lang, and COS.
 
 ## Products
 

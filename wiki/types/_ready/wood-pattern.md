@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 31
 ---
 
 # Wood Pattern
@@ -119,11 +120,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/wood-pattern/profile/wood-pattern-image.svg)
-A surface pattern or texture that replicates the visual appearance of wood grain — its linear fibre structure, annual ring patterns, and characteristic figure variations — used extensively in interior design, flooring, and printed surface simulation.
+A surface pattern or texture that replicates the visual appearance of wood grain - its linear fibre structure, annual ring patterns, and characteristic figure variations - used extensively in interior design, flooring, and printed surface simulation.
 
 ## Overview
 
-Wood grain pattern is one of the most commercially significant natural texture categories in surface design. The visual structure of wood — parallel longitudinal fibres producing linear grain, annual growth rings producing concentric patterns in cross-section, and various figure effects (curly grain, bird's eye, tiger grain) produced by unusual growth conditions — provides a rich visual vocabulary for both decorative surface pattern and material simulation. Wood-effect printing on laminates, vinyl flooring, wallpaper, and furniture surfaces is a major commercial application driven by demand for the aesthetic quality of wood at lower cost.
+Wood grain pattern is one of the most commercially significant natural texture categories in surface design. The visual structure of wood - parallel longitudinal fibres producing linear grain, annual growth rings producing concentric patterns in cross-section, and various figure effects (curly grain, bird's eye, tiger grain) produced by unusual growth conditions - provides a rich visual vocabulary for both decorative surface pattern and material simulation. Wood-effect printing on laminates, vinyl flooring, wallpaper, and furniture surfaces is a major commercial application driven by demand for the aesthetic quality of wood at lower cost.
 
 ## Visual Characteristics
 
@@ -154,10 +155,10 @@ Named decorative figure patterns found in specific wood species:
 ## Colour and Style
 
 Wood palettes are warm and naturalistic:
-- **Light woods:** pale blonde (ash, birch, maple, pine) — associated with Scandinavian and contemporary minimalist interiors
-- **Mid-tone woods:** warm oak, teak, walnut honey — the most commercially versatile range
-- **Dark woods:** deep walnut, mahogany, ebony — associated with traditional and luxury interior styling
-- **Reclaimed/weathered:** greyed, oxidised tones — associated with industrial and rustic aesthetics
+- **Light woods:** pale blonde (ash, birch, maple, pine) - associated with Scandinavian and contemporary minimalist interiors
+- **Mid-tone woods:** warm oak, teak, walnut honey - the most commercially versatile range
+- **Dark woods:** deep walnut, mahogany, ebony - associated with traditional and luxury interior styling
+- **Reclaimed/weathered:** greyed, oxidised tones - associated with industrial and rustic aesthetics
 
 Wood grain prints in surface pattern use these colour families and the characteristic line structures of the relevant wood species.
 
@@ -175,13 +176,13 @@ The use of wood-grain printing to simulate expensive or rare wood species on che
 
 ## Related Pattern Types
 
-- [[Stone Pattern]] — stone and wood are the two primary natural texture categories applied similarly in interior contexts
-- [[Texture Pattern]] — wood grain is a major category within texture-based surface design
+- Stone Pattern - stone and wood are the two primary natural texture categories applied similarly in interior contexts
+- Texture Pattern - wood grain is a major category within texture-based surface design
 
 ## Source Notes
 
-- Wikipedia, "Wood grain" — straight/spiral/interlocked/wavy/irregular grain types; bird's eye/curly-fiddleback/rift/tiger figure types; flat-sawn/quarter-sawn/rift-sawn/end-grain cut types; growth ring = 1 year
-- Parkerville lumber article — commercial grain terminology, species associations
+- Wikipedia, "Wood grain" - straight/spiral/interlocked/wavy/irregular grain types; bird's eye/curly-fiddleback/rift/tiger figure types; flat-sawn/quarter-sawn/rift-sawn/end-grain cut types; growth ring = 1 year
+- Parkerville lumber article - commercial grain terminology, species associations
 
 ## Editorial Images
 

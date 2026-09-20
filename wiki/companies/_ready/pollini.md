@@ -68,6 +68,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 104
 ---
 
 # Pollini
@@ -86,9 +87,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Pollini was founded in 1953 in San Mauro Pascoli, in the Forlì-Cesena Province of Emilia-Romagna — a region historically associated with Italian leather goods and footwear production. The company was established by four siblings, children of shoemaker Ettore Pollini. Aeffe acquired Pollini in 2000; since then, the house has also manufactured leather accessories for Aeffe group brands, including Moschino. General Manager is Marco Piazzi. YAML parent_company "aeffe" is correct. YAML location "United States" is incorrect — Pollini is Italian, San Mauro Pascoli; YAML preserved as found. YAML market_categories "Menswear" is narrow for a house covering both men's and women's footwear and handbags; YAML preserved as found. YAML retail_categories "Shoes" does not include handbags; YAML preserved as found. YAML facebook "https://www.facebook.com/tr" is a generic tracking URL, not a Pollini Facebook page; YAML pinterest "https://ct.pinterest.com/v3" is a generic Pinterest tracker — both scrape artefacts; YAML preserved as found.
+Pollini was founded in 1953 in San Mauro Pascoli, in the Forlì-Cesena Province of Emilia-Romagna - a region historically associated with Italian leather goods and footwear production. The company was established by four siblings, children of shoemaker Ettore Pollini. Aeffe acquired Pollini in 2000; since then, the house has also manufactured leather accessories for Aeffe group brands, including Moschino. General Manager is Marco Piazzi. YAML parent_company "aeffe" is correct. YAML location "United States" is incorrect - Pollini is Italian, San Mauro Pascoli; YAML preserved as found. YAML market_categories "Menswear" is narrow for a house covering both men's and women's footwear and handbags; YAML preserved as found. YAML retail_categories "Shoes" does not include handbags; YAML preserved as found. YAML facebook "https://www.facebook.com/tr" is a generic tracking URL, not a Pollini Facebook page; YAML pinterest "https://ct.pinterest.com/v3" is a generic Pinterest tracker - both scrape artefacts; YAML preserved as found.
 
-Pollini's creative positioning is rooted in traditional Italian leather craftsmanship — footwear and handbag design drawing on the San Mauro Pascoli leather goods manufacturing heritage. The house sits at the premium-luxury intersection of the Aeffe portfolio, complementing the fashion-forward positioning of other Aeffe group brands. The Daytona handbag's FIT Museum presence suggests a design language with archival and aesthetic recognition beyond seasonal fashion output.
+Pollini's creative positioning is rooted in traditional Italian leather craftsmanship - footwear and handbag design drawing on the San Mauro Pascoli leather goods manufacturing heritage. The house sits at the premium-luxury intersection of the Aeffe portfolio, complementing the fashion-forward positioning of other Aeffe group brands. The Daytona handbag's FIT Museum presence suggests a design language with archival and aesthetic recognition beyond seasonal fashion output.
 
 ## History
 
@@ -100,18 +101,18 @@ Core categories: leather footwear and leather handbags (men's and women's). Sign
 
 ## Services
 
-YAML parent_company "aeffe" is correct — Aeffe acquired Pollini in 2000. YAML location "United States" is incorrect — Italian company, San Mauro Pascoli, Forlì-Cesena; YAML preserved as found. Boutiques operated directly across Italy (12+ cities) and four international locations (Minsk, Podgorica, Tbilisi, Warsaw). Pollini also manufactures accessories for other Aeffe group brands, functioning as a production resource within the group alongside its own retail operation. No franchise or third-party wholesale arrangements documented in source.
+YAML parent_company "aeffe" is correct - Aeffe acquired Pollini in 2000. YAML location "United States" is incorrect - Italian company, San Mauro Pascoli, Forlì-Cesena; YAML preserved as found. Boutiques operated directly across Italy (12+ cities) and four international locations (Minsk, Podgorica, Tbilisi, Warsaw). Pollini also manufactures accessories for other Aeffe group brands, functioning as a production resource within the group alongside its own retail operation. No franchise or third-party wholesale arrangements documented in source.
 
 ## Markets
 
-Pollini operates in the premium-to-luxury segment of Italian leather goods — footwear and handbags sold through directly operated boutiques in Italy and internationally. Italian boutique presence: Milan, Rome, Venice, Bolzano, Brescia, Pavia, Piacenza, Lecco, Lodi, Genoa, Catania, Sassari. International boutiques: Minsk (Belarus), Podgorica (Montenegro), Tbilisi (Georgia), Warsaw (Poland). The Daytona handbag — a Pollini signature — was exhibited at the Fashion Institute of Technology (FIT) Museum in New York, indicating recognition at the luxury museum/archive level. Within Aeffe, Pollini also manufactures leather accessories for Aeffe group brands, extending production capacity across the group.
+Pollini operates in the premium-to-luxury segment of Italian leather goods - footwear and handbags sold through directly operated boutiques in Italy and internationally. Italian boutique presence: Milan, Rome, Venice, Bolzano, Brescia, Pavia, Piacenza, Lecco, Lodi, Genoa, Catania, Sassari. International boutiques: Minsk (Belarus), Podgorica (Montenegro), Tbilisi (Georgia), Warsaw (Poland). The Daytona handbag - a Pollini signature - was exhibited at the Fashion Institute of Technology (FIT) Museum in New York, indicating recognition at the luxury museum/archive level. Within Aeffe, Pollini also manufactures leather accessories for Aeffe group brands, extending production capacity across the group.
 
 ## Pattern and Surface Design Relevance
 
 Pollini's SPD relevance is centred on leather goods surface design:
 
-- **Footwear surface design**: Leather footwear surface — material selection, texture, colour, finish, and applied pattern on the shoe upper — is a direct surface design practice. Pollini's footwear operates across women's and men's categories with leather and suede surface treatment as the primary creative output
-- **Handbag surface design**: Handbag exterior — material, hardware placement, stitch pattern, and applied surface treatment — constitutes surface design for leather goods. The Daytona handbag (FIT Museum exhibit) represents a documented archival-quality surface design object
+- **Footwear surface design**: Leather footwear surface - material selection, texture, colour, finish, and applied pattern on the shoe upper - is a direct surface design practice. Pollini's footwear operates across women's and men's categories with leather and suede surface treatment as the primary creative output
+- **Handbag surface design**: Handbag exterior - material, hardware placement, stitch pattern, and applied surface treatment - constitutes surface design for leather goods. The Daytona handbag (FIT Museum exhibit) represents a documented archival-quality surface design object
 - **Accessories manufacturing for Aeffe brands**: Manufacturing leather accessories for Moschino and other Aeffe group brands means Pollini's production capabilities serve the applied surface design output of other fashion houses in the group
 
 ## Official Resources

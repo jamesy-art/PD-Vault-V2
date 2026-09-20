@@ -44,6 +44,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 567
 ---
 # Nomad Studio
 
@@ -76,7 +77,7 @@ The portfolio shows a wide, trend-forward range: animal-print/spot patterns styl
 
 ## Markets and Specialties
 
-- Fashion — women's apparel, shown in runway/editorial styling in selected pattern imagery
+- Fashion - women's apparel, shown in runway/editorial styling in selected pattern imagery
 - International fashion trade, per the studio's stated trade-show presence in Brazil and at Premiere Vision, Paris
 
 ## Techniques and Artwork Process
@@ -85,7 +86,7 @@ Selected pattern imagery spans painterly watercolor florals, vector-based botani
 
 ## Clients and Commercial Positioning
 
-The studio describes a "strong presence at important industry events," including trade shows in Brazil and Premiere Vision in Paris, one of the industry's major fashion trade fairs. Selected pattern imagery includes promotional material for an "Estampar" trade event (Sept 30–Oct 1, Edifício Oswald de Andrade), consistent with this trade-show positioning.
+The studio describes a "strong presence at important industry events," including trade shows in Brazil and Premiere Vision in Paris, one of the industry's major fashion trade fairs. Selected pattern imagery includes promotional material for an "Estampar" trade event (Sept 30-Oct 1, Edifício Oswald de Andrade), consistent with this trade-show positioning.
 
 ## Portfolio and Presence
 
@@ -103,4 +104,4 @@ Animal/spot prints, tropical and botanical florals, watercolor florals, graphic 
 
 ## Connections
 
-- The Pattern Cloud — sourcing and distribution platform
+- The Pattern Cloud - sourcing and distribution platform

@@ -42,6 +42,7 @@ logo_type: wordmark
 created: '2026-06-10'
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 25
 ---
 
 # LVMH
@@ -62,7 +63,7 @@ Bernard Arnault seized control of LVMH in the late 1980s following an invitation
 
 Key acquisitions: Bulgari ($5.2B, 2011); Tiffany & Co. ($16B, completed January 2021); Barton Perreira eyewear ($80M, November 2023); L'Epée 1839 Swiss clocks (June 2024). Additional investments: Aimé Leon Dore minority stake (January 2022, via LVMH Luxury Ventures); Pedemonte Group jewellery (November 2022); Château Minuty rosé (2023); La Joux-Perret watchmaker minority stake (November 2025). September 2025: Giorgio Armani's will named LVMH as preferred buyer of up to 54.9% of Armani over three to five years (initial 15% stake within 18 months of September 2025).
 
-Fenty (Rihanna): launched by LVMH in Paris, May 2019 — the first new LVMH fashion house in 32 years and the first headed by a woman of colour. Stella McCartney partnership announced July 2019.
+Fenty (Rihanna): launched by LVMH in Paris, May 2019 - the first new LVMH fashion house in 32 years and the first headed by a woman of colour. Stella McCartney partnership announced July 2019.
 
 ## Products
 
@@ -89,7 +90,7 @@ LVMH is the holding company for several of the most commercially significant sur
 
 **Louis Vuitton monogram**: The LV interlocking monogram on toile canvas is one of the most globally reproduced and legally protected graphic surface patterns in luxury goods. Applied across handbags, luggage, accessories, and apparel. The pattern's licensing and enforcement is central to Louis Vuitton's commercial identity.
 
-**Emilio Pucci**: LVMH's most directly print-identified fashion house. Pucci is internationally known for kaleidoscopic, geometric, and abstract multicolour prints applied to women's RTW, swimwear, and accessories — a surface pattern identity as defining as any brand in the luxury sector.
+**Emilio Pucci**: LVMH's most directly print-identified fashion house. Pucci is internationally known for kaleidoscopic, geometric, and abstract multicolour prints applied to women's RTW, swimwear, and accessories - a surface pattern identity as defining as any brand in the luxury sector.
 
 **Kenzo**: Kenzo Takada's founding identity was built on bold botanical prints, floral all-overs, and graphic nature-inspired patterns in women's and men's RTW. Under LVMH ownership, Kenzo has continued as a print-forward house. Kenzo's collaboration with H&M (November 2016) brought the brand's bold graphic print vocabulary to mass retail.
 
@@ -99,7 +100,7 @@ LVMH is the holding company for several of the most commercially significant sur
 
 **Louis Vuitton artist collaborations**: Louis Vuitton has an extensive documented history of collaborating with artists on bag surface design (Takashi Murakami's monogram multicolore; Yayoi Kusama polka dot patterns; others). These are not documented in the immediate source material but are contextually established in the Louis Vuitton subsidiary brand.
 
-**LVMH Young Fashion Designer Prize (from 2013)**: €300,000 grant with a year of mentoring. Documented winners include Thomas Tait (2014), Marques'Almeida (2015), and Thebe Magugu (2019, first African winner). The prize supports emerging fashion designers — including those working in print and surface design. LVMH also supports ANDAM (France), the Hyères International Festival of Fashion and Photography, and a scholarship programme at Central Saint Martins.
+**LVMH Young Fashion Designer Prize (from 2013)**: €300,000 grant with a year of mentoring. Documented winners include Thomas Tait (2014), Marques'Almeida (2015), and Thebe Magugu (2019, first African winner). The prize supports emerging fashion designers - including those working in print and surface design. LVMH also supports ANDAM (France), the Hyères International Festival of Fashion and Photography, and a scholarship programme at Central Saint Martins.
 
 ## Official Resources
 

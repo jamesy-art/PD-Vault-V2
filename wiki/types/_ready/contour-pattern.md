@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 91
 ---
 
 # Contour Pattern
@@ -121,7 +122,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/contour-pattern/profile/contour-pattern-image.svg)
-Surface pattern referencing the visual language of contour lines — either topographic map lines connecting points of equal elevation, or contour drawing techniques that define form through outline. Both translate into linear compositions with a layered, structural quality that suggests depth.
+Surface pattern referencing the visual language of contour lines - either topographic map lines connecting points of equal elevation, or contour drawing techniques that define form through outline. Both translate into linear compositions with a layered, structural quality that suggests depth.
 
 ## Overview
 
@@ -129,7 +130,7 @@ Contour patterns draw from two distinct visual traditions sharing the same vocab
 
 ## Visual Characteristics
 
-Topographic-derived contour patterns feature curved parallel lines of consistent weight that flow and converge across the design surface, condensing toward an implied peak and spreading toward flatter areas. The lines suggest three-dimensional landscape read in two dimensions. Contour drawing-inspired patterns use outline-based forms — shapes defined by their edges rather than by fill or shading. Cross-contour applications produce wireframe-like compositions that travel across the surface of a form to emphasise its volume.
+Topographic-derived contour patterns feature curved parallel lines of consistent weight that flow and converge across the design surface, condensing toward an implied peak and spreading toward flatter areas. The lines suggest three-dimensional landscape read in two dimensions. Contour drawing-inspired patterns use outline-based forms - shapes defined by their edges rather than by fill or shading. Cross-contour applications produce wireframe-like compositions that travel across the surface of a form to emphasise its volume.
 
 ## Pattern Structure
 
@@ -145,13 +146,13 @@ Contour patterns are predominantly linear and layered. Topographic patterns use 
 
 ## Colour and Style
 
-Topographic-style patterns often use monochrome or two-tone treatments — single line colour on a contrasting ground — reflecting the functional clarity of cartographic originals. Multi-colour gradients evoking hypsometric tinting (elevation bands in distinct colours) provide a more complex colourway option. Both approaches suit a clean, technical aesthetic. Contour drawing-derived patterns suit bold graphic colourways or fine monochromatic line work.
+Topographic-style patterns often use monochrome or two-tone treatments - single line colour on a contrasting ground - reflecting the functional clarity of cartographic originals. Multi-colour gradients evoking hypsometric tinting (elevation bands in distinct colours) provide a more complex colourway option. Both approaches suit a clean, technical aesthetic. Contour drawing-derived patterns suit bold graphic colourways or fine monochromatic line work.
 
 ## History and Context
 
 The cartographic contour line as a visual convention developed across several centuries. The oldest known isobath (constant-depth line) appears on a map of the river Spaarne near Haarlem, by Dutchman Pieter Bruinsz, dated 1584. Edmond Halley used related isogon lines on a chart of magnetic variation in 1701. By around 1843, when the Ordnance Survey began regularly recording topographic contour lines in Great Britain and Ireland, the visual grammar of contour mapping was fully established in European cartography.
 
-In visual art, contour drawing — defining form purely through outline — is a foundational practice in life drawing and illustration. Blind contour (drawing without looking at the paper) and cross-contour (lines that travel across a form to suggest its three-dimensional volume) are standard exercises in drawing education.
+In visual art, contour drawing - defining form purely through outline - is a foundational practice in life drawing and illustration. Blind contour (drawing without looking at the paper) and cross-contour (lines that travel across a form to suggest its three-dimensional volume) are standard exercises in drawing education.
 
 The topographic map aesthetic entered surface pattern and graphic design as a vocabulary for evoking landscape, technical drawing, or structural depth.
 
@@ -165,14 +166,14 @@ The topographic map aesthetic entered surface pattern and graphic design as a vo
 
 ## Related Pattern Types
 
-- [[Linear Pattern]]
-- [[Geometric Pattern]]
-- [[Abstract Pattern]]
-- [[Map Pattern]]
+- Linear Pattern
+- Geometric Pattern
+- Abstract Pattern
+- Map Pattern
 
 ## Source Notes
 
-Sources: Contour Pattern 2.md (general definition: cartographic and art/design applications), Contour Pattern.md (Wikipedia — Contour line; cartographic history and graphical design sections used; meteorology, oceanography, geology, economics, statistics, and physics sections excluded as out of scope)
+Sources: Contour Pattern 2.md (general definition: cartographic and art/design applications), Contour Pattern.md (Wikipedia - Contour line; cartographic history and graphical design sections used; meteorology, oceanography, geology, economics, statistics, and physics sections excluded as out of scope)
 
 ## Editorial Images
 

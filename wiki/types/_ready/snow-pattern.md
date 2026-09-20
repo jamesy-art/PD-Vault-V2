@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 3
 ---
 
 # Snow Pattern
@@ -121,15 +122,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/snow-pattern/profile/snow-pattern-image.svg)
-A seasonal surface pattern category based on snowflake forms and winter precipitation imagery — defined by the snowflake's distinctive sixfold symmetry and the aesthetic of frozen, crystalline structures.
+A seasonal surface pattern category based on snowflake forms and winter precipitation imagery - defined by the snowflake's distinctive sixfold symmetry and the aesthetic of frozen, crystalline structures.
 
 ## Overview
 
-Snow patterns in surface pattern design are primarily driven by the snowflake motif and its variants. The snowflake is one of the most geometrically distinctive natural forms — its strict sixfold symmetry, intricate branching, and infinite variation within a fixed structural rule make it an enduringly rich source for surface pattern. Snow patterns are strongly seasonal, with commercial demand concentrated in autumn/winter product ranges, Christmas collections, and winter homeware.
+Snow patterns in surface pattern design are primarily driven by the snowflake motif and its variants. The snowflake is one of the most geometrically distinctive natural forms - its strict sixfold symmetry, intricate branching, and infinite variation within a fixed structural rule make it an enduringly rich source for surface pattern. Snow patterns are strongly seasonal, with commercial demand concentrated in autumn/winter product ranges, Christmas collections, and winter homeware.
 
 ## Visual Characteristics
 
-The defining visual characteristics of snowflake-based patterns are: sixfold (hexagonal) rotational symmetry; intricate branching structures; and high contrast, typically rendered in white or pale blue against a dark or coloured ground. The motif can be executed at varying levels of detail — from simplified six-pointed stars through to highly detailed crystallographic forms replicating actual snow crystal structures. Multiple snowflakes at different scales can be combined in scatter layouts.
+The defining visual characteristics of snowflake-based patterns are: sixfold (hexagonal) rotational symmetry; intricate branching structures; and high contrast, typically rendered in white or pale blue against a dark or coloured ground. The motif can be executed at varying levels of detail - from simplified six-pointed stars through to highly detailed crystallographic forms replicating actual snow crystal structures. Multiple snowflakes at different scales can be combined in scatter layouts.
 
 ## Pattern Structure
 
@@ -150,12 +151,12 @@ Supporting motifs in snow-adjacent pattern design include: frost window patterns
 ## Colour and Style
 
 Snow patterns are strongly associated with a limited colour range:
-- **White/silver on navy or dark blue** — the most classic snowflake palette
-- **White on black** — graphic, high-contrast
-- **Ice blue on white** — delicate, winter-cold
-- **White and silver on deep red or forest green** — Christmas-adjacent
+- **White/silver on navy or dark blue** - the most classic snowflake palette
+- **White on black** - graphic, high-contrast
+- **Ice blue on white** - delicate, winter-cold
+- **White and silver on deep red or forest green** - Christmas-adjacent
 
-Simplified, geometric snowflake motifs translate into more graphic, contemporary aesthetics. Highly detailed crystallographic forms are associated with more craft-inspired, naturalistic winter design. Snow crystal art — notably the work of Wilson Bentley ("Snowflake Bentley") and contemporary snow photographers such as Nathan Hinrichsen — has fed directly into pattern design by providing accurate reference for real snow crystal structures.
+Simplified, geometric snowflake motifs translate into more graphic, contemporary aesthetics. Highly detailed crystallographic forms are associated with more craft-inspired, naturalistic winter design. Snow crystal art - notably the work of Wilson Bentley ("Snowflake Bentley") and contemporary snow photographers such as Nathan Hinrichsen - has fed directly into pattern design by providing accurate reference for real snow crystal structures.
 
 ## History and Context
 
@@ -166,19 +167,19 @@ The science of snow crystal morphology was established in the late 19th and earl
 - **Seasonal/Christmas home textiles:** bedding, cushions, tablecloths, and towels in winter collections
 - **Wallpaper:** winter feature walls, Christmas seasonal wallpaper
 - **Gift wrap and stationery:** Christmas and winter celebration categories
-- **Fashion:** winter accessories (scarves, jumpers, knitwear — the snowflake in knitwear is a direct reference to Nordic and Fair Isle textile traditions)
+- **Fashion:** winter accessories (scarves, jumpers, knitwear - the snowflake in knitwear is a direct reference to Nordic and Fair Isle textile traditions)
 - **Childrenswear:** snowflake scatter prints for winter babywear and clothing
 
 ## Related Pattern Types
 
-- [[Symmetry Pattern]] — snowflakes are a natural example of sixfold rotational symmetry
-- [[Radial Pattern]] — snowflakes are a radial design built around a central point
-- [[Geometric Pattern]] — simplified snowflake forms are geometric patterns
+- Symmetry Pattern - snowflakes are a natural example of sixfold rotational symmetry
+- Radial Pattern - snowflakes are a radial design built around a central point
+- Geometric Pattern - simplified snowflake forms are geometric patterns
 
 ## Source Notes
 
-- Wikipedia, "Snowflake" — snow crystal types (stellar plates/dendrites/fernlike/sectored plates/hollow columns/needles), sixfold symmetry, Wilson Bentley, physical structure
-- SPD notes — Nathan Hinrichsen snow art; seasonal pattern applications
+- Wikipedia, "Snowflake" - snow crystal types (stellar plates/dendrites/fernlike/sectored plates/hollow columns/needles), sixfold symmetry, Wilson Bentley, physical structure
+- SPD notes - Nathan Hinrichsen snow art; seasonal pattern applications
 
 ## Editorial Images
 

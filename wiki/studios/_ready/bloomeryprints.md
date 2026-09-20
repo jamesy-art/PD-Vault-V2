@@ -47,6 +47,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 534
 ---
 # Bloomery Prints
 
@@ -82,7 +83,7 @@ Bloomery Prints is a Netherlands-based surface pattern and textile design studio
 
 ## Studio Style and Aesthetic
 
-The studio’s aesthetic centres on a vintage and bohemian luxe sensibility. The collection spans hand-painted florals, intricate paisley motifs, watercolour tropical compositions, digital collages, and abstract artwork — a range positioned for brands seeking artisanal and distinctive print work with a rich, feminine character.
+The studio’s aesthetic centres on a vintage and bohemian luxe sensibility. The collection spans hand-painted florals, intricate paisley motifs, watercolour tropical compositions, digital collages, and abstract artwork - a range positioned for brands seeking artisanal and distinctive print work with a rich, feminine character.
 
 ## Markets and Specialties
 

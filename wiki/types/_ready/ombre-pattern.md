@@ -91,6 +91,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 23
 ---
 
 # Ombré Pattern
@@ -98,7 +99,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/ombre-pattern/profile/ombre-pattern-image.svg)
-A surface pattern or dyeing technique producing a gradual transition from one colour or tonal value to another — from light to dark, from one hue to a second, or from saturated to neutral.
+A surface pattern or dyeing technique producing a gradual transition from one colour or tonal value to another - from light to dark, from one hue to a second, or from saturated to neutral.
 
 ## Overview
 
@@ -106,15 +107,15 @@ Ombré (from French, meaning "shaded") describes any design or dyeing technique 
 
 In surface pattern design, ombré applies both as a standalone design technique (the entire fabric or wallpaper is the ombré gradient) and as a compositional element within more complex patterns (ombré backgrounds behind repeat motifs, or ombré colouring applied to individual motif elements). It functions as a colour technique rather than a motif type.
 
-Sombré — a softer, more gradual version — is occasionally distinguished from the more dramatic ombré transition.
+Sombré - a softer, more gradual version - is occasionally distinguished from the more dramatic ombré transition.
 
 ## Visual Characteristics
 
 Ombré patterns are identified by:
 
 - **Continuous colour transition:** No hard edge; the shift between zones is perceived as smooth
-- **Directionality:** Most ombré transitions read along a clear axis — horizontal (top to bottom or bottom to top), vertical (left to right), or diagonal
-- **Atmospheric quality:** The gradual fade creates a sense of depth, light, or atmosphere — horizon effects, sunrise/sunset associations, underwater depth
+- **Directionality:** Most ombré transitions read along a clear axis - horizontal (top to bottom or bottom to top), vertical (left to right), or diagonal
+- **Atmospheric quality:** The gradual fade creates a sense of depth, light, or atmosphere - horizon effects, sunrise/sunset associations, underwater depth
 - **Scale independence:** Works at all scales from a garment panel to a full wall
 
 In fabric printing, "rainbowed" blocks (graduated printing blocks) were used in the early 19th century to achieve ombré effects mechanically; modern digital printing makes precise ombré transitions straightforward.
@@ -153,7 +154,7 @@ Any colour combination can produce an ombré effect. Common commercial applicati
 
 The ombré effect in fashion and textiles has been in use since at least the early 19th century. A block-printed cotton wedding dress at the Victoria and Albert Museum (1841) demonstrates the technique. The V&A collection also holds a machine-embroidered trimming from 1853 where ombré was achieved by dyeing embroidery threads in graded colours.
 
-Ombré as a textile treatment came back into fashion around 1840 and remained popular throughout the 19th century. In the early 21st century, ombré hair colouring became a mainstream consumer trend (associated with celebrity adoption from approximately 2000–2010), which contributed to renewed commercial interest in ombré effects across beauty, fashion, and homeware product categories.
+Ombré as a textile treatment came back into fashion around 1840 and remained popular throughout the 19th century. In the early 21st century, ombré hair colouring became a mainstream consumer trend (associated with celebrity adoption from approximately 2000-2010), which contributed to renewed commercial interest in ombré effects across beauty, fashion, and homeware product categories.
 
 In contemporary interior design, ombré wall painting and tile gradients (as in David Kohn Architects' Carrer Avinyó apartment, Barcelona, with encaustic tiles grading from green to red) represent the technique's extension beyond textiles.
 
@@ -168,11 +169,11 @@ In contemporary interior design, ombré wall painting and tile gradients (as in 
 
 ## Related Pattern Types
 
-- [[Gradient Pattern]] — technical near-synonym; gradient is the computational/design tool term; ombré the textile/fashion term
-- [[Wash Pattern]] — related technique; watercolour wash creates informal ombré-like gradients
-- [[Dip Dye Pattern]] — practical technique producing ombré through physical dye immersion
-- [[Colour Block Pattern]] — structural opposite; colour block uses hard edges where ombré uses gradual transitions
-- [[Stripe Pattern]] — ombré is often applied to stripe structures
+- Gradient Pattern - technical near-synonym; gradient is the computational/design tool term; ombré the textile/fashion term
+- Wash Pattern - related technique; watercolour wash creates informal ombré-like gradients
+- Dip Dye Pattern - practical technique producing ombré through physical dye immersion
+- Colour Block Pattern - structural opposite; colour block uses hard edges where ombré uses gradual transitions
+- Stripe Pattern - ombré is often applied to stripe structures
 
 ## Source Notes
 

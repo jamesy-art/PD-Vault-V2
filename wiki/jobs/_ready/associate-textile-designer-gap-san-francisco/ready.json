@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-da8e3330417838a4",
+  "editorial_slug": "associate-textile-designer-gap-san-francisco",
+  "canonical_id": "can-clip-da8e3330417838a4",
+  "capture_id": "cap-clip-da8e3330417838a4",
+  "ready_status": "ready",
+  "ready_at": "2026-08-06T00:00:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.d5b690fc",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "d5b690fc5775e24e469774415237caff20b504ec34d14ec0834367005282eb86",
+  "title": "Associate Textile Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 4,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 4,
+    "rewritten_wikilinks": 0
+  }
+}

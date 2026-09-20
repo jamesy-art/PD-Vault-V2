@@ -1,5 +1,5 @@
 ---
-name: spaceship-pattern
+name: Spaceship Pattern
 slug: spaceship-pattern
 status: draft
 type_group: general
@@ -59,13 +59,13 @@ gallery_images:
     sort_order: 1
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_43582946.htm"
-      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150447099.jpg"
+      page_url: https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_43582946.htm
+      image_url: https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150447099.jpg
       title: Hand drawn space pattern design
       description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: spaceship-pattern-2-pattern-designers.jpg
     title: Hand drawn space pattern design
     alt: Hand drawn space pattern design
@@ -74,13 +74,13 @@ gallery_images:
     sort_order: 2
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184790.htm"
-      image_url: "https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150493449.jpg"
+      page_url: https://www.magnific.com/free-vector/hand-drawn-space-pattern-design_45184790.htm
+      image_url: https://img.magnific.com/free-vector/hand-drawn-space-pattern-design_23-2150493449.jpg
       title: Hand drawn space pattern design
       description: Download this free vector of Hand drawn space pattern design and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: spaceship-pattern-3-pattern-designers.jpg
     title: Space adventure seamless pattern
     alt: Space adventure seamless pattern
@@ -89,13 +89,13 @@ gallery_images:
     sort_order: 3
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/space-adventure-seamless-pattern_359359632.htm"
-      image_url: "https://img.magnific.com/free-vector/space-adventure-seamless-pattern_1308-175057.jpg"
+      page_url: https://www.magnific.com/free-vector/space-adventure-seamless-pattern_359359632.htm
+      image_url: https://img.magnific.com/free-vector/space-adventure-seamless-pattern_1308-175057.jpg
       title: Space adventure seamless pattern
       description: Download this free vector of Space adventure seamless pattern and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: spaceship-pattern-4-pattern-designers.jpg
     title: Space pattern design
     alt: Space pattern design
@@ -104,13 +104,14 @@ gallery_images:
     sort_order: 4
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/space-pattern-design_1013704.htm"
-      image_url: "https://img.magnific.com/free-vector/space-pattern-design_1284-850.jpg"
+      page_url: https://www.magnific.com/free-vector/space-pattern-design_1013704.htm
+      image_url: https://img.magnific.com/free-vector/space-pattern-design_1284-850.jpg
       title: Space pattern design
       description: Download this free vector of Space pattern design and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
+marketing_order: 140
 ---
 
 # spaceship-pattern
@@ -122,11 +123,11 @@ A novelty/conversational motif category built from spacecraft silhouettes and sp
 
 ## Overview
 
-Spaceship pattern uses the recognisable silhouettes of real spacecraft — capsules, spaceplanes, rockets, satellites, and space stations — as a repeating decorative motif. The source material is a general technical reference on spacecraft engineering rather than a design or textile source, so this page is limited to the visual vocabulary of spacecraft forms that the source documents; it does not address how this vocabulary is used in surface pattern design in practice.
+Spaceship pattern uses the recognisable silhouettes of real spacecraft - capsules, spaceplanes, rockets, satellites, and space stations - as a repeating decorative motif. The source material is a general technical reference on spacecraft engineering rather than a design or textile source, so this page is limited to the visual vocabulary of spacecraft forms that the source documents; it does not address how this vocabulary is used in surface pattern design in practice.
 
 ## Visual Characteristics
 
-Spacecraft forms documented in the source fall into a few distinct silhouette families: **space capsules** (blunt, rounded, no wings — e.g. Vostok, Soyuz, Apollo, Orion), **spaceplanes** (winged, aircraft-like silhouettes — e.g. the Space Shuttle orbiter, Buran, SpaceShipTwo), **rockets and boosters** (tall cylindrical stacks with fins or nose cones), and **satellites/space stations** (modular, angular structures with extended solar panel arrays, such as the International Space Station or Hubble Space Telescope). This gives the motif category a varied but immediately legible set of shapes — rounded capsules, sleek winged forms, and angular hardware — that read clearly at small scale.
+Spacecraft forms documented in the source fall into a few distinct silhouette families: **space capsules** (blunt, rounded, no wings - e.g. Vostok, Soyuz, Apollo, Orion), **spaceplanes** (winged, aircraft-like silhouettes - e.g. the Space Shuttle orbiter, Buran, SpaceShipTwo), **rockets and boosters** (tall cylindrical stacks with fins or nose cones), and **satellites/space stations** (modular, angular structures with extended solar panel arrays, such as the International Space Station or Hubble Space Telescope). This gives the motif category a varied but immediately legible set of shapes - rounded capsules, sleek winged forms, and angular hardware - that read clearly at small scale.
 
 ## Pattern Structure
 
@@ -147,7 +148,7 @@ Not addressed by the source. Real spacecraft liveries mentioned include a bright
 
 ## History and Context
 
-The source traces the real history of spaceflight technology (Sputnik 1 in 1957, Vostok 1 in 1961, the Space Shuttle 1981–2011, and current vehicles such as SpaceX Dragon 2 and Starship) but does not address when or how spacecraft imagery entered decorative or surface pattern design. Any claim about the motif's design history would be speculative and is omitted.
+The source traces the real history of spaceflight technology (Sputnik 1 in 1957, Vostok 1 in 1961, the Space Shuttle 1981-2011, and current vehicles such as SpaceX Dragon 2 and Starship) but does not address when or how spacecraft imagery entered decorative or surface pattern design. Any claim about the motif's design history would be speculative and is omitted.
 
 ## Surface Pattern Uses
 
@@ -155,11 +156,11 @@ Not documented in the source. The source is a technical/historical account of sp
 
 ## Related Pattern Types
 
-[[Star Pattern]], [[Astrology Pattern]]
+Star Pattern, Astrology Pattern
 
 ## Source Notes
 
-- Source: Wikipedia, "Spacecraft" — a technical engineering and history reference (crewed/uncrewed spacecraft types, subsystems, launch history). No surface pattern, textile, or decorative design content; used here only to ground the visual vocabulary of real spacecraft shapes (capsule, spaceplane, rocket, satellite, station) referenced in Visual Characteristics and Common Motifs.
+- Source: Wikipedia, "Spacecraft" - a technical engineering and history reference (crewed/uncrewed spacecraft types, subsystems, launch history). No surface pattern, textile, or decorative design content; used here only to ground the visual vocabulary of real spacecraft shapes (capsule, spaceplane, rocket, satellite, station) referenced in Visual Characteristics and Common Motifs.
 
 ## Editorial Images
 

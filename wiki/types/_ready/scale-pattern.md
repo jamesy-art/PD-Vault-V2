@@ -109,6 +109,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 148
 ---
 
 # Scale Pattern
@@ -116,11 +117,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/scale-pattern/profile/scale-pattern-image.svg)
-In surface pattern design, "scale" refers to the relative size of a pattern's motifs in relation to the surface they occupy — a critical technical and commercial variable that determines print legibility, product suitability, and repeat construction.
+In surface pattern design, "scale" refers to the relative size of a pattern's motifs in relation to the surface they occupy - a critical technical and commercial variable that determines print legibility, product suitability, and repeat construction.
 
 ## Overview
 
-Scale is one of the most practically significant decisions a surface pattern designer makes. The same motif at different sizes can suit entirely different markets, product categories, and production contexts. Understanding how scale reads across different product dimensions and print processes is a core technical competency in the field. Scale also affects how a pattern tiles — a very large-scale repeat may show only one partial motif on a small product, while a small-scale repeat may appear muddy at full wallpaper-panel size.
+Scale is one of the most practically significant decisions a surface pattern designer makes. The same motif at different sizes can suit entirely different markets, product categories, and production contexts. Understanding how scale reads across different product dimensions and print processes is a core technical competency in the field. Scale also affects how a pattern tiles - a very large-scale repeat may show only one partial motif on a small product, while a small-scale repeat may appear muddy at full wallpaper-panel size.
 
 ## Visual Characteristics
 
@@ -135,14 +136,14 @@ A small-scale pattern reads as a texture from a distance; a large-scale pattern 
 
 Scale categories across the surface pattern design industry are typically described as:
 - **Small / ditsy:** motifs under approximately 1 inch; reads as texture from a distance
-- **Medium:** motifs approximately 1–4 inches; commercially flexible, works well across most products
+- **Medium:** motifs approximately 1-4 inches; commercially flexible, works well across most products
 - **Large / XL:** motifs over approximately 4 inches; requires careful consideration of how the repeat lands on a specific product
 
 Spoonflower uses a standard print width of 24 inches as its base reference for scale planning, which has become a common industry reference point for print-on-demand design. Repeat size must always be considered in relation to the end product.
 
 ## Common Motifs
 
-Scale is motif-agnostic — any design element can be interpreted at small, medium, or large scale. However, certain motif types are conventionally associated with specific scale ranges: ditsy scale is typical for scattered florals and polka dots; large scale is associated with statement tropical leaves, bold graphic shapes, and hero botanical motifs.
+Scale is motif-agnostic - any design element can be interpreted at small, medium, or large scale. However, certain motif types are conventionally associated with specific scale ranges: ditsy scale is typical for scattered florals and polka dots; large scale is associated with statement tropical leaves, bold graphic shapes, and hero botanical motifs.
 
 ## Colour and Style
 
@@ -150,7 +151,7 @@ Scale affects colour perception. Small-scale patterns at high colour contrast ca
 
 ## History and Context
 
-Major brands have built recognisable identities around scale choices. [[raw/companies processed/Marimekko]] is internationally associated with large-scale, bold repeat patterns — a deliberate design philosophy that distinguishes its product across markets. At the commercial childrenswear end, brands such as Carter's use small-scale scattered prints because they read clearly on small garment pieces and avoid fabric-matching costs. [[IKEA]] and H&M Home deploy scale-conscious pattern decisions across their product ranges, recognising that scale affects how patterns read at both point-of-sale and in-situ.
+Major brands have built recognisable identities around scale choices. raw/companies processed/Marimekko is internationally associated with large-scale, bold repeat patterns - a deliberate design philosophy that distinguishes its product across markets. At the commercial childrenswear end, brands such as Carter's use small-scale scattered prints because they read clearly on small garment pieces and avoid fabric-matching costs. IKEA and H&M Home deploy scale-conscious pattern decisions across their product ranges, recognising that scale affects how patterns read at both point-of-sale and in-situ.
 
 ## Surface Pattern Uses
 
@@ -163,13 +164,13 @@ Scale decisions are relevant across all product categories:
 
 ## Related Pattern Types
 
-- [[Random Pattern]] — scale variation is a key technique in constructing convincing random scatter layouts
-- [[Seamless Pattern]] — scale directly affects how seamless patterns tile and repeat
-- [[Stripe Pattern]] — stripe width is a fundamental scale variable in stripe pattern design
+- Random Pattern - scale variation is a key technique in constructing convincing random scatter layouts
+- Seamless Pattern - scale directly affects how seamless patterns tile and repeat
+- Stripe Pattern - stripe width is a fundamental scale variable in stripe pattern design
 
 ## Source Notes
 
-- SPD-focused notes — Spoonflower 24" reference width, small/medium/XL scale categories, Marimekko, Carter's, H&M, IKEA examples
+- SPD-focused notes - Spoonflower 24" reference width, small/medium/XL scale categories, Marimekko, Carter's, H&M, IKEA examples
 
 ## Editorial Images
 

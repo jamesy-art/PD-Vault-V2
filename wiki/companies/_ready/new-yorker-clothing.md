@@ -56,6 +56,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 57
 ---
 
 # New Yorker (clothing)
@@ -99,15 +100,15 @@ Mid-market European fashion retailer with strong presence across Central and Eas
 
 ## Pattern and Surface Design Relevance
 
-New Yorker's SPD relevance is grounded in its scale as a distribution channel for casual fashion across a wide European and MENA geography, and its origins in denim — the foundational surface design category of 20th-century casual fashion:
+New Yorker's SPD relevance is grounded in its scale as a distribution channel for casual fashion across a wide European and MENA geography, and its origins in denim - the foundational surface design category of 20th-century casual fashion:
 
 **Denim origin**: New Yorker began as a jeans shop in 1971 (SHK-Jeans GmbH). Denim is among the most extensively designed-surface products in mass-market fashion: wash, distress, overdye, embroidery, print, and finish are all surface design variables applied to a single fabric type. The company's transition from a denim specialist to a general fashion retailer traces the broader movement of graphic and printed casual fashion from specialist to mainstream retail.
 
 **Scale and distribution reach**: 1,150 branches in 47 countries represents a documented distribution network for casual fashion across Europe, MENA, and Central Asia. Fashion at this scale is a high-volume distribution channel for printed textiles, graphic garments, and trend-driven surface pattern in clothing.
 
-**Urban culture alignment**: New Yorker's sponsorship of the Battle of the Year (international b-boy competition) documents a clear brand alignment with hip-hop culture, streetwear, and urban fashion — a market segment in which graphic prints, logo-heavy design, and bold surface pattern are foundational product characteristics.
+**Urban culture alignment**: New Yorker's sponsorship of the Battle of the Year (international b-boy competition) documents a clear brand alignment with hip-hop culture, streetwear, and urban fashion - a market segment in which graphic prints, logo-heavy design, and bold surface pattern are foundational product characteristics.
 
-**0% transparency rating**: The Fashion Revolution score of 0% (2021) reflects that New Yorker provides no publicly available supply chain information. For a company of this scale, the sourcing geography and production chain for its textiles is entirely undisclosed — relevant context for any assessment of its fabric and surface design supply chain.
+**0% transparency rating**: The Fashion Revolution score of 0% (2021) reflects that New Yorker provides no publicly available supply chain information. For a company of this scale, the sourcing geography and production chain for its textiles is entirely undisclosed - relevant context for any assessment of its fabric and surface design supply chain.
 
 ## Official Resources
 

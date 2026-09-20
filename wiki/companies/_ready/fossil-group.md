@@ -44,6 +44,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 239
 ---
 
 # Fossil Group
@@ -72,7 +73,7 @@ Watches (primary), leather goods (introduced 1990), and accessories. The group's
 
 ## Services
 
-Fossil operates its own branded stores (including the Oxford Street, London location) alongside department store and wholesale channels. The licensed accessories model means the group functions as a design-and-manufacture partner for brands that do not produce accessories in-house — a common structure in the fashion accessories industry. Licensed brand partnerships generate design briefs that require matching another house's pattern and graphic language precisely.
+Fossil operates its own branded stores (including the Oxford Street, London location) alongside department store and wholesale channels. The licensed accessories model means the group functions as a design-and-manufacture partner for brands that do not produce accessories in-house - a common structure in the fashion accessories industry. Licensed brand partnerships generate design briefs that require matching another house's pattern and graphic language precisely.
 
 ## Markets
 
@@ -80,9 +81,9 @@ Mid-market fashion accessories with a licensing reach extending across premium a
 
 ## Pattern and Surface Design Relevance
 
-Fossil's product design relies heavily on surface treatments: patterned and embossed leather straps and goods, graphic case engravings, printed tin packaging, and visual dial composition. The brand's retro aesthetic — central to its identity since the 1980s — draws on vintage-inspired graphics applied to both product surfaces and packaging.
+Fossil's product design relies heavily on surface treatments: patterned and embossed leather straps and goods, graphic case engravings, printed tin packaging, and visual dial composition. The brand's retro aesthetic - central to its identity since the 1980s - draws on vintage-inspired graphics applied to both product surfaces and packaging.
 
-The licensed accessories business requires in-house designers to translate each licensor's established brand aesthetic — including print, graphic, and colour vocabularies from labels such as Michael Kors, Kate Spade, and DKNY — into watch and accessories design. This makes Fossil a high-volume context for brand-aligned surface pattern and graphic application across fashion accessories.
+The licensed accessories business requires in-house designers to translate each licensor's established brand aesthetic - including print, graphic, and colour vocabularies from labels such as Michael Kors, Kate Spade, and DKNY - into watch and accessories design. This makes Fossil a high-volume context for brand-aligned surface pattern and graphic application across fashion accessories.
 
 ## Official Resources
 

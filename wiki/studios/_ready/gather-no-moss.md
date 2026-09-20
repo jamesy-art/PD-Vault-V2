@@ -47,6 +47,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 543
 ---
 # Gather No Moss
 
@@ -89,7 +90,7 @@ Womenswear, menswear, kidswear, swimwear, home décor, and gifting. Seasonal col
 
 ## Techniques and Artwork Process
 
-The design team — led by Art Director Fiona White (twenty-four years experience) — produces contemporary original prints rooted in hand-rendered illustration. A globally diverse team of designers provides broad trend perspective and a wide range of handwriting styles. All artwork is supplied as high-quality digital files in production-ready formats.
+The design team - led by Art Director Fiona White (twenty-four years experience) - produces contemporary original prints rooted in hand-rendered illustration. A globally diverse team of designers provides broad trend perspective and a wide range of handwriting styles. All artwork is supplied as high-quality digital files in production-ready formats.
 
 ## Clients and Commercial Positioning
 

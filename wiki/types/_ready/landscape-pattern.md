@@ -110,6 +110,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 125
 ---
 
 # Landscape Pattern
@@ -117,11 +118,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/landscape-pattern/profile/landscape-pattern-image.svg)
-A surface pattern with a defined top and bottom that repeats only horizontally — engineered for specific orientations and applications where a fixed, non-repeating vertical composition is required.
+A surface pattern with a defined top and bottom that repeats only horizontally - engineered for specific orientations and applications where a fixed, non-repeating vertical composition is required.
 
 ## Overview
 
-A landscape pattern is defined by its structural constraint: it has a distinct top and bottom, and tiles only in the horizontal direction. Unlike conventional all-over repeating patterns (which tile in all directions), a landscape pattern is intentionally non-repeating vertically. This makes it unsuitable for applications requiring cut-anywhere fabric but ideal for fixed-dimension surfaces — panels, screens, walls, curtains, and dividers — where the full height of the pattern is visible as a single compositional unit.
+A landscape pattern is defined by its structural constraint: it has a distinct top and bottom, and tiles only in the horizontal direction. Unlike conventional all-over repeating patterns (which tile in all directions), a landscape pattern is intentionally non-repeating vertically. This makes it unsuitable for applications requiring cut-anywhere fabric but ideal for fixed-dimension surfaces - panels, screens, walls, curtains, and dividers - where the full height of the pattern is visible as a single compositional unit.
 
 The term is used by licensing libraries such as Design Pool to categorise a specific type of engineered pattern distinct from geometric (hard-edged) and organic (soft-edged, all-over) categories. The landscape pattern is the third major structural category in this classification system.
 
@@ -129,12 +130,12 @@ The term is used by licensing libraries such as Design Pool to categorise a spec
 
 Landscape patterns function as scenes or panoramas rather than as repeating motifs. Visual characteristics:
 
-- **Distinct horizon or ground plane:** A clear vertical hierarchy — sky or upper zone, middle ground, lower ground
+- **Distinct horizon or ground plane:** A clear vertical hierarchy - sky or upper zone, middle ground, lower ground
 - **Scene-like composition:** Readable as an image rather than an abstract repeat
 - **Horizontal flow:** Motifs and landscape elements continue smoothly across the horizontal tile join; seams are hidden in the panorama
 - **Vertical closure:** The top and bottom edges are finished compositions, not tile edges to be repeated
 
-Examples from the Design Pool library cited in sources include nautical scenes, safari scenes, and aquarium compositions — all panoramic illustrations designed for specific physical applications.
+Examples from the Design Pool library cited in sources include nautical scenes, safari scenes, and aquarium compositions - all panoramic illustrations designed for specific physical applications.
 
 ## Pattern Structure
 
@@ -157,13 +158,13 @@ Landscape pattern motifs are drawn from their intended application context:
 
 ## Colour and Style
 
-Landscape patterns are format-neutral with respect to palette; colour is driven by the depicted scene and intended market. Healthcare interior applications (a documented use case) tend toward calming palettes — soft greens, muted blues, warm neutral grounds. Childrenswear and residential interior applications have broader palette ranges.
+Landscape patterns are format-neutral with respect to palette; colour is driven by the depicted scene and intended market. Healthcare interior applications (a documented use case) tend toward calming palettes - soft greens, muted blues, warm neutral grounds. Childrenswear and residential interior applications have broader palette ranges.
 
 Style varies from photographic realism and detailed illustration to simplified graphic silhouette. Illustrative styles work well for privacy screens and decorative panels where the pattern is viewed at distance.
 
 ## History and Context
 
-Panoramic wallpaper — scenic wallpapers printed as continuous horizontal scenes covering full walls — has a long history in European interior design, with 18th and 19th century French manufacturers (Zuber, Dufour) producing celebrated scenic panoramic wallpapers depicting exotic landscapes. The contemporary landscape pattern category inherits this tradition while adapting it for digital printing and modular applications.
+Panoramic wallpaper - scenic wallpapers printed as continuous horizontal scenes covering full walls - has a long history in European interior design, with 18th and 19th century French manufacturers (Zuber, Dufour) producing celebrated scenic panoramic wallpapers depicting exotic landscapes. The contemporary landscape pattern category inherits this tradition while adapting it for digital printing and modular applications.
 
 ## Surface Pattern Uses
 
@@ -176,11 +177,11 @@ Panoramic wallpaper — scenic wallpapers printed as continuous horizontal scene
 
 ## Related Pattern Types
 
-- [[Directional Pattern]] — parent category for patterns with defined orientation
-- [[Mural Pattern]] — close relative; murals are typically non-repeating; landscape patterns repeat horizontally
-- [[Scenic Pattern]] — near-synonym; emphasises illustrative/pictorial content
-- [[Engineered Pattern]] — structural category for patterns designed for specific product dimensions
-- [[Panoramic Wallpaper]] — historical precedent in the scenic wallpaper tradition
+- Directional Pattern - parent category for patterns with defined orientation
+- Mural Pattern - close relative; murals are typically non-repeating; landscape patterns repeat horizontally
+- Scenic Pattern - near-synonym; emphasises illustrative/pictorial content
+- Engineered Pattern - structural category for patterns designed for specific product dimensions
+- Panoramic Wallpaper - historical precedent in the scenic wallpaper tradition
 
 ## Source Notes
 

@@ -94,6 +94,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 17
 ---
 
 # Zadig&Voltaire
@@ -113,7 +114,7 @@ enrichment_status: enriched
 
 ## Overview
 
-Zadig&Voltaire is a French fashion brand founded in Paris in 1997 by Thierry Gillier, son of André Gillier — owner and president of a major French knitwear manufacturing firm and co-founder of Lacoste. The brand produces edgy, rock-and-roll inspired fashion for women, men, and children, with a signature motif vocabulary built around skulls and angel wings. Distribution spans directly operated stores worldwide and wholesale accounts at major US department stores.
+Zadig&Voltaire is a French fashion brand founded in Paris in 1997 by Thierry Gillier, son of André Gillier - owner and president of a major French knitwear manufacturing firm and co-founder of Lacoste. The brand produces edgy, rock-and-roll inspired fashion for women, men, and children, with a signature motif vocabulary built around skulls and angel wings. Distribution spans directly operated stores worldwide and wholesale accounts at major US department stores.
 
 Cecilia Bönström served as artistic director from 2006 until January 2024, when she departed and was replaced by founder Thierry Gillier. In 2025, Thierry and Arnaud Gillier acquired the jewellery brands Maison Poiray and Aurélie Bidermann, extending the family's fashion portfolio beyond the core Zadig&Voltaire brand. Brand ambassador history includes Bella Hadid (2017), Kate Moss (Kate bag collaboration), and Paris Jackson (Fall/Winter 2025 campaign, Jack & Jim bags).
 
@@ -144,19 +145,19 @@ Zadig&Voltaire distributes through directly operated stores worldwide and wholes
 
 ## Markets
 
-Zadig&Voltaire operates in the contemporary and accessible luxury fashion segment, positioned as a Parisian rock-and-roll casualwear brand with international distribution. The US wholesale footprint — Nordstrom, Bloomingdale's, Neiman Marcus, Saks Fifth Avenue — confirms mid-to-premium positioning in American fashion retail. The brand's distinct motif vocabulary (skulls, angel wings) differentiates it within the contemporary French fashion segment. The Gillier family's 2025 acquisition of Maison Poiray and Aurélie Bidermann extends the portfolio into fine jewellery.
+Zadig&Voltaire operates in the contemporary and accessible luxury fashion segment, positioned as a Parisian rock-and-roll casualwear brand with international distribution. The US wholesale footprint - Nordstrom, Bloomingdale's, Neiman Marcus, Saks Fifth Avenue - confirms mid-to-premium positioning in American fashion retail. The brand's distinct motif vocabulary (skulls, angel wings) differentiates it within the contemporary French fashion segment. The Gillier family's 2025 acquisition of Maison Poiray and Aurélie Bidermann extends the portfolio into fine jewellery.
 
 ## Pattern and Surface Design Relevance
 
 Zadig&Voltaire's surface pattern design relevance is concentrated in its signature motif vocabulary and in the brand's use of graphic and decorative surface treatment across the ready-to-wear range.
 
-**Skull motif** — the skull is one of the brand's two defining graphic motifs, deployed systematically across clothing, accessories, and jewellery as print, embroidery, jacquard weave, embossed leather, and decorative embellishment. In commercial surface pattern design terms, the skull motif functions as a proprietary brand signature applied consistently across product categories. Zadig&Voltaire is one of the primary practitioners of the commercial skull motif in accessible luxury fashion — a segment that depends on repeated pattern application to sustain brand recognition.
+**Skull motif** - the skull is one of the brand's two defining graphic motifs, deployed systematically across clothing, accessories, and jewellery as print, embroidery, jacquard weave, embossed leather, and decorative embellishment. In commercial surface pattern design terms, the skull motif functions as a proprietary brand signature applied consistently across product categories. Zadig&Voltaire is one of the primary practitioners of the commercial skull motif in accessible luxury fashion - a segment that depends on repeated pattern application to sustain brand recognition.
 
-**Angel wing motif** — the brand's second signature motif, applied to garment surfaces via print, embroidery, and embossed textile surfaces. Wing motifs in fashion function as graphic surface design applied to fabric and accessory surfaces.
+**Angel wing motif** - the brand's second signature motif, applied to garment surfaces via print, embroidery, and embossed textile surfaces. Wing motifs in fashion function as graphic surface design applied to fabric and accessory surfaces.
 
-**Rock-and-roll visual vocabulary** — the brand's broader rock-inspired aesthetic implies graphic print, band-style typography, and music iconography applied to surfaces across the range. This decorative approach to surface pattern is a commercial differentiator in the contemporary fashion segment.
+**Rock-and-roll visual vocabulary** - the brand's broader rock-inspired aesthetic implies graphic print, band-style typography, and music iconography applied to surfaces across the range. This decorative approach to surface pattern is a commercial differentiator in the contemporary fashion segment.
 
-**Knitwear heritage** — founder Thierry Gillier's father, André Gillier, owned a major French knitwear manufacturing firm and co-founded Lacoste. This background in knit fabric and pattern production informed the Zadig&Voltaire founding context, though no operational connection between the firms is documented in the source.
+**Knitwear heritage** - founder Thierry Gillier's father, André Gillier, owned a major French knitwear manufacturing firm and co-founded Lacoste. This background in knit fabric and pattern production informed the Zadig&Voltaire founding context, though no operational connection between the firms is documented in the source.
 
 ## Official Resources
 

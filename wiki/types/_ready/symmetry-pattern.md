@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 112
 ---
 
 # Symmetry Pattern
@@ -118,11 +119,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/symmetry-pattern/profile/symmetry-pattern-image.svg)
-A surface pattern that achieves its visual effect through systematic application of one or more symmetry operations — reflection, rotation, translation, or glide reflection — to organise design elements across a surface.
+A surface pattern that achieves its visual effect through systematic application of one or more symmetry operations - reflection, rotation, translation, or glide reflection - to organise design elements across a surface.
 
 ## Overview
 
-Symmetry is the mathematical and structural foundation of all repeating surface pattern. Every seamless repeat pattern uses at least translational symmetry — the ability to shift the pattern by a fixed distance and have it look identical. More complex patterns additionally use reflection (mirror), rotation, or glide reflection symmetry to create richer visual arrangements. Understanding symmetry operations is a core competency in surface pattern construction, enabling designers to build complex patterns from simple element repetitions.
+Symmetry is the mathematical and structural foundation of all repeating surface pattern. Every seamless repeat pattern uses at least translational symmetry - the ability to shift the pattern by a fixed distance and have it look identical. More complex patterns additionally use reflection (mirror), rotation, or glide reflection symmetry to create richer visual arrangements. Understanding symmetry operations is a core competency in surface pattern construction, enabling designers to build complex patterns from simple element repetitions.
 
 ## Visual Characteristics
 
@@ -132,7 +133,7 @@ Symmetrical patterns read as balanced, ordered, and harmonious. The type of symm
 - **Translational symmetry:** the basis of all repeating patterns; creates rhythm and flow
 - **Glide reflection:** produces patterns where elements appear to alternate and shift along an axis
 
-Bilateral symmetry is described in the source as the most readily perceived by humans — faces, bodies, and natural forms with bilateral symmetry are processed as balanced and complete.
+Bilateral symmetry is described in the source as the most readily perceived by humans - faces, bodies, and natural forms with bilateral symmetry are processed as balanced and complete.
 
 ## Pattern Structure
 
@@ -159,7 +160,7 @@ Symmetry is independent of colour. The same symmetry structure can produce radic
 
 ## History and Context
 
-The systematic study and application of symmetry to surface decoration has been documented across nearly every world culture. The Alhambra in Granada (13th–14th centuries CE) is the most cited single example of comprehensive application of planar symmetry to architectural decoration — its tilework has been analysed as embodying all 17 wallpaper groups. Persian and Central Asian rug weaving developed highly sophisticated symmetry conventions based on reflected central medallions and bordered fields. M.C. Escher's 20th-century graphic work made the mathematical exploration of symmetry and tessellation widely known, and his notebooks from visits to the Alhambra document his direct debt to Islamic geometric design.
+The systematic study and application of symmetry to surface decoration has been documented across nearly every world culture. The Alhambra in Granada (13th-14th centuries CE) is the most cited single example of comprehensive application of planar symmetry to architectural decoration - its tilework has been analysed as embodying all 17 wallpaper groups. Persian and Central Asian rug weaving developed highly sophisticated symmetry conventions based on reflected central medallions and bordered fields. M.C. Escher's 20th-century graphic work made the mathematical exploration of symmetry and tessellation widely known, and his notebooks from visits to the Alhambra document his direct debt to Islamic geometric design.
 
 ## Surface Pattern Uses
 
@@ -171,14 +172,14 @@ The systematic study and application of symmetry to surface decoration has been 
 
 ## Related Pattern Types
 
-- [[Radial Pattern]] — a specific form of rotational symmetry
-- [[Geometric Pattern]] — geometric patterns are formally constructed using symmetry operations
-- [[Seamless Pattern]] — translational symmetry is the technical basis of seamless repeat construction
-- [[Tartan Pattern]] — tartan uses reflective symmetry in its sett structure
+- Radial Pattern - a specific form of rotational symmetry
+- Geometric Pattern - geometric patterns are formally constructed using symmetry operations
+- Seamless Pattern - translational symmetry is the technical basis of seamless repeat construction
+- Tartan Pattern - tartan uses reflective symmetry in its sett structure
 
 ## Source Notes
 
-- Wikipedia, "Symmetry" — reflection/rotational/translational/helical/scale symmetry types; bilateral symmetry most salient to human perception; Alhambra (all 17 wallpaper groups); Persian rugs; Navajo textiles; M.C. Escher/tessellations; batik/ikat/carpet/embroidery; quilts; Islamic geometric decoration
+- Wikipedia, "Symmetry" - reflection/rotational/translational/helical/scale symmetry types; bilateral symmetry most salient to human perception; Alhambra (all 17 wallpaper groups); Persian rugs; Navajo textiles; M.C. Escher/tessellations; batik/ikat/carpet/embroidery; quilts; Islamic geometric decoration
 
 ## Editorial Images
 

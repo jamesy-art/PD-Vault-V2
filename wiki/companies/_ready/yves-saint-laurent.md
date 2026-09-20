@@ -79,6 +79,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 140
 ---
 
 # Yves Saint Laurent
@@ -96,11 +97,11 @@ enrichment_status: enriched
 
 ## Overview
 
-Yves Saint Laurent — also trading as Saint Laurent and YSL — is a French luxury fashion house established in 1962 by designer Yves Saint Laurent and his partner Pierre Bergé. The house's logos were designed in 1963 by A.M. Cassandre. During the 1960s and 1970s, YSL pioneered luxury ready-to-wear with the 1966 launch of *Rive Gauche* — widely credited as the first luxury RTW concept from a couture house — introduced *Le Smoking* (the women's tuxedo), and produced a sustained series of art homage collections that applied fine art motifs directly onto garment surfaces.
+Yves Saint Laurent - also trading as Saint Laurent and YSL - is a French luxury fashion house established in 1962 by designer Yves Saint Laurent and his partner Pierre Bergé. The house's logos were designed in 1963 by A.M. Cassandre. During the 1960s and 1970s, YSL pioneered luxury ready-to-wear with the 1966 launch of *Rive Gauche* - widely credited as the first luxury RTW concept from a couture house - introduced *Le Smoking* (the women's tuxedo), and produced a sustained series of art homage collections that applied fine art motifs directly onto garment surfaces.
 
-The house was sold to Sanofi in 1993 and acquired by Kering in 1999. Creative directors have included Tom Ford (2000–2004), Stefano Pilati (2005–2011), Hedi Slimane (2012–2016, who rebranded RTW as "Saint Laurent"), and Anthony Vaccarello (2016–present). Yves Saint Laurent died in 2008. YSL Beauty is separately operated by L'Oréal. The house reported €2.9 billion in revenue in 2024 and operates 282 boutiques across 48 countries.
+The house was sold to Sanofi in 1993 and acquired by Kering in 1999. Creative directors have included Tom Ford (2000-2004), Stefano Pilati (2005-2011), Hedi Slimane (2012-2016, who rebranded RTW as "Saint Laurent"), and Anthony Vaccarello (2016-present). Yves Saint Laurent died in 2008. YSL Beauty is separately operated by L'Oréal. The house reported €2.9 billion in revenue in 2024 and operates 282 boutiques across 48 countries.
 
-Art-informed and historically referential. YSL's print identity is built on sustained art world cross-pollination — Mondrian geometric blocks, Matisse-derived florals and figurals, painterly surface graphics — interpreted through successive creative directors. Hedi Slimane shifted toward rock subculture references; Anthony Vaccarello has positioned the house toward overtly sensual luxury. Surface design operates at the level of editorial statement rather than commercial print volume.
+Art-informed and historically referential. YSL's print identity is built on sustained art world cross-pollination - Mondrian geometric blocks, Matisse-derived florals and figurals, painterly surface graphics - interpreted through successive creative directors. Hedi Slimane shifted toward rock subculture references; Anthony Vaccarello has positioned the house toward overtly sensual luxury. Surface design operates at the level of editorial statement rather than commercial print volume.
 
 ## History
 
@@ -196,7 +197,7 @@ Yves Saint Laurent Archive Gallery
 
 ## Products
 
-- Ready-to-wear — womenswear and menswear (branded "Saint Laurent" since 2012)
+- Ready-to-wear - womenswear and menswear (branded "Saint Laurent" since 2012)
 - Couture (private; haute couture atelier revived 2015)
 - Leather accessories and handbags
 - Footwear
@@ -205,7 +206,7 @@ Yves Saint Laurent Archive Gallery
 
 ## Services
 
-Yves Saint Laurent operates 282 branded boutiques globally, supplemented by luxury department store distribution. YSL Beauty (fragrances and cosmetics) is separately licensed to L'Oréal. In April 2023, the house launched Saint Laurent Productions — a film production company whose costumes are designed by Anthony Vaccarello — extending the brand's aesthetic practice into cinema.
+Yves Saint Laurent operates 282 branded boutiques globally, supplemented by luxury department store distribution. YSL Beauty (fragrances and cosmetics) is separately licensed to L'Oréal. In April 2023, the house launched Saint Laurent Productions - a film production company whose costumes are designed by Anthony Vaccarello - extending the brand's aesthetic practice into cinema.
 
 ## Markets
 
@@ -213,9 +214,9 @@ Tier-one French luxury. YSL competes across RTW, leather goods, footwear, and fr
 
 ## Pattern and Surface Design Relevance
 
-Yves Saint Laurent holds fashion's most documented record of translating fine art directly into garment surface design. The 1965 *Hommage à Piet Mondrian* collection — geometric colour-block dresses rendered in wool jersey — is a canonical reference in art-to-fabric translation. Subsequent art homage collections included Henri Matisse (S/S 1970, A/W 1981, S/S 1982), Fernand Léger (A/W 1981), Georges Braque (S/S 1988), and Vincent van Gogh (S/S 1988). Tom Ford's A/W 2004 printed silk evening dress for YSL was named Fashion Museum Dress of the Year.
+Yves Saint Laurent holds fashion's most documented record of translating fine art directly into garment surface design. The 1965 *Hommage à Piet Mondrian* collection - geometric colour-block dresses rendered in wool jersey - is a canonical reference in art-to-fabric translation. Subsequent art homage collections included Henri Matisse (S/S 1970, A/W 1981, S/S 1982), Fernand Léger (A/W 1981), Georges Braque (S/S 1988), and Vincent van Gogh (S/S 1988). Tom Ford's A/W 2004 printed silk evening dress for YSL was named Fashion Museum Dress of the Year.
 
-YSL's broader design vocabulary drew on Chinese textiles, Pop Art, the Ballets Russes, and Picasso — a reference library that maps closely onto print motif and surface pattern history. The *Rive Gauche* RTW line (1966) extended this aesthetic vocabulary to a wider commercial market.
+YSL's broader design vocabulary drew on Chinese textiles, Pop Art, the Ballets Russes, and Picasso - a reference library that maps closely onto print motif and surface pattern history. The *Rive Gauche* RTW line (1966) extended this aesthetic vocabulary to a wider commercial market.
 
 ## Official Resources
 

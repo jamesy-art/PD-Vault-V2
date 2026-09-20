@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 138
 ---
 
 # Half Drop Pattern
@@ -118,7 +119,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/half-drop-pattern/profile/half-drop-pattern-image.svg)
-A repeat layout in which each column of tiles is offset vertically by exactly half the tile height — the textile industry's default structure for organic, floral, and botanical surface patterns.
+A repeat layout in which each column of tiles is offset vertically by exactly half the tile height - the textile industry's default structure for organic, floral, and botanical surface patterns.
 
 ## Overview
 
@@ -128,7 +129,7 @@ Its primary commercial value is concealment: the half-drop breaks the horizontal
 
 ## Visual Characteristics
 
-A half-drop adds a diagonal rhythm to pattern layouts. Because identical motifs no longer share the same horizontal line, the eye traces diagonal paths across the surface rather than locking onto horizontal or vertical seams. Organic shapes — flowers, leaves, animal motifs — are distributed more evenly, with less apparent clustering at tile junctions.
+A half-drop adds a diagonal rhythm to pattern layouts. Because identical motifs no longer share the same horizontal line, the eye traces diagonal paths across the surface rather than locking onto horizontal or vertical seams. Organic shapes - flowers, leaves, animal motifs - are distributed more evenly, with less apparent clustering at tile junctions.
 
 The repeat seam is not eliminated but is made significantly harder to detect. Adjacent columns meet at different heights, so the continuous horizontal seam of a block repeat is replaced by a broken, staggered join.
 
@@ -136,7 +137,7 @@ The repeat seam is not eliminated but is made significantly harder to detect. Ad
 
 The mathematical repeat unit in a half-drop is twice the tile height at the same tile width. A 10 × 10 cm tile becomes a 10 × 20 cm repeat unit. This has direct production implications: the repeat length sent to printers and mills is double what the tile dimensions suggest.
 
-The offset is always exactly 50% — half-drop is the standard. Some mills support quarter-drop or third-drop variants, but these are non-standard.
+The offset is always exactly 50% - half-drop is the standard. Some mills support quarter-drop or third-drop variants, but these are non-standard.
 
 Three key repeat types are commonly compared:
 
@@ -155,7 +156,7 @@ Half-drop is a structural decision, not a motif category. It works with any moti
 - Abstract organic forms
 - Figurative illustrations
 
-Geometric patterns that deliberately exploit grid structure — checks, plaids, tessellations — are better suited to straight repeat, where the grid is the design.
+Geometric patterns that deliberately exploit grid structure - checks, plaids, tessellations - are better suited to straight repeat, where the grid is the design.
 
 ## Colour and Style
 
@@ -176,11 +177,11 @@ Adobe Illustrator's Pattern Options panel (Object > Pattern > Make) includes a b
 
 ## Related Pattern Types
 
-- [[Brick Repeat Pattern]] — horizontal equivalent of the half-drop; rows offset by 50% of tile width
-- [[Block Repeat Pattern]] — straight grid repeat; no offset; best for geometric designs
-- [[Floral Pattern]] — primary motif category for which half-drop is the standard layout
-- [[Botanical Pattern]] — second major motif category closely associated with half-drop layouts
-- [[Directional Pattern]] — overlap category covering orientation and layout decisions in surface pattern design
+- Brick Repeat Pattern - horizontal equivalent of the half-drop; rows offset by 50% of tile width
+- Block Repeat Pattern - straight grid repeat; no offset; best for geometric designs
+- Floral Pattern - primary motif category for which half-drop is the standard layout
+- Botanical Pattern - second major motif category closely associated with half-drop layouts
+- Directional Pattern - overlap category covering orientation and layout decisions in surface pattern design
 
 ## Source Notes
 

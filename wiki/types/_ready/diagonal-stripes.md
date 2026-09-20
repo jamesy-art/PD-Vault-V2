@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 99
 ---
 
 # Diagonal Stripes
@@ -122,11 +123,11 @@ Stripe pattern structure where colour bands run at an angle across the design su
 
 ## Overview
 
-Diagonal stripes are a foundational stripe variant defined by their angle rather than their colour, width, or spacing. The same striping logic as horizontal and vertical stripes applies — repeating parallel bands of colour — but oriented at a bias, typically 45°. The result is a visually dynamic pattern with an inherent sense of motion and visual flow. As a structure, diagonal stripes are highly versatile: width, colour density, and angle variation each produce substantially different aesthetic registers.
+Diagonal stripes are a foundational stripe variant defined by their angle rather than their colour, width, or spacing. The same striping logic as horizontal and vertical stripes applies - repeating parallel bands of colour - but oriented at a bias, typically 45°. The result is a visually dynamic pattern with an inherent sense of motion and visual flow. As a structure, diagonal stripes are highly versatile: width, colour density, and angle variation each produce substantially different aesthetic registers.
 
 ## Visual Characteristics
 
-Parallel colour bands run from one edge of the design field to the other at a consistent angle. The direction of travel creates perceived motion — the eye follows the stripe diagonally across the surface. Bold wide stripes on high-contrast grounds read as energetic and striking. Fine, closely spaced diagonals read as textured and subtle. When combined with shading or texture, diagonal stripes can create depth or three-dimensionality.
+Parallel colour bands run from one edge of the design field to the other at a consistent angle. The direction of travel creates perceived motion - the eye follows the stripe diagonally across the surface. Bold wide stripes on high-contrast grounds read as energetic and striking. Fine, closely spaced diagonals read as textured and subtle. When combined with shading or texture, diagonal stripes can create depth or three-dimensionality.
 
 Variants include:
 - **Multi-coloured**: bands cycling through several colours
@@ -136,7 +137,7 @@ Variants include:
 
 ## Pattern Structure
 
-A diagonal stripe repeat tiles by offsetting the stripe across the repeat boundary, maintaining consistent angle. The stripe's angle is defined within the tile — adjusting the tile dimensions changes the perceived angle. Unlike horizontal or vertical stripes, diagonal stripes require the repeat tile to account for the angled band crossing both horizontal and vertical edges simultaneously.
+A diagonal stripe repeat tiles by offsetting the stripe across the repeat boundary, maintaining consistent angle. The stripe's angle is defined within the tile - adjusting the tile dimensions changes the perceived angle. Unlike horizontal or vertical stripes, diagonal stripes require the repeat tile to account for the angled band crossing both horizontal and vertical edges simultaneously.
 
 ## Common Motifs
 
@@ -167,14 +168,14 @@ Diagonal stripes have deep roots in heraldic design: the *bend* (top-left to bot
 
 ## Related Pattern Types
 
-- [[Stripe Pattern]]
-- [[Chevron Pattern]]
-- [[Geometric Pattern]]
-- [[Herringbone Pattern]]
+- Stripe Pattern
+- Chevron Pattern
+- Geometric Pattern
+- Herringbone Pattern
 
 ## Source Notes
 
-Source: Diagonal Stripes.md (Design+Encyclopedia — two entries covering design applications, motion/movement associations, and variant types including multi-coloured, wavy, and dotted; anime/manga convention noted as specific application)
+Source: Diagonal Stripes.md (Design+Encyclopedia - two entries covering design applications, motion/movement associations, and variant types including multi-coloured, wavy, and dotted; anime/manga convention noted as specific application)
 
 ## Editorial Images
 

@@ -43,6 +43,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 212
 ---
 
 # Claudie Pierlot
@@ -53,9 +54,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Claudie Pierlot is a French women's ready-to-wear brand created by designer Claude Anne Marie Pierlot, born 1947 in Troyes — a historically significant hosiery and knitwear manufacturing centre. Pierlot trained in fashion design and pattern making before working in knitwear factories in southern France, then as an assistant at Dorothée Bis. She subsequently worked at the Printemps design studio and the Mafia agency before joining the René Derhy brand in 1974. After ten years as a Derhy designer, she launched her own label with support from Yvette and René Derhy. Pierlot died on 25 February 2009 in Nanterre, having sold the brand to the SMCP group weeks earlier. The brand continues to operate as part of SMCP Group alongside Sandro and Maje.
+Claudie Pierlot is a French women's ready-to-wear brand created by designer Claude Anne Marie Pierlot, born 1947 in Troyes - a historically significant hosiery and knitwear manufacturing centre. Pierlot trained in fashion design and pattern making before working in knitwear factories in southern France, then as an assistant at Dorothée Bis. She subsequently worked at the Printemps design studio and the Mafia agency before joining the René Derhy brand in 1974. After ten years as a Derhy designer, she launched her own label with support from Yvette and René Derhy. Pierlot died on 25 February 2009 in Nanterre, having sold the brand to the SMCP group weeks earlier. The brand continues to operate as part of SMCP Group alongside Sandro and Maje.
 
-The brand's visual identity is rooted in the "Parisian, feminine and urban" archetype — established by the founder through the 1980s–2000s and continued under SMCP. Current creative direction is managed within SMCP's brand structure. Seasonal collections are distributed through the Paris flagship and global retail network.
+The brand's visual identity is rooted in the "Parisian, feminine and urban" archetype - established by the founder through the 1980s-2000s and continued under SMCP. Current creative direction is managed within SMCP's brand structure. Seasonal collections are distributed through the Paris flagship and global retail network.
 
 ## History
 
@@ -73,11 +74,11 @@ In early 2009, knowing she was seriously ill, Pierlot sold the brand to the shar
 
 SMCP Group subsidiary. Website: claudiepierlot.com; global retail via store network and e-commerce. YouTube channel maintained for brand communications.
 
-Note: YAML `market_categories` includes "Menswear" and "Skateboarding" — these appear to be data pipeline artefacts inconsistent with Claudie Pierlot's women's fashion positioning. YAML preserved as found.
+Note: YAML `market_categories` includes "Menswear" and "Skateboarding" - these appear to be data pipeline artefacts inconsistent with Claudie Pierlot's women's fashion positioning. YAML preserved as found.
 
 ## Markets
 
-Claudie Pierlot operates in the Parisian accessible luxury / contemporary womenswear segment — above high street, below full luxury price points. Within SMCP Group, it is positioned alongside Sandro (premium contemporary) and Maje (feminine-forward) with a distinctly Parisian-chic feminine identity. The brand operates internationally via its own stores and e-commerce under SMCP's global retail structure.
+Claudie Pierlot operates in the Parisian accessible luxury / contemporary womenswear segment - above high street, below full luxury price points. Within SMCP Group, it is positioned alongside Sandro (premium contemporary) and Maje (feminine-forward) with a distinctly Parisian-chic feminine identity. The brand operates internationally via its own stores and e-commerce under SMCP's global retail structure.
 
 ## Pattern and Surface Design Relevance
 

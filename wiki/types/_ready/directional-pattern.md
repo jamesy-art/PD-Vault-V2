@@ -3,7 +3,7 @@ name: Directional Pattern
 slug: directional-pattern
 status: active
 type_group: structure
-summary: Surface pattern classification describing any design where motifs have a clear orientation — a distinct 'up' or 'down' — that must be respected during fabric cutting and layout. The opposite of a non-directional or tossed design.
+summary: Surface pattern classification describing any design where motifs have a clear orientation - a distinct 'up' or 'down' - that must be respected during fabric cutting and layout. The opposite of a non-directional or tossed design.
 motifs: []
 structures:
   - Symmetry
@@ -110,6 +110,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 121
 ---
 
 # Directional Pattern
@@ -117,24 +118,24 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/directional-pattern/profile/directional-pattern-image.svg)
-Surface pattern classification for any design where the motifs have a clear orientation — a distinct 'up' or 'down' — that determines how fabric or printed material must be cut and handled. The opposite of a non-directional (undirectional or tossed) design.
+Surface pattern classification for any design where the motifs have a clear orientation - a distinct 'up' or 'down' - that determines how fabric or printed material must be cut and handled. The opposite of a non-directional (undirectional or tossed) design.
 
 ## Overview
 
-A directional pattern is one where the motifs or compositional elements read correctly only from one or a limited set of angles. Rotating or inverting the fabric makes the pattern appear wrong — animals face downward, flowers hang upside down, text becomes unreadable. This property is intrinsic to many figurative, scenic, and novelty prints and has direct practical implications for fabric cutting, garment making, and quilt construction. Directionality is a structural classification rather than an aesthetic category: a pattern is either directional or it is not.
+A directional pattern is one where the motifs or compositional elements read correctly only from one or a limited set of angles. Rotating or inverting the fabric makes the pattern appear wrong - animals face downward, flowers hang upside down, text becomes unreadable. This property is intrinsic to many figurative, scenic, and novelty prints and has direct practical implications for fabric cutting, garment making, and quilt construction. Directionality is a structural classification rather than an aesthetic category: a pattern is either directional or it is not.
 
 ## Visual Characteristics
 
-The defining characteristic is immediately readable: the motifs clearly have a correct orientation. Animals face upward, flowers sit on stems, raindrops fall, faces are the right way up. Non-directional designs, by contrast, look identical regardless of rotation — a starburst, a geometric trellis, or a tossed abstract scatter are all undirectional. One-way directional prints are visually the most constrained; the pattern's single correct orientation is unmistakable.
+The defining characteristic is immediately readable: the motifs clearly have a correct orientation. Animals face upward, flowers sit on stems, raindrops fall, faces are the right way up. Non-directional designs, by contrast, look identical regardless of rotation - a starburst, a geometric trellis, or a tossed abstract scatter are all undirectional. One-way directional prints are visually the most constrained; the pattern's single correct orientation is unmistakable.
 
 ## Pattern Structure
 
 Directional layouts classify by the number of orientations the design uses:
 
-- **One-way**: all motifs face a single direction — the most constraining layout; all pieces must be cut in the same direction
+- **One-way**: all motifs face a single direction - the most constraining layout; all pieces must be cut in the same direction
 - **Two-way**: motifs face two directions (typically up and down, or left and right)
-- **Four-way**: motifs oriented in four directions — gives greatest flexibility in cutting
-- **Non-directional (undirectional)**: the design looks the same from any angle — no directional constraint
+- **Four-way**: motifs oriented in four directions - gives greatest flexibility in cutting
+- **Non-directional (undirectional)**: the design looks the same from any angle - no directional constraint
 
 ## Common Motifs
 
@@ -153,13 +154,13 @@ Directionality is a structural property, independent of colour or style. It appl
 
 ## History and Context
 
-Directionality has been a practical consideration in textile production since printed fabrics entered wide commercial production. Quilters and dressmakers have developed specific cutting methods to manage directional fabrics — including cutting all pieces from the same strip orientation and purchasing additional yardage to compensate for the layout inefficiencies directional designs create. For quilting, managing a directional print within pieced blocks (particularly half-square triangles and flying geese units) requires planning the stitching direction to control how the print orientation reads in the finished unit.
+Directionality has been a practical consideration in textile production since printed fabrics entered wide commercial production. Quilters and dressmakers have developed specific cutting methods to manage directional fabrics - including cutting all pieces from the same strip orientation and purchasing additional yardage to compensate for the layout inefficiencies directional designs create. For quilting, managing a directional print within pieced blocks (particularly half-square triangles and flying geese units) requires planning the stitching direction to control how the print orientation reads in the finished unit.
 
 The Artlandia surface pattern design glossary formally classifies directional layouts (one-way, two-way, four-way) as a foundational dimension of repeat structure alongside unit shape and placement.
 
 ## Surface Pattern Uses
 
-- Apparel (dressmaking, tailoring — requires planned cutting layout)
+- Apparel (dressmaking, tailoring - requires planned cutting layout)
 - Quilting (additional planning required for pieced units)
 - Children's textiles (common with figurative and novelty motifs)
 - Soft furnishings: cushions, curtains, upholstery (orientation visible)
@@ -167,14 +168,14 @@ The Artlandia surface pattern design glossary formally classifies directional la
 
 ## Related Pattern Types
 
-- [[Conversational Print]]
-- [[Novelty Print]]
-- [[Tossed Repeat]]
-- [[Placement Print]]
+- Conversational Print
+- Novelty Print
+- Tossed Repeat
+- Placement Print
 
 ## Source Notes
 
-Source: Directional Pattern.md — two sources combined: general definition (Artlandia Glossary reference; one-way/two-way/four-way classification; cutting and yardage implications) and Directional Print Fabrics — What Are They and How to Use Them Part I (Snuggles Quilts — practical quilting application with directional prints, HST and straight seam examples)
+Source: Directional Pattern.md - two sources combined: general definition (Artlandia Glossary reference; one-way/two-way/four-way classification; cutting and yardage implications) and Directional Print Fabrics - What Are They and How to Use Them Part I (Snuggles Quilts - practical quilting application with directional prints, HST and straight seam examples)
 
 ## Editorial Images
 

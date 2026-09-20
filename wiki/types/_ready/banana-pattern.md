@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 7
 ---
 
 # Banana Pattern
@@ -119,15 +120,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/banana-pattern/profile/banana-pattern-image.svg)
-Tropical surface pattern using banana fruit and leaf motifs in seamless repeat. Part of the broader [[Tropical Pattern]] category, used across apparel, home decor, and digital surface design.
+Tropical surface pattern using banana fruit and leaf motifs in seamless repeat. Part of the broader Tropical Pattern category, used across apparel, home decor, and digital surface design.
 
 ## Overview
 
-The banana pattern groups banana fruit forms with associated tropical foliage — the large, arch-shaped banana leaf being a distinctive graphic element in its own right. It sits alongside pineapple and monstera patterns within the resort and summer market aesthetic. Both fruit and leaf motifs translate well into bold, graphic repeat structures at various scales.
+The banana pattern groups banana fruit forms with associated tropical foliage - the large, arch-shaped banana leaf being a distinctive graphic element in its own right. It sits alongside pineapple and monstera patterns within the resort and summer market aesthetic. Both fruit and leaf motifs translate well into bold, graphic repeat structures at various scales.
 
 ## Visual Characteristics
 
-The banana bunch form — curved and clustered — creates a recognisable silhouette that reads clearly even at small repeat scales. The large paddle-shaped banana leaf provides a bold graphic counterpart. Designs range from cheerful flat-vector treatments to more detailed illustrated styles.
+The banana bunch form - curved and clustered - creates a recognisable silhouette that reads clearly even at small repeat scales. The large paddle-shaped banana leaf provides a bold graphic counterpart. Designs range from cheerful flat-vector treatments to more detailed illustrated styles.
 
 ## Pattern Structure
 
@@ -158,13 +159,13 @@ Banana motifs entered Western surface pattern design as part of the broader trop
 
 ## Related Pattern Types
 
-- [[Tropical Pattern]]
-- [[Botanical Pattern]]
-- [[Palm Print]]
+- Tropical Pattern
+- Botanical Pattern
+- Palm Print
 
 ## Source Notes
 
-Source: Banana Pattern.md (Section 1 — Visual and Surface Pattern Design — only; financial "banana chart" and crochet sections excluded as out of scope)
+Source: Banana Pattern.md (Section 1 - Visual and Surface Pattern Design - only; financial "banana chart" and crochet sections excluded as out of scope)
 
 ## Editorial Images
 

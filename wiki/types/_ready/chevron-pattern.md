@@ -1,5 +1,5 @@
 ---
-name: chevron-pattern
+name: Chevron Pattern
 slug: chevron-pattern
 status: draft
 type_group: general
@@ -61,13 +61,13 @@ gallery_images:
     sort_order: 1
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/black-white-chevron-zigzag-pattern-background_387542513.htm"
-      image_url: "https://img.magnific.com/premium-vector/black-white-chevron-zigzag-pattern-background_729988-9706.jpg"
+      page_url: https://www.magnific.com/premium-vector/black-white-chevron-zigzag-pattern-background_387542513.htm
+      image_url: https://img.magnific.com/premium-vector/black-white-chevron-zigzag-pattern-background_729988-9706.jpg
       title: A black and white chevron zigzag pattern background | Premium Vector
       description: Download this Premium vector of A black and white chevron zigzag pattern background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: chevron-pattern-2-pattern-designers.jpg
     title: Abstract triangle pattern background
     alt: Abstract triangle pattern background
@@ -76,13 +76,13 @@ gallery_images:
     sort_order: 2
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/abstract-triangle-pattern-background_1109401.htm"
-      image_url: "https://img.magnific.com/free-vector/abstract-triangle-pattern-background_1319-155.jpg"
+      page_url: https://www.magnific.com/free-vector/abstract-triangle-pattern-background_1109401.htm
+      image_url: https://img.magnific.com/free-vector/abstract-triangle-pattern-background_1319-155.jpg
       title: Abstract triangle pattern background
       description: Download this free vector of Abstract triangle pattern background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: chevron-pattern-3-pattern-designers.jpg
     title: Black dotted decorative pattern | Premium Vector
     alt: Black dotted decorative pattern | Premium Vector
@@ -91,13 +91,13 @@ gallery_images:
     sort_order: 3
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/black-dotted-decorative-pattern_21139965.htm"
-      image_url: "https://img.magnific.com/premium-vector/black-dotted-decorative-pattern_547648-709.jpg"
+      page_url: https://www.magnific.com/premium-vector/black-dotted-decorative-pattern_21139965.htm
+      image_url: https://img.magnific.com/premium-vector/black-dotted-decorative-pattern_547648-709.jpg
       title: Black dotted decorative pattern | Premium Vector
       description: Download this Premium vector of Black dotted decorative pattern and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: chevron-pattern-4-pattern-designers.jpg
     title: Black zigzag background, simple pattern design vector
     alt: Black zigzag background, simple pattern design vector
@@ -106,13 +106,14 @@ gallery_images:
     sort_order: 4
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_19597325.htm"
-      image_url: "https://img.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_53876-151273.jpg"
+      page_url: https://www.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_19597325.htm
+      image_url: https://img.magnific.com/free-vector/black-zigzag-background-simple-pattern-design-vector_53876-151273.jpg
       title: Black zigzag background, simple pattern design vector
       description: Download this free vector of Black zigzag background, simple pattern design vector and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
+marketing_order: 57
 ---
 
 # chevron-pattern
@@ -124,15 +125,15 @@ A V-shaped geometric mark, one of the oldest decorative symbols in human history
 
 ## Overview
 
-A chevron is a V-shaped mark or symbol, often shown inverted (point down). Historically the term refers to a fret in architecture, a badge or insignia denoting military or police rank, and a heraldic ordinary — one of the simple geometric figures forming the basis of many coats of arms. As a surface pattern motif, the chevron's appeal lies in this same simple, high-contrast V-shape geometry, repeated to form a zigzag.
+A chevron is a V-shaped mark or symbol, often shown inverted (point down). Historically the term refers to a fret in architecture, a badge or insignia denoting military or police rank, and a heraldic ordinary - one of the simple geometric figures forming the basis of many coats of arms. As a surface pattern motif, the chevron's appeal lies in this same simple, high-contrast V-shape geometry, repeated to form a zigzag.
 
 ## Visual Characteristics
 
-The chevron is fundamentally a symmetrical V (or inverted V) shape. In heraldry it is constructed at a deliberately chosen angle — the golden angle is cited as one option, though the artist may choose others — and can be modified in several ways: **inverted** (pointing down instead of up), **wavy** (curved rather than straight edges), **éclaté** (ends cut to look splintered, like broken wood, with an irregular zigzag), and **chevronny** (a field divided into multiple repeating chevron bands). A smaller-scale version is called a chevronel.
+The chevron is fundamentally a symmetrical V (or inverted V) shape. In heraldry it is constructed at a deliberately chosen angle - the golden angle is cited as one option, though the artist may choose others - and can be modified in several ways: **inverted** (pointing down instead of up), **wavy** (curved rather than straight edges), **éclaté** (ends cut to look splintered, like broken wood, with an irregular zigzag), and **chevronny** (a field divided into multiple repeating chevron bands). A smaller-scale version is called a chevronel.
 
 ## Pattern Structure
 
-A single chevron is a discrete V-shaped mark; repeated and stacked, chevrons form a continuous zigzag band — the "chevronny" field division described in heraldry is effectively a repeat structure, dividing a surface into alternating bands using the chevron angle. Chevrons can also be arranged in interlaced pairs (a chevron and an inverted chevron overlapping) for a denser woven effect.
+A single chevron is a discrete V-shaped mark; repeated and stacked, chevrons form a continuous zigzag band - the "chevronny" field division described in heraldry is effectively a repeat structure, dividing a surface into alternating bands using the chevron angle. Chevrons can also be arranged in interlaced pairs (a chevron and an inverted chevron overlapping) for a denser woven effect.
 
 ## Common Motifs
 
@@ -148,19 +149,19 @@ The source does not specify a colour palette for chevron pattern; heraldic examp
 
 ## History and Context
 
-The chevron is described as one of the oldest symbols in human history, with V-shaped markings appearing as early as the Neolithic era (6th–5th millennia BC) as part of the Vinča symbol system, then used as part of a proto-writing system rather than for decoration. Later, chevron motifs appear in pottery designs recovered from the palace of Knossos on Crete (from roughly 1800 BC onward), and in the decorative geometric pottery repertoire of the Nubian Kingdom of Kerma. In heraldry, chevrons appeared early, especially in Normandy, and are known in Scandinavia as *sparre*. From the 18th century, the chevron was adopted as a military insignia — originally denoting general officer rank in the British Army (derived from Household Cavalry cuff and sleeve trim), before becoming the standard worldwide insignia for non-commissioned officer and sub-officer ranks.
+The chevron is described as one of the oldest symbols in human history, with V-shaped markings appearing as early as the Neolithic era (6th-5th millennia BC) as part of the Vinča symbol system, then used as part of a proto-writing system rather than for decoration. Later, chevron motifs appear in pottery designs recovered from the palace of Knossos on Crete (from roughly 1800 BC onward), and in the decorative geometric pottery repertoire of the Nubian Kingdom of Kerma. In heraldry, chevrons appeared early, especially in Normandy, and are known in Scandinavia as *sparre*. From the 18th century, the chevron was adopted as a military insignia - originally denoting general officer rank in the British Army (derived from Household Cavalry cuff and sleeve trim), before becoming the standard worldwide insignia for non-commissioned officer and sub-officer ranks.
 
 ## Surface Pattern Uses
 
-The source documents the chevron primarily as a decorative element in ancient pottery, a heraldic charge, and a rank/insignia device (military, police, and vexillological/flag use) — it does not address textile, fashion, or interior surface pattern application specifically. Its earliest documented decorative use is as a geometric motif in ancient pottery design (Knossos, Kingdom of Kerma), which is the closest link in the source to ornamental/surface design rather than symbolic or heraldic use.
+The source documents the chevron primarily as a decorative element in ancient pottery, a heraldic charge, and a rank/insignia device (military, police, and vexillological/flag use) - it does not address textile, fashion, or interior surface pattern application specifically. Its earliest documented decorative use is as a geometric motif in ancient pottery design (Knossos, Kingdom of Kerma), which is the closest link in the source to ornamental/surface design rather than symbolic or heraldic use.
 
 ## Related Pattern Types
 
-[[Stripe Pattern]], [[Diamond Pattern]], [[Tessellation Pattern]]
+Stripe Pattern, Diamond Pattern, Tessellation Pattern
 
 ## Source Notes
 
-- Source: Wikipedia, "Chevron (insignia)" — covers ancient pottery/proto-writing use (Vinča symbols, Knossos, Kingdom of Kerma), heraldic construction and terminology, military and police rank insignia conventions, and vexillological (flag) usage. Insignia/heraldry-focused rather than textile- or surface-pattern-focused; no SPD-specific designers, markets, or commercial applications are documented.
+- Source: Wikipedia, "Chevron (insignia)" - covers ancient pottery/proto-writing use (Vinča symbols, Knossos, Kingdom of Kerma), heraldic construction and terminology, military and police rank insignia conventions, and vexillological (flag) usage. Insignia/heraldry-focused rather than textile- or surface-pattern-focused; no SPD-specific designers, markets, or commercial applications are documented.
 
 ## Editorial Images
 

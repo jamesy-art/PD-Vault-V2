@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 34
 ---
 
 # Orange Pattern
@@ -119,11 +120,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/orange-pattern/profile/orange-pattern-image.svg)
-A colour reference page for the orange spectrum in surface pattern design — covering shade vocabulary, cultural associations, and commercial applications of orange across textile, fashion, and print design.
+A colour reference page for the orange spectrum in surface pattern design - covering shade vocabulary, cultural associations, and commercial applications of orange across textile, fashion, and print design.
 
 ## Overview
 
-Orange is a secondary colour formed midway between red and yellow on the colour wheel; its complementary colour is azure (blue). In surface pattern design, orange is a high-energy, high-warmth colour with strong seasonal associations (autumn and Halloween) and cultural associations with warmth, vitality, and creativity. The orange spectrum is commercially divided into red-orange (burnt orange, pumpkin, persimmon), yellow-orange (marigold, saffron), and neutral orange (cantaloupe, apricot, peach) sub-groups, each carrying distinct aesthetic and market associations. Notably, the fruit came before the colour name in English — the word "orange" was used for the fruit centuries before it was applied as a colour designation (16th century).
+Orange is a secondary colour formed midway between red and yellow on the colour wheel; its complementary colour is azure (blue). In surface pattern design, orange is a high-energy, high-warmth colour with strong seasonal associations (autumn and Halloween) and cultural associations with warmth, vitality, and creativity. The orange spectrum is commercially divided into red-orange (burnt orange, pumpkin, persimmon), yellow-orange (marigold, saffron), and neutral orange (cantaloupe, apricot, peach) sub-groups, each carrying distinct aesthetic and market associations. Notably, the fruit came before the colour name in English - the word "orange" was used for the fruit centuries before it was applied as a colour designation (16th century).
 
 ## Visual Characteristics
 
@@ -131,49 +132,49 @@ Orange in surface pattern reads as warm, active, and energetic. The specific ora
 
 ## Pattern Structure
 
-Orange functions as a colour applied to any pattern structure — it does not define or constrain the structural type. Orange-dominant surface pattern is most commercially associated with: autumnal and harvest-themed design (pumpkin, leaf, harvest motifs); Halloween seasonal pattern (orange-and-black is the canonical Halloween palette); retro 1970s-aesthetic surface design (where orange, brown, and cream are characteristic); and contemporary citrus/tropical patterns.
+Orange functions as a colour applied to any pattern structure - it does not define or constrain the structural type. Orange-dominant surface pattern is most commercially associated with: autumnal and harvest-themed design (pumpkin, leaf, harvest motifs); Halloween seasonal pattern (orange-and-black is the canonical Halloween palette); retro 1970s-aesthetic surface design (where orange, brown, and cream are characteristic); and contemporary citrus/tropical patterns.
 
 ## Common Motifs
 
 Orange is most naturally associated with:
-- **Autumnal and harvest motifs** — pumpkins, leaves, corn, berries; orange is the dominant colour of the autumn/fall seasonal pattern market
-- **Halloween** — traditional Halloween pattern uses orange-and-black as its canonical palette
-- **Citrus and tropical fruit** — orange fruit, tangerine, apricot; summer and tropical contexts
-- **Sunset and warmth** — warm-toned abstract and landscape-referencing compositions
-- **Saffron-associated cultural contexts** — Indian and Buddhist-influenced design where saffron and ochre orange carry specific cultural weight
+- **Autumnal and harvest motifs** - pumpkins, leaves, corn, berries; orange is the dominant colour of the autumn/fall seasonal pattern market
+- **Halloween** - traditional Halloween pattern uses orange-and-black as its canonical palette
+- **Citrus and tropical fruit** - orange fruit, tangerine, apricot; summer and tropical contexts
+- **Sunset and warmth** - warm-toned abstract and landscape-referencing compositions
+- **Saffron-associated cultural contexts** - Indian and Buddhist-influenced design where saffron and ochre orange carry specific cultural weight
 
 ## Colour and Style
 
 Documented named orange shades with design relevance:
 
 **Red-orange group:**
-- Burnt orange (documented 1915) — earthy, warm, autumnal; dark reddish orange
-- Pumpkin (documented 1922) — medium warm orange; strongly seasonal/Halloween associated
-- Persimmon (documented 1922) — deep red-orange; warm, rich
-- Blood orange — deep, slightly cool reddish orange; contemporary food and lifestyle associations
+- Burnt orange (documented 1915) - earthy, warm, autumnal; dark reddish orange
+- Pumpkin (documented 1922) - medium warm orange; strongly seasonal/Halloween associated
+- Persimmon (documented 1922) - deep red-orange; warm, rich
+- Blood orange - deep, slightly cool reddish orange; contemporary food and lifestyle associations
 
 **Yellow-orange group:**
-- Marigold — warm yellow-orange; floral associations
-- Saffron (documented in English c.1200) — deep golden yellow-orange; Hindu and Buddhist sacred colour
-- Sunburst — vivid warm yellow-orange
+- Marigold - warm yellow-orange; floral associations
+- Saffron (documented in English c.1200) - deep golden yellow-orange; Hindu and Buddhist sacred colour
+- Sunburst - vivid warm yellow-orange
 
 **Neutral/light orange group:**
-- Cantaloupe — soft mid-orange; pale, melon-like
-- Apricot (documented 1851) — soft, light yellow-orange; the palest orange shade
-- Peach (documented 1588) — very pale orange-pink; the earliest documented orange shade name in English
+- Cantaloupe - soft mid-orange; pale, melon-like
+- Apricot (documented 1851) - soft, light yellow-orange; the palest orange shade
+- Peach (documented 1588) - very pale orange-pink; the earliest documented orange shade name in English
 
 **Dark/vivid orange group:**
-- Tawny — dark brownish orange
-- Ochre — dark yellow-brown; earthy, mineral association
-- Cinnamon — warm reddish brown at the dark end of the orange range
-- Tangerine (documented 1899) — bright, vivid orange; named after the Tangerine orange fruit
-- Carrot orange (documented 1684) — vivid orange; the oldest documented orange shade name in English after peach
-- Coral (documented 1513) — orange-pink; one of the oldest documented orange shade names
-- Amber — warm golden-orange; honey and resin associations
+- Tawny - dark brownish orange
+- Ochre - dark yellow-brown; earthy, mineral association
+- Cinnamon - warm reddish brown at the dark end of the orange range
+- Tangerine (documented 1899) - bright, vivid orange; named after the Tangerine orange fruit
+- Carrot orange (documented 1684) - vivid orange; the oldest documented orange shade name in English after peach
+- Coral (documented 1513) - orange-pink; one of the oldest documented orange shade names
+- Amber - warm golden-orange; honey and resin associations
 
 **Safety and signal orange:**
-- Safety orange — the high-visibility orange used in safety equipment and workwear
-- International orange — the distinctive orange used on the Golden Gate Bridge
+- Safety orange - the high-visibility orange used in safety equipment and workwear
+- International orange - the distinctive orange used on the Golden Gate Bridge
 
 ## History and Context
 
@@ -181,19 +182,19 @@ Orange as a colour name in English dates to the 16th century, derived from the O
 
 ## Surface Pattern Uses
 
-- **Seasonal and Halloween** — orange is the defining colour of the autumn/fall and Halloween seasonal pattern market; burnt orange, pumpkin, and amber are the key commercial shades
-- **Fashion** — saffron, burnt orange, and terracotta are commercially active in seasonal womenswear; citrus orange drives summer fashion
-- **Home textiles** — autumnal orange palettes are commercially active in seasonal cushion, bedding, and home textiles
-- **Stationery and gifting** — orange palette is commercially active in autumnal and Halloween-themed stationery and gifting
+- **Seasonal and Halloween** - orange is the defining colour of the autumn/fall and Halloween seasonal pattern market; burnt orange, pumpkin, and amber are the key commercial shades
+- **Fashion** - saffron, burnt orange, and terracotta are commercially active in seasonal womenswear; citrus orange drives summer fashion
+- **Home textiles** - autumnal orange palettes are commercially active in seasonal cushion, bedding, and home textiles
+- **Stationery and gifting** - orange palette is commercially active in autumnal and Halloween-themed stationery and gifting
 
 ## Related Pattern Types
 
-[[Halloween Pattern]], [[Fruit Pattern]], [[Floral Pattern]], [[Tropical Pattern]]
+Halloween Pattern, Fruit Pattern, Floral Pattern, Tropical Pattern
 
 ## Source Notes
 
-- Source 1: Wikipedia "Shades of orange" — orange as secondary colour halfway between red and yellow; complementary is azure; documented shade names with dates: apricot (1851), burnt orange (1915), carrot orange (1684), coral (1513), goldenrod (1915), melon (1892), orange peel (1839), peach (1588), Persian orange (1892), persimmon (1922), pumpkin (1922), saffron (c.1200), tangerine (1899); safety orange, international orange (Golden Gate Bridge)
-- Source 2: quillbot.com — orange symbolism: energy/vitality, warmth/optimism, creativity/individuality; fruit named before colour (16th century English); shade groupings: red-orange (burnt orange, pumpkin, persimmon, blood orange), yellow-orange (marigold, saffron, sunburst), light orange (cantaloupe, apricot), dark orange (tawny, ochre, cinnamon), vivid orange (amber, carrot orange, tangerine)
+- Source 1: Wikipedia "Shades of orange" - orange as secondary colour halfway between red and yellow; complementary is azure; documented shade names with dates: apricot (1851), burnt orange (1915), carrot orange (1684), coral (1513), goldenrod (1915), melon (1892), orange peel (1839), peach (1588), Persian orange (1892), persimmon (1922), pumpkin (1922), saffron (c.1200), tangerine (1899); safety orange, international orange (Golden Gate Bridge)
+- Source 2: quillbot.com - orange symbolism: energy/vitality, warmth/optimism, creativity/individuality; fruit named before colour (16th century English); shade groupings: red-orange (burnt orange, pumpkin, persimmon, blood orange), yellow-orange (marigold, saffron, sunburst), light orange (cantaloupe, apricot), dark orange (tawny, ochre, cinnamon), vivid orange (amber, carrot orange, tangerine)
 
 ## Editorial Images
 

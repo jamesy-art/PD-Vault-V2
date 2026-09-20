@@ -88,6 +88,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 34
 ---
 
 # Björn Borg
@@ -112,7 +113,7 @@ No named creative director or design lead is documented in source material. The 
 
 ## History
 
-The brand's commercial identity is built on the sporting and style heritage of Björn Borg — the Swedish tennis champion who dominated Wimbledon from 1976 to 1980 and became synonymous with a distinctive European tennis aesthetic combining athleticism and graphic sportswear design. The World Brand Management entity secured the exclusive trademark licence in 1997 and built a retail business centred on fashion underwear, sportswear, and accessories. After acquiring full trademark ownership in 2006 for $18 million — which formalised the brand's independence from licensing arrangements — the company rebranded to Björn Borg AB in 2017. In 2015, the company released an advergame called *First Person Lover* in collaboration with Isbit Games — a first-person shooter game in which players customise themselves in Björn Borg branded clothing and fight using "love weapons" — signalling a deliberate strategy of marketing the brand to younger consumers through gaming and digital channels.
+The brand's commercial identity is built on the sporting and style heritage of Björn Borg - the Swedish tennis champion who dominated Wimbledon from 1976 to 1980 and became synonymous with a distinctive European tennis aesthetic combining athleticism and graphic sportswear design. The World Brand Management entity secured the exclusive trademark licence in 1997 and built a retail business centred on fashion underwear, sportswear, and accessories. After acquiring full trademark ownership in 2006 for $18 million - which formalised the brand's independence from licensing arrangements - the company rebranded to Björn Borg AB in 2017. In 2015, the company released an advergame called *First Person Lover* in collaboration with Isbit Games - a first-person shooter game in which players customise themselves in Björn Borg branded clothing and fight using "love weapons" - signalling a deliberate strategy of marketing the brand to younger consumers through gaming and digital channels.
 
 ## Products
 
@@ -128,13 +129,13 @@ Björn Borg AB occupies the premium casualwear and sportswear-adjacent fashion s
 
 ## Pattern and Surface Design Relevance
 
-The Björn Borg brand's commercial identity in the underwear and activewear category is defined by bold graphic surface design — a tradition consistent with the tennis sportswear heritage of the brand namesake:
+The Björn Borg brand's commercial identity in the underwear and activewear category is defined by bold graphic surface design - a tradition consistent with the tennis sportswear heritage of the brand namesake:
 
-- **Underwear as surface design product**: The brand's largest product category — underwear and underclothes — is a category in which surface design (print, pattern, colour, graphic motif) is the primary differentiating factor between products. Fashion underwear at the Björn Borg price and design positioning is almost entirely defined by its graphic surface treatment. Bold prints, colourful patterns, and distinctive graphic motifs are the core product identity in this segment.
-- **Tennis heritage and graphic sportswear**: The brand's association with Björn Borg — a player whose era of Wimbledon dominance coincided with a highly visual period in sportswear design (Fila stripes, bold colourways, graphic court fashion of the late 1970s) — grounds the brand's visual identity in a specific graphic sportswear tradition. Tennis fashion of that era was distinctive in its use of bold colour, geometric motifs, and branded surface embellishment on performance apparel.
+- **Underwear as surface design product**: The brand's largest product category - underwear and underclothes - is a category in which surface design (print, pattern, colour, graphic motif) is the primary differentiating factor between products. Fashion underwear at the Björn Borg price and design positioning is almost entirely defined by its graphic surface treatment. Bold prints, colourful patterns, and distinctive graphic motifs are the core product identity in this segment.
+- **Tennis heritage and graphic sportswear**: The brand's association with Björn Borg - a player whose era of Wimbledon dominance coincided with a highly visual period in sportswear design (Fila stripes, bold colourways, graphic court fashion of the late 1970s) - grounds the brand's visual identity in a specific graphic sportswear tradition. Tennis fashion of that era was distinctive in its use of bold colour, geometric motifs, and branded surface embellishment on performance apparel.
 - **Swimwear and activewear categories**: Both swimwear and activewear are categories where surface pattern and print are central commercial drivers. Björn Borg's presence in both (documented via retail category listing) extends the surface design logic from underwear into broader sportswear product.
-- **Retail categories span multiple print-intensive segments**: The full retail category listing — including lingerie, swimwear, activewear, and accessories — covers a range of product types where print, colour, and graphic surface treatment are commercial differentiators.
-- **Chemical/textile processing controversy (2008)**: NPE (nonylphenol ethoxylate) detected at 860 mg/kg and 490 mg/kg in two pairs of black Björn Borg underwear — significantly above the 250 mg/kg limit recommended by the Swedish Textile Importers Association and far above the 20–50 mg/kg recommended by the Swedish Society for Nature Conservation. NPE was already banned for manufacture within the EU at the time, though imports using it during manufacture were permitted. From June 2017, the company committed to eliminating substances of very high concern under REACH from its supply chain, with particular focus on phthalates, fluorocarbons, and alkylphenol ethoxylates including NPE — documenting a specific textile processing compliance timeline.
+- **Retail categories span multiple print-intensive segments**: The full retail category listing - including lingerie, swimwear, activewear, and accessories - covers a range of product types where print, colour, and graphic surface treatment are commercial differentiators.
+- **Chemical/textile processing controversy (2008)**: NPE (nonylphenol ethoxylate) detected at 860 mg/kg and 490 mg/kg in two pairs of black Björn Borg underwear - significantly above the 250 mg/kg limit recommended by the Swedish Textile Importers Association and far above the 20-50 mg/kg recommended by the Swedish Society for Nature Conservation. NPE was already banned for manufacture within the EU at the time, though imports using it during manufacture were permitted. From June 2017, the company committed to eliminating substances of very high concern under REACH from its supply chain, with particular focus on phthalates, fluorocarbons, and alkylphenol ethoxylates including NPE - documenting a specific textile processing compliance timeline.
 
 ## Official Resources
 

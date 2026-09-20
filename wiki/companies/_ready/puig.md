@@ -39,6 +39,7 @@ logo_type: icon
 created: '2026-06-11'
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 237
 ---
 
 # Puig
@@ -49,14 +50,14 @@ enrichment_status: enriched
 
 ## Overview
 
-Puig is a Spanish multinational company founded in Barcelona in 1914 by Antonio Puig Castelló. It began as a cosmetics business — producing Spain's first lipstick in 1922 and the landmark fragrance Agua Lavanda Puig in 1940 — before expanding into fashion and luxury beauty over the following century. The company has been family-owned for four generations; Marc Puig has served as chairman and CEO since 2007. Puig's corporate headquarters are at Puig Tower in Barcelona (inaugurated 2014) and Champs-Élysées in Paris (inaugurated 2013). On May 3, 2024, Puig began trading on the Spanish stock exchanges, becoming the country's largest IPO in years. The company's portfolio spans fragrance, fashion, luxury beauty, and niche perfumery.
+Puig is a Spanish multinational company founded in Barcelona in 1914 by Antonio Puig Castelló. It began as a cosmetics business - producing Spain's first lipstick in 1922 and the landmark fragrance Agua Lavanda Puig in 1940 - before expanding into fashion and luxury beauty over the following century. The company has been family-owned for four generations; Marc Puig has served as chairman and CEO since 2007. Puig's corporate headquarters are at Puig Tower in Barcelona (inaugurated 2014) and Champs-Élysées in Paris (inaugurated 2013). On May 3, 2024, Puig began trading on the Spanish stock exchanges, becoming the country's largest IPO in years. The company's portfolio spans fragrance, fashion, luxury beauty, and niche perfumery.
 
-Marc Puig serves as chairman and CEO (from 2007). The group's fourth-generation family leadership model preserves brand autonomy at the house level. No group-level creative director is documented. Individual brand creative direction is maintained by each house's own design teams. Puig unveiled a new corporate visual identity in 2024 — described as "placing creativity at the center and reflecting its culture and values." The 2025 launch of Colonias Absolutas Puig (a collection of eaux de cologne rooted in family tradition and perfumery craftsmanship) suggests Puig is also developing its own proprietary fragrance brand presence.
+Marc Puig serves as chairman and CEO (from 2007). The group's fourth-generation family leadership model preserves brand autonomy at the house level. No group-level creative director is documented. Individual brand creative direction is maintained by each house's own design teams. Puig unveiled a new corporate visual identity in 2024 - described as "placing creativity at the center and reflecting its culture and values." The 2025 launch of Colonias Absolutas Puig (a collection of eaux de cologne rooted in family tradition and perfumery craftsmanship) suggests Puig is also developing its own proprietary fragrance brand presence.
 
 ## History
 
 - 1914: Antonio Puig Castelló founds Antonio Puig S.A., Barcelona
-- 1922: Launch of Milady Lipstick — first lipstick manufactured in Spain
+- 1922: Launch of Milady Lipstick - first lipstick manufactured in Spain
 - 1940: Launch of Agua Lavanda Puig fragrance
 - 1946: New factory and headquarters built at Travessera de Gràcia, Barcelona
 - 1948: Launch of L'Air du Temps by Nina Ricci (distributed by Puig)
@@ -68,7 +69,7 @@ Marc Puig serves as chairman and CEO (from 2007). The group's fourth-generation 
 - 1973: Paco Rabanne Pour Homme
 - 1976: Perfume factory built in Chartres, France
 - 1982: Quorum wins Best Packaging of the Year at the FiFi Awards (New York)
-- 1987: Puig acquires entire Paco Rabanne business — fashion and accessories included
+- 1987: Puig acquires entire Paco Rabanne business - fashion and accessories included
 - 1988: First Carolina Herrera designer fragrance launched
 - 1995: Acquisition of Carolina Herrera New York fashion division
 - 1997: 212 by Carolina Herrera launched; Antonio Banderas/Diavolo fragrance; Puig Chile established
@@ -95,25 +96,25 @@ Marc Puig serves as chairman and CEO (from 2007). The group's fourth-generation 
 ## Products
 
 **Fashion and accessories:**
-- **Paco Rabanne** — full fashion and accessories business acquired 1987; known for chainmail and metal construction, futurist surface materials, and radical surface-material experimentation; Calandre (1969), 1 Million (2008), Invictus (2013) are fragrance pillars
-- **Carolina Herrera** — New York fashion house; women's RTW with a bold floral and graphic print direction; 212 fragrance (1997)
-- **Jean Paul Gaultier** — French fashion house; majority stake 2011; fully integrated fragrances 2016; known for sailor stripe, corset silhouette, French cultural motifs
-- **Nina Ricci** — French fashion house; fragrance + fashion acquired 1998; L'Air du Temps fragrance heritage
-- **Dries Van Noten** — Belgian luxury fashion house; majority stake 2018; known for richly layered, print-intensive collections
+- **Paco Rabanne** - full fashion and accessories business acquired 1987; known for chainmail and metal construction, futurist surface materials, and radical surface-material experimentation; Calandre (1969), 1 Million (2008), Invictus (2013) are fragrance pillars
+- **Carolina Herrera** - New York fashion house; women's RTW with a bold floral and graphic print direction; 212 fragrance (1997)
+- **Jean Paul Gaultier** - French fashion house; majority stake 2011; fully integrated fragrances 2016; known for sailor stripe, corset silhouette, French cultural motifs
+- **Nina Ricci** - French fashion house; fragrance + fashion acquired 1998; L'Air du Temps fragrance heritage
+- **Dries Van Noten** - Belgian luxury fashion house; majority stake 2018; known for richly layered, print-intensive collections
 
 **Fragrance and beauty:**
-- **Paco Rabanne fragrances** — Calandre, 1 Million, Invictus (global commercial successes)
-- **Carolina Herrera fragrances** — 212 (1997), Good Girl and others
-- **Jean Paul Gaultier fragrances** — Le Male, Classique
-- **Penhaligon's** — British heritage fragrance house (acquired 2015)
-- **L'Artisan Parfumeur** — French niche fragrance house (acquired 2015)
-- **Byredo** — Swedish niche luxury fragrance and accessories brand (majority stake 2022)
-- **Comme des Garçons fragrances** — Puig develops under licence (from 2002)
-- **Charlotte Tilbury** — British luxury makeup and skincare (majority stake 2020)
-- **Kama Ayurveda** — Indian luxury beauty brand
-- **Loto del Sur** — Latin American beauty brand
-- **Dr. Barbara Sturm** — German luxury skincare brand (majority stake 2024)
-- **Antonio Banderas fragrances** — celebrity fragrance partnership
+- **Paco Rabanne fragrances** - Calandre, 1 Million, Invictus (global commercial successes)
+- **Carolina Herrera fragrances** - 212 (1997), Good Girl and others
+- **Jean Paul Gaultier fragrances** - Le Male, Classique
+- **Penhaligon's** - British heritage fragrance house (acquired 2015)
+- **L'Artisan Parfumeur** - French niche fragrance house (acquired 2015)
+- **Byredo** - Swedish niche luxury fragrance and accessories brand (majority stake 2022)
+- **Comme des Garçons fragrances** - Puig develops under licence (from 2002)
+- **Charlotte Tilbury** - British luxury makeup and skincare (majority stake 2020)
+- **Kama Ayurveda** - Indian luxury beauty brand
+- **Loto del Sur** - Latin American beauty brand
+- **Dr. Barbara Sturm** - German luxury skincare brand (majority stake 2024)
+- **Antonio Banderas fragrances** - celebrity fragrance partnership
 
 ## Services
 
@@ -121,21 +122,21 @@ Puig sells through perfumery chains, department stores, own-brand boutiques, and
 
 ## Markets
 
-Puig operates across the fragrance, luxury fashion, niche perfumery, and prestige beauty segments. The company occupies a distinctive position as the largest independently Spanish-owned luxury group, competing in the same tier as LVMH, Kering, Richemont, and Interparfums — but with a stronger fragrance foundation than most fashion groups. Its 2024 Spanish Stock Exchange listing raised its public profile significantly. The portfolio's centre of gravity is prestige fragrance (Paco Rabanne, Carolina Herrera, Jean Paul Gaultier, Nina Ricci, Penhaligon's, L'Artisan Parfumeur, Byredo, Comme des Garçons) alongside fashion houses with strong print and surface design identities (Paco Rabanne, Jean Paul Gaultier, Dries Van Noten, Carolina Herrera).
+Puig operates across the fragrance, luxury fashion, niche perfumery, and prestige beauty segments. The company occupies a distinctive position as the largest independently Spanish-owned luxury group, competing in the same tier as LVMH, Kering, Richemont, and Interparfums - but with a stronger fragrance foundation than most fashion groups. Its 2024 Spanish Stock Exchange listing raised its public profile significantly. The portfolio's centre of gravity is prestige fragrance (Paco Rabanne, Carolina Herrera, Jean Paul Gaultier, Nina Ricci, Penhaligon's, L'Artisan Parfumeur, Byredo, Comme des Garçons) alongside fashion houses with strong print and surface design identities (Paco Rabanne, Jean Paul Gaultier, Dries Van Noten, Carolina Herrera).
 
 ## Pattern and Surface Design Relevance
 
 Puig's portfolio contains several brands with direct and significant surface pattern design relevance.
 
-**Paco Rabanne** is one of fashion's most radical surface material experimenters. Founded by Basque designer Francisco Rabaneda Cuervo (Paco Rabanne), the house built its entire identity on non-conventional surface construction: chainmail dresses assembled from linked metal discs, plastic-tile surfaces, paper garments, and metallic structures. Puig acquired the full Paco Rabanne fashion and accessories business in 1987. The brand's visual identity — metallic surface, chainmail grid, laser-cut pattern, architectural construction — is one of the most distinctive in fashion surface design history. The fragrance bottle designs (1 Million's gold bar; Invictus's trophy shape) translate brand surface language into product packaging.
+**Paco Rabanne** is one of fashion's most radical surface material experimenters. Founded by Basque designer Francisco Rabaneda Cuervo (Paco Rabanne), the house built its entire identity on non-conventional surface construction: chainmail dresses assembled from linked metal discs, plastic-tile surfaces, paper garments, and metallic structures. Puig acquired the full Paco Rabanne fashion and accessories business in 1987. The brand's visual identity - metallic surface, chainmail grid, laser-cut pattern, architectural construction - is one of the most distinctive in fashion surface design history. The fragrance bottle designs (1 Million's gold bar; Invictus's trophy shape) translate brand surface language into product packaging.
 
-**Dries Van Noten** is one of the most print-intensive luxury fashion brands in the market. The Belgian designer's work is defined by an extraordinarily layered visual language: botanical prints, textile pattern mixing, tapestry reference, global print vocabulary, rich embellishment, and a compositional density that makes each collection a document of surface pattern direction. Puig's majority stake (2018) gave it ownership of one of the world's most design-complex fashion brands. Van Noten's seasonal print direction — sourced globally and developed across multiple categories — is commercially and editorially significant in pattern design terms.
+**Dries Van Noten** is one of the most print-intensive luxury fashion brands in the market. The Belgian designer's work is defined by an extraordinarily layered visual language: botanical prints, textile pattern mixing, tapestry reference, global print vocabulary, rich embellishment, and a compositional density that makes each collection a document of surface pattern direction. Puig's majority stake (2018) gave it ownership of one of the world's most design-complex fashion brands. Van Noten's seasonal print direction - sourced globally and developed across multiple categories - is commercially and editorially significant in pattern design terms.
 
 **Jean Paul Gaultier** brought to Puig's portfolio one of fashion's most recognisable surface motifs: the Breton sailor stripe. Gaultier's use of the blue-and-white marinière stripe as a recurring brand signature across collections, fragrance packaging, and advertising has made it one of the most commercially exploited pattern identities in French fashion. Beyond the stripe, Gaultier's collections have drawn on corset embellishment, tattoo surface motifs, and cultural pattern references.
 
-**Carolina Herrera** built a strong print identity in luxury womenswear — particularly bold florals, graphic colour-contrasted prints, and sophisticated pattern combinations that reference her Venezuelan heritage and New York social world context.
+**Carolina Herrera** built a strong print identity in luxury womenswear - particularly bold florals, graphic colour-contrasted prints, and sophisticated pattern combinations that reference her Venezuelan heritage and New York social world context.
 
-**Penhaligon's** (acquired 2015) — British heritage fragrance brand with a long history of elaborate packaging design and illustrated label aesthetics rooted in Victorian decorative arts. Penhaligon's animal portrait bottle/packaging designs represent a distinct applied surface illustration tradition.
+**Penhaligon's** (acquired 2015) - British heritage fragrance brand with a long history of elaborate packaging design and illustrated label aesthetics rooted in Victorian decorative arts. Penhaligon's animal portrait bottle/packaging designs represent a distinct applied surface illustration tradition.
 
 **Fragrance packaging design** is a surface design practice in its own right. Puig's launch of Quorum's packaging (Best Packaging of the Year, FiFi Awards, 1982) and decades of fragrance bottle design across Paco Rabanne, Carolina Herrera, and Jean Paul Gaultier represent a significant body of commercial graphic surface design.
 

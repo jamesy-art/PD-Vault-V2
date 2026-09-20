@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 100
 ---
 
 # Christmas Pattern
@@ -121,23 +122,23 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/christmas-pattern/profile/christmas-pattern-image.svg)
-A seasonal surface pattern category defined by repeating motifs associated with Christmas and winter holiday celebrations — applied to wrapping paper, gift textiles, seasonal apparel, and home decor.
+A seasonal surface pattern category defined by repeating motifs associated with Christmas and winter holiday celebrations - applied to wrapping paper, gift textiles, seasonal apparel, and home decor.
 
 ## Overview
 
-Christmas pattern is one of the most commercially reliable seasonal pattern categories in surface design. The seasonal and gift-driven purchasing cycle creates consistent demand for Christmas pattern across wrapping paper, fabric, stationery, homeware, and holiday apparel — with new designs produced annually by retailers and pattern designers. The category is characterised by a stable core motif vocabulary with significant variation in style, from traditional and heritage treatments through to contemporary, minimal, and novelty approaches.
+Christmas pattern is one of the most commercially reliable seasonal pattern categories in surface design. The seasonal and gift-driven purchasing cycle creates consistent demand for Christmas pattern across wrapping paper, fabric, stationery, homeware, and holiday apparel - with new designs produced annually by retailers and pattern designers. The category is characterised by a stable core motif vocabulary with significant variation in style, from traditional and heritage treatments through to contemporary, minimal, and novelty approaches.
 
 ## Visual Characteristics
 
-Christmas patterns typically use dense, all-over repeats of holiday motifs — the visual density of traditional Christmas pattern creates a sense of abundance and festivity. Plaid and tartan grounds are common, particularly in the American market, often combined with seasonal motifs. Fair Isle knit patterns, originally from the Scottish islands, provide a structured geometric-with-motif format strongly associated with winter knitwear and Christmas jumper aesthetics. Colour contrast is high — red-and-white and red-and-green combinations dominate traditional treatments.
+Christmas patterns typically use dense, all-over repeats of holiday motifs - the visual density of traditional Christmas pattern creates a sense of abundance and festivity. Plaid and tartan grounds are common, particularly in the American market, often combined with seasonal motifs. Fair Isle knit patterns, originally from the Scottish islands, provide a structured geometric-with-motif format strongly associated with winter knitwear and Christmas jumper aesthetics. Colour contrast is high - red-and-white and red-and-green combinations dominate traditional treatments.
 
 ## Pattern Structure
 
 Christmas pattern commonly appears in:
-- **All-over scatter repeat** — individual motifs distributed across the surface
-- **Plaid/tartan ground with overlay motifs** — a structured check or plaid base with holiday motifs printed or woven over it
-- **Fair Isle structure** — a horizontal band pattern with geometric repeat motifs alternating in colour; originally a knitted textile structure adapted into printed surface design
-- **Stripe and border compositions** — used in gift wrap and ribbon design
+- **All-over scatter repeat** - individual motifs distributed across the surface
+- **Plaid/tartan ground with overlay motifs** - a structured check or plaid base with holiday motifs printed or woven over it
+- **Fair Isle structure** - a horizontal band pattern with geometric repeat motifs alternating in colour; originally a knitted textile structure adapted into printed surface design
+- **Stripe and border compositions** - used in gift wrap and ribbon design
 
 ## Common Motifs
 
@@ -156,7 +157,7 @@ Christmas pattern commonly appears in:
 
 ## Colour and Style
 
-Traditional Christmas palette centres on red, green, white, and gold — referencing holly berries and leaves, snow, and festive decoration. Secondary palette variants include navy and gold, black and gold, and brown and gold for more sophisticated or masculine treatments. Pastel and modern Scandi-minimal versions use muted sage green, dusty pink, and cream. Novelty and character-driven Christmas patterns use any colourway appropriate to the specific motif.
+Traditional Christmas palette centres on red, green, white, and gold - referencing holly berries and leaves, snow, and festive decoration. Secondary palette variants include navy and gold, black and gold, and brown and gold for more sophisticated or masculine treatments. Pastel and modern Scandi-minimal versions use muted sage green, dusty pink, and cream. Novelty and character-driven Christmas patterns use any colourway appropriate to the specific motif.
 
 ## History and Context
 
@@ -164,19 +165,19 @@ Christmas as a commercial surface pattern category is a product of the industria
 
 ## Surface Pattern Uses
 
-- **Gift wrap and packaging** — wrapping paper is the primary commercial application for Christmas pattern; it is produced in enormous volume and renewed annually
-- **Holiday apparel** — Christmas jumpers, pyjamas, and festive accessories are a significant seasonal category
-- **Home textiles** — seasonal cushions, throws, table runners, and tablecloths use Christmas pattern
-- **Stationery** — Christmas cards, gift tags, and wrapping materials
-- **POD platforms** — Christmas pattern is one of the highest-volume seasonal categories on print-on-demand platforms, with demand peaking October–December
+- **Gift wrap and packaging** - wrapping paper is the primary commercial application for Christmas pattern; it is produced in enormous volume and renewed annually
+- **Holiday apparel** - Christmas jumpers, pyjamas, and festive accessories are a significant seasonal category
+- **Home textiles** - seasonal cushions, throws, table runners, and tablecloths use Christmas pattern
+- **Stationery** - Christmas cards, gift tags, and wrapping materials
+- **POD platforms** - Christmas pattern is one of the highest-volume seasonal categories on print-on-demand platforms, with demand peaking October-December
 
 ## Related Pattern Types
 
-[[Plaid Pattern]], [[Tartan Pattern]], [[Fair Isle Pattern]], [[Snowflake Pattern]], [[Nordic Pattern]], [[Winter Pattern]]
+Plaid Pattern, Tartan Pattern, Fair Isle Pattern, Snowflake Pattern, Nordic Pattern, Winter Pattern
 
 ## Source Notes
 
-- Source: AI chatbot response — limited SPD-specific content; confirmed core applications (wrapping paper, textiles, holiday apparel) and cited plaid/tartan patterns and classic Fair Isle knit as Christmas pattern references; mention of Chrismon/religious symbols (candy cane, evergreen tree)
+- Source: AI chatbot response - limited SPD-specific content; confirmed core applications (wrapping paper, textiles, holiday apparel) and cited plaid/tartan patterns and classic Fair Isle knit as Christmas pattern references; mention of Chrismon/religious symbols (candy cane, evergreen tree)
 
 ## Editorial Images
 

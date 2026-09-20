@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 19
 ---
 
 # White Pattern
@@ -118,19 +119,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/white-pattern/profile/white-pattern-image.svg)
-A colour-led pattern category defined by white or off-white as the dominant or ground colour — associated with minimalism, cleanliness, purity, and high-contrast clarity in surface design.
+A colour-led pattern category defined by white or off-white as the dominant or ground colour - associated with minimalism, cleanliness, purity, and high-contrast clarity in surface design.
 
 ## Overview
 
-White and off-white as dominant pattern colours produce surface designs with a distinctive restraint and clarity. In surface pattern design, white functions both as a ground colour (providing the base against which coloured motifs are seen) and as a primary design element in its own right — in tone-on-tone patterns, broderie anglaise-inspired cutwork effects, and minimalist single-colour repeats. The white spectrum is broader than it initially appears: dozens of commercially named off-whites with distinct undertones give designers significant palette range within the white family.
+White and off-white as dominant pattern colours produce surface designs with a distinctive restraint and clarity. In surface pattern design, white functions both as a ground colour (providing the base against which coloured motifs are seen) and as a primary design element in its own right - in tone-on-tone patterns, broderie anglaise-inspired cutwork effects, and minimalist single-colour repeats. The white spectrum is broader than it initially appears: dozens of commercially named off-whites with distinct undertones give designers significant palette range within the white family.
 
 ## Visual Characteristics
 
-Pure white (#FFFFFF, RGB 255/255/255) is achromatic — it has no hue, only maximum lightness. In practice, most "white" surfaces and textiles carry a slight tonal bias: cool (blue or grey undertones), warm (yellow or pink undertones), or neutral. This tonal bias significantly affects how a white pattern reads against other elements. White patterns read as clean, fresh, and minimal; they create high contrast with dark motifs and provide maximum legibility. White-ground patterns are the most commercially flexible in fashion and home textiles.
+Pure white (#FFFFFF, RGB 255/255/255) is achromatic - it has no hue, only maximum lightness. In practice, most "white" surfaces and textiles carry a slight tonal bias: cool (blue or grey undertones), warm (yellow or pink undertones), or neutral. This tonal bias significantly affects how a white pattern reads against other elements. White patterns read as clean, fresh, and minimal; they create high contrast with dark motifs and provide maximum legibility. White-ground patterns are the most commercially flexible in fashion and home textiles.
 
 ## Pattern Structure
 
-White is used across all pattern structures. As a ground colour, white supports any motif family. As the primary motif colour in tone-on-tone patterns — white embroidery on white linen, white print on cream ground, cream jacquard on white base — it produces subtle, textural effects that depend on surface sheen or slight value contrast rather than hue contrast.
+White is used across all pattern structures. As a ground colour, white supports any motif family. As the primary motif colour in tone-on-tone patterns - white embroidery on white linen, white print on cream ground, cream jacquard on white base - it produces subtle, textural effects that depend on surface sheen or slight value contrast rather than hue contrast.
 
 ## Common Motifs
 
@@ -139,18 +140,18 @@ White-dominant patterns are most associated with: clean geometric repeats (white
 ## Colour and Style
 
 The commercially important white spectrum includes:
-- **Chalk white** — cool, slightly blue-grey undertone
-- **Ivory** (#FFFFF0) — subtle warm yellow undertone; associated with natural and vintage aesthetics
-- **Pearl** — soft beige with faint grey; delicate and premium
-- **Cream** (#FFFDD0) — warm yellow undertone; classic and domestic
-- **Eggshell** (#F0EAD6) — muted, slightly beige; natural, organic
-- **Antique white** (#FAEBD7) — beige-peach undertone; vintage and heritage associations
+- **Chalk white** - cool, slightly blue-grey undertone
+- **Ivory** (#FFFFF0) - subtle warm yellow undertone; associated with natural and vintage aesthetics
+- **Pearl** - soft beige with faint grey; delicate and premium
+- **Cream** (#FFFDD0) - warm yellow undertone; classic and domestic
+- **Eggshell** (#F0EAD6) - muted, slightly beige; natural, organic
+- **Antique white** (#FAEBD7) - beige-peach undertone; vintage and heritage associations
 
 Paint manufacturers offer extensive ranges: Benjamin Moore 152 named off-whites, Behr 167, PPG 315. CSS specification named near-whites include WhiteSmoke, GhostWhite, AliceBlue, Azure, Ivory, Linen, Seashell, and Champagne. Pantone's 2026 Colour of the Year was a near-white shade, signalling the commercial ascendancy of white and off-white tones in that period.
 
 ## History and Context
 
-White has carried strong symbolic meaning across most world cultures, though its specific associations vary: purity and virtue in Western traditions; mourning in parts of East Asia and South Asia; cleanliness and clinical precision in modern industrial and medical contexts. As a dominant fashion and interior colour, white became strongly associated with modernist aesthetics in the 20th century — the white walls of the International Style, the white-ground minimalist design of mid-century Scandinavian aesthetics — and has maintained strong commercial positioning as a signifier of cleanliness, simplicity, and premium quality.
+White has carried strong symbolic meaning across most world cultures, though its specific associations vary: purity and virtue in Western traditions; mourning in parts of East Asia and South Asia; cleanliness and clinical precision in modern industrial and medical contexts. As a dominant fashion and interior colour, white became strongly associated with modernist aesthetics in the 20th century - the white walls of the International Style, the white-ground minimalist design of mid-century Scandinavian aesthetics - and has maintained strong commercial positioning as a signifier of cleanliness, simplicity, and premium quality.
 
 ## Surface Pattern Uses
 
@@ -162,13 +163,13 @@ White has carried strong symbolic meaning across most world cultures, though its
 
 ## Related Pattern Types
 
-- [[Yellow Pattern]] — warm off-whites (ivory, cream) overlap with pale yellow tones
-- [[Texture Pattern]] — tone-on-tone white patterns function primarily as texture
+- Yellow Pattern - warm off-whites (ivory, cream) overlap with pale yellow tones
+- Texture Pattern - tone-on-tone white patterns function primarily as texture
 
 ## Source Notes
 
-- Wikipedia, "Shades of white" — achromatic definition (#FFFFFF), named off-white shades (chalk/ivory/pearl/cream/eggshell/antique white), Benjamin Moore/Behr/PPG shade counts, CSS named near-whites
-- Quillbot, "White Color Meaning" — purity/virtue/peace/cleanliness in Western culture; cold/lonely in excess; minimalist/crisp aesthetics; Pantone Color of Year 2026 as near-white
+- Wikipedia, "Shades of white" - achromatic definition (#FFFFFF), named off-white shades (chalk/ivory/pearl/cream/eggshell/antique white), Benjamin Moore/Behr/PPG shade counts, CSS named near-whites
+- Quillbot, "White Color Meaning" - purity/virtue/peace/cleanliness in Western culture; cold/lonely in excess; minimalist/crisp aesthetics; Pantone Color of Year 2026 as near-white
 
 ## Editorial Images
 

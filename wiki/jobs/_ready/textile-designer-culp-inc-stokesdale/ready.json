@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-dfbd60099f6bded0",
+  "editorial_slug": "textile-designer-culp-inc-stokesdale",
+  "canonical_id": "can-clip-dfbd60099f6bded0",
+  "capture_id": "cap-clip-dfbd60099f6bded0",
+  "ready_status": "ready",
+  "ready_at": "2026-08-06T00:00:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.7d3c2d37",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "7d3c2d3759559b9d417ab6ce6c11fa5d8e19b2a38fd35e5617ff8d9b5b65eea7",
+  "title": "Textile Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 2,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 2,
+    "rewritten_wikilinks": 0
+  }
+}

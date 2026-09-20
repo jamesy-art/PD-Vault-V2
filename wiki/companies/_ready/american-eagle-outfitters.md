@@ -68,6 +68,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 112
 ---
 
 # American Eagle Outfitters
@@ -87,7 +88,7 @@ enrichment_status: enriched
 
 American Eagle Outfitters, Inc. (AEO) is an American clothing and accessories retailer headquartered at SouthSide Works in Pittsburgh, Pennsylvania. Founded in 1977 by Jerry and Mark Silverman, the company pivoted in the early 1990s to private-label casual clothing and established its core identity around denim, graphic T-shirts, and youth-oriented lifestyle apparel. AEO operates four consumer brands: American Eagle, aerie, Offline by Aerie, and Todd Snyder. As of January 2023, the company operated 1,175 American Eagle stores, 175 aerie stores, and 12 Todd Snyder stores across the US, Canada, Mexico, and Hong Kong.
 
-AEO's aesthetic centres on accessible American casualwear: denim, collegiate graphics, and seasonal prints. The aerie brand applies a pattern-forward design approach — bold florals, abstract prints, and all-over repeat patterns are core to its intimate and loungewear product. Tailgate applies vintage-collegiate graphic language (distressed prints, archival collegiate motifs) to its apparel. The company maintains lab stores for each brand and a photo studio at its SouthSide Works campus, where seasonal lines and store layouts are developed and tested.
+AEO's aesthetic centres on accessible American casualwear: denim, collegiate graphics, and seasonal prints. The aerie brand applies a pattern-forward design approach - bold florals, abstract prints, and all-over repeat patterns are core to its intimate and loungewear product. Tailgate applies vintage-collegiate graphic language (distressed prints, archival collegiate motifs) to its apparel. The company maintains lab stores for each brand and a photo studio at its SouthSide Works campus, where seasonal lines and store layouts are developed and tested.
 
 ## History
 
@@ -102,14 +103,14 @@ AEO's aesthetic centres on accessible American casualwear: denim, collegiate gra
 
 ## Products
 
-- **Denim** — jeans as a core product identity anchor
-- **Graphic T-shirts** — ongoing investment in applied surface graphics
-- **Polo shirts, outerwear, swimwear** — seasonal product categories
-- **aerie** — intimates, lingerie, loungewear, sleepwear, activewear; sub-brand launched February 2006; known for bold prints and patterns; body-positive #AerieREAL campaign
-- **Offline by Aerie** — activewear/athleisure sub-brand (launched July 2020)
-- **Todd Snyder** — upscale menswear label (acquired November 2015 for $11M)
-- **Tailgate Clothing** — vintage-style collegiate apparel (acquired alongside Todd Snyder); originally focused on SEC and Big Ten colleges
-- **Unsubscribed** — sustainable quality goods upmarket boutique (launched 2020)
+- **Denim** - jeans as a core product identity anchor
+- **Graphic T-shirts** - ongoing investment in applied surface graphics
+- **Polo shirts, outerwear, swimwear** - seasonal product categories
+- **aerie** - intimates, lingerie, loungewear, sleepwear, activewear; sub-brand launched February 2006; known for bold prints and patterns; body-positive #AerieREAL campaign
+- **Offline by Aerie** - activewear/athleisure sub-brand (launched July 2020)
+- **Todd Snyder** - upscale menswear label (acquired November 2015 for $11M)
+- **Tailgate Clothing** - vintage-style collegiate apparel (acquired alongside Todd Snyder); originally focused on SEC and Big Ten colleges
+- **Unsubscribed** - sustainable quality goods upmarket boutique (launched 2020)
 
 Closed banners: Martin + Osa (2010), 77kids (sold 2012), Bluenotes (sold 2004).
 
@@ -119,11 +120,11 @@ AEO operates a vertically integrated direct-retail model. North American stores 
 
 ## Markets
 
-AEO operates in the accessible mid-market casualwear segment, targeting male and female university and high school students as its primary demographic. The brand competes in the same space as Abercrombie & Fitch, Gap, and Urban Outfitters. International stores outside North America operate under franchise or licence agreements. Since 2026, AEO has held an NFL fashion partnership — the first of its kind for the league. In 2025, the brand's Sydney Sweeney "Great Jeans" campaign generated significant media attention, drove customer acquisition, and contributed to a 23% stock price surge.
+AEO operates in the accessible mid-market casualwear segment, targeting male and female university and high school students as its primary demographic. The brand competes in the same space as Abercrombie & Fitch, Gap, and Urban Outfitters. International stores outside North America operate under franchise or licence agreements. Since 2026, AEO has held an NFL fashion partnership - the first of its kind for the league. In 2025, the brand's Sydney Sweeney "Great Jeans" campaign generated significant media attention, drove customer acquisition, and contributed to a 23% stock price surge.
 
 ## Pattern and Surface Design Relevance
 
-Graphic apparel design is embedded in AEO's product identity. Graphic T-shirts and printed tops are among the brand's foundational product categories. The aerie sub-brand is particularly active in applied surface pattern design — its intimates, loungewear, and activewear collections carry bold, seasonally updated prints and all-over pattern treatments targeting a young female customer. The Tailgate Clothing brand draws on vintage collegiate graphics, team-associated colourways, and heritage motifs. Swimwear prints are a recurring seasonal design category across both AEO and aerie. Private-label production across all brands means AEO develops surface design in-house across its New York design studios.
+Graphic apparel design is embedded in AEO's product identity. Graphic T-shirts and printed tops are among the brand's foundational product categories. The aerie sub-brand is particularly active in applied surface pattern design - its intimates, loungewear, and activewear collections carry bold, seasonally updated prints and all-over pattern treatments targeting a young female customer. The Tailgate Clothing brand draws on vintage collegiate graphics, team-associated colourways, and heritage motifs. Swimwear prints are a recurring seasonal design category across both AEO and aerie. Private-label production across all brands means AEO develops surface design in-house across its New York design studios.
 
 ## Official Resources
 

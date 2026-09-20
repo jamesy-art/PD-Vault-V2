@@ -1,5 +1,5 @@
 ---
-name: gingham-pattern
+name: Gingham Pattern
 slug: gingham-pattern
 status: draft
 type_group: general
@@ -60,13 +60,13 @@ gallery_images:
     sort_order: 1
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/dark-geometric-ethnic-pattern-traditional-design-pattern-used-skirt-carpet-wallpaper_31714276.htm"
-      image_url: "https://img.magnific.com/premium-vector/dark-geometric-ethnic-pattern-traditional-design-pattern-used-skirt-carpet-wallpaper_293525-884.jpg"
+      page_url: https://www.magnific.com/premium-vector/dark-geometric-ethnic-pattern-traditional-design-pattern-used-skirt-carpet-wallpaper_31714276.htm
+      image_url: https://img.magnific.com/premium-vector/dark-geometric-ethnic-pattern-traditional-design-pattern-used-skirt-carpet-wallpaper_293525-884.jpg
       title: Dark geometric ethnic pattern traditional design pattern used for skirt, carpet, wallpaper | Premium Vector
       description: Download this Premium vector of Dark geometric ethnic pattern traditional design pattern used for skirt, carpet, wallpaper and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: gingham-pattern-2-pattern-designers.jpg
     title: Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy | Premium Vector
     alt: Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy | Premium Vector
@@ -75,13 +75,13 @@ gallery_images:
     sort_order: 2
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/gingham-seamless-pattern-seamless-checkered-pattern-texture-cherry-blue-yellow-green-white-vichy_418267630.htm"
-      image_url: "https://img.magnific.com/premium-vector/gingham-seamless-pattern-seamless-checkered-pattern-texture-cherry-blue-yellow-green-white-vichy_190068-12084.jpg"
+      page_url: https://www.magnific.com/premium-vector/gingham-seamless-pattern-seamless-checkered-pattern-texture-cherry-blue-yellow-green-white-vichy_418267630.htm
+      image_url: https://img.magnific.com/premium-vector/gingham-seamless-pattern-seamless-checkered-pattern-texture-cherry-blue-yellow-green-white-vichy_190068-12084.jpg
       title: Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy | Premium Vector
       description: Download this Premium vector of Gingham seamless pattern seamless checkered pattern texture cherry blue yellow green and white vichy and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: gingham-pattern-3-pattern-designers.jpg
     title: Red and white gingham pattern
     alt: Red and white gingham pattern
@@ -90,13 +90,13 @@ gallery_images:
     sort_order: 3
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/red-white-gingham-pattern_2602853.htm"
-      image_url: "https://img.magnific.com/free-vector/red-white-gingham-pattern_1048-8291.jpg"
+      page_url: https://www.magnific.com/free-vector/red-white-gingham-pattern_2602853.htm
+      image_url: https://img.magnific.com/free-vector/red-white-gingham-pattern_1048-8291.jpg
       title: Red and white gingham pattern
       description: Download this free vector of Red and white gingham pattern  and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: gingham-pattern-4-pattern-designers.jpg
     title: Retro colour plaid background
     alt: Retro colour plaid background
@@ -105,13 +105,14 @@ gallery_images:
     sort_order: 4
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/free-vector/retro-colour-plaid-background_59533856.htm"
-      image_url: "https://img.magnific.com/free-vector/retro-colour-plaid-background_78370-2764.jpg"
+      page_url: https://www.magnific.com/free-vector/retro-colour-plaid-background_59533856.htm
+      image_url: https://img.magnific.com/free-vector/retro-colour-plaid-background_78370-2764.jpg
       title: Retro colour plaid background
       description: Download this free vector of Retro colour plaid background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
+marketing_order: 96
 ---
 
 # gingham-pattern
@@ -119,15 +120,15 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/gingham-pattern/profile/gingham-pattern-image.svg)
-A medium-weight, plain-woven check fabric — also called Vichy check — defined by its duotone check, stripe, or plaid pattern in bright colour against white.
+A medium-weight, plain-woven check fabric - also called Vichy check - defined by its duotone check, stripe, or plaid pattern in bright colour against white.
 
 ## Overview
 
-Gingham is a woven fabric (not a printed motif) — a medium-weight, balanced plain weave typically woven from dyed cotton or cotton-blend yarn in a bright colour against white, using carded, medium, or fine yarns. It is now most closely identified with its checked pattern, though it was originally a striped fabric before checked variants became dominant. Gingham is also known as Vichy check (English) and *estampado vichy* / *cuadro vichy* (Spanish).
+Gingham is a woven fabric (not a printed motif) - a medium-weight, balanced plain weave typically woven from dyed cotton or cotton-blend yarn in a bright colour against white, using carded, medium, or fine yarns. It is now most closely identified with its checked pattern, though it was originally a striped fabric before checked variants became dominant. Gingham is also known as Vichy check (English) and *estampado vichy* / *cuadro vichy* (Spanish).
 
 ## Visual Characteristics
 
-Gingham's signature look is a small, evenly spaced two-tone check, formed where coloured and white yarns cross in the weave — producing three visual tones (the ground colour, white, and a blended intermediate shade where the two overlap). Historically it was also woven as stripes, and later as tartan/plaid checks, before the simple two-colour check became the dominant form.
+Gingham's signature look is a small, evenly spaced two-tone check, formed where coloured and white yarns cross in the weave - producing three visual tones (the ground colour, white, and a blended intermediate shade where the two overlap). Historically it was also woven as stripes, and later as tartan/plaid checks, before the simple two-colour check became the dominant form.
 
 ## Pattern Structure
 
@@ -141,26 +142,26 @@ Gingham is a **woven check structure** built directly into the fabric via plain 
 
 ## Colour and Style
 
-Classic gingham is woven in a bright colour against white — blue and white is specifically noted as the most common historical and enduring combination, alongside green and white. The style reads as simple, bright, and graphic rather than tonal or muted.
+Classic gingham is woven in a bright colour against white - blue and white is specifically noted as the most common historical and enduring combination, alongside green and white. The style reads as simple, bright, and graphic rather than tonal or muted.
 
 ## History and Context
 
-Gingham's name is speculated to derive from Guingamp, a town in Brittany, France (via Dutch), though other sources trace the word to the Malay *genggang* ("striped"). It was originally imported into Europe in the 17th century as a striped fabric. From the mid-18th century, gingham was produced in the mills of Manchester, England, and began to be woven into checked or tartan patterns, often blue and white; checked gingham became dominant over time, though striped gingham remained available into the late Victorian era. Gingham was also introduced to France via Malaysia and produced in Vichy, France, under Napoleon Bonaparte — the source of its "Vichy check" name. In the 2010s, mass popularity of men's blue-and-white gingham shirts in the United States drew critical media coverage.
+Gingham's name is speculated to derive from Guingamp, a town in Brittany, France (via Dutch), though other sources trace the word to the Malay *genggang* ("striped"). It was originally imported into Europe in the 17th century as a striped fabric. From the mid-18th century, gingham was produced in the mills of Manchester, England, and began to be woven into checked or tartan patterns, often blue and white; checked gingham became dominant over time, though striped gingham remained available into the late Victorian era. Gingham was also introduced to France via Malaysia and produced in Vichy, France, under Napoleon Bonaparte - the source of its "Vichy check" name. In the 2010s, mass popularity of men's blue-and-white gingham shirts in the United States drew critical media coverage.
 
 ## Surface Pattern Uses
 
-- **Fashion apparel** — shirts, skirts, and maxi dresses; gingham shirts have been associated with the mod subculture since the 1960s and continue to be produced by brands such as Ben Sherman, Fred Perry, Original Penguin, and Merc, tied to indie and mod music fandom.
-- **Home furnishing** — towels and curtains.
-- **Fashion design process** — gingham (alongside muslin) is commonly used as a low-cost test fabric or fitting shell (toile) before cutting the final fashion fabric, valued for making construction lines easy to read.
-- **School uniforms** — in the United Kingdom, gingham is a standard pattern for younger girls' school uniforms.
+- **Fashion apparel** - shirts, skirts, and maxi dresses; gingham shirts have been associated with the mod subculture since the 1960s and continue to be produced by brands such as Ben Sherman, Fred Perry, Original Penguin, and Merc, tied to indie and mod music fandom.
+- **Home furnishing** - towels and curtains.
+- **Fashion design process** - gingham (alongside muslin) is commonly used as a low-cost test fabric or fitting shell (toile) before cutting the final fashion fabric, valued for making construction lines easy to read.
+- **School uniforms** - in the United Kingdom, gingham is a standard pattern for younger girls' school uniforms.
 
 ## Related Pattern Types
 
-[[Check Pattern]], [[Tartan Pattern]], [[Stripe Pattern]], [[Basket Weave Pattern]]
+Check Pattern, Tartan Pattern, Stripe Pattern, Basket Weave Pattern
 
 ## Source Notes
 
-- Source: Wikipedia, "Gingham" — covers etymology and disputed origin (Guingamp, France vs. Malay *genggang*), the shift from striped to checked patterning from the 17th–18th centuries, the Vichy, France connection, and documented commercial/cultural uses (fashion apparel, mod subculture branding, home furnishing, fitting-shell/toile use, and UK school uniforms).
+- Source: Wikipedia, "Gingham" - covers etymology and disputed origin (Guingamp, France vs. Malay *genggang*), the shift from striped to checked patterning from the 17th-18th centuries, the Vichy, France connection, and documented commercial/cultural uses (fashion apparel, mod subculture branding, home furnishing, fitting-shell/toile use, and UK school uniforms).
 
 ## Editorial Images
 

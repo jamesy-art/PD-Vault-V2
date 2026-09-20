@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 70
 ---
 
 # Vintage Pattern
@@ -121,19 +122,19 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/vintage-pattern/profile/vintage-pattern-image.svg)
-A pattern category defined by authentic period origin or faithful period-referencing aesthetic — primarily associated with fashion and decorative design from the early to mid 20th century.
+A pattern category defined by authentic period origin or faithful period-referencing aesthetic - primarily associated with fashion and decorative design from the early to mid 20th century.
 
 ## Overview
 
-In surface pattern design, "vintage" refers to patterns that authentically originate from or are designed to closely replicate the aesthetics of an earlier era, most commonly the 1920s through 1970s. The term is distinct from "retro" — which refers to contemporary designs consciously invoking past aesthetics — though the terms overlap in commercial usage. Vintage patterns carry the design conventions, print technologies, and colour palette limitations of their period of origin, giving them a distinctive quality that is difficult to precisely replicate digitally.
+In surface pattern design, "vintage" refers to patterns that authentically originate from or are designed to closely replicate the aesthetics of an earlier era, most commonly the 1920s through 1970s. The term is distinct from "retro" - which refers to contemporary designs consciously invoking past aesthetics - though the terms overlap in commercial usage. Vintage patterns carry the design conventions, print technologies, and colour palette limitations of their period of origin, giving them a distinctive quality that is difficult to precisely replicate digitally.
 
 ## Visual Characteristics
 
-Vintage surface patterns are typically characterised by: the colour limitations of the period's dye and printing technology (pre-digital, often limited to 3–6 printed colours); flat, graphic rendering without photorealistic shading; and motifs drawn from period fashions — the dropped-waistline flapper graphics of the 1920s, the full-skirted silhouette-adjacent prints of the 1950s, or the bold Op Art and abstract prints of the 1960s. Print registration in authentic vintage pieces may show deliberate or accidental imprecision, contributing to a distinctive hand-printed quality.
+Vintage surface patterns are typically characterised by: the colour limitations of the period's dye and printing technology (pre-digital, often limited to 3-6 printed colours); flat, graphic rendering without photorealistic shading; and motifs drawn from period fashions - the dropped-waistline flapper graphics of the 1920s, the full-skirted silhouette-adjacent prints of the 1950s, or the bold Op Art and abstract prints of the 1960s. Print registration in authentic vintage pieces may show deliberate or accidental imprecision, contributing to a distinctive hand-printed quality.
 
 ## Pattern Structure
 
-Vintage patterns use the repeat structures of their period — predominantly block repeats and simple half-drop arrangements. The constraint of pre-digital printing technology (engraved roller printing, screen printing, block printing) produced characteristic repeat structures that are mathematically straightforward compared to complex digital pattern construction. The repeat sizes are often standardised by the printing equipment of the era.
+Vintage patterns use the repeat structures of their period - predominantly block repeats and simple half-drop arrangements. The constraint of pre-digital printing technology (engraved roller printing, screen printing, block printing) produced characteristic repeat structures that are mathematically straightforward compared to complex digital pattern construction. The repeat sizes are often standardised by the printing equipment of the era.
 
 ## Common Motifs
 
@@ -145,15 +146,15 @@ Period-specific motifs that define vintage aesthetics include:
 ## Colour and Style
 
 Vintage colour palettes reflect the dye chemistry and print technology of their era:
-- **1920s–30s:** often muted, complex palettes with subtle tonal variation; influenced by Art Deco colour theory
+- **1920s-30s:** often muted, complex palettes with subtle tonal variation; influenced by Art Deco colour theory
 - **1950s:** stronger brights became available; typical palettes include turquoise, coral, and black on white
 - **1960s:** bold primaries, psychedelic acid colours, high contrast
 
-The source consulted — a guide to vintage sewing patterns as collectible objects — provides context on authenticating vintage patterns by copyright dates, pattern numbers, company logos, and printing quality. Authentic vintage sewing patterns show different sizing standards from modern equivalents, requiring pattern adjustment when used for garment construction.
+The source consulted - a guide to vintage sewing patterns as collectible objects - provides context on authenticating vintage patterns by copyright dates, pattern numbers, company logos, and printing quality. Authentic vintage sewing patterns show different sizing standards from modern equivalents, requiring pattern adjustment when used for garment construction.
 
 ## History and Context
 
-The surface pattern design field has a strong relationship with vintage reference material. Textile archives, vintage pattern collections, and original sample books from period mills and print studios are used by contemporary designers as visual reference and inspiration. Major fashion houses (Dior's New Look post-1947, Chanel's pre-war accessible fashion) defined the silhouette context within which period surface pattern was designed, and their aesthetic continues to inform vintage-referencing contemporary pattern design. Coco Chanel's influence on simplifying women's fashion and Dior's reimposition of the full, structured silhouette are specifically referenced in the source as major forces shaping the contexts in which 1940s–50s patterns were designed.
+The surface pattern design field has a strong relationship with vintage reference material. Textile archives, vintage pattern collections, and original sample books from period mills and print studios are used by contemporary designers as visual reference and inspiration. Major fashion houses (Dior's New Look post-1947, Chanel's pre-war accessible fashion) defined the silhouette context within which period surface pattern was designed, and their aesthetic continues to inform vintage-referencing contemporary pattern design. Coco Chanel's influence on simplifying women's fashion and Dior's reimposition of the full, structured silhouette are specifically referenced in the source as major forces shaping the contexts in which 1940s-50s patterns were designed.
 
 ## Surface Pattern Uses
 
@@ -165,13 +166,13 @@ The surface pattern design field has a strong relationship with vintage referenc
 
 ## Related Pattern Types
 
-- [[Retro Pattern]] — contemporary designs referencing past aesthetics, as distinct from authentic vintage
-- [[Floral Pattern]] — vintage florals are a major commercial subcategory
-- [[Art Deco Pattern]] — 1920s–30s vintage patterns overlap substantially with Art Deco aesthetics
+- Retro Pattern - contemporary designs referencing past aesthetics, as distinct from authentic vintage
+- Floral Pattern - vintage florals are a major commercial subcategory
+- Art Deco Pattern - 1920s-30s vintage patterns overlap substantially with Art Deco aesthetics
 
 ## Source Notes
 
-- TheVintagePatternShop guide — vintage sewing patterns as collectible objects; authentication by copyright dates/pattern numbers/logos/printing quality; 1920s flapper (dropped waistlines), 1950s hourglass, Dior New Look, Coco Chanel; adapting vintage patterns requires size adjustment; limited SPD content in source (focused on sewing patterns as objects)
+- TheVintagePatternShop guide - vintage sewing patterns as collectible objects; authentication by copyright dates/pattern numbers/logos/printing quality; 1920s flapper (dropped waistlines), 1950s hourglass, Dior New Look, Coco Chanel; adapting vintage patterns requires size adjustment; limited SPD content in source (focused on sewing patterns as objects)
 
 ## Editorial Images
 

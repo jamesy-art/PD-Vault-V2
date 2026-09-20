@@ -61,7 +61,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Grid_illusion.svg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Grid_illusion.svg/960px-Grid_illusion.svg.png"
       title: "](https://upload.wikimedia.org/wikipedia/commons/d/dc/Grid_illusion.svg)"
       description: "](https://upload.wikimedia.org/wikipedia/commons/d/dc/Grid_illusion.svg)"
@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 126
 ---
 
 # Illusion Pattern
@@ -120,7 +121,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/illusion-pattern/profile/illusion-pattern-image.svg)
-A surface pattern that uses geometric distortion, tonal contrast, and calculated repeat structures to trick the viewer's eye — making flat, static surfaces appear to vibrate, warp, curve, or move.
+A surface pattern that uses geometric distortion, tonal contrast, and calculated repeat structures to trick the viewer's eye - making flat, static surfaces appear to vibrate, warp, curve, or move.
 
 ## Overview
 
@@ -134,7 +135,7 @@ Illusion patterns typically share several visual properties:
 
 - **High contrast:** Black and white or complementary colour pairs create the visual tension necessary for the illusion effect
 - **Geometric precision:** The illusion depends on accurate spacing and angle; slight inaccuracies collapse the effect
-- **Apparent motion:** Certain arrangements — concentric rings, angled checkerboards, peripheral drift patterns — create a sensation of movement in a static image
+- **Apparent motion:** Certain arrangements - concentric rings, angled checkerboards, peripheral drift patterns - create a sensation of movement in a static image
 - **Depth and dimension:** Graduated tonal sequences, converging lines, and curved grids suggest three-dimensional form on a flat surface
 - **Instability:** The most effective illusion patterns are those where the eye cannot settle on a single stable reading
 
@@ -163,13 +164,13 @@ Illusion patterns require structural precision and are typically created using v
 
 Black and white is the primary palette for maximum contrast and strongest illusion effect. Monochrome (all tones of a single hue) also works effectively. Two-colour complementary pairs (red/cyan, blue/yellow, green/magenta) can create chromatic vibration effects beyond what achromatic contrast achieves.
 
-In commercial fashion applications, illusion patterns are often adapted with chromatic palettes — a wavy stripe repeat in navy and cream, or a concentric circle print in earth tones — retaining the structural distortion while fitting seasonal colour requirements.
+In commercial fashion applications, illusion patterns are often adapted with chromatic palettes - a wavy stripe repeat in navy and cream, or a concentric circle print in earth tones - retaining the structural distortion while fitting seasonal colour requirements.
 
 ## History and Context
 
 Op Art (Optical Art) emerged as a fine art movement in the 1960s, with Bridget Riley and Victor Vasarely among its leading practitioners. The movement demonstrated that purely geometric abstract painting could create powerful perceptual effects, and its visual vocabulary was rapidly adopted in fashion and textile design during the same decade.
 
-The scientific basis for illusion patterns lies in the Gestalt principles of visual perception and the neuroscience of how the visual cortex processes contrast, colour, and motion signals. Specific illusions — such as the Peripheral Drift Illusion (PDI), studied by Faubert and Herbert (1999) and Conway et al. (2005) — exploit temporal differences in luminance processing.
+The scientific basis for illusion patterns lies in the Gestalt principles of visual perception and the neuroscience of how the visual cortex processes contrast, colour, and motion signals. Specific illusions - such as the Peripheral Drift Illusion (PDI), studied by Faubert and Herbert (1999) and Conway et al. (2005) - exploit temporal differences in luminance processing.
 
 Professor Akiyoshi Kitaoka's Rotating Snakes (2003) is one of the most reproduced optical illusion patterns; its banded colour spiral produces apparent rotational movement through peripheral vision activation. It has been widely referenced in surface pattern and design contexts.
 
@@ -184,16 +185,16 @@ Professor Akiyoshi Kitaoka's Rotating Snakes (2003) is one of the most reproduce
 
 ## Related Pattern Types
 
-- [[Op Art Pattern]] — closely related; Op Art is the fine art movement; illusion pattern the surface design application
-- [[Geometric Pattern]] — parent category; illusion patterns are a specialised geometric sub-type
-- [[Stripe Pattern]] — wavy and angled stripe variants are common illusion pattern forms
-- [[Check Pattern]] — Café Wall and similar effects use offset checker structures
-- [[Trompe l'Oeil Pattern]] — related technique; pictorial rather than abstract illusion
+- Op Art Pattern - closely related; Op Art is the fine art movement; illusion pattern the surface design application
+- Geometric Pattern - parent category; illusion patterns are a specialised geometric sub-type
+- Stripe Pattern - wavy and angled stripe variants are common illusion pattern forms
+- Check Pattern - Café Wall and similar effects use offset checker structures
+- Trompe l'Oeil Pattern - related technique; pictorial rather than abstract illusion
 
 ## Source Notes
 
 - AI-generated source summary: Defines illusion pattern as visual motifs deliberately created to trick the human eye using geometric shapes, stark colour contrasts, or calculated line arrangements. Op Art cited as 1960s art movement. Key effects listed: Café Wall Illusion (parallel lines appearing sloped), peripheral drift, figure-ground reversal.
-- Wikipedia, Peripheral Drift Illusion / Rotating Snakes: Scientific basis for illusion pattern motion effects. Rotating Snakes pattern (Kitaoka, 2003) uses banded colour spiral to create apparent motion. Neural mechanism papers: Backus & Oruç (2005), Conway et al. (2005) — temporal differences in luminance processing produce signal tricking the motion system.
+- Wikipedia, Peripheral Drift Illusion / Rotating Snakes: Scientific basis for illusion pattern motion effects. Rotating Snakes pattern (Kitaoka, 2003) uses banded colour spiral to create apparent motion. Neural mechanism papers: Backus & Oruç (2005), Conway et al. (2005) - temporal differences in luminance processing produce signal tricking the motion system.
 
 ## Editorial Images
 

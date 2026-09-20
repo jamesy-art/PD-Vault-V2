@@ -77,6 +77,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 106
 ---
 
 # About You
@@ -110,7 +111,7 @@ The platform's aesthetic is shaped by personalisation algorithms and influencer-
 
 ## Products
 
-The platform sells women's, men's, and children's fashion (clothing, footwear, accessories) from 2,000+ third-party brands. The **Edited** private label — sold through a separate webshop and 100+ retail partners in Germany, Netherlands, Belgium, Switzerland, Austria, Denmark, and Czech Republic — is About You's proprietary design brand. Influencer collaborations include exclusive collections developed by selected creators, including Lena Gercke's "LeGer" and "LeGer Basics" lines.
+The platform sells women's, men's, and children's fashion (clothing, footwear, accessories) from 2,000+ third-party brands. The **Edited** private label - sold through a separate webshop and 100+ retail partners in Germany, Netherlands, Belgium, Switzerland, Austria, Denmark, and Czech Republic - is About You's proprietary design brand. Influencer collaborations include exclusive collections developed by selected creators, including Lena Gercke's "LeGer" and "LeGer Basics" lines.
 
 ## Services
 
@@ -122,7 +123,7 @@ About You positioned itself as Europe's most personalised online fashion retaile
 
 ## Pattern and Surface Design Relevance
 
-About You's direct SPD relevance lies in the Edited private label, which requires in-house fashion design and print/pattern decisions across clothing categories. As a multi-brand marketplace, the platform is a retail channel for pattern-driven fashion brands across all segments — including swimwear, activewear, and printed womenswear. Influencer-developed collections involve collaborative fashion design that may include print and pattern direction. No specific SPD hiring or design team data is documented in the source.
+About You's direct SPD relevance lies in the Edited private label, which requires in-house fashion design and print/pattern decisions across clothing categories. As a multi-brand marketplace, the platform is a retail channel for pattern-driven fashion brands across all segments - including swimwear, activewear, and printed womenswear. Influencer-developed collections involve collaborative fashion design that may include print and pattern direction. No specific SPD hiring or design team data is documented in the source.
 
 ## Official Resources
 

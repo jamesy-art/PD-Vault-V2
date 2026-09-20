@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 53
 ---
 
 # Stone Pattern
@@ -118,7 +119,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/stone-pattern/profile/stone-pattern-image.svg)
-A surface pattern or texture that replicates or references the visual appearance of stone — its grain, cut, and laying patterns — applicable to both decorative surface print and architectural/interior material simulation.
+A surface pattern or texture that replicates or references the visual appearance of stone - its grain, cut, and laying patterns - applicable to both decorative surface print and architectural/interior material simulation.
 
 ## Overview
 
@@ -143,7 +144,7 @@ Stone laying patterns are themselves repeat structures, each with a distinct vis
 - **Herringbone:** rectangular units laid at 45° alternating angles; produces a diagonal chevron-like surface
 - **Random coursed:** stones of different heights in irregular horizontal courses; naturalistic
 
-In CAD and architectural drafting, standardised hatch patterns represent different stone types — these are a specific application of stone pattern in technical drawing contexts.
+In CAD and architectural drafting, standardised hatch patterns represent different stone types - these are a specific application of stone pattern in technical drawing contexts.
 
 ## Common Motifs
 
@@ -162,7 +163,7 @@ Stone patterns in surface design tend toward naturalistic, desaturated palettes.
 
 ## History and Context
 
-Masonry laying patterns — ashlar, running bond, herringbone — developed over millennia as both structural and aesthetic conventions. Roman opus reticulatum and opus incertum are documented early examples of decorative masonry patterning. The use of stone-effect printing on textiles, wallpaper, and laminate surfaces is a modern industrial application, driven by demand for the aesthetic of stone in contexts where real stone is impractical, expensive, or too heavy. Marble-effect printing in particular has been a recurring interior design trend, particularly in high-volume printed wallpaper and vinyl flooring categories.
+Masonry laying patterns - ashlar, running bond, herringbone - developed over millennia as both structural and aesthetic conventions. Roman opus reticulatum and opus incertum are documented early examples of decorative masonry patterning. The use of stone-effect printing on textiles, wallpaper, and laminate surfaces is a modern industrial application, driven by demand for the aesthetic of stone in contexts where real stone is impractical, expensive, or too heavy. Marble-effect printing in particular has been a recurring interior design trend, particularly in high-volume printed wallpaper and vinyl flooring categories.
 
 ## Surface Pattern Uses
 
@@ -174,13 +175,13 @@ Masonry laying patterns — ashlar, running bond, herringbone — developed over
 
 ## Related Pattern Types
 
-- [[Texture Pattern]] — stone pattern is a major category within texture-based surface design
-- [[Wood Pattern]] — both wood and stone are natural texture categories applied similarly in interior contexts
-- [[Geometric Pattern]] — masonry laying patterns (herringbone, running bond) are geometric arrangements
+- Texture Pattern - stone pattern is a major category within texture-based surface design
+- Wood Pattern - both wood and stone are natural texture categories applied similarly in interior contexts
+- Geometric Pattern - masonry laying patterns (herringbone, running bond) are geometric arrangements
 
 ## Source Notes
 
-- SPD-focused notes — ashlar/opus/mosaic/running bond/cobblestone patterns, dry stack vs mortared, riven/tumbled/honed finishes, CAD hatch patterns
+- SPD-focused notes - ashlar/opus/mosaic/running bond/cobblestone patterns, dry stack vs mortared, riven/tumbled/honed finishes, CAD hatch patterns
 
 ## Editorial Images
 

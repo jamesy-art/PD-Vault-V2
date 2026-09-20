@@ -114,6 +114,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 10
 ---
 
 # Quatrefoil Pattern
@@ -125,7 +126,7 @@ A symmetrical decorative shape formed by four partially overlapping circles of e
 
 ## Overview
 
-The quatrefoil (from Old French: "four leaves") is a specific geometric shape: four circles of equal diameter, each overlapping its neighbours, arranged so their centres define a square. The resulting outline is a four-lobed form with pointed intersections between adjacent lobes — resembling a four-leaf clover, a four-petalled flower, or a rounded cross.
+The quatrefoil (from Old French: "four leaves") is a specific geometric shape: four circles of equal diameter, each overlapping its neighbours, arranged so their centres define a square. The resulting outline is a four-lobed form with pointed intersections between adjacent lobes - resembling a four-leaf clover, a four-petalled flower, or a rounded cross.
 
 As a decorative motif it has been used continuously across at least 1,500 years, appearing in early Christian architecture, Islamic design, Gothic tracery, Renaissance decorative arts, and contemporary interiors. It carries consistent cultural associations with heritage, formality, and luxury, positioning it commercially as a premium interior and fashion motif.
 
@@ -141,7 +142,7 @@ In surface pattern repeat, quatrefoils can be:
 - **Interlocking all-over:** Adjacent quatrefoils sharing their arcs, filling the plane without gaps
 - **Trellis / lattice:** Quatrefoils connected by thin stem lines in a trellis arrangement
 
-The interlocking all-over variant produces secondary shapes (pointed stars or crosses) in the negative space between quatrefoils — a particularly rich design opportunity.
+The interlocking all-over variant produces secondary shapes (pointed stars or crosses) in the negative space between quatrefoils - a particularly rich design opportunity.
 
 ## Pattern Structure
 
@@ -171,7 +172,7 @@ Contemporary applications have expanded the palette to neutrals (grey on cream, 
 
 ## History and Context
 
-The quatrefoil predates Gothic architecture by centuries — examples from the Monastery of Stoudios in Constantinople (462 AD) and from Olmec and Mayan monuments in Mesoamerica (some dating to approximately 850 BC) demonstrate that the form developed independently across multiple cultures. In Mesoamerican iconography, the quatrefoil represented the cosmic axis and the passageway between celestial and underworld realms, associated with water and agricultural fertility.
+The quatrefoil predates Gothic architecture by centuries - examples from the Monastery of Stoudios in Constantinople (462 AD) and from Olmec and Mayan monuments in Mesoamerica (some dating to approximately 850 BC) demonstrate that the form developed independently across multiple cultures. In Mesoamerican iconography, the quatrefoil represented the cosmic axis and the passageway between celestial and underworld realms, associated with water and agricultural fertility.
 
 In European design, the quatrefoil achieved its peak prominence during the Gothic and Renaissance periods. It appears as tracery in Gothic architecture (windows, stone screens, metalwork) from the 13th century onwards, with notable early examples at Notre Dame de Paris (barbed quatrefoil, 1260) and in the works of Andrea Pisano and Lorenzo Ghiberti on the Florence Baptistery doors.
 
@@ -188,11 +189,11 @@ The motif has been in continuous commercial use in textiles and wallpaper from t
 
 ## Related Pattern Types
 
-- [[Ogee Pattern]] — Gothic architectural cousin; similar heritage and commercial positioning
-- [[Trefoil Pattern]] — three-lobed version; same structural principle as quatrefoil
-- [[Celtic Knot Pattern]] — Gothic and medieval heritage overlap
-- [[Diamond Pattern]] — structural connection; quatrefoil repeat and diamond grid share geometric logic
-- [[Fleur-de-lis Pattern]] — parallel heraldic and architectural motif from the same Gothic decorative vocabulary
+- Ogee Pattern - Gothic architectural cousin; similar heritage and commercial positioning
+- Trefoil Pattern - three-lobed version; same structural principle as quatrefoil
+- Celtic Knot Pattern - Gothic and medieval heritage overlap
+- Diamond Pattern - structural connection; quatrefoil repeat and diamond grid share geometric logic
+- Fleur-de-lis Pattern - parallel heraldic and architectural motif from the same Gothic decorative vocabulary
 
 ## Source Notes
 

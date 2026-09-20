@@ -63,6 +63,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 37
 ---
 
 # Birkenstock
@@ -80,9 +81,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Birkenstock Holding plc is a German footwear manufacturer founded in 1774, headquartered in Neustadt (Wied), Rhineland-Palatinate, Germany, with production based in Germany. The company is best known for its contoured cork-and-jute footbed sandals — particularly the Arizona (1973), Boston (1976), Madrid (1963/renamed 1979), and Gizeh (1983). Originally a health footwear brand, Birkenstock transitioned to mainstream fashion legitimacy through high-profile runway appearances — most notably Céline's "Furkenstocks" in Paris in 2012 — and subsequently through celebrity adoption, fashion collaborations, and the establishment of the premium 1774 line (2019). In February 2021, L Catterton (backed by Bernard Arnault/LVMH's Financière Agache) acquired a majority stake at a valuation of approximately €4 billion. The company went public on the NYSE (ticker: BIRK) on 11 October 2023, raising $1.48 billion at an $8.64 billion valuation. As of 2023, 72% of Birkenstock customers are female.
+Birkenstock Holding plc is a German footwear manufacturer founded in 1774, headquartered in Neustadt (Wied), Rhineland-Palatinate, Germany, with production based in Germany. The company is best known for its contoured cork-and-jute footbed sandals - particularly the Arizona (1973), Boston (1976), Madrid (1963/renamed 1979), and Gizeh (1983). Originally a health footwear brand, Birkenstock transitioned to mainstream fashion legitimacy through high-profile runway appearances - most notably Céline's "Furkenstocks" in Paris in 2012 - and subsequently through celebrity adoption, fashion collaborations, and the establishment of the premium 1774 line (2019). In February 2021, L Catterton (backed by Bernard Arnault/LVMH's Financière Agache) acquired a majority stake at a valuation of approximately €4 billion. The company went public on the NYSE (ticker: BIRK) on 11 October 2023, raising $1.48 billion at an $8.64 billion valuation. As of 2023, 72% of Birkenstock customers are female.
 
-Birkenstock's design philosophy originates in orthopaedic function — the footbed's four-layer construction and anatomical shaping remain central to the brand's proposition. The 1774 premium line introduces collaborations that reframe the functional form through luxury materials, artist graphics, and unconventional surface treatments, without changing the footbed construction. The brand's cultural journey — health stores → hippie counterculture → high fashion runway → luxury IPO — is treated as brand narrative, documented in the 2024 Prestel monograph *Birkenstock: The Evolution of a Universal Purpose and Zeitgeist Brand*.
+Birkenstock's design philosophy originates in orthopaedic function - the footbed's four-layer construction and anatomical shaping remain central to the brand's proposition. The 1774 premium line introduces collaborations that reframe the functional form through luxury materials, artist graphics, and unconventional surface treatments, without changing the footbed construction. The brand's cultural journey - health stores → hippie counterculture → high fashion runway → luxury IPO - is treated as brand narrative, documented in the 2024 Prestel monograph *Birkenstock: The Evolution of a Universal Purpose and Zeitgeist Brand*.
 
 ## History
 
@@ -99,15 +100,15 @@ Birkenstock's design philosophy originates in orthopaedic function — the footb
 
 ## Products
 
-- **Sandals** — core product; contoured cork-and-jute footbed; key models: Arizona (1973), Boston (1976/cork clog), Madrid (1963/first model), Gizeh (1983/thong sandal), Roma (1965), Oslo, Athen, Zürich (1964), Noppy (plastic massage sandal)
-- **Closed shoes and boots** — expanded footwear range
-- **Footbed insoles** — original product category (Fussbett trademark registered 1925); sold through specialist shoemakers
-- **1774 line** — premium collaboration platform; international artist/designer partnerships
-- **Foot care** — six-product foot care line (September 2024)
-- **Nail polish** — first nail polish collection (April 2026)
-- **EVA range** — lightweight plastic/foam versions of core sandal models (Gizeh EVA, etc.)
+- **Sandals** - core product; contoured cork-and-jute footbed; key models: Arizona (1973), Boston (1976/cork clog), Madrid (1963/first model), Gizeh (1983/thong sandal), Roma (1965), Oslo, Athen, Zürich (1964), Noppy (plastic massage sandal)
+- **Closed shoes and boots** - expanded footwear range
+- **Footbed insoles** - original product category (Fussbett trademark registered 1925); sold through specialist shoemakers
+- **1774 line** - premium collaboration platform; international artist/designer partnerships
+- **Foot care** - six-product foot care line (September 2024)
+- **Nail polish** - first nail polish collection (April 2026)
+- **EVA range** - lightweight plastic/foam versions of core sandal models (Gizeh EVA, etc.)
 
-Footbed construction: four layers — shock-absorbent sole, jute fibers, cork footbed, jute, topped with soft suede lining. Optional soft footbed adds foam insert under suede lining.
+Footbed construction: four layers - shock-absorbent sole, jute fibers, cork footbed, jute, topped with soft suede lining. Optional soft footbed adds foam insert under suede lining.
 
 ## Services
 
@@ -121,13 +122,13 @@ Birkenstock occupies an unusual market position: orthopedic heritage brand that 
 
 Birkenstock's surface design relevance sits primarily in materials and high-fashion collaborations rather than repeat pattern design:
 
-**Material surfaces** — the cork footbed, suede lining, and jute layers define the brand's tactile identity. Upper materials span suede, leather, nubuck, and synthetic options across the product range — surface texture and material choice are central to each model's design language.
+**Material surfaces** - the cork footbed, suede lining, and jute layers define the brand's tactile identity. Upper materials span suede, leather, nubuck, and synthetic options across the product range - surface texture and material choice are central to each model's design language.
 
-**Fashion collaboration colourways and materials** — the 1774 line (from 2019) has produced artist and designer collaborations that introduce non-standard materials, surface treatments, and graphic elements. The Céline "Furkenstocks" (mink-covered footbed, 2012) demonstrated the potential of applying luxury surface materials to the standard sandal form. Rick Owens collaborations (from June 2021) include interpretations of Arizona and Boston models plus the Rotterdam style — these introduce unconventional surface and material treatments.
+**Fashion collaboration colourways and materials** - the 1774 line (from 2019) has produced artist and designer collaborations that introduce non-standard materials, surface treatments, and graphic elements. The Céline "Furkenstocks" (mink-covered footbed, 2012) demonstrated the potential of applying luxury surface materials to the standard sandal form. Rick Owens collaborations (from June 2021) include interpretations of Arizona and Boston models plus the Rotterdam style - these introduce unconventional surface and material treatments.
 
-**Logo/graphic customisation** — the brand produces logo-customised models for military aviation units (group orders; Aerospace and Chronospace Auto models with squadron insignia), indicating a graphic customisation programme.
+**Logo/graphic customisation** - the brand produces logo-customised models for military aviation units (group orders; Aerospace and Chronospace Auto models with squadron insignia), indicating a graphic customisation programme.
 
-The German Federal Court of Justice ruled in February 2025 that Birkenstock's sandal designs do not qualify for copyright protection as works of art — they remain at the level of practical design items.
+The German Federal Court of Justice ruled in February 2025 that Birkenstock's sandal designs do not qualify for copyright protection as works of art - they remain at the level of practical design items.
 
 ## Official Resources
 

@@ -1,5 +1,5 @@
 ---
-name: minecraft-pattern
+name: Minecraft Pattern
 slug: minecraft-pattern
 status: draft
 type_group: general
@@ -60,13 +60,13 @@ gallery_images:
     sort_order: 1
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/blue-color-pixel-pattern-background-pixel-art_81156696.htm"
-      image_url: "https://img.magnific.com/premium-vector/blue-color-pixel-pattern-background-pixel-art_588783-208.jpg"
+      page_url: https://www.magnific.com/premium-vector/blue-color-pixel-pattern-background-pixel-art_81156696.htm
+      image_url: https://img.magnific.com/premium-vector/blue-color-pixel-pattern-background-pixel-art_588783-208.jpg
       title: Blue color pixel pattern or background in pixel art | Premium Vector
       description: Download this Premium vector of Blue color pixel pattern or background in pixel art and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: minecraft-pattern-2-pattern-designers.jpg
     title: Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background | Premium Vector
     alt: Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background | Premium Vector
@@ -75,13 +75,13 @@ gallery_images:
     sort_order: 2
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/fabric-pattern-design-soccer-jersey-football-kit-abstract-pattern-abstract-background_143706149.htm"
-      image_url: "https://img.magnific.com/premium-vector/fabric-pattern-design-soccer-jersey-football-kit-abstract-pattern-abstract-background_35735-655.jpg"
+      page_url: https://www.magnific.com/premium-vector/fabric-pattern-design-soccer-jersey-football-kit-abstract-pattern-abstract-background_143706149.htm
+      image_url: https://img.magnific.com/premium-vector/fabric-pattern-design-soccer-jersey-football-kit-abstract-pattern-abstract-background_35735-655.jpg
       title: Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background | Premium Vector
       description: Download this Premium vector of Fabric pattern design for soccer jersey or football kit abstract pattern or abstract background and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: minecraft-pattern-3-pattern-designers.jpg
     title: Pixel background the concept of games background vector illustration | Premium Vector
     alt: Pixel background the concept of games background vector illustration | Premium Vector
@@ -90,13 +90,13 @@ gallery_images:
     sort_order: 3
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/pixel-background-concept-games-background-vector-illustration_173061899.htm"
-      image_url: "https://img.magnific.com/premium-vector/pixel-background-concept-games-background-vector-illustration_652575-1377.jpg"
+      page_url: https://www.magnific.com/premium-vector/pixel-background-concept-games-background-vector-illustration_173061899.htm
+      image_url: https://img.magnific.com/premium-vector/pixel-background-concept-games-background-vector-illustration_652575-1377.jpg
       title: Pixel background the concept of games background vector illustration | Premium Vector
       description: Download this Premium vector of Pixel background the concept of games background vector illustration and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
   - path: minecraft-pattern-4-pattern-designers.jpg
     title: Pixel pattern closeup green block mosaic vector seamless background abstract color style | Premium Vector
     alt: Pixel pattern closeup green block mosaic vector seamless background abstract color style | Premium Vector
@@ -105,13 +105,14 @@ gallery_images:
     sort_order: 4
     source:
       provider: magnific
-      page_url: "https://www.magnific.com/premium-vector/pixel-pattern-closeup-green-block-mosaic-vector-seamless-background-abstract-color-style_417082971.htm"
-      image_url: "https://img.magnific.com/premium-vector/pixel-pattern-closeup-green-block-mosaic-vector-seamless-background-abstract-color-style_213497-5711.jpg"
+      page_url: https://www.magnific.com/premium-vector/pixel-pattern-closeup-green-block-mosaic-vector-seamless-background-abstract-color-style_417082971.htm
+      image_url: https://img.magnific.com/premium-vector/pixel-pattern-closeup-green-block-mosaic-vector-seamless-background-abstract-color-style_213497-5711.jpg
       title: Pixel pattern closeup green block mosaic vector seamless background abstract color style | Premium Vector
       description: Download this Premium vector of Pixel pattern closeup green block mosaic vector seamless background abstract color style and explore millions of professional vectors on Magnific.
     affiliate:
       enabled: false
-      url: null
+      url:
+marketing_order: 74
 ---
 
 # minecraft-pattern
@@ -123,15 +124,15 @@ A blocky, pixel-textured motif category derived from the video game *Minecraft*,
 
 ## Overview
 
-Minecraft pattern draws its visual identity from the game's core building unit, the "block" — a 1-cubic-metre cell arranged in a three-dimensional grid, with each face rendered from a small square texture. This gives the motif category a distinctive, instantly recognisable look: hard-edged cubes and a visible low-resolution pixel grain, rather than smooth or painterly surfaces. The source is a game-reference article on block mechanics rather than a design source, so this page draws only on the visual/structural facts it documents.
+Minecraft pattern draws its visual identity from the game's core building unit, the "block" - a 1-cubic-metre cell arranged in a three-dimensional grid, with each face rendered from a small square texture. This gives the motif category a distinctive, instantly recognisable look: hard-edged cubes and a visible low-resolution pixel grain, rather than smooth or painterly surfaces. The source is a game-reference article on block mechanics rather than a design source, so this page draws only on the visual/structural facts it documents.
 
 ## Visual Characteristics
 
-The defining visual trait is the cube: blocks occupy uniform 1-metre grid cells (with some partial exceptions such as slabs, stairs, and snow layers), giving the world — and by extension the motif — a hard-edged, orthogonal, "voxel" character. Block surfaces are textured with 16×16-pixel images, which produces a coarse, visibly pixelated surface quality distinct from smooth digital rendering. Some blocks (such as logs) use different textures on different faces, adding directional variation to an otherwise uniform cube.
+The defining visual trait is the cube: blocks occupy uniform 1-metre grid cells (with some partial exceptions such as slabs, stairs, and snow layers), giving the world - and by extension the motif - a hard-edged, orthogonal, "voxel" character. Block surfaces are textured with 16×16-pixel images, which produces a coarse, visibly pixelated surface quality distinct from smooth digital rendering. Some blocks (such as logs) use different textures on different faces, adding directional variation to an otherwise uniform cube.
 
 ## Pattern Structure
 
-The source describes a **3-dimensional cubic grid** (blocks stacked edge-to-edge in all directions) as the fundamental structural system, mathematically equivalent to a cubic honeycomb tessellation. As a two-dimensional surface pattern, this translates most directly to a **grid/block repeat**, with square or cube-faced units tiled edge-to-edge — the pixel-grid texture itself can also be read as an all-over micro-repeat.
+The source describes a **3-dimensional cubic grid** (blocks stacked edge-to-edge in all directions) as the fundamental structural system, mathematically equivalent to a cubic honeycomb tessellation. As a two-dimensional surface pattern, this translates most directly to a **grid/block repeat**, with square or cube-faced units tiled edge-to-edge - the pixel-grid texture itself can also be read as an all-over micro-repeat.
 
 ## Common Motifs
 
@@ -143,7 +144,7 @@ The source describes a **3-dimensional cubic grid** (blocks stacked edge-to-edge
 
 ## Colour and Style
 
-The source does not describe a colour palette for Minecraft pattern as a decorative style. It does note that textures control "all colors and transparencies" of a block face, and that some blocks are opaque while others (such as glass and flowers) are transparent or non-solid — a useful structural distinction (solid vs. see-through units) but not a stated palette.
+The source does not describe a colour palette for Minecraft pattern as a decorative style. It does note that textures control "all colors and transparencies" of a block face, and that some blocks are opaque while others (such as glass and flowers) are transparent or non-solid - a useful structural distinction (solid vs. see-through units) but not a stated palette.
 
 ## History and Context
 
@@ -155,11 +156,11 @@ Not documented in the source. The reference material is a gameplay/mechanics wik
 
 ## Related Pattern Types
 
-[[Pixel Pattern]], [[Check Pattern]], [[Brickwork Pattern]]
+Pixel Pattern, Check Pattern, Brickwork Pattern
 
 ## Source Notes
 
-- Source: Minecraft Wiki, "Block" — a game-mechanics reference describing the block grid system, block height, and 16×16-pixel block textures, plus an extensive alphabetical catalogue of block types. No surface pattern, textile, or decorative design content; used here only to ground the cube/grid structure and pixel-texture quality referenced in Visual Characteristics and Pattern Structure. The full block catalogue (hundreds of named entries) is source material, not reproduced here.
+- Source: Minecraft Wiki, "Block" - a game-mechanics reference describing the block grid system, block height, and 16×16-pixel block textures, plus an extensive alphabetical catalogue of block types. No surface pattern, textile, or decorative design content; used here only to ground the cube/grid structure and pixel-texture quality referenced in Visual Characteristics and Pattern Structure. The full block catalogue (hundreds of named entries) is source material, not reproduced here.
 
 ## Editorial Images
 

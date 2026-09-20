@@ -41,6 +41,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 553
 ---
 # Kelly Lahl
 
@@ -92,7 +93,7 @@ Kelly Lahl Design LLC sells exclusive prints directly to brands and manufacturer
 
 ## Studio Background
 
-Kelly Lahl Design LLC is a US-based print design practice built around a hand-painting-led process — paintings and drawings on paper in a range of analog media, translated into production-ready digital artwork.
+Kelly Lahl Design LLC is a US-based print design practice built around a hand-painting-led process - paintings and drawings on paper in a range of analog media, translated into production-ready digital artwork.
 
 ## Pattern Focus
 

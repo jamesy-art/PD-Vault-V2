@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 571
 ---
 # Parchment & Pixel
 
@@ -84,7 +85,7 @@ Patterns are hand-painted (acrylic/gouache florals, fine-line watercolor botanic
 
 ## Clients and Commercial Positioning
 
-Per the studio's own description, Havlicek's client list includes Marchesa, Pamella Roland, Theia, and Halston, with prints regularly featured at Saks Fifth Avenue, Neiman Marcus, Nordstrom, and Bergdorf Goodman — positioning the studio at the luxury/occasion end of fashion print, consistent with the bridal- and eveningwear-adjacent tone of the selected pattern images.
+Per the studio's own description, Havlicek's client list includes Marchesa, Pamella Roland, Theia, and Halston, with prints regularly featured at Saks Fifth Avenue, Neiman Marcus, Nordstrom, and Bergdorf Goodman - positioning the studio at the luxury/occasion end of fashion print, consistent with the bridal- and eveningwear-adjacent tone of the selected pattern images.
 
 ## Portfolio and Presence
 

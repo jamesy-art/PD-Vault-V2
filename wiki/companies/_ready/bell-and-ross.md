@@ -48,6 +48,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 254
 ---
 
 # Bell & Ross
@@ -64,11 +65,11 @@ enrichment_status: enriched
 
 ## Overview
 
-Bell & Ross is a French luxury watch brand founded in Paris in 1994 by Bruno Belamich and Carlos A. Rosillo, who met as students. The brand's founding concept translates the functional design language of professional instruments — cockpit gauges, dive computers, and military equipment — into wristwatches. Initial production was carried out in partnership with German watchmaker Sinn; Bell & Ross moved its own manufacturing to La Chaux-de-Fonds, Switzerland in 2002. Chanel holds a minority shareholding in the company.
+Bell & Ross is a French luxury watch brand founded in Paris in 1994 by Bruno Belamich and Carlos A. Rosillo, who met as students. The brand's founding concept translates the functional design language of professional instruments - cockpit gauges, dive computers, and military equipment - into wristwatches. Initial production was carried out in partnership with German watchmaker Sinn; Bell & Ross moved its own manufacturing to La Chaux-de-Fonds, Switzerland in 2002. Chanel holds a minority shareholding in the company.
 
-Note: YAML location field shows "United States" — Bell & Ross is a Paris-based French company. This appears to be a placeholder data error. YAML preserved as found.
+Note: YAML location field shows "United States" - Bell & Ross is a Paris-based French company. This appears to be a placeholder data error. YAML preserved as found.
 
-Note: YAML parent_company field shows "chanel" — Chanel holds a minority stake, not full ownership. YAML preserved as found.
+Note: YAML parent_company field shows "chanel" - Chanel holds a minority stake, not full ownership. YAML preserved as found.
 
 The brand's aesthetic is instrument-derived: readability, precision, and functional visual logic. Dial surfaces reference aviation instruments, bomb-disposal equipment, and marine depth gauges. The square case format (BR-01) is the most recognised product form, departing from the dominant round case standard of watchmaking. Limited editions have included skull dials and tactical surface treatments.
 
@@ -88,11 +89,11 @@ Bell & Ross distributes through watch specialist retailers and its own boutiques
 
 ## Markets
 
-Bell & Ross occupies the specialist professional/military-inspired luxury watch segment. The brand's design language is commercially distinct — drawn from aviation, marine, and military professional tools — positioning it against technically themed Swiss competitors in the mid-to-upper luxury price range.
+Bell & Ross occupies the specialist professional/military-inspired luxury watch segment. The brand's design language is commercially distinct - drawn from aviation, marine, and military professional tools - positioning it against technically themed Swiss competitors in the mid-to-upper luxury price range.
 
 ## Pattern and Surface Design Relevance
 
-Bell & Ross is a luxury watch brand. Its primary surface design contribution is in dial design: the brand systematically adapts aviation instrument panel layouts, dashboard typography, and military graphic standards to watch dial surfaces. The BR-01 dial is designed to replicate the visual logic of cockpit instrumentation — square case, high-contrast face, legible numerals, function-first layout. Strap and case surface treatments reference professional equipment materials (rubber, leather, metal). Limited edition collaborations frequently involve custom dial graphics and surface decoration.
+Bell & Ross is a luxury watch brand. Its primary surface design contribution is in dial design: the brand systematically adapts aviation instrument panel layouts, dashboard typography, and military graphic standards to watch dial surfaces. The BR-01 dial is designed to replicate the visual logic of cockpit instrumentation - square case, high-contrast face, legible numerals, function-first layout. Strap and case surface treatments reference professional equipment materials (rubber, leather, metal). Limited edition collaborations frequently involve custom dial graphics and surface decoration.
 
 ## Official Resources
 

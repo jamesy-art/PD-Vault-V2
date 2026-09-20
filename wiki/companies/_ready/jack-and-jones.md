@@ -70,6 +70,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 168
 ---
 
 # Jack & Jones
@@ -88,9 +89,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Jack & Jones is a menswear brand operating within the Bestseller group. The brand's women's sub-brand, JJXX, was developed within the Jack & Jones family to address a women's market positioning centred on denim craftsmanship, essentials, and accessible high fashion. JJXX's stated values are social, strong, energetic, and dedicated, with core categories covering jeans, trousers, tops, knitwear, and jackets. Both Jack & Jones and JJXX draw on over 30 years of denim and fabric knowledge within Bestseller. YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect — Jack & Jones is a Danish brand within the Danish Bestseller group; YAML preserved as found.
+Jack & Jones is a menswear brand operating within the Bestseller group. The brand's women's sub-brand, JJXX, was developed within the Jack & Jones family to address a women's market positioning centred on denim craftsmanship, essentials, and accessible high fashion. JJXX's stated values are social, strong, energetic, and dedicated, with core categories covering jeans, trousers, tops, knitwear, and jackets. Both Jack & Jones and JJXX draw on over 30 years of denim and fabric knowledge within Bestseller. YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect - Jack & Jones is a Danish brand within the Danish Bestseller group; YAML preserved as found.
 
-Denim craftsmanship-led with a broad accessible colour and style range. JJXX focuses on empowering young women through quality essentials "that always fit" — positioning denim fit and fabric quality over trend-led print direction. Seasonal pattern and colour is adjusted to market demand within the Bestseller group's shared design and sourcing infrastructure.
+Denim craftsmanship-led with a broad accessible colour and style range. JJXX focuses on empowering young women through quality essentials "that always fit" - positioning denim fit and fabric quality over trend-led print direction. Seasonal pattern and colour is adjusted to market demand within the Bestseller group's shared design and sourcing infrastructure.
 
 ## History
 
@@ -105,20 +106,20 @@ Brand within Bestseller (Danish fashion group). Website: jackjones.com. Instagra
 
 ## Services
 
-Bestseller group brand. YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect — Danish brand; YAML preserved as found. Website: jackjones.com. Multi-channel: own stores, department stores, and e-commerce. Careers URL documented in YAML suggests direct employment under the Bestseller umbrella.
+Bestseller group brand. YAML parent_company "bestseller" is correct. YAML location "United States" is incorrect - Danish brand; YAML preserved as found. Website: jackjones.com. Multi-channel: own stores, department stores, and e-commerce. Careers URL documented in YAML suggests direct employment under the Bestseller umbrella.
 
 ## Markets
 
-Positioned in the accessible men's fashion segment — denim-led, with essentials and seasonal fashion pieces. Price point is mid-market, competing with other Bestseller brands (Only, Vero Moda), H&M, and Zara in the European fast-fashion and denim market. The JJXX sub-brand extends the model into women's fashion with a denim-first identity. Distributed through own-brand stores, department store concessions, and online.
+Positioned in the accessible men's fashion segment - denim-led, with essentials and seasonal fashion pieces. Price point is mid-market, competing with other Bestseller brands (Only, Vero Moda), H&M, and Zara in the European fast-fashion and denim market. The JJXX sub-brand extends the model into women's fashion with a denim-first identity. Distributed through own-brand stores, department store concessions, and online.
 
 ## Pattern and Surface Design Relevance
 
 Jack & Jones operates in categories where surface design is fundamental to product differentiation:
 
-- **Denim surface treatment**: Denim is a surface-design-intensive fabric — washes, distressing, overdye, contrast stitching, whisker placement, and fade effects are all surface pattern decisions. Denim craftsmanship positioned as the brand's core competency implies ongoing investment in fabric surface development.
-- **Knitwear pattern**: JJXX's knitwear category carries seasonal pattern direction — textured knit structures, colour arrangements, and stitch pattern selection are standard product design decisions.
+- **Denim surface treatment**: Denim is a surface-design-intensive fabric - washes, distressing, overdye, contrast stitching, whisker placement, and fade effects are all surface pattern decisions. Denim craftsmanship positioned as the brand's core competency implies ongoing investment in fabric surface development.
+- **Knitwear pattern**: JJXX's knitwear category carries seasonal pattern direction - textured knit structures, colour arrangements, and stitch pattern selection are standard product design decisions.
 - **Print and graphic surface**: Tops and casualwear in the Jack & Jones range carry seasonal print and graphic design across cut-and-sew and jersey categories.
-- **Wide colour range**: The JJXX source notes "more colours than we can count" as a brand positioning point — an accessible, broad colourway offer is a deliberate product surface strategy.
+- **Wide colour range**: The JJXX source notes "more colours than we can count" as a brand positioning point - an accessible, broad colourway offer is a deliberate product surface strategy.
 
 ## Official Resources
 

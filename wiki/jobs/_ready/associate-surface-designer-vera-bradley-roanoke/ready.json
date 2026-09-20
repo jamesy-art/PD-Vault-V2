@@ -1,0 +1,21 @@
+{
+  "ready_id": "ready-clip-0e2e3186df252f17",
+  "editorial_slug": "associate-surface-designer-vera-bradley-roanoke",
+  "canonical_id": "can-clip-0e2e3186df252f17",
+  "capture_id": "cap-clip-0e2e3186df252f17",
+  "ready_status": "ready",
+  "ready_at": "2026-08-06T00:00:00.000Z",
+  "ready_by": "editor",
+  "ready_version": "1.b53167e7",
+  "promotion_version": "1.0.0",
+  "editorial_hash": "b53167e74cc965bd93461f9b3a7cc48dd67269522b5214bb089c316bab4912d0",
+  "title": "Associate Surface Designer",
+  "doc_kind": "job",
+  "link_rewrite": {
+    "rewritten_links_count": 4,
+    "rewritten_image_count": 0,
+    "rewritten_markdown_links": 0,
+    "rewritten_frontmatter_paths": 4,
+    "rewritten_wikilinks": 0
+  }
+}

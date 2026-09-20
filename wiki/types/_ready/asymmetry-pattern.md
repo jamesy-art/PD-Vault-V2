@@ -60,7 +60,7 @@ gallery_images:
     sort_order: 1
     source:
       provider: wikimedia
-      page_url: null
+      page_url: "https://commons.wikimedia.org/wiki/File:Asymmetric_(PSF).svg"
       image_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Asymmetric_%28PSF%29.svg/250px-Asymmetric_%28PSF%29.svg.png"
       title: "In geometry and other fields, **asymmetry** is an absence or violation of [symmetry](https://en.wikipedia.org/wiki/Symmetry \"Symmetry\") in an object or process, such that some transformation (such as reflection in space) results in an observable difference.[^1] Symmetry is an important property of both physical and abstract systems and it may be displayed in precise terms or in more aesthetic terms.[^2] The absence of or violation of symmetry that are either expected or desired can have important consequences for a system."
       description: "In geometry and other fields, **asymmetry** is an absence or violation of [symmetry](https://en.wikipedia.org/wiki/Symmetry \"Symmetry\") in an object or process, such that some transformation (such as reflection in space) results in an observable difference.[^1] Symmetry is an important property of both physical and abstract systems and it may be displayed in precise terms or in more aesthetic terms.[^2] The absence of or violation of symmetry that are either expected or desired can have important consequences for a system."
@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 17
 ---
 
 # Asymmetry Pattern
@@ -127,7 +128,7 @@ Asymmetry in surface pattern design refers to the deliberate avoidance of symmet
 
 ## Visual Characteristics
 
-Asymmetric patterns lack a clear axis or plane of symmetry. Elements are distributed unevenly across the design field — a large motif anchoring one area may be counterbalanced by a cluster of smaller elements elsewhere. Visual weight, colour contrast, and negative space all contribute to a sense of intentional rather than accidental imbalance.
+Asymmetric patterns lack a clear axis or plane of symmetry. Elements are distributed unevenly across the design field - a large motif anchoring one area may be counterbalanced by a cluster of smaller elements elsewhere. Visual weight, colour contrast, and negative space all contribute to a sense of intentional rather than accidental imbalance.
 
 ## Pattern Structure
 
@@ -135,7 +136,7 @@ Asymmetric repeats avoid regular grid placements and mirrored tile structures. F
 
 ## Common Motifs
 
-Asymmetry applies to any motif type — it describes the arrangement rather than the motif itself. Common applications include:
+Asymmetry applies to any motif type - it describes the arrangement rather than the motif itself. Common applications include:
 
 - Large-scale botanical or floral placement prints
 - Fashion editorial prints using off-centre motif clusters
@@ -160,14 +161,14 @@ Asymmetry has been a deliberate compositional principle across multiple art move
 
 ## Related Pattern Types
 
-- [[Placement Print]]
-- [[Free-Form Pattern]]
-- [[Scattered Repeat]]
-- [[Editorial Print]]
+- Placement Print
+- Free-Form Pattern
+- Scattered Repeat
+- Editorial Print
 
 ## Source Notes
 
-Sources: Asymmetry Pattern 2.md (StudySmarter — design applications, historical art movements, and techniques), Asymmetry Pattern.md (Wikipedia — general definition; biology, physics, chemistry, and mathematics sections excluded as out of scope for surface pattern design)
+Sources: Asymmetry Pattern 2.md (StudySmarter - design applications, historical art movements, and techniques), Asymmetry Pattern.md (Wikipedia - general definition; biology, physics, chemistry, and mathematics sections excluded as out of scope for surface pattern design)
 
 ## Editorial Images
 

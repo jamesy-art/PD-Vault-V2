@@ -33,6 +33,7 @@ images:
 logo_type: icon
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 255
 ---
 
 # Wolverine World Wide
@@ -80,23 +81,23 @@ No group-level creative director is identified in the source. Individual brand d
 ## Products
 
 **Current portfolio:**
-- **Wolverine** — work boots; the founding brand
-- **Merrell** (acquired 1997) — trail running, outdoor footwear, and apparel
-- **Hush Puppies** (founded 1958) — casual footwear and apparel; CFDA Fashion Accessory of the Year 1995
-- **Chaco** (acquired 2009) — sandals, clogs, and boots
-- **Bates** — military, tactical, and security footwear and apparel
-- **Cat Footwear** (licensed since 1994, Caterpillar Inc.) — work boots and apparel
-- **Harley-Davidson Footwear** (licensed since 1998) — motorcycle boots and apparel
-- **HyTest** — safety work boots
-- **Saucony** (from 2012) — running shoes and apparel
-- **Stride Rite** (from 2012; converted to licensed brand 2017) — children's footwear and apparel
-- **Sweaty Betty** (acquired 2021) — women's fitness and athleisure apparel
+- **Wolverine** - work boots; the founding brand
+- **Merrell** (acquired 1997) - trail running, outdoor footwear, and apparel
+- **Hush Puppies** (founded 1958) - casual footwear and apparel; CFDA Fashion Accessory of the Year 1995
+- **Chaco** (acquired 2009) - sandals, clogs, and boots
+- **Bates** - military, tactical, and security footwear and apparel
+- **Cat Footwear** (licensed since 1994, Caterpillar Inc.) - work boots and apparel
+- **Harley-Davidson Footwear** (licensed since 1998) - motorcycle boots and apparel
+- **HyTest** - safety work boots
+- **Saucony** (from 2012) - running shoes and apparel
+- **Stride Rite** (from 2012; converted to licensed brand 2017) - children's footwear and apparel
+- **Sweaty Betty** (acquired 2021) - women's fitness and athleisure apparel
 
 **Divested:** Keds (sold to Designer Brands 2023), Sperry (sold to Authentic Brands Group 2024), Sebago (sold to BasicNet 2017), Cushe (discontinued 2015), Patagonia footwear license (ended 2014)
 
 ## Services
 
-As of December 2018, Wolverine World Wide operated 80 retail stores in the US and Canada and 42 consumer-direct e-commerce sites. Substantially all units are sourced from third-party manufacturers in the Asia Pacific region. Licensed brands — Cat Footwear (Caterpillar Inc. since 1994), Harley-Davidson Footwear (since 1998), Stride Rite (licensed to Vida Shoes International since 2017) — operate under footwear license agreements. The Patagonia footwear license ran 2006–2014. Distribution centres: three US, one Canada, one Netherlands.
+As of December 2018, Wolverine World Wide operated 80 retail stores in the US and Canada and 42 consumer-direct e-commerce sites. Substantially all units are sourced from third-party manufacturers in the Asia Pacific region. Licensed brands - Cat Footwear (Caterpillar Inc. since 1994), Harley-Davidson Footwear (since 1998), Stride Rite (licensed to Vida Shoes International since 2017) - operate under footwear license agreements. The Patagonia footwear license ran 2006-2014. Distribution centres: three US, one Canada, one Netherlands.
 
 ## Markets
 
@@ -106,17 +107,17 @@ Wolverine World Wide is one of the largest US footwear holding companies, operat
 
 Wolverine World Wide's surface pattern design relevance spans printed canvas casual footwear, printed athleisure apparel, and graphic surface design on performance and work footwear.
 
-**Keds** (divested 2023) — Keds is one of the original American canvas sneaker brands (founded 1916), in which seasonal print on canvas uppers is a core commercial category. Floral, geometric, and graphic print on white canvas is central to Keds' product identity. During Wolverine's ownership (2012–2023), the Keds print programme was a primary commercial differentiator in fashion-adjacent footwear.
+**Keds** (divested 2023) - Keds is one of the original American canvas sneaker brands (founded 1916), in which seasonal print on canvas uppers is a core commercial category. Floral, geometric, and graphic print on white canvas is central to Keds' product identity. During Wolverine's ownership (2012-2023), the Keds print programme was a primary commercial differentiator in fashion-adjacent footwear.
 
-**Sweaty Betty** (acquired 2021) — the British women's athleisure brand is known for print-on-fabric activewear. Printed leggings, sports bras, and active tops in printed lycra and spandex are core commercial categories. Seasonal print and graphic design applied to performance fabrics is a primary product story in this category.
+**Sweaty Betty** (acquired 2021) - the British women's athleisure brand is known for print-on-fabric activewear. Printed leggings, sports bras, and active tops in printed lycra and spandex are core commercial categories. Seasonal print and graphic design applied to performance fabrics is a primary product story in this category.
 
-**Merrell** — performance outdoor footwear with seasonal colourway development and surface texture variation across mesh and synthetic uppers; patterned rubber outsoles as standard product design elements.
+**Merrell** - performance outdoor footwear with seasonal colourway development and surface texture variation across mesh and synthetic uppers; patterned rubber outsoles as standard product design elements.
 
-**Hush Puppies** — casual footwear with seasonal colourway and material surface variation in suede and leather; CFDA recognition (1995) confirms the brand's fashion accessory credentials.
+**Hush Puppies** - casual footwear with seasonal colourway and material surface variation in suede and leather; CFDA recognition (1995) confirms the brand's fashion accessory credentials.
 
-**Cat Footwear** (licensed) — heavy-duty work and lifestyle boots in which embossed leather, graphic sole patterns, and brand surface application are standard product design elements.
+**Cat Footwear** (licensed) - heavy-duty work and lifestyle boots in which embossed leather, graphic sole patterns, and brand surface application are standard product design elements.
 
-**Harley-Davidson Footwear** (licensed) — motorcycle and lifestyle boots with tooled leather surface decoration and brand graphic application.
+**Harley-Davidson Footwear** (licensed) - motorcycle and lifestyle boots with tooled leather surface decoration and brand graphic application.
 
 ## Official Resources
 

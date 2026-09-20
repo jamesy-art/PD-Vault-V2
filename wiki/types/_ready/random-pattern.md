@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 150
 ---
 
 # Random Pattern
@@ -118,7 +119,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/random-pattern/profile/random-pattern-image.svg)
-A surface pattern layout in which motifs appear scattered without obvious grid alignment — also called a "toss" repeat — designed to conceal the repeat structure and emulate the spontaneous arrangements found in nature.
+A surface pattern layout in which motifs appear scattered without obvious grid alignment - also called a "toss" repeat - designed to conceal the repeat structure and emulate the spontaneous arrangements found in nature.
 
 ## Overview
 
@@ -141,7 +142,7 @@ The repeat tile itself is usually a square or rectangle, but the distribution wi
 
 ## Common Motifs
 
-Random patterns are particularly associated with botanical and floral scatter prints — individual flower heads, leaves, berries, seeds, and petals distributed across the ground. Ditsy florals, confetti patterns, and abstract scatter prints all use random layout principles. The structure suits any motif that would logically appear scattered or distributed in nature.
+Random patterns are particularly associated with botanical and floral scatter prints - individual flower heads, leaves, berries, seeds, and petals distributed across the ground. Ditsy florals, confetti patterns, and abstract scatter prints all use random layout principles. The structure suits any motif that would logically appear scattered or distributed in nature.
 
 ## Colour and Style
 
@@ -161,15 +162,15 @@ Scatter or toss prints have a long history in printed textile design, particular
 
 ## Related Pattern Types
 
-- [[Ditsy Pattern]] — a specific small-scale version of the scatter/random layout
-- [[Floral Pattern]] — random layout is frequently used in floral repeat construction
-- [[Square Pattern]] — the block repeat, a contrasting approach to layout
-- [[Half-Drop Pattern]] — another structured repeat that can be confused with random
+- Ditsy Pattern - a specific small-scale version of the scatter/random layout
+- Floral Pattern - random layout is frequently used in floral repeat construction
+- Square Pattern - the block repeat, a contrasting approach to layout
+- Half-Drop Pattern - another structured repeat that can be confused with random
 
 ## Source Notes
 
-- SPD-focused notes — toss/scattered layout definition, boundary shifting technique, hero element strategy
-- StudySmarter article — stochastic process framing, natural arrangement references, Illustrator Transform Each technique
+- SPD-focused notes - toss/scattered layout definition, boundary shifting technique, hero element strategy
+- StudySmarter article - stochastic process framing, natural arrangement references, Illustrator Transform Each technique
 
 ## Editorial Images
 

@@ -4,8 +4,8 @@ slug: harmony-print-studio
 email: harmonyprintstudio@hotmail.com
 description: Harmony Print Studio is a Melbourne-based print and pattern design
   studio with over a decade of industry experience. Founded by Rose and Vanessa
-  — who first worked together at a design company before reuniting to launch the
-  studio — Harmony operates from a conviction that great design combines
+  - who first worked together at a design company before reuniting to launch the
+  studio - Harmony operates from a conviction that great design combines
   commercial awareness and creative vision in equal measure.
 website_url: https://www.harmonyprintstudio.com/
 instagram_url: https://www.instagram.com/harmonyprintstudio
@@ -43,6 +43,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 547
 ---
 # Harmony Print Studio
 
@@ -67,7 +68,7 @@ equipment:
 
 ## Overview
 
-Harmony Print Studio is a Melbourne-based print and pattern design studio with over a decade of industry experience. Founded by Rose and Vanessa — who first worked together at a design company before reuniting to launch the studio — Harmony operates from a conviction that great design combines commercial awareness and creative vision in equal measure.
+Harmony Print Studio is a Melbourne-based print and pattern design studio with over a decade of industry experience. Founded by Rose and Vanessa - who first worked together at a design company before reuniting to launch the studio - Harmony operates from a conviction that great design combines commercial awareness and creative vision in equal measure.
 
 ## Studio Style and Aesthetic
 

@@ -3,7 +3,7 @@ name: Pet Pattern
 slug: pet-pattern
 status: active
 type_group: novelty
-summary: Surface pattern using domestic animal companion motifs — primarily cats, dogs, and birds — as repeating decorative elements; commercially active in gifting, stationery, children's products, and custom merchandise
+summary: Surface pattern using domestic animal companion motifs - primarily cats, dogs, and birds - as repeating decorative elements; commercially active in gifting, stationery, children's products, and custom merchandise
 motifs:
   - Animal
 structures:
@@ -112,6 +112,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 59
 ---
 
 # Pet Pattern
@@ -119,7 +120,7 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/pet-pattern/profile/pet-pattern-image.svg)
-A novelty surface pattern category using domestic animal companions — cats, dogs, rabbits, birds — as repeating decorative motifs; commercially active in gifting, stationery, accessories, home textiles, and custom merchandise.
+A novelty surface pattern category using domestic animal companions - cats, dogs, rabbits, birds - as repeating decorative motifs; commercially active in gifting, stationery, accessories, home textiles, and custom merchandise.
 
 ## Overview
 
@@ -129,7 +130,7 @@ The term covers three related but distinct design approaches: illustrative repea
 
 ## Visual Characteristics
 
-Pet patterns use the visual vocabulary of domestic animal portraiture — faces, full-body silhouettes, characteristic markings, postures, and accessories. Common visual approaches:
+Pet patterns use the visual vocabulary of domestic animal portraiture - faces, full-body silhouettes, characteristic markings, postures, and accessories. Common visual approaches:
 
 - **Portrait tile:** The animal's face or head rendered as a distinct unit, tiled in a regular or half-drop repeat
 - **Silhouette scatter:** Simple outline or shadow silhouettes tossed across a coloured ground
@@ -142,7 +143,7 @@ Pet patterns use the visual vocabulary of domestic animal portraiture — faces,
 
 Pet patterns most commonly use a tossed or scattered all-over layout, with individual motif elements distributed at varied angles and scales to avoid obvious horizontal alignment. Portrait-grid arrangements (regular grid of faces) are used where a more formal or graphic result is intended.
 
-Mixed-element compositions combine multiple motif types — sitting cat, paw print, fish bone, yarn ball — to create a cohesive pet-themed collection within a single tile.
+Mixed-element compositions combine multiple motif types - sitting cat, paw print, fish bone, yarn ball - to create a cohesive pet-themed collection within a single tile.
 
 ## Common Motifs
 
@@ -167,7 +168,7 @@ Colour is typically driven by the animal depicted: warm tawny/caramel for dogs, 
 
 Animal companions have been represented in decorative arts throughout history, from Egyptian cat imagery through Victorian pet portraiture. As a distinct commercial surface pattern category, pet patterns developed alongside the growth of pet ownership as a major lifestyle segment in the 20th and 21st centuries, and more specifically alongside the growth of personalised and custom merchandise enabled by digital print-on-demand platforms.
 
-The rise of social media pet culture — pets as content, pets as personality extensions of their owners — has significantly expanded the commercial territory for pet-themed products and made personalised pet portrait patterns a commercially viable category.
+The rise of social media pet culture - pets as content, pets as personality extensions of their owners - has significantly expanded the commercial territory for pet-themed products and made personalised pet portrait patterns a commercially viable category.
 
 ## Surface Pattern Uses
 
@@ -180,11 +181,11 @@ The rise of social media pet culture — pets as content, pets as personality ex
 
 ## Related Pattern Types
 
-- [[Animal Pattern]] — parent category; pet pattern is a domesticated subset
-- [[Cat Pattern]] — major sub-category within pet pattern; significant enough for a standalone entry
-- [[Dog Pattern]] — major sub-category within pet pattern
-- [[Novelty Pattern]] — structural parent; pet patterns are novelty/conversational prints
-- [[Children's Pattern]] — strong overlap; pet motifs are commercially dominant in children's product design
+- Animal Pattern - parent category; pet pattern is a domesticated subset
+- Cat Pattern - major sub-category within pet pattern; significant enough for a standalone entry
+- Dog Pattern - major sub-category within pet pattern
+- Novelty Pattern - structural parent; pet patterns are novelty/conversational prints
+- Children's Pattern - strong overlap; pet motifs are commercially dominant in children's product design
 
 ## Source Notes
 

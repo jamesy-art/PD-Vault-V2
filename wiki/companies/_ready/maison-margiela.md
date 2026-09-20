@@ -65,6 +65,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 225
 ---
 
 # Maison Margiela
@@ -82,9 +83,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Maison Margiela (formerly Maison Martin Margiela) was founded in Paris in 1988 by Martin Margiela and business partner Jenny Meirens. Margiela had previously studied at the Royal Academy of Fine Arts in Antwerp and worked as Jean Paul Gaultier's design assistant from 1984 to 1987. The house debuted its first womenswear collection at Paris Fashion Week for Spring/Summer 1989. Margiela maintained strict personal anonymity throughout his tenure, conducting all media via fax and signing correspondence with "we." He resigned as creative director in October 2009; an anonymous design team ran the house until October 2014. John Galliano served as creative director 2014–December 2024; Glenn Martens was appointed in January 2025. OTB Group (Renzo Rosso) acquired the house in 2002. YAML parent_company "otb-group" is correct. YAML location "Italy" is incorrect — Maison Margiela is headquartered in Paris; YAML preserved as found.
+Maison Margiela (formerly Maison Martin Margiela) was founded in Paris in 1988 by Martin Margiela and business partner Jenny Meirens. Margiela had previously studied at the Royal Academy of Fine Arts in Antwerp and worked as Jean Paul Gaultier's design assistant from 1984 to 1987. The house debuted its first womenswear collection at Paris Fashion Week for Spring/Summer 1989. Margiela maintained strict personal anonymity throughout his tenure, conducting all media via fax and signing correspondence with "we." He resigned as creative director in October 2009; an anonymous design team ran the house until October 2014. John Galliano served as creative director 2014-December 2024; Glenn Martens was appointed in January 2025. OTB Group (Renzo Rosso) acquired the house in 2002. YAML parent_company "otb-group" is correct. YAML location "Italy" is incorrect - Maison Margiela is headquartered in Paris; YAML preserved as found.
 
-Deconstructivism is the house's foundational aesthetic language: exposed seams, oversized proportions, upcycled garments, linings used as outer layers. With formal allegiance to no particular fashion movement, the house has worked across Dadaist material subversion (carrier bags, coat hangers), illusionistic print (trompe-l'oeil), Surrealist reference, and artisanal couture. The white interior of the Paris HQ and the house's "blouse blanche" dress code for all employees reflect the institutional aesthetic. Under Galliano (2014–2024) the artisanal collections were the primary creative focus; under Glenn Martens (from 2025) the house continues within the OTB Group alongside Diesel, where Martens also serves as creative director.
+Deconstructivism is the house's foundational aesthetic language: exposed seams, oversized proportions, upcycled garments, linings used as outer layers. With formal allegiance to no particular fashion movement, the house has worked across Dadaist material subversion (carrier bags, coat hangers), illusionistic print (trompe-l'oeil), Surrealist reference, and artisanal couture. The white interior of the Paris HQ and the house's "blouse blanche" dress code for all employees reflect the institutional aesthetic. Under Galliano (2014-2024) the artisanal collections were the primary creative focus; under Glenn Martens (from 2025) the house continues within the OTB Group alongside Diesel, where Martens also serves as creative director.
 
 ## History
 
@@ -92,7 +93,7 @@ Maison Margiela. Paris HQ: 18th-century convent, 11th arrondissement (since Dece
 
 ## Products
 
-Product lines identified by numbers 0–23 (system introduced 1997):
+Product lines identified by numbers 0-23 (system introduced 1997):
 - 0: Artisanal garments
 - 1: Women's Collection (from 1988)
 - 3: Fragrances (from 2010)
@@ -110,24 +111,24 @@ Tabi boot: split-toe interpretation of Japanese tabi sock; first shown 1989, int
 
 ## Services
 
-YAML parent_company "otb-group" is correct — OTB Group (Renzo Rosso) acquired Maison Margiela in 2002. YAML location "Italy" is incorrect — Maison Margiela is headquartered in Paris; YAML preserved as found. MM6 diffusion line (from 1997) showing at Milan Fashion Week as of 2023. Fragrance licensing with L'Oréal (first fragrance 2009); Replica fragrance collection extended 2024 with vegetable garden notes. Swarovski jewelry collaboration 2013. Converse shoe collaboration 2013. Mackintosh trench coat collaboration (spring 2018 men's). H&M capsule 2012.
+YAML parent_company "otb-group" is correct - OTB Group (Renzo Rosso) acquired Maison Margiela in 2002. YAML location "Italy" is incorrect - Maison Margiela is headquartered in Paris; YAML preserved as found. MM6 diffusion line (from 1997) showing at Milan Fashion Week as of 2023. Fragrance licensing with L'Oréal (first fragrance 2009); Replica fragrance collection extended 2024 with vegetable garden notes. Swarovski jewelry collaboration 2013. Converse shoe collaboration 2013. Mackintosh trench coat collaboration (spring 2018 men's). H&M capsule 2012.
 
 ## Markets
 
-Maison Margiela operates in luxury ready-to-wear and artisanal haute couture-inspired collections, with the artisanal line informing the ready-to-wear. The MM6 diffusion line (launched 1997) addresses the contemporary fashion market. The house served as creative director for Hermès womenswear 1997–2003. By 2014 revenues stood at approximately $126M annually with around 50 directly owned stores; by end 2015 revenues were up 30% under Galliano. The brand launched an H&M capsule in 2012 (largely archival reissues). Miley Cyrus starred in the Fall 2025 campaign — the brand's first celebrity endorser.
+Maison Margiela operates in luxury ready-to-wear and artisanal haute couture-inspired collections, with the artisanal line informing the ready-to-wear. The MM6 diffusion line (launched 1997) addresses the contemporary fashion market. The house served as creative director for Hermès womenswear 1997-2003. By 2014 revenues stood at approximately $126M annually with around 50 directly owned stores; by end 2015 revenues were up 30% under Galliano. The brand launched an H&M capsule in 2012 (largely archival reissues). Miley Cyrus starred in the Fall 2025 campaign - the brand's first celebrity endorser.
 
 ## Pattern and Surface Design Relevance
 
 Maison Margiela's surface design language is defined by deconstruction, material subversion, and unconventional print application:
 
-- **Trompe-l'oeil print**: Jersey dresses with trompe-l'oeil prints depicting evening gowns (SS1996 and 2012 collaboration reissue) — one of the house's most documented print-based surface treatments, applying photographic or illusionistic imagery directly to knit fabric
-- **Upholstery fabrics as fashion surface**: 1970s upholstery fabrics used for trouser suits — direct reference to domestic surface design repositioned as womenswear textile
+- **Trompe-l'oeil print**: Jersey dresses with trompe-l'oeil prints depicting evening gowns (SS1996 and 2012 collaboration reissue) - one of the house's most documented print-based surface treatments, applying photographic or illusionistic imagery directly to knit fabric
+- **Upholstery fabrics as fashion surface**: 1970s upholstery fabrics used for trouser suits - direct reference to domestic surface design repositioned as womenswear textile
 - **Plastic carrier bags and wire coat hangers**: Garments fabricated from everyday non-fashion materials, subverting conventional surface expectations
-- **Panther-skin effect dress (Jean Paul Gaultier winter 1998; via Lesage collaboration)**: Embroidered tube gradients replicating animal print — documented surface pattern technique
-- **Colored ice jewelry**: Jewelry made of colored ice such that clothes are dyed as the jewelry melts — an ephemeral surface coloration process
-- **Artisanal couture (SS2024 under Galliano)**: Inspired by Brassaï's photography of nocturnal Paris; featured corsetry, heavy beadwork, and 1930s-inspired silhouettes — beadwork and surface embellishment as core couture surface technique
-- **Replica line (from 1994)**: "Complete reproductions" of archival garments — reproduction as surface fidelity exercise
-- **Galliano's Pat McGrath collaboration (SS2024)**: Moonlit porcelain doll makeup developed into a cosmetic line — branded surface design extending from runway to retail product
+- **Panther-skin effect dress (Jean Paul Gaultier winter 1998; via Lesage collaboration)**: Embroidered tube gradients replicating animal print - documented surface pattern technique
+- **Colored ice jewelry**: Jewelry made of colored ice such that clothes are dyed as the jewelry melts - an ephemeral surface coloration process
+- **Artisanal couture (SS2024 under Galliano)**: Inspired by Brassaï's photography of nocturnal Paris; featured corsetry, heavy beadwork, and 1930s-inspired silhouettes - beadwork and surface embellishment as core couture surface technique
+- **Replica line (from 1994)**: "Complete reproductions" of archival garments - reproduction as surface fidelity exercise
+- **Galliano's Pat McGrath collaboration (SS2024)**: Moonlit porcelain doll makeup developed into a cosmetic line - branded surface design extending from runway to retail product
 
 ## Official Resources
 

@@ -69,6 +69,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 134
 ---
 
 # Hunkemöller
@@ -92,11 +93,11 @@ No in-house design direction is documented in the source material. The fast fash
 
 ## History
 
-Founded 1886 in Amsterdam. Ownership timeline: Maxeda (parent) → PAI Partners (end 2010) → The Carlyle Group (early 2016) → Dutch ownership (2022, Carlyle retained minority). In 2022, the German consumer advocate Verbraucherzentrale Rheinland-Pfalz filed a lawsuit against Hunkemöller alleging misleading advertising — specifically, that the brand claimed products were sustainable when they had not been produced with sustainable materials. This greenwashing allegation is the primary documented controversy in the source material.
+Founded 1886 in Amsterdam. Ownership timeline: Maxeda (parent) → PAI Partners (end 2010) → The Carlyle Group (early 2016) → Dutch ownership (2022, Carlyle retained minority). In 2022, the German consumer advocate Verbraucherzentrale Rheinland-Pfalz filed a lawsuit against Hunkemöller alleging misleading advertising - specifically, that the brand claimed products were sustainable when they had not been produced with sustainable materials. This greenwashing allegation is the primary documented controversy in the source material.
 
 ## Products
 
-Affordable lingerie and related products. As a lingerie specialist, the product range would typically span bras, underwear, nightwear, swimwear, and lounge-wear — categories where fabric print, lace pattern, and surface design are central to product differentiation. The source material does not detail specific product lines or pattern categories.
+Affordable lingerie and related products. As a lingerie specialist, the product range would typically span bras, underwear, nightwear, swimwear, and lounge-wear - categories where fabric print, lace pattern, and surface design are central to product differentiation. The source material does not detail specific product lines or pattern categories.
 
 ## Services
 

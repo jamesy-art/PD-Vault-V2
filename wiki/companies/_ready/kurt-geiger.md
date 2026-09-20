@@ -67,6 +67,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 185
 ---
 
 # Kurt Geiger
@@ -108,7 +109,7 @@ Luxury British footwear and accessories brand positioned at the upper end of the
 
 ## Pattern and Surface Design Relevance
 
-Footwear and accessories are product categories where surface design is applied to upper materials, linings, and bag textiles. Kurt Geiger's positioning in luxury department store concessions — Harrods and Selfridges — implies a seasonal design language with material surface treatments, colourway stories, and print or embellishment details appropriate to those retail contexts. The three-brand architecture (Kurt Geiger London, KG Kurt Geiger, Carvela) creates three distinct design registers under one ownership, each requiring its own seasonal surface design programme.
+Footwear and accessories are product categories where surface design is applied to upper materials, linings, and bag textiles. Kurt Geiger's positioning in luxury department store concessions - Harrods and Selfridges - implies a seasonal design language with material surface treatments, colourway stories, and print or embellishment details appropriate to those retail contexts. The three-brand architecture (Kurt Geiger London, KG Kurt Geiger, Carvela) creates three distinct design registers under one ownership, each requiring its own seasonal surface design programme.
 
 The source material does not document specific print programmes, textile collaborations, or named surface pattern directions. SPD relevance is implied by category, channel, and positioning.
 

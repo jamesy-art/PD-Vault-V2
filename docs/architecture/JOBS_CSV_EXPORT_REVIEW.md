@@ -221,7 +221,7 @@ No parallel Vault-only taxonomy invented on the export path. Admin CSV Title-Cas
 
 - Do not invent a second Jobs CSV schema for Vault.  
 - Do not put Company binaries into `jobs.csv`.  
-- Do not auto-create Companies inside `JobsImporter`.  
+- Missing job employers create hidden imported Company stubs (`source=imported`, `is_active=false`); blank/invalid slugs still fail closed.  
 - Do not merge Admin CSV and Vault CSV contracts.  
 - Do not move Publication into Export.
 

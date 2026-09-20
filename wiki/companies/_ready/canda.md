@@ -83,6 +83,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 14
 ---
 
 # C&A
@@ -102,9 +103,9 @@ enrichment_status: enriched
 
 ## Overview
 
-C&A is a European fast-fashion retailer specialising in casual wear, founded in 1841 in Sneek, Netherlands, by brothers Clemens (1818–1902) and August (1819–1892) Brenninkmeijer. The name derives from their initials. The founding family had traded in linen and textiles since the 17th century from Mettingen, Germany — making C&A one of Europe's longest-running textile-to-fashion retail lineages. The company is owned by the Brenninkmeijer family through Cofra Holding, organised in Switzerland. As of mid-2025, C&A operates approximately 1,690 stores across Europe (approximately 1,250), Brazil (330), Mexico (89, via licensee Grupo Alfar from June 2023), and China (23, franchised via Zhongke Tongrong since August 2020). C&A sells under multiple own labels including Angelo Litrico, Clockhouse, Yessica, Palomino, and Here+There.
+C&A is a European fast-fashion retailer specialising in casual wear, founded in 1841 in Sneek, Netherlands, by brothers Clemens (1818-1902) and August (1819-1892) Brenninkmeijer. The name derives from their initials. The founding family had traded in linen and textiles since the 17th century from Mettingen, Germany - making C&A one of Europe's longest-running textile-to-fashion retail lineages. The company is owned by the Brenninkmeijer family through Cofra Holding, organised in Switzerland. As of mid-2025, C&A operates approximately 1,690 stores across Europe (approximately 1,250), Brazil (330), Mexico (89, via licensee Grupo Alfar from June 2023), and China (23, franchised via Zhongke Tongrong since August 2020). C&A sells under multiple own labels including Angelo Litrico, Clockhouse, Yessica, Palomino, and Here+There.
 
-C&A's design is governed by its value-tier fast-fashion positioning — trend-responsive, accessible, and multi-label to cover different customer demographics. The Canda International formalwear sub-brand was closed in March 2022, signalling a retreat from occasion wear in favour of its casualwear core. The 2022 Amazon Fashion launch reflects a broader shift toward digital channels. No specific creative director, design studio, or print design leadership is documented in the source.
+C&A's design is governed by its value-tier fast-fashion positioning - trend-responsive, accessible, and multi-label to cover different customer demographics. The Canda International formalwear sub-brand was closed in March 2022, signalling a retreat from occasion wear in favour of its casualwear core. The 2022 Amazon Fashion launch reflects a broader shift toward digital channels. No specific creative director, design studio, or print design leadership is documented in the source.
 
 ## History
 
@@ -119,10 +120,10 @@ C&A's design is governed by its value-tier fast-fashion positioning — trend-re
 
 ## Products
 
-- **Casual wear** — the core focus; men's, women's, and children's fashion
-- **Own label range** — multiple sub-brands covering different customer segments: Angelo Litrico (menswear), Yessica (women's), Clockhouse (younger fashion), Palomino (children's), Here+There (children's), Westbury (men's formalwear heritage), and others
-- **Canda International** — formalwear sub-brand; closed March 2022 (COVID impact on occasion wear)
-- **Online** — international e-commerce; launched on Amazon Fashion (June 2022)
+- **Casual wear** - the core focus; men's, women's, and children's fashion
+- **Own label range** - multiple sub-brands covering different customer segments: Angelo Litrico (menswear), Yessica (women's), Clockhouse (younger fashion), Palomino (children's), Here+There (children's), Westbury (men's formalwear heritage), and others
+- **Canda International** - formalwear sub-brand; closed March 2022 (COVID impact on occasion wear)
+- **Online** - international e-commerce; launched on Amazon Fashion (June 2022)
 
 The brand transitioned from a textile-focused retailer to a full fast-fashion department store format over the 20th century.
 
@@ -132,11 +133,11 @@ C&A's European stores are company-operated; Brazil operates through the listed C
 
 ## Markets
 
-C&A operates in the value-to-accessible fast-fashion tier, competing with H&M, Primark, and Zara in its core European markets. Its strongest market is Germany (381 stores), where the brand is well established. Significant store rationalisation has taken place since 2017: UK exit (2000–2001; 109 stores closed), Spain restructurings (23 stores closed January 2017; 5 more June 2023; reduction from 80 to 73 stores by mid-2025), France closures (30 in January 2020; 24 stores plus 57 shop-in-shops announced March 2025), and closure of 70 stores across Europe in 2021–2022. In the UK, C&A traded as "C&A Modes" from 1922 until exit in 2001 — six stores were acquired by Primark on closure. The brand's cultural profile in the UK (The Specials' 1980 song "Man at C&A"; Only Fools and Horses reference) reflects its historical high-street positioning.
+C&A operates in the value-to-accessible fast-fashion tier, competing with H&M, Primark, and Zara in its core European markets. Its strongest market is Germany (381 stores), where the brand is well established. Significant store rationalisation has taken place since 2017: UK exit (2000-2001; 109 stores closed), Spain restructurings (23 stores closed January 2017; 5 more June 2023; reduction from 80 to 73 stores by mid-2025), France closures (30 in January 2020; 24 stores plus 57 shop-in-shops announced March 2025), and closure of 70 stores across Europe in 2021-2022. In the UK, C&A traded as "C&A Modes" from 1922 until exit in 2001 - six stores were acquired by Primark on closure. The brand's cultural profile in the UK (The Specials' 1980 song "Man at C&A"; Only Fools and Horses reference) reflects its historical high-street positioning.
 
 ## Pattern and Surface Design Relevance
 
-C&A's volume-driven fast-fashion model requires continuous seasonal print and pattern design output across all its own-label categories. As a retailer producing under multiple own labels at scale (~1,690 stores across 20 markets), C&A represents a significant employer context for surface pattern designers — particularly in women's and children's fashion, where print design plays a central role. The brand's multi-label structure (Yessica, Clockhouse, Palomino, Here+There, etc.) implies distinct design identities and print cadences per sub-brand. The Beyoncé House of Deréon clothing line cooperation (summer 2010) indicates prior willingness to engage celebrity collaborations with a print and pattern design component. The founding family's 17th-century linen and textile trading origins represent an original textile heritage that predates the retail operation by centuries.
+C&A's volume-driven fast-fashion model requires continuous seasonal print and pattern design output across all its own-label categories. As a retailer producing under multiple own labels at scale (~1,690 stores across 20 markets), C&A represents a significant employer context for surface pattern designers - particularly in women's and children's fashion, where print design plays a central role. The brand's multi-label structure (Yessica, Clockhouse, Palomino, Here+There, etc.) implies distinct design identities and print cadences per sub-brand. The Beyoncé House of Deréon clothing line cooperation (summer 2010) indicates prior willingness to engage celebrity collaborations with a print and pattern design component. The founding family's 17th-century linen and textile trading origins represent an original textile heritage that predates the retail operation by centuries.
 
 ## Official Resources
 

@@ -23,6 +23,7 @@ images:
 logo_type: wordmark
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 65
 ---
 
 # IC Group
@@ -50,30 +51,30 @@ IC Companys' constituent businesses trace to the 1940s (Carli Gry International)
 - Tiger of Sweden: acquired 2003; retained
 - Soaked in Luxury / O by Isabell Kristensen: established 2002; sold to DK Company (2014)
 
-The 2013–2019 disposal programme reduced the group from 10+ brands to three, concentrating around premium and luxury Scandinavian positioning.
+The 2013-2019 disposal programme reduced the group from 10+ brands to three, concentrating around premium and luxury Scandinavian positioning.
 
 ## Products
 
-- **By Malene Birger** — luxury women's fashion; dresses, tailoring, outerwear, accessories
-- **Tiger of Sweden** — Scandinavian tailoring and contemporary fashion; menswear and womenswear
-- **Designers Remix** — contemporary luxury womenswear; known for bold cuts and statement design
+- **By Malene Birger** - luxury women's fashion; dresses, tailoring, outerwear, accessories
+- **Tiger of Sweden** - Scandinavian tailoring and contemporary fashion; menswear and womenswear
+- **Designers Remix** - contemporary luxury womenswear; known for bold cuts and statement design
 
 ## Services
 
-IC Group operates through owned retail, wholesale to department stores, and online channels. The Scandinavian premium market is the home territory for all three brands; By Malene Birger and Tiger of Sweden have international wholesale distribution. No licensing arrangements are documented in the available source. The company was taken private by Friheden Invest A/S in May 2019 — no further public financial disclosures are available from source.
+IC Group operates through owned retail, wholesale to department stores, and online channels. The Scandinavian premium market is the home territory for all three brands; By Malene Birger and Tiger of Sweden have international wholesale distribution. No licensing arrangements are documented in the available source. The company was taken private by Friheden Invest A/S in May 2019 - no further public financial disclosures are available from source.
 
 ## Markets
 
-IC Group operates at the premium-to-luxury end of Scandinavian fashion. By Malene Birger is the group's highest-profile brand internationally, recognised for refined minimalist womenswear. Tiger of Sweden has a dual identity — heritage Swedish tailoring and contemporary outerwear. Designers Remix (founded by Charlotte Eskildsen) occupies a contemporary luxury positioning. Following the 2019 privatisation, IC Group operates without public market reporting requirements, and recent financial data is not available in the source. DK Company (which acquired InWear, Matinique, Part Two, and Soaked in Luxury) is the closest comparable group in the Danish market.
+IC Group operates at the premium-to-luxury end of Scandinavian fashion. By Malene Birger is the group's highest-profile brand internationally, recognised for refined minimalist womenswear. Tiger of Sweden has a dual identity - heritage Swedish tailoring and contemporary outerwear. Designers Remix (founded by Charlotte Eskildsen) occupies a contemporary luxury positioning. Following the 2019 privatisation, IC Group operates without public market reporting requirements, and recent financial data is not available in the source. DK Company (which acquired InWear, Matinique, Part Two, and Soaked in Luxury) is the closest comparable group in the Danish market.
 
 ## Pattern and Surface Design Relevance
 
 IC Group's three retained brands each have meaningful surface pattern and textile design dimensions.
 
-**By Malene Birger** is known for refined, detail-oriented womenswear where fabric surface, texture, and subtle pattern work are central to the brand's aesthetic — tone-on-tone textures, fine weaves, and occasional print direction form part of seasonal collections.
+**By Malene Birger** is known for refined, detail-oriented womenswear where fabric surface, texture, and subtle pattern work are central to the brand's aesthetic - tone-on-tone textures, fine weaves, and occasional print direction form part of seasonal collections.
 
-**Designers Remix** (Charlotte Eskildsen) operates with a more directional fashion sensibility, where bold graphic and print elements are used alongside sculptural construction — surface pattern is a seasonal tool in the brand's design vocabulary.
+**Designers Remix** (Charlotte Eskildsen) operates with a more directional fashion sensibility, where bold graphic and print elements are used alongside sculptural construction - surface pattern is a seasonal tool in the brand's design vocabulary.
 
-**Tiger of Sweden** draws on Scandinavian textile traditions — clean lines, heritage wool constructions, and structured surface treatments — where fabric selection and surface quality are central to the brand proposition.
+**Tiger of Sweden** draws on Scandinavian textile traditions - clean lines, heritage wool constructions, and structured surface treatments - where fabric selection and surface quality are central to the brand proposition.
 
 The former IC Companys portfolio (InWear, Jackpot, Part Two, Soaked in Luxury) also represented significant surface pattern usage in accessible women's fashion, but these brands are no longer part of the group.

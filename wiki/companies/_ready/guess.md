@@ -90,6 +90,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 122
 ---
 
 # Guess
@@ -123,11 +124,11 @@ Denim jeans and clothing (core), licensed accessories (watches, eyewear, jewelle
 
 ## Services
 
-Most stores concentrated in the USA and Canada. Franchise and licensing partners extend the brand internationally — the Israel/Palestine section of the source documents the Delta Galil Industries franchise partnership in the Middle East. Accessories licensing across watches, eyewear, fragrances, bags, and shoes is a core revenue stream, with licensees applying the Guess brand identity across their respective product categories. Post-privatisation under Authentic Brands Group, the brand's IP management and licensing is expected to be further formalised within ABG's portfolio model.
+Most stores concentrated in the USA and Canada. Franchise and licensing partners extend the brand internationally - the Israel/Palestine section of the source documents the Delta Galil Industries franchise partnership in the Middle East. Accessories licensing across watches, eyewear, fragrances, bags, and shoes is a core revenue stream, with licensees applying the Guess brand identity across their respective product categories. Post-privatisation under Authentic Brands Group, the brand's IP management and licensing is expected to be further formalised within ABG's portfolio model.
 
 ## Markets
 
-American mid-to-upper fashion brand with a strong accessories licensing business and global retail network concentrated in the USA and Canada. The brand is recognised for its advertising aesthetic as much as its product — the black-and-white photographic campaign style became a brand signature competitive with European luxury imagery. The Marciano sub-brand targets a more upscale female positioning.
+American mid-to-upper fashion brand with a strong accessories licensing business and global retail network concentrated in the USA and Canada. The brand is recognised for its advertising aesthetic as much as its product - the black-and-white photographic campaign style became a brand signature competitive with European luxury imagery. The Marciano sub-brand targets a more upscale female positioning.
 
 ## Pattern and Surface Design Relevance
 
@@ -135,7 +136,7 @@ Guess has several documented connections to surface pattern and graphic design:
 
 **Brand graphic identity**: The interlocking G motif used on footwear was the subject of a 2009 trademark infringement case brought by Gucci, which was awarded $4.7 million in damages (2012) for the mark's resemblance to Gucci's double-G logo. This case illustrates the commercial and legal weight of brand graphic identity in the accessories sector.
 
-**Street art and graffiti graphics**: In 2022, Banksy publicly accused Guess of using his artwork without permission on a clothing collection — the company stated it was produced through Brandalised, a licensing entity for graffiti artists. In 2024, a lawsuit was filed in California's Central District by street artists Sean Griffin ("Nekst") and Robin Ronn ("Bates"), alleging Guess used their graffiti tags on a "graffiti inspired" clothing line without authorisation. These cases indicate Guess actively incorporates street art and graffiti-derived surface graphics into apparel — a documented design direction with IP risks.
+**Street art and graffiti graphics**: In 2022, Banksy publicly accused Guess of using his artwork without permission on a clothing collection - the company stated it was produced through Brandalised, a licensing entity for graffiti artists. In 2024, a lawsuit was filed in California's Central District by street artists Sean Griffin ("Nekst") and Robin Ronn ("Bates"), alleging Guess used their graffiti tags on a "graffiti inspired" clothing line without authorisation. These cases indicate Guess actively incorporates street art and graffiti-derived surface graphics into apparel - a documented design direction with IP risks.
 
 **Advertising as visual identity**: The black-and-white photographic campaign launched in 1985 is a form of graphic brand design that has carried the brand's aesthetic identity across decades. The campaign earned multiple design awards and shaped the visual language of aspirational denim advertising.
 

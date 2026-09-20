@@ -102,8 +102,8 @@ Editorial company name (FM company)
 
 | Failure mode | Import behaviour |
 |--------------|------------------|
-| Empty `company_slug` | Map fails / skip; validate warns |
-| Slug not in Laravel | Validation **error** (fail closed) |
+| Empty `company_slug` | Validation **error** (fail closed) |
+| Slug not in Laravel | Create hidden imported placeholder, then attach job |
 | Label-only match | Not supported — slug required |
 
 ---

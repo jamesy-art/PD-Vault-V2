@@ -113,6 +113,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 128
 ---
 
 # Lemon Pattern
@@ -120,11 +121,11 @@ gallery_images:
 ## Profile Image
 
 ![pd-profile|160](../../assets/types/lemon-pattern/profile/lemon-pattern-image.svg)
-A surface pattern using lemon and citrus fruit motifs — whole fruit, sliced sections, rind, blossom, and foliage — associated with Mediterranean aesthetics and commercially active across fashion, wallpaper, homeware, and ceramics.
+A surface pattern using lemon and citrus fruit motifs - whole fruit, sliced sections, rind, blossom, and foliage - associated with Mediterranean aesthetics and commercially active across fashion, wallpaper, homeware, and ceramics.
 
 ## Overview
 
-Lemon patterns draw from a well-established decorative tradition connecting citrus imagery with Italian and Mediterranean coastal culture. The motif combines immediate visual appeal — the saturated yellow of ripe lemons against deep green foliage — with strong lifestyle associations: Sorrento, the Amalfi Coast, outdoor dining, and warm climate leisure. The lemon pattern is one of the most commercially durable fruit motifs in surface design, present across product categories from luxury fashion to mass-market homeware.
+Lemon patterns draw from a well-established decorative tradition connecting citrus imagery with Italian and Mediterranean coastal culture. The motif combines immediate visual appeal - the saturated yellow of ripe lemons against deep green foliage - with strong lifestyle associations: Sorrento, the Amalfi Coast, outdoor dining, and warm climate leisure. The lemon pattern is one of the most commercially durable fruit motifs in surface design, present across product categories from luxury fashion to mass-market homeware.
 
 Citrus patterns (lemons, oranges, pomegranates) are periodically identified as interior trend drivers. A 2023 trend report cited in Livingetc noted citrus motifs undergoing contemporary re-interpretation in a "Mediterranean-inspired" direction linked to Italian Maximalism and a shift away from simpler florals.
 
@@ -134,7 +135,7 @@ Lemon patterns are characterised by:
 
 - **High contrast colour:** Saturated yellow against deep glossy green; occasional use of cream, white, and terracotta for Mediterranean palette coordination
 - **Mixed element compositions:** Whole lemons, halved or sliced sections, curled rind, blossoms, and lush leaves; the variety of forms provides visual interest within a single motif vocabulary
-- **Botanical detail:** The most enduring commercial versions reference botanical illustration traditions — precise vein detail in leaves, seed sections in fruit, pith and rind in cross-sections
+- **Botanical detail:** The most enduring commercial versions reference botanical illustration traditions - precise vein detail in leaves, seed sections in fruit, pith and rind in cross-sections
 - **Naturalistic scale:** Fruit and leaves at realistic or near-realistic scale; the design reads as a garden or orchard fragment
 
 ## Pattern Structure
@@ -161,15 +162,15 @@ Style range spans hyperrealistic watercolour to flat geometric to vintage botani
 
 Core palette: lemon yellow, leaf green, white/cream, warm terracotta. Secondary palette connections: cobalt blue (for Amalfi/Sorrento ceramics tile reference), navy, sage, dusty olive.
 
-Style range: botanical realism (watercolour, gouache), flat graphic (vector fills, Matisse-influenced flat colour), vintage/retro (stipple illustration, 1950s–1970s summer aesthetic), contemporary maximalist (dense arrangements, high saturation, pattern-drenching applications).
+Style range: botanical realism (watercolour, gouache), flat graphic (vector fills, Matisse-influenced flat colour), vintage/retro (stipple illustration, 1950s-1970s summer aesthetic), contemporary maximalist (dense arrangements, high saturation, pattern-drenching applications).
 
 The Schumacher/Josef Frank Citrus Garden design is cited as a mid-century reference; Cole & Son x Fornasetti collaborations as a contemporary luxury example.
 
 ## History and Context
 
-Lemons and oranges have been used in Italian decorative arts for centuries — appearing in Majolica ceramics, frescoes, and textile traditions from the Renaissance onwards. The fruit's association with wealth (citrus was historically expensive and exotic in Northern Europe) contributed to its decorative use as a status symbol.
+Lemons and oranges have been used in Italian decorative arts for centuries - appearing in Majolica ceramics, frescoes, and textile traditions from the Renaissance onwards. The fruit's association with wealth (citrus was historically expensive and exotic in Northern Europe) contributed to its decorative use as a status symbol.
 
-In 20th-century fashion, lemon prints are particularly associated with Italian summer fashion — Dolce & Gabbana have produced well-documented lemon print collections. The contemporary citrus trend (2023 onwards) represents a continuation of this tradition in a maximalist, Mediterranean Maximalist framing, partly driven by cultural references to Italian coastal settings in popular media.
+In 20th-century fashion, lemon prints are particularly associated with Italian summer fashion - Dolce & Gabbana have produced well-documented lemon print collections. The contemporary citrus trend (2023 onwards) represents a continuation of this tradition in a maximalist, Mediterranean Maximalist framing, partly driven by cultural references to Italian coastal settings in popular media.
 
 ## Surface Pattern Uses
 
@@ -182,11 +183,11 @@ In 20th-century fashion, lemon prints are particularly associated with Italian s
 
 ## Related Pattern Types
 
-- [[Fruit Pattern]] — parent category; lemon pattern is a specific subset
-- [[Botanical Pattern]] — overlap when rendered in botanical illustration style
-- [[Mediterranean Pattern]] — strong aesthetic connection; shared palette and lifestyle associations
-- [[Citrus Pattern]] — near-synonym; extends to include orange, lime, and pomegranate alongside lemon
-- [[Floral Pattern]] — overlap when blossom elements are prominent
+- Fruit Pattern - parent category; lemon pattern is a specific subset
+- Botanical Pattern - overlap when rendered in botanical illustration style
+- Mediterranean Pattern - strong aesthetic connection; shared palette and lifestyle associations
+- Citrus Pattern - near-synonym; extends to include orange, lime, and pomegranate alongside lemon
+- Floral Pattern - overlap when blossom elements are prominent
 
 ## Source Notes
 

@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 48
 ---
 
 # Bee Pattern
@@ -122,7 +123,7 @@ Surface pattern using bee motifs and honeycomb geometry. Covers both figurative 
 
 ## Overview
 
-Bee patterns span two distinct visual registers: the figurative bee motif (stylized or detailed insects) and the structural honeycomb grid (hexagonal geometry abstracted from comb construction). Both forms are commercially active, often combined in the same repeat. The bee carries strong symbolic associations — community, hard work, nature, sustainability — that give the pattern appeal for eco-positioned brands and artisan lifestyle markets.
+Bee patterns span two distinct visual registers: the figurative bee motif (stylized or detailed insects) and the structural honeycomb grid (hexagonal geometry abstracted from comb construction). Both forms are commercially active, often combined in the same repeat. The bee carries strong symbolic associations - community, hard work, nature, sustainability - that give the pattern appeal for eco-positioned brands and artisan lifestyle markets.
 
 ## Visual Characteristics
 
@@ -146,7 +147,7 @@ Classic palette: amber yellow, black, and white. Softer interpretations use must
 
 ## History and Context
 
-The hexagonal honeycomb is formed when bees build cylindrical wax tubes that naturally coalesce into hexagons — the most space-efficient tessellation for equal-area cells. This geometric property made the honeycomb a recurring form in design and architecture. Bee and honeycomb motifs carry long associations with decorative craft traditions — beeswax, honey pottery, embroidery. In contemporary surface pattern design, the bee motif carries sustainability and artisan connotations.
+The hexagonal honeycomb is formed when bees build cylindrical wax tubes that naturally coalesce into hexagons - the most space-efficient tessellation for equal-area cells. This geometric property made the honeycomb a recurring form in design and architecture. Bee and honeycomb motifs carry long associations with decorative craft traditions - beeswax, honey pottery, embroidery. In contemporary surface pattern design, the bee motif carries sustainability and artisan connotations.
 
 ## Surface Pattern Uses
 
@@ -158,13 +159,13 @@ The hexagonal honeycomb is formed when bees build cylindrical wax tubes that nat
 
 ## Related Pattern Types
 
-- [[Honeycomb Pattern]]
-- [[Hexagonal Pattern]]
-- [[Geometric Pattern]]
+- Honeycomb Pattern
+- Hexagonal Pattern
+- Geometric Pattern
 
 ## Source Notes
 
-Source: Bee Pattern.md — beekeeping biology sections retained only for structural design relevance; non-design sections excluded
+Source: Bee Pattern.md - beekeeping biology sections retained only for structural design relevance; non-design sections excluded
 
 ## Editorial Images
 

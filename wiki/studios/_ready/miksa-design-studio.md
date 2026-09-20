@@ -41,6 +41,7 @@ equipment:
   tech: []
   software_equipment_ids: []
   ecommerce_equipment_ids: []
+marketing_order: 564
 ---
 # MIKSA Design Studio
 
@@ -69,7 +70,7 @@ MIKSA Design Studio produces hand-painted florals, textures, and geometrics for 
 
 ## Studio Style and Aesthetic
 
-Selected patterns are consistently hand-painted florals — bold peony/rose brushwork in saturated pink and red, a graphic black-and-white floral silhouette, loose tropical-toned floral studies, and softer multi-tone watercolor florals in green, pink, and purple. One selection has been digitally recolored to a high-contrast neon-on-black palette, showing the same artwork adapted for a bolder colorway. The overall style is organic, painterly, and feminine with a romantic touch, matching the studio's own description.
+Selected patterns are consistently hand-painted florals - bold peony/rose brushwork in saturated pink and red, a graphic black-and-white floral silhouette, loose tropical-toned floral studies, and softer multi-tone watercolor florals in green, pink, and purple. One selection has been digitally recolored to a high-contrast neon-on-black palette, showing the same artwork adapted for a bolder colorway. The overall style is organic, painterly, and feminine with a romantic touch, matching the studio's own description.
 
 ## Markets and Specialties
 
@@ -77,7 +78,7 @@ Selected patterns are consistently hand-painted florals — bold peony/rose brus
 
 ## Techniques and Artwork Process
 
-Hand-painted using mixed media (visible brush and wash textures across the selected patterns), with at least one piece subsequently digitally recolored — consistent with the studio's own description of experimenting with different media and techniques.
+Hand-painted using mixed media (visible brush and wash textures across the selected patterns), with at least one piece subsequently digitally recolored - consistent with the studio's own description of experimenting with different media and techniques.
 
 ## Clients and Commercial Positioning
 

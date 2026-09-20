@@ -64,6 +64,7 @@ images:
         url: null
 updated: '2026-08-02'
 enrichment_status: enriched
+marketing_order: 240
 ---
 
 # Diane von Fürstenberg
@@ -81,9 +82,9 @@ enrichment_status: enriched
 
 ## Overview
 
-Diane von Fürstenberg (born Diane Halfin, Brussels, 1946) is a Belgian fashion designer whose eponymous company, Diane von Furstenberg (DvF), is available in over 70 countries with 45 free-standing stores worldwide. Headquarters and flagship store are located in Manhattan's Meatpacking District. The DVF brand is best known for the knitted jersey wrap dress — introduced in 1974 — and for a body of signature textile prints that have defined the brand's commercial identity across multiple decades and relaunches.
+Diane von Fürstenberg (born Diane Halfin, Brussels, 1946) is a Belgian fashion designer whose eponymous company, Diane von Furstenberg (DvF), is available in over 70 countries with 45 free-standing stores worldwide. Headquarters and flagship store are located in Manhattan's Meatpacking District. The DVF brand is best known for the knitted jersey wrap dress - introduced in 1974 - and for a body of signature textile prints that have defined the brand's commercial identity across multiple decades and relaunches.
 
-The brand's design logic is print-first, with the jersey wrap dress as the canonical format. Print style across the brand's history spans abstract painterly motifs, graphic chainlink and geometric patterns, flowing botanical forms, and art-inspired textile designs. The core design offering — a versatile, flattering silhouette in a boldly printed jersey — targets professional womenswear at a premium price point.
+The brand's design logic is print-first, with the jersey wrap dress as the canonical format. Print style across the brand's history spans abstract painterly motifs, graphic chainlink and geometric patterns, flowing botanical forms, and art-inspired textile designs. The core design offering - a versatile, flattering silhouette in a boldly printed jersey - targets professional womenswear at a premium price point.
 
 ## History
 
@@ -111,7 +112,7 @@ DVF distributes through its own retail boutiques, department store wholesale acc
 
 ## Markets
 
-DVF occupies a premium womenswear position in the US market, with its wrap dress as both a commercial staple and a cultural signifier. The brand's print identity — silk jersey prints in graphic, painterly, and abstract styles — is its primary design differentiator. The wrap dress format is a specific vehicle for print: the silhouette's construction showcases print across the full garment surface with minimal seaming interruption.
+DVF occupies a premium womenswear position in the US market, with its wrap dress as both a commercial staple and a cultural signifier. The brand's print identity - silk jersey prints in graphic, painterly, and abstract styles - is its primary design differentiator. The wrap dress format is a specific vehicle for print: the silhouette's construction showcases print across the full garment surface with minimal seaming interruption.
 
 The brand's cultural authority peaked in the 1970s and was partially rebuilt in the 2000s, but the significant US store closure programme in 2020 indicates a substantially reduced physical retail footprint. The brand retains international distribution and e-commerce presence.
 
@@ -119,9 +120,9 @@ The brand's cultural authority peaked in the 1970s and was partially rebuilt in 
 
 Diane von Fürstenberg is among the most significant print-led fashion brands in modern American fashion. The wrap dress functions as a print-delivery mechanism: the draped construction allows pattern to read continuously and dynamically across the body. The brand's design vocabulary draws on abstract, painterly, and geometric textile prints applied to silk jersey.
 
-The "Chain Link" print is a documented signature — specifically, the "Chain Link" wrap dress was worn by Michelle Obama on the official 2009 White House Christmas card, representing a publicly visible placement of a named print design. The brand's broader print archive represents a recurring reference point for women's fashion print design.
+The "Chain Link" print is a documented signature - specifically, the "Chain Link" wrap dress was worn by Michelle Obama on the official 2009 White House Christmas card, representing a publicly visible placement of a named print design. The brand's broader print archive represents a recurring reference point for women's fashion print design.
 
-DVF banned mohair following a PETA exposé in 2018, and subsequently removed all fur, angora, and exotic skins from future collections. The brand has been the subject of a major retrospective exhibition, "Diane von Furstenberg: Journey of a Dress," which toured Moscow, São Paulo, and Beijing (2009–2011).
+DVF banned mohair following a PETA exposé in 2018, and subsequently removed all fur, angora, and exotic skins from future collections. The brand has been the subject of a major retrospective exhibition, "Diane von Furstenberg: Journey of a Dress," which toured Moscow, São Paulo, and Beijing (2009-2011).
 
 ## Official Resources
 

@@ -111,6 +111,7 @@ gallery_images:
     affiliate:
       enabled: false
       url: null
+marketing_order: 69
 ---
 
 # Apple Pattern
@@ -122,7 +123,7 @@ Repeating surface pattern built from stylized apple, leaf, and blossom motifs. U
 
 ## Overview
 
-The apple pattern is a motif-driven repeat design using apple forms alongside leaves and blossoms. It sits within the broader [[Botanical Pattern]] and fruit motif categories, adaptable from naive folk illustration to detailed watercolour rendering. The motif has domestic and seasonal associations — autumn, harvest, orchard — that anchor it in home textiles, kitchen contexts, and children's design markets.
+The apple pattern is a motif-driven repeat design using apple forms alongside leaves and blossoms. It sits within the broader Botanical Pattern and fruit motif categories, adaptable from naive folk illustration to detailed watercolour rendering. The motif has domestic and seasonal associations - autumn, harvest, orchard - that anchor it in home textiles, kitchen contexts, and children's design markets.
 
 ## Visual Characteristics
 
@@ -141,7 +142,7 @@ Typically set as an all-over tossed or grid repeat. Spot patterns place individu
 
 ## Colour and Style
 
-Palette varies with application: red and green for traditional or folksy interpretations; muted sage, rust, and cream for heritage or country aesthetics; pastel pinks and greens for children's or spring applications. Watercolour and botanical styles favour naturalistic tones — blush, warm green, soft brown.
+Palette varies with application: red and green for traditional or folksy interpretations; muted sage, rust, and cream for heritage or country aesthetics; pastel pinks and greens for children's or spring applications. Watercolour and botanical styles favour naturalistic tones - blush, warm green, soft brown.
 
 ## History and Context
 
@@ -157,13 +158,13 @@ Apple motifs have a long presence in decorative art and folk textile traditions.
 
 ## Related Pattern Types
 
-- [[Botanical Pattern]]
-- [[Floral Pattern]]
-- [[Folk Pattern]]
+- Botanical Pattern
+- Floral Pattern
+- Folk Pattern
 
 ## Source Notes
 
-Source: Apple Pattern.md (Section 1 — Visual and Surface Pattern Design — only; software architecture and Apple Inc. GUI sections excluded as out of scope)
+Source: Apple Pattern.md (Section 1 - Visual and Surface Pattern Design - only; software architecture and Apple Inc. GUI sections excluded as out of scope)
 
 ## Editorial Images
 
